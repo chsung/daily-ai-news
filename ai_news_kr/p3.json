@@ -1,6 +1,36 @@
 {
-    "last_update": "2026-06-03 14:03:10",
+    "last_update": "2026-06-03 18:51:04",
     "articles": [
+        {
+            "title": "이재용 삼성 회장, 반도체 '턴키 솔루션'으로 글로벌 AI 시장 공략 [총수의 AI 광폭행보①] - newsis.com",
+            "link": "https://www.newsis.com/view/NISX20260429_0003611166",
+            "summary_kr": "이재용 삼성전자 회장이 구글, AMD 등 글로벌 빅테크 CEO들과 연쇄 회동을 갖고 메모리 반도체와 파운드리를 통합 제공하는 '턴키 솔루션'을 앞세워 AI 반도체 시장 공략을 강화하고 있습니다.",
+            "timestamp": 1777705200000
+        },
+        {
+            "title": "AI 데이터센터, 빅테크 장부 밖으로…사모자본이 짓고 빌려준다 - 에너지경제신문",
+            "link": "https://m.ekn.kr/view.php?key=20260501022411530",
+            "summary_kr": "AI 데이터센터가 거대 연산 공장으로 진화함에 따라 빅테크 기업들이 직접 소유하는 대신, 블루아울 등 사모자본이 특수목적법인(SPV)을 통해 약 40조원 규모의 자금을 조달해 건설하고 빅테크가 장기 임차하는 방식으로 투자 모델이 변화하고 있습니다.",
+            "timestamp": 1777694400000
+        },
+        {
+            "title": "머스크 “돈 준 내가 바보” 오픈AI “오히려 지배권 요구해”···막 오른 소송전 - 경향신문",
+            "link": "https://www.khan.co.kr/article/202605021400001",
+            "summary_kr": "오픈AI의 영리 법인 전환과 관련해 일론 머스크가 자선신탁 위반 및 부당이득을 주장하며 1340억달러 규모의 소송을 제기했으나, 오픈AI 측은 머스크가 과거 영리화를 인지했고 지배권을 요구했다며 xAI의 시장 경쟁을 위한 괴롭힘 전략이라고 반박했습니다.",
+            "timestamp": 1777698000000
+        },
+        {
+            "title": "국내 주요기업, 엔비디아 손잡고 ‘피지컬AI’ 동맹 가속화 - 시사저널e",
+            "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=420830",
+            "summary_kr": "엔비디아가 피지컬 AI 확장을 위해 삼성, SK하이닉스, LG전자, 현대차, 두산로보틱스 등 국내 기업들과 시뮬레이션 플랫폼인 '옴니버스' 기반의 제조·로봇 분야 협력을 본격화하며 단순 반도체 공급 관계를 넘어선 산업 생태계 동맹을 강화하고 있습니다.",
+            "timestamp": 1777686300000
+        },
+        {
+            "title": "메타, 로봇 파운데이션 모델 스타트업 인수...\"휴머노이드·AGI에 기여\" - AI타임스",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=210021",
+            "summary_kr": "메타가 휴머노이드 로봇 기술 전문 스타트업인 어슈어드 로봇 인텔리전스(ARI)를 인수하며 차세대 AI의 핵심인 피지컬 AGI 구현을 가속화하고, 이를 통해 범용 물리적 에이전트 개발 경쟁에서 우위를 점하려는 전략적 행보를 보이고 있습니다.",
+            "timestamp": 1777691960000
+        },
         {
             "title": "\"찾지 말고 시켜라\"…빅테크 'AI 비서' 사활 건 전쟁 왜[제로클릭 경제 ②] - newsis.com",
             "link": "https://www.newsis.com/view/NISX20260430_0003612367",
@@ -570,36 +600,6 @@
             "link": "https://www.mt.co.kr/world/2026/04/12/2026041016140919828",
             "summary_kr": "아마존, 앤트로픽, 테슬라 등 주요 빅테크 기업들이 엔비디아의 독점 체제에서 벗어나 비용을 절감하고 AI 에이전트 서비스에 최적화된 성능을 확보하기 위해 자체 AI 칩 개발에 속도를 높이고 있습니다.",
             "timestamp": 1775977200000
-        },
-        {
-            "title": "[비즈톡톡] “너무 강력해서 위험”… 앤트로픽 AI ‘미토스’, 보안 판도 바꿀 분수령될까 - 조선비즈 - Chosunbiz",
-            "link": "https://biz.chosun.com/it-science/ict/2026/04/12/7BRKBIY6RFFX5JXNANZXVA2JTU/",
-            "summary_kr": "앤트로픽의 새로운 AI 모델 '미토스'는 강력한 성능으로 인해 보안 우려를 낳고 있으며, 향후 AI 산업의 안전성 및 보안 기준을 재정립하는 중요한 변곡점이 될 것으로 주목받고 있습니다.",
-            "timestamp": 1775977200000
-        },
-        {
-            "title": "메타, 새 AI 모델 ‘뮤즈 스파크’ 공개…라마 흔들린 뒤 9개월, AI 판 다시 짰다 - kmjournal.net",
-            "link": "https://www.kmjournal.net/news/articleView.html?idxno=10270",
-            "summary_kr": "메타가 라마 이후 조직을 개편해 선보인 신모델 '뮤즈 스파크'는 오픈소스 전략에서 벗어나 수익성을 겨냥한 상용 폐쇄형 모델로, 초대형 서비스 플랫폼과의 결합을 통해 AI 시장에서의 반등을 꾀하고 있습니다.",
-            "timestamp": 1775977200000
-        },
-        {
-            "title": "소프트뱅크 `SB에너지`, 오픈AI와 초대형 데이터센터 `스타게이트` 구축 - 디지털데일리",
-            "link": "https://www.ddaily.co.kr/page/view/2026011006005148018?headerCategories=home&headerCategories=entertainment&headerCategories=sports&headerCategories=politics&headerCategories=society&headerCategories=photo&headerCategories=economy&headerCategories=world&isMobile=true&isCashWalk=false&isHybridZumapp=false&isLowVersionIOSZumapp=true&serverTodayDate=2026-04-12&daPrefix=mobilezum&currentTime=%EC%98%A4%EC%A0%84+00%3A48&env=prod&urlPrefix=%2F%2Fm.news.zumst.com&serverName=m.news.zum.com&codeVersion=1.1.30-HOTFIX-20260330-041457&isAvailable=true&isReal=false&fontSize=0&disableAppView=false&category=home&articleUrl=m.news.zum.com%2Farticles%2F103332405",
-            "summary_kr": "소프트뱅크의 자회사 SB에너지가 오픈AI와 협력하여 텍사스주에 1.2GW 규모의 초대형 데이터센터 '스타게이트'를 구축하며, 재생에너지를 기반으로 한 AI 인프라 공급의 핵심 파트너로 도약합니다.",
-            "timestamp": 1775977200000
-        },
-        {
-            "title": "[AI는 지금] 엔비디아, GPU 시장서 86% 독주 가능한 까닭은 - 지디넷코리아",
-            "link": "https://zdnet.co.kr/view/?no=20260411130936",
-            "summary_kr": "엔비디아가 GPU 시장의 86%를 점유하며 독주하는 배경에는 단순한 하드웨어 성능을 넘어, 20년간 축적된 쿠다(CUDA) 중심의 소프트웨어 스택과 최적화된 생태계가 만든 강력한 진입장벽이 존재합니다.",
-            "timestamp": 1775890800000
-        },
-        {
-            "title": "오픈AI 이어 앤스로픽도 “자체 칩 개발”…엔비디아 독주 끊는다 - 서울경제",
-            "link": "https://www.sedaily.com/article/20031114",
-            "summary_kr": "엔비디아에 대한 의존도를 낮추고 AI 개발 효율을 극대화하려는 오픈AI, 앤스로픽 등 빅테크 기업들이 자체 칩 개발과 데이터센터 확장을 병행하며 공급망 자립을 서두르고 있습니다.",
-            "timestamp": 1775804400000
         }
     ]
 }
