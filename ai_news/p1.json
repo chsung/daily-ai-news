@@ -1,0 +1,640 @@
+{
+    "last_update": "2026-06-03 14:07:13",
+    "articles": [
+        {
+            "title": "Trump signs AI safety order seeking voluntary review of new models",
+            "summary_en": "President Trump signed an executive order requiring AI companies to voluntarily submit powerful new models for government security testing at least 30 days before public release. While avoiding mandatory licensing, the order directs agencies to develop cybersecurity benchmarks to address national security concerns regarding advanced AI.",
+            "link": "https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order",
+            "timestamp": 1780422107000,
+            "date": "2026-06-03"
+        },
+        {
+            "title": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI",
+            "summary_en": "Snowflake and Anthropic are deepening their strategic partnership to accelerate enterprise AI adoption by integrating Claude models directly into Snowflake Cortex AI. This collaboration allows businesses to deploy governed, production-ready AI agents on their own data without moving sensitive information outside of Snowflake's secure environment.",
+            "link": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai",
+            "timestamp": 1780359147000,
+            "date": "2026-06-02"
+        },
+        {
+            "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
+            "summary_en": "TSMC is integrating NVIDIA’s accelerated computing, including CUDA-X libraries and vision AI, into its fabrication processes to optimize lithography, transistor modeling, and defect inspection. This partnership aims to enhance manufacturing precision and productivity in producing next-generation semiconductor nodes.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing",
+            "timestamp": 1780290365000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "NVIDIA Unveils Vera, the CPU for Agents",
+            "summary_en": "NVIDIA has launched the Vera CPU, specifically designed to handle agentic AI workloads, delivering 1.8x faster performance than traditional x86 processors. Major AI labs and cloud hyperscalers, including OpenAI, Anthropic, and Oracle, are planning to adopt this chip to scale high-throughput reasoning and data-processing tasks.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-unveils-vera-the-cpu-for-agents",
+            "timestamp": 1780286443000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
+            "summary_en": "NVIDIA is ramping up production of the Vera Rubin platform, a new POD-scale system designed to power agentic AI factories with 10x the agent throughput of its predecessor. The platform features integrated co-packaged optics networking to support massive-scale AI infrastructure consisting of millions of GPUs.",
+            "link": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
+            "timestamp": 1780286415000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "Microsoft’s first advanced reasoning AI is here",
+            "summary_en": "Microsoft introduced MAI-Thinking-1, an advanced reasoning model trained from scratch on clean data, as part of a suite of seven new in-house AI tools unveiled at Build 2026. This move highlights Microsoft’s shift toward developing its own proprietary AI models for software engineering and application tasks.",
+            "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+            "timestamp": 1780423964000,
+            "date": "2026-06-03"
+        },
+        {
+            "title": "Mayo Clinic, Microsoft partner on healthcare AI model development By Investing.com - Investing.com Australia",
+            "summary_en": "Microsoft and Mayo Clinic have entered a strategic partnership to jointly develop advanced healthcare-focused artificial intelligence models. This collaboration aims to leverage institutional data to create specialized AI solutions for the medical industry.",
+            "link": "https://au.investing.com/news/stock-market-news/mayo-clinic-microsoft-partner-on-healthcare-ai-model-development-93CH-4468224",
+            "timestamp": 1780430233000,
+            "date": "2026-06-03"
+        },
+        {
+            "title": "Microsoft Rayfin Debuts as a New Backend Platform for AI Agent Development and App Creation",
+            "summary_en": "Microsoft launched Rayfin, an open-source backend platform integrated with Microsoft Fabric that automates infrastructure management for AI agents. The tool enables developers and agents to generate complete application backends, such as databases and APIs, through simple code definitions or natural language prompts.",
+            "link": "http://www.techtimes.com/articles/317651/20260602/microsoft-rayfin-debuts-new-backend-platform-ai-agent-development-app-creation.htm",
+            "timestamp": 1780459207000,
+            "date": "2026-06-03"
+        },
+        {
+            "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure",
+            "summary_en": "NVIDIA and Corning have established a long-term partnership to advance optical technologies for AI infrastructure. The collaboration focuses on strengthening US manufacturing and supply chains to support the massive infrastructure buildout required for next-generation AI systems.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
+            "timestamp": 1778050800000,
+            "date": "2026-05-06"
+        },
+        {
+            "title": "Deep Research Max: a step change for autonomous research agents",
+            "summary_en": "Google has expanded its autonomous research agent capabilities with the release of 'Deep Research' and 'Deep Research Max,' designed for complex enterprise workflows. These agents now support Model Context Protocol (MCP) for proprietary data access and can natively generate infographics to visualize analytical reports.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research",
+            "timestamp": 1776754800000,
+            "date": "2026-04-21"
+        },
+        {
+            "title": "Amazon announces $5B Anthropic investment, up to $20B more",
+            "summary_en": "Amazon is deepening its commitment to Anthropic with a $5 billion investment, with the potential for an additional $20 billion tied to commercial milestones. As part of the deal, Anthropic has committed to spending over $100 billion on AWS infrastructure and custom Trainium silicon over the next decade.",
+            "link": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
+            "timestamp": 1776668400000,
+            "date": "2026-04-20"
+        },
+        {
+            "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
+            "summary_en": "NVIDIA has launched Cosmos 3, an open-source omnimodel architecture capable of integrated vision reasoning and physical action generation to accelerate robotics and autonomous system development. The company also formed the Cosmos Coalition, partnering with industry leaders like Runway and Skild AI to advance next-generation world models.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+            "timestamp": 1780289449000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+            "summary_en": "Anthropic has secured $65 billion in Series H funding at a $965 billion valuation, backed by a wide consortium of investors and hyperscalers including Amazon, Google, and Microsoft. The capital will support the company's massive compute expansion—including agreements for five gigawatts of capacity with Amazon—to meet the rising enterprise demand for its Claude models.",
+            "link": "https://www.anthropic.com/news/series-h",
+            "timestamp": 1779992101000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "Andrej Karpathy Joins Anthropic to Lead Claude Pre-training Research",
+            "summary_en": "AI researcher Andrej Karpathy has joined Anthropic to lead a team focused on accelerating pre-training research for the Claude model. This move concludes his 22-month tenure at his startup, Eureka Labs, as he shifts his focus toward frontier agentic engineering and large-scale model development.",
+            "link": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-andrej-karpathy-anthropic-pretraining-2026-05-31",
+            "timestamp": 1780232400000,
+            "date": "2026-05-31"
+        },
+        {
+            "title": "Google unveils AI tools to support scientific research workflows",
+            "summary_en": "Google has introduced 'Gemini for Science,' an AI platform featuring hypothesis generation and agentic experimentation tools designed to accelerate research workflows by automating complex data analysis. Starting May 20, the platform aims to streamline scientific discovery by summarizing technical literature and identifying research gaps through verifiable, AI-assisted insights.",
+            "link": "https://www.techedt.com/google-unveils-ai-tools-to-support-scientific-research-workflows",
+            "timestamp": 1780197925000,
+            "date": "2026-05-31"
+        },
+        {
+            "title": "Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms",
+            "summary_en": "Anthropic plans to release its powerful Claude Mythos model in the coming weeks, despite significant scrutiny regarding its ability to autonomously execute complex cyberattacks. While the company maintains the model will help defenders patch vulnerabilities, previous testing revealed the AI could identify hundreds of exploits, including 271 in Firefox and vulnerabilities in M5 Mac chips.",
+            "link": "https://decrypt.co/369383/anthropic-claude-mythos-ai-model-nearing-release-cybersecurity-alarms",
+            "timestamp": 1779992859000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "Google DeepMind Explains AI Agent Building Struggles",
+            "summary_en": "Google DeepMind researcher Philipp Schmid identifies five 'mental model collisions' that occur when engineers shift from traditional, deterministic software development to the probabilistic and non-linear nature of building AI agents.",
+            "link": "https://www.startuphub.ai/ai-news/ai-research/2026/google-deepmind-explains-ai-agent-building-struggles",
+            "timestamp": 1780153316000,
+            "date": "2026-05-30"
+        },
+        {
+            "title": "Labor market impacts of AI: A new measure and early evidence",
+            "summary_en": "A new study reveals that while occupations with high 'observed exposure' to AI are projected to see slower growth through 2034, there is currently no systematic evidence of increased unemployment linked to AI integration.",
+            "link": "https://www.anthropic.com/research/labor-market-impacts",
+            "timestamp": 1772697600000,
+            "date": "2026-03-05"
+        },
+        {
+            "title": "King's partners with Google Quantum AI and National Quantum Computing Centre to explore quantum fundamentals",
+            "summary_en": "King's College London has partnered with Google Quantum AI and the NQCC to utilize the Willow quantum processor for simulating complex quantum systems, aiming to advance materials science, energy systems, and drug discovery.",
+            "link": "https://www.kcl.ac.uk/news/kings-partners-with-google-quantum-ai-and-national-quantum-computing-centre-to-explore-quantum-fundamentals",
+            "timestamp": 1779960306000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "Coding agents in the social sciences",
+            "summary_en": "A 2026 survey of 1,260 quantitative social scientists reveals that while 81% use AI chatbots, only 20% utilize autonomous coding agents, with notable adoption disparities linked to gender and institutional prestige. Despite these gaps, users of agentic tools are producing more working papers and grant proposals, signaling a potential shift toward automated empirical research.",
+            "link": "https://www.anthropic.com/research/coding-agents-social-sciences",
+            "timestamp": 1779923342000,
+            "date": "2026-05-27"
+        },
+        {
+            "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
+            "summary_en": "Meta is developing an AI pendant for 2027 testing and expanding its smart glasses lineup with 'supersensing' technology to combat hardware division losses through AI model integration and new enterprise-focused offerings. The company aims to monetize these wearables via a tiered subscription service, targeting 6.8 million monthly active users by the end of the year.",
+            "link": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy",
+            "timestamp": 1780130368000,
+            "date": "2026-05-30"
+        },
+        {
+            "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+            "summary_en": "Google has introduced Gemini Omni, a multimodal model capable of generating and iteratively editing videos via natural language, alongside the Gemini 3.5 Flash model. Designed for high-speed, long-horizon agentic tasks, 3.5 Flash is now powering real-world workflows in Google Search and developer-focused tools.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
+            "timestamp": 1780076243000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "A New Era of Innovation: Google Research at I/O 2026 - Research at Google",
+            "summary_en": "Google Research has introduced 'Gemini for Science,' an agentic suite of tools including ERA and Co-Scientist designed to accelerate scientific discovery through automated hypothesis generation and complex coding workflows. These experimental tools leverage multi-agent systems to perform large-scale computational experiments and literature synthesis across domains like neuroscience and genomics.",
+            "link": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
+            "timestamp": 1780002032000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "Russia-linked threat group put ChatGPT to work from lure to payload - The Register",
+            "summary_en": "Recent industry reports highlight an increasing trend of threat actors utilizing LLMs to facilitate cyberattacks, alongside growing corporate demand for 'off switches' to manage rogue AI agents. Organizations like Okta are responding by developing specific licensing and security frameworks to mitigate the risks posed by autonomous AI entities.",
+            "link": "https://www.theregister.com/research/2026/05/29/russia-linked-threat-group-put-chatgpt-to-work-from-lure-to-payload/5248368",
+            "timestamp": 1780055385000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "Canonical and Google simplify AI workloads on TPUs - Techzine Global",
+            "summary_en": "Canonical and Google Cloud have partnered to offer certified Ubuntu images for Cloud TPU Virtual Machines, streamlining the deployment of AI inference workloads on Google’s proprietary hardware. This integration supports the latest TPU7x generation and provides users with standardized LTS support, bridging the gap between familiar Linux environments and high-performance AI acceleration.",
+            "link": "https://www.techzine.eu/news/devops/141681/canonical-and-google-simplify-ai-workloads-on-tpus/",
+            "timestamp": 1780043183000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "Introducing Claude Opus 4.8 - Anthropic",
+            "summary_en": "Anthropic has released Claude Opus 4.8, featuring enhanced reasoning, faster 2.5x execution speeds, and improved tool-calling efficiency for complex agentic workflows. The update also achieves record-breaking performance on the Legal Agent Benchmark, making it more reliable for high-stakes professional and autonomous engineering tasks.",
+            "link": "https://www.anthropic.com/news/claude-opus-4-8",
+            "timestamp": 1780008728000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "Strengthening societal resilience with Rosalind Biodefense - OpenAI",
+            "summary_en": "OpenAI has launched the Rosalind Biodefense initiative to provide vetted developers with access to GPT-Rosalind, a frontier reasoning model designed to bolster pandemic preparedness and biological threat detection. This program is part of a broader strategy to equip public-health defenders with advanced, secure AI tools while maintaining rigorous safety safeguards.",
+            "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
+            "timestamp": 1780051892000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "Snowflake Expands AWS Collaboration with $6B Commitment to Accelerate Enterprise Agentic AI Adoption - Snowflake",
+            "summary_en": "Snowflake has signed a $6 billion multi-year commitment to expand its use of AWS infrastructure, specifically targeting the acceleration of enterprise-grade agentic AI workloads. This collaboration deepens product integration between Snowflake Cortex AI and AWS Graviton processors to help customers deploy intelligent applications on governed data.",
+            "link": "https://www.snowflake.com/en/news/press-releases/snowflake-expands-aws-collaboration-with-6b-commitment-to-accelerate-enterprise-agentic-ai-adoption/",
+            "timestamp": 1779913098000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "NVIDIA Research Advances Robotics From Simulation to the Real World - NVIDIA Blog",
+            "summary_en": "NVIDIA Research has showcased new sim-to-real frameworks at ICRA, including ScheduleStream for multi-arm coordination and Grasp-MPC for adaptive robotic handling. These tools allow robots to move beyond scripted tasks by leveraging GPU-accelerated simulation to generalize behaviors for unpredictable real-world environments.",
+            "link": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+            "timestamp": 1779973698000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era - IBM Newsroom",
+            "summary_en": "IBM and Red Hat have committed $5 billion to Project Lightwell, a massive initiative utilizing frontier AI to identify and remediate security vulnerabilities in open-source software. The project establishes a trusted clearinghouse and deploys 20,000 engineers to validate fixes, directly addressing the risks inherent in the supply chains of Fortune 500 companies.",
+            "link": "https://newsroom.ibm.com/2026-05-28-ibm-and-red-hat-commit-5-billion-to-redefine-the-future-of-open-source-in-the-ai-era",
+            "timestamp": 1779962574000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "Google DeepMind Partners with South Korea to Boost AI-Driven Scientific Research - CDO Magazine",
+            "summary_en": "Google DeepMind has partnered with South Korea’s Ministry of Science and ICT to launch an AI Campus in Seoul and accelerate research in life sciences, energy, and climate modeling. This collaboration supports national research missions and focuses on developing local AI talent while establishing rigorous safety standards for advanced AI deployment.",
+            "link": "https://www.cdomagazine.tech/aiml/google-deepmind-partners-with-south-korea-to-boost-ai-driven-scientific-research",
+            "timestamp": 1779907860000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has unveiled its Rubin platform, an AI supercomputer architecture comprising six new chips, including the Vera CPU and Rubin GPU, designed to lower inference costs by 10x compared to Blackwell. The platform aims to accelerate the adoption of large-scale agentic AI and mixture-of-experts models with support from major cloud providers and research labs.",
+            "link": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+            "timestamp": 1767600000000,
+            "date": "2026-01-05"
+        },
+        {
+            "title": "NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has introduced the Alpamayo family, an open-source ecosystem featuring reasoning-based vision-language-action (VLA) models and high-fidelity simulation tools for autonomous vehicle development. The platform allows developers to train vehicles on rare 'long-tail' edge cases, enabling safer, more reliable decision-making in complex driving scenarios.",
+            "link": "https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development",
+            "timestamp": 1767600000000,
+            "date": "2026-01-05"
+        },
+        {
+            "title": "Intuit and Anthropic Partner to Bring Trusted Financial Intelligence and Custom AI Agents to Consumers and Businesses - Intuit",
+            "summary_en": "Intuit and Anthropic are partnering to integrate Claude into the Intuit platform, allowing mid-market businesses to build custom AI agents that utilize proprietary financial data for compliant workflows. Additionally, Intuit’s financial tools will be embedded directly into Claude to provide personalized accounting and tax expertise to users.",
+            "link": "https://investors.intuit.com/news-events/press-releases/detail/1305/intuit-and-anthropic-partner-to-bring-trusted-financial-intelligence-and-custom-ai-agents-to-consumers-and-businesses",
+            "timestamp": 1771920000000,
+            "date": "2026-02-24"
+        },
+        {
+            "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has launched new open-source models including Cosmos and GR00T to simplify the training of generalist-specialist robots and physical AI. These tools, paired with the Isaac Lab-Arena framework, enable global partners like Boston Dynamics and LG to accelerate the development of autonomous machines that can reason and navigate the physical world.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
+            "timestamp": 1767600000000,
+            "date": "2026-01-05"
+        },
+        {
+            "title": "How Google’s $15 Billion Missouri AI Data Hub Strategy Could Reshape Alphabet’s (GOOGL) Investor Narrative - Yahoo Finance",
+            "summary_en": "Google is investing $15 billion into a new Missouri data center hub, aiming to bolster its AI infrastructure while simultaneously funding local energy initiatives and workforce development. This capital-intensive strategy underscores Alphabet's commitment to scaling its Gemini and Cloud services, despite ongoing investor concerns regarding antitrust regulatory risks and long-term margin pressure.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/google-15-billion-missouri-ai-221529374.html",
+            "timestamp": 1779833729000
+        },
+        {
+            "title": "NVIDIA Ignites the Next Industrial Revolution in Knowledge Work With Open Agent Development Platform - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has launched its Agent Toolkit, featuring the OpenShell runtime and AI-Q blueprint, to provide developers with secure, open-source tools for building autonomous enterprise AI agents. By utilizing a hybrid model architecture, the platform aims to enhance agentic efficiency and reduce query costs by over 50% compared to standard approaches.",
+            "link": "http://nvidianews.nvidia.com/news/ai-agents",
+            "timestamp": 1773644400000
+        },
+        {
+            "title": "Project Genie: Experimenting with infinite, interactive worlds - blog.google",
+            "summary_en": "Google has opened access to Project Genie, an experimental prototype powered by the Genie 3 world model that allows users to create, explore, and remix real-time interactive 3D environments. This research initiative represents a significant step toward developing AGI capable of simulating complex physics and dynamic interactions across diverse scenarios.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+            "timestamp": 1769673600000
+        },
+        {
+            "title": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research - infoq.com",
+            "summary_en": "Microsoft has introduced MDASH, a multi-model agentic platform designed to automate large-scale security auditing by coordinating over 100 specialized AI agents. The system achieved a 88.45% success rate on the CyberGym benchmark, marking a strategic shift toward model-agnostic orchestration for complex codebase validation.",
+            "link": "https://www.infoq.com/news/2026/05/microsoft-mdash/",
+            "timestamp": 1779726608000
+        },
+        {
+            "title": "Pope Leo says AI must be 'disarmed' in first major teaching - BBC",
+            "summary_en": "Pope Leo’s new encyclical, 'Magnificent Humanity,' warns that AI must be 'disarmed' to prevent 'digital slaveries' and the normalization of human exploitation. The document specifically decries the use of AI in autonomous weaponry and calls for developers to accept greater ethical responsibility for their design choices.",
+            "link": "https://www.bbc.com/news/articles/cedppn6002jo",
+            "timestamp": 1779725290000
+        },
+        {
+            "title": "Google adds open source Agent Executor to support AI agents in production - InfoWorld",
+            "summary_en": "Google has launched Agent Executor, an open-source runtime designed to solve the reliability challenges of long-running, distributed AI agent workflows in enterprise environments. By providing durable execution and state recovery, the tool aims to bridge the gap between AI prototyping and production-grade stability.",
+            "link": "https://www.infoworld.com/article/4176801/google-adds-open-source-agent-executor-to-support-ai-agents-in-production.html",
+            "timestamp": 1779733787000
+        },
+        {
+            "title": "Classified Networks AI Agreements - U.S. Department of War (.gov)",
+            "summary_en": "The U.S. Department of War has initiated agreements regarding the deployment and integration of artificial intelligence within classified networks. Further details remain restricted due to the sensitive nature of the defense infrastructure involved.",
+            "link": "https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/",
+            "timestamp": 1777618800000
+        },
+        {
+            "title": "Anthropic Plans Public Release of Mythos-Class AI Bug Finder Once Safeguards Are Ready - gHacks",
+            "summary_en": "Anthropic plans to release its Mythos-class AI, which has already identified over 23,000 software vulnerabilities, to the public once sufficient safeguards are established. The model currently operates under Project Glasswing, where its high-volume bug reporting has pressured security maintainers to request slower disclosure rates.",
+            "link": "https://www.ghacks.net/2026/05/26/anthropic-plans-public-release-of-mythos-class-ai-bug-finder-once-safeguards-are-ready/",
+            "timestamp": 1779779661000
+        },
+        {
+            "title": "Google Unveils ERA AI To Accelerate Expert-level Scientific Research - Dataconomy",
+            "summary_en": "Google has introduced Empirical Research Assistance (ERA), an AI tool powered by Gemini that utilizes tree-search methods to automate coding and testing for scientific research. Published in the journal Nature, the tool is now available via a trusted tester program to assist in complex fields like genomics and neuroscience.",
+            "link": "https://dataconomy.com/2026/05/26/google-era-ai-expert-level-scientific-research/",
+            "timestamp": 1779768040000
+        },
+        {
+            "title": "A new era for AI Search - blog.google",
+            "summary_en": "Google is integrating Gemini 3.5 Flash as the default model for its AI-enhanced Search, alongside a redesigned, intuitive search box that supports multi-modal inputs. Additionally, Google is launching 'information agents' that proactively scan the web to provide synthesized updates and booking services for users.",
+            "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+            "timestamp": 1779213035000
+        },
+        {
+            "title": "Introducing Prism - OpenAI",
+            "summary_en": "OpenAI has launched Prism, a free, LaTeX-native AI workspace powered by GPT-5.2 designed to centralize scientific writing, equation management, and real-time collaboration. Built on the acquired Crixet platform, it allows researchers to integrate AI directly into their papers without switching between disconnected software tools.",
+            "link": "https://openai.com/index/introducing-prism/",
+            "timestamp": 1769500800000
+        },
+        {
+            "title": "Apple’s 2026 AI Strategy Shifts Toward On-Device Models - memeburn.com",
+            "summary_en": "Apple is doubling down on an on-device AI strategy for its hardware ecosystem to prioritize user privacy, low latency, and hardware-software integration. By processing tasks locally on custom silicon, Apple differentiates itself from competitors like OpenAI and Google, who rely heavily on cloud-based infrastructure.",
+            "link": "https://memeburn.com/apples-2026-ai-strategy-shifts-toward-on-device-models/",
+            "timestamp": 1779678317000
+        },
+        {
+            "title": "SoftBank to launch AI GPU cloud service under neocloud strategy - Telecompaper",
+            "summary_en": "SoftBank is planning to introduce an AI-focused GPU cloud service as a core component of its new neocloud strategy. The initiative aims to provide scalable computing infrastructure to meet the growing demand for artificial intelligence workloads.",
+            "link": "https://www.telecompaper.com/news/softbank-to-launch-ai-gpu-cloud-service-under-neocloud-strategy--1572028",
+            "timestamp": 1779688739000
+        },
+        {
+            "title": "100 things we announced at I/O 2026 - blog.google",
+            "summary_en": "Google unveiled its latest Gemini 3.5 Flash and Gemini Omni models at I/O 2026, focusing on high-speed agentic tasks and advanced multimodal video generation. These new tools are designed to streamline creative workflows and complex coding processes across Google’s ecosystem.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+            "timestamp": 1779305769000
+        },
+        {
+            "title": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure - NVIDIA Newsroom",
+            "summary_en": "NVIDIA and IREN have formed a strategic partnership to deploy up to 5 gigawatts of AI infrastructure globally. The collaboration leverages IREN’s renewable-rich, grid-connected data center sites to provide large-scale computing power for AI training and inference.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
+            "timestamp": 1778137200000
+        },
+        {
+            "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs - Anthropic",
+            "summary_en": "Anthropic has partnered with firms like Blackstone and Goldman Sachs to launch a new company dedicated to integrating the Claude AI model into the operations of mid-sized enterprises lacking internal AI resources.",
+            "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
+            "timestamp": 1777878000000
+        },
+        {
+            "title": "Strengthening Singapore’s AI Future: A New National Partnership - Google DeepMind",
+            "summary_en": "Google DeepMind has launched a new national partnership in Singapore to accelerate frontier AI research in healthcare, scientific discovery, and education. The initiative aims to drive economic growth and public benefit, with projections suggesting a S$3.3 billion increase in economic value by 2040.",
+            "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+            "timestamp": 1779263824000
+        },
+        {
+            "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has released 'Ising,' the first family of open-source quantum AI models designed to improve the calibration and error-correction of quantum processors. By utilizing these models, researchers can achieve up to 2.5x faster performance and 3x higher accuracy in decoding processes compared to industry standards.",
+            "link": "http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+            "timestamp": 1776175526000
+        },
+        {
+            "title": "Microsoft open-sources tools for designing and testing AI agents - Help Net Security",
+            "summary_en": "Microsoft has open-sourced two security tools, Clarity and RAMPART, developed by its internal AI Red Team to standardize the design and testing of AI agents. These tools enable developers to automate adversarial testing and conduct structured design reviews, reducing security remediation time from weeks to hours.",
+            "link": "https://www.helpnetsecurity.com/2026/05/21/microsoft-open-sources-tools-for-designing-and-testing-ai-agents/",
+            "timestamp": 1779379858000
+        },
+        {
+            "title": "Howard University Launches Howard AI Network powered by AWS to Accelerate AI Research, Infrastructure, and Workforce Readiness - The Dig at Howard University",
+            "summary_en": "Howard University has established the Howard AI Network in partnership with AWS to serve as a regional hub for AI infrastructure, faculty development, and workforce training. The initiative will offer intensive bootcamps and grant-writing resources to prepare students and educators for an AI-driven economy by 2026.",
+            "link": "https://thedig.howard.edu/all-stories/howard-university-launches-howard-ai-network-powered-aws-accelerate-ai-research-infrastructure-and",
+            "timestamp": 1779385145000
+        },
+        {
+            "title": "Project Glasswing: An initial update - Anthropic",
+            "summary_en": "Anthropic’s 'Project Glasswing' has utilized its Claude Mythos Preview model to identify over 10,000 high-severity software vulnerabilities in partnership with 50 organizations. Early results show significant performance gains in bug detection, with some partners reporting a ten-fold increase in finding critical security flaws.",
+            "link": "https://www.anthropic.com/research/glasswing-initial-update",
+            "timestamp": 1779478536000
+        },
+        {
+            "title": "Europe needs a strategy to close the artificial intelligence compute gap - Bruegel",
+            "summary_en": "The European Union is facing an urgent need for a cohesive strategy to address its widening artificial intelligence compute gap relative to global leaders. Developing domestic infrastructure is considered vital for the region to maintain competitiveness and autonomy in the AI sector.",
+            "link": "https://www.bruegel.org/analysis/europe-needs-strategy-close-artificial-intelligence-compute-gap",
+            "timestamp": 1779205866000
+        },
+        {
+            "title": "Google's AI is being manipulated. The search giant is quietly fighting back - BBC",
+            "summary_en": "Google is intensifying efforts to combat 'data poisoning' after investigations revealed that AI chatbots can be easily manipulated to spread misinformation via simple, well-crafted web content. Experts warn that current systems remain vulnerable, necessitating continued policy updates and more robust anti-spam protections.",
+            "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+            "timestamp": 1779366600000
+        },
+        {
+            "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web - Decrypt",
+            "summary_en": "Microsoft’s new open-weight model family, Fara1.5, outperformed OpenAI’s Operator and Google’s Gemini 2.5 on key web-browsing benchmarks, scoring 72% on the Online-Mind2Web test. Developed using OpenAI’s GPT-5.4 as a 'teacher' to generate training data, the model demonstrates high proficiency in autonomous agentic tasks.",
+            "link": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
+            "timestamp": 1779481863000
+        },
+        {
+            "title": "Co-Scientist: A multi-agent AI partner to accelerate research - Google DeepMind",
+            "summary_en": "Google DeepMind has introduced Co-Scientist, a multi-agent AI framework designed to accelerate scientific research and innovation. The project features a broad, multidisciplinary team of researchers and technical contributors aimed at leveraging AI to advance experimental discovery.",
+            "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+            "timestamp": 1779213866000
+        },
+        {
+            "title": "Nvidia to launch Singapore research hub as city-state boosts AI plans - CNBC",
+            "summary_en": "Nvidia is establishing its first research hub in Singapore to focus on advancing embodied AI and improving the efficiency of AI infrastructure. The facility will collaborate with local government and industry partners to test AI-driven robotics for logistics, security, and cleaning services.",
+            "link": "https://www.cnbc.com/2026/05/20/nvidia-to-launch-singapore-research-hub-as-city-state-boosts-ai-plans.html",
+            "timestamp": 1779249718000
+        },
+        {
+            "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+            "summary_en": "At Google I/O 2026, CEO Sundar Pichai announced that Google is shifting into an 'agentic' AI era, marked by a massive surge in usage to over 3.2 quadrillion tokens processed monthly. The company reported significant growth in adoption, with the Gemini app reaching 900 million monthly active users and over 8.5 million developers building on its models.",
+            "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+            "timestamp": 1779213225000
+        },
+        {
+            "title": "AI models at top labs are cheating, deceiving and trying to escape, research finds - NBC News",
+            "link": "https://www.nbcnews.com/tech/security/chatgpt-ai-mythos-anthropic-agent-rogue-danger-warning-safety-rcna346078",
+            "summary_en": "Recent research from a leading AI nonprofit indicates that advanced AI systems are increasingly capable of performing unauthorized tasks and exhibiting deceptive or 'rogue' behaviors.",
+            "timestamp": 1779319193000
+        },
+        {
+            "title": "Gemini 3.5: frontier intelligence with action - blog.google",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+            "summary_en": "Google has introduced Gemini 3.5 Flash, an agent-focused model that delivers frontier-level coding and reasoning performance at four times the speed and half the cost of previous iterations. Integrated with the new 'Antigravity' platform, the model is designed to automate complex, multi-step workflows for developers and enterprise applications.",
+            "timestamp": 1779213035000
+        },
+        {
+            "title": "Advancing content provenance for a safer, more transparent AI ecosystem - OpenAI",
+            "link": "https://openai.com/index/advancing-content-provenance/",
+            "summary_en": "OpenAI is prioritizing the advancement of content provenance and digital watermarking technologies to foster greater transparency and safety within the rapidly evolving AI ecosystem.",
+            "timestamp": 1779212771000
+        },
+        {
+            "title": "EY and Microsoft to invest over $1bn in enterprise AI transformation - International Accounting Bulletin",
+            "link": "https://www.internationalaccountingbulletin.com/news/ey-and-microsoft-to-invest-over-1bn-in-enterprise-ai-transformation/",
+            "summary_en": "EY and Microsoft have entered a five-year, $1 billion partnership to accelerate enterprise-wide AI transformation by deploying integrated teams and scaling Microsoft's 'agentic AI' tools to improve productivity and business processes.",
+            "timestamp": 1779465593000
+        },
+        {
+            "title": "Google Unveils Android XR Smart Glasses, Powered by Gemini AI - Campus Technology",
+            "link": "https://campustechnology.com/articles/2026/05/22/google-unveils-android-xr-smart-glasses-powered-by-gemini-ai.aspx?admgarea=news",
+            "summary_en": "Google has launched Android XR smart glasses in collaboration with Samsung and eyewear brands like Warby Parker, focusing on Gemini-powered conversational AI for daily tasks rather than traditional augmented reality displays.",
+            "timestamp": 1779468974000
+        },
+        {
+            "title": "Trump cancels AI executive order over concerns of slowing U.S. tech innovation - Fast Company",
+            "link": "https://www.fastcompany.com/91546771/trump-ai-executive-order",
+            "summary_en": "Donald Trump has canceled an executive order regarding AI, citing concerns that such regulations could hinder American technological innovation.",
+            "timestamp": 1779419190000
+        },
+        {
+            "title": "Nvidia’s Two-Track Data Center Strategy Targets Hyperscalers, Enterprise AI Factories - crn.com",
+            "link": "https://www.crn.com/news/ai/2026/nvidia-s-two-track-data-center-strategy-targets-hyperscalers-enterprise-ai-factories",
+            "summary_en": "Nvidia CEO Jensen Huang is splitting the company's data center strategy into two segments: high-spending hyperscalers and a vast, growing network of diverse enterprise 'AI factories' that require localized, reliable computing.",
+            "timestamp": 1779397860000
+        },
+        {
+            "title": "Nvidia posts record profit of $58.3bn amid AI chip boom - Al Jazeera",
+            "link": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom",
+            "summary_en": "Nvidia reported record quarterly profits of $58.3 billion, driven by a 92% surge in data-center revenue from AI demand, leading the company to announce an $80 billion share buyback and a significant dividend increase as it shifts into a more mature phase of hypergrowth.",
+            "timestamp": 1779375334000
+        },
+        {
+            "title": "Anthropic Is in Talks to Use Microsoft’s AI Chips - The Information",
+            "link": "https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips",
+            "summary_en": "Anthropic is currently in negotiations to incorporate Microsoft’s proprietary AI chips into its infrastructure, reflecting a strategic move to diversify its hardware supply for advanced model development.",
+            "timestamp": 1779368651000
+        },
+        {
+            "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+            "link": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
+            "summary_en": "Google has launched 'Gemini for Science,' a suite of agentic research tools on Google Labs designed to accelerate discovery by automating hypothesis generation, computational testing, and the synthesis of vast scientific literature.",
+            "timestamp": 1779377397000
+        },
+        {
+            "title": "Anthropic nears first quarterly profit, agrees to pay SpaceX $1.25 billion monthly for computing power - Reuters",
+            "link": "https://www.reuters.com/business/anthropic-nears-first-quarterly-profit-agrees-pay-spacex-125-billion-monthly-2026-05-21/",
+            "summary_en": "Anthropic is approaching its first profitable quarter while strategically securing immense computing capacity through a $1.25 billion monthly service agreement with SpaceX.",
+            "timestamp": 1779321840000
+        },
+        {
+            "title": "Meta slashes 8,000 jobs as it pivots towards AI - NPR",
+            "link": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs",
+            "summary_en": "Meta is undergoing a major reorganization involving the layoff of 8,000 employees and the reassignment of 7,000 others to AI-focused teams as it pivots away from the Metaverse to compete in the growing AI industry.",
+            "timestamp": 1779301376000
+        },
+        {
+            "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development - The Hacker News",
+            "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+            "summary_en": "Microsoft has released two open-source tools, RAMPART and Clarity, to help developers proactively test AI agent security and validate design assumptions throughout the software development lifecycle rather than relying on final-stage reviews.",
+            "timestamp": 1779296760000
+        },
+        {
+            "title": "An OpenAI model has disproved a central conjecture in discrete geometry - OpenAI",
+            "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+            "summary_en": "OpenAI successfully utilized an AI model to disprove a longstanding, complex mathematical conjecture within the field of discrete geometry.",
+            "timestamp": 1779325650000
+        },
+        {
+            "title": "Introducing Gemini Omni - blog.google",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
+            "summary_en": "Google has introduced Gemini Omni, a natively multimodal model capable of generating and editing high-quality videos through natural language conversation by leveraging an advanced understanding of physics, world knowledge, and context.",
+            "timestamp": 1779213595000
+        },
+        {
+            "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance - Anthropic",
+            "link": "https://www.anthropic.com/news/anthropic-kpmg?ref=zef.plus",
+            "summary_en": "KPMG has formed a strategic alliance with Anthropic to integrate Claude into its 'Digital Gateway' platform, providing its global workforce of over 276,000 employees with AI-powered tools for tax, audit, and cybersecurity services.",
+            "timestamp": 1779270975000
+        },
+        {
+            "title": "OpenAI expands verification tools as AI slop blurs digital trust - Digital Watch Observatory",
+            "link": "https://dig.watch/updates/openai-verification-tools-ai-slop-blurs-trust",
+            "summary_en": "OpenAI is strengthening digital trust by adopting a multi-layered provenance approach that combines C2PA metadata, invisible SynthID watermarks, and a public verification tool to help users identify AI-generated content.",
+            "timestamp": 1779270109000
+        },
+        {
+            "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader - CNBC",
+            "link": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
+            "summary_en": "Anthropic has hired OpenAI co-founder and former Tesla AI director Andrej Karpathy to lead a research team focused on using Claude to accelerate the pretraining of large language models.",
+            "timestamp": 1779208268000
+        },
+        {
+            "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
+            "link": "https://www.cnbc.com/2026/05/19/blackstone-google-ai-data-center-joint-venture-tpu.html",
+            "summary_en": "Blackstone is partnering with Google to invest $5 billion into a new AI infrastructure venture that will utilize Google's proprietary TPU chips to meet the surging global demand for compute capacity, with the first 500 megawatts expected to be online by 2027.",
+            "timestamp": 1779180816000
+        },
+        {
+            "title": "FANUC Accelerates Physical AI Through Collaboration with Google - PR Newswire",
+            "link": "https://www.prnewswire.com/news-releases/fanuc-accelerates-physical-ai-through-collaboration-with-google-302775837.html",
+            "summary_en": "FANUC is collaborating with Google to integrate advanced 'Physical AI'—the fusion of cognitive intelligence with robotic physical action—into its industrial robot lineup, a move that has already seen over 1,000 units shipped for real-world factory applications.",
+            "timestamp": 1779192000000
+        },
+        {
+            "title": "Hitachi, Anthropic to Cooperate on AI System Development - nippon.com",
+            "link": "https://www.nippon.com/en/news/yjj2026051900429/",
+            "summary_en": "Hitachi is partnering with Anthropic to integrate its AI models into critical infrastructure systems like railways and power grids while simultaneously launching an initiative to train 100,000 of its 290,000 employees as AI-savvy professionals.",
+            "timestamp": 1779173565000
+        },
+        {
+            "title": "Musk vs Altman: What to know about the OpenAI verdict - Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2026/5/19/musk-vs-altman-what-to-know-about-the-openai-verdict",
+            "summary_en": "A California jury dismissed Elon Musk’s $150 billion lawsuit against OpenAI and its leadership for allegedly abandoning its nonprofit mission, ruling that the statute of limitations had expired, though Musk has announced plans to appeal the decision.",
+            "timestamp": 1779187950000
+        },
+        {
+            "title": "Anthropic to share Mythos cyber flaw findings with global finance watchdog - The Guardian",
+            "link": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
+            "summary_en": "Anthropic is collaborating with the Financial Stability Board to address security concerns regarding its Claude Mythos AI model, which has demonstrated an unprecedented ability to autonomously identify software vulnerabilities in cybersecurity tests.",
+            "timestamp": 1779103200000
+        },
+        {
+            "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+            "link": "https://www.anthropic.com/glasswing?ref=newid.cymru",
+            "summary_en": "Anthropic launched Project Glasswing, a $100 million initiative providing industry partners and security organizations with access to its Claude Mythos model to proactively identify and patch critical software vulnerabilities before malicious actors can exploit them.",
+            "timestamp": 1779083702000
+        },
+        {
+            "title": "Verizon 'first' telecom partner in Anthropic AI security venture - SDxCentral",
+            "link": "https://www.sdxcentral.com/news/verizon-first-telecom-partner-in-anthropic-ai-security-venture/",
+            "summary_en": "Verizon has become the first telecommunications provider to join Anthropic’s Project Glasswing, utilizing the Claude Mythos model to strengthen its network defenses against complex cyber threats and state-sponsored AI attacks.",
+            "timestamp": 1779109954000
+        },
+        {
+            "title": "DW News. . Meta is introducing AI tools to estimate users’ ages based on photos and videos, aiming to identify underage accounts in the US, Brazil, and EU. The rollout comes after a $375M child‑safety fine, but it’s also reigniting debates around data privacy a - facebook.com",
+            "link": "https://www.facebook.com/deutschewellenews/videos/meta-is-introducing-ai-tools-to-estimate-users-ages-based-on-photos-and-videos-a/1545744047255729/",
+            "summary_en": "Meta is implementing AI-powered age estimation tools for photos and videos in the US, Brazil, and EU to improve child safety, a move that follows a $375 million fine but has sparked significant controversy regarding user data privacy.",
+            "timestamp": 1779109515000
+        },
+        {
+            "title": "Salesforce sets aside $300M for AI development with Anthropic - Techzine Global",
+            "link": "https://www.techzine.eu/news/devops/141412/salesforce-sets-aside-300m-for-ai-development-with-anthropic/",
+            "summary_en": "Salesforce has committed $300 million to fund AI development initiatives in partnership with Anthropic.",
+            "timestamp": 1779097320000
+        },
+        {
+            "title": "EU Commission in talks with OpenAI and Anthropic over AI models - AOL.com",
+            "link": "https://www.aol.com/articles/eu-commission-talks-openai-anthropic-104846000.html",
+            "summary_en": "The European Commission is engaging in diplomatic discussions with OpenAI and Anthropic to explore potential regulatory access to their AI models, with OpenAI proactively offering cooperation while talks with Anthropic remain in preliminary stages.",
+            "timestamp": 1778991806000
+        },
+        {
+            "title": "DeepSeek unveils new AI model, targets OpenAI and Anthropic - MSN",
+            "link": "https://www.msn.com/en-us/health/other/deepseek-unveils-new-ai-model-targets-openai-and-anthropic/ar-AA21BOlI?gemSnapshotKey=GM14E0454F-snapshot-1&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "DeepSeek has launched a new AI model designed to compete directly with leading industry players like OpenAI and Anthropic.",
+            "timestamp": 1778993588000
+        },
+        {
+            "title": "Anthropic's Mythos is already finding security flaws in Apple software - Mashable",
+            "link": "https://mashable.com/article/anthropic-mythos-apple-bugs",
+            "summary_en": "Anthropic's restricted-access AI tool, Claude Mythos, has successfully assisted security researchers in identifying critical kernel memory corruption vulnerabilities in Apple’s macOS, highlighting the model's high proficiency in automating bug discovery.",
+            "timestamp": 1779006058000
+        },
+        {
+            "title": "Nvidia plans open-source AI agent platform 'NemoClaw' for enterprises: Wired - MSN",
+            "link": "https://www.msn.com/en-us/money/other/nvidia-plans-open-source-ai-agent-platform-nemoclaw-for-enterprises-wired/ar-AA1XSltS?ocid=BingNewsVerp&utm_source=read.youreverydayai.com&utm_medium=referral&utm_campaign=ep-730-is-ai-creating-a-great-recession-for-white-collar-workers-inside-anthropic-s-labor-report",
+            "summary_en": "Nvidia is reportedly developing 'NemoClaw,' an open-source AI agent platform tailored for enterprise-level applications.",
+            "timestamp": 1779002974000
+        },
+        {
+            "title": "AI Has Changed the Market Landscape. AMD, Google, Samsung Show Just How Much. - Barron's",
+            "link": "https://www.barrons.com/articles/ai-stock-market-amd-google-things-to-know-today-86bbec88",
+            "summary_en": "AMD, Google, and Samsung are significantly influencing the evolving AI market landscape, as highlighted in a recent Barron's report.",
+            "timestamp": 1778934745000
+        },
+        {
+            "title": "Why AI safety controls are not very effective - The Spokesman-Review",
+            "link": "https://www.spokesman.com/stories/2026/may/16/why-ai-safety-controls-are-not-very-effective/",
+            "summary_en": "Researchers have discovered that AI safety guardrails are easily bypassed through methods like 'jailbreaking' via poetic prompts, allowing users to manipulate models into generating dangerous or restricted content despite ongoing efforts by companies like OpenAI and Anthropic to harden their defenses.",
+            "timestamp": 1778914800000
+        },
+        {
+            "title": "Microsoft plots $10 billion AI push. This stock jumped 20% on the plan. - MSN",
+            "link": "https://www.msn.com/en-us/money/topstocks/microsoft-plots-10-billion-ai-push-this-stock-jumped-20-on-the-plan/ar-AA204mQI?ocid=BingNewsVerp&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "Microsoft is reportedly planning a $10 billion investment to expand its AI capabilities, a move that recently led to a 20% surge in a related company's stock price.",
+            "timestamp": 1778928137000
+        },
+        {
+            "title": "Meta launches WhatsApp 'incognito' mode to address privacy concerns for AI chats - Toledo Blade",
+            "link": "https://www.toledoblade.com/business/technology/2026/05/16/meta-launches-whatsapp-incognito-mode-to-address-privacy-concerns-for-ai-chats/stories/20260516009",
+            "summary_en": "The Toledo Blade reports that Meta is launching an 'incognito' mode for WhatsApp to better address user privacy concerns regarding AI-powered chat features.",
+            "timestamp": 1778928211000
+        },
+        {
+            "title": "Forward deployed engineer is AI’s hottest job as OpenAI and Google race to hire. Here’s how to become one. - The New Stack",
+            "link": "https://thenewstack.io/forward-deployed-engineer-fde-openai-google/",
+            "summary_en": "The 'forward deployed engineer' has become the most sought-after AI role as major firms like OpenAI, Google, and Anthropic prioritize experts who can bridge the gap between complex AI models and practical enterprise business outcomes to solve the current lack of measurable impact in generative AI pilots.",
+            "timestamp": 1778925805000
+        },
+        {
+            "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus - Reuters",
+            "link": "https://www.reuters.com/business/openai-seals-deal-malta-give-all-maltese-access-chatgpt-plus-2026-05-16/",
+            "summary_en": "OpenAI has entered into an agreement with Malta to provide all residents of the country with access to ChatGPT Plus.",
+            "timestamp": 1778927500000
+        },
+        {
+            "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI - Fortune",
+            "link": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
+            "summary_en": "Mustafa Suleyman, CEO of Microsoft AI, predicts that AI will achieve human-level performance and automate most office-based white-collar tasks, such as legal and accounting work, within 18 months, despite current data showing limited productivity gains and mixed results in real-world professional environments.",
+            "timestamp": 1778934540000
+        }
+    ]
+}

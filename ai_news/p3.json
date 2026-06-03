@@ -1,0 +1,29 @@
+{
+    "last_update": "2026-06-03 14:07:13",
+    "articles": [
+        {
+            "title": "Claude Dreams enters research preview: What it means for AI agents - MSN",
+            "link": "https://www.msn.com/en-in/money/news/claude-dreams-enters-research-preview-what-it-means-for-ai-agents/ar-AA22AQZL?gemSnapshotKey=GME540CD52-snapshot-1&uxmode=ruby",
+            "summary_en": "Claude Dreams has entered a research preview, marking a new step for AI agent technology.",
+            "timestamp": 1778416901000
+        },
+        {
+            "title": "US to safety test new AI models from Google, Microsoft, xAI - BBC",
+            "link": "https://www.bbc.com/news/articles/cgjp2we2j8go",
+            "summary_en": "The US government is expanding its oversight by requiring companies like Google, Microsoft, and xAI to submit new AI models for safety testing.",
+            "timestamp": 1778012184000
+        },
+        {
+            "title": "Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims — researcher says practice may violate EU law, waste thousands of kilowatts of energy - Tom's Hardware",
+            "link": "https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy",
+            "summary_en": "A privacy researcher claims Google Chrome is automatically downloading large AI model files to user devices without clear permission or an easy way to remove them.",
+            "timestamp": 1778060400000
+        },
+        {
+            "title": "Mark and Mary Stevens give $200 million to power AI research across USC - USC Today",
+            "link": "https://today.usc.edu/mark-and-mary-stevens-give-200-million-to-power-ai-research-across-usc/",
+            "summary_en": "Mark and Mary Stevens have donated $200 million to USC to support and expand the university's research and education in computing and artificial intelligence.",
+            "timestamp": 1777997615000
+        }
+    ]
+}

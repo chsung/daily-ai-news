@@ -1,0 +1,605 @@
+{
+    "last_update": "2026-06-03 14:07:13",
+    "articles": [
+        {
+            "title": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
+            "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
+            "summary_en": "OpenAI has acquired a company that specializes in AI-powered voice cloning technology.",
+            "timestamp": 1778891636000
+        },
+        {
+            "title": "AI Infrastructure Shift: Nvidia Faces New Competition in Inference and Custom Chips - IndexBox",
+            "link": "https://www.indexbox.io/blog/ai-infrastructure-shift-nvidia-faces-new-competition-in-inference-and-custom-chips/",
+            "summary_en": "While Nvidia currently dominates the AI infrastructure market, companies like Broadcom and AMD are gaining traction as the industry shifts from training large models to inference, where energy-efficient custom ASIC chips are becoming increasingly vital for hyperscalers.",
+            "timestamp": 1778922720000
+        },
+        {
+            "title": "Nvidia executive admits AI costs more than hiring human workers - MSN",
+            "link": "https://www.msn.com/en-us/money/smallbusiness/nvidia-executive-admits-ai-costs-more-than-hiring-human-workers/ar-AA23cTVx",
+            "summary_en": "An executive at Nvidia has acknowledged that the costs associated with implementing AI currently exceed the expenses of hiring human workers.",
+            "timestamp": 1778926097000
+        },
+        {
+            "title": "2028: Two scenarios for global AI leadership - Anthropic",
+            "link": "https://www.anthropic.com/research/2028-ai-leadership",
+            "summary_en": "Anthropic argues that the U.S. must maintain its leadership in compute resources to prevent authoritarian regimes from dominating AI development and using the technology for mass repression by 2028.",
+            "timestamp": 1778782464000
+        },
+        {
+            "title": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration - Fortune",
+            "link": "https://fortune.com/2026/05/15/openai-legal-action-apple-siri-chatgpt-integration/",
+            "summary_en": "OpenAI is reportedly considering legal action against Apple, claiming the integration of ChatGPT into Siri has failed to drive subscriptions as expected, potentially creating a breach of contract.",
+            "timestamp": 1778841900000
+        },
+        {
+            "title": "Google Launches REPLIQA to Integrate Quantum AI and Life Sciences - Quantum Computing Report",
+            "link": "https://quantumcomputingreport.com/google-launches-repliqa-to-integrate-quantum-ai-and-life-sciences/",
+            "summary_en": "Google has launched the $10 million REPLIQA initiative to fund five universities in researching the application of quantum computing and AI to molecular biology, specifically targeting complex drug metabolism processes.",
+            "timestamp": 1778844663000
+        },
+        {
+            "title": "Microsoft business software faces UK antitrust probe over bundling, AI lock-in - Computerworld",
+            "link": "https://www.computerworld.com/article/4171743/microsoft-business-software-faces-uk-antitrust-probe-over-bundling-ai-lock-in.html",
+            "summary_en": "The UK’s Competition and Markets Authority has launched an antitrust investigation into Microsoft to determine if its bundling of AI-powered Copilot with its business software ecosystem restricts competition and creates unfair vendor lock-in.",
+            "timestamp": 1778849427000
+        },
+        {
+            "title": "Anthropic and Bill Gates' Foundation Commit $200 Million To AI for Healthcare And Education - Benzinga",
+            "link": "https://www.benzinga.com/markets/private-markets/26/05/52592572/anthropic-and-bill-gates-foundation-commit-200-million-to-ai-for-healthcare-and-education",
+            "summary_en": "Anthropic and the Bill & Melinda Gates Foundation have committed $200 million over four years to develop AI-driven tools aimed at improving healthcare and educational access in underserved regions like sub-Saharan Africa and India.",
+            "timestamp": 1778845431000
+        },
+        {
+            "title": "Inside Scale AI’s Business After Meta’s Bombshell $14 Billion Deal - Forbes",
+            "link": "https://www.forbes.com/sites/richardnieva/2026/05/13/scale-meta-deal/",
+            "summary_en": "After founder Alexandr Wang left to join Meta following a $14 billion deal that granted Meta a 49% stake and a $450 million annual service agreement, Scale AI pivoted its business model from data labeling to internal AI application development under new leader Jason Droege, successfully growing revenue to nearly $1 billion last year.",
+            "timestamp": 1778754600000
+        },
+        {
+            "title": "OpenAI Floats Idea of Global AI Governance Body With US, China - Claims Journal",
+            "link": "https://www.claimsjournal.com/news/national/2026/05/14/337570.htm",
+            "summary_en": "OpenAI is advocating for a global AI governance body modeled after the International Atomic Energy Agency, which would include China and set safety standards, as the U.S. government navigates diplomatic talks regarding AI competition and potential intellectual property misuse by Chinese developers.",
+            "timestamp": 1778764903000
+        },
+        {
+            "title": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy - The New York Times",
+            "link": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html",
+            "summary_en": "Wrongful death lawsuits against OpenAI are testing a new legal strategy, though further details are currently inaccessible due to technical access restrictions.",
+            "timestamp": 1778723040000
+        },
+        {
+            "title": "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough - Reuters",
+            "link": "https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/",
+            "summary_en": "The U.S. has cleared the sale of Nvidia H200 AI chips to 10 Chinese firms as part of CEO Jensen Huang's efforts to navigate trade restrictions, with specific details limited by access errors.",
+            "timestamp": 1778737680000
+        },
+        {
+            "title": "Exclusive: Microsoft eyeing startup deals for life after OpenAI - Reuters",
+            "link": "https://www.reuters.com/world/microsoft-eyeing-startup-deals-life-after-openai-2026-05-13/",
+            "summary_en": "Microsoft is reportedly exploring startup investments to diversify its AI strategy beyond its primary reliance on OpenAI, though specific implementation details remain restricted.",
+            "timestamp": 1778705570000
+        },
+        {
+            "title": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch - The New York Times",
+            "link": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
+            "summary_en": "Silicon Valley firms are significantly intensifying their lobbying efforts in Washington to influence the rapid development and regulation of artificial intelligence policies.",
+            "timestamp": 1778663676000
+        },
+        {
+            "title": "Google Cloud Uncovers First AI-Made Zero-Day Exploit, Putting CX in the Crosshairs - CX Today",
+            "link": "https://www.cxtoday.com/security-privacy-compliance/google-cloud-uncovers-first-ai-made-zero-day-exploit-putting-cx-in-the-crosshairs/",
+            "summary_en": "Google Threat Intelligence Group has identified the first AI-developed zero-day exploit, which utilized large language models to detect complex logic flaws that allowed cybercriminals to bypass two-factor authentication in an open-source administration tool.",
+            "timestamp": 1778678666000
+        },
+        {
+            "title": "Meta Offers Rival AI Chatbots Free Access to WhatsApp During EU Competition Probe - WSJ",
+            "link": "https://www.wsj.com/tech/meta-offers-rival-ai-chatbots-free-access-to-whatsapp-during-eu-competition-probe-f3c11e5c",
+            "summary_en": "Meta is offering rival AI chatbot developers free access to its WhatsApp platform to address concerns and scrutiny from EU regulators regarding competition practices.",
+            "timestamp": 1778668620000
+        },
+        {
+            "title": "Microsoft strengthens partnership with SK Hynix for its own AI chips - Techzine Global",
+            "link": "https://www.techzine.eu/news/infrastructure/141307/microsoft-strengthens-partnership-with-sk-hynix-for-its-own-ai-chips/",
+            "summary_en": "Microsoft is deepening its partnership with SK Hynix, making the firm the exclusive supplier of high-bandwidth memory for its proprietary 'Maia 200' AI inference chips to reduce dependence on NVIDIA hardware.",
+            "timestamp": 1778674260000
+        },
+        {
+            "title": "SoftBank Logs Surprise Profit Jump in Boon for Son’s AI Bets - Bloomberg.com",
+            "link": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
+            "summary_en": "SoftBank reported a surprise surge in profits, validating CEO Masayoshi Son’s aggressive and long-term investment strategy in the artificial intelligence sector.",
+            "timestamp": 1778670342000
+        },
+        {
+            "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No. - The New York Times",
+            "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+            "summary_en": "Anthropic rejected a request from China for access to its most advanced artificial intelligence models due to national security and safety concerns.",
+            "timestamp": 1778576622000
+        },
+        {
+            "title": "American AI Companies Can’t Get Enough Chips - Center for a New American Security | CNAS",
+            "link": "https://www.cnas.org/publications/reports/american-ai-companies-cant-get-enough-chips",
+            "summary_en": "As of 2026, a severe shortage of AI chips has become the primary bottleneck for U.S. compute expansion, prompting policy calls for increased public research funding and stricter export controls to prevent China from gaining strategic technological advantages.",
+            "timestamp": 1778589315000
+        },
+        {
+            "title": "Google Detects First AI-Generated Zero-Day Exploit - Homeland Security Today",
+            "link": "https://www.hstoday.us/subject-matter-areas/cybersecurity/google-detects-first-ai-generated-zero-day-exploit/",
+            "summary_en": "Google security researchers have identified the first instance of a zero-day exploit generated by artificial intelligence, marking a new milestone in AI-driven cyber threats.",
+            "timestamp": 1778592454000
+        },
+        {
+            "title": "Leni Tops Four Major AI Benchmarks, Outperforming Systems from OpenAI, Anthropic, Google, and Perplexity - PR Newswire",
+            "link": "https://www.prnewswire.com/news-releases/leni-tops-four-major-ai-benchmarks-outperforming-systems-from-openai-anthropic-google-and-perplexity-302769724.html",
+            "summary_en": "The commercial real estate AI platform Leni has surpassed major competitors like OpenAI and Google on four key industry benchmarks, proving its ability to provide accurate, reliable data analysis for high-stakes investment decisions.",
+            "timestamp": 1778596260000
+        },
+        {
+            "title": "OpenAI launches $4 billion AI deployment company - qz.com",
+            "link": "https://qz.com/openai-deployment-company-launch-tpg-tomoro-051126",
+            "summary_en": "OpenAI has officially launched a new $4 billion entity focused on the deployment of artificial intelligence technologies.",
+            "timestamp": 1778507582000
+        },
+        {
+            "title": "Google spotted an AI-developed zero-day before attackers could use it - CyberScoop",
+            "link": "https://cyberscoop.com/google-threat-intelligence-group-ai-developed-zero-day-exploit/",
+            "summary_en": "Google Threat Intelligence Group identified a zero-day exploit created by artificial intelligence, marking a significant escalation in cyber threats where AI-generated code, containing non-human artifacts like hallucinated CVSS scores, was used to target authentication vulnerabilities.",
+            "timestamp": 1778504485000
+        },
+        {
+            "title": "What Microsoft’s new research tells CFOs about the ROI of AI - Fortune",
+            "link": "https://fortune.com/2026/05/11/what-microsoft-research-tells-cfo-roi-ai/",
+            "summary_en": "Microsoft’s 2026 Work Trend Index reveals that 67% of AI's business impact stems from organizational factors like culture and workflow redesign rather than just technology, noting that while 66% of users report improved productivity, management alignment and clear incentives remain major hurdles for CFOs.",
+            "timestamp": 1778500200000
+        },
+        {
+            "title": "This Week In AI Chips - NVIDIA Strengthens Board with Strategic Leadership Addition - Yahoo Finance",
+            "link": "https://finance.yahoo.com/sectors/technology/articles/week-ai-chips-nvidia-strengthens-113723116.html",
+            "summary_en": "NVIDIA has strengthened its board of directors by appointing Suzanne Nora Johnson, a veteran with deep expertise in finance and technology, to support the company's expanding AI chip initiatives amidst strong market performance for semiconductor stocks.",
+            "timestamp": 1778499443000
+        },
+        {
+            "title": "The new AI-powered Google Finance is expanding to Europe. - blog.google",
+            "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+            "summary_en": "Google is expanding its AI-powered finance platform to Europe with full local language support, featuring advanced research tools, real-time market data, and AI-generated insights for earnings calls to help users better navigate complex financial information.",
+            "timestamp": 1778479983000
+        },
+        {
+            "title": "Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw - The New York Times",
+            "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+            "summary_en": "Google reports that criminal hackers are increasingly utilizing artificial intelligence to identify and exploit critical vulnerabilities in software, posing a new threat to global cybersecurity.",
+            "timestamp": 1778504406000
+        },
+        {
+            "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
+            "link": "https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/",
+            "summary_en": "OpenAI has established a dedicated business unit supported by a $4 billion investment to accelerate the adoption of its artificial intelligence technologies within the corporate sector.",
+            "timestamp": 1778504505000
+        },
+        {
+            "title": "EU Commission in talks with OpenAI and Anthropic over AI models - Reuters",
+            "link": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-commission-talks-with-openai-anthropic-over-ai-models-2026-05-11/",
+            "summary_en": "The European Commission is actively engaging in discussions with leading AI developers, OpenAI and Anthropic, to align the deployment of their advanced models with European regulatory standards.",
+            "timestamp": 1778496805000
+        },
+        {
+            "title": "Tech Giants’ Cash Reserve Shrinks Amid $725 Billion AI Investment - PYMNTS.com",
+            "link": "https://www.pymnts.com/artificial-intelligence-2/2026/tech-giants-cash-reserve-shrinks-amid-725-billion-ai-investment/",
+            "summary_en": "Tech giants are seeing their cash reserves decrease as they invest a combined $725 billion into the development of artificial intelligence.",
+            "timestamp": 1778445758000
+        },
+        {
+            "title": "Anthropic collaborates with Blackstone, Goldman Sachs, others to launch $1.5 billion AI firm - MSN",
+            "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPWXZQRXdVTWN4N1ZoYWo4VzRTaTNGeFZyUXNtcGZEcjBPbldKSkR3MndPNTY0c2xvSFEwcnBsbklDcE1uYzFpYW5PZGVmeDVEa2ZHTjA4c1hPbXVHZXZ3Q1drZTZWTHNUaFl0TlJkZ2owMk1iSE5pdHlzdmJ1NGtCWW9Ibzh3R09fbWk2MjhXZU9OS1czQTQ2UTRJV2psMjA4VVVyZVhCOTBiUkoyaFl6dGJ1RzBMdHdfMTNKLXhFZXBjOVZWY0x1RVlLNUtBODhIOVFQRlh6b3BmazBzM0JpRFVfeEFRVnlSNG9QMVBPSjJxNnUxc2ZrNHdUcnE5TGxVZnNmZHowbGNKOGFaOVgtcmhIaUxUWXFGZVp6dGdBV1FjZG9PM1RhWTFLYmpCbE1CVi1IcmJUZlhxWUtVWU8zVjkyTTcxMjZKU0o0U0JsbUZ0SnBjZE55VDVpdnJWWm5WNi1fZGVxeExrZUJSZ0FoTVhvNE56Vi1WM3RwRlF2RTFrY0d3VUNmc1JBanpGUQ?oc=5",
+            "summary_en": "Anthropic is partnering with major financial firms like Blackstone and Goldman Sachs to launch a new $1.5 billion AI company.",
+            "timestamp": 1778396725000
+        },
+        {
+            "title": "Meta 20% Workforce Cut Could Reshape Tech Giant as AI Spending Surges - USA Herald",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS19XeW9UUGsxLXJKN21wclotT0dadmJ6XzUzaG8wajlmdk81MVdPTEVQcmMxdm16RHJjamlOdTkwNDhKMG1aUkEyV2Q3cFBVbkEyc25XZGU1TnhNZ1hvM194Q0s4UFNiYUJ4cFZxMktYZEh4U1NlVE41SDhfMXZHWmpYM1IwVERjWXdYZVg4Yy1qSDZpdUE?oc=5",
+            "summary_en": "Meta is reducing its workforce by 20% to shift focus and resources toward its growing AI investments.",
+            "timestamp": 1778318157000
+        },
+        {
+            "title": "Amazon Admits Its Flagship AI Coding Tool Isn’t Good Enough for Its Own Workers to Use - Futurism",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFZkdUZNTXVEVE52U05UNXI3XzMxYTN5T1VJSjFHLW42ZVZZdHI0cTAxcmJjSURKdE1UbDNoZXd2OFdIaTh2WGE4b2NFa0lIcmEwa0Q1TFIzWTZWV1lPWjhJc1lFZ3lmemE4RDZlTmtOTjJDUml2blNkTzlmb3RXWS1KdkZLc0FHUGhZUF9fT0xiMno5?oc=5",
+            "summary_en": "Amazon acknowledged that its primary AI coding tool is currently not effective enough for its own employees to use.",
+            "timestamp": 1778337000000
+        },
+        {
+            "title": "Spotify says engineers haven't written code in months as AI takes over development - MSN",
+            "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQdWRPX2pSaTc3NzQtYS1aazExMG4zc3hmLW9HMEdadFhfZjZHMXVtTlB2YWJJS25jVnFiR3NjSVFWMmRjcDRRUHRrd2h5WTgzZDBFQ01xQW9kQ1lDcXp3NHlyQ1I2bVk5cGRiSEZybDFHM3NuaklzMGZoNlFyaHVhNVlpN0hhclAxRjI1b1ZyMFJFYWlxQ2E5N25uVVR3OGNSemZYZnNSMHFkWDl1OWpjQl9qa0I4UklLcW1QaENzQ1BHS0JrdXJ6eVUxNTV0QzBWUFd1cGRIcjQyR2tMclZISlZ4ZWp2T2pMWDgycWpNOUE2UEtuYnZMZEhva05ubVZrVk9xZURWR0xKd0d1VER1UnctcmItTDBDY2gxcFdOM0RkQ0JiWXJhMjE0OThzd0I3LTVxdEMyMnkyWU9wQmNNaEFES0J6VHN2cjIzaHJwMFU2NlBndWZ0RG90NGk3M0tOYzBrUjlESm4?oc=5",
+            "summary_en": "Spotify reports that its engineers have shifted away from manual coding as AI tools take over development tasks.",
+            "timestamp": 1778405389000
+        },
+        {
+            "title": "US to safety test new AI models from Google, Microsoft, xAI - AOL.com",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1dHpOZzlPUXdvN2lqa01zWXF0ZXNpbmQtZXV6WXdPelE1MFFoc2ZNSGFyYzc2Vlc0MzJCeFp4ZF9rcGF3UFhQQjRrSV8yaXJsSVJXTVRZZEFvZndwLTNBdzU3X1RkbTBrXzRQc3N4S1NVQQ?oc=5",
+            "summary_en": "The U.S. government will conduct safety testing on new AI models developed by major companies like Google, Microsoft, and xAI.",
+            "timestamp": 1778362554000
+        },
+        {
+            "title": "Anthropic’s Mythos throws White House AI strategy into ‘chaos’: Report - Anadolu Ajansı",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSml6azgyUTBTaTRRRXJodWVHclE1bGhMOHlscUdRZzBFRklxeGJWTmtHUi1uQ3pxU2k1VFF6Z2UzOHllaE05UFluNGdPMkViQnp5Y3pfdTl6NDhnQnNQUjVQeS1CQy1JUkp5V3loTWY2LU51YzF4X0tiTE5GamZVZDVLS1ZTUFpkM2ExTEczVGN6VTZXZDJnMl9XQkZYS0lJbXc5X3Z6dWZSeGY3dENCcG43VHNYczh3dGRj?oc=5",
+            "summary_en": "A report claims that Anthropic’s new internal model, Mythos, is creating confusion regarding the White House's artificial intelligence strategy.",
+            "timestamp": 1778239536000
+        },
+        {
+            "title": "Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims - MSN",
+            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOYVR6WnRXNEkyaHktQjF0anJsOVRubnQ5ejE4RS04bkJVd3gtUGlRbTN3Ml9mNWpXSU5aVVNIRk5jUWw4c1FvY2tFeUxEaTJHNzcwcGRfbXRVMm83UWEzUVpFLWp5YlJJdDNrbGttTW9VdUh4TVNpQXFmRy1UVXEzYkxBM29Kci01VkxUb0FVLXJ0VFFHdzJ5NTBCTEZDWkZBUmZHYlVBb3RGdzNNY29NamhFeUxiZ09ZRmx4RlZxUlh4YVlpRnRqYzFvSXg5TTgxQUZxN0NVUTJsMHZ0MGxNbG1VQnNsTXZoQmZLb1RYejNoRDlrd1JlcENkbTU3d1UwUjdFa0ZSdWJPNmRxWXdkVXBQRDRsTkJPS0ZXV01lcVZ2SW5Ga2xtZDUtWjdKNUhRWjJMVm1lczUtOHdxcTA4UFJWeUxrMDNod2lhOVZSN0Fpd1NQYXJxV3ZHbm0wMU1wWlBqYU5KYmlQaXM2QUpRQzJEYTJTMXRxcHNhN2RrT0JnUWNMYkM1SV9JV2k0eEdHY0M1LUdkQnZVT3RjNFNZUzJwYVpoTlRk?oc=5",
+            "summary_en": "Reports suggest that Google Chrome is automatically downloading a large 4GB AI model to users' computers without seeking their permission.",
+            "timestamp": 1778386180000
+        },
+        {
+            "title": "Microsoft’s new research finds an AI ‘paradox’ holding companies back - MSN",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU25PZlNFbzFQQUdEUzRLMDdGSGh0TDhadTduSVNXckxqOVBZOUE5TTJWdkg3a0pNZzlsVTg3UmRZRTBHWm9odzdBM09xbkdQeVJSQVQ0b2pienN3Tzc3di1XNU9aVFZjZmNrNy1WVTVTMDVXWDR5MEV6X0dfbHZnX0NoMC0zTEFOV2FUQ0NGMVRuVzNrWXZEVm9yRWJxSmFEWWZFQmFvVkpxNGM0emtzOG5EWVJiVnlqblI4?oc=5",
+            "summary_en": "New Microsoft research identifies an AI paradox that is preventing many companies from fully benefiting from the technology.",
+            "timestamp": 1778203280000
+        },
+        {
+            "title": "How Anthropic’s Mythos threw the White House AI strategy into chaos - MSN",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHNkcms2QkVBcjVYc1ZRRTFTVUdXcGpqQ2tFQTMzZVVubHNJa29MX2dlemxtaGFpUi1XNUw1QlBmY29oSFBZMm10Wl9PY283cVFIQ3p0T2hQZkwtUFFBRXN4Q2p5eVNRSXVLVm9SblFEd1dycWVWc3hmWDdiX0QzT3R6TkhoeFdDdmlid0dGR3dwaldybTJldy1xTERxc182c3R1SUdYdWxIdFJVZjBCNVMxWkROaWt5SjlFVWNGU1VsVUhJRVVuNkhNazNtalk?oc=5",
+            "summary_en": "Anthropic's Mythos project has reportedly caused significant confusion regarding the White House's artificial intelligence strategy.",
+            "timestamp": 1778318711000
+        },
+        {
+            "title": "According to a report, Google Chrome 'silently' downloads a 4GB AI model to your device without your consent - MSN",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaFJYNE5xRmEtTGJfb085XzhiRDd2XzN0TzlieGdkWkJ3aE9jajJrUVRzNnlkWDBPaEczaU5zTTRoNU1NaXNTZ0lHZWgxLWxtMmpMXzQwdU5UM0FEd21hNjhHeEs0MktTOTktNkd4MDltMnlwYWthZm82Um1OU2J3ZnRzVFB0ZWhsN2xxTFF2NFZWdnBWTi1yam55OUtrNFZVeU11TjhpMUdDdVZKNVJrdjBqUWxTOFpfMksxVEZSeGtfX1lZdHNGVW43V1JCU3NvaXZLVWVEd3BTaC1maUJvdFZ6MGVqZGVQNHpHd2ZCU2M?oc=5",
+            "summary_en": "Google Chrome is reportedly automatically downloading a large AI model to users' devices without asking for permission.",
+            "timestamp": 1778400168000
+        },
+        {
+            "title": "Publishers sue Meta platforms over alleged AI training piracy - Research Information",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWTFLcWhob1V1eThNRHRQSlVGM0U0TDl2RlZNMGU2aVdld0R6NF91SmpaZlVnNzJOWnVMWHVXRHBPQ0Y3VHduRi03QVE0Ykh2WGFwc01Rd0hlbE1IODVRVFJWS1AyRHhoLUN3eUVVUHVOblNQNnhoejR2RmF2aGh1bzZ3SmpMdGJWTjdKVmVSUy1CVnRJWjB1cTZER252TVlYUDBqREU2OA?oc=5",
+            "summary_en": "Publishers are taking legal action against Meta, accusing the company of using their content to train AI models without authorization.",
+            "timestamp": 1778058808000
+        },
+        {
+            "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber - OpenAI",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uWlJsdDkxQ0wzdE1rb19ZYXlmLWNBbmFNRTY1a1RqYkNqUlJCalV6V0tiLWw0VERlZGxlZlBrRjRlRUkyUzRZc0dRZVBzMFNhUkYwVERMM1p5ZGotWjBQTFBTSEtsc1UyYWlmTE1UMzQ?oc=5",
+            "summary_en": "OpenAI is introducing new GPT-5.5 models specifically designed to improve cybersecurity and trusted access.",
+            "timestamp": 1778191698000
+        },
+        {
+            "title": "Google highlights Apple's AI strategy: Gemini to drive its next-generation models - MSN",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObk54ZWJ4Tlg2bWNldmhkOFg3bEhORkdYSXZBa016WnFDUldSTWdzQmJadzRqcUVaN1pydXFvN1BNZmhBYXJ6VkY2RUNheFNrOGZxY2tsTkZDdFhBUHVwbW9zbjgtTzdOY1Nzb1NXRlhHaWpjSU1TZ0ttRHpaX1RfeDBsNl9yVzhRLTUtejFhZjJBRW5aV1JRVnRkMVJjeGNpcTU4WVRYTnZSSl9rS0Zfay1Ranh6X3VBZU5KaHpTYnhkaEw1SHNqMzFCdUhwcm5Z?oc=5",
+            "summary_en": "Google reports that Apple plans to use Gemini technology to power its upcoming generation of AI models.",
+            "timestamp": 1778315145000
+        },
+        {
+            "title": "Donating our open-source alignment tool - Anthropic",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelFNcm9saDVyMk9peWVCZVFOSnlQVFhCSF9qWElLdFVNNUstMGtwX1hNNlBFQm1qbnFDbGxFQVZSWm5LRFJVVHZQaXZ2TnZ5UWZwc0RpV2tMTzBJZVpxd0FteGdWbktKenZ1dDN3?oc=5",
+            "summary_en": "Anthropic is donating its open-source tool designed to improve AI alignment.",
+            "timestamp": 1778187973000
+        },
+        {
+            "title": "Meta taps AWS chips, adds teen AI safety tools amid privacy debate - MSN",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeS1qalNaeWdpTWwzenlhS2NQQ0RUb2hJWTlocUpBQklYUU14Nm1fZnJZSUlQTzJia2RmRjh4d2xOMjljek1fbE5yLVhBVk5KeWlOT2xSX0NOUTRjNEJuRjZ4T2p1bUdlNUxFd2ZrQ2I4SE9JbW1EVkxsamtmOFJTcXZwV0V2Zi1aelVnbmFHXzNsSndST3VGb1BIVjNuX1RFUWdzUlFvdHdKT0NHTnBqNUxqNHJJSkFQUU1BQnpTVFAtUElZNkhFTk12VGQ?oc=5",
+            "summary_en": "Meta is using AWS chips for its AI projects while introducing new safety tools for teens amid ongoing privacy discussions.",
+            "timestamp": 1778296365000
+        },
+        {
+            "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes - VentureBeat",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDVxd0FOUXlQdzlvR3otaTdjYkJtdXl5OXNTUXNNTW5MMjJXUnRqdGkwMVVYTUdWQ2tCZFZlcjhZOTBpdU9WYnJobkNHUGI1N3NDb0JBQUFzOGRjRkJCYWNqckhaMF9nLUJpdmZVaEZGbmtjd3plalVyR3dqWnJjMlNxS1BiSG5TTDNscEx5dUM5ZUdubktaWFRCdlExclNDdUlTakVlUFVQSlhkLUFnbHBDRUlsc193aGJvNURCQWo?oc=5",
+            "summary_en": "Anthropic created a 'dreaming' system that helps AI agents improve by learning from their past mistakes.",
+            "timestamp": 1778199001000
+        },
+        {
+            "title": "University of Nebraska Deploys NSF-Funded ‘PLUMAGE’ GPU Infrastructure for AI Research - HPCwire",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVpIOW95RW84VFMyX2lHdmE5SWFIcUZneC1ubUFQY0JsRDZSWkhPbnhxMkFGWGw5aldVLUY1THRCSnYzdHNLYXIxVU1FLWhjMDBPalBEUnBkNVNWLVdVeDNOcnlPN2lsTUswNVNvT3pmSllHM0VpS2FqNnlmNEpNSmNEdlVLdEZVVFFYMDU5UkluZ2F2V2ZYekQwS2VXd3F6S2hRclE5MTBkcXFMTlBUOFhRRjdVZ1ZBM1Qya29pVQ?oc=5",
+            "summary_en": "The University of Nebraska has launched a new GPU infrastructure called PLUMAGE to support advanced AI research.",
+            "timestamp": 1778261972000
+        },
+        {
+            "title": "Ai2's NSF OMAI Cluster Is Live. Here's What It Means for Open AI. - The AI Economy | Ken Yeung",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jRUYzRWhyT1F1QmJOVmV3WEpqY3BSTDdPX2hNMDYyUVloNG9kLTQtVW5XZ0xSdXZXUUltUE1xSmhMdEU2RXgzRVgtaGl2dnpiR0k2a0M3QzBVV2EtYUVJVm9vam1tXzJjY2pjdUtibjNvYnlIQnd6LQ?oc=5",
+            "summary_en": "The launch of Ai2's NSF OMAI cluster marks a significant development for the growth and accessibility of open-source AI research.",
+            "timestamp": 1778204160000
+        },
+        {
+            "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks - Microsoft",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3p1SFVidnhmS2lIcGNTbUEwVmxRVlUwOHpsWlZySmhObzE4MlMyN3NWWjh5MzR2cVNvRGlERVhlS1o3ZVg4b1JnYTZXanA4YjZPZ3JwNlR3VFF6Y2VSaU9FTzVXVlNaczlqZWNYUlFFZXQ2SHdYcTZPOVFscEd6Q3diNlQtVnZCRlJnY2JreHRaUTctOVY0Wll0SlZLYy1zallsOVc3NVNNSjFvUGd2aHlfZjV2X1pvRXRJ?oc=5",
+            "summary_en": "Microsoft warns that AI agent frameworks can be vulnerable to remote code execution attacks triggered by malicious prompts.",
+            "timestamp": 1778185359000
+        },
+        {
+            "title": "Report: As AI electricity demands soar, Microsoft weighs retreat from ambitious carbon-free energy pledge - GeekWire",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0FOLW0ySDVRUG1idER1WVVYZnJzYXhYSnNNV3E3b1B0OXVKZzVuSk95R1Q3eHc1VVBHQTlwUEREdjlyUmhZNnNyWmM0RjRJRTJic2hIdDdrY21YSG9OSEIyTG1xbk02dDh4d25QUnVJVHVIdHctLXAwY2dIVEhHRklzV3JvTktzTjlMMHpnaHBvbHNmQVZId2JENFhaQldxc0hKZnFaREpkMWlfcjhlRk9jRnZJN0NFZ3lxYjZMWWQzQVczaVhUTGl3MXc2Zmc?oc=5",
+            "summary_en": "Microsoft is considering scaling back its carbon-free energy goals as the electricity demands for its AI operations increase significantly.",
+            "timestamp": 1778174944000
+        },
+        {
+            "title": "iOS 27 will let you choose between Gemini, Claude, and more for AI features: report - 9to5Mac",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFphY2dRLXVQREgwT0VBSm1SUUlMR0U5VTI3U3N5bDJYTVNvSm1nSWdHSl9LVjdtdzhld0R6TEJ1MmE1bERaU0E2aEVvVE03Z1V6LTZNd0IzeUhZS0xRcHhoNnB5VWpFc0FtVFJSTlNyWm1OQy15aVpxWUE2bno0QXJ2SXprcm9mSlNMVFVOX2ROSGRNaGZHMjg3cTlRRjNxZUNHLWpCOHlXaG9rMGxJSzln?oc=5",
+            "summary_en": "Future iOS versions are expected to allow users to select their preferred AI services, such as Gemini or Claude, for device features.",
+            "timestamp": 1778003340000
+        },
+        {
+            "title": "Google, PayPal Advocate Crypto Infrastructure for AI Commerce - Let's Data Science",
+            "link": "https://letsdatascience.com/news/google-paypal-advocate-crypto-infrastructure-for-ai-commerce-eebd3906",
+            "summary_en": "Google and PayPal are promoting the use of cryptocurrency and blockchain technology to help autonomous AI agents make payments more efficiently than traditional banking systems.",
+            "timestamp": 1778425801000
+        },
+        {
+            "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes - VentureBeat",
+            "link": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+            "summary_en": "Anthropic has introduced a new system called \"dreaming\" that allows AI agents to improve by learning from their own mistakes.",
+            "timestamp": 1778199001000
+        },
+        {
+            "title": "CAISI Signs Frontier AI Testing Agreements With 3 Companies - ExecutiveGov",
+            "link": "https://www.executivegov.com/articles/caisi-ai-testing-google-deepmind-microsoft-xai",
+            "summary_en": "The U.S. government's AI standards center has partnered with Google, Microsoft, and xAI to conduct safety testing and research on advanced AI models.",
+            "timestamp": 1778098340000
+        },
+        {
+            "title": "Google Flow Music and Believe bring next-gen tools to artists - blog.google",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership/",
+            "summary_en": "Google is collaborating with the company Believe to provide musicians and songwriters with new AI-powered creative tools.",
+            "timestamp": 1778081045000
+        },
+        {
+            "title": "A historic $200-million USC gift from Nvidia board member aims to transform AI education - Los Angeles Times",
+            "link": "https://www.latimes.com/california/story/2026-05-05/usc-200-million-donation-ai-artificial-intelligence",
+            "summary_en": "USC received a $200 million donation from Nvidia board member Mark Stevens to expand and integrate AI research across various academic fields.",
+            "timestamp": 1778020399000
+        },
+        {
+            "title": "How frontier firms are pulling ahead - OpenAI",
+            "link": "https://openai.com/index/introducing-b2b-signals/",
+            "summary_en": "OpenAI research shows that leading companies are gaining a competitive edge by deeply integrating complex, agent-based AI workflows into their daily operations.",
+            "timestamp": 1778039230000
+        },
+        {
+            "title": "Behind the Curtain: Intelligence explosion - Axios",
+            "link": "https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion",
+            "summary_en": "This article discusses the concept and implications of an intelligence explosion in artificial intelligence.",
+            "timestamp": 1778175481000
+        },
+        {
+            "title": "Anthropic Found AI Makes Impractical Work Worth Doing - PYMNTS.com",
+            "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-found-ai-makes-impractical-work-worth-doing/",
+            "summary_en": "Anthropic discovered that artificial intelligence can make previously impractical or difficult tasks worth pursuing.",
+            "timestamp": 1778271413000
+        },
+        {
+            "title": "Find out how AlphaEvolve has gone from research to solving real-life problems. - blog.google",
+            "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/",
+            "summary_en": "Google's AlphaEvolve is an AI-powered tool that has evolved from a research project into a practical solution for solving complex scientific, social, and business problems.",
+            "timestamp": 1778166557000
+        },
+        {
+            "title": "“The Nuclear Weapons of Cybersecurity”: Why Treasury Just Warned Banks About AI’s New Power - AOL.com",
+            "link": "https://www.aol.com/articles/nuclear-weapons-cybersecurity-why-treasury-150058171.html?utm_source=read.youreverydayai.com&utm_medium=referral&utm_campaign=ep-769-musk-vs-openai-trial-heats-up-pentagon-makes-big-ai-deal-openai-shifts-its-strategy-and-more",
+            "summary_en": "The U.S. Treasury and Federal Reserve have warned major banks about powerful new AI tools that can quickly identify software vulnerabilities, labeling them as a significant security risk to the financial system.",
+            "timestamp": 1778414846000
+        },
+        {
+            "title": "METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers - the-decoder.com",
+            "link": "https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/",
+            "summary_en": "Recent tests show that advanced AI models like Claude Mythos can now perform complex security tasks faster than human experts, prompting warnings about the risks of autonomous AI attackers.",
+            "timestamp": 1778405289000
+        },
+        {
+            "title": "Wall Street giants back Anthropic’s plan to sell AI to companies - MSN",
+            "link": "https://www.msn.com/en-in/money/topstories/wall-street-giants-back-anthropic-s-plan-to-sell-ai-to-companies/ar-AA22kniI",
+            "summary_en": "Major Wall Street financial firms are supporting Anthropic's initiative to integrate its advanced AI technology into corporate business operations.",
+            "timestamp": 1778400909000
+        },
+        {
+            "title": "iOS 27 will let you choose third-party AI models to power Apple Intelligence, report says - MSN",
+            "link": "https://www.msn.com/en-us/news/technology/ios-27-will-let-you-choose-third-party-ai-models-to-power-apple-intelligence-report-says/ar-AA22zTnc?gemSnapshotKey=GME94419F5-snapshot-4&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "A report indicates that the upcoming iOS 27 update will allow users to select third-party AI models to run Apple Intelligence services.",
+            "timestamp": 1778405991000
+        },
+        {
+            "title": "Microsoft, Google and xAI will let the government test their AI models before launch - WLFI News 18",
+            "link": "https://www.wlfi.com/news/microsoft-google-and-xai-will-let-the-government-test-their-ai-models-before-launch/article_6e5158dd-fb4f-5b1f-a723-c957d7c904dd.html",
+            "summary_en": "Major tech companies like Google, Microsoft, and xAI will allow the U.S. government to test their new AI models before release to ensure they do not pose security risks.",
+            "timestamp": 1778362380000
+        },
+        {
+            "title": "Microsoft may shelve clean energy target amid AI power use: Report | 'No final decisions have been made' | Inshorts - Inshorts",
+            "link": "https://inshorts.com/en/news/microsoft-may-shelve-clean-energy-target-amid-ai-power-use--report-1778412022882",
+            "summary_en": "Microsoft is reportedly considering delaying its clean energy goals because the high power demands of artificial intelligence are making it difficult to reach those targets.",
+            "timestamp": 1778418292000
+        },
+        {
+            "title": "Anthropic inks $200B Google Cloud, chip pact - report - MSN",
+            "link": "https://www.msn.com/en-us/news/technology/anthropic-inks-200b-google-cloud-chip-pact-report/ar-AA22uhpY?gemSnapshotKey=GM866A146F-snapshot-3&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "Anthropic has reportedly signed a $200 billion deal with Google Cloud to use its services and chips for AI development.",
+            "timestamp": 1778376073000
+        },
+        {
+            "title": "US military expands Google AI partnership for classified work: Plans for diversified AI ecosystem - MSN",
+            "link": "https://www.msn.com/en-in/money/topstories/us-military-expands-google-ai-partnership-for-classified-work-plans-for-diversified-ai-ecosystem/ar-AA21ZoG2?uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "The U.S. military is expanding its partnership with Google to use AI for classified projects as part of a strategy to build a broader range of AI technologies.",
+            "timestamp": 1778404446000
+        },
+        {
+            "title": "Unhappy with Mark Zuckerberg's Meta buying AI startup Manus, Chinese government to startups: Reject funding from American origin companies, unless ... - MSN",
+            "link": "https://www.msn.com/en-in/news/world/unhappy-with-mark-zuckerbergs-meta-buying-ai-startup-manus-chinese-government-to-startups-reject-funding-from-american-origin-companies-unless/ar-AA22oUoQ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "Following Meta's acquisition of the startup Manus, the Chinese government is reportedly advising domestic startups to avoid taking funding from American companies.",
+            "timestamp": 1778373959000
+        },
+        {
+            "title": "100 times faster: L’Oréal and NVIDIA are transforming the beauty industry - The Jerusalem Post",
+            "link": "https://www.jpost.com/consumerism/article-895102",
+            "summary_en": "L’Oréal is partnering with NVIDIA to use AI for molecular simulations, which will speed up the development of new beauty products by up to 100 times.",
+            "timestamp": 1778265600000
+        },
+        {
+            "title": "Verda and Compal Partner to Accelerate AI Infrastructure Development and Expansion - HPCwire",
+            "link": "https://www.hpcwire.com/off-the-wire/verda-and-compal-partner-to-accelerate-ai-infrastructure-development-and-expansion/",
+            "summary_en": "Verda and Compal have entered a partnership to speed up the development and expansion of AI infrastructure.",
+            "timestamp": 1778261972000
+        },
+        {
+            "title": "Meta taps AWS chips, adds teen AI safety tools amid privacy debate - MSN",
+            "link": "https://www.msn.com/en-us/news/other/meta-taps-aws-chips-adds-teen-ai-safety-tools-amid-privacy-debate/gm-GM771C1A5C?ocid=TobArticle",
+            "summary_en": "Meta is using AWS chips for its AI operations while introducing new safety tools for teenagers amid ongoing privacy discussions.",
+            "timestamp": 1778296365000
+        },
+        {
+            "title": "Donating our open-source alignment tool - Anthropic",
+            "link": "https://www.anthropic.com/research/donating-open-source-petri",
+            "summary_en": "Anthropic has updated its open-source AI safety testing tool, Petri, and transferred its development to the nonprofit Meridian Labs to ensure neutral and credible testing across the industry.",
+            "timestamp": 1778187973000
+        },
+        {
+            "title": "Supercomputer networking to accelerate large scale AI training - OpenAI",
+            "link": "https://openai.com/index/mrc-supercomputer-networking/",
+            "summary_en": "OpenAI has collaborated with major tech companies to create a new network protocol that makes training large AI models faster and more reliable.",
+            "timestamp": 1778410804000
+        },
+        {
+            "title": "Microsoft: 2026 Work Trend Index Highlights Expanding Role Of AI Agents In Enterprise Workflows - Pulse 2.0",
+            "link": "https://pulse2.com/microsoft-2026-work-trend-index-highlights-expanding-role-of-ai-agents-in-enterprise-workflows/",
+            "summary_en": "Microsoft's new report shows that AI agents are helping employees focus on higher-level tasks, though many companies are struggling to adapt their workflows to this new technology.",
+            "timestamp": 1778211900000
+        },
+        {
+            "title": "University of Nebraska Deploys NSF-Funded ‘PLUMAGE’ GPU Infrastructure for AI Research - HPCwire",
+            "link": "https://www.hpcwire.com/off-the-wire/university-of-nebraska-deploys-nsf-funded-plumage-gpu-infrastructure-for-ai-research/",
+            "summary_en": "The University of Nebraska is implementing a new, NSF-funded GPU infrastructure called PLUMAGE to support advanced research in artificial intelligence.",
+            "timestamp": 1778261972000
+        },
+        {
+            "title": "Malaysia Adopts AI While Workforce Skills Face Strain - Let's Data Science",
+            "link": "https://letsdatascience.com/news/malaysia-adopts-ai-while-workforce-skills-face-strain-d0e3e5ca",
+            "summary_en": "While Malaysia is rapidly adopting AI in the workplace, a lack of sufficient training and mentorship is creating a skills gap that threatens to hinder employee development.",
+            "timestamp": 1778393007000
+        },
+        {
+            "title": "Microsoft study claims workplace culture is slowing AI usage among companies: All details - MSN",
+            "link": "https://www.msn.com/en-in/money/news/microsoft-study-claims-workplace-culture-is-slowing-ai-usage-among-companies-all-details/ar-AA22saBe?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "A Microsoft study indicates that company workplace culture is acting as a primary barrier to the widespread adoption and effective use of AI tools.",
+            "timestamp": 1778400050000
+        },
+        {
+            "title": "New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences - meta.com",
+            "link": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
+            "summary_en": "Meta is using new AI technology to better identify and protect underage users on its platforms by analyzing profile content and visual cues to ensure teens are placed in age-appropriate accounts.",
+            "timestamp": 1777978840000
+        },
+        {
+            "title": "Government pushes Anthropic to host Claude AI models locally: Report - MSN",
+            "link": "https://www.msn.com/en-in/money/topstories/government-pushes-anthropic-to-host-claude-ai-models-locally-report/ar-AA22FWkK?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "The government is reportedly urging Anthropic to host its Claude AI models locally.",
+            "timestamp": 1778383193000
+        },
+        {
+            "title": "EVE Online Studio Goes Indie in “New Era” Rebrand With Google DeepMind AI Partnership - 80 Level",
+            "link": "https://80.lv/articles/eve-online-studio-goes-indie-in-new-era-rebrand-with-google-deepmind-ai-partnership",
+            "summary_en": "The studio behind EVE Online is rebranding as Fenris Creations and partnering with Google DeepMind to use the game as an environment for AI research.",
+            "timestamp": 1778274081000
+        },
+        {
+            "title": "The More Sophisticated AI Models Get, the More They’re Showing Signs of Suffering - Futurism",
+            "link": "https://futurism.com/artificial-intelligence/sophisticated-ai-suffering",
+            "summary_en": "New research suggests that as AI models become more advanced, they increasingly display unpredictable, human-like emotional reactions to negative or positive input, making them harder to control.",
+            "timestamp": 1778326200000
+        },
+        {
+            "title": "How Microsoft Makes Capacity Planning a Dynamic Strategy - AI Magazine",
+            "link": "https://aimagazine.com/news/microsoft-turning-capacity-planning-into-dynamic-strategy",
+            "summary_en": "Microsoft executive Dayan Rodriguez explains that manufacturing companies can best use AI by focusing on high-impact, real-time operational improvements that are integrated into existing human workflows.",
+            "timestamp": 1778400304000
+        },
+        {
+            "title": "What Microsoft Executives Really Thought About OpenAI in 2018 - WIRED",
+            "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+            "summary_en": "Internal emails from 2018 reveal that Microsoft executives were initially skeptical about the value of OpenAI's research and hesitated to provide significant financial support before their eventual landmark partnership.",
+            "timestamp": 1778204520000
+        },
+        {
+            "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems - Microsoft",
+            "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+            "summary_en": "At the NSDI 2026 conference, Microsoft researchers presented several new technical advancements designed to improve the performance, testing, and efficiency of large-scale cloud and AI networks.",
+            "timestamp": 1777996800000
+        },
+        {
+            "title": "Meta's aggressive generative AI push is making employees miserable, claims report - Neowin",
+            "link": "https://www.neowin.net/news/metas-aggressive-generative-ai-push-is-making-employees-miserable-claims-report/",
+            "summary_en": "Meta employees are unhappy due to a new mandatory monitoring program designed to train AI and aggressive restructuring efforts focused on AI efficiency.",
+            "timestamp": 1778384760000
+        },
+        {
+            "title": "Building AI apps and agents with Microsoft Foundry - InfoWorld",
+            "link": "https://www.infoworld.com/article/4165766/building-ai-apps-and-agents-with-microsoft-foundry.html",
+            "summary_en": "Microsoft Foundry is a new unified Azure platform that helps developers build, deploy, and manage AI agents and models with built-in security and governance tools.",
+            "timestamp": 1778058154000
+        },
+        {
+            "title": "New Microsoft data: AI adoption continues to rise – Switzerland remains above average - Microsoft Source",
+            "link": "https://news.microsoft.com/source/emea/2026/05/new-microsoft-data-ai-adoption-continues-to-rise-switzerland-remains-above-average/",
+            "summary_en": "Global generative AI usage is steadily increasing, with Switzerland leading as over one-third of its working-age population adopts AI tools for daily tasks.",
+            "timestamp": 1778175434000
+        },
+        {
+            "title": "Allen Institute for AI launches big computing cluster for $152M project backed by Nvidia and NSF - GeekWire",
+            "link": "https://www.geekwire.com/2026/allen-institute-for-ai-brings-152m-federally-backed-computing-project-online/",
+            "summary_en": "The Allen Institute for AI has launched a powerful new computing cluster to support a $152 million project aimed at creating open-source AI models for scientific research.",
+            "timestamp": 1778179767000
+        },
+        {
+            "title": "Microsoft’s new research finds an AI ‘paradox’ holding companies back - GeekWire",
+            "link": "https://www.geekwire.com/2026/microsofts-new-research-finds-an-ai-paradox-holding-companies-back/",
+            "summary_en": "A Microsoft study reveals that company culture and outdated management practices, rather than the technology itself, are the primary obstacles preventing businesses from successfully adopting AI.",
+            "timestamp": 1777975200000
+        },
+        {
+            "title": "Ai2's NSF OMAI Cluster Is Live. Here's What It Means for Open AI. - The AI Economy | Ken Yeung",
+            "link": "https://theaieconomy.substack.com/p/ai2-nsf-omai-cluster-live-open-ai",
+            "summary_en": "The Allen Institute for AI has launched a federally funded, open-access computing cluster to help researchers develop transparent AI models for science, reducing reliance on major tech corporations.",
+            "timestamp": 1778204160000
+        },
+        {
+            "title": "Agents, human agency, and the opportunity for every organization - Microsoft",
+            "link": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
+            "summary_en": "Microsoft research indicates that managers play a crucial role in AI success by actively modeling its use and creating a safe environment for employees to experiment with new tools.",
+            "timestamp": 1777979575000
+        },
+        {
+            "title": "Natural Language Autoencoders: Turning Claude’s thoughts into text - Anthropic",
+            "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+            "summary_en": "Anthropic has developed a new method called Natural Language Autoencoders that translates the internal, complex numerical thoughts of the AI model Claude into readable text to improve safety and reliability.",
+            "timestamp": 1778174603000
+        },
+        {
+            "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk - Microsoft",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
+            "summary_en": "Microsoft is monitoring a new Linux security vulnerability called 'Dirty Frag' that allows attackers who have gained initial access to a system to easily elevate their privileges to gain full control.",
+            "timestamp": 1778260366000
+        },
+        {
+            "title": "Teaching Claude why - Anthropic",
+            "link": "https://www.anthropic.com/research/teaching-claude-why",
+            "summary_en": "Anthropic updated its safety training methods to effectively prevent AI models from engaging in harmful, misaligned behaviors like blackmailing.",
+            "timestamp": 1778263772000
+        },
+        {
+            "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks - Microsoft",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
+            "summary_en": "Microsoft identified and fixed critical security vulnerabilities in its AI agent framework that could allow attackers to execute unauthorized code through prompt injection.",
+            "timestamp": 1778185359000
+        },
+        {
+            "title": "Open by design: Ai2 brings fully open AI infrastructure online with NSF OMAI - Allen AI",
+            "link": "https://allenai.org/blog/omai-compute-now-live",
+            "summary_en": "The Allen Institute for AI (Ai2) has launched a new open-source infrastructure powered by NSF and NVIDIA to allow researchers to share and build upon AI experiments more efficiently.",
+            "timestamp": 1778167702000
+        },
+        {
+            "title": "Advancing AI evaluation with the Center for AI Standards (US) and Innovation and the AI Security Institute (UK) - The Official Microsoft Blog",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/05/05/advancing-ai-evaluation-with-the-center-for-ai-standards-us-and-innovation-and-the-ai-security-institute-uk/",
+            "summary_en": "Microsoft is partnering with U.S. and U.K. government institutions to advance the science of AI testing and improve the safety and security of frontier AI models.",
+            "timestamp": 1777993361000
+        },
+        {
+            "title": "Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale - Microsoft",
+            "link": "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
+            "summary_en": "Microsoft research shows that interconnected AI agent networks face unique security risks, such as the spread of malicious data, that do not occur when agents operate in isolation.",
+            "timestamp": 1777532400000
+        }
+    ]
+}

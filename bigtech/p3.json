@@ -1,0 +1,509 @@
+{
+    "last_update": "2026-06-01 23:38:14",
+    "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777564478000,
+            "title": "Automating GPU Kernel Translation with AI Agents: cuTile Python to cuTile.jl",
+            "summary_kr": "엔비디아는 AI 에이전트를 활용하여 Python 환경의 cuTile GPU 커널을 Julia 언어인 cuTile.jl로 자동 변환하는 기술을 개발해 개발 효율성을 대폭 개선했습니다.",
+            "summary_en": "NVIDIA introduced an AI-assisted workflow using TileGym to automate the translation of GPU kernels from Python-based cuTile to Julia's cuTile.jl, preventing manual errors and accelerating scientific computing.",
+            "link": "https://developer.nvidia.com/blog/automating-gpu-kernel-translation-with-ai-agents-cutile-python-to-cutile-jl"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777561200000,
+            "title": "How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks",
+            "summary_kr": "비전문가 프로젝트 매니저가 Claude Code만을 활용해 6주 만에 스트레스 관리 앱 'Respiro'를 개발 및 출시하며, 코드 작성 경험 없이도 복잡한 에이전트 시스템을 구축할 수 있음을 입증했습니다.",
+            "summary_en": "A non-technical project manager successfully built and shipped 'Respiro,' an AI-powered stress management app, in just six weeks using Claude Code, demonstrating how agents can empower non-coders to architect complex software.",
+            "link": "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1777507200000,
+            "title": "Custom Voices and Voice Library",
+            "summary_kr": "xAI가 사용자의 음성을 2분 내에 복제하여 맞춤형 음성 모델을 생성하는 '커스텀 보이스' 기능을 출시했습니다. 이 기능은 API를 통해 기업의 브랜드 아이덴티티를 살린 다국어 음성 대화형 에이전트 구축을 지원합니다.",
+            "summary_en": "xAI has launched 'Custom Voices,' allowing users to clone their voice in under two minutes to create personalized, multilingual AI agents. This feature enables businesses to maintain brand identity across text-to-speech and voice agent APIs without requiring studio time.",
+            "link": "https://x.ai/news/grok-custom-voices"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777494360000,
+            "title": "Evaluating Claude’s bioinformatics research capabilities with BioMysteryBench",
+            "summary_kr": "앤스로픽은 생물학 데이터셋 분석 성능을 평가하기 위한 벤치마크 'BioMysteryBench'를 개발했습니다. 테스트 결과 클로드(Claude)는 생물학 분야에서 인간 전문가와 대등한 수준의 복잡한 문제 해결 능력을 입증했습니다.",
+            "summary_en": "Anthropic developed 'BioMysteryBench,' a new benchmark designed to evaluate AI performance on complex bioinformatics tasks. Research indicates that Claude currently performs on par with human experts, successfully solving intricate biological problems that often stump human panels.",
+            "link": "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777480917000,
+            "title": "Powering AI Factories with NVIDIA Enterprise Reference Architectures",
+            "summary_kr": "엔비디아는 기업들이 AI 팩토리를 효율적으로 구축할 수 있도록 지원하는 '엔터프라이즈 레퍼런스 아키텍처(RA)'를 공개했습니다. 이는 하드웨어부터 소프트웨어 스택까지 통합된 가이드를 제공하여 인프라 구축 리스크를 줄이고 확장성을 높입니다.",
+            "summary_en": "NVIDIA introduced Enterprise Reference Architectures (RAs) to provide organizations with a standardized blueprint for building AI factories. These architectures deliver end-to-end guidance for integrating GPUs, networking, and software, enabling enterprises to scale agentic AI workloads with reduced deployment risks.",
+            "link": "https://developer.nvidia.com/blog/powering-ai-factories-with-nvidia-enterprise-reference-architectures"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777474800000,
+            "title": "Building AI agents for the enterprise",
+            "summary_kr": "앤스로픽은 기업의 AI 도입이 확산됨에 따라, L'Oreal과 같은 선도 기업들의 사례를 바탕으로 '클로드 코워크(Claude Cowork)'를 통한 엔터프라이즈 AI 에이전트 구축 가이드를 발표했습니다.",
+            "summary_en": "Anthropic released a strategic guide on building enterprise AI agents, highlighting success stories from companies like L'Oreal and Lyft. The guide focuses on using 'Claude Cowork' to integrate agentic AI into core workflows to drive lasting competitive advantages.",
+            "link": "https://claude.com/blog/building-ai-agents-for-the-enterprise"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777402800000,
+            "title": "Scaling Biomolecular Modeling Using Context Parallelism in NVIDIA BioNeMo",
+            "summary_kr": "엔비디아의 BioNeMo 팀은 복잡한 생체 분자 구조 모델링을 위한 '컨텍스트 병렬 처리(CP)' 프레임워크를 개발했습니다. 이를 통해 GPU 메모리 제한을 극복하고 대규모 단백질 복합체를 단일 샘플로 정밀하게 분석할 수 있게 되었습니다.",
+            "summary_en": "NVIDIA's BioNeMo team introduced a context parallelism (CP) framework that overcomes GPU memory constraints in structural biology. This innovation allows for the holistic modeling of large biomolecular complexes, which was previously impossible due to memory limits on single GPUs.",
+            "link": "https://developer.nvidia.com/blog/scaling-biomolecular-modeling-using-context-parallelism-in-nvidia-bionemo"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1777397687000,
+            "title": "Unlocking human ambition to drive business growth with AI",
+            "summary_kr": "기업은 '지능(Intelligence)'과 '신뢰(Trust)'를 기반으로 한 AI 솔루션을 도입하여 단순 생산성 향상을 넘어 비즈니스 혁신과 측정 가능한 성장을 실현하고 있습니다.",
+            "summary_en": "Organizations are moving beyond mere productivity gains by leveraging 'Intelligence' and 'Trust' to drive business reinvention and measurable growth through AI.",
+            "link": "https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777392072000,
+            "title": "NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning in a Single Efficient Open Model",
+            "summary_kr": "엔비디아는 영상, 음성, 텍스트를 통합하여 추론하는 오픈 모델 '네모트론 3 나노 옴니(Nemotron 3 Nano Omni)'를 출시했습니다. 이 모델은 파편화된 다중 모달 스택을 단일 구조로 대체하여 추론 비용을 낮추고 효율성을 극대화합니다.",
+            "summary_en": "NVIDIA released 'Nemotron 3 Nano Omni,' an efficient open-weight model that unifies video, audio, and text reasoning. By replacing fragmented multi-modal stacks, it significantly reduces inference costs and complexity while enhancing performance for enterprise agentic systems.",
+            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777388400000,
+            "title": "24/7 Simulation Loops: How Agentic AI Keeps Subsurface Engineering Moving",
+            "summary_kr": "지하 자원 탐사 산업에서 에이전트 AI를 활용한 24/7 시뮬레이션 루프가 도입되고 있습니다. 이 기술은 수동으로 수행하던 복잡한 데이터 분석과 시뮬레이션 작업을 자동화하여 엔지니어의 업무 효율을 획기적으로 개선합니다.",
+            "summary_en": "The subsurface engineering industry is adopting agentic AI to enable 24/7 automated simulation loops. By offloading repetitive manual tasks and data synthesis to AI agents, companies are accelerating project cycles and freeing human experts for high-level strategic decision-making.",
+            "link": "https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1777312452000,
+            "title": "Accenture is rolling out Copilot to a workforce the size of Denver. Here’s how they're doing it. - Source",
+            "summary_kr": "액센추어는 약 74만 명의 직원을 대상으로 마이크로소프트 365 코파일럿을 대규모 도입했습니다. 조사 결과 97%의 직원이 일상 업무 속도가 15배 향상되었다고 응답하며 기업 생산성 도구로서의 가치를 입증했습니다.",
+            "summary_en": "Accenture has completed a massive rollout of Microsoft 365 Copilot to its 743,000-strong global workforce. Data shows that 97% of employees completed routine tasks 15 times faster, demonstrating the significant productivity gains achievable through large-scale AI deployment.",
+            "link": "https://news.microsoft.com/source/features/digital-transformation/accenture-is-rolling-out-copilot-to-a-workforce-the-size-of-denver"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1777305603000,
+            "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+            "summary_kr": "마이크로소프트는 Azure Local의 확장성을 수천 대의 서버 노드까지 확대하여, 기업과 정부 기관이 데이터 주권과 보안을 유지하면서 대규모 AI 및 미션 크리티컬 워크로드를 자체 환경에서 운영할 수 있도록 지원합니다.",
+            "summary_en": "Microsoft has scaled Azure Local to support thousands of server nodes, enabling organizations to run large-scale AI and mission-critical workloads within their own sovereign environments while maintaining strict data control and regulatory compliance.",
+            "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777302000000,
+            "title": "Claude for Creative Work",
+            "summary_kr": "앤스로픽은 크리에이티브 전문가들이 복잡한 작업 과정을 자동화하고 다양한 도구와 협업할 수 있도록 돕는 클로드용 커넥터 제품군을 출시했습니다.",
+            "summary_en": "Anthropic has released a suite of connectors for Claude, enabling creative professionals to integrate AI directly into their existing software workflows to automate tasks and expand their creative capabilities.",
+            "link": "https://www.anthropic.com/news/claude-for-creative-work"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1777294802000,
+            "title": "The next phase of the Microsoft-OpenAI partnership",
+            "summary_kr": "마이크로소프트와 오픈AI는 파트너십 계약을 개정하여 오픈AI의 멀티 클라우드 전략을 허용하고 마이크로소프트의 기술 라이선스를 비독점적으로 전환하는 등 협력 관계를 보다 유연하고 효율적으로 재편했습니다.",
+            "summary_en": "Microsoft and OpenAI have amended their partnership to increase operational flexibility, allowing OpenAI to pursue a multi-cloud strategy while transitioning Microsoft's AI model licenses to a non-exclusive basis.",
+            "link": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777042800000,
+            "title": "Federated Learning Without the Refactoring Overhead Using NVIDIA FLARE",
+            "summary_kr": "엔비디아 FLARE는 복잡한 코드 수정 없이도 데이터 보안을 유지하며 연합 학습을 구현할 수 있도록 지원하여 기업의 머신러닝 개발 효율성을 높였습니다.",
+            "summary_en": "NVIDIA FLARE now enables efficient federated learning by allowing developers to integrate existing training scripts into a secure, distributed runtime with minimal code changes, effectively removing common refactoring barriers.",
+            "link": "https://developer.nvidia.com/blog/federated-learning-without-the-refactoring-overhead-using-nvidia-flare"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1776956400000,
+            "title": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
+            "summary_kr": "앤스로픽과 NEC가 전략적 파트너십을 체결하고, NEC 직원 3만 명을 대상으로 클로드를 도입하여 일본 시장 맞춤형 AI 솔루션을 개발합니다.",
+            "summary_en": "Anthropic and NEC have formed a strategic partnership to deploy Claude to 30,000 NEC employees and co-develop industry-specific, secure AI solutions for the Japanese market.",
+            "link": "https://www.anthropic.com/news/anthropic-nec"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1776956400000,
+            "title": "An update on our election safeguards",
+            "summary_kr": "앤스로픽은 다가오는 미국 중간선거 등을 대비해 클로드의 정치적 중립성을 강화하고, 오남용 방지 테스트에서 99% 이상의 높은 정확도를 확보했습니다.",
+            "summary_en": "Anthropic is enhancing Claude's political neutrality and safety measures for upcoming global elections, reporting that its models achieved up to 100% accuracy in identifying and declining harmful, election-related misuse.",
+            "link": "https://www.anthropic.com/news/election-safeguards-update"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1776949200000,
+            "title": "3 creative tips from our Flow Sessions artists",
+            "summary_kr": "구글의 'Flow Sessions'는 다양한 분야의 아티스트들과의 협업을 통해 AI 도구 'Flow'가 단순한 영상 제작을 넘어 창의적 실험과 개인적 서사 표현의 확장 도구로 활용될 수 있음을 입증했습니다.",
+            "summary_en": "Google's 'Flow Sessions' program demonstrates that the AI tool 'Flow' serves as a collaborative catalyst, empowering artists across diverse fields to transcend traditional filmmaking through experimentation and personal storytelling.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-sessions-artists-lessons"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1776905281000,
+            "title": "Cricket Australia uses AI Insights to bring fans closer to the action - Source Asia",
+            "summary_kr": "크리켓 오스트레일리아가 마이크로소프트와 협력하여 경기 중 실시간 데이터를 역사적 기록과 결합해 팬들에게 깊이 있는 맥락을 제공하는 AI 인사이트 기능을 도입했습니다.",
+            "summary_en": "Cricket Australia has integrated AI Insights, powered by Microsoft Azure OpenAI, to provide fans with real-time, context-rich narratives that bridge historical statistics with live match action.",
+            "link": "https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1776902400000,
+            "title": "Grok Voice Think Fast 1.0",
+            "summary_kr": "xAI는 고객 응대 및 복잡한 업무 처리에 최적화된 새로운 플래그십 음성 모델 'Grok Voice Think Fast 1.0'을 API로 공개했습니다.",
+            "summary_en": "xAI has launched 'Grok Voice Think Fast 1.0' via API, a high-performance voice model designed for complex, multi-step enterprise workflows and real-time reasoning in noisy, real-world environments.",
+            "link": "https://x.ai/news/grok-voice-think-fast-1"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776889800000,
+            "title": "Scaling the AI-Ready Data Center with NVIDIA RTX PRO 4500 Blackwell Server Edition and NVIDIA vGPU 20",
+            "summary_kr": "엔비디아는 RTX PRO 4500 Blackwell GPU와 vGPU 20 소프트웨어를 통해 가상화 데이터 센터에서 AI 개발과 일반 업무를 효율적으로 병행할 수 있는 솔루션을 선보였습니다.",
+            "summary_en": "NVIDIA has introduced the RTX PRO 4500 Blackwell Server Edition and vGPU 20, providing a scalable solution for enterprises to partition GPU resources effectively for both lightweight AI development and mainstream applications.",
+            "link": "https://developer.nvidia.com/blog/scaling-the-ai-ready-data-center-with-nvidia-rtx-pro-4500-blackwell-server-edition-and-nvidia-vgpu-20"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1776874500000,
+            "title": "Gemini Embedding 2 is now generally available.",
+            "summary_kr": "구글이 텍스트, 이미지, 영상, 오디오 등 멀티모달 데이터를 통합 처리하는 'Gemini Embedding 2'를 정식 출시하여 기업의 실무 활용을 지원합니다.",
+            "summary_en": "Google has announced the general availability of Gemini Embedding 2, enabling developers to integrate native multimodal data processing into production-ready AI applications.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2-generally-available"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1776868023434,
+            "title": "Announcing the Anthropic Economic Index Survey",
+            "summary_kr": "앤스로픽(Anthropic)이 Claude 사용자를 대상으로 AI가 경제와 노동 시장에 미치는 영향을 파악하기 위한 월간 경제 지수 조사를 시작하며, 실시간 데이터 수집에 나섰습니다.",
+            "summary_en": "Anthropic has launched the 'Anthropic Economic Index Survey' to collect monthly, real-time qualitative data from Claude users on how AI is impacting their productivity, job roles, and future expectations.",
+            "link": "https://www.anthropic.com/research/economic-index-survey-announcement"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1776867150673,
+            "title": "What 81,000 people told us about the economics of AI",
+            "summary_kr": "8만 1천 명의 Claude 사용자를 대상으로 한 조사 결과, AI 노출도가 높은 직군일수록 일자리 대체에 대한 우려가 크며, 생산성 향상과 고용 불안 사이의 복합적인 심리가 나타났습니다.",
+            "summary_en": "A survey of 81,000 Claude users reveals that professionals in AI-exposed roles feel both empowered by increased productivity and anxious about potential job displacement, particularly among early-career workers.",
+            "link": "https://www.anthropic.com/research/81k-economics"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1776790803000,
+            "title": "Accelerating Frontier Transformation with Microsoft partners",
+            "summary_kr": "마이크로소프트는 파트너 생태계를 통해 기업이 AI를 업무 흐름에 통합하고, 보안과 거버넌스를 갖춘 에이전트 기반의 비즈니스 프로세스로 확장할 수 있도록 '프런티어 트랜스포메이션'을 가속화하고 있습니다.",
+            "summary_en": "Microsoft is accelerating 'Frontier Transformation' by leveraging its partner ecosystem to help enterprises integrate AI into workflows and scale agentic processes with a foundation of security, trust, and unified governance.",
+            "link": "https://blogs.microsoft.com/blog/2026/04/21/accelerating-frontier-transformation-with-microsoft-partners"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1776787200000,
+            "title": "Stitch’s DESIGN.md format is now open-source so you can use it across platforms.",
+            "summary_kr": "Stitch가 설계 규칙을 공유하고 AI 모델이 브랜드 가이드라인을 정확히 이해하도록 돕는 'DESIGN.md' 규격을 오픈소스로 공개했습니다.",
+            "summary_en": "Stitch has open-sourced its 'DESIGN.md' specification, enabling cross-platform design rule sharing and allowing AI agents to generate brand-aligned, accessible user interfaces.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1776785400000,
+            "title": "Deep Research Max: a step change for autonomous research agents",
+            "summary_kr": "구글은 최신 모델 Gemini 3.1 Pro를 탑재하고 MCP 및 데이터 시각화 기능을 강화한 차세대 자율 연구 에이전트 'Deep Research'와 'Deep Research Max'를 출시했습니다. 이를 통해 기업은 웹 데이터와 독자적인 데이터를 결합하여 보다 심층적이고 시각화된 전문 리포트를 자동 생성할 수 있게 되었습니다.",
+            "summary_en": "Google has launched 'Deep Research' and 'Deep Research Max,' next-generation autonomous agents powered by Gemini 3.1 Pro that feature enhanced MCP support and native data visualization. These tools enable enterprises to seamlessly integrate web and proprietary data to automate the generation of high-quality, professional analytical reports.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1776754800000,
+            "title": "Google brings Pomelli in English to small businesses in Europe.",
+            "summary_kr": "구글은 유럽 지역 소상공인들이 브랜드 맞춤형 마케팅 콘텐츠를 손쉽게 제작할 수 있도록 돕는 AI 도구 '포멜리(Pomelli)'를 출시했습니다.",
+            "summary_en": "Google has launched 'Pomelli,' an AI-powered marketing tool that helps small businesses in Europe easily generate customized, on-brand content for their campaigns.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-in-europe"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776726064000,
+            "title": "Maximizing Memory Efficiency to Run Bigger Models on NVIDIA Jetson",
+            "summary_kr": "엔비디아는 제트슨(Jetson) 플랫폼에서 메모리 효율을 극대화하여 엣지 디바이스 환경에서도 대규모 생성형 AI 모델을 원활하게 구동하기 위한 기술적 최적화 가이드를 제시했습니다.",
+            "summary_en": "NVIDIA has released optimization strategies for its Jetson platform to help developers manage memory constraints and run large generative AI models efficiently on edge devices.",
+            "link": "https://developer.nvidia.com/blog/maximizing-memory-efficiency-to-run-bigger-models-on-nvidia-jetson"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1776725863000,
+            "title": "Pairing geotechnical data with AI helps New Zealand to build better - Source Asia",
+            "summary_kr": "뉴질랜드는 지질공학 데이터베이스(NZGD)를 마이크로소프트 애저 기반의 'BEYON' 플랫폼으로 통합하고, AI를 도입해 자연어 질문으로 복잡한 지반 정보를 쉽게 분석할 수 있도록 했습니다.",
+            "summary_en": "New Zealand has modernized its Geotechnical Database by migrating to the Azure-hosted 'BEYON' platform, which uses OpenAI's models to enable natural language querying of complex subsurface data.",
+            "link": "https://news.microsoft.com/source/asia/features/pairing-geotechnical-data-with-ai-helps-new-zealand-to-build-better"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776725535000,
+            "title": "Run High-Throughput Reinforcement Learning Training with End-to-End FP8 Precision",
+            "summary_kr": "엔비디아는 강화학습(RL) 훈련 시 FP8 정밀도를 활용하여 메모리 효율과 훈련 처리량을 크게 개선하고, 수치적 불일치를 해결하는 최적의 파이프라인을 공개했습니다.",
+            "summary_en": "NVIDIA introduces an end-to-end FP8 precision recipe for reinforcement learning, significantly boosting throughput and memory efficiency while mitigating numerical disagreement in training pipelines.",
+            "link": "https://developer.nvidia.com/blog/run-high-throughput-reinforcement-learning-training-with-end-to-end-fp8-precision"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1776610800000,
+            "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+            "summary_kr": "앤스로픽과 아마존은 10년간 1,000억 달러 규모의 클라우드 및 AI 인프라 협력을 강화하며, 차세대 Claude 모델 학습을 위한 5기가와트(GW)급 컴퓨팅 자원을 확보하기로 했습니다.",
+            "summary_en": "Anthropic and Amazon have deepened their partnership with a $100 billion commitment over the next decade, securing up to 5 gigawatts of compute capacity to train and deploy future generations of the Claude model on AWS.",
+            "link": "https://www.anthropic.com/news/anthropic-amazon-compute"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776466367000,
+            "title": "Full-Stack Optimizations for Agentic Inference with NVIDIA Dynamo",
+            "summary_kr": "엔비디아는 AI 코딩 에이전트의 효율성을 높이기 위해 KV 캐시 관리와 라우팅 최적화를 지원하는 '다이나모(Dynamo)' 인프라를 공개하며 에이전트 기반 추론 성능 향상을 도모합니다.",
+            "summary_en": "NVIDIA has introduced 'Dynamo,' an infrastructure layer designed to optimize agentic inference by managing KV cache and routing, effectively addressing the performance bottlenecks faced by AI coding agents.",
+            "link": "https://developer.nvidia.com/blog/full-stack-optimizations-for-agentic-inference-with-nvidia-dynamo"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776452352000,
+            "title": "Build a More Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw",
+            "summary_kr": "엔비디아는 오픈소스 레퍼런스 스택인 '네모클로(NemoClaw)'를 통해 기업이 보안 환경에서 현지 AI 에이전트를 구축하고 관리할 수 있는 자가 호스팅형 배포 솔루션을 제공합니다.",
+            "summary_en": "NVIDIA has launched 'NemoClaw,' an open-source reference stack that enables organizations to deploy and manage secure, self-hosted local AI agents, ensuring data privacy and isolated tool execution.",
+            "link": "https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776438000000,
+            "title": "Accelerate Clean, Modular, Nuclear Reactor Design with AI Physics",
+            "summary_kr": "엔비디아는 물리 기반 AI 프레임워크인 '피직스네모(PhysicsNeMo)'와 디지털 트윈 기술을 활용해 원자력 발전소의 설계를 가속화하고 비용을 획기적으로 절감하는 솔루션을 제시했습니다.",
+            "summary_en": "NVIDIA is accelerating nuclear reactor design by utilizing the 'PhysicsNeMo' AI framework and digital twin technology, which reduces computational costs and validation time for complex generation IV reactor simulations.",
+            "link": "https://developer.nvidia.com/blog/accelerate-clean-modular-nuclear-reactor-design-with-ai-physics"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1776384000000,
+            "title": "Grok Speech to Text and Text to Speech APIs",
+            "summary_kr": "xAI는 테슬라와 스타링크 기술 스택을 기반으로 한 고성능 음성 인식(STT) 및 음성 합성(TTS) API를 출시하며, 업계 최고 수준의 정확도와 다국어 지원을 제공합니다.",
+            "summary_en": "xAI has launched high-performance Speech-to-Text and Text-to-Speech APIs built on the same stack as Tesla and Starlink, offering industry-leading accuracy and multi-language support for voice agent development.",
+            "link": "https://x.ai/news/grok-stt-and-tts-apis"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776351600000,
+            "title": "How to Build Vision AI Pipelines Using NVIDIA DeepStream Coding Agents",
+            "summary_kr": "엔비디아는 '딥스트림(DeepStream) 9' 코딩 에이전트를 통해 자연어 프롬프트만으로 복잡한 실시간 영상 분석 파이프라인을 구축할 수 있는 자동화된 개발 환경을 지원합니다.",
+            "summary_en": "NVIDIA has introduced 'DeepStream 9' coding agents, enabling developers to build and deploy complex, optimized real-time vision AI pipelines directly from natural language prompts.",
+            "link": "https://developer.nvidia.com/blog/how-to-build-vision-ai-pipelines-using-deepstream-coding-agents"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1776351600000,
+            "title": "Introducing Claude Design by Anthropic Labs",
+            "summary_kr": "앤스로픽은 시각 모델 Claude Opus 4.7을 탑재한 'Claude Design'을 출시하여, 기업 사용자가 대화형 프롬프트를 통해 전문적인 디자인과 프로토타입을 손쉽게 제작하도록 지원합니다.",
+            "summary_en": "Anthropic has introduced 'Claude Design,' powered by the Claude Opus 4.7 vision model, allowing users to collaborate with AI to generate polished visual assets, prototypes, and presentations.",
+            "link": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1776265200000,
+            "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+            "summary_kr": "구글이 공개한 'Gemini 3.1 Flash TTS'는 향상된 음질과 오디오 태그 기반의 정밀한 제어 기능을 제공하여, 70개 이상의 언어로 자연스럽고 표현력 있는 다국어 음성 생성을 지원합니다.",
+            "summary_en": "Google's Gemini 3.1 Flash TTS delivers superior speech quality and precise control through intuitive audio tags, enabling natural, expressive, and localized voice generation across over 70 languages.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1776265200000,
+            "title": "Introducing Claude Opus 4.7",
+            "summary_kr": "앤스로픽은 복잡한 코딩 작업과 추론 능력이 향상된 'Claude Opus 4.7'을 공식 출시하고, 사이버 보안 위험 방지를 위한 새로운 검증 프로그램을 도입했습니다.",
+            "summary_en": "Anthropic has officially released 'Claude Opus 4.7,' featuring significant improvements in software engineering and complex reasoning, alongside new safeguards to address cybersecurity risks.",
+            "link": "https://www.anthropic.com/news/claude-opus-4-7"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776184200000,
+            "title": "Building Custom Atomistic Simulation Workflows for Chemistry and Materials Science with NVIDIA ALCHEMI Toolkit",
+            "summary_kr": "엔비디아는 화학 및 재료 과학 시뮬레이션을 가속화하는 'ALCHEMI 툴킷'을 공개하여, 분자 역학 연구를 위한 GPU 가속 및 모듈형 워크플로우를 제공합니다.",
+            "summary_en": "NVIDIA has launched the 'ALCHEMI Toolkit,' a collection of GPU-accelerated building blocks designed to bridge the gap between quantum accuracy and classical speed in computational chemistry and materials science simulations.",
+            "link": "https://developer.nvidia.com/blog/building-custom-atomistic-simulation-workflows-for-chemistry-and-materials-science-with-nvidia-alchemi-toolkit"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776182400000,
+            "title": "NVIDIA NVbandwidth: Your Essential Tool for Measuring GPU Interconnect and Memory Performance",
+            "summary_kr": "엔비디아가 GPU 상호 연결 및 메모리 성능을 측정하고 최적화할 수 있는 CUDA 기반 도구인 'NVbandwidth'를 발표했습니다. 이 도구는 대규모 언어 모델(LLM)과 같은 최신 AI 워크로드에서 데이터 병목 현상을 진단하고 시스템 효율성을 극대화하도록 지원합니다.",
+            "summary_en": "NVIDIA has released 'NVbandwidth,' a CUDA-based tool designed to measure and optimize GPU interconnect and memory performance. It helps developers diagnose bandwidth bottlenecks in complex AI workloads, such as LLMs, to improve system-wide efficiency.",
+            "link": "https://developer.nvidia.com/blog/nvidia-nvbandwidth-your-essential-tool-for-measuring-gpu-interconnect-and-memory-performance"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1776178800000,
+            "title": "Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.",
+            "summary_kr": "구글은 공간 지능과 작업 계획 능력을 대폭 강화한 로봇 전용 모델 'Gemini Robotics-ER 1.6'을 출시하여 물리적 세계에 대한 로봇의 이해도와 자율성을 높였습니다.",
+            "summary_en": "Google has launched 'Gemini Robotics-ER 1.6,' an upgraded model featuring enhanced spatial reasoning and task planning to significantly improve robot autonomy and understanding of the physical world.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1776176460000,
+            "title": "Answering your trending questions on World Quantum Day",
+            "summary_kr": "구글 퀀텀 AI는 양자역학을 활용한 대규모 오류 수정 양자 컴퓨터를 개발하여 기존 컴퓨터로 해결 불가능한 난제들을 해결하는 것을 목표로 하고 있습니다.",
+            "summary_en": "Google Quantum AI is focused on developing large-scale, error-corrected quantum computers to solve complex real-world problems that are currently beyond the reach of classical computing.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/world-quantum-day-2026"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1776176156000,
+            "title": "NVIDIA Ising Introduces AI-Powered Workflows to Build Fault-Tolerant Quantum Systems",
+            "summary_kr": "엔비디아가 양자 프로세서의 오류를 보정하고 최적화하는 AI 모델 제품군인 'NVIDIA Ising'을 출시했습니다. VLM 기반의 Ising Calibration과 CNN 기반의 Ising Decoding 모델은 큐비트 노이즈를 제어하여 양자 컴퓨팅의 확장성을 높이는 데 기여합니다.",
+            "summary_en": "NVIDIA has introduced 'NVIDIA Ising,' a family of AI models designed to automate quantum processor calibration and error correction. By addressing qubit noise through VLM and CNN architectures, the platform provides a scalable path toward building fault-tolerant quantum computers.",
+            "link": "https://developer.nvidia.com/blog/nvidia-ising-introduces-ai-powered-workflows-to-build-fault-tolerant-quantum-systems"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1776171660000,
+            "title": "Automated Alignment Researchers: Using large language models to scale scalable oversight",
+            "summary_kr": "앤스로픽은 '약한 모델이 강한 모델을 감독'하는 'weak-to-strong supervision' 방식을 활용해, AI 스스로가 정렬(Alignment) 연구를 가속화할 수 있는 가능성을 입증했습니다. 이는 초지능 AI의 등장에 대비해 인간을 대신할 확장 가능한 감독 체계를 구축하기 위한 연구입니다.",
+            "summary_en": "Anthropic researchers demonstrated that AI models can autonomously advance alignment research using 'weak-to-strong supervision.' This study explores scalable oversight methods to ensure future superintelligent AI remains aligned with human values.",
+            "link": "https://www.anthropic.com/research/automated-alignment-researchers"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1776088806000,
+            "title": "7 ways AI is advancing healthcare and wellbeing around the world - Source",
+            "summary_kr": "마이크로소프트는 의료 현장의 행정 업무 부담을 줄이고 임상 효율을 높이기 위해 AI 기술을 전 세계 병원과 보건 시스템에 도입하고 있습니다. 특히 음성 인식 및 주변 AI 도구를 통해 의료진이 문서 작업 대신 환자 진료에 더 집중할 수 있도록 돕고 있습니다.",
+            "summary_en": "Microsoft is deploying AI technologies across global healthcare systems to reduce administrative burdens on clinicians. By utilizing ambient AI tools for transcription and documentation, the company enables medical professionals to prioritize patient care over manual paperwork.",
+            "link": "https://news.microsoft.com/source/features/innovation/7-ways-ai-is-advancing-healthcare-and-wellbeing-around-the-world"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1775955764000,
+            "title": "MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications",
+            "summary_kr": "미니맥스(MiniMax)는 에이전트 워크플로우에 최적화된 230B 파라미터 기반의 'MiniMax M2.7' 모델을 공개했습니다. 엔비디아 플랫폼에서의 고성능 커널 최적화를 통해 추론 효율을 극대화했으며, 오픈 소스 생태계를 통해 배포가 가능합니다.",
+            "summary_en": "MiniMax has released 'MiniMax M2.7,' a 230B-parameter sparse MoE model optimized for complex agentic workflows. By integrating high-performance kernels with NVIDIA platforms, it achieves significant throughput gains for large-scale AI applications.",
+            "link": "https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1775752440000,
+            "title": "Trustworthy agents in practice",
+            "summary_kr": "앤스로픽은 자율적인 AI 에이전트가 업무 수행 과정에서 발생시킬 수 있는 리스크를 관리하기 위한 5대 원칙을 제시했습니다. 에이전트가 도구 사용과 계획 수립을 스스로 결정하는 만큼, 인간의 제어권 유지와 보안이 무엇보다 중요해졌습니다.",
+            "summary_en": "Anthropic has outlined five core principles for developing trustworthy AI agents to manage risks associated with increased autonomy. As agents begin to execute self-directed tasks, maintaining human control and robust security protocols becomes critical for corporate deployment.",
+            "link": "https://www.anthropic.com/research/trustworthy-agents"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1775705346000,
+            "title": "From prompts to partnership: How LTM’s Rajesh Kumar collaborates with Microsoft 365 Copilot - Source Asia",
+            "summary_kr": "LTM의 CIO 라제시 쿠마르는 마이크로소프트 365 Copilot을 활용해 기업 내 AI 협업 문화를 정착시키고 있습니다. 단순 업무 자동화를 넘어, 에이전트 기반의 전략적 분석과 인재 매칭 등 복잡한 워크플로우에 AI를 깊숙이 결합하고 있습니다.",
+            "summary_en": "LTM CIO Rajesh Kumar is scaling AI adoption by moving beyond simple automation to deep integration of Microsoft 365 Copilot. The company is now utilizing agentic workflows for strategic research and talent management to enhance operational efficiency.",
+            "link": "https://news.microsoft.com/source/asia/features/from-prompts-to-partnership-how-ltms-rajesh-kumar-collaborates-with-microsoft-365-copilot"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1775664000000,
+            "title": "Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries",
+            "summary_kr": "엔비디아는 옴니버스(Omniverse)의 핵심 기능을 라이브러리 형태인 ovrtx, ovphysx, ovstorage로 공개하여 물리적 AI 개발의 접근성을 높였습니다. 이를 통해 개발자들은 기존 애플리케이션 아키텍처를 전면 수정하지 않고도 고성능 시뮬레이션 기능을 통합할 수 있습니다.",
+            "summary_en": "NVIDIA has introduced a library-based architecture for Omniverse, featuring standalone APIs for rendering, physics, and storage. This modular approach allows developers to integrate advanced physical AI simulation capabilities into existing software stacks without requiring complete architectural rewrites.",
+            "link": "https://developer.nvidia.com/blog/integrate-physical-ai-capabilities-into-existing-apps-with-nvidia-omniverse-libraries"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1775587861000,
+            "title": "Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling",
+            "summary_kr": "엔비디아는 GB200 및 GB300 NVL72와 같은 랙 스케일 슈퍼컴퓨터의 복잡한 하드웨어 토폴로지를 효율적으로 관리하기 위한 'Mission Control' 소프트웨어 스택을 강조했습니다. 이는 클러스터 UUID와 Clique ID를 활용하여 하드웨어 구조를 인지하는 최적의 작업 스케줄링을 지원합니다.",
+            "summary_en": "NVIDIA is addressing the complexity of rack-scale supercomputing with its 'Mission Control' stack, which uses cluster UUIDs and Clique IDs to enable topology-aware scheduling. By bridging the gap between NVLink fabrics and workload managers like Slurm, it allows for more efficient and performant AI infrastructure management.",
+            "link": "https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1775574000000,
+            "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+            "summary_kr": "Meta가 개인화된 슈퍼지능으로의 도약을 목표로 하는 '뮤즈 스파크(Muse Spark)'를 발표했습니다.",
+            "summary_en": "Meta has introduced 'Muse Spark,' a new initiative focused on scaling development toward personal superintelligence.",
+            "link": "https://ai.meta.com/blog/introducing-muse-spark-msl"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1775574000000,
+            "title": "Scaling How We Build and Test Our Most Advanced AI",
+            "summary_kr": "최첨단 AI 모델의 구축 및 테스트 과정을 고도화하기 위한 확장 전략을 발표했습니다.",
+            "summary_en": "A new strategy has been unveiled to scale the construction and testing processes for the most advanced AI models.",
+            "link": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1775574000000,
+            "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+            "summary_kr": "알타 데일리(Alta Daily)가 메타의 세그먼트 애니씽(Segment Anything) 기술을 활용해 디지털 옷장 서비스를 혁신하고 있습니다.",
+            "summary_en": "Alta Daily is leveraging Meta's 'Segment Anything' technology to reimagine and transform digital closet experiences.",
+            "link": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1775573458000,
+            "title": "Building AI that works for everyone starts with language",
+            "summary_kr": "마이크로소프트는 언어 장벽 해소를 위해 다국어 지원 AI 프로젝트를 추진하며, 전 세계 7,000개 언어 중 소수만이 LLM에 반영된 디지털 불균형을 개선하고자 합니다.",
+            "summary_en": "Microsoft is launching initiatives to address the digital divide in AI by expanding support for native languages, as fewer than 100 of the world's 7,000 languages are currently well-represented in large language models.",
+            "link": "https://news.microsoft.com/source/features/ai/building-ai-that-works-for-everyone-starts-with-language"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1775401200000,
+            "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
+            "summary_kr": "멀티플렉싱과 글로벌 추론 기능을 결합한 'SAM 3.1'을 통해 실시간 영상 감지 및 추적 성능과 접근성을 대폭 개선했습니다.",
+            "summary_en": "The release of 'SAM 3.1' significantly enhances real-time video detection and tracking by utilizing multiplexing and global reasoning for faster performance.",
+            "link": "https://ai.meta.com/blog/segment-anything-model-3"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1775401200000,
+            "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+            "summary_kr": "앤스로픽(Anthropic)이 구글 및 브로드컴과 수 기가와트 규모의 차세대 TPU 공급 계약을 체결하며 클라우드 인프라 확장을 가속화했습니다.",
+            "summary_en": "Anthropic has signed a multi-gigawatt agreement with Google and Broadcom for next-generation TPU capacity, aiming to support the rapid growth of its Claude model customer base.",
+            "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1775160000000,
+            "title": "Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight",
+            "summary_kr": "엔비디아는 비전 AI 파이프라인의 데이터 병목 현상을 해결하기 위해 VC-6 코덱의 배치 모드를 도입하고 엔사이트(Nsight)를 통해 효율성을 85% 향상했습니다.",
+            "summary_en": "NVIDIA has introduced a batch mode for the VC-6 codec and utilized NVIDIA Nsight to optimize kernel performance, resulting in an 85% reduction in per-image decode time for vision AI pipelines.",
+            "link": "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1775127360000,
+            "title": "Emotion concepts and their function in a large language model",
+            "summary_kr": "클로드(Claude) 분석 결과 AI가 학습 과정에서 인간의 감정과 유사한 내부 표현을 형성하며, 이는 모델의 윤리적 판단과 행동에 영향을 미치는 것으로 나타났습니다.",
+            "summary_en": "Research into Claude reveals that AI models develop internal representations of emotion concepts, which functionally influence decision-making and ethical outcomes, highlighting the need for safety-oriented training.",
+            "link": "https://www.anthropic.com/research/emotion-concepts-function"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1775055600000,
+            "title": "Accelerate Token Production in AI Factories Using Unified Services and Real-Time AI",
+            "summary_kr": "엔비디아는 AI 팩토리의 효율성을 극대화하기 위해 '미션 컨트롤 3.0'을 출시, 전력 오케스트레이션과 예측형 AIOps로 토큰 생산량을 최적화합니다.",
+            "summary_en": "NVIDIA launched 'Mission Control 3.0' to optimize AI factory output by integrating modular services, predictive AIOps, and intelligent power orchestration to maximize token production efficiency.",
+            "link": "https://developer.nvidia.com/blog/accelerate-token-production-in-ai-factories-using-unified-services-and-real-time-ai"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1775048400000,
+            "title": "The latest AI news we announced in March 2026",
+            "summary_kr": "구글은 2026년 3월 업데이트를 통해 제미나이의 개인화 기능을 강화하고, 검색, 지도, 오피스 등 주요 서비스 전반에 AI를 통합하여 사용자의 일상적 생산성을 혁신했습니다.",
+            "summary_en": "Google's March 2026 updates have significantly enhanced Gemini’s personalization capabilities and integrated advanced AI across Search, Maps, and workspace tools to create a more intuitive and productive user experience.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1774995420000,
+            "title": "How Australia Uses Claude: Findings from the Anthropic Economic Index",
+            "summary_kr": "앤스로픽은 호주에 새 사무소를 개설하고 정부와 AI 안전 연구 협약을 체결했으며, 호주 내 클로드 사용이 전 세계 평균보다 4배 높다고 발표했습니다.",
+            "summary_en": "Anthropic is expanding into Australia with a new Sydney office and a government MOU for AI safety, noting that Australian per capita usage of Claude is over four times the global average.",
+            "link": "https://www.anthropic.com/research/how-australia-uses-claude"
+        }
+    ]
+}
