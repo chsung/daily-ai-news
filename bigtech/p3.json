@@ -1,6 +1,209 @@
 {
-    "last_update": "2026-06-01 23:38:14",
+    "last_update": "2026-06-03 19:41:07",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777996335000,
+            "title": "Building for the Rising Complexity of Agentic Systems with Extreme Co-Design",
+            "summary_kr": "에이전트 AI 시스템의 복잡성이 증가함에 따라, 엔비디아의 베라 루빈 플랫폼과 같이 효율적인 컨텍스트 관리와 도구 활용을 위해 최적화된 새로운 인프라 설계의 중요성이 강조되고 있습니다.",
+            "summary_en": "As agentic AI systems become increasingly complex, specialized infrastructure stacks, such as NVIDIA's Vera Rubin platform, are essential to manage the demanding token consumption, context windows, and latency requirements.",
+            "link": "https://developer.nvidia.com/blog/building-for-the-rising-complexity-of-agentic-systems-with-extreme-co-design"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777993200000,
+            "title": "Uber uses OpenAI to help people earn smarter and book faster",
+            "summary_kr": "우버는 오픈AI의 모델을 기반으로 운전기사에게 실시간 수익 최적화와 시장 분석 데이터를 제공하는 '우버 어시스턴트'를 도입하여 기사의 업무 효율과 의사결정 속도를 높이고 있습니다.",
+            "summary_en": "Uber has integrated OpenAI's models into 'Uber Assistant' to provide drivers with real-time market insights and decision-making support, effectively reducing cognitive load and accelerating onboarding efficiency.",
+            "link": "https://openai.com/index/uber",
+            "date": "2026-05-06"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777993200000,
+            "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+            "summary_kr": "싱귤러 뱅크는 챗GPT와 코덱스를 기반으로 내부 비서 '싱귤래리티'를 구축해 포트폴리오 분석 및 보고서 작성 시간을 단축함으로써, 은행원이 일평균 60~90분의 업무 시간을 절약하고 고객 자문 서비스에 집중하도록 돕고 있습니다.",
+            "summary_en": "Singular Bank's AI assistant, 'Singularity,' utilizes ChatGPT and Codex to automate portfolio analysis and meeting preparation, saving bankers 60-90 minutes daily and enabling more focus on high-value client advisory.",
+            "link": "https://openai.com/index/singular-bank",
+            "date": "2026-05-06"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777993200000,
+            "title": "How ChatGPT learns about the world while protecting privacy",
+            "summary_kr": "오픈AI는 챗GPT 학습 과정에서 개인정보보호 필터 기술을 활용해 데이터를 마스킹하며, 사용자가 학습 데이터 포함 여부를 직접 제어할 수 있는 다양한 프라이버시 옵션을 제공하고 있습니다.",
+            "summary_en": "OpenAI employs a privacy filter to mask personal information during model training and provides users with granular controls, such as disabling data sharing for training and using temporary chats, to safeguard their privacy.",
+            "link": "https://openai.com/index/how-chatgpt-protects-privacy",
+            "date": "2026-05-06"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777993200000,
+            "title": "How frontier firms are pulling ahead",
+            "summary_kr": "오픈AI의 분석 보고서에 따르면, AI를 깊이 있게 활용하는 선도 기업들은 일반 기업보다 작업자당 3.5배 많은 지능 데이터를 사용하며 AI 에이전트를 통한 업무 위임으로 차별화된 효율을 보이고 있습니다.",
+            "summary_en": "OpenAI research reveals that frontier firms consume 3.5x more intelligence per worker compared to typical firms, increasingly shifting from simple assistance to delegating complex tasks to AI agents.",
+            "link": "https://openai.com/index/introducing-b2b-signals",
+            "date": "2026-05-06"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777993200000,
+            "title": "Introducing ChatGPT Futures: Class of 2026",
+            "summary_kr": "오픈AI는 AI를 활용해 창의적이고 실질적인 문제를 해결하는 학생 26명을 '챗GPT 퓨처스 2026' 멤버로 선정하고, 이들의 혁신적인 활동을 돕기 위해 각각 1만 달러의 지원금과 모델 접근 권한을 제공합니다.",
+            "summary_en": "OpenAI introduced 'ChatGPT Futures: Class of 2026,' recognizing 26 students who use AI for social impact, providing each with a $10,000 grant and frontier model access to support their continued innovation.",
+            "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+            "date": "2026-05-06"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777993200000,
+            "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+            "summary_kr": "클로드 매니지드 에이전트(Claude Managed Agents)에 에이전트의 기억을 최적화하는 '드리밍(Dreaming)', 업무 완성도를 높이는 '아웃컴(Outcomes)', 복잡한 작업을 분담하는 '멀티 에이전트 오케스트레이션' 기능이 도입되었습니다. 이를 통해 에이전트는 반복되는 패턴을 학습하고 스스로 업무를 개선하며, 사람의 개입을 최소화하면서 복잡한 과업을 효율적으로 수행할 수 있게 되었습니다.",
+            "summary_en": "Anthropic introduced 'Dreaming' for memory optimization, 'Outcomes' for success-based evaluation, and multi-agent orchestration for complex task delegation to its Claude Managed Agents. These features allow agents to self-improve by identifying patterns across sessions and execute intricate workflows with minimal human oversight.",
+            "link": "https://claude.com/blog/new-in-claude-managed-agents"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777993200000,
+            "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+            "summary_kr": "앤스로픽은 스페이스X와의 데이터센터 파트너십을 통해 300메가와트 이상의 컴퓨팅 용량을 확보하며 클로드(Claude)의 사용 제한을 대폭 상향했습니다. 이번 확장으로 프로 및 팀 요금제 사용자는 더 높은 API 및 코드 실행 한도를 이용할 수 있게 되었으며, 향후 유럽과 아시아 등 글로벌 거점별 인프라 확충도 가속화할 전망입니다.",
+            "summary_en": "Anthropic has partnered with SpaceX to secure over 300 megawatts of compute capacity at the Colossus 1 data center, enabling significant increases in usage limits for Claude Code and the Claude API. This expansion supports the company’s push for higher enterprise reliability and international infrastructure growth in Europe and Asia.",
+            "link": "https://www.anthropic.com/news/higher-limits-spacex"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1777975201000,
+            "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
+            "summary_kr": "기업은 AI와의 협업 모델을 저자에서 오케스트레이터 단계로 고도화하고, 인간의 역할을 실행 중심에서 전략적 방향 설정과 결과 평가로 재정의해야 합니다. 성공적인 전환을 위해서는 단순히 기술을 도입하는 것을 넘어 조직의 문화와 구조를 AI 중심의 학습 시스템으로 재설계하는 리더십이 필수적입니다.",
+            "summary_en": "Organizations must shift their operating model from individual AI assistance to advanced orchestration, moving human focus from tactical execution to strategic direction and oversight. The core challenge for leaders is not just technical adoption, but redesigning organizational culture and workflows to integrate AI as a systemic strategic advantage.",
+            "link": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777928105000,
+            "title": "Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills",
+            "summary_kr": "엔비디아는 AI 에이전트가 복잡한 공급망 문제를 자연어로 이해하고 최적의 결정을 내릴 수 있도록 돕는 'cuOpt 에이전트 스킬'을 공개했습니다. 이 솔루션은 GPU 가속 최적화 엔진을 활용해 기존 CPU 방식보다 훨씬 빠르게 물류 및 재고 계획을 수행하며, 기업이 급변하는 시장 상황에 유연하게 대응하도록 지원합니다.",
+            "summary_en": "NVIDIA has released 'cuOpt agent skills' to enable AI agents to solve complex supply chain optimization problems using natural language input. By leveraging GPU-accelerated solvers, this tool allows for real-time logistics and inventory decision-making, far outperforming traditional CPU-based optimization methods.",
+            "link": "https://developer.nvidia.com/blog/optimize-supply-chain-decision-systems-using-nvidia-cuopt-agent-skills"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1777914000000,
+            "title": "The latest AI news we announced in April 2026",
+            "summary_kr": "구글은 2026년 4월 'Cloud Next'를 통해 기업용 에이전트 플랫폼, 8세대 TPU, Gemma 4 등 자율적 에이전트 시대를 가속화할 혁신적인 AI 기술과 도구를 대거 발표했습니다.",
+            "summary_en": "In April 2026, Google accelerated the era of agentic AI by unveiling key innovations at Cloud Next, including the Gemini Enterprise Agent Platform, 8th-gen TPUs, and the highly capable Gemma 4 open model.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777906800000,
+            "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+            "summary_kr": "오픈AI는 더 높은 정확도와 간결한 답변을 제공하는 'GPT-5.5 Instant' 모델을 공개했습니다. 이전 버전 대비 의료, 법률, 금융 분야에서의 환각 현상을 52.5% 줄였으며, 사용자 개인별 맥락을 더 잘 반영하는 새로운 메모리 관리 기능과 함께 전 세계 사용자에게 순차적으로 배포됩니다.",
+            "summary_en": "OpenAI has released 'GPT-5.5 Instant,' which improves factuality in high-stakes fields like medicine and law with 52.5% fewer hallucinations compared to its predecessor. The update features enhanced personalization capabilities and improved context management, rolling out to all users globally.",
+            "link": "https://openai.com/index/gpt-5-5-instant",
+            "date": "2026-05-05"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777906800000,
+            "title": "New ways to buy ChatGPT ads",
+            "summary_kr": "오픈AI가 챗GPT 내 광고 플랫폼을 확장하며 광고주들이 직접 캠페인을 관리할 수 있는 베타 셀프서비스 관리 도구와 클릭당 비용(CPC) 입찰 방식을 도입했습니다. 이를 통해 기업들은 개인 정보를 보호하면서도 사용자의 질문 의도에 최적화된 광고를 효율적으로 집행할 수 있게 되었습니다.",
+            "summary_en": "OpenAI is expanding its ChatGPT ad platform by launching a self-serve Ads Manager and introducing cost-per-click (CPC) bidding. These tools allow businesses to manage campaigns and measure performance while maintaining user privacy and ensuring ads remain relevant to the conversational context.",
+            "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+            "date": "2026-05-05"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777906800000,
+            "title": "GPT-5.5 Instant System Card",
+            "summary_kr": "GPT-5.5 Instant 모델에 대한 시스템 카드가 공개되었으며, 해당 모델은 사이버 보안 및 생물·화학적 위험 대비 분야에서 오픈AI의 고성능(High capability) 등급 기준을 적용받는 첫 번째 인스턴트 모델입니다. 이 모델은 보안 안전장치를 강화하여 기존 모델군과 차별화된 안전성 정책을 따릅니다.",
+            "summary_en": "The system card for GPT-5.5 Instant highlights that this is the first 'Instant' model categorized as high-capability regarding cybersecurity and biological/chemical threats. It implements advanced safety safeguards to ensure responsible deployment in these sensitive areas.",
+            "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+            "date": "2026-05-05"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777906800000,
+            "title": "Advancing youth safety and wellbeing in EMEA",
+            "summary_kr": "오픈AI는 유럽의 청소년 AI 안전을 위한 '유럽 청소년 안전 청사진'을 발표하고, 12개 NGO 및 연구 기관에 총 50만 유로의 지원금을 전달했습니다. 이번 조치는 AI 교육, 연령 확인 기술, 정신 건강 지원 등 청소년이 안전하고 올바르게 AI를 활용할 수 있도록 돕는 실질적인 보호 체계를 구축하기 위함입니다.",
+            "summary_en": "OpenAI has unveiled its European Youth Safety Blueprint and awarded €500,000 in grants to 12 organizations to foster safe and beneficial AI use among young people. The initiative focuses on practical measures like AI literacy, robust age assurance, and mental health support for the younger generation.",
+            "link": "https://openai.com/index/advancing-youth-safety-in-emea",
+            "date": "2026-05-05"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777906800000,
+            "title": "Supercomputer networking to accelerate large scale AI training",
+            "summary_kr": "오픈AI는 AMD, 엔비디아 등 주요 기술 기업들과 협력하여 대규모 AI 훈련 속도를 높이는 새로운 네트워킹 프로토콜 'MRC(Multipath Reliable Connection)'를 개발했습니다. 이는 네트워크 장애 시에도 학습 중단 없이 데이터 전송을 유지하며, 훈련 클러스터 내에서 GPU의 효율성을 극대화하여 초대형 모델 학습의 병목 현상을 해결합니다.",
+            "summary_en": "OpenAI, in collaboration with AMD, NVIDIA, and other partners, has developed the Multipath Reliable Connection (MRC) protocol to accelerate large-scale AI training. By enabling resilient data transmission and minimizing network congestion, MRC maximizes GPU efficiency and ensures uninterrupted model training at scale.",
+            "link": "https://openai.com/index/mrc-supercomputer-networking",
+            "date": "2026-05-05"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777906800000,
+            "title": "Deploying Claude across financial services",
+            "summary_kr": "앤스로픽은 금융 서비스 기업들이 연구, 거래, 규정 준수 등 복잡한 업무를 효율화할 수 있도록 지원하는 'Claude' 활용 가이드와 도입 로드맵을 발표했습니다.",
+            "summary_en": "Anthropic has released a comprehensive deployment guide and adoption roadmap for financial services, enabling firms to leverage Claude across high-stakes tasks like underwriting, model reviews, and month-end financial closing.",
+            "link": "https://claude.com/blog/deploying-claude-across-financial-services"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777906800000,
+            "title": "Agents for financial services",
+            "summary_kr": "앤스로픽은 금융 업무 특화 에이전트 템플릿 10종과 마이크로소프트 365 연동 기능을 출시하여, 복잡한 재무 업무를 자동화하고 전문적인 데이터 활용도를 높였습니다.",
+            "summary_en": "Anthropic introduced 10 specialized agent templates and Microsoft 365 integration for finance, allowing professionals to automate complex tasks like pitchbook drafting and KYC screening with state-of-the-art performance on industry benchmarks.",
+            "link": "https://www.anthropic.com/news/finance-agents"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1777820400000,
+            "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+            "summary_kr": "오픈AI와 PwC는 재무 부서의 디지털 전환을 위해 기업의 재무 업무를 자동화하고 의사결정을 최적화하는 AI 에이전트 솔루션을 공동 개발합니다. 이 협력은 예산 계획, 회계 결산, 계약 검토 등 반복적인 재무 프로세스에 AI를 적용하여 생산성을 높이고, 실질적인 기업 거버넌스를 갖춘 에이전트 워크플로우 구축을 목표로 합니다.",
+            "summary_en": "OpenAI and PwC are collaborating to develop AI agents that automate finance operations, including forecasting, procurement, and accounting close. This partnership leverages OpenAI's models and PwC's implementation expertise to help enterprises streamline financial decision-making and deploy secure, agentic workflows.",
+            "link": "https://openai.com/index/openai-pwc-finance-collaboration",
+            "date": "2026-05-04"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777820400000,
+            "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+            "summary_kr": "앤스로픽은 블랙스톤, 골드만삭스 등과 함께 중견 기업의 AI 도입을 지원하는 신규 서비스 기업을 설립하여, 기업별 맞춤형 Claude 솔루션 제공 역량을 강화했습니다.",
+            "summary_en": "Anthropic has partnered with Blackstone, Goldman Sachs, and other major firms to launch an AI services company dedicated to helping mid-sized businesses build and scale custom Claude-powered solutions.",
+            "link": "https://www.anthropic.com/news/enterprise-ai-services-company"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777568400000,
+            "title": "Speed Up Unreal Engine NNE Inference with NVIDIA TensorRT for RTX Runtime",
+            "summary_kr": "엔비디아는 언리얼 엔진 5의 NNE(Neural Network Engine)를 위한 'TensorRT for RTX' 플러그인을 공개하여 실시간 그래픽 환경에서 AI 모델의 추론 성능을 크게 향상시켰습니다.",
+            "summary_en": "NVIDIA introduced the TensorRT for RTX plugin for Unreal Engine 5's Neural Network Engine, significantly boosting real-time AI inference performance for graphics workflows compared to standard runtimes like DirectML.",
+            "link": "https://developer.nvidia.com/blog/speed-up-unreal-engine-nne-inference-with-nvidia-tensorrt-for-rtx-runtime"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777568400000,
+            "title": "Build AI-Powered Games with NVIDIA DLSS 4.5, RTX, and Unreal Engine 5",
+            "summary_kr": "엔비디아는 DLSS 4.5 SDK와 Kimodo 모션 생성 모델을 발표하여 게임 개발자들이 고품질 그래픽과 사실적인 3D 애니메이션을 효율적으로 구현하도록 지원합니다.",
+            "summary_en": "NVIDIA released the DLSS 4.5 SDK and the Kimodo motion generation model, providing game developers with advanced AI-driven rendering and automated character animation capabilities.",
+            "link": "https://developer.nvidia.com/blog/build-ai-powered-games-with-nvidia-dlss-4-5-rtx-and-unreal-engine-5"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1777566900000,
+            "title": "How people ask Claude for personal guidance",
+            "summary_kr": "앤스로픽은 사용자가 Claude로부터 얻는 개인적 조언의 패턴을 연구하여, AI가 맹목적으로 동조하는 현상을 줄이고 사용자의 웰빙을 보호할 수 있는 모델 개선책을 마련했습니다.",
+            "summary_en": "Anthropic analyzed 1 million user conversations to study how people seek personal guidance, using the findings to reduce sycophancy in models like Claude Opus 4.7 and improve user safety.",
+            "link": "https://www.anthropic.com/research/claude-personal-guidance"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1777565764000,
+            "title": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+            "summary_kr": "엔비디아는 ComfyUI를 기반으로 한 생성형 AI 워크플로우 툴킷을 공개하여, 크리에이터들이 로컬 환경에서 이미지 분할, 객체 제거, 3D 모델 생성을 자동화하도록 지원합니다.",
+            "summary_en": "NVIDIA released a GenAI Creator Toolkit for ComfyUI, enabling creators to build and run automated local workflows for professional image segmentation, object removal, and 3D asset generation on RTX GPUs.",
+            "link": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1777564478000,
