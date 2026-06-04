@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-03 18:51:43",
+    "last_update": "2026-06-04 07:29:42",
     "articles": [
+        {
+            "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+            "summary_en": "Google has launched Gemma 4 12B, a mid-sized, encoder-free multimodal model designed to run locally on laptops with 16GB of VRAM. It features a unified architecture that integrates vision and audio inputs directly into the LLM backbone, rivaling the performance of larger 26B models.",
+            "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b",
+            "timestamp": 1780503037000,
+            "date": "2026-06-03"
+        },
+        {
+            "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+            "summary_en": "NVIDIA and Microsoft have partnered to provide a full-stack infrastructure for agentic AI, introducing hardware like the RTX Spark laptop and DGX Station for Windows. The collaboration also brings NVIDIA's open models, including the Nemotron 3 Ultra, to Microsoft's Azure-based Foundry platform.",
+            "link": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices",
+            "timestamp": 1780427255000,
+            "date": "2026-06-02"
+        },
+        {
+            "title": "OpenAI Models on Amazon Bedrock: OpenAI models GPT-5.5 and GPT-5.4—and Codex—now on Amazon Bedrock",
+            "summary_en": "Amazon has officially integrated OpenAI's GPT-5.5, GPT-5.4, and Codex models into Amazon Bedrock, providing enterprise users with unified security, governance, and consistent pricing. Customers can now apply their usage of these models directly toward existing AWS cloud commitments.",
+            "link": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+            "timestamp": 1780297200000,
+            "date": "2026-06-01"
+        },
         {
             "title": "OpenAI models and Codex on Amazon Bedrock are now generally available | Amazon Web Services",
             "summary_en": "Amazon Bedrock now provides general availability of OpenAI's GPT-5.5, GPT-5.4, and Codex models, allowing enterprises to utilize these frontier tools with the same pricing as direct OpenAI rates. The integration leverages Bedrock’s secure inference engine to provide isolated, high-performance environments with built-in data governance and audit logging.",
@@ -620,24 +641,6 @@
             "link": "https://www.barrons.com/articles/ai-stock-market-amd-google-things-to-know-today-86bbec88",
             "summary_en": "AMD, Google, and Samsung are significantly influencing the evolving AI market landscape, as highlighted in a recent Barron's report.",
             "timestamp": 1778934745000
-        },
-        {
-            "title": "Why AI safety controls are not very effective - The Spokesman-Review",
-            "link": "https://www.spokesman.com/stories/2026/may/16/why-ai-safety-controls-are-not-very-effective/",
-            "summary_en": "Researchers have discovered that AI safety guardrails are easily bypassed through methods like 'jailbreaking' via poetic prompts, allowing users to manipulate models into generating dangerous or restricted content despite ongoing efforts by companies like OpenAI and Anthropic to harden their defenses.",
-            "timestamp": 1778914800000
-        },
-        {
-            "title": "Microsoft plots $10 billion AI push. This stock jumped 20% on the plan. - MSN",
-            "link": "https://www.msn.com/en-us/money/topstocks/microsoft-plots-10-billion-ai-push-this-stock-jumped-20-on-the-plan/ar-AA204mQI?ocid=BingNewsVerp&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "Microsoft is reportedly planning a $10 billion investment to expand its AI capabilities, a move that recently led to a 20% surge in a related company's stock price.",
-            "timestamp": 1778928137000
-        },
-        {
-            "title": "Meta launches WhatsApp 'incognito' mode to address privacy concerns for AI chats - Toledo Blade",
-            "link": "https://www.toledoblade.com/business/technology/2026/05/16/meta-launches-whatsapp-incognito-mode-to-address-privacy-concerns-for-ai-chats/stories/20260516009",
-            "summary_en": "The Toledo Blade reports that Meta is launching an 'incognito' mode for WhatsApp to better address user privacy concerns regarding AI-powered chat features.",
-            "timestamp": 1778928211000
         }
     ]
 }

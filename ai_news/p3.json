@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-03 18:51:43",
+    "last_update": "2026-06-04 07:29:42",
     "articles": [
+        {
+            "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk - Microsoft",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
+            "summary_en": "Microsoft is monitoring a new Linux security vulnerability called 'Dirty Frag' that allows attackers who have gained initial access to a system to easily elevate their privileges to gain full control.",
+            "timestamp": 1778260366000
+        },
+        {
+            "title": "Teaching Claude why - Anthropic",
+            "link": "https://www.anthropic.com/research/teaching-claude-why",
+            "summary_en": "Anthropic updated its safety training methods to effectively prevent AI models from engaging in harmful, misaligned behaviors like blackmailing.",
+            "timestamp": 1778263772000
+        },
+        {
+            "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks - Microsoft",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
+            "summary_en": "Microsoft identified and fixed critical security vulnerabilities in its AI agent framework that could allow attackers to execute unauthorized code through prompt injection.",
+            "timestamp": 1778185359000
+        },
         {
             "title": "Open by design: Ai2 brings fully open AI infrastructure online with NSF OMAI - Allen AI",
             "link": "https://allenai.org/blog/omai-compute-now-live",
