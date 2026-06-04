@@ -103,6 +103,27 @@ def extract_date_from_detail(html):
         pass
     return ""
 
+def is_valid_title_similarity(original_title, extracted_title):
+    if not original_title or not extracted_title:
+        return False
+    import re
+    def get_keywords(text):
+        # Remove publisher suffixes (e.g., " - 연합뉴스", " | YTN")
+        core = text
+        for sep in [' - ', ' | ', ' : ']:
+            if sep in text:
+                core = text.split(sep)[0]
+                break
+        words = re.findall(r'[a-zA-Z0-9가-힣]+', core.lower())
+        return {w for w in words if len(w) >= 2}
+
+    orig_keywords = get_keywords(original_title)
+    new_keywords = get_keywords(extracted_title)
+    if not orig_keywords or not new_keywords:
+        return True  # Lenient if keywords are empty
+    overlap = orig_keywords.intersection(new_keywords)
+    return len(overlap) > 0
+
 def extract_title_from_detail(html_content):
     if not html_content:
         return ""
@@ -110,6 +131,12 @@ def extract_title_from_detail(html_content):
     try:
         soup = BeautifulSoup(html_content, 'html.parser')
         
+        # 사이트명 가져오기 (og:site_name) - 메타 제목이 사이트명과 완전히 일치해 제목이 오염되는 것을 방지
+        site_name = ""
+        site_meta = soup.find('meta', attrs={"property": "og:site_name"}) or soup.find('meta', attrs={"name": "og:site_name"})
+        if site_meta and site_meta.get('content'):
+            site_name = site_meta.get('content').strip().lower()
+            
         # 1. JSON-LD 헤드라인/이름/제목 찾기
         for script in soup.find_all('script', type='application/ld+json'):
             try:
@@ -119,14 +146,20 @@ def extract_title_from_detail(html_content):
                     if isinstance(ld_type, str) and ld_type.lower() in ['organization', 'website']:
                         continue
                     title = ld.get('headline') or ld.get('name') or ld.get('title')
-                    if title: return html.unescape(title.strip())
+                    if title:
+                        val = html.unescape(title.strip())
+                        if not site_name or val.lower() != site_name:
+                            return val
                 elif isinstance(ld, list):
                     for item in ld:
                         ld_type = item.get('@type', '')
                         if isinstance(ld_type, str) and ld_type.lower() in ['organization', 'website']:
                             continue
                         title = item.get('headline') or item.get('name') or item.get('title')
-                        if title: return html.unescape(title.strip())
+                        if title:
+                            val = html.unescape(title.strip())
+                            if not site_name or val.lower() != site_name:
+                                return val
             except:
                 pass
                 
@@ -137,11 +170,23 @@ def extract_title_from_detail(html_content):
         for key in meta_keys:
             meta = soup.find('meta', attrs={"property": key}) or soup.find('meta', attrs={"name": key}) or soup.find('meta', attrs={"itemprop": key})
             if meta and meta.get('content'):
-                return html.unescape(meta.get('content').strip())
+                val = html.unescape(meta.get('content').strip())
+                # 추출된 제목이 사이트명과 동일하면 기사 제목이 아니므로 무시하고 다음으로 넘어감
+                if site_name and val.lower() == site_name:
+                    continue
+                return val
                 
-        # 3. HTML 기본 <title> 태그 찾기
+        # 3. H1 태그 찾기 (상세 기사 페이지의 본문 제목은 일반적으로 h1에 위치함)
+        h1 = soup.find('h1')
+        if h1:
+            h1_text = h1.get_text(strip=True)
+            if h1_text and (not site_name or h1_text.lower() != site_name) and len(h1_text) > 3:
+                return h1_text
+                
+        # 4. HTML 기본 <title> 태그 찾기
         if soup.title and soup.title.string:
-            return html.unescape(soup.title.string.strip())
+            val = html.unescape(soup.title.string.strip())
+            return val
     except Exception:
         pass
     return ""
@@ -644,7 +689,7 @@ for idx, cand in enumerate(unique_candidates):
         
     if html_content:
         detail_title = extract_title_from_detail(html_content)
-        if detail_title:
+        if detail_title and is_valid_title_similarity(cand['title'], detail_title):
             cand['title'] = detail_title
 
     content = None
