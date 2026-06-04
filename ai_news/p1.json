@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-04 07:29:42",
+    "last_update": "2026-06-04 17:49:26",
     "articles": [
+        {
+            "title": "Pinterest signs $4 billion AWS deal to scale AI for 600 million users - About Amazon",
+            "summary_en": "Pinterest has committed $4 billion through 2031 to expand its cloud infrastructure with AWS, marking its largest investment to date. The partnership leverages Amazon’s custom Trainium and Graviton silicon to scale generative AI models for personalized visual search across its 600 million monthly users.",
+            "link": "https://www.aboutamazon.com/news/aws/pinterest-aws-4-billion-ai-infrastructure-deal",
+            "timestamp": 1780578379000,
+            "date": "2026-06-04"
+        },
+        {
+            "title": "IBM and Google Cloud Announce Strategic Partnership to Scale AI with Human Expertise and AI‑Powered Delivery - IBM Newsroom",
+            "summary_en": "IBM and Google Cloud have launched a strategic partnership to accelerate enterprise AI adoption by integrating IBM’s consulting expertise with Google’s Gemini Enterprise Agent Platform. This collaboration focuses on deploying industry-specific AI agents and modernizing legacy systems across sectors like finance, telecommunications, and healthcare.",
+            "link": "https://newsroom.ibm.com/2026-06-04-ibm-and-google-cloud-announce-strategic-partnership-to-scale-ai-with-human-expertise-and-ai-powered-delivery",
+            "timestamp": 1780567297000,
+            "date": "2026-06-04"
+        },
         {
             "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
             "summary_en": "Google has launched Gemma 4 12B, a mid-sized, encoder-free multimodal model designed to run locally on laptops with 16GB of VRAM. It features a unified architecture that integrates vision and audio inputs directly into the LLM backbone, rivaling the performance of larger 26B models.",
@@ -629,18 +643,6 @@
             "link": "https://mashable.com/article/anthropic-mythos-apple-bugs",
             "summary_en": "Anthropic's restricted-access AI tool, Claude Mythos, has successfully assisted security researchers in identifying critical kernel memory corruption vulnerabilities in Apple’s macOS, highlighting the model's high proficiency in automating bug discovery.",
             "timestamp": 1779006058000
-        },
-        {
-            "title": "Nvidia plans open-source AI agent platform 'NemoClaw' for enterprises: Wired - MSN",
-            "link": "https://www.msn.com/en-us/money/other/nvidia-plans-open-source-ai-agent-platform-nemoclaw-for-enterprises-wired/ar-AA1XSltS?ocid=BingNewsVerp&utm_source=read.youreverydayai.com&utm_medium=referral&utm_campaign=ep-730-is-ai-creating-a-great-recession-for-white-collar-workers-inside-anthropic-s-labor-report",
-            "summary_en": "Nvidia is reportedly developing 'NemoClaw,' an open-source AI agent platform tailored for enterprise-level applications.",
-            "timestamp": 1779002974000
-        },
-        {
-            "title": "AI Has Changed the Market Landscape. AMD, Google, Samsung Show Just How Much. - Barron's",
-            "link": "https://www.barrons.com/articles/ai-stock-market-amd-google-things-to-know-today-86bbec88",
-            "summary_en": "AMD, Google, and Samsung are significantly influencing the evolving AI market landscape, as highlighted in a recent Barron's report.",
-            "timestamp": 1778934745000
         }
     ]
 }

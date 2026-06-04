@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-04 07:29:42",
+    "last_update": "2026-06-04 17:49:26",
     "articles": [
+        {
+            "title": "Nvidia plans open-source AI agent platform 'NemoClaw' for enterprises: Wired - MSN",
+            "link": "https://www.msn.com/en-us/money/other/nvidia-plans-open-source-ai-agent-platform-nemoclaw-for-enterprises-wired/ar-AA1XSltS?ocid=BingNewsVerp&utm_source=read.youreverydayai.com&utm_medium=referral&utm_campaign=ep-730-is-ai-creating-a-great-recession-for-white-collar-workers-inside-anthropic-s-labor-report",
+            "summary_en": "Nvidia is reportedly developing 'NemoClaw,' an open-source AI agent platform tailored for enterprise-level applications.",
+            "timestamp": 1779002974000
+        },
+        {
+            "title": "AI Has Changed the Market Landscape. AMD, Google, Samsung Show Just How Much. - Barron's",
+            "link": "https://www.barrons.com/articles/ai-stock-market-amd-google-things-to-know-today-86bbec88",
+            "summary_en": "AMD, Google, and Samsung are significantly influencing the evolving AI market landscape, as highlighted in a recent Barron's report.",
+            "timestamp": 1778934745000
+        },
         {
             "title": "Why AI safety controls are not very effective - The Spokesman-Review",
             "link": "https://www.spokesman.com/stories/2026/may/16/why-ai-safety-controls-are-not-very-effective/",
@@ -588,18 +600,6 @@
             "link": "https://theaieconomy.substack.com/p/ai2-nsf-omai-cluster-live-open-ai",
             "summary_en": "The Allen Institute for AI has launched a federally funded, open-access computing cluster to help researchers develop transparent AI models for science, reducing reliance on major tech corporations.",
             "timestamp": 1778204160000
-        },
-        {
-            "title": "Agents, human agency, and the opportunity for every organization - Microsoft",
-            "link": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
-            "summary_en": "Microsoft research indicates that managers play a crucial role in AI success by actively modeling its use and creating a safe environment for employees to experiment with new tools.",
-            "timestamp": 1777979575000
-        },
-        {
-            "title": "Natural Language Autoencoders: Turning Claude’s thoughts into text - Anthropic",
-            "link": "https://www.anthropic.com/research/natural-language-autoencoders",
-            "summary_en": "Anthropic has developed a new method called Natural Language Autoencoders that translates the internal, complex numerical thoughts of the AI model Claude into readable text to improve safety and reliability.",
-            "timestamp": 1778174603000
         }
     ]
 }
