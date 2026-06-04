@@ -1,6 +1,64 @@
 {
-    "last_update": "2026-06-03 19:41:07",
+    "last_update": "2026-06-04 18:07:04",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1778079600000,
+            "title": "Parloa builds service agents customers want to talk to",
+            "summary_kr": "팔로아(Parloa)는 기업형 고객 서비스 자동화를 위해 오픈AI 모델 기반의 'AI 에이전트 관리 플랫폼(AMP)'을 구축했습니다. 코딩 없이 자연어 기반으로 서비스 시나리오를 설정하고 실시간 시뮬레이션을 거쳐 복잡한 다단계 고객 문의를 효율적으로 해결합니다.",
+            "summary_en": "Parloa has launched its AI Agent Management Platform (AMP) powered by OpenAI models to automate enterprise-scale customer service. The platform allows non-technical teams to define agent behavior using natural language, enabling reliable and efficient handling of complex, multi-step customer inquiries.",
+            "link": "https://openai.com/index/parloa",
+            "date": "2026-05-07"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1778079600000,
+            "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+            "summary_kr": "오픈AI가 사이버 보안 방어 체계 강화를 위해 전문가 전용 모델인 'GPT-5.5-Cyber'를 제한적 공개했습니다. 신뢰할 수 있는 보안 전문가들을 위한 'TAC(Trusted Access for Cyber)' 프레임워크를 통해 취약점 분석 및 위협 대응 등 전문적인 보안 워크플로우를 지원합니다.",
+            "summary_en": "OpenAI has launched a limited preview of 'GPT-5.5-Cyber,' a specialized model designed to bolster cybersecurity defenses. Through the Trusted Access for Cyber (TAC) framework, verified security professionals receive enhanced capabilities for vulnerability triage and threat analysis.",
+            "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+            "date": "2026-05-07"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1778079600000,
+            "title": "Google Flow Music and Believe bring next-gen tools to artists",
+            "summary_kr": "구글은 음악 기업 Believe와 협력하여 자사의 최신 AI 음악 생성 모델 'Lyria 3 Pro' 기반의 'Flow Music' 도구를 아티스트들에게 제공하고, 창작자들과 함께 음악 기술의 미래를 공동 개발합니다.",
+            "summary_en": "Google has partnered with Believe to provide artists with 'Flow Music,' powered by its advanced 'Lyria 3 Pro' model, fostering a collaborative approach to co-create the future of music technology.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778079600000,
+            "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
+            "summary_kr": "클로드(Claude)가 엑셀, 파워포인트, 워드, 아웃룩 등 마이크로소프트 365 앱과 연동되어 업무 컨텍스트를 유지한 채 자동화된 협업을 지원합니다. 기업 관리자는 엔터프라이즈급 보안 및 애널리틱스 API를 통해 사용 활동을 추적하고 제어할 수 있습니다.",
+            "summary_en": "Claude is now integrated across Microsoft 365 apps, allowing users to maintain workflow context across Excel, PowerPoint, Word, and Outlook; enterprise admins can manage deployment and monitor activity via security controls and an analytics API.",
+            "link": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1778025600000,
+            "title": "New Compute Partnership with Anthropic",
+            "summary_kr": "스페이스X와 앤스로픽이 협력하여 22만 개 이상의 엔비디아 GPU로 구성된 AI 슈퍼컴퓨터 '콜로서스 1'을 활용한 대규모 AI 컴퓨팅 파트너십을 체결했습니다.",
+            "summary_en": "SpaceX and Anthropic have formed a partnership to utilize 'Colossus 1,' an AI supercomputer equipped with over 220,000 NVIDIA GPUs, to scale AI training and infrastructure capabilities.",
+            "link": "https://x.ai/news/anthropic-compute-partnership"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1778025600000,
+            "title": "Connectors in web, iOS, and Android",
+            "summary_kr": "그록(Grok)은 아웃룩, 구글 워크스페이스, 노션, 깃허브 등 주요 업무 도구와 직접 연결되는 '커넥터' 기능을 출시하여 플랫폼 간 이동 없이 데이터를 검색하고 문서를 편집할 수 있게 했습니다.",
+            "summary_en": "Grok has launched 'Connectors,' enabling direct integration with tools like Google Workspace, Notion, and GitHub to facilitate seamless data synthesis and document management within the Grok interface.",
+            "link": "https://x.ai/news/grok-connectors"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1778025600000,
+            "title": "Grok Imagine Quality Mode API",
+            "summary_kr": "그록(Grok)의 '이미지 퀄리티 모드 API'는 브랜드 스타일을 유지하면서 상세한 프롬프트를 통해 고품질의 실사 제품 렌더링, 소셜 미디어 광고 자산 및 콘텐츠를 생성하는 기능을 제공합니다.",
+            "summary_en": "Grok's 'Imagine Quality Mode API' enables the generation of high-end photorealistic product renders and marketing assets, maintaining consistent brand style through detailed prompt-based adjustments.",
+            "link": "https://x.ai/news/grok-imagine-quality-mode"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1777996335000,

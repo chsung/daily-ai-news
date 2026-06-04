@@ -1,6 +1,63 @@
 {
-    "last_update": "2026-06-03 19:41:07",
+    "last_update": "2026-06-04 18:07:04",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1779380809000,
+            "title": "Microsoft Research’s Vega lets you prove who you are while protecting your privacy",
+            "summary_kr": "마이크로소프트의 '베가(Vega)'는 영지식 증명 기술을 통해 개인정보를 노출하지 않고도 모바일 기기에서 정부 발급 신원 정보를 안전하게 인증할 수 있게 하는 효율적인 솔루션입니다.",
+            "summary_en": "Microsoft's 'Vega' is an efficient solution that leverages zero-knowledge proofs to enable secure identity verification on mobile devices without exposing sensitive government-issued credentials.",
+            "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779377400000,
+            "title": "Building Token‑Metered AI Services on Telco AI Factories",
+            "summary_kr": "통신사들은 단순히 GPU 인프라를 대여하는 단계를 넘어, 기업 고객이 요구하는 성능과 SLA를 보장하는 '토큰 기반 AI 서비스(TaaS)' 제공자로 진화함으로써 수익성을 극대화해야 합니다.",
+            "summary_en": "Telcos must evolve from mere infrastructure providers into 'token-metered AI service' providers to maximize profitability by delivering high-margin, production-ready AI services that meet enterprise demands for performance and SLAs.",
+            "link": "https://developer.nvidia.com/blog/building-token-metered-ai-services-on-telco-ai-factories"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779375600000,
+            "title": "How Virgin Atlantic ships faster with Codex",
+            "summary_kr": "버진 애틀랜틱 항공은 코덱스를 도입하여 레거시 코드 리팩토링 시간을 2주에서 30분으로 단축하고, 모바일 앱 출시 시 결함 제로를 달성하는 성과를 거두었습니다.",
+            "summary_en": "Virgin Atlantic successfully utilized Codex to reduce legacy code refactoring time from two weeks to under 30 minutes, achieving near-perfect unit test coverage and zero P1 defects for its mobile app launch.",
+            "link": "https://openai.com/index/virgin-atlantic",
+            "date": "2026-05-22"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779375600000,
+            "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+            "summary_kr": "앤스로픽 재무팀은 클로드(Claude)를 활용해 복잡한 재무 데이터의 일관성을 유지하고, 보고서 작성 등 반복 업무 시간을 대폭 줄여 전략적 판단에 집중하고 있습니다.",
+            "summary_en": "Anthropic's finance team is leveraging Claude to automate data validation and narrative drafting, reclaiming up to 20 hours per week and ensuring consistency across board-level financial communications.",
+            "link": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779361353000,
+            "title": "From AI pilots to enterprise impact: Why execution is the new differentiator",
+            "summary_kr": "기업의 AI 경쟁력은 단순한 실험을 넘어 데이터와 보안, 신뢰를 기반으로 한 업무 전반의 실질적 실행과 확장성에 달려 있습니다.",
+            "summary_en": "The competitive edge in AI has shifted from experimentation to execution, requiring a foundation of trust, security, and integration to scale meaningful impact across the enterprise.",
+            "link": "https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779361207000,
+            "title": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
+            "summary_kr": "EY와 마이크로소프트가 10억 달러 이상을 공동 투자하여 기업의 AI 도입을 실험 단계를 넘어 전사적 가치 창출로 확장하는 전략적 이니셔티브를 발표했습니다.",
+            "summary_en": "EY and Microsoft are jointly investing over $1 billion in a new initiative to help enterprises scale AI beyond experimentation, leveraging integrated engineering and consulting teams to drive measurable business value.",
+            "link": "https://news.microsoft.com/source/2026/05/21/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprisewide-value-creation-and-move-beyond-experimentation"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1779321600000,
+            "title": "Use Grok in OpenCode",
+            "summary_kr": "오픈코드(OpenCode) 사용자는 이제 X 프리미엄 구독을 통해 그록(Grok)을 연결하여 터미널 기반의 코딩 에이전트 기능을 활용할 수 있게 되었습니다.",
+            "summary_en": "OpenCode users can now integrate their Grok or X Premium subscription to leverage Grok for terminal-based coding, mirroring the functionality found in xAI's specialized coding agent.",
+            "link": "https://x.ai/news/grok-opencode"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1779307200000,
@@ -771,64 +828,6 @@
             "summary_en": "ChatGPT has introduced 'Trusted Contact,' an optional safety feature allowing adult users to nominate a support contact who may be notified during serious safety concerns. This layer of protection aims to encourage social connection while maintaining strict user privacy through human-reviewed notifications.",
             "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
             "date": "2026-05-07"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778079600000,
-            "title": "Parloa builds service agents customers want to talk to",
-            "summary_kr": "팔로아(Parloa)는 기업형 고객 서비스 자동화를 위해 오픈AI 모델 기반의 'AI 에이전트 관리 플랫폼(AMP)'을 구축했습니다. 코딩 없이 자연어 기반으로 서비스 시나리오를 설정하고 실시간 시뮬레이션을 거쳐 복잡한 다단계 고객 문의를 효율적으로 해결합니다.",
-            "summary_en": "Parloa has launched its AI Agent Management Platform (AMP) powered by OpenAI models to automate enterprise-scale customer service. The platform allows non-technical teams to define agent behavior using natural language, enabling reliable and efficient handling of complex, multi-step customer inquiries.",
-            "link": "https://openai.com/index/parloa",
-            "date": "2026-05-07"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778079600000,
-            "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-            "summary_kr": "오픈AI가 사이버 보안 방어 체계 강화를 위해 전문가 전용 모델인 'GPT-5.5-Cyber'를 제한적 공개했습니다. 신뢰할 수 있는 보안 전문가들을 위한 'TAC(Trusted Access for Cyber)' 프레임워크를 통해 취약점 분석 및 위협 대응 등 전문적인 보안 워크플로우를 지원합니다.",
-            "summary_en": "OpenAI has launched a limited preview of 'GPT-5.5-Cyber,' a specialized model designed to bolster cybersecurity defenses. Through the Trusted Access for Cyber (TAC) framework, verified security professionals receive enhanced capabilities for vulnerability triage and threat analysis.",
-            "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-            "date": "2026-05-07"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1778079600000,
-            "title": "Google Flow Music and Believe bring next-gen tools to artists",
-            "summary_kr": "구글은 음악 기업 Believe와 협력하여 자사의 최신 AI 음악 생성 모델 'Lyria 3 Pro' 기반의 'Flow Music' 도구를 아티스트들에게 제공하고, 창작자들과 함께 음악 기술의 미래를 공동 개발합니다.",
-            "summary_en": "Google has partnered with Believe to provide artists with 'Flow Music,' powered by its advanced 'Lyria 3 Pro' model, fostering a collaborative approach to co-create the future of music technology.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778079600000,
-            "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
-            "summary_kr": "클로드(Claude)가 엑셀, 파워포인트, 워드, 아웃룩 등 마이크로소프트 365 앱과 연동되어 업무 컨텍스트를 유지한 채 자동화된 협업을 지원합니다. 기업 관리자는 엔터프라이즈급 보안 및 애널리틱스 API를 통해 사용 활동을 추적하고 제어할 수 있습니다.",
-            "summary_en": "Claude is now integrated across Microsoft 365 apps, allowing users to maintain workflow context across Excel, PowerPoint, Word, and Outlook; enterprise admins can manage deployment and monitor activity via security controls and an analytics API.",
-            "link": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1778025600000,
-            "title": "New Compute Partnership with Anthropic",
-            "summary_kr": "스페이스X와 앤스로픽이 협력하여 22만 개 이상의 엔비디아 GPU로 구성된 AI 슈퍼컴퓨터 '콜로서스 1'을 활용한 대규모 AI 컴퓨팅 파트너십을 체결했습니다.",
-            "summary_en": "SpaceX and Anthropic have formed a partnership to utilize 'Colossus 1,' an AI supercomputer equipped with over 220,000 NVIDIA GPUs, to scale AI training and infrastructure capabilities.",
-            "link": "https://x.ai/news/anthropic-compute-partnership"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1778025600000,
-            "title": "Connectors in web, iOS, and Android",
-            "summary_kr": "그록(Grok)은 아웃룩, 구글 워크스페이스, 노션, 깃허브 등 주요 업무 도구와 직접 연결되는 '커넥터' 기능을 출시하여 플랫폼 간 이동 없이 데이터를 검색하고 문서를 편집할 수 있게 했습니다.",
-            "summary_en": "Grok has launched 'Connectors,' enabling direct integration with tools like Google Workspace, Notion, and GitHub to facilitate seamless data synthesis and document management within the Grok interface.",
-            "link": "https://x.ai/news/grok-connectors"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1778025600000,
-            "title": "Grok Imagine Quality Mode API",
-            "summary_kr": "그록(Grok)의 '이미지 퀄리티 모드 API'는 브랜드 스타일을 유지하면서 상세한 프롬프트를 통해 고품질의 실사 제품 렌더링, 소셜 미디어 광고 자산 및 콘텐츠를 생성하는 기능을 제공합니다.",
-            "summary_en": "Grok's 'Imagine Quality Mode API' enables the generation of high-end photorealistic product renders and marketing assets, maintaining consistent brand style through detailed prompt-based adjustments.",
-            "link": "https://x.ai/news/grok-imagine-quality-mode"
         }
     ]
 }
