@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-04 17:49:26",
+    "last_update": "2026-06-05 07:14:40",
     "articles": [
+        {
+            "title": "EU Commission in talks with OpenAI and Anthropic over AI models - AOL.com",
+            "link": "https://www.aol.com/articles/eu-commission-talks-openai-anthropic-104846000.html",
+            "summary_en": "The European Commission is engaging in diplomatic discussions with OpenAI and Anthropic to explore potential regulatory access to their AI models, with OpenAI proactively offering cooperation while talks with Anthropic remain in preliminary stages.",
+            "timestamp": 1778991806000
+        },
+        {
+            "title": "DeepSeek unveils new AI model, targets OpenAI and Anthropic - MSN",
+            "link": "https://www.msn.com/en-us/health/other/deepseek-unveils-new-ai-model-targets-openai-and-anthropic/ar-AA21BOlI?gemSnapshotKey=GM14E0454F-snapshot-1&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "DeepSeek has launched a new AI model designed to compete directly with leading industry players like OpenAI and Anthropic.",
+            "timestamp": 1778993588000
+        },
+        {
+            "title": "Anthropic's Mythos is already finding security flaws in Apple software - Mashable",
+            "link": "https://mashable.com/article/anthropic-mythos-apple-bugs",
+            "summary_en": "Anthropic's restricted-access AI tool, Claude Mythos, has successfully assisted security researchers in identifying critical kernel memory corruption vulnerabilities in Apple’s macOS, highlighting the model's high proficiency in automating bug discovery.",
+            "timestamp": 1779006058000
+        },
         {
             "title": "Nvidia plans open-source AI agent platform 'NemoClaw' for enterprises: Wired - MSN",
             "link": "https://www.msn.com/en-us/money/other/nvidia-plans-open-source-ai-agent-platform-nemoclaw-for-enterprises-wired/ar-AA1XSltS?ocid=BingNewsVerp&utm_source=read.youreverydayai.com&utm_medium=referral&utm_campaign=ep-730-is-ai-creating-a-great-recession-for-white-collar-workers-inside-anthropic-s-labor-report",
@@ -582,24 +600,6 @@
             "link": "https://news.microsoft.com/source/emea/2026/05/new-microsoft-data-ai-adoption-continues-to-rise-switzerland-remains-above-average/",
             "summary_en": "Global generative AI usage is steadily increasing, with Switzerland leading as over one-third of its working-age population adopts AI tools for daily tasks.",
             "timestamp": 1778175434000
-        },
-        {
-            "title": "Allen Institute for AI launches big computing cluster for $152M project backed by Nvidia and NSF - GeekWire",
-            "link": "https://www.geekwire.com/2026/allen-institute-for-ai-brings-152m-federally-backed-computing-project-online/",
-            "summary_en": "The Allen Institute for AI has launched a powerful new computing cluster to support a $152 million project aimed at creating open-source AI models for scientific research.",
-            "timestamp": 1778179767000
-        },
-        {
-            "title": "Microsoft’s new research finds an AI ‘paradox’ holding companies back - GeekWire",
-            "link": "https://www.geekwire.com/2026/microsofts-new-research-finds-an-ai-paradox-holding-companies-back/",
-            "summary_en": "A Microsoft study reveals that company culture and outdated management practices, rather than the technology itself, are the primary obstacles preventing businesses from successfully adopting AI.",
-            "timestamp": 1777975200000
-        },
-        {
-            "title": "Ai2's NSF OMAI Cluster Is Live. Here's What It Means for Open AI. - The AI Economy | Ken Yeung",
-            "link": "https://theaieconomy.substack.com/p/ai2-nsf-omai-cluster-live-open-ai",
-            "summary_en": "The Allen Institute for AI has launched a federally funded, open-access computing cluster to help researchers develop transparent AI models for science, reducing reliance on major tech corporations.",
-            "timestamp": 1778204160000
         }
     ]
 }

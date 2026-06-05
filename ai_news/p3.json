@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-04 17:49:26",
+    "last_update": "2026-06-05 07:14:40",
     "articles": [
+        {
+            "title": "Allen Institute for AI launches big computing cluster for $152M project backed by Nvidia and NSF - GeekWire",
+            "link": "https://www.geekwire.com/2026/allen-institute-for-ai-brings-152m-federally-backed-computing-project-online/",
+            "summary_en": "The Allen Institute for AI has launched a powerful new computing cluster to support a $152 million project aimed at creating open-source AI models for scientific research.",
+            "timestamp": 1778179767000
+        },
+        {
+            "title": "Microsoft’s new research finds an AI ‘paradox’ holding companies back - GeekWire",
+            "link": "https://www.geekwire.com/2026/microsofts-new-research-finds-an-ai-paradox-holding-companies-back/",
+            "summary_en": "A Microsoft study reveals that company culture and outdated management practices, rather than the technology itself, are the primary obstacles preventing businesses from successfully adopting AI.",
+            "timestamp": 1777975200000
+        },
+        {
+            "title": "Ai2's NSF OMAI Cluster Is Live. Here's What It Means for Open AI. - The AI Economy | Ken Yeung",
+            "link": "https://theaieconomy.substack.com/p/ai2-nsf-omai-cluster-live-open-ai",
+            "summary_en": "The Allen Institute for AI has launched a federally funded, open-access computing cluster to help researchers develop transparent AI models for science, reducing reliance on major tech corporations.",
+            "timestamp": 1778204160000
+        },
         {
             "title": "Agents, human agency, and the opportunity for every organization - Microsoft",
             "link": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",

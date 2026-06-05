@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-04 17:48:51",
+    "last_update": "2026-06-05 07:14:01",
     "articles": [
+        {
+            "title": "휴머노이드 AI에 빅테크 4파전 본격화…메타, 피지컬 AI 스타트업 ARI 인수 - 디일렉",
+            "link": "https://www.thelec.kr/news/articleView.html?idxno=56035",
+            "summary_kr": "메타가 휴머노이드 로봇용 AI 기술을 보유한 스타트업 ARI를 인수하며 피지컬 AI 시장에 본격 진출한 가운데, 로봇의 촉각 인식 센서 'e-플레시'와 이동 및 조작을 동시에 최적화하는 파운데이션 모델을 통해 로봇 소프트웨어 생태계 구축에 나섰습니다.",
+            "timestamp": 1777878125000
+        },
+        {
+            "title": "오픈AI o1, 응급실 초기 진단서 의사보다 정확…하버드 연구 충격 결과 - 디지털투데이",
+            "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662507",
+            "summary_kr": "하버드 의대 연구진이 응급실 환자 76명을 대상으로 비교 실험한 결과, 오픈AI의 o1 모델이 초기 진단 정확도에서 67%를 기록하며 담당 의사들의 평균 정확도인 50~55%를 상회하는 성과를 보였습니다.",
+            "timestamp": 1777879680000
+        },
         {
             "title": "엔비디아 GPU 못 사는 中, 화웨이 반도체에 맞춰 AI ‘새 판’ 짠다 - 조선비즈 - Chosunbiz",
             "link": "https://biz.chosun.com/it-science/ict/2026/05/05/25FQ3OHBGFGZFGMMKDQU25WPSA/",
@@ -587,18 +599,6 @@
             "title": "오픈AI 투자자들 \"전략 산만하다\"…챗GPT·기업용 AI 병행에 의문 - v.daum.net",
             "link": "https://v.daum.net/v/20260414172313642",
             "summary_kr": "오픈AI가 앤트로픽의 빠른 성장과 기업용 시장의 높은 수익성을 의식해 기존 소비자용 서비스 대신 코딩 도구 등 기업용 솔루션으로 전략 중심을 옮기자, 일부 투자자들이 사업 방향의 일관성에 대해 의문을 제기하고 있습니다.",
-            "timestamp": 1776150000000
-        },
-        {
-            "title": "마크 저커버그, AI 복제인간 만든다...막오른 ‘AI 클론’ 시대 - 조선일보",
-            "link": "https://www.chosun.com/economy/tech_it/2026/04/14/TWJAHEEJY5EEVP3PIJNUCQJT5A/",
-            "summary_kr": "마크 저커버그 메타 CEO가 주도하는 'AI 클론' 시대는 개인의 성격과 지식을 학습한 인공지능이 복제인간처럼 사용자를 대신해 소통하고 업무를 수행하는 차세대 기술 트렌드로 주목받고 있습니다.",
-            "timestamp": 1776150000000
-        },
-        {
-            "title": "“AI, 군대에 이용? NO” 美 국방부 요청 거절한 클로드 ‘고집 있는’ 질주 - 더스쿠프",
-            "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=309841",
-            "summary_kr": "앤트로픽의 ‘클로드’는 강력한 코딩 및 문서 분석 능력을 갖춘 최신 모델 ‘오푸스 4.6’을 앞세워 미국 앱스토어 1위를 차지하고, 군사적 이용을 거부하는 등 공익과 안전을 중시하는 기업 윤리를 통해 오픈AI의 챗GPT를 위협하며 시장 점유율을 빠르게 확장하고 있습니다.",
             "timestamp": 1776150000000
         }
     ]
