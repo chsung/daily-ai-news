@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-05 07:14:01",
+    "last_update": "2026-06-05 17:22:48",
     "articles": [
+        {
+            "title": "[현장] 젠슨 황 엔비디아 CEO \"서울에 AI 연구센터 설립…차세대 신제품 4종 전개\" - ebn.co.kr",
+            "summary_kr": "젠슨 황 엔비디아 CEO는 방한을 통해 서울에 AI 연구센터 설립 계획을 밝히고, HBM4와 베라 루빈 슈퍼컴퓨터 등 차세대 AI 기술 생태계를 한국 기업들과 함께 구축하겠다는 의지를 재확인했습니다.",
+            "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1711461",
+            "timestamp": 1780660516000,
+            "date": "2026-06-05"
+        },
+        {
+            "title": "엔비디아, 자체 최고 성능 ‘네모트론 3 울트라’ 출시…“비용 30% 절감” - AI타임스",
+            "summary_kr": "엔비디아가 5500억 개 매개변수의 '네모트론 3 울트라'를 오픈소스로 공개하며, 장시간 작업 수행이 가능한 AI 에이전트 시장 공략을 위해 기존 대비 추론 비용을 30% 절감했습니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=211367",
+            "timestamp": 1780647578000,
+            "date": "2026-06-05"
+        },
+        {
+            "title": "삼성은 혁신적인 AI 칩 개발을 두 번 연속 중단했습니다. 이는 삼성에 심각한 문제를 야기할 수 있습니다. - Samsung magazín",
+            "summary_kr": "삼성전자가 오픈AI 및 메타와의 맞춤형 AI 칩 개발 협력을 연달아 중단하며 전략적 난관에 봉착했으나, 테슬라와 16.5억 달러 규모의 슈퍼컴퓨터 칩 수주를 성공시키는 등 사업 포트폴리오 재편을 꾀하고 있습니다.",
+            "link": "https://samsungmagazine.eu/ko/2026/06/05/samsung-uz-podruhe-v-rade-zastavuje-vyvoj-revolucniho-ai-cipu-muze-mu-to-zpusobit-velke-komplikace",
+            "timestamp": 1780675075000,
+            "date": "2026-06-05"
+        },
         {
             "title": "앤트로픽 “AI 개발 늦추자…스스로 개선하는 AI 등장” - KBS 뉴스",
             "summary_kr": "앤트로픽은 AI가 스스로 개선하는 '재귀적 자기 개선' 단계가 2년 내 도래할 가능성을 경고하며, 기술 발전 속도를 조절할 수 있는 국제적 합의와 통제 메커니즘 마련을 촉구했습니다.",
@@ -646,24 +667,6 @@
             "summary_kr": "미스트랄 AI가 산업용 피지컬 AI 기술을 보유한 스타트업 '엠미 AI'를 인수하며 제조·항공·반도체 시장 공략을 가속화합니다. 이번 인수를 통해 미스트랄은 단순 텍스트 생성을 넘어 물리 현상을 이해하는 실시간 시뮬레이션 및 디지털 트윈 플랫폼 구축에 집중할 방침입니다.",
             "link": "https://www.aitimes.kr/news/articleView.html?idxno=40174",
             "timestamp": 1779536370000
-        },
-        {
-            "title": "미국·스웨덴, 인공지능과 양자·6G·우주까지 손잡았다…‘기술 번영 협정’ 체결 - 인공지능신문",
-            "summary_kr": "미국과 스웨덴이 AI, 양자, 6G, 우주 등 핵심 전략 기술 분야에서 협력을 강화하는 '기술 번영 협정'을 체결했습니다. 양국은 공급망 안보와 국제 표준 공동 대응을 통해 기술 패권 경쟁에 대비하며, 사실상 '기술 NATO' 수준의 포괄적 동맹을 구축했습니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40173",
-            "timestamp": 1779526134000
-        },
-        {
-            "title": "엔비디아 차세대 AI 서버 한대에 '118억'... 메모리 값만 30억 육박 - AI타임스",
-            "summary_kr": "엔비디아의 차세대 AI 서버 'VR200 NVL72' 가격이 메모리 비용 급증으로 인해 약 118억 원까지 치솟을 전망입니다. 특히 메모리 비용이 전체 시스템가의 25%에 육박하는 30억 원대에 달하면서, 향후 HBM 및 LPDDR5X 등 고성능 메모리 공급망 확보가 AI 인프라 경쟁의 핵심 변수로 떠올랐습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=210866",
-            "timestamp": 1779528317000
-        },
-        {
-            "title": "메타, 한달 새 앱 2개 기습 출시…\"AI로 수십개 개발\" 현실화하나 - AI타임스",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=210861",
-            "summary_kr": "메타가 최근 인스턴츠와 포럼 등 독립 앱을 연이어 출시하며 'AI 기반 다수 앱 개발' 전략을 본격화했습니다. 이는 저커버그 CEO가 공언한 AI 중심의 조직 효율화 결과로, 적은 리소스로 다양한 맞춤형 서비스를 제공해 커뮤니티 시장에서의 영향력을 확대하려는 포석입니다.",
-            "timestamp": 1779497700000
         }
     ]
 }

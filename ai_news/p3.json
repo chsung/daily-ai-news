@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-05 07:14:40",
+    "last_update": "2026-06-05 17:23:26",
     "articles": [
+        {
+            "title": "Meta's aggressive generative AI push is making employees miserable, claims report - Neowin",
+            "link": "https://www.neowin.net/news/metas-aggressive-generative-ai-push-is-making-employees-miserable-claims-report/",
+            "summary_en": "Meta employees are unhappy due to a new mandatory monitoring program designed to train AI and aggressive restructuring efforts focused on AI efficiency.",
+            "timestamp": 1778384760000
+        },
+        {
+            "title": "Building AI apps and agents with Microsoft Foundry - InfoWorld",
+            "link": "https://www.infoworld.com/article/4165766/building-ai-apps-and-agents-with-microsoft-foundry.html",
+            "summary_en": "Microsoft Foundry is a new unified Azure platform that helps developers build, deploy, and manage AI agents and models with built-in security and governance tools.",
+            "timestamp": 1778058154000
+        },
+        {
+            "title": "New Microsoft data: AI adoption continues to rise – Switzerland remains above average - Microsoft Source",
+            "link": "https://news.microsoft.com/source/emea/2026/05/new-microsoft-data-ai-adoption-continues-to-rise-switzerland-remains-above-average/",
+            "summary_en": "Global generative AI usage is steadily increasing, with Switzerland leading as over one-third of its working-age population adopts AI tools for daily tasks.",
+            "timestamp": 1778175434000
+        },
         {
             "title": "Allen Institute for AI launches big computing cluster for $152M project backed by Nvidia and NSF - GeekWire",
             "link": "https://www.geekwire.com/2026/allen-institute-for-ai-brings-152m-federally-backed-computing-project-online/",
