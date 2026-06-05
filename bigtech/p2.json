@@ -1,6 +1,38 @@
 {
-    "last_update": "2026-06-04 18:07:04",
+    "last_update": "2026-06-05 17:45:11",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1779394976000,
+            "title": "AI@Work: Redesign first. Then AI just works",
+            "summary_kr": "기업이 AI 도입에서 성과를 내지 못하는 이유는 기술 부족이 아닌 조직의 구조적 정체 때문이며, 진정한 확장성을 위해서는 업무 프로세스를 재설계하고 AI를 실무 환경에 보이지 않게 통합하는 인프라 구축이 필수적입니다.",
+            "summary_en": "The gap in enterprise AI adoption stems from organizational inertia rather than model limitations; true scalability requires redesigning workflows and building infrastructure that embeds AI seamlessly into existing operations.",
+            "link": "https://www.microsoft.com/en-us/worklab/ai-at-work-redesign-first-then-ai-just-works"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779388316000,
+            "title": "Automating and Optimizing Financial Signal Discovery with Multi-Agent Systems",
+            "summary_kr": "엔비디아는 NeMo Agent Toolkit을 활용해 신호 발굴, 코드 생성, 성능 평가를 수행하는 멀티 에이전트 시스템을 구축함으로써 정량적 금융의 신호 탐색 과정을 자동화하고 효율성을 극대화했습니다.",
+            "summary_en": "NVIDIA has automated and streamlined the quantitative financial signal discovery process by developing a multi-agent system that leverages the NeMo Agent Toolkit to autonomously generate, code, and evaluate market signals.",
+            "link": "https://developer.nvidia.com/blog/automating-and-optimizing-financial-signal-discovery-with-multi-agent-systems"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779386400000,
+            "title": "Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters",
+            "summary_kr": "오픈소스 'GPU Usage Monitor'는 복잡한 설정 없이도 NVIDIA DCGM과 쿠버네티스 메트릭을 통합하여 GPU 활용도를 실시간으로 가시화함으로써 인프라 과잉 공급과 스케줄링 병목 현상을 해결합니다.",
+            "summary_en": "The open-source 'GPU Usage Monitor' simplifies infrastructure observability by integrating NVIDIA DCGM and Kubernetes metrics into a single deployment, enabling real-time visibility to resolve GPU underutilization and scheduling bottlenecks.",
+            "link": "https://developer.nvidia.com/blog/get-real-time-visibility-into-gpu-usage-across-kubernetes-clusters"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779384776000,
+            "title": "Unlock Exascale Performance on NVIDIA GB200 NVL72 with Slurm Topology-Aware Job Scheduling",
+            "summary_kr": "NVIDIA GB200 NVL72의 엑사스케일 성능을 극대화하기 위해서는 Slurm의 새로운 토폴로지 인식 스케줄링을 통해 작업 배치를 네트워크 아키텍처와 정렬하는 것이 필수적입니다.",
+            "summary_en": "To maximize the exascale performance of NVIDIA GB200 NVL72, it is essential to utilize Slurm's topology-aware scheduling to align job placement with the system's underlying network architecture.",
+            "link": "https://developer.nvidia.com/blog/unlock-exascale-performance-on-nvidia-gb200-nvl72-with-slurm-topology-aware-job-scheduling"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1779380809000,
@@ -792,42 +824,6 @@
             "summary_kr": "앤스로픽 인스티튜트(TAI)는 프런티어 AI 연구소 내부의 데이터를 활용하여 AI가 경제, 사회, 보안에 미치는 영향을 심층 연구하는 새로운 아젠다를 발표했습니다. 경제적 확산, 시스템 복원력 등을 중심으로 한 연구 결과는 향후 AI 개발의 공익적 의사결정을 지원할 예정입니다.",
             "summary_en": "The Anthropic Institute (TAI) has unveiled a research agenda focused on analyzing the impact of AI on the global economy, security, and society. By utilizing data from a frontier AI lab, the institute aims to provide actionable insights for responsible AI development and public policy.",
             "link": "https://www.anthropic.com/research/anthropic-institute-agenda"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778079600000,
-            "title": "Simplex rethinks software development with Codex",
-            "summary_kr": "일본의 심플렉스(Simplex)는 챗GPT 엔터프라이즈와 코덱(Codex)을 도입하여 소프트웨어 개발 생산성을 획기적으로 향상시켰습니다. AI 코딩 에이전트를 통해 화면 설계 시간 40%, 개발 시간 70%를 단축하며 개발 워크플로우를 AI 네이티브 방식으로 전환했습니다.",
-            "summary_en": "Simplex has significantly boosted software development productivity by integrating ChatGPT Enterprise and Codex into its workflows. The company reported a 70% reduction in screen development time and a 40% improvement in design efficiency by transitioning to an AI-native delivery model.",
-            "link": "https://openai.com/index/simplex",
-            "date": "2026-05-07"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778079600000,
-            "title": "Advancing voice intelligence with new models in the API",
-            "summary_kr": "오픈AI가 음성 AI 애플리케이션을 위한 3가지 새로운 API 모델을 출시하여 자연스러운 실시간 대화와 번역, 전사를 지원합니다. 특히 'GPT-Realtime-2'는 추론 능력을 갖춘 음성 인터페이스로서 사용자의 요구를 능동적으로 수행할 수 있게 합니다.",
-            "summary_en": "OpenAI has introduced three new audio models to its API, enhancing voice-based applications with advanced real-time reasoning, live translation, and transcription. 'GPT-Realtime-2' is a flagship voice model capable of performing complex tasks while maintaining natural conversational flow.",
-            "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-            "date": "2026-05-07"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778079600000,
-            "title": "Testing ads in ChatGPT",
-            "summary_kr": "오픈AI가 영국, 일본, 한국 등지로 챗GPT 내 광고 테스트 범위를 확대합니다. 무료 및 Go 구독자를 대상으로 하지만 유료 플랜에는 적용되지 않으며, 사용자 대화 프라이버시를 보호하면서도 향상된 AI 기능을 안정적으로 제공하기 위한 수익 모델의 일환입니다.",
-            "summary_en": "OpenAI is expanding its ChatGPT ad pilot to several global markets, including the U.K., Japan, and South Korea. The ads, targeted at free-tier users, are designed to remain unobtrusive and private, supporting broader access to advanced AI features without influencing model responses.",
-            "link": "https://openai.com/index/testing-ads-in-chatgpt",
-            "date": "2026-05-07"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778079600000,
-            "title": "Introducing Trusted Contact in ChatGPT",
-            "summary_kr": "챗GPT에 사용자가 신뢰하는 사람을 지정하여 위기 상황 시 알림을 보내는 '신뢰할 수 있는 연락처(Trusted Contact)' 기능을 도입했습니다. 이는 정신 건강 위기 시 사회적 연결을 촉진하기 위한 안전 조치로, 전문가의 검토를 거쳐 제한적으로 운영됩니다.",
-            "summary_en": "ChatGPT has introduced 'Trusted Contact,' an optional safety feature allowing adult users to nominate a support contact who may be notified during serious safety concerns. This layer of protection aims to encourage social connection while maintaining strict user privacy through human-reviewed notifications.",
-            "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-            "date": "2026-05-07"
         }
     ]
 }

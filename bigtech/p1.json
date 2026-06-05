@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-06-04 18:07:04",
+    "last_update": "2026-06-05 17:45:11",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1780670700000,
+            "date": "2026-06-05",
+            "title": "The latest AI news we announced in May 2026",
+            "summary_kr": "구글은 2026년 5월 I/O를 통해 에이전트형 AI 시대를 선언하며, 복합 추론과 생성 능력을 갖춘 Gemini 3.5와 Gemini Omni, 그리고 일상 업무를 능동적으로 수행하는 통합 에이전트 생태계를 대거 공개했습니다.",
+            "summary_en": "Google inaugurated the agentic AI era in May 2026 by launching Gemini 3.5 and Gemini Omni, while unveiling a proactive ecosystem of agents designed to seamlessly integrate advanced intelligence into daily tasks and hardware.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780617600000,
+            "date": "2026-06-05",
+            "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+            "summary_kr": "Anthropic의 GTM 프로덕트 매니저 자레드 사이어스는 코딩 경험이 전무함에도 Claude Code를 활용해 반복적인 영업 업무를 자동화하는 툴을 직접 개발하여 팀 전체의 업무 효율을 혁신했습니다.",
+            "summary_en": "Despite having no prior coding experience, Anthropic GTM product manager Jared Sires used Claude Code to build internal tools that automate sales workflows, significantly boosting productivity for his entire team.",
+            "link": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1780597819000,
+            "date": "2026-06-04",
+            "title": "AI@Work: Tokenomics and 4 other AI shifts leaders need to know",
+            "summary_kr": "AI 도입의 성패는 기술 자체보다 리더의 의사결정에 달려 있으며, 신뢰 구축을 위한 구체적 시스템 설계와 업무 프로세스의 근본적인 재구조화가 필수적입니다.",
+            "summary_en": "The success of AI transformation depends on leadership decisions rather than the technology itself, requiring specific system design for trust and a fundamental redesign of workflows to drive real outcomes.",
+            "link": "https://www.microsoft.com/en-us/worklab/aiwork-tokenomics-is-the-new-headcount-and-four-more-trends-to-watch"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780531200000,
+            "date": "2026-06-04",
+            "title": "Biodefense in the Intelligence Age",
+            "summary_kr": "OpenAI는 생명과학 연구와 치료제 개발을 가속화하는 최첨단 AI 모델 'GPT-Rosalind'를 공개하고, 이를 활용한 생물학적 위협 대응 및 팬데믹 대비를 위한 전략적 실행 계획을 발표했습니다.",
+            "summary_en": "OpenAI has introduced 'GPT-Rosalind' to accelerate biological research and therapeutics, alongside a strategic action plan to leverage AI for enhanced biodefense and pandemic preparedness.",
+            "link": "https://openai.com/index/biodefense-in-the-intelligence-age"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1780578169000,
@@ -855,38 +891,6 @@
             "summary_kr": "Xbox는 세계 접근성 인식의 날을 맞아 3D 프린팅 가능한 적응형 썸스틱 디자인 개선, 웹사이트 개편, 그리고 게임 내 접근성 태그 도입을 통해 포용적 게이밍 환경을 강화했습니다.",
             "summary_en": "In celebration of Global Accessibility Awareness Day, Xbox has bolstered its inclusive gaming ecosystem by upgrading 3D-printable adaptive thumbsticks, enhancing its support website, and integrating accessibility tags across its storefront.",
             "link": "https://news.xbox.com/en-us/2026/05/21/xbox-global-accessibility-awareness-day-2026"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779394976000,
-            "title": "AI@Work: Redesign first. Then AI just works",
-            "summary_kr": "기업이 AI 도입에서 성과를 내지 못하는 이유는 기술 부족이 아닌 조직의 구조적 정체 때문이며, 진정한 확장성을 위해서는 업무 프로세스를 재설계하고 AI를 실무 환경에 보이지 않게 통합하는 인프라 구축이 필수적입니다.",
-            "summary_en": "The gap in enterprise AI adoption stems from organizational inertia rather than model limitations; true scalability requires redesigning workflows and building infrastructure that embeds AI seamlessly into existing operations.",
-            "link": "https://www.microsoft.com/en-us/worklab/ai-at-work-redesign-first-then-ai-just-works"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779388316000,
-            "title": "Automating and Optimizing Financial Signal Discovery with Multi-Agent Systems",
-            "summary_kr": "엔비디아는 NeMo Agent Toolkit을 활용해 신호 발굴, 코드 생성, 성능 평가를 수행하는 멀티 에이전트 시스템을 구축함으로써 정량적 금융의 신호 탐색 과정을 자동화하고 효율성을 극대화했습니다.",
-            "summary_en": "NVIDIA has automated and streamlined the quantitative financial signal discovery process by developing a multi-agent system that leverages the NeMo Agent Toolkit to autonomously generate, code, and evaluate market signals.",
-            "link": "https://developer.nvidia.com/blog/automating-and-optimizing-financial-signal-discovery-with-multi-agent-systems"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779386400000,
-            "title": "Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters",
-            "summary_kr": "오픈소스 'GPU Usage Monitor'는 복잡한 설정 없이도 NVIDIA DCGM과 쿠버네티스 메트릭을 통합하여 GPU 활용도를 실시간으로 가시화함으로써 인프라 과잉 공급과 스케줄링 병목 현상을 해결합니다.",
-            "summary_en": "The open-source 'GPU Usage Monitor' simplifies infrastructure observability by integrating NVIDIA DCGM and Kubernetes metrics into a single deployment, enabling real-time visibility to resolve GPU underutilization and scheduling bottlenecks.",
-            "link": "https://developer.nvidia.com/blog/get-real-time-visibility-into-gpu-usage-across-kubernetes-clusters"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779384776000,
-            "title": "Unlock Exascale Performance on NVIDIA GB200 NVL72 with Slurm Topology-Aware Job Scheduling",
-            "summary_kr": "NVIDIA GB200 NVL72의 엑사스케일 성능을 극대화하기 위해서는 Slurm의 새로운 토폴로지 인식 스케줄링을 통해 작업 배치를 네트워크 아키텍처와 정렬하는 것이 필수적입니다.",
-            "summary_en": "To maximize the exascale performance of NVIDIA GB200 NVL72, it is essential to utilize Slurm's topology-aware scheduling to align job placement with the system's underlying network architecture.",
-            "link": "https://developer.nvidia.com/blog/unlock-exascale-performance-on-nvidia-gb200-nvl72-with-slurm-topology-aware-job-scheduling"
         }
     ]
 }
