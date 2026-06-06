@@ -1,6 +1,22 @@
 {
-    "last_update": "2026-06-05 17:45:11",
+    "last_update": "2026-06-06 16:56:25",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1778165995000,
+            "title": "Inside Porsche Cup Brasil’s AI-powered race operations",
+            "summary_kr": "포르쉐 컵 브라질이 마이크로소프트의 AI 기술을 활용해 차량 충돌 분석 및 실시간 레이스 운영 시스템을 혁신했습니다. AI 기반 다중 에이전트 시스템을 도입하여 손상 평가 시간을 절반으로 단축하고, 수리 공정을 최적화하여 차량의 경기 복귀 속도를 높였습니다.",
+            "summary_en": "Porsche Cup Brasil has integrated Microsoft's AI technology to revolutionize its race operations, utilizing multi-agent systems for crash analysis. This initiative has reduced damage assessment time by approximately 50%, significantly accelerating vehicle repair and turnaround.",
+            "link": "https://news.microsoft.com/source/latam/features/ai/porsche-cup-brasil-ai-powered-crash-analysis?lang=en"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778148142668,
+            "title": "Focus areas for The Anthropic Institute",
+            "summary_kr": "앤스로픽 인스티튜트(TAI)는 프런티어 AI 연구소 내부의 데이터를 활용하여 AI가 경제, 사회, 보안에 미치는 영향을 심층 연구하는 새로운 아젠다를 발표했습니다. 경제적 확산, 시스템 복원력 등을 중심으로 한 연구 결과는 향후 AI 개발의 공익적 의사결정을 지원할 예정입니다.",
+            "summary_en": "The Anthropic Institute (TAI) has unveiled a research agenda focused on analyzing the impact of AI on the global economy, security, and society. By utilizing data from a frontier AI lab, the institute aims to provide actionable insights for responsible AI development and public policy.",
+            "link": "https://www.anthropic.com/research/anthropic-institute-agenda"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1778079600000,
