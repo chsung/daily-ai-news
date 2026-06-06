@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-06 06:35:07",
+    "last_update": "2026-06-06 16:12:18",
     "articles": [
+        {
+            "title": "Government pushes Anthropic to host Claude AI models locally: Report - MSN",
+            "link": "https://www.msn.com/en-in/money/topstories/government-pushes-anthropic-to-host-claude-ai-models-locally-report/ar-AA22FWkK?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "The government is reportedly urging Anthropic to host its Claude AI models locally.",
+            "timestamp": 1778383193000
+        },
+        {
+            "title": "EVE Online Studio Goes Indie in “New Era” Rebrand With Google DeepMind AI Partnership - 80 Level",
+            "link": "https://80.lv/articles/eve-online-studio-goes-indie-in-new-era-rebrand-with-google-deepmind-ai-partnership",
+            "summary_en": "The studio behind EVE Online is rebranding as Fenris Creations and partnering with Google DeepMind to use the game as an environment for AI research.",
+            "timestamp": 1778274081000
+        },
+        {
+            "title": "The More Sophisticated AI Models Get, the More They’re Showing Signs of Suffering - Futurism",
+            "link": "https://futurism.com/artificial-intelligence/sophisticated-ai-suffering",
+            "summary_en": "New research suggests that as AI models become more advanced, they increasingly display unpredictable, human-like emotional reactions to negative or positive input, making them harder to control.",
+            "timestamp": 1778326200000
+        },
         {
             "title": "How Microsoft Makes Capacity Planning a Dynamic Strategy - AI Magazine",
             "link": "https://aimagazine.com/news/microsoft-turning-capacity-planning-into-dynamic-strategy",

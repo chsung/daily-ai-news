@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-06 06:35:07",
+    "last_update": "2026-06-06 16:12:18",
     "articles": [
+        {
+            "title": "Anthropic urges AI labs to pause development, warns humans risk losing control - Reuters",
+            "summary_en": "Anthropic has formally urged leading AI laboratories to pause development, citing growing concerns that the rapid advancement of artificial intelligence risks human loss of control.",
+            "link": "https://www.reuters.com/business/anthropic-says-ai-labs-need-coordinated-plan-halt-development-if-risks-rise-2026-06-04",
+            "timestamp": 1780615680000,
+            "date": "2026-06-04"
+        },
+        {
+            "title": "SpaceX: Reported $920 Million-Per-Month Google Deal Highlights AI Infrastructure Strategy Ahead Of IPO - Pulse 2.0",
+            "summary_en": "SpaceX has entered a $920 million-per-month infrastructure deal with Google to provide compute capacity for 110,000 Nvidia GPUs, bolstering Google's Gemini Enterprise platform ahead of SpaceX's planned IPO.",
+            "link": "https://pulse2.com/spacex-reported-920-million-per-month-google-deal-highlights-ai-infrastructure-strategy-ahead-of-ipo",
+            "timestamp": 1780702640000,
+            "date": "2026-06-05"
+        },
+        {
+            "title": "Nvidia Unveils New Physical AI Research and Agent Workflows - AI Business",
+            "summary_en": "Nvidia introduced a suite of physical AI tools and the Alpamayo 2 Super model to help researchers automate simulation and training workflows for robots and autonomous vehicles. These updates aim to solve industry fragmentation by providing scalable, virtualized environments for testing AI agents before real-world deployment.",
+            "link": "https://aibusiness.com/generative-ai/nvidia-unveils-physical-ai-research-agent-workflows",
+            "timestamp": 1780587777000,
+            "date": "2026-06-04"
+        },
         {
             "title": "OpenAI to comply with Trump AI model pre-release review order - qz.com",
             "summary_en": "OpenAI has confirmed its commitment to abide by the U.S. government's executive order requiring developers to submit safety test results for large-scale AI models prior to public release.",
@@ -634,24 +655,6 @@
             "link": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
             "summary_en": "Anthropic has hired OpenAI co-founder and former Tesla AI director Andrej Karpathy to lead a research team focused on using Claude to accelerate the pretraining of large language models.",
             "timestamp": 1779208268000
-        },
-        {
-            "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
-            "link": "https://www.cnbc.com/2026/05/19/blackstone-google-ai-data-center-joint-venture-tpu.html",
-            "summary_en": "Blackstone is partnering with Google to invest $5 billion into a new AI infrastructure venture that will utilize Google's proprietary TPU chips to meet the surging global demand for compute capacity, with the first 500 megawatts expected to be online by 2027.",
-            "timestamp": 1779180816000
-        },
-        {
-            "title": "FANUC Accelerates Physical AI Through Collaboration with Google - PR Newswire",
-            "link": "https://www.prnewswire.com/news-releases/fanuc-accelerates-physical-ai-through-collaboration-with-google-302775837.html",
-            "summary_en": "FANUC is collaborating with Google to integrate advanced 'Physical AI'—the fusion of cognitive intelligence with robotic physical action—into its industrial robot lineup, a move that has already seen over 1,000 units shipped for real-world factory applications.",
-            "timestamp": 1779192000000
-        },
-        {
-            "title": "Hitachi, Anthropic to Cooperate on AI System Development - nippon.com",
-            "link": "https://www.nippon.com/en/news/yjj2026051900429/",
-            "summary_en": "Hitachi is partnering with Anthropic to integrate its AI models into critical infrastructure systems like railways and power grids while simultaneously launching an initiative to train 100,000 of its 290,000 employees as AI-savvy professionals.",
-            "timestamp": 1779173565000
         }
     ]
 }
