@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-05 17:23:26",
+    "last_update": "2026-06-06 06:35:07",
     "articles": [
+        {
+            "title": "How Microsoft Makes Capacity Planning a Dynamic Strategy - AI Magazine",
+            "link": "https://aimagazine.com/news/microsoft-turning-capacity-planning-into-dynamic-strategy",
+            "summary_en": "Microsoft executive Dayan Rodriguez explains that manufacturing companies can best use AI by focusing on high-impact, real-time operational improvements that are integrated into existing human workflows.",
+            "timestamp": 1778400304000
+        },
+        {
+            "title": "What Microsoft Executives Really Thought About OpenAI in 2018 - WIRED",
+            "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+            "summary_en": "Internal emails from 2018 reveal that Microsoft executives were initially skeptical about the value of OpenAI's research and hesitated to provide significant financial support before their eventual landmark partnership.",
+            "timestamp": 1778204520000
+        },
+        {
+            "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems - Microsoft",
+            "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+            "summary_en": "At the NSDI 2026 conference, Microsoft researchers presented several new technical advancements designed to improve the performance, testing, and efficiency of large-scale cloud and AI networks.",
+            "timestamp": 1777996800000
+        },
         {
             "title": "Meta's aggressive generative AI push is making employees miserable, claims report - Neowin",
             "link": "https://www.neowin.net/news/metas-aggressive-generative-ai-push-is-making-employees-miserable-claims-report/",

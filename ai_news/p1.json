@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-05 17:23:26",
+    "last_update": "2026-06-06 06:35:07",
     "articles": [
+        {
+            "title": "OpenAI to comply with Trump AI model pre-release review order - qz.com",
+            "summary_en": "OpenAI has confirmed its commitment to abide by the U.S. government's executive order requiring developers to submit safety test results for large-scale AI models prior to public release.",
+            "link": "https://qz.com/openai-trump-ai-model-review-order-060526",
+            "timestamp": 1780667620000,
+            "date": "2026-06-05"
+        },
+        {
+            "title": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has launched a comprehensive open-source collection of physical AI tools and agent skills, enabling developers to automate complex robotics, autonomous vehicle, and industrial digital twin workflows.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-releases-major-collection-of-open-source-agent-tools-and-skills-for-physical-ai",
+            "timestamp": 1780289749000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "AI is designing OpenAI's next model in a sign of 'superintelligence': SoftBank's Masayoshi Son to CNBC - CNBC",
+            "summary_en": "SoftBank CEO Masayoshi Son claims that OpenAI is using current models to design future ones, a development he identifies as an early marker of artificial superintelligence arriving within the next two years.",
+            "link": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html",
+            "timestamp": 1780665350000,
+            "date": "2026-06-05"
+        },
         {
             "title": "Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development — 'recursive self improvement' increases risk humans lose control of AI - Tom's Hardware",
             "summary_en": "Anthropic has warned that its Claude AI now authors over 80% of its own code and demonstrates rapid recursive self-improvement, potentially outpacing human oversight. The company suggests maintaining the option to pause frontier development to prevent losing control as model misalignment becomes increasingly difficult to manage.",
@@ -631,24 +652,6 @@
             "link": "https://www.nippon.com/en/news/yjj2026051900429/",
             "summary_en": "Hitachi is partnering with Anthropic to integrate its AI models into critical infrastructure systems like railways and power grids while simultaneously launching an initiative to train 100,000 of its 290,000 employees as AI-savvy professionals.",
             "timestamp": 1779173565000
-        },
-        {
-            "title": "Musk vs Altman: What to know about the OpenAI verdict - Al Jazeera",
-            "link": "https://www.aljazeera.com/news/2026/5/19/musk-vs-altman-what-to-know-about-the-openai-verdict",
-            "summary_en": "A California jury dismissed Elon Musk’s $150 billion lawsuit against OpenAI and its leadership for allegedly abandoning its nonprofit mission, ruling that the statute of limitations had expired, though Musk has announced plans to appeal the decision.",
-            "timestamp": 1779187950000
-        },
-        {
-            "title": "Anthropic to share Mythos cyber flaw findings with global finance watchdog - The Guardian",
-            "link": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
-            "summary_en": "Anthropic is collaborating with the Financial Stability Board to address security concerns regarding its Claude Mythos AI model, which has demonstrated an unprecedented ability to autonomously identify software vulnerabilities in cybersecurity tests.",
-            "timestamp": 1779103200000
-        },
-        {
-            "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
-            "link": "https://www.anthropic.com/glasswing?ref=newid.cymru",
-            "summary_en": "Anthropic launched Project Glasswing, a $100 million initiative providing industry partners and security organizations with access to its Claude Mythos model to proactively identify and patch critical software vulnerabilities before malicious actors can exploit them.",
-            "timestamp": 1779083702000
         }
     ]
 }

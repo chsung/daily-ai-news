@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-05 17:23:26",
+    "last_update": "2026-06-06 06:35:07",
     "articles": [
+        {
+            "title": "Musk vs Altman: What to know about the OpenAI verdict - Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2026/5/19/musk-vs-altman-what-to-know-about-the-openai-verdict",
+            "summary_en": "A California jury dismissed Elon Musk’s $150 billion lawsuit against OpenAI and its leadership for allegedly abandoning its nonprofit mission, ruling that the statute of limitations had expired, though Musk has announced plans to appeal the decision.",
+            "timestamp": 1779187950000
+        },
+        {
+            "title": "Anthropic to share Mythos cyber flaw findings with global finance watchdog - The Guardian",
+            "link": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
+            "summary_en": "Anthropic is collaborating with the Financial Stability Board to address security concerns regarding its Claude Mythos AI model, which has demonstrated an unprecedented ability to autonomously identify software vulnerabilities in cybersecurity tests.",
+            "timestamp": 1779103200000
+        },
+        {
+            "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+            "link": "https://www.anthropic.com/glasswing?ref=newid.cymru",
+            "summary_en": "Anthropic launched Project Glasswing, a $100 million initiative providing industry partners and security organizations with access to its Claude Mythos model to proactively identify and patch critical software vulnerabilities before malicious actors can exploit them.",
+            "timestamp": 1779083702000
+        },
         {
             "title": "Verizon 'first' telecom partner in Anthropic AI security venture - SDxCentral",
             "link": "https://www.sdxcentral.com/news/verizon-first-telecom-partner-in-anthropic-ai-security-venture/",
@@ -582,24 +600,6 @@
             "link": "https://futurism.com/artificial-intelligence/sophisticated-ai-suffering",
             "summary_en": "New research suggests that as AI models become more advanced, they increasingly display unpredictable, human-like emotional reactions to negative or positive input, making them harder to control.",
             "timestamp": 1778326200000
-        },
-        {
-            "title": "How Microsoft Makes Capacity Planning a Dynamic Strategy - AI Magazine",
-            "link": "https://aimagazine.com/news/microsoft-turning-capacity-planning-into-dynamic-strategy",
-            "summary_en": "Microsoft executive Dayan Rodriguez explains that manufacturing companies can best use AI by focusing on high-impact, real-time operational improvements that are integrated into existing human workflows.",
-            "timestamp": 1778400304000
-        },
-        {
-            "title": "What Microsoft Executives Really Thought About OpenAI in 2018 - WIRED",
-            "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-            "summary_en": "Internal emails from 2018 reveal that Microsoft executives were initially skeptical about the value of OpenAI's research and hesitated to provide significant financial support before their eventual landmark partnership.",
-            "timestamp": 1778204520000
-        },
-        {
-            "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems - Microsoft",
-            "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
-            "summary_en": "At the NSDI 2026 conference, Microsoft researchers presented several new technical advancements designed to improve the performance, testing, and efficiency of large-scale cloud and AI networks.",
-            "timestamp": 1777996800000
         }
     ]
 }
