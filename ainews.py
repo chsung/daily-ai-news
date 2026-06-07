@@ -148,14 +148,35 @@ client = genai.Client(api_key=API_KEY)
 MAX_ITEMS_PER_FILE = 100
 MAX_TOTAL_ITEMS = 300
 
-EXCLUDE_DOMAINS = [
+# 1-1. 한국 유료 결제 장벽(Paywall) 매체 도메인
+KOREAN_PAYWALL_DOMAINS = [
+    "premium.naver.com", "themiilk.com", "outstanding.kr"
+]
+
+# 1-2. 해외 유료 결제 장벽(Paywall) 매체 도메인
+GLOBAL_PAYWALL_DOMAINS = [
     "wsj.com", "bloomberg.com", "barrons.com", "nytimes.com", "ft.com", 
     "thetimes.co.uk", "economist.com", "seekingalpha.com", "theinformation.com", 
-    "fortune.com", "technologyreview.com", "medium.com", "outstanding.kr",
-    "prnewswire.com", "businesswire.com", "globenewswire.com",
-    "inshorts.com", "facebook.com", "twitter.com", "youtube.com",
-    "forbes.com", "nbcnews.com", "premium.naver.com", "themiilk.com"
+    "fortune.com"
 ]
+
+# 2-1. 한국 비뉴스성 도메인 (블로그, SNS, 보도자료 등 - 필요 시 추가)
+KOREAN_SOCIAL_GOSSIP_DOMAINS = []
+
+# 2-2. 해외 비뉴스성 도메인 (개인 블로그, SNS, 가십, 보도자료 등)
+GLOBAL_SOCIAL_GOSSIP_DOMAINS = [
+    "medium.com", "facebook.com", "twitter.com", "youtube.com",
+    "prnewswire.com", "businesswire.com", "globenewswire.com",
+    "inshorts.com", "technologyreview.com", "forbes.com", "nbcnews.com"
+]
+
+# 3. 최종 제외 대상 도메인 통합 리스트 (기존 필터 로직 호환용)
+EXCLUDE_DOMAINS = (
+    KOREAN_PAYWALL_DOMAINS + 
+    GLOBAL_PAYWALL_DOMAINS + 
+    KOREAN_SOCIAL_GOSSIP_DOMAINS + 
+    GLOBAL_SOCIAL_GOSSIP_DOMAINS
+)
 
 PAYWALL_KEYWORDS = [
     "subscribe to read", "log in to continue", "please subscribe", 
