@@ -189,12 +189,13 @@ CONFIGS = [
 4. 수량 유연성: 기본 최대 3개(중요 뉴스가 많으면 최대 5개)입니다. 전체 기사 중 정말 중요하다고 판단되는 뉴스가 없다면 억지로 채우지 말고 0~2개만 선정해도 좋습니다.
 5. 유료 기사 배제: 블룸버그, 월스트리트저널, 뉴욕타임스, 파이낸셜타임스 등 전문을 읽기 위해 유료 구독이나 로그인이 필요한 매체의 기사는 선택하지 마세요.
 
-결과는 반드시 아래 JSON 배열 형식으로만 반환해 주세요. 마크다운 기호(```json 등)는 제외하고 순수 JSON 텍스트만 출력해 주세요. 요약은 필요 없으며 선택된 기사의 id만 반환하세요.
+결과는 반드시 아래 JSON 형식으로만 반환해 주세요. 마크다운 기호(```json 등)는 제외하고 순수 JSON 텍스트만 출력해 주세요.
+선택된 기사의 id 목록과 함께, 오늘 기사들의 전반적인 경향 및 각 기사들의 선정/배제 사유를 요약한 종합 편집자 브리핑(editorial_note)을 한국어로 포함해 주세요.
 
-[
-  {{"id": 0}},
-  {{"id": 3}}
-]
+{{
+  "selected_ids": [0, 3],
+  "editorial_note": "오늘 수집된 기사 중... 이러한 이유로 0번과 3번을 최종 선정하고, 나머지 기사들은 이러이러한 이유로 배제했습니다."
+}}
 
 [뉴스 리스트]
 {title_only_text}
@@ -238,12 +239,13 @@ Please select a maximum of 3 of the most impactful and important core news artic
 4. Quantity flexibility: The default maximum is 3 (up to 5 if highly important). If there is no truly important news, do not force yourself to fill the quota; it is okay to select 0 to 2.
 5. Exclude Paywalled Articles: Do not select articles from sources that typically require a paid subscription to read the full text (e.g., Bloomberg, Wall Street Journal, Barron's, NYT, Financial Times).
 
-The result must be returned only in the JSON array format below. Exclude markdown symbols (like ```json) and output only pure JSON text. No summary is needed, just return the id of the selected articles.
+The result must be returned only in the JSON format below. Exclude markdown symbols (like ```json) and output only pure JSON text.
+Along with the list of selected article IDs, please include an editorial note (editorial_note) in Korean summarizing the overall trend of today's articles and the reasons for selecting/excluding them.
 
-[
-  {{"id": 0}},
-  {{"id": 3}}
-]
+{{
+  "selected_ids": [0, 3],
+  "editorial_note": "오늘 수집된 영문 기사 중... 이러한 이유로 0번과 3번을 최종 선정하고, 나머지 기사들은 이러이러한 이유로 배제했습니다."
+}}
 
 [News List]
 {title_only_text}
@@ -279,12 +281,6 @@ for config in CONFIGS:
     
     current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     max_items = config.get("max_rss_items", 40)
-    print(f"\n[RSS 원본 기사 {len(feed.entries[:max_items])}개 가져오기 완료]")
-    for i, entry in enumerate(feed.entries[:max_items]):
-        line = f" {i+1}. {entry.title} ({entry.get('published', '')})"
-        print(line)
-    print("이제 구글 뉴스 링크를 실제 링크로 변환합니다 (시간이 약간 소요될 수 있습니다)...")
-
 
     OUTPUT_DIR = config["output_dir"]
     os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -305,7 +301,8 @@ for config in CONFIGS:
     new_articles = []
     
     candidate_entries = []
-    for entry in feed.entries[:max_items]:
+    print(f"\n[구글 뉴스 수집 및 필터링 진행 ({len(feed.entries[:max_items])}개)]")
+    for i, entry in enumerate(feed.entries[:max_items]):
         if "news.google.com" in entry.link:
             try:
                 if hasattr(googlenewsdecoder, 'new_decoderv1'):
@@ -320,19 +317,22 @@ for config in CONFIGS:
             except Exception:
                 pass
     
+        status = "후보"
         if any(domain in entry.link for domain in EXCLUDE_DOMAINS):
-            continue
-
-        norm_link = normalize_link(entry.link)
-        if norm_link not in existing_links:
-            entry.link = norm_link
-            candidate_entries.append(entry)
+            status = "제외-필터"
+        else:
+            norm_link = normalize_link(entry.link)
+            if norm_link in existing_links:
+                status = "제외-기수집"
+            else:
+                entry.link = norm_link
+                candidate_entries.append(entry)
+                
+        print(f" {i+1}. [{status}] {entry.title} ({entry.get('published', '')})")
+        print(f"    URL: {entry.link}")
     
     if candidate_entries:
-        title_only_text = "\n".join([f"{i}: {entry.title}" for i, entry in enumerate(candidate_entries)])
-        
-        print(f"수집된 후보 기사 {len(candidate_entries)}개 (제미나이 전송 전):")
-        print(title_only_text)
+        title_only_text = "\n".join([f"{idx}: {entry.title}" for idx, entry in enumerate(candidate_entries)])
         print("-" * 50)
         
         print("1차 제미나이 요청: 기사 제목을 분석하여 중복 없는 핵심 기사를 엄선합니다...")
@@ -357,12 +357,22 @@ for config in CONFIGS:
                 elif res1_text.startswith("```"):
                     res1_text = res1_text[3:-3].strip()
                     
-                selected_ids_data = json.loads(res1_text)
+                data = json.loads(res1_text)
                 valid_ids = []
-                for item in selected_ids_data:
-                    idx = item.get("id")
-                    if idx is not None and isinstance(idx, int) and 0 <= idx < len(candidate_entries):
-                        valid_ids.append(idx)
+                if isinstance(data, list):
+                    for item in data:
+                        idx = item.get("id")
+                        if idx is not None and isinstance(idx, int) and 0 <= idx < len(candidate_entries):
+                            valid_ids.append(idx)
+                    editorial_note = "종합 편집자 브리핑 정보가 제공되지 않았습니다."
+                else:
+                    selected_ids = data.get("selected_ids", [])
+                    for idx in selected_ids:
+                        if idx is not None and isinstance(idx, int) and 0 <= idx < len(candidate_entries):
+                            valid_ids.append(idx)
+                    editorial_note = data.get("editorial_note", "종합 편집자 브리핑 정보가 누락되었습니다.")
+                
+                print(f"\n📰 [오늘의 편집자 종합 브리핑]\n{editorial_note}\n")
                 if valid_ids:
                     print(f"\n총 {len(valid_ids)}개의 엄선된 기사 본문을 Trafilatura로 추출합니다...")
                     selected_news_parts = []
