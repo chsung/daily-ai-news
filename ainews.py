@@ -155,7 +155,7 @@ EXCLUDE_DOMAINS = [
     "prnewswire.com", "businesswire.com", "globenewswire.com",
     "inshorts.com", "facebook.com", "twitter.com", "youtube.com",
     "v.daum.net", "video.daum.net", "news.naver.com", "news.nate.com", "zum.com",
-    "forbes.com", "nbcnews.com"
+    "forbes.com", "nbcnews.com", "premium.naver.com", "themiilk.com"
 ]
 
 PAYWALL_KEYWORDS = [
