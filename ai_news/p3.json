@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-07 07:10:57",
+    "last_update": "2026-06-07 16:23:12",
     "articles": [
+        {
+            "title": "Supercomputer networking to accelerate large scale AI training - OpenAI",
+            "link": "https://openai.com/index/mrc-supercomputer-networking/",
+            "summary_en": "OpenAI has collaborated with major tech companies to create a new network protocol that makes training large AI models faster and more reliable.",
+            "timestamp": 1778410804000
+        },
+        {
+            "title": "Microsoft: 2026 Work Trend Index Highlights Expanding Role Of AI Agents In Enterprise Workflows - Pulse 2.0",
+            "link": "https://pulse2.com/microsoft-2026-work-trend-index-highlights-expanding-role-of-ai-agents-in-enterprise-workflows/",
+            "summary_en": "Microsoft's new report shows that AI agents are helping employees focus on higher-level tasks, though many companies are struggling to adapt their workflows to this new technology.",
+            "timestamp": 1778211900000
+        },
+        {
+            "title": "University of Nebraska Deploys NSF-Funded ‘PLUMAGE’ GPU Infrastructure for AI Research - HPCwire",
+            "link": "https://www.hpcwire.com/off-the-wire/university-of-nebraska-deploys-nsf-funded-plumage-gpu-infrastructure-for-ai-research/",
+            "summary_en": "The University of Nebraska is implementing a new, NSF-funded GPU infrastructure called PLUMAGE to support advanced research in artificial intelligence.",
+            "timestamp": 1778261972000
+        },
         {
             "title": "Malaysia Adopts AI While Workforce Skills Face Strain - Let's Data Science",
             "link": "https://letsdatascience.com/news/malaysia-adopts-ai-while-workforce-skills-face-strain-d0e3e5ca",

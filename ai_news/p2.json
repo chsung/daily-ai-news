@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-07 07:10:57",
+    "last_update": "2026-06-07 16:23:12",
     "articles": [
+        {
+            "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development - The Hacker News",
+            "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+            "summary_en": "Microsoft has released two open-source tools, RAMPART and Clarity, to help developers proactively test AI agent security and validate design assumptions throughout the software development lifecycle rather than relying on final-stage reviews.",
+            "timestamp": 1779296760000
+        },
+        {
+            "title": "An OpenAI model has disproved a central conjecture in discrete geometry - OpenAI",
+            "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+            "summary_en": "OpenAI successfully utilized an AI model to disprove a longstanding, complex mathematical conjecture within the field of discrete geometry.",
+            "timestamp": 1779325650000
+        },
+        {
+            "title": "Introducing Gemini Omni - blog.google",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
+            "summary_en": "Google has introduced Gemini Omni, a natively multimodal model capable of generating and editing high-quality videos through natural language conversation by leveraging an advanced understanding of physics, world knowledge, and context.",
+            "timestamp": 1779213595000
+        },
         {
             "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance - Anthropic",
             "link": "https://www.anthropic.com/news/anthropic-kpmg?ref=zef.plus",
@@ -582,24 +600,6 @@
             "link": "https://www.anthropic.com/research/donating-open-source-petri",
             "summary_en": "Anthropic has updated its open-source AI safety testing tool, Petri, and transferred its development to the nonprofit Meridian Labs to ensure neutral and credible testing across the industry.",
             "timestamp": 1778187973000
-        },
-        {
-            "title": "Supercomputer networking to accelerate large scale AI training - OpenAI",
-            "link": "https://openai.com/index/mrc-supercomputer-networking/",
-            "summary_en": "OpenAI has collaborated with major tech companies to create a new network protocol that makes training large AI models faster and more reliable.",
-            "timestamp": 1778410804000
-        },
-        {
-            "title": "Microsoft: 2026 Work Trend Index Highlights Expanding Role Of AI Agents In Enterprise Workflows - Pulse 2.0",
-            "link": "https://pulse2.com/microsoft-2026-work-trend-index-highlights-expanding-role-of-ai-agents-in-enterprise-workflows/",
-            "summary_en": "Microsoft's new report shows that AI agents are helping employees focus on higher-level tasks, though many companies are struggling to adapt their workflows to this new technology.",
-            "timestamp": 1778211900000
-        },
-        {
-            "title": "University of Nebraska Deploys NSF-Funded ‘PLUMAGE’ GPU Infrastructure for AI Research - HPCwire",
-            "link": "https://www.hpcwire.com/off-the-wire/university-of-nebraska-deploys-nsf-funded-plumage-gpu-infrastructure-for-ai-research/",
-            "summary_en": "The University of Nebraska is implementing a new, NSF-funded GPU infrastructure called PLUMAGE to support advanced research in artificial intelligence.",
-            "timestamp": 1778261972000
         }
     ]
 }

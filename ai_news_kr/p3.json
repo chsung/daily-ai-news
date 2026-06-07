@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-07 07:10:01",
+    "last_update": "2026-06-07 16:22:13",
     "articles": [
+        {
+            "title": "AI 전력 폭증에 흔들리는 친환경 전략…마이크로소프트, 에너지 목표 재검토 가능성 - 비즈월드",
+            "link": "https://www.bizwnews.com/news/articleView.html?idxno=136128",
+            "summary_kr": "마이크로소프트가 생성형 AI 서비스 확대에 따른 데이터센터 전력 소비 급증으로 인해 기존 2030년 청정에너지 목표를 수정할 가능성이 제기되면서, AI 경쟁의 핵심 요소로 전력 확보가 부상하고 있습니다.",
+            "timestamp": 1778290917000
+        },
+        {
+            "title": "[AI 인프라 전쟁] 엔비디아, 데이터센터업체 IREN에 3조원 투자 - numbers.co.kr",
+            "link": "https://www.numbers.co.kr/news/articleView.html?idxno=21067",
+            "summary_kr": "엔비디아가 데이터센터 기업 IREN에 최대 21억 달러를 투자하고 AI 인프라를 구축하는 협약을 체결했으며, IREN 또한 엔비디아의 GPU 클라우드 서비스를 제공하는 34억 달러 규모의 계약을 맺는 등 양사 간 협력을 강화하고 있습니다.",
+            "timestamp": 1778288400000
+        },
         {
             "title": "멀티클라우드 시대 AI 에이전트 관리 전쟁···MS·구글 전략 ‘온도차’ - cio.com",
             "link": "https://www.cio.com/article/4168719/%EB%A9%80%ED%8B%B0%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%8B%9C%EB%8C%80-ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B4%80%EB%A6%AC-%EC%A0%84%EC%9F%81%C2%B7%C2%B7%C2%B7ms%C2%B7%EA%B5%AC%EA%B8%80.html",
@@ -588,18 +600,6 @@
             "link": "https://www.panewslab.com/ko/articles/019d80e2-9b49-752a-985c-19b0af71c086",
             "summary_kr": "뉴욕 타임스와 오우미의 조사에 따르면 구글의 'AI 개요'는 약 91%의 정확도를 보이지만, 구글의 검색 규모를 고려할 때 시간당 수천만 건의 오류가 발생하고 출처 인용의 신뢰성마저 낮아 허위 정보 확산 및 검색 결과 오염에 취약하다는 지적이 제기되었습니다.",
             "timestamp": 1776520320000
-        },
-        {
-            "title": "“아이디어만 말하면 디자인 완성”...‘클로드 디자인’ 공개, 디자인부터 프로토타입까지 AI와 협업 - 인공지능신문",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=39607",
-            "summary_kr": "앤트로픽이 공개한 ‘클로드 디자인’은 비전 모델 ‘클로드 오퍼스 4.7’ 기반의 비주얼 생성 도구로, 자연어 명령만으로 디자인·프로토타입·프레젠테이션 결과물을 만들고 조직의 디자인 시스템을 자동 반영해 비전문가도 전문적인 협업과 개발 연동을 손쉽게 수행할 수 있도록 지원합니다.",
-            "timestamp": 1776495600000
-        },
-        {
-            "title": "오픈AI, 신약 개발 특화 AI 모델 ‘GPT-로잘린드’ 출시 - 조선비즈 - Chosunbiz",
-            "link": "https://biz.chosun.com/it-science/ict/2026/04/17/UU2GIG7ATND7JPWBFVMO4X3Q44/",
-            "summary_kr": "오픈AI가 신약 개발에 특화된 기능을 갖춘 새로운 AI 모델인 ‘GPT-로잘린드’를 출시하며 제약 및 바이오 산업 분야의 연구 효율성을 높이는 전략적 행보에 나섰습니다.",
-            "timestamp": 1776409200000
         }
     ]
 }
