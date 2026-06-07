@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-06 16:12:18",
+    "last_update": "2026-06-07 07:10:57",
     "articles": [
+        {
+            "title": "Malaysia Adopts AI While Workforce Skills Face Strain - Let's Data Science",
+            "link": "https://letsdatascience.com/news/malaysia-adopts-ai-while-workforce-skills-face-strain-d0e3e5ca",
+            "summary_en": "While Malaysia is rapidly adopting AI in the workplace, a lack of sufficient training and mentorship is creating a skills gap that threatens to hinder employee development.",
+            "timestamp": 1778393007000
+        },
+        {
+            "title": "Microsoft study claims workplace culture is slowing AI usage among companies: All details - MSN",
+            "link": "https://www.msn.com/en-in/money/news/microsoft-study-claims-workplace-culture-is-slowing-ai-usage-among-companies-all-details/ar-AA22saBe?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "A Microsoft study indicates that company workplace culture is acting as a primary barrier to the widespread adoption and effective use of AI tools.",
+            "timestamp": 1778400050000
+        },
+        {
+            "title": "New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences - meta.com",
+            "link": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
+            "summary_en": "Meta is using new AI technology to better identify and protect underage users on its platforms by analyzing profile content and visual cues to ensure teens are placed in age-appropriate accounts.",
+            "timestamp": 1777978840000
+        },
         {
             "title": "Government pushes Anthropic to host Claude AI models locally: Report - MSN",
             "link": "https://www.msn.com/en-in/money/topstories/government-pushes-anthropic-to-host-claude-ai-models-locally-report/ar-AA22FWkK?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",

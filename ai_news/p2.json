@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-06 16:12:18",
+    "last_update": "2026-06-07 07:10:57",
     "articles": [
+        {
+            "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance - Anthropic",
+            "link": "https://www.anthropic.com/news/anthropic-kpmg?ref=zef.plus",
+            "summary_en": "KPMG has formed a strategic alliance with Anthropic to integrate Claude into its 'Digital Gateway' platform, providing its global workforce of over 276,000 employees with AI-powered tools for tax, audit, and cybersecurity services.",
+            "timestamp": 1779270975000
+        },
+        {
+            "title": "OpenAI expands verification tools as AI slop blurs digital trust - Digital Watch Observatory",
+            "link": "https://dig.watch/updates/openai-verification-tools-ai-slop-blurs-trust",
+            "summary_en": "OpenAI is strengthening digital trust by adopting a multi-layered provenance approach that combines C2PA metadata, invisible SynthID watermarks, and a public verification tool to help users identify AI-generated content.",
+            "timestamp": 1779270109000
+        },
+        {
+            "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader - CNBC",
+            "link": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
+            "summary_en": "Anthropic has hired OpenAI co-founder and former Tesla AI director Andrej Karpathy to lead a research team focused on using Claude to accelerate the pretraining of large language models.",
+            "timestamp": 1779208268000
+        },
         {
             "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
             "link": "https://www.cnbc.com/2026/05/19/blackstone-google-ai-data-center-joint-venture-tpu.html",
@@ -582,24 +600,6 @@
             "link": "https://www.hpcwire.com/off-the-wire/university-of-nebraska-deploys-nsf-funded-plumage-gpu-infrastructure-for-ai-research/",
             "summary_en": "The University of Nebraska is implementing a new, NSF-funded GPU infrastructure called PLUMAGE to support advanced research in artificial intelligence.",
             "timestamp": 1778261972000
-        },
-        {
-            "title": "Malaysia Adopts AI While Workforce Skills Face Strain - Let's Data Science",
-            "link": "https://letsdatascience.com/news/malaysia-adopts-ai-while-workforce-skills-face-strain-d0e3e5ca",
-            "summary_en": "While Malaysia is rapidly adopting AI in the workplace, a lack of sufficient training and mentorship is creating a skills gap that threatens to hinder employee development.",
-            "timestamp": 1778393007000
-        },
-        {
-            "title": "Microsoft study claims workplace culture is slowing AI usage among companies: All details - MSN",
-            "link": "https://www.msn.com/en-in/money/news/microsoft-study-claims-workplace-culture-is-slowing-ai-usage-among-companies-all-details/ar-AA22saBe?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "A Microsoft study indicates that company workplace culture is acting as a primary barrier to the widespread adoption and effective use of AI tools.",
-            "timestamp": 1778400050000
-        },
-        {
-            "title": "New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences - meta.com",
-            "link": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
-            "summary_en": "Meta is using new AI technology to better identify and protect underage users on its platforms by analyzing profile content and visual cues to ensure teens are placed in age-appropriate accounts.",
-            "timestamp": 1777978840000
         }
     ]
 }
