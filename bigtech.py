@@ -38,6 +38,10 @@ PAYWALL_KEYWORDS = [
     "유료 회원 전용", "프리미엄 구독", "이 기사는 유료", "멤버십 가입", "무료 회원가입하고"
 ]
 
+ANTHROPIC_PLACEHOLDER = "Anthropic Article"
+OPENAI_PLACEHOLDER = "OpenAI Research Article"
+PLACEHOLDER_TITLES = [ANTHROPIC_PLACEHOLDER, OPENAI_PLACEHOLDER]
+
 def log_print(msg):
     try:
         print(msg)
@@ -106,6 +110,9 @@ def extract_date_from_detail(html):
 def is_valid_title_similarity(original_title, extracted_title):
     if not original_title or not extracted_title:
         return False
+    # 사이트맵 파서가 임시로 채워넣은 플레이스홀더 제목은 검증 없이 덮어쓰기 허용
+    if original_title in PLACEHOLDER_TITLES:
+        return True
     import re
     def get_keywords(text):
         # Remove publisher suffixes (e.g., " - 연합뉴스", " | YTN")
@@ -323,51 +330,129 @@ def collect_google():
 def collect_anthropic():
     try:
         log_print("[Anthropic] 수집 시작...")
-        # 파트 1. Sitemap 파싱 수집 (누락 완벽 방지)
-        try:
-            sitemap_res = requests.get("https://www.anthropic.com/sitemap.xml", timeout=15, verify=False)
-            sitemap_soup = BeautifulSoup(sitemap_res.text, 'html.parser')
-            # <url> 태그 단위로 순회하여 loc와 lastmod를 정확히 매칭시킵니다.
-            for url_tag in sitemap_soup.find_all('url'):
-                loc = url_tag.find('loc')
-                lastmod = url_tag.find('lastmod')
-                if loc:
-                    url_str = loc.get_text(strip=True)
-                    if '/news/' in url_str or '/blog/' in url_str or '/research/' in url_str:
-                        if any(x in url_str for x in ['/research/team/', '/team/', '/author/', '/team-', '/tags/', '/categories/', '/category/']):
-                            continue
-                        # 슬래시 정제
-                        link = normalize_link(url_str)
-                        
-                        # lastmod의 날짜(발행/수정일)를 가로채어 타임스탬프로 환산
-                        pub_date = lastmod.get_text(strip=True) if lastmod else ""
-                        timestamp_ms = parse_date_to_ms(pub_date) if pub_date else None
-                        
-                        # 수집 적재 단계에 날짜 메타를 제공함으로써 최근 7일이 지난 기사는 사전 차단(리소스를 극적으로 아낌)
-                        add_bigtech_candidate("Anthropic", "Anthropic Article", link, pub_date, timestamp_ms, source="sitemap")
-        except Exception as sitemap_err:
-            log_print(f"Anthropic Sitemap 수집 에러 (HTML Fallback 작동): {sitemap_err}")
+        # 파트 1. Sitemap 파싱 수집 비활성화 (lastmod 일괄 갱신으로 인한 대량 과거 기사 중복 수집/오버헤드 차단)
+        # try:
+        #     sitemap_res = requests.get("https://www.anthropic.com/sitemap.xml", timeout=15, verify=False)
+        #     sitemap_soup = BeautifulSoup(sitemap_res.text, 'html.parser')
+        #     for url_tag in sitemap_soup.find_all('url'):
+        #         loc = url_tag.find('loc')
+        #         lastmod = url_tag.find('lastmod')
+        #         if loc:
+        #             url_str = loc.get_text(strip=True)
+        #             if '/news/' in url_str or '/blog/' in url_str or '/research/' in url_str:
+        #                 if any(x in url_str for x in ['/research/team/', '/team/', '/author/', '/team-', '/tags/', '/categories/', '/category/']):
+        #                     continue
+        #                 link = normalize_link(url_str)
+        #                 pub_date = lastmod.get_text(strip=True) if lastmod else ""
+        #                 timestamp_ms = parse_date_to_ms(pub_date) if pub_date else None
+        #                 add_bigtech_candidate("Anthropic", ANTHROPIC_PLACEHOLDER, link, pub_date, timestamp_ms, source="sitemap")
+        # except Exception as sitemap_err:
+        #     log_print(f"Anthropic Sitemap 수집 에러 (HTML Fallback 작동): {sitemap_err}")
 
-        # 파트 2. 기존 HTML 스크래핑 수집
-        anthropic_urls = ["https://www.anthropic.com/news", "https://claude.com/blog", "https://www.anthropic.com/research"]
-        for url in anthropic_urls:
+        # 파트 2. 고도화된 HTML 목록 스크래핑 수집 (기사 카드 구조 최적화)
+        
+        # 2-1. Claude Blog (https://claude.com/blog)
+        try:
+            url = "https://claude.com/blog"
+            res = scraper.get(url, timeout=15)
+            soup = BeautifulSoup(res.text, 'html.parser')
+            items = soup.find_all('div', class_=lambda c: c and 'blog_list_item' in c.lower())
+            for item in items:
+                h_tag = item.find(['h1', 'h2', 'h3', 'h4', 'h5', 'h6'])
+                title = h_tag.get_text(strip=True) if h_tag else ""
+                
+                a_tag = item.find('a', href=True)
+                href = a_tag.get('href', '') if a_tag else ""
+                
+                if not title or not href:
+                    continue
+                if any(x in href for x in ['/author/', '/tags/', '/categories/', '/category/']):
+                    continue
+                    
+                pub_date = ""
+                date_div = item.find('div', class_=lambda c: c and 'caption' in c.lower())
+                if date_div:
+                    pub_date = date_div.get_text(strip=True)
+                if not pub_date:
+                    time_tag = item.find('time')
+                    if time_tag:
+                        pub_date = time_tag.get('datetime') or time_tag.get_text(strip=True)
+                        
+                link = "https://claude.com" + href if href.startswith('/') else href
+                timestamp_ms = parse_date_to_ms(pub_date)
+                add_bigtech_candidate("Anthropic", title, link, pub_date, timestamp_ms, source="html")
+        except Exception as blog_err:
+            log_print(f"Anthropic Claude Blog 수집 에러: {blog_err}")
+
+        # 2-2. Anthropic News (https://www.anthropic.com/news)
+        try:
+            url = "https://www.anthropic.com/news"
             res = scraper.get(url, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
             for a in soup.find_all('a', href=True):
                 href = a.get('href', '')
-                if '/news/' in href or '/blog/' in href or '/research/' in href:
-                    if any(x in href for x in ['/research/team/', '/team/', '/author/', '/tags/', '/categories/', '/category/']):
+                if '/news/' in href:
+                    if any(x in href for x in ['/author/', '/tags/', '/categories/', '/category/']):
                         continue
-                    
-                    heading = a.find(['h1', 'h2', 'h3', 'h4', 'h5'])
-                    title = heading.get_text(strip=True) if heading else a.get_text(separator=' ', strip=True)
-                    
-                    if len(title) > 15 and "read more" not in title.lower():
-                        base = "https://www.anthropic.com" if "anthropic.com" in url else "https://claude.com"
-                        link = base + href if href.startswith('/') else href
-                        pub_date = get_date_from_parent(a)
+                        
+                    heading = a.find(['h1', 'h2', 'h3', 'h4', 'h5', 'h6'])
+                    title = heading.get_text(strip=True) if heading else ""
+                    if not title:
+                        txt = a.get_text(separator=' ', strip=True)
+                        if len(txt) > 15 and "read more" not in txt.lower():
+                            title = txt
+                            
+                    if title:
+                        pub_date = ""
+                        time_tag = a.find('time')
+                        if time_tag:
+                            pub_date = time_tag.get('datetime') or time_tag.get_text(strip=True)
+                        else:
+                            parent = a.find_parent('div')
+                            if parent:
+                                t_tag = parent.find('time')
+                                if t_tag:
+                                    pub_date = t_tag.get('datetime') or t_tag.get_text(strip=True)
+                                    
+                        link = "https://www.anthropic.com" + href if href.startswith('/') else href
                         timestamp_ms = parse_date_to_ms(pub_date)
                         add_bigtech_candidate("Anthropic", title, link, pub_date, timestamp_ms, source="html")
+        except Exception as news_err:
+            log_print(f"Anthropic News 수집 에러: {news_err}")
+
+        # 2-3. Anthropic Research (https://www.anthropic.com/research)
+        try:
+            url = "https://www.anthropic.com/research"
+            res = scraper.get(url, timeout=15)
+            soup = BeautifulSoup(res.text, 'html.parser')
+            for a in soup.find_all('a', href=True):
+                href = a.get('href', '')
+                if '/research/' in href:
+                    if any(x in href for x in ['/research/team/', '/team/', '/author/', '/tags/', '/categories/', '/category/']):
+                        continue
+                        
+                    title_span = a.find('span', class_=lambda c: c and 'title' in c.lower())
+                    title = title_span.get_text(strip=True) if title_span else ""
+                    if not title:
+                        heading = a.find(['h1', 'h2', 'h3', 'h4', 'h5', 'h6'])
+                        title = heading.get_text(strip=True) if heading else ""
+                    if not title:
+                        txt = a.get_text(separator=' ', strip=True)
+                        if len(txt) > 15 and "read more" not in txt.lower():
+                            title = txt
+                            
+                    if title:
+                        pub_date = ""
+                        time_tag = a.find('time')
+                        if time_tag:
+                            pub_date = time_tag.get('datetime') or time_tag.get_text(strip=True)
+                            
+                        link = "https://www.anthropic.com" + href if href.startswith('/') else href
+                        timestamp_ms = parse_date_to_ms(pub_date)
+                        add_bigtech_candidate("Anthropic", title, link, pub_date, timestamp_ms, source="html")
+        except Exception as research_err:
+            log_print(f"Anthropic Research 수집 에러: {research_err}")
+
     except Exception as e: log_print(f"Anthropic 수집 에러: {e}")
 
 # 3. OpenAI 수집 (공식 뉴스 RSS 피드를 통한 수집 - 활성화 상태 보존)
@@ -412,7 +497,7 @@ def collect_openai():
         #                         timestamp_ms = parse_date_to_ms(pub_date) if pub_date else None
         #                         
         #                         # 제목은 루프 돌며 상세페이지 방문 시 100% 자동 복원되므로 임시 지정하여 후보군에 안착
-        #                         add_bigtech_candidate("OpenAI", "OpenAI Research Article", link, pub_date, timestamp_ms, source="sitemap")
+        #                         add_bigtech_candidate("OpenAI", OPENAI_PLACEHOLDER, link, pub_date, timestamp_ms, source="sitemap")
         #         except Exception as sitemap_err:
         #             log_print(f"OpenAI 사이트맵 수집 에러 ({openai_sitemap}): {sitemap_err}")
         # except Exception as e: log_print(f"OpenAI 수집 에러: {e}")
@@ -613,21 +698,12 @@ def collect_xai():
                 
             norm_link = normalize_link(link)
             
-            # 카드 박스(div, li, article) 텍스트에서 날짜 검색
+            # 부모 앵커 태그(카드 컨테이너 전체)의 텍스트에서 날짜 검색 (가장 정확하고 누락 없음)
             pub_date = ""
-            box = heading.find_parent(['div', 'li', 'article'])
-            if box:
-                box_text = box.get_text(separator=' ', strip=True)
-                match = date_regex.search(box_text)
-                if match:
-                    pub_date = match.group(0)
-            
-            # 박스 내에서 날짜가 안 보일 경우, 형제 노드들 텍스트 검색
-            if not pub_date:
-                siblings_txt = " ".join([s.get_text(strip=True) for s in heading.find_previous_siblings() + heading.find_next_siblings() if s])
-                match = date_regex.search(siblings_txt)
-                if match:
-                    pub_date = match.group(0)
+            parent_text = parent_a.get_text(separator=' ', strip=True)
+            match = date_regex.search(parent_text)
+            if match:
+                pub_date = match.group(0)
                     
             timestamp_ms = parse_date_to_ms(pub_date) if pub_date else None
             

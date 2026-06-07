@@ -5,7 +5,7 @@
             "company": "Anthropic",
             "timestamp": 1780617600000,
             "date": "2026-06-05",
-            "title": "Anthropic Article",
+            "title": "Making Claude a chemist",
             "summary_kr": "앤스로픽은 화학 연구의 핵심인 다양한 데이터 해석 및 번역 과정을 자동화하기 위해 클로드(Claude)의 화학 전문성 강화에 나섰으며, 그 첫 번째 결과물로 NMR 스펙트럼 분석 기술을 공개했습니다.",
             "summary_en": "Anthropic is enhancing Claude’s chemical reasoning capabilities to assist researchers in interpreting complex analytical data, marking the initiative with the release of a new white paper on NMR spectrum analysis.",
             "link": "https://www.anthropic.com/research/making-claude-a-chemist"
