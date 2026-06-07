@@ -279,12 +279,10 @@ for config in CONFIGS:
     
     current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     max_items = config.get("max_rss_items", 40)
-    rss_log = f"\n[{current_time}] [{config['lang_name']}] RSS 원본 기사 {len(feed.entries[:max_items])}개 가져오기 완료:\n"
     print(f"\n[RSS 원본 기사 {len(feed.entries[:max_items])}개 가져오기 완료]")
     for i, entry in enumerate(feed.entries[:max_items]):
         line = f" {i+1}. {entry.title} ({entry.get('published', '')})"
         print(line)
-        rss_log += line + "\n"
     print("이제 구글 뉴스 링크를 실제 링크로 변환합니다 (시간이 약간 소요될 수 있습니다)...")
 
 
@@ -337,8 +335,6 @@ for config in CONFIGS:
         print(title_only_text)
         print("-" * 50)
         
-        log_content = f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] [{config['lang_name']}] 수집된 후보 기사 {len(candidate_entries)}개:\n{title_only_text}\n"
-        
         print("1차 제미나이 요청: 기사 제목을 분석하여 중복 없는 핵심 기사를 엄선합니다...")
         prompt1 = config["prompt1"].format(count=len(candidate_entries), title_only_text=title_only_text, recent_titles_text=recent_titles_text)
         
@@ -355,7 +351,6 @@ for config in CONFIGS:
                 res1_text = response1.text.strip()
                 
                 print(f"   -> 1차 제미나이 응답 원본: {res1_text}")
-                log_content += f"   -> 1차 제미나이 응답 원본: {res1_text}\n"
                 
                 if res1_text.startswith("```json"):
                     res1_text = res1_text[7:-3].strip()
@@ -368,20 +363,15 @@ for config in CONFIGS:
                     idx = item.get("id")
                     if idx is not None and isinstance(idx, int) and 0 <= idx < len(candidate_entries):
                         valid_ids.append(idx)
-                
-                decoded_links = {}
                 if valid_ids:
                     print(f"\n총 {len(valid_ids)}개의 엄선된 기사 본문을 Trafilatura로 추출합니다...")
-                    log_content += f"\n총 {len(valid_ids)}개의 엄선된 기사 본문을 Trafilatura로 추출합니다...\n"
                     selected_news_parts = []
                     log_news_parts = []
                     final_valid_ids = []
                     for idx in valid_ids:
                         entry = candidate_entries[idx]
                         print(f" - [{idx}] {entry.title}")
-                        log_content += f" - [{idx}] {entry.title}\n"
                         print(f"   -> 원본 링크: {entry.link}")
-                        log_content += f"   -> 원본 링크: {entry.link}\n"
                         
                         try:
                             final_url = entry.link
@@ -399,13 +389,10 @@ for config in CONFIGS:
                                         final_url = res.get("decoded_url")
                                 
                                 print(f"   -> googlenewsdecoder 반환: {decoder_res}")
-                                log_content += f"   -> googlenewsdecoder 반환: {decoder_res}\n"
                             except Exception as e:
                                 print(f"   -> googlenewsdecoder 에러: {e}")
-                                log_content += f"   -> googlenewsdecoder 에러: {e}\n"
                                 
                             print(f"   -> 원본 추출 대상 URL: {final_url}")
-                            log_content += f"   -> 원본 추출 대상 URL: {final_url}\n"
                             
                             html_content = None
                             headers = {
@@ -428,7 +415,6 @@ for config in CONFIGS:
                                     raise RuntimeError(f"HTTP {response.status_code}")
                             except Exception as req_err:
                                 print(f"   -> requests 접속 실패({req_err}). urllib으로 2차 접속을 시도합니다.")
-                                log_content += f"   -> requests 접속 실패({req_err}). urllib으로 2차 접속을 시도합니다.\n"
                                 # Fallback to urllib
                                 try:
                                     req = urllib.request.Request(final_url, headers=headers)
@@ -436,7 +422,6 @@ for config in CONFIGS:
                                         html_content = response.read().decode('utf-8', errors='ignore')
                                 except Exception as url_err:
                                     print(f"   -> urllib 접속 실패({url_err}). cloudscraper로 3차 접속을 시도합니다.")
-                                    log_content += f"   -> urllib 접속 실패({url_err}). cloudscraper로 3차 접속을 시도합니다.\n"
                                     # Fallback to cloudscraper
                                     try:
                                         import cloudscraper
@@ -464,14 +449,12 @@ for config in CONFIGS:
                             content = trafilatura.extract(html_content)
                             if content and len(content.strip()) > 100:
                                 print(f"   -> Trafilatura 추출 성공 (길이: {len(content)}자)")
-                                log_content += f"   -> Trafilatura 추출 성공 (길이: {len(content)}자)\n"
                                 content = content[:4000]
                             else:
                                 raise ValueError(f"본문 추출 결과가 비어있거나 너무 짧음 ({len(content.strip()) if content else 0}자)")
                         except Exception as e:
                             if html_content:
                                 print(f"   -> Trafilatura 추출 실패({e}). Newspaper4k로 2차 추출을 시도합니다.")
-                                log_content += f"   -> Trafilatura 추출 실패({e}). Newspaper4k로 2차 추출을 시도합니다.\n"
                                 try:
                                     article = Article(url=entry.link)
                                     article.set_html(html_content)
@@ -482,11 +465,9 @@ for config in CONFIGS:
                                         raise ValueError(f"Newspaper4k 추출 결과가 비어있거나 너무 짧음 ({len(content.strip()) if content else 0}자)")
                                         
                                     print(f"   -> Newspaper4k 추출 성공 (길이: {len(content)}자)")
-                                    log_content += f"   -> Newspaper4k 추출 성공 (길이: {len(content)}자)\n"
                                     content = content[:4000]
                                 except Exception as news_e:
                                     print(f"   -> Newspaper4k 추출 실패({news_e}). BeautifulSoup으로 3차 추출을 시도합니다.")
-                                    log_content += f"   -> Newspaper4k 추출 실패({news_e}). BeautifulSoup으로 3차 추출을 시도합니다.\n"
                                     try:
                                         soup = BeautifulSoup(html_content, 'html.parser')
                                         for noise in soup(['script', 'style', 'nav', 'footer', 'aside', 'header']):
@@ -505,16 +486,13 @@ for config in CONFIGS:
                                             raise ValueError(f"BeautifulSoup 추출 결과도 비어있거나 너무 짧음 ({len(content.strip()) if content else 0}자)")
                                             
                                         print(f"   -> BeautifulSoup 추출 성공 (길이: {len(content)}자)")
-                                        log_content += f"   -> BeautifulSoup 추출 성공 (길이: {len(content)}자)\n"
                                         content = content[:4000]
                                     except Exception as bs_e:
                                         content = f"본문 수집 실패 (사유: {bs_e}) - 제목으로만 요약"
                                         print(f"   -> 추출 최종 실패: {bs_e}")
-                                        log_content += f"   -> 추출 최종 실패: {bs_e}\n"
                             else:
                                 content = f"웹페이지 접속 실패 (사유: {e}) - 제목으로만 요약"
                                 print(f"   -> 접속 에러/실패: {e}")
-                                log_content += f"   -> 접속 에러/실패: {e}\n"
                             
                         is_paywalled = False
                         if content and not content.startswith("본문 수집 실패") and not content.startswith("웹페이지 접속 실패"):
@@ -524,7 +502,6 @@ for config in CONFIGS:
                                 
                         if is_paywalled:
                             print(f"   -> 🚨 페이월(유료 기사) 감지됨. 요약에서 제외합니다.")
-                            log_content += f"   -> 🚨 페이월(유료 기사) 감지됨. 요약에서 제외합니다.\n"
                             time.sleep(1)
                             continue
                             
@@ -535,8 +512,6 @@ for config in CONFIGS:
                         
                     if not final_valid_ids:
                         print("   -> 🚨 유효한 기사 본문이 남지 않아 2차 요약을 생략합니다.")
-                        log_content += "   -> 🚨 유효한 기사 본문이 남지 않아 2차 요약을 생략합니다.\n"
-                        log_content += f"\n[{config['lang_name']}] 제미나이가 엄선한 기사 0개:\n" + "-" * 50 + "\n\n"
                         break
 
                     selected_news_text = "\n\n".join(selected_news_parts)
@@ -545,7 +520,6 @@ for config in CONFIGS:
                     print("\n[추출 본문 확인 (최대 500자)]")
                     print(log_news_text)
                     print("-" * 50)
-                    log_content += f"\n[추출 본문 확인 (최대 500자)]\n{log_news_text}\n" + "-" * 50 + "\n"
                     
                     print("\n2차 제미나이 요청: 추출된 본문을 바탕으로 기사를 요약합니다...")
                     prompt2 = config["prompt2"].format(count=len(final_valid_ids), selected_news_text=selected_news_text)
@@ -557,7 +531,6 @@ for config in CONFIGS:
                     res2_text = response2.text.strip()
                     
                     print(f"   -> 2차 제미나이 응답 원본: {res2_text}")
-                    log_content += f"   -> 2차 제미나이 응답 원본: {res2_text}\n"
                     
                     if res2_text.startswith("```json"):
                         res2_text = res2_text[7:-3].strip()
@@ -594,12 +567,9 @@ for config in CONFIGS:
                             })
                 
                 print(f"\n제미나이가 엄선한 기사 {len(new_articles)}개:")
-                log_content += f"\n[{config['lang_name']}] 제미나이가 엄선한 기사 {len(new_articles)}개:\n"
                 for article in new_articles:
                     print(f"- {article['title']}")
-                    log_content += f"- {article['title']}\n"
                 print("-" * 50)
-                log_content += "-" * 50 + "\n\n"
                 
                 
                 break
@@ -610,11 +580,9 @@ for config in CONFIGS:
                 if attempt < max_retries - 1:
                     print(f"[{config['lang_name']}] Gemini API 호출 오류 발생. {wait_time}초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
                     print(f"👉 상세 오류 내용: {e}")
-                    log_content += f"\n[{config['lang_name']}] [재시도 {attempt+1}/{max_retries}] 오류 발생: {e}\n"
                     time.sleep(wait_time)
                 else:
                     print(f"[{config['lang_name']}] Gemini API 최종 실패: {e}")
-                    log_content += f"\n[{config['lang_name']}] [오류 발생] 최대 재시도 횟수 초과: {e}\n" + "-" * 50 + "\n\n"
                     print("\n[조기 종료] API 최대 재시도 횟수를 초과했습니다. 지금까지 수집된 데이터를 저장하고 작업을 마칩니다...")
                     stop_collection = True
                     break

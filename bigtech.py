@@ -4,10 +4,8 @@ import os
 import json
 import email.utils
 import urllib.parse
-import urllib.request
 import time
 from datetime import datetime
-import googlenewsdecoder
 import trafilatura
 from bs4 import BeautifulSoup
 from newspaper import Article
@@ -27,16 +25,6 @@ client = genai.Client(api_key=API_KEY)
 
 MAX_ITEMS_PER_FILE = 100
 MAX_TOTAL_ITEMS = 300
-
-PAYWALL_KEYWORDS = [
-    "subscribe to read", "log in to continue", "please subscribe", 
-    "for subscribers only", "to continue reading this article", 
-    "to read the full story, subscribe", "구독하여 전체 기사 읽기", 
-    "유료 구독자 전용", "로그인 후 계속 읽기", "구독하여 기사 전체 읽기",
-    "read the rest of this story", "this article is exclusive",
-    "start your free trial", "already a subscriber?",
-    "유료 회원 전용", "프리미엄 구독", "이 기사는 유료", "멤버십 가입", "무료 회원가입하고"
-]
 
 ANTHROPIC_PLACEHOLDER = "Anthropic Article"
 OPENAI_PLACEHOLDER = "OpenAI Research Article"
