@@ -354,8 +354,6 @@ for config in CONFIGS:
     if candidate_entries:
         title_only_text = "\n".join([f"{idx}: {entry.title}" for idx, entry in enumerate(candidate_entries)])
         print("-" * 50)
-        
-        print("1차 제미나이 요청: 기사 제목을 분석하여 중복 없는 핵심 기사를 엄선합니다...")
         prompt1 = config["prompt1"].format(count=len(candidate_entries), title_only_text=title_only_text, recent_titles_text=recent_titles_text)
         
         max_retries = 3
@@ -392,7 +390,6 @@ for config in CONFIGS:
                             valid_ids.append(idx)
                     editorial_note = data.get("editorial_note", "종합 편집자 브리핑 정보가 누락되었습니다.")
                 
-                print(f"\n📰 [오늘의 편집자 종합 브리핑]\n{editorial_note}\n")
                 if valid_ids:
                     print(f"\n총 {len(valid_ids)}개의 엄선된 기사 본문을 Trafilatura로 추출합니다...")
                     selected_news_parts = []
@@ -401,28 +398,26 @@ for config in CONFIGS:
                     for idx in valid_ids:
                         entry = candidate_entries[idx]
                         print(f" - [{idx}] {entry.title}")
-                        print(f"   -> 원본 링크: {entry.link}")
                         
                         try:
                             final_url = entry.link
-                            decoder_res = None
                             try:
                                 if hasattr(googlenewsdecoder, 'new_decoderv1'):
                                     res = googlenewsdecoder.new_decoderv1(entry.link)
-                                    decoder_res = res
                                     if res and res.get("status"):
                                         final_url = res.get("decoded_url")
+                                    else:
+                                        msg = res.get("message", "Unknown error") if res else "No response"
+                                        print(f"   -> [경고] 구글 뉴스 URL 디코딩 실패: {msg}")
                                 elif hasattr(googlenewsdecoder, 'decode'):
                                     res = googlenewsdecoder.decode(entry.link)
-                                    decoder_res = res
                                     if isinstance(res, dict) and res.get("status"):
                                         final_url = res.get("decoded_url")
-                                
-                                print(f"   -> googlenewsdecoder 반환: {decoder_res}")
+                                    else:
+                                        msg = res.get("message", "Unknown error") if isinstance(res, dict) else "No response"
+                                        print(f"   -> [경고] 구글 뉴스 URL 디코딩 실패: {msg}")
                             except Exception as e:
-                                print(f"   -> googlenewsdecoder 에러: {e}")
-                                
-                            print(f"   -> 원본 추출 대상 URL: {final_url}")
+                                print(f"   -> [에러] 구글 뉴스 URL 디코딩 중 예외 발생: {e}")
                             
                             html_content = None
                             headers = {
@@ -550,8 +545,6 @@ for config in CONFIGS:
                     print("\n[추출 본문 확인 (최대 500자)]")
                     print(log_news_text)
                     print("-" * 50)
-                    
-                    print("\n2차 제미나이 요청: 추출된 본문을 바탕으로 기사를 요약합니다...")
                     prompt2 = config["prompt2"].format(count=len(final_valid_ids), selected_news_text=selected_news_text)
                     response2 = client.models.generate_content(
                         model="gemini-3.1-flash-lite",
@@ -595,11 +588,6 @@ for config in CONFIGS:
                                 "timestamp": timestamp_ms,
                                 "date": human_readable_date
                             })
-                
-                print(f"\n제미나이가 엄선한 기사 {len(new_articles)}개:")
-                for article in new_articles:
-                    print(f"- {article['title']}")
-                print("-" * 50)
                 
                 
                 break
