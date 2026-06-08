@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-08 08:17:08",
+    "last_update": "2026-06-08 18:01:19",
     "articles": [
+        {
+            "title": "Nvidia posts record profit of $58.3bn amid AI chip boom - Al Jazeera",
+            "link": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom",
+            "summary_en": "Nvidia reported record quarterly profits of $58.3 billion, driven by a 92% surge in data-center revenue from AI demand, leading the company to announce an $80 billion share buyback and a significant dividend increase as it shifts into a more mature phase of hypergrowth.",
+            "timestamp": 1779375334000
+        },
+        {
+            "title": "Anthropic Is in Talks to Use Microsoft’s AI Chips - The Information",
+            "link": "https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips",
+            "summary_en": "Anthropic is currently in negotiations to incorporate Microsoft’s proprietary AI chips into its infrastructure, reflecting a strategic move to diversify its hardware supply for advanced model development.",
+            "timestamp": 1779368651000
+        },
+        {
+            "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
+            "link": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
+            "summary_en": "Google has launched 'Gemini for Science,' a suite of agentic research tools on Google Labs designed to accelerate discovery by automating hypothesis generation, computational testing, and the synthesis of vast scientific literature.",
+            "timestamp": 1779377397000
+        },
         {
             "title": "Anthropic nears first quarterly profit, agrees to pay SpaceX $1.25 billion monthly for computing power - Reuters",
             "link": "https://www.reuters.com/business/anthropic-nears-first-quarterly-profit-agrees-pay-spacex-125-billion-monthly-2026-05-21/",
@@ -582,24 +600,6 @@
             "link": "https://www.msn.com/en-in/money/topstories/us-military-expands-google-ai-partnership-for-classified-work-plans-for-diversified-ai-ecosystem/ar-AA21ZoG2?uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
             "summary_en": "The U.S. military is expanding its partnership with Google to use AI for classified projects as part of a strategy to build a broader range of AI technologies.",
             "timestamp": 1778404446000
-        },
-        {
-            "title": "Unhappy with Mark Zuckerberg's Meta buying AI startup Manus, Chinese government to startups: Reject funding from American origin companies, unless ... - MSN",
-            "link": "https://www.msn.com/en-in/news/world/unhappy-with-mark-zuckerbergs-meta-buying-ai-startup-manus-chinese-government-to-startups-reject-funding-from-american-origin-companies-unless/ar-AA22oUoQ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "Following Meta's acquisition of the startup Manus, the Chinese government is reportedly advising domestic startups to avoid taking funding from American companies.",
-            "timestamp": 1778373959000
-        },
-        {
-            "title": "100 times faster: L’Oréal and NVIDIA are transforming the beauty industry - The Jerusalem Post",
-            "link": "https://www.jpost.com/consumerism/article-895102",
-            "summary_en": "L’Oréal is partnering with NVIDIA to use AI for molecular simulations, which will speed up the development of new beauty products by up to 100 times.",
-            "timestamp": 1778265600000
-        },
-        {
-            "title": "Verda and Compal Partner to Accelerate AI Infrastructure Development and Expansion - HPCwire",
-            "link": "https://www.hpcwire.com/off-the-wire/verda-and-compal-partner-to-accelerate-ai-infrastructure-development-and-expansion/",
-            "summary_en": "Verda and Compal have entered a partnership to speed up the development and expansion of AI infrastructure.",
-            "timestamp": 1778261972000
         }
     ]
 }

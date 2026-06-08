@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-08 08:16:25",
+    "last_update": "2026-06-08 18:00:33",
     "articles": [
+        {
+            "title": "정부, 美 AI 보안 동맹 참여 추진…AI안전연구소·KISA 전면에 - 전자신문",
+            "link": "https://www.etnews.com/20260510000022",
+            "summary_kr": "대한민국 정부는 글로벌 AI 보안 체계에 대응하고 최신 보안 AI 기술을 확보하기 위해, AI안전연구소와 한국인터넷진흥원을 중심으로 앤스로픽의 글로벌 보안 협력체인 '프로젝트 글래스윙' 참여를 추진합니다.",
+            "timestamp": 1778377309000
+        },
+        {
+            "title": "“엔비디아 없이 AI 돌렸다”…딥시크 V4 띄운 화웨이, 판 흔든다 - kmjournal.net",
+            "link": "https://www.kmjournal.net/news/articleView.html?idxno=11177",
+            "summary_kr": "중국 딥시크가 화웨이의 성텅 칩을 사용하여 차세대 모델 '딥시크 V4'를 구현하며 미국의 제재 속에서도 자국산 반도체와 소프트웨어를 결합한 독자적인 AI 생태계를 구축하고 있습니다.",
+            "timestamp": 1778371521000
+        },
+        {
+            "title": "소프트뱅크, AI 서버 자체 개발 추진...엔비디아·폭스콘과 협력 - 디지털투데이",
+            "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=664009",
+            "summary_kr": "소프트뱅크가 오픈AI의 성장 가능성에 베팅하며 중기 경영 계획의 일환으로 엔비디아, 폭스콘과 협력해 고성능 AI 서버를 자체 생산하고 장기적으로는 제조 전 과정을 내재화하겠다는 전략을 추진 중입니다.",
+            "timestamp": 1778227379000
+        },
         {
             "title": "오픈AI, ‘GPT-5.5’ 봉인 해제…신원 확인 후 접근 허용 - 테크월드",
             "link": "https://www.epnc.co.kr/news/articleView.html?idxno=401547",
@@ -582,24 +600,6 @@
             "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658214",
             "summary_kr": "사람의 개입 없이 스스로 계획을 세우고 작업을 연쇄 수행하는 'AI 에이전트'가 코딩 분야를 넘어 업무용 소프트웨어 시장까지 재편하고 있으나, 치솟는 컴퓨팅 비용과 수익성 문제는 여전한 과제로 남아있습니다.",
             "timestamp": 1776582000000
-        },
-        {
-            "title": "오픈AI, 핵심 인력 잇단 이탈… IPO 앞두고 조직 개편 - IT조선",
-            "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160581",
-            "summary_kr": "오픈AI가 연말 기업공개(IPO)를 앞두고 사업 구조를 재편하는 과정에서, B2B 사업 집중과 제품 통합 전략에 따라 소라(Sora) 팀을 해체하고 최고제품책임자(CPO) 등 핵심 인력을 잇따라 떠나보내며 조직 정비에 속도를 내고 있습니다.",
-            "timestamp": 1776582000000
-        },
-        {
-            "title": "앤트로픽 ‘클로드 디자인’ 공개…AI 디자인 경쟁 속 성능·비용 논란도 - 이코노미트리뷴",
-            "link": "https://www.economytribune.co.kr/news/articleView.html?idxno=3902336",
-            "summary_kr": "앤트로픽이 최신 비전 모델 '클로드 오퍼스 4.7' 기반의 '클로드 디자인'을 출시하며 업무용 AI 시장에 뛰어들었으나, 신모델의 성능 저하와 토큰 사용량 증가에 따른 비용 부담 문제로 사용자들 사이에서 성능 논란이 일고 있습니다.",
-            "timestamp": 1776495600000
-        },
-        {
-            "title": "엔비디아, 실용적 양자 컴퓨팅 가속 위한 세계 최초 오픈 AI 모델 ‘아이징’ 발표 - 미디어픽",
-            "link": "https://www.mediapic.co.kr/news/articleView.html?idxno=2456",
-            "summary_kr": "엔비디아가 양자 프로세서의 오류 정정과 보정을 자동화하여 개발 속도를 획기적으로 높여줄 세계 최초의 오픈소스 AI 모델군인 '엔비디아 아이징'을 공개하고, 다양한 글로벌 연구 기관 및 대학들과 생태계 협력을 본격화했습니다.",
-            "timestamp": 1776495600000
         }
     ]
 }
