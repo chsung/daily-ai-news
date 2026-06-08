@@ -38,6 +38,21 @@ def normalize_link(url):
     if not url: return ""
     return str(url).strip().rstrip('/')
 
+def should_exclude_link(url, exclude_domains):
+    try:
+        parsed = urllib.parse.urlparse(url)
+        hostname = parsed.hostname
+        if not hostname:
+            return False
+        hostname = hostname.lower()
+        for domain in exclude_domains:
+            domain = domain.lower()
+            if hostname == domain or hostname.endswith('.' + domain):
+                return True
+    except Exception:
+        pass
+    return False
+
 def is_valid_title_similarity(original_title, extracted_title):
     if not original_title or not extracted_title:
         return False
@@ -338,7 +353,7 @@ for config in CONFIGS:
                 pass
     
         status = "후보"
-        if any(domain in entry.link for domain in EXCLUDE_DOMAINS):
+        if should_exclude_link(entry.link, EXCLUDE_DOMAINS):
             status = "제외-필터"
         else:
             norm_link = normalize_link(entry.link)
@@ -353,6 +368,8 @@ for config in CONFIGS:
     
     if candidate_entries:
         title_only_text = "\n".join([f"{idx}: {entry.title}" for idx, entry in enumerate(candidate_entries)])
+        print("\n[제미나이 1차 필터링 후보 전송 목록]")
+        print(title_only_text)
         print("-" * 50)
         prompt1 = config["prompt1"].format(count=len(candidate_entries), title_only_text=title_only_text, recent_titles_text=recent_titles_text)
         
