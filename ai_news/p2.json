@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-07 16:23:12",
+    "last_update": "2026-06-08 08:17:08",
     "articles": [
+        {
+            "title": "Anthropic nears first quarterly profit, agrees to pay SpaceX $1.25 billion monthly for computing power - Reuters",
+            "link": "https://www.reuters.com/business/anthropic-nears-first-quarterly-profit-agrees-pay-spacex-125-billion-monthly-2026-05-21/",
+            "summary_en": "Anthropic is approaching its first profitable quarter while strategically securing immense computing capacity through a $1.25 billion monthly service agreement with SpaceX.",
+            "timestamp": 1779321840000
+        },
+        {
+            "title": "Meta slashes 8,000 jobs as it pivots towards AI - NPR",
+            "link": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs",
+            "summary_en": "Meta is undergoing a major reorganization involving the layoff of 8,000 employees and the reassignment of 7,000 others to AI-focused teams as it pivots away from the Metaverse to compete in the growing AI industry.",
+            "timestamp": 1779301376000
+        },
         {
             "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development - The Hacker News",
             "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
@@ -588,18 +600,6 @@
             "link": "https://www.hpcwire.com/off-the-wire/verda-and-compal-partner-to-accelerate-ai-infrastructure-development-and-expansion/",
             "summary_en": "Verda and Compal have entered a partnership to speed up the development and expansion of AI infrastructure.",
             "timestamp": 1778261972000
-        },
-        {
-            "title": "Meta taps AWS chips, adds teen AI safety tools amid privacy debate - MSN",
-            "link": "https://www.msn.com/en-us/news/other/meta-taps-aws-chips-adds-teen-ai-safety-tools-amid-privacy-debate/gm-GM771C1A5C?ocid=TobArticle",
-            "summary_en": "Meta is using AWS chips for its AI operations while introducing new safety tools for teenagers amid ongoing privacy discussions.",
-            "timestamp": 1778296365000
-        },
-        {
-            "title": "Donating our open-source alignment tool - Anthropic",
-            "link": "https://www.anthropic.com/research/donating-open-source-petri",
-            "summary_en": "Anthropic has updated its open-source AI safety testing tool, Petri, and transferred its development to the nonprofit Meridian Labs to ensure neutral and credible testing across the industry.",
-            "timestamp": 1778187973000
         }
     ]
 }

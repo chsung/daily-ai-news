@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-07 16:23:12",
+    "last_update": "2026-06-08 08:17:08",
     "articles": [
+        {
+            "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure - NVIDIA Blog",
+            "summary_en": "NVIDIA and LG Group are collaborating to build an AI factory that integrates NVIDIA’s full-stack computing platform with LG’s manufacturing expertise to advance physical AI, robotics, and smart factory standards. The partnership utilizes technologies like NVIDIA Isaac Sim and the GR00T foundation model to create an end-to-end workflow for autonomous manufacturing and robot development.",
+            "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory",
+            "timestamp": 1780887870000,
+            "date": "2026-06-08"
+        },
+        {
+            "title": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories - NVIDIA Newsroom",
+            "summary_en": "NVIDIA and SK hynix have entered a multiyear partnership to co-develop next-generation memory for AI supercomputers and robotic platforms like NVIDIA Vera Rubin and Jetson Thor. The collaboration also focuses on leveraging NVIDIA’s CUDA-X and Omniverse platforms to drive autonomous semiconductor manufacturing through AI-accelerated chip design and digital twin factory operations.",
+            "link": "https://nvidianews.nvidia.com/news/sk-hynix-ai-factory",
+            "timestamp": 1780873864000,
+            "date": "2026-06-07"
+        },
         {
             "title": "Making Claude a chemist - Anthropic",
             "summary_en": "Anthropic is advancing AI applications in chemistry by training Claude to interpret complex scientific data like NMR spectra and chemical structures directly from research documents. This initiative aims to assist chemists with labor-intensive translation and integration tasks, effectively addressing the data-processing bottleneck in a field where new substances grow by 15,000 daily.",
@@ -649,18 +663,6 @@
             "link": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
             "summary_en": "Google has launched 'Gemini for Science,' a suite of agentic research tools on Google Labs designed to accelerate discovery by automating hypothesis generation, computational testing, and the synthesis of vast scientific literature.",
             "timestamp": 1779377397000
-        },
-        {
-            "title": "Anthropic nears first quarterly profit, agrees to pay SpaceX $1.25 billion monthly for computing power - Reuters",
-            "link": "https://www.reuters.com/business/anthropic-nears-first-quarterly-profit-agrees-pay-spacex-125-billion-monthly-2026-05-21/",
-            "summary_en": "Anthropic is approaching its first profitable quarter while strategically securing immense computing capacity through a $1.25 billion monthly service agreement with SpaceX.",
-            "timestamp": 1779321840000
-        },
-        {
-            "title": "Meta slashes 8,000 jobs as it pivots towards AI - NPR",
-            "link": "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs",
-            "summary_en": "Meta is undergoing a major reorganization involving the layoff of 8,000 employees and the reassignment of 7,000 others to AI-focused teams as it pivots away from the Metaverse to compete in the growing AI industry.",
-            "timestamp": 1779301376000
         }
     ]
 }

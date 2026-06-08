@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-07 16:23:12",
+    "last_update": "2026-06-08 08:17:08",
     "articles": [
+        {
+            "title": "Meta taps AWS chips, adds teen AI safety tools amid privacy debate - MSN",
+            "link": "https://www.msn.com/en-us/news/other/meta-taps-aws-chips-adds-teen-ai-safety-tools-amid-privacy-debate/gm-GM771C1A5C?ocid=TobArticle",
+            "summary_en": "Meta is using AWS chips for its AI operations while introducing new safety tools for teenagers amid ongoing privacy discussions.",
+            "timestamp": 1778296365000
+        },
+        {
+            "title": "Donating our open-source alignment tool - Anthropic",
+            "link": "https://www.anthropic.com/research/donating-open-source-petri",
+            "summary_en": "Anthropic has updated its open-source AI safety testing tool, Petri, and transferred its development to the nonprofit Meridian Labs to ensure neutral and credible testing across the industry.",
+            "timestamp": 1778187973000
+        },
         {
             "title": "Supercomputer networking to accelerate large scale AI training - OpenAI",
             "link": "https://openai.com/index/mrc-supercomputer-networking/",
