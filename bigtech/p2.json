@@ -1,6 +1,22 @@
 {
-    "last_update": "2026-06-06 16:56:25",
+    "last_update": "2026-06-08 18:16:53",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1779467145000,
+            "title": "Smarter AI agents, built to run on smaller models",
+            "summary_kr": "마이크로소프트가 공개한 MagenticLite는 소형 모델과 최적화된 오케스트레이션 도구를 결합하여, 로컬 환경에서 효율적으로 구동되는 고성능 AI 에이전트의 가능성을 제시합니다.",
+            "summary_en": "Microsoft’s MagenticLite leverages purpose-built small models and optimized orchestration to demonstrate that highly capable AI agents can operate efficiently directly on user hardware.",
+            "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779465600000,
+            "title": "Synthesize Realistic 3D Medical Images at Scale to Ship Pre‑Trained Models",
+            "summary_kr": "엔비디아는 고품질 3D 의료 영상 데이터 부족 문제를 해결하기 위해 대규모 합성 데이터 생성 프레임워크인 MAISI와 이를 기반으로 한 MR-RATE 데이터셋 및 생성 모델을 오픈소스로 공개했습니다. 이를 통해 연구자와 개발자는 개인정보 보호를 준수하면서도 신뢰성 높은 의료 AI 모델을 효율적으로 학습시킬 수 있습니다.",
+            "summary_en": "NVIDIA has released the MAISI framework and the MR-RATE dataset as open-source solutions to overcome data scarcity and privacy constraints in medical AI. These tools enable researchers to generate high-fidelity synthetic 3D medical images, significantly accelerating the development and generalization of robust diagnostic models.",
+            "link": "https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1779462430000,
@@ -807,23 +823,6 @@
             "summary_kr": "앤스로픽은 AI 모델의 정렬 여부를 평가하는 오픈소스 도구 '페트리(Petri)' 3.0을 비영리 단체 메리디안 랩스에 기증하여 독립적인 생태계 발전을 도모합니다.",
             "summary_en": "Anthropic has donated its open-source alignment testing tool, Petri 3.0, to Meridian Labs to ensure neutral, industry-wide adoption and independent evaluation of AI model behaviors.",
             "link": "https://www.anthropic.com/research/donating-open-source-petri"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778169778000,
-            "title": "Real-Time Performance Monitoring and Faster Debugging with NCCL Inspector and Prometheus",
-            "summary_kr": "엔비디아가 분산 딥러닝 성능 분석을 지원하는 'NCCL Inspector'에 프로메테우스 모드를 도입하여 실시간 모니터링 기능을 강화했습니다. 이를 통해 GPU 통신 병목 현상을 실시간 시각화하고 데이터 저장 부담을 줄여 대규모 AI 학습 환경에서의 디버깅 효율을 높였습니다.",
-            "summary_en": "NVIDIA has introduced Prometheus Mode to its NCCL Inspector, enabling real-time performance monitoring and visualization for distributed deep learning. This enhancement reduces storage overhead while accelerating bottleneck triaging in complex AI training environments.",
-            "link": "https://developer.nvidia.com/blog/real-time-performance-monitoring-and-faster-debugging-with-nccl-inspector-and-prometheus"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778166000000,
-            "title": "Running Codex safely at OpenAI",
-            "summary_kr": "오픈AI는 코딩 에이전트인 코덱(Codex)을 안전하게 배포하기 위해 샌드박스 격리, 자동 승인 모드, 강력한 네트워크 및 인증 정책을 도입했습니다.",
-            "summary_en": "OpenAI implements a multi-layered security strategy for its coding agent, Codex, utilizing managed sandboxes, automated approval workflows for low-risk tasks, and strict network policies to ensure safe deployment.",
-            "link": "https://openai.com/index/running-codex-safely",
-            "date": "2026-05-08"
         }
     ]
 }

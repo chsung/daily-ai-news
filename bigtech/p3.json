@@ -1,6 +1,23 @@
 {
-    "last_update": "2026-06-06 16:56:25",
+    "last_update": "2026-06-08 18:16:53",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1778169778000,
+            "title": "Real-Time Performance Monitoring and Faster Debugging with NCCL Inspector and Prometheus",
+            "summary_kr": "엔비디아가 분산 딥러닝 성능 분석을 지원하는 'NCCL Inspector'에 프로메테우스 모드를 도입하여 실시간 모니터링 기능을 강화했습니다. 이를 통해 GPU 통신 병목 현상을 실시간 시각화하고 데이터 저장 부담을 줄여 대규모 AI 학습 환경에서의 디버깅 효율을 높였습니다.",
+            "summary_en": "NVIDIA has introduced Prometheus Mode to its NCCL Inspector, enabling real-time performance monitoring and visualization for distributed deep learning. This enhancement reduces storage overhead while accelerating bottleneck triaging in complex AI training environments.",
+            "link": "https://developer.nvidia.com/blog/real-time-performance-monitoring-and-faster-debugging-with-nccl-inspector-and-prometheus"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1778166000000,
+            "title": "Running Codex safely at OpenAI",
+            "summary_kr": "오픈AI는 코딩 에이전트인 코덱(Codex)을 안전하게 배포하기 위해 샌드박스 격리, 자동 승인 모드, 강력한 네트워크 및 인증 정책을 도입했습니다.",
+            "summary_en": "OpenAI implements a multi-layered security strategy for its coding agent, Codex, utilizing managed sandboxes, automated approval workflows for low-risk tasks, and strict network policies to ensure safe deployment.",
+            "link": "https://openai.com/index/running-codex-safely",
+            "date": "2026-05-08"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1778165995000,
@@ -801,22 +818,6 @@
             "summary_kr": "엔비디아는 AI 팩토리의 효율성을 극대화하기 위해 '미션 컨트롤 3.0'을 출시, 전력 오케스트레이션과 예측형 AIOps로 토큰 생산량을 최적화합니다.",
             "summary_en": "NVIDIA launched 'Mission Control 3.0' to optimize AI factory output by integrating modular services, predictive AIOps, and intelligent power orchestration to maximize token production efficiency.",
             "link": "https://developer.nvidia.com/blog/accelerate-token-production-in-ai-factories-using-unified-services-and-real-time-ai"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1775048400000,
-            "title": "The latest AI news we announced in March 2026",
-            "summary_kr": "구글은 2026년 3월 업데이트를 통해 제미나이의 개인화 기능을 강화하고, 검색, 지도, 오피스 등 주요 서비스 전반에 AI를 통합하여 사용자의 일상적 생산성을 혁신했습니다.",
-            "summary_en": "Google's March 2026 updates have significantly enhanced Gemini’s personalization capabilities and integrated advanced AI across Search, Maps, and workspace tools to create a more intuitive and productive user experience.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1774995420000,
-            "title": "How Australia Uses Claude: Findings from the Anthropic Economic Index",
-            "summary_kr": "앤스로픽은 호주에 새 사무소를 개설하고 정부와 AI 안전 연구 협약을 체결했으며, 호주 내 클로드 사용이 전 세계 평균보다 4배 높다고 발표했습니다.",
-            "summary_en": "Anthropic is expanding into Australia with a new Sydney office and a government MOU for AI safety, noting that Australian per capita usage of Claude is over four times the global average.",
-            "link": "https://www.anthropic.com/research/how-australia-uses-claude"
         }
     ]
 }
