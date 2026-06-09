@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-08 18:01:19",
+    "last_update": "2026-06-09 06:55:27",
     "articles": [
+        {
+            "title": "Google Unveils Android XR Smart Glasses, Powered by Gemini AI - Campus Technology",
+            "link": "https://campustechnology.com/articles/2026/05/22/google-unveils-android-xr-smart-glasses-powered-by-gemini-ai.aspx?admgarea=news",
+            "summary_en": "Google has launched Android XR smart glasses in collaboration with Samsung and eyewear brands like Warby Parker, focusing on Gemini-powered conversational AI for daily tasks rather than traditional augmented reality displays.",
+            "timestamp": 1779468974000
+        },
+        {
+            "title": "Trump cancels AI executive order over concerns of slowing U.S. tech innovation - Fast Company",
+            "link": "https://www.fastcompany.com/91546771/trump-ai-executive-order",
+            "summary_en": "Donald Trump has canceled an executive order regarding AI, citing concerns that such regulations could hinder American technological innovation.",
+            "timestamp": 1779419190000
+        },
+        {
+            "title": "Nvidia’s Two-Track Data Center Strategy Targets Hyperscalers, Enterprise AI Factories - crn.com",
+            "link": "https://www.crn.com/news/ai/2026/nvidia-s-two-track-data-center-strategy-targets-hyperscalers-enterprise-ai-factories",
+            "summary_en": "Nvidia CEO Jensen Huang is splitting the company's data center strategy into two segments: high-spending hyperscalers and a vast, growing network of diverse enterprise 'AI factories' that require localized, reliable computing.",
+            "timestamp": 1779397860000
+        },
         {
             "title": "Nvidia posts record profit of $58.3bn amid AI chip boom - Al Jazeera",
             "link": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom",
@@ -582,24 +600,6 @@
             "link": "https://www.wlfi.com/news/microsoft-google-and-xai-will-let-the-government-test-their-ai-models-before-launch/article_6e5158dd-fb4f-5b1f-a723-c957d7c904dd.html",
             "summary_en": "Major tech companies like Google, Microsoft, and xAI will allow the U.S. government to test their new AI models before release to ensure they do not pose security risks.",
             "timestamp": 1778362380000
-        },
-        {
-            "title": "Microsoft may shelve clean energy target amid AI power use: Report | 'No final decisions have been made' | Inshorts - Inshorts",
-            "link": "https://inshorts.com/en/news/microsoft-may-shelve-clean-energy-target-amid-ai-power-use--report-1778412022882",
-            "summary_en": "Microsoft is reportedly considering delaying its clean energy goals because the high power demands of artificial intelligence are making it difficult to reach those targets.",
-            "timestamp": 1778418292000
-        },
-        {
-            "title": "Anthropic inks $200B Google Cloud, chip pact - report - MSN",
-            "link": "https://www.msn.com/en-us/news/technology/anthropic-inks-200b-google-cloud-chip-pact-report/ar-AA22uhpY?gemSnapshotKey=GM866A146F-snapshot-3&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "Anthropic has reportedly signed a $200 billion deal with Google Cloud to use its services and chips for AI development.",
-            "timestamp": 1778376073000
-        },
-        {
-            "title": "US military expands Google AI partnership for classified work: Plans for diversified AI ecosystem - MSN",
-            "link": "https://www.msn.com/en-in/money/topstories/us-military-expands-google-ai-partnership-for-classified-work-plans-for-diversified-ai-ecosystem/ar-AA21ZoG2?uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "The U.S. military is expanding its partnership with Google to use AI for classified projects as part of a strategy to build a broader range of AI technologies.",
-            "timestamp": 1778404446000
         }
     ]
 }

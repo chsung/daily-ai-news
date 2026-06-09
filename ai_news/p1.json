@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-08 18:01:19",
+    "last_update": "2026-06-09 06:55:27",
     "articles": [
+        {
+            "title": "WWDC26: Apple unveils next generation of Apple Intelligence, Siri AI, powerful parental controls, and an expansive set of software improvements - Apple",
+            "summary_en": "At WWDC26, Apple introduced the next generation of Apple Intelligence and a significantly upgraded Siri AI capable of cross-app actions and deep personal context understanding. The release also debuts enhanced parental controls, allowing for granular digital safety management and age-appropriate app restrictions across the Apple ecosystem.",
+            "link": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
+            "timestamp": 1780942967000,
+            "date": "2026-06-08"
+        },
+        {
+            "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences - Apple",
+            "summary_en": "Apple is rolling out new AI-powered tools across its platforms, including a dedicated Siri AI app and advanced image editing features like Spatial Reframing in Photos. These updates, which feature hidden SynthID watermarking for AI-edited content, will be available to developers immediately and to the public this fall.",
+            "link": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences",
+            "timestamp": 1780942967000,
+            "date": "2026-06-08"
+        },
+        {
+            "title": "Naver, Nvidia Agree to Joint Development of Hyperscale AI Factories - thelec.net",
+            "summary_en": "Naver and Nvidia have partnered to develop gigawatt-scale hyperscale AI factories, beginning with the expansion of Naver's 'Gak Sejong' data center. The collaboration aims to build sovereign AI infrastructure globally while jointly developing spatial intelligence technologies, including a 'Seoul World Model' based on Nvidia's Cosmos.",
+            "link": "https://www.thelec.net/news/articleView.html?idxno=11102",
+            "timestamp": 1780967094000,
+            "date": "2026-06-09"
+        },
         {
             "title": "Tim Cook expected to unveil all-new Siri at WWDC in major Apple update on AI strategy - ABC7 Chicago",
             "summary_en": "Apple is set to reveal a revamped version of Siri at its Worldwide Developers Conference, aiming to bridge the performance gap with rivals like ChatGPT and Gemini through a potential partnership with Google. This strategic update seeks to revitalize Apple's AI presence, addressing investor concerns as the company prepares for a leadership transition under incoming CEO John Ternus.",
@@ -648,24 +669,6 @@
             "link": "https://www.internationalaccountingbulletin.com/news/ey-and-microsoft-to-invest-over-1bn-in-enterprise-ai-transformation/",
             "summary_en": "EY and Microsoft have entered a five-year, $1 billion partnership to accelerate enterprise-wide AI transformation by deploying integrated teams and scaling Microsoft's 'agentic AI' tools to improve productivity and business processes.",
             "timestamp": 1779465593000
-        },
-        {
-            "title": "Google Unveils Android XR Smart Glasses, Powered by Gemini AI - Campus Technology",
-            "link": "https://campustechnology.com/articles/2026/05/22/google-unveils-android-xr-smart-glasses-powered-by-gemini-ai.aspx?admgarea=news",
-            "summary_en": "Google has launched Android XR smart glasses in collaboration with Samsung and eyewear brands like Warby Parker, focusing on Gemini-powered conversational AI for daily tasks rather than traditional augmented reality displays.",
-            "timestamp": 1779468974000
-        },
-        {
-            "title": "Trump cancels AI executive order over concerns of slowing U.S. tech innovation - Fast Company",
-            "link": "https://www.fastcompany.com/91546771/trump-ai-executive-order",
-            "summary_en": "Donald Trump has canceled an executive order regarding AI, citing concerns that such regulations could hinder American technological innovation.",
-            "timestamp": 1779419190000
-        },
-        {
-            "title": "Nvidia’s Two-Track Data Center Strategy Targets Hyperscalers, Enterprise AI Factories - crn.com",
-            "link": "https://www.crn.com/news/ai/2026/nvidia-s-two-track-data-center-strategy-targets-hyperscalers-enterprise-ai-factories",
-            "summary_en": "Nvidia CEO Jensen Huang is splitting the company's data center strategy into two segments: high-spending hyperscalers and a vast, growing network of diverse enterprise 'AI factories' that require localized, reliable computing.",
-            "timestamp": 1779397860000
         }
     ]
 }
