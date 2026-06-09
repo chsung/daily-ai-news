@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-09 06:55:27",
+    "last_update": "2026-06-09 17:30:26",
     "articles": [
+        {
+            "title": "Advancing content provenance for a safer, more transparent AI ecosystem - OpenAI",
+            "link": "https://openai.com/index/advancing-content-provenance/",
+            "summary_en": "OpenAI is prioritizing the advancement of content provenance and digital watermarking technologies to foster greater transparency and safety within the rapidly evolving AI ecosystem.",
+            "timestamp": 1779212771000
+        },
+        {
+            "title": "EY and Microsoft to invest over $1bn in enterprise AI transformation - International Accounting Bulletin",
+            "link": "https://www.internationalaccountingbulletin.com/news/ey-and-microsoft-to-invest-over-1bn-in-enterprise-ai-transformation/",
+            "summary_en": "EY and Microsoft have entered a five-year, $1 billion partnership to accelerate enterprise-wide AI transformation by deploying integrated teams and scaling Microsoft's 'agentic AI' tools to improve productivity and business processes.",
+            "timestamp": 1779465593000
+        },
         {
             "title": "Google Unveils Android XR Smart Glasses, Powered by Gemini AI - Campus Technology",
             "link": "https://campustechnology.com/articles/2026/05/22/google-unveils-android-xr-smart-glasses-powered-by-gemini-ai.aspx?admgarea=news",
@@ -588,18 +600,6 @@
             "link": "https://www.msn.com/en-in/money/topstories/wall-street-giants-back-anthropic-s-plan-to-sell-ai-to-companies/ar-AA22kniI",
             "summary_en": "Major Wall Street financial firms are supporting Anthropic's initiative to integrate its advanced AI technology into corporate business operations.",
             "timestamp": 1778400909000
-        },
-        {
-            "title": "iOS 27 will let you choose third-party AI models to power Apple Intelligence, report says - MSN",
-            "link": "https://www.msn.com/en-us/news/technology/ios-27-will-let-you-choose-third-party-ai-models-to-power-apple-intelligence-report-says/ar-AA22zTnc?gemSnapshotKey=GME94419F5-snapshot-4&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "A report indicates that the upcoming iOS 27 update will allow users to select third-party AI models to run Apple Intelligence services.",
-            "timestamp": 1778405991000
-        },
-        {
-            "title": "Microsoft, Google and xAI will let the government test their AI models before launch - WLFI News 18",
-            "link": "https://www.wlfi.com/news/microsoft-google-and-xai-will-let-the-government-test-their-ai-models-before-launch/article_6e5158dd-fb4f-5b1f-a723-c957d7c904dd.html",
-            "summary_en": "Major tech companies like Google, Microsoft, and xAI will allow the U.S. government to test their new AI models before release to ensure they do not pose security risks.",
-            "timestamp": 1778362380000
         }
     ]
 }

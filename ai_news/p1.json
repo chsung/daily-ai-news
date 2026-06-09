@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-09 06:55:27",
+    "last_update": "2026-06-09 17:30:26",
     "articles": [
+        {
+            "title": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
+            "summary_en": "Anthropic has launched Claude Fable 5, a state-of-the-art model offering superior performance in software engineering and scientific research at half the cost of its predecessor. Alongside it, the company introduced Mythos 5, a version with reduced safeguards available to select cyberdefenders and infrastructure providers via Project Glasswing.",
+            "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+            "timestamp": 1781024922000,
+            "date": "2026-06-09"
+        },
+        {
+            "title": "Confidential submission of draft S-1 to the SEC - OpenAI",
+            "summary_en": "OpenAI has confidentially submitted a draft S-1 registration statement to the SEC, marking an initial step toward a potential public offering. While the company has not finalized its IPO timeline, it stated that filing now provides the flexibility to transition to public markets when deemed strategically advantageous.",
+            "link": "https://openai.com/index/openai-submits-confidential-s-1",
+            "timestamp": 1780953598000,
+            "date": "2026-06-08"
+        },
         {
             "title": "WWDC26: Apple unveils next generation of Apple Intelligence, Siri AI, powerful parental controls, and an expansive set of software improvements - Apple",
             "summary_en": "At WWDC26, Apple introduced the next generation of Apple Intelligence and a significantly upgraded Siri AI capable of cross-app actions and deep personal context understanding. The release also debuts enhanced parental controls, allowing for granular digital safety management and age-appropriate app restrictions across the Apple ecosystem.",
@@ -657,18 +671,6 @@
             "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
             "summary_en": "Google has introduced Gemini 3.5 Flash, an agent-focused model that delivers frontier-level coding and reasoning performance at four times the speed and half the cost of previous iterations. Integrated with the new 'Antigravity' platform, the model is designed to automate complex, multi-step workflows for developers and enterprise applications.",
             "timestamp": 1779213035000
-        },
-        {
-            "title": "Advancing content provenance for a safer, more transparent AI ecosystem - OpenAI",
-            "link": "https://openai.com/index/advancing-content-provenance/",
-            "summary_en": "OpenAI is prioritizing the advancement of content provenance and digital watermarking technologies to foster greater transparency and safety within the rapidly evolving AI ecosystem.",
-            "timestamp": 1779212771000
-        },
-        {
-            "title": "EY and Microsoft to invest over $1bn in enterprise AI transformation - International Accounting Bulletin",
-            "link": "https://www.internationalaccountingbulletin.com/news/ey-and-microsoft-to-invest-over-1bn-in-enterprise-ai-transformation/",
-            "summary_en": "EY and Microsoft have entered a five-year, $1 billion partnership to accelerate enterprise-wide AI transformation by deploying integrated teams and scaling Microsoft's 'agentic AI' tools to improve productivity and business processes.",
-            "timestamp": 1779465593000
         }
     ]
 }

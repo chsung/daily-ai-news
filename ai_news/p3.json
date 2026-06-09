@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-09 06:55:27",
+    "last_update": "2026-06-09 17:30:26",
     "articles": [
+        {
+            "title": "iOS 27 will let you choose third-party AI models to power Apple Intelligence, report says - MSN",
+            "link": "https://www.msn.com/en-us/news/technology/ios-27-will-let-you-choose-third-party-ai-models-to-power-apple-intelligence-report-says/ar-AA22zTnc?gemSnapshotKey=GME94419F5-snapshot-4&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "A report indicates that the upcoming iOS 27 update will allow users to select third-party AI models to run Apple Intelligence services.",
+            "timestamp": 1778405991000
+        },
+        {
+            "title": "Microsoft, Google and xAI will let the government test their AI models before launch - WLFI News 18",
+            "link": "https://www.wlfi.com/news/microsoft-google-and-xai-will-let-the-government-test-their-ai-models-before-launch/article_6e5158dd-fb4f-5b1f-a723-c957d7c904dd.html",
+            "summary_en": "Major tech companies like Google, Microsoft, and xAI will allow the U.S. government to test their new AI models before release to ensure they do not pose security risks.",
+            "timestamp": 1778362380000
+        },
         {
             "title": "Microsoft may shelve clean energy target amid AI power use: Report | 'No final decisions have been made' | Inshorts - Inshorts",
             "link": "https://inshorts.com/en/news/microsoft-may-shelve-clean-energy-target-amid-ai-power-use--report-1778412022882",
