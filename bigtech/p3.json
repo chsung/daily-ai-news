@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-06-08 18:16:53",
+    "last_update": "2026-06-09 17:51:49",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1778425200000,
+            "title": "OpenAI Campus Network: Student club interest form",
+            "summary_kr": "오픈AI는 전 세계 대학생들이 AI 역량을 기를 수 있도록 돕는 '오픈AI 캠퍼스 네트워크'를 출범했습니다. 이 프로그램은 학생 리더들에게 AI 도구 조기 접근 권한과 행사 지원 등을 제공합니다.",
+            "summary_en": "OpenAI has launched the 'OpenAI Campus Network' to partner with student clubs worldwide, providing early access to AI tools, research support, and resources for student-led AI initiatives.",
+            "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+            "date": "2026-05-11"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778425200000,
+            "title": "Agent view in Claude Code",
+            "summary_kr": "클로드 코드(Claude Code)에 '에이전트 뷰(Agent View)' 기능이 도입되어, 다수의 에이전트 세션을 하나의 인터페이스에서 통합 관리할 수 있게 되었습니다.",
+            "summary_en": "Anthropic has introduced 'Agent View' for Claude Code, allowing developers to manage multiple concurrent agent sessions from a single terminal interface for improved efficiency.",
+            "link": "https://claude.com/blog/agent-view-in-claude-code"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778425200000,
+            "title": "Introducing the Claude Platform on AWS",
+            "summary_kr": "AWS 환경에서 클로드 플랫폼을 직접 이용할 수 있게 되어, AWS 인증 및 결제 시스템을 활용한 통합적인 에이전트 배포와 관리 서비스가 정식 제공됩니다.",
+            "summary_en": "The Claude Platform on AWS is now generally available, enabling customers to deploy managed agents and access API features directly through their existing AWS account and billing infrastructure.",
+            "link": "https://claude.com/blog/claude-platform-on-aws"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1778260413000,
+            "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
+            "summary_kr": "NVIDIA 연구진은 문법 제약 디코딩 기술을 통해 소형 언어 모델의 Bash 명령 생성 정확도를 크게 향상했으며, 이를 통해 에이전트 시스템의 안정적인 워크플로우 구축 가능성을 입증했습니다.",
+            "summary_en": "NVIDIA researchers significantly improved Bash command generation accuracy in small language models using grammar-constrained decoding, demonstrating a more reliable approach for building robust agentic workflows.",
+            "link": "https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1778255956000,
+            "title": "Streaming Tokens and Tools: Multi-Turn Agentic Harness Support in NVIDIA Dynamo",
+            "summary_kr": "엔비디아 다이너모(Dynamo)는 에이전트의 사고 과정과 도구 호출을 효율적으로 처리하기 위해 추론 엔진 최적화와 스트리밍 기능을 개선하여 성능을 극대화했습니다.",
+            "summary_en": "NVIDIA Dynamo has enhanced its inference engine to better support multi-turn agentic workflows by optimizing streaming behavior and addressing KV cache reuse issues through stable prompt management.",
+            "link": "https://developer.nvidia.com/blog/streaming-tokens-and-tools-multi-turn-agentic-harness-support-in-nvidia-dynamo"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778242680000,
+            "title": "Teaching Claude why",
+            "summary_kr": "클로드 모델의 에이전트 정렬(alignment) 훈련 결과, 모델의 원칙 이해도를 높이고 훈련 데이터의 질을 개선함으로써 치명적인 오정렬 사례를 성공적으로 차단했습니다.",
+            "summary_en": "Anthropic significantly improved Claude’s safety alignment by teaching the model the principles underlying desired behaviors, successfully reducing agentic misalignment to zero in recent model versions.",
+            "link": "https://www.anthropic.com/research/teaching-claude-why"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778188860000,
+            "title": "Natural Language Autoencoders",
+            "summary_kr": "앤스로픽은 언어 모델의 내부 활성화값을 자연어로 변환하여 해석하는 '자연어 오토인코더(NLA)' 기술을 공개하여 모델의 사고 과정을 투명하게 분석할 수 있게 했습니다.",
+            "summary_en": "Anthropic introduced Natural Language Autoencoders (NLAs), a tool that converts complex internal model activations into human-readable text, providing deeper insight into Claude's planning and decision-making.",
+            "link": "https://www.anthropic.com/research/natural-language-autoencoders"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1778188814000,
+            "title": "Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling",
+            "summary_kr": "엔비디아 GB200 NVL72 시스템의 효율적 운영을 위해 슬럼(Slurm)의 '토폴로지/블록' 플러그인을 도입하여 랙 단위의 NVLink 고속 통신 환경을 최적화했습니다.",
+            "summary_en": "To optimize the NVIDIA GB200 NVL72 architecture, the new Slurm 'topology/block' plugin enforces rack-scale locality, ensuring that workloads maintain high performance by respecting hardware communication boundaries.",
+            "link": "https://developer.nvidia.com/blog/achieving-peak-system-and-workload-efficiency-on-nvidia-gb200-nvl72-with-slurm-block-scheduling"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1778188686000,
+            "title": "Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer",
+            "summary_kr": "엔비디아 모델 옵티마이저를 활용한 사후 학습 양자화(PTQ) 기법으로, CLIP 모델의 VRAM 사용량을 줄이면서도 추론 성능을 최적화하는 방법이 제시되었습니다.",
+            "summary_en": "NVIDIA Model Optimizer enables efficient post-training quantization (PTQ) for models like CLIP, allowing users to reduce VRAM requirements and enhance inference speed while maintaining accuracy.",
+            "link": "https://developer.nvidia.com/blog/model-quantization-post-training-quantization-using-nvidia-model-optimizer"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778185020000,
+            "title": "Donating our open-source alignment tool",
+            "summary_kr": "앤스로픽은 AI 모델의 정렬 여부를 평가하는 오픈소스 도구 '페트리(Petri)' 3.0을 비영리 단체 메리디안 랩스에 기증하여 독립적인 생태계 발전을 도모합니다.",
+            "summary_en": "Anthropic has donated its open-source alignment testing tool, Petri 3.0, to Meridian Labs to ensure neutral, industry-wide adoption and independent evaluation of AI model behaviors.",
+            "link": "https://www.anthropic.com/research/donating-open-source-petri"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1778169778000,
@@ -738,86 +819,6 @@
             "summary_kr": "엔비디아는 옴니버스(Omniverse)의 핵심 기능을 라이브러리 형태인 ovrtx, ovphysx, ovstorage로 공개하여 물리적 AI 개발의 접근성을 높였습니다. 이를 통해 개발자들은 기존 애플리케이션 아키텍처를 전면 수정하지 않고도 고성능 시뮬레이션 기능을 통합할 수 있습니다.",
             "summary_en": "NVIDIA has introduced a library-based architecture for Omniverse, featuring standalone APIs for rendering, physics, and storage. This modular approach allows developers to integrate advanced physical AI simulation capabilities into existing software stacks without requiring complete architectural rewrites.",
             "link": "https://developer.nvidia.com/blog/integrate-physical-ai-capabilities-into-existing-apps-with-nvidia-omniverse-libraries"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1775587861000,
-            "title": "Running AI Workloads on Rack-Scale Supercomputers: From Hardware to Topology-Aware Scheduling",
-            "summary_kr": "엔비디아는 GB200 및 GB300 NVL72와 같은 랙 스케일 슈퍼컴퓨터의 복잡한 하드웨어 토폴로지를 효율적으로 관리하기 위한 'Mission Control' 소프트웨어 스택을 강조했습니다. 이는 클러스터 UUID와 Clique ID를 활용하여 하드웨어 구조를 인지하는 최적의 작업 스케줄링을 지원합니다.",
-            "summary_en": "NVIDIA is addressing the complexity of rack-scale supercomputing with its 'Mission Control' stack, which uses cluster UUIDs and Clique IDs to enable topology-aware scheduling. By bridging the gap between NVLink fabrics and workload managers like Slurm, it allows for more efficient and performant AI infrastructure management.",
-            "link": "https://developer.nvidia.com/blog/running-ai-workloads-on-rack-scale-supercomputers-from-hardware-to-topology-aware-scheduling"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1775574000000,
-            "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
-            "summary_kr": "Meta가 개인화된 슈퍼지능으로의 도약을 목표로 하는 '뮤즈 스파크(Muse Spark)'를 발표했습니다.",
-            "summary_en": "Meta has introduced 'Muse Spark,' a new initiative focused on scaling development toward personal superintelligence.",
-            "link": "https://ai.meta.com/blog/introducing-muse-spark-msl"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1775574000000,
-            "title": "Scaling How We Build and Test Our Most Advanced AI",
-            "summary_kr": "최첨단 AI 모델의 구축 및 테스트 과정을 고도화하기 위한 확장 전략을 발표했습니다.",
-            "summary_en": "A new strategy has been unveiled to scale the construction and testing processes for the most advanced AI models.",
-            "link": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1775574000000,
-            "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
-            "summary_kr": "알타 데일리(Alta Daily)가 메타의 세그먼트 애니씽(Segment Anything) 기술을 활용해 디지털 옷장 서비스를 혁신하고 있습니다.",
-            "summary_en": "Alta Daily is leveraging Meta's 'Segment Anything' technology to reimagine and transform digital closet experiences.",
-            "link": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1775573458000,
-            "title": "Building AI that works for everyone starts with language",
-            "summary_kr": "마이크로소프트는 언어 장벽 해소를 위해 다국어 지원 AI 프로젝트를 추진하며, 전 세계 7,000개 언어 중 소수만이 LLM에 반영된 디지털 불균형을 개선하고자 합니다.",
-            "summary_en": "Microsoft is launching initiatives to address the digital divide in AI by expanding support for native languages, as fewer than 100 of the world's 7,000 languages are currently well-represented in large language models.",
-            "link": "https://news.microsoft.com/source/features/ai/building-ai-that-works-for-everyone-starts-with-language"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1775401200000,
-            "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning",
-            "summary_kr": "멀티플렉싱과 글로벌 추론 기능을 결합한 'SAM 3.1'을 통해 실시간 영상 감지 및 추적 성능과 접근성을 대폭 개선했습니다.",
-            "summary_en": "The release of 'SAM 3.1' significantly enhances real-time video detection and tracking by utilizing multiplexing and global reasoning for faster performance.",
-            "link": "https://ai.meta.com/blog/segment-anything-model-3"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1775401200000,
-            "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-            "summary_kr": "앤스로픽(Anthropic)이 구글 및 브로드컴과 수 기가와트 규모의 차세대 TPU 공급 계약을 체결하며 클라우드 인프라 확장을 가속화했습니다.",
-            "summary_en": "Anthropic has signed a multi-gigawatt agreement with Google and Broadcom for next-generation TPU capacity, aiming to support the rapid growth of its Claude model customer base.",
-            "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1775160000000,
-            "title": "Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight",
-            "summary_kr": "엔비디아는 비전 AI 파이프라인의 데이터 병목 현상을 해결하기 위해 VC-6 코덱의 배치 모드를 도입하고 엔사이트(Nsight)를 통해 효율성을 85% 향상했습니다.",
-            "summary_en": "NVIDIA has introduced a batch mode for the VC-6 codec and utilized NVIDIA Nsight to optimize kernel performance, resulting in an 85% reduction in per-image decode time for vision AI pipelines.",
-            "link": "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1775127360000,
-            "title": "Emotion concepts and their function in a large language model",
-            "summary_kr": "클로드(Claude) 분석 결과 AI가 학습 과정에서 인간의 감정과 유사한 내부 표현을 형성하며, 이는 모델의 윤리적 판단과 행동에 영향을 미치는 것으로 나타났습니다.",
-            "summary_en": "Research into Claude reveals that AI models develop internal representations of emotion concepts, which functionally influence decision-making and ethical outcomes, highlighting the need for safety-oriented training.",
-            "link": "https://www.anthropic.com/research/emotion-concepts-function"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1775055600000,
-            "title": "Accelerate Token Production in AI Factories Using Unified Services and Real-Time AI",
-            "summary_kr": "엔비디아는 AI 팩토리의 효율성을 극대화하기 위해 '미션 컨트롤 3.0'을 출시, 전력 오케스트레이션과 예측형 AIOps로 토큰 생산량을 최적화합니다.",
-            "summary_en": "NVIDIA launched 'Mission Control 3.0' to optimize AI factory output by integrating modular services, predictive AIOps, and intelligent power orchestration to maximize token production efficiency.",
-            "link": "https://developer.nvidia.com/blog/accelerate-token-production-in-ai-factories-using-unified-services-and-real-time-ai"
         }
     ]
 }
