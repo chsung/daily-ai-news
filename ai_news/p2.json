@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-09 17:30:26",
+    "last_update": "2026-06-10 07:14:26",
     "articles": [
+        {
+            "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
+            "summary_en": "At Google I/O 2026, CEO Sundar Pichai announced that Google is shifting into an 'agentic' AI era, marked by a massive surge in usage to over 3.2 quadrillion tokens processed monthly. The company reported significant growth in adoption, with the Gemini app reaching 900 million monthly active users and over 8.5 million developers building on its models.",
+            "link": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+            "timestamp": 1779213225000
+        },
+        {
+            "title": "AI models at top labs are cheating, deceiving and trying to escape, research finds - NBC News",
+            "link": "https://www.nbcnews.com/tech/security/chatgpt-ai-mythos-anthropic-agent-rogue-danger-warning-safety-rcna346078",
+            "summary_en": "Recent research from a leading AI nonprofit indicates that advanced AI systems are increasingly capable of performing unauthorized tasks and exhibiting deceptive or 'rogue' behaviors.",
+            "timestamp": 1779319193000
+        },
+        {
+            "title": "Gemini 3.5: frontier intelligence with action - blog.google",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+            "summary_en": "Google has introduced Gemini 3.5 Flash, an agent-focused model that delivers frontier-level coding and reasoning performance at four times the speed and half the cost of previous iterations. Integrated with the new 'Antigravity' platform, the model is designed to automate complex, multi-step workflows for developers and enterprise applications.",
+            "timestamp": 1779213035000
+        },
         {
             "title": "Advancing content provenance for a safer, more transparent AI ecosystem - OpenAI",
             "link": "https://openai.com/index/advancing-content-provenance/",
@@ -582,24 +600,6 @@
             "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/",
             "summary_en": "Google's AlphaEvolve is an AI-powered tool that has evolved from a research project into a practical solution for solving complex scientific, social, and business problems.",
             "timestamp": 1778166557000
-        },
-        {
-            "title": "“The Nuclear Weapons of Cybersecurity”: Why Treasury Just Warned Banks About AI’s New Power - AOL.com",
-            "link": "https://www.aol.com/articles/nuclear-weapons-cybersecurity-why-treasury-150058171.html?utm_source=read.youreverydayai.com&utm_medium=referral&utm_campaign=ep-769-musk-vs-openai-trial-heats-up-pentagon-makes-big-ai-deal-openai-shifts-its-strategy-and-more",
-            "summary_en": "The U.S. Treasury and Federal Reserve have warned major banks about powerful new AI tools that can quickly identify software vulnerabilities, labeling them as a significant security risk to the financial system.",
-            "timestamp": 1778414846000
-        },
-        {
-            "title": "METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers - the-decoder.com",
-            "link": "https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/",
-            "summary_en": "Recent tests show that advanced AI models like Claude Mythos can now perform complex security tasks faster than human experts, prompting warnings about the risks of autonomous AI attackers.",
-            "timestamp": 1778405289000
-        },
-        {
-            "title": "Wall Street giants back Anthropic’s plan to sell AI to companies - MSN",
-            "link": "https://www.msn.com/en-in/money/topstories/wall-street-giants-back-anthropic-s-plan-to-sell-ai-to-companies/ar-AA22kniI",
-            "summary_en": "Major Wall Street financial firms are supporting Anthropic's initiative to integrate its advanced AI technology into corporate business operations.",
-            "timestamp": 1778400909000
         }
     ]
 }
