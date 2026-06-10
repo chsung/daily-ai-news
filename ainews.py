@@ -151,6 +151,32 @@ def extract_title_from_detail(html_content):
         pass
     return ""
 
+def extract_arc_xp_content(html_content):
+    if not html_content or "Fusion.globalContent" not in html_content:
+        return None
+    try:
+        import re
+        import json
+        soup = BeautifulSoup(html_content, 'html.parser')
+        for s in soup.find_all('script'):
+            if s.string and "Fusion.globalContent" in s.string:
+                match = re.search(r'Fusion\.globalContent\s*=\s*(.*?);', s.string, re.DOTALL)
+                if match:
+                    json_str = match.group(1).strip()
+                    data = json.loads(json_str)
+                    elements = data.get("content_elements", [])
+                    body_text = []
+                    for el in elements:
+                        if el.get("type") == "text":
+                            content = el.get("content", "").strip()
+                            if content:
+                                body_text.append(content)
+                    if body_text:
+                        return "\n\n".join(body_text)
+    except Exception:
+        pass
+    return None
+
 try:
     from dotenv import load_dotenv
     load_dotenv()
@@ -488,18 +514,25 @@ for config in CONFIGS:
                                     else:
                                         entry.title = detail_title
 
-                            content = trafilatura.extract(html_content)
-                            if content and len(content.strip()) > 100:
-                                print(f"   -> Trafilatura 추출 성공 (길이: {len(content)}자)")
-                                content = content[:4000]
+                            # 0. Arc XP (Fusion.globalContent) 플랫폼 기사 전용 추출 시도
+                            arc_content = extract_arc_xp_content(html_content)
+                            if arc_content and len(arc_content.strip()) > 100:
+                                print(f"   -> Arc XP(JSON) 추출 성공 (길이: {len(arc_content)}자)")
+                                content = arc_content[:4000]
                             else:
-                                raise ValueError(f"본문 추출 결과가 비어있거나 너무 짧음 ({len(content.strip()) if content else 0}자)")
+                                content = trafilatura.extract(html_content)
+                                if content and len(content.strip()) > 100:
+                                    print(f"   -> Trafilatura 추출 성공 (길이: {len(content)}자)")
+                                    content = content[:4000]
+                                else:
+                                    raise ValueError(f"본문 추출 결과가 비어있거나 너무 짧음 ({len(content.strip()) if content else 0}자)")
                         except Exception as e:
                             if html_content:
-                                print(f"   -> Trafilatura 추출 실패({e}). Newspaper4k로 2차 추출을 시도합니다.")
+                                print(f"   -> 본문 1차 추출 실패({e}). Newspaper4k로 2차 추출을 시도합니다.")
                                 try:
                                     article = Article(url=entry.link)
-                                    article.set_html(html_content)
+                                    article.html = html_content
+                                    article.download_state = 2 # ArticleDownloadState.SUCCESS
                                     article.parse()
                                     content = article.text
                                     
