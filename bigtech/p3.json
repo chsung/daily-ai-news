@@ -1,6 +1,107 @@
 {
-    "last_update": "2026-06-09 17:51:49",
+    "last_update": "2026-06-10 18:23:56",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1778598000000,
+            "title": "Our response to the TanStack npm supply chain attack",
+            "summary_kr": "오픈AI는 오픈소스 라이브러리 공급망 공격 발생에 대응하여, 사용자 데이터 보호를 위해 macOS 앱의 코드 서명 인증서를 교체하고 사용자들의 긴급 업데이트를 당부했습니다.",
+            "summary_en": "OpenAI is rotating its macOS code-signing certificates following a supply chain attack on the TanStack library, mandating that users update their applications to ensure system security.",
+            "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+            "date": "2026-05-13"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778598000000,
+            "title": "Best practices for computer and browser use with Claude",
+            "summary_kr": "앤스로픽은 클로드의 컴퓨터 및 브라우저 제어 기능을 최적화하기 위해 스크린샷 다운스케일링 및 해상도 관리 등 기술적인 모범 사례와 가이드를 발표했습니다.",
+            "summary_en": "Anthropic has shared best practices for integrating Claude's computer and browser-use capabilities, recommending specific image downscaling techniques to ensure click accuracy and model performance.",
+            "link": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778598000000,
+            "title": "Introducing Claude for Small Business",
+            "summary_kr": "앤스로픽은 소상공인들이 복잡한 업무를 자동화할 수 있도록 지원하는 'Claude for Small Business'를 출시했습니다. 이 서비스는 퀵북, 페이팔, 허브스팟 등 기존 도구와 연동하여 급여 관리, 인보이스 처리 등 실무 효율을 높여줍니다.",
+            "summary_en": "Anthropic has launched 'Claude for Small Business,' a suite of integrated workflows designed to help small business owners automate tasks by connecting Claude directly to tools like QuickBooks, PayPal, and HubSpot.",
+            "link": "https://www.anthropic.com/news/claude-for-small-business"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1778528667000,
+            "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
+            "summary_kr": "엔비디아가 출시한 'NVIDIA Fleet Intelligence'는 대규모 GPU 클러스터의 상태, 성능, 전력 효율을 실시간으로 통합 모니터링하고 최적화할 수 있도록 지원하는 관리형 서비스입니다.",
+            "summary_en": "NVIDIA Fleet Intelligence is a managed service that provides real-time, comprehensive monitoring and optimization for large-scale GPU clusters, ensuring peak performance, health, and operational efficiency.",
+            "link": "https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1778520600000,
+            "title": "Our new initiative to apply quantum science and AI to the life sciences",
+            "summary_kr": "구글은 생명과학 분야의 난제를 해결하기 위해 양자 과학과 AI를 결합하는 연구 프로그램인 'REPLIQA'를 출범하고, 5개 주요 대학에 1천만 달러를 지원합니다.",
+            "summary_en": "Google has launched 'REPLIQA,' an initiative combining quantum science and AI to address complex challenges in life sciences, supported by $10 million in funding for five leading academic institutions.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1778511600000,
+            "title": "AutoScout24 scales engineering with AI-powered workflows",
+            "summary_kr": "유럽 최대 온라인 자동차 마켓플레이스인 오토스카우트24(AutoScout24)가 챗GPT와 코덱스(Codex)를 도입하여 엔지니어링 생산성을 10배 향상시켰습니다. 2,000명의 직원이 AI 도구를 활용해 개발 주기를 수주에서 수일로 단축했습니다.",
+            "summary_en": "AutoScout24, a major European automotive marketplace, has scaled its engineering productivity 10x by implementing ChatGPT and Codex, reducing development cycles from weeks to days for its 2,000 employees.",
+            "link": "https://openai.com/index/autoscout24",
+            "date": "2026-05-12"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1778511600000,
+            "title": "How NVIDIA engineers and researchers build with Codex",
+            "summary_kr": "엔비디아는 사내 연구 및 엔지니어링 팀이 GPT-5.5 기반 코덱스(Codex)를 활용해 개발 속도를 10배 높이고 있다고 밝혔습니다. 이를 통해 복잡한 연구 워크플로우를 자동화하고 신속하게 프로덕션 시스템을 구축하고 있습니다.",
+            "summary_en": "NVIDIA engineers and researchers are leveraging Codex, powered by GPT-5.5, to accelerate end-to-end machine learning research and complex engineering tasks, achieving a 10x improvement in workflow speed.",
+            "link": "https://openai.com/index/nvidia",
+            "date": "2026-05-12"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1778511600000,
+            "title": "What Parameter Golf taught us",
+            "summary_kr": "앤스로픽은 머신러닝 연구 커뮤니티를 대상으로 'Parameter Golf' 챌린지를 개최하여 AI 코딩 에이전트의 효율성과 기술적 창의성을 검증했습니다. 1,000명 이상의 참가자가 참여한 이번 대회를 통해 훈련 최적화 및 모델 압축 기법에 대한 새로운 통찰을 얻었습니다.",
+            "summary_en": "Anthropic hosted the 'Parameter Golf' challenge to explore machine learning optimization, revealing how over 1,000 participants utilized AI coding agents to improve training efficiency and model compression within strict constraints.",
+            "link": "https://openai.com/index/what-parameter-golf-taught-us",
+            "date": "2026-05-12"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778511600000,
+            "title": "Code w/ Claude SF 2026 recap: Building on the AI exponential",
+            "summary_kr": "앤스로픽은 'Code w/ Claude' 개발자 컨퍼런스를 통해 클로드 코드(Claude Code)의 속도 제한을 상향하고, 기업용 매니지드 에이전트 기능을 새롭게 도입했습니다. 이를 통해 기업의 생산성 강화 및 AI 기반 시스템 구축을 가속화할 방침입니다.",
+            "summary_en": "At the 'Code w/ Claude' developer conference, Anthropic announced increased rate limits for Claude Code and introduced new managed agent capabilities, aiming to simplify enterprise-scale AI deployment.",
+            "link": "https://claude.com/blog/code-w-claude-sf-2026-sf"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778511600000,
+            "title": "Claude for the legal industry",
+            "summary_kr": "앤스로픽은 법률 산업에 특화된 20개 이상의 MCP 커넥터와 12개의 플러그인을 출시했습니다. 법무팀은 MS 오피스 등 기존 도구 내에서 계약 검토 및 규제 대응 업무를 자동화하여 법률 서비스 효율을 극대화할 수 있습니다.",
+            "summary_en": "Anthropic has released over 20 new MCP connectors and 12 legal-specific plugins, enabling law firms to automate document drafting, redlining, and regulatory analysis directly within standard tools like Microsoft Office.",
+            "link": "https://claude.com/blog/claude-for-the-legal-industry"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1778511600000,
+            "title": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+            "summary_kr": "앤스로픽 보안팀은 클로드 코드를 활용해 보안 위협 탐지 플랫폼인 'CLUE'를 구축했습니다. 이를 통해 대규모 데이터를 분석하고 보안 사고 조사를 자동화하여 보안 엔지니어들의 작업 효율성을 획기적으로 개선했습니다.",
+            "summary_en": "Anthropic's security team built 'CLUE,' a threat detection platform powered by Claude Code, to automate alert triage and accelerate complex investigations, significantly reducing the manual workload for security engineers.",
+            "link": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1778425200000,
+            "title": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence",
+            "summary_kr": "오픈AI는 기업의 복잡한 AI 도입을 돕기 위해 'OpenAI Deployment Company'를 설립하고, AI 컨설팅 기업인 토모로(Tomoro)를 인수했습니다. 40억 달러 이상의 투자를 바탕으로 기업들이 AI를 실질적인 운영 이점으로 전환하도록 지원합니다.",
+            "summary_en": "OpenAI has launched the 'OpenAI Deployment Company' and acquired applied AI firm Tomoro to assist enterprises in deploying frontier AI systems, backed by over $4 billion in initial investment.",
+            "link": "https://openai.com/index/openai-launches-the-deployment-company",
+            "date": "2026-05-11"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1778425200000,
@@ -723,102 +824,6 @@
             "summary_kr": "구글이 공개한 'Gemini 3.1 Flash TTS'는 향상된 음질과 오디오 태그 기반의 정밀한 제어 기능을 제공하여, 70개 이상의 언어로 자연스럽고 표현력 있는 다국어 음성 생성을 지원합니다.",
             "summary_en": "Google's Gemini 3.1 Flash TTS delivers superior speech quality and precise control through intuitive audio tags, enabling natural, expressive, and localized voice generation across over 70 languages.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1776265200000,
-            "title": "Introducing Claude Opus 4.7",
-            "summary_kr": "앤스로픽은 복잡한 코딩 작업과 추론 능력이 향상된 'Claude Opus 4.7'을 공식 출시하고, 사이버 보안 위험 방지를 위한 새로운 검증 프로그램을 도입했습니다.",
-            "summary_en": "Anthropic has officially released 'Claude Opus 4.7,' featuring significant improvements in software engineering and complex reasoning, alongside new safeguards to address cybersecurity risks.",
-            "link": "https://www.anthropic.com/news/claude-opus-4-7"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1776184200000,
-            "title": "Building Custom Atomistic Simulation Workflows for Chemistry and Materials Science with NVIDIA ALCHEMI Toolkit",
-            "summary_kr": "엔비디아는 화학 및 재료 과학 시뮬레이션을 가속화하는 'ALCHEMI 툴킷'을 공개하여, 분자 역학 연구를 위한 GPU 가속 및 모듈형 워크플로우를 제공합니다.",
-            "summary_en": "NVIDIA has launched the 'ALCHEMI Toolkit,' a collection of GPU-accelerated building blocks designed to bridge the gap between quantum accuracy and classical speed in computational chemistry and materials science simulations.",
-            "link": "https://developer.nvidia.com/blog/building-custom-atomistic-simulation-workflows-for-chemistry-and-materials-science-with-nvidia-alchemi-toolkit"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1776182400000,
-            "title": "NVIDIA NVbandwidth: Your Essential Tool for Measuring GPU Interconnect and Memory Performance",
-            "summary_kr": "엔비디아가 GPU 상호 연결 및 메모리 성능을 측정하고 최적화할 수 있는 CUDA 기반 도구인 'NVbandwidth'를 발표했습니다. 이 도구는 대규모 언어 모델(LLM)과 같은 최신 AI 워크로드에서 데이터 병목 현상을 진단하고 시스템 효율성을 극대화하도록 지원합니다.",
-            "summary_en": "NVIDIA has released 'NVbandwidth,' a CUDA-based tool designed to measure and optimize GPU interconnect and memory performance. It helps developers diagnose bandwidth bottlenecks in complex AI workloads, such as LLMs, to improve system-wide efficiency.",
-            "link": "https://developer.nvidia.com/blog/nvidia-nvbandwidth-your-essential-tool-for-measuring-gpu-interconnect-and-memory-performance"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1776178800000,
-            "title": "Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.",
-            "summary_kr": "구글은 공간 지능과 작업 계획 능력을 대폭 강화한 로봇 전용 모델 'Gemini Robotics-ER 1.6'을 출시하여 물리적 세계에 대한 로봇의 이해도와 자율성을 높였습니다.",
-            "summary_en": "Google has launched 'Gemini Robotics-ER 1.6,' an upgraded model featuring enhanced spatial reasoning and task planning to significantly improve robot autonomy and understanding of the physical world.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1776176460000,
-            "title": "Answering your trending questions on World Quantum Day",
-            "summary_kr": "구글 퀀텀 AI는 양자역학을 활용한 대규모 오류 수정 양자 컴퓨터를 개발하여 기존 컴퓨터로 해결 불가능한 난제들을 해결하는 것을 목표로 하고 있습니다.",
-            "summary_en": "Google Quantum AI is focused on developing large-scale, error-corrected quantum computers to solve complex real-world problems that are currently beyond the reach of classical computing.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/world-quantum-day-2026"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1776176156000,
-            "title": "NVIDIA Ising Introduces AI-Powered Workflows to Build Fault-Tolerant Quantum Systems",
-            "summary_kr": "엔비디아가 양자 프로세서의 오류를 보정하고 최적화하는 AI 모델 제품군인 'NVIDIA Ising'을 출시했습니다. VLM 기반의 Ising Calibration과 CNN 기반의 Ising Decoding 모델은 큐비트 노이즈를 제어하여 양자 컴퓨팅의 확장성을 높이는 데 기여합니다.",
-            "summary_en": "NVIDIA has introduced 'NVIDIA Ising,' a family of AI models designed to automate quantum processor calibration and error correction. By addressing qubit noise through VLM and CNN architectures, the platform provides a scalable path toward building fault-tolerant quantum computers.",
-            "link": "https://developer.nvidia.com/blog/nvidia-ising-introduces-ai-powered-workflows-to-build-fault-tolerant-quantum-systems"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1776171660000,
-            "title": "Automated Alignment Researchers: Using large language models to scale scalable oversight",
-            "summary_kr": "앤스로픽은 '약한 모델이 강한 모델을 감독'하는 'weak-to-strong supervision' 방식을 활용해, AI 스스로가 정렬(Alignment) 연구를 가속화할 수 있는 가능성을 입증했습니다. 이는 초지능 AI의 등장에 대비해 인간을 대신할 확장 가능한 감독 체계를 구축하기 위한 연구입니다.",
-            "summary_en": "Anthropic researchers demonstrated that AI models can autonomously advance alignment research using 'weak-to-strong supervision.' This study explores scalable oversight methods to ensure future superintelligent AI remains aligned with human values.",
-            "link": "https://www.anthropic.com/research/automated-alignment-researchers"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1776088806000,
-            "title": "7 ways AI is advancing healthcare and wellbeing around the world - Source",
-            "summary_kr": "마이크로소프트는 의료 현장의 행정 업무 부담을 줄이고 임상 효율을 높이기 위해 AI 기술을 전 세계 병원과 보건 시스템에 도입하고 있습니다. 특히 음성 인식 및 주변 AI 도구를 통해 의료진이 문서 작업 대신 환자 진료에 더 집중할 수 있도록 돕고 있습니다.",
-            "summary_en": "Microsoft is deploying AI technologies across global healthcare systems to reduce administrative burdens on clinicians. By utilizing ambient AI tools for transcription and documentation, the company enables medical professionals to prioritize patient care over manual paperwork.",
-            "link": "https://news.microsoft.com/source/features/innovation/7-ways-ai-is-advancing-healthcare-and-wellbeing-around-the-world"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1775955764000,
-            "title": "MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications",
-            "summary_kr": "미니맥스(MiniMax)는 에이전트 워크플로우에 최적화된 230B 파라미터 기반의 'MiniMax M2.7' 모델을 공개했습니다. 엔비디아 플랫폼에서의 고성능 커널 최적화를 통해 추론 효율을 극대화했으며, 오픈 소스 생태계를 통해 배포가 가능합니다.",
-            "summary_en": "MiniMax has released 'MiniMax M2.7,' a 230B-parameter sparse MoE model optimized for complex agentic workflows. By integrating high-performance kernels with NVIDIA platforms, it achieves significant throughput gains for large-scale AI applications.",
-            "link": "https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1775752440000,
-            "title": "Trustworthy agents in practice",
-            "summary_kr": "앤스로픽은 자율적인 AI 에이전트가 업무 수행 과정에서 발생시킬 수 있는 리스크를 관리하기 위한 5대 원칙을 제시했습니다. 에이전트가 도구 사용과 계획 수립을 스스로 결정하는 만큼, 인간의 제어권 유지와 보안이 무엇보다 중요해졌습니다.",
-            "summary_en": "Anthropic has outlined five core principles for developing trustworthy AI agents to manage risks associated with increased autonomy. As agents begin to execute self-directed tasks, maintaining human control and robust security protocols becomes critical for corporate deployment.",
-            "link": "https://www.anthropic.com/research/trustworthy-agents"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1775705346000,
-            "title": "From prompts to partnership: How LTM’s Rajesh Kumar collaborates with Microsoft 365 Copilot - Source Asia",
-            "summary_kr": "LTM의 CIO 라제시 쿠마르는 마이크로소프트 365 Copilot을 활용해 기업 내 AI 협업 문화를 정착시키고 있습니다. 단순 업무 자동화를 넘어, 에이전트 기반의 전략적 분석과 인재 매칭 등 복잡한 워크플로우에 AI를 깊숙이 결합하고 있습니다.",
-            "summary_en": "LTM CIO Rajesh Kumar is scaling AI adoption by moving beyond simple automation to deep integration of Microsoft 365 Copilot. The company is now utilizing agentic workflows for strategic research and talent management to enhance operational efficiency.",
-            "link": "https://news.microsoft.com/source/asia/features/from-prompts-to-partnership-how-ltms-rajesh-kumar-collaborates-with-microsoft-365-copilot"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1775664000000,
-            "title": "Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries",
-            "summary_kr": "엔비디아는 옴니버스(Omniverse)의 핵심 기능을 라이브러리 형태인 ovrtx, ovphysx, ovstorage로 공개하여 물리적 AI 개발의 접근성을 높였습니다. 이를 통해 개발자들은 기존 애플리케이션 아키텍처를 전면 수정하지 않고도 고성능 시뮬레이션 기능을 통합할 수 있습니다.",
-            "summary_en": "NVIDIA has introduced a library-based architecture for Omniverse, featuring standalone APIs for rendering, physics, and storage. This modular approach allows developers to integrate advanced physical AI simulation capabilities into existing software stacks without requiring complete architectural rewrites.",
-            "link": "https://developer.nvidia.com/blog/integrate-physical-ai-capabilities-into-existing-apps-with-nvidia-omniverse-libraries"
         }
     ]
 }

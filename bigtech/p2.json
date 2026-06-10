@@ -1,6 +1,114 @@
 {
-    "last_update": "2026-06-09 17:51:49",
+    "last_update": "2026-06-10 18:23:56",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1779894000000,
+            "date": "2026-05-28",
+            "title": "Introducing dynamic workflows in Claude Code",
+            "summary_kr": "Anthropic의 'Claude Code'에 도입된 다이내믹 워크플로우는 복잡한 대규모 엔지니어링 작업을 수백 개의 병렬 에이전트가 협력해 엔드투엔드로 자동 수행함으로써 개발 효율을 획기적으로 높여줍니다.",
+            "summary_en": "Anthropic's new 'dynamic workflows' in Claude Code enable the execution of complex, large-scale engineering tasks end-to-end by orchestrating hundreds of parallel subagents, drastically accelerating development cycles.",
+            "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779879600000,
+            "date": "2026-05-27",
+            "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+            "summary_kr": "시스코는 OpenAI의 Codex를 엔터프라이즈 개발 워크플로우에 깊숙이 통합하여 복잡한 소프트웨어 엔지니어링의 효율성을 극대화하고 개발 주기를 획기적으로 단축했습니다.",
+            "summary_en": "Cisco has integrated OpenAI’s Codex into its core enterprise workflows, significantly accelerating software development cycles and maximizing engineering productivity at scale.",
+            "link": "https://openai.com/index/cisco"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779865200000,
+            "date": "2026-05-27",
+            "title": "Building self-improving tax agents with Codex",
+            "summary_kr": "Thrive Holdings와 OpenAI는 Codex의 자율 개선 루프를 활용하여 세무 전문가의 피드백을 시스템이 자동으로 학습하는 'Tax AI'를 개발, 세금 신고 업무의 효율성과 정확성을 크게 향상했습니다.",
+            "summary_en": "Thrive Holdings and OpenAI have co-developed a self-improving 'Tax AI' agent that leverages Codex and practitioner feedback to autonomously refine its performance, significantly increasing efficiency and accuracy in tax return preparation.",
+            "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779840000000,
+            "date": "2026-05-27",
+            "title": "Election information and safeguards in 2026",
+            "summary_kr": "OpenAI는 2026년 글로벌 선거를 대비하여 신뢰할 수 있는 투표 정보 제공, 사이버 보안 강화, AI 생성 콘텐츠에 대한 투명성 확보를 골자로 하는 선거 보호 전략을 발표했습니다.",
+            "summary_en": "OpenAI has unveiled its 2026 election protection strategy, focusing on providing reliable voting information, strengthening cyber infrastructure, and enhancing transparency for AI-generated content.",
+            "link": "https://openai.com/index/election-safeguards-2026"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779840000000,
+            "date": "2026-05-27",
+            "title": "Warp’s big bet on building open source with GPT-5.5",
+            "summary_kr": "Warp는 GPT-5.5를 기반으로 AI 에이전트가 소프트웨어 개발을 주도하는 '개방형 에이전트 개발(Open Agentic Development)' 모델을 도입하여 효율성을 극대화하고 있습니다.",
+            "summary_en": "Warp is pioneering 'Open Agentic Development' by leveraging GPT-5.5 to orchestrate AI agents that automate complex software engineering workflows while keeping humans in the loop.",
+            "link": "https://openai.com/index/warp"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779833336000,
+            "date": "2026-05-27",
+            "title": "Extract More Kernel Performance with NVIDIA CompileIQ Auto&#x2d;Tuning",
+            "summary_kr": "NVIDIA가 공개한 'CompileIQ'는 진화 알고리즘을 활용해 특정 워크로드에 최적화된 컴파일러 설정을 자동으로 찾아줌으로써 GPU 성능을 극대화하는 AI 기반 컴파일러 튜닝 프레임워크입니다.",
+            "summary_en": "NVIDIA's new 'CompileIQ' is an AI-powered framework that utilizes evolutionary algorithms to automatically discover workload-specific compiler configurations, enabling the extraction of maximum GPU performance.",
+            "link": "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779831616000,
+            "date": "2026-05-27",
+            "title": "Develop High&#x2d;Performance GPU Kernels in C++ with NVIDIA CUDA Tile",
+            "summary_kr": "NVIDIA가 CUDA 13.3을 통해 C++ 기반의 'CUDA Tile' 프로그래밍을 지원하며, 복잡한 저수준 최적화 없이도 타일 단위의 추상화를 통해 효율적인 GPU 커널 개발이 가능해졌습니다.",
+            "summary_en": "NVIDIA has introduced C++ support for 'CUDA Tile' in CUDA 13.3, enabling developers to build highly optimized GPU kernels through tile-based abstractions without manual low-level hardware management.",
+            "link": "https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779831557000,
+            "date": "2026-05-27",
+            "title": "NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++, Compiler Autotuning, and Python",
+            "summary_kr": "NVIDIA CUDA 13.3은 C++ 타일 프로그래밍과 CUDA Python 1.0 정식 출시를 통해 개발 편의성과 호환성을 대폭 강화했으며, CompileIQ를 통한 자동 튜닝으로 연산 성능을 최대 15% 향상시켰습니다.",
+            "summary_en": "NVIDIA CUDA 13.3 enhances development efficiency and portability with the introduction of C++ Tile programming and the official CUDA Python 1.0 release, while delivering up to a 15% performance boost through the CompileIQ auto-tuning framework.",
+            "link": "https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779811200000,
+            "date": "2026-05-27",
+            "title": "Run Key Genomics and Protein Folding Workloads Faster with NVIDIA RTX PRO 4500 Blackwell",
+            "summary_kr": "엔비디아는 고성능 GPU와 BioNeMo 플랫폼을 통해 유전체 분석 및 신약 개발의 병목 현상을 해결하며 정밀 의료의 속도와 효율성을 획기적으로 높이고 있습니다.",
+            "summary_en": "NVIDIA is significantly accelerating precision medicine by leveraging its GPU-accelerated platforms, such as BioNeMo and Parabricks, to overcome critical bottlenecks in genomic analysis and drug discovery.",
+            "link": "https://developer.nvidia.com/blog/run-key-genomics-and-protein-folding-workloads-faster-with-nvidia-rtx-pro-4500-blackwell"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779807600000,
+            "date": "2026-05-27",
+            "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+            "summary_kr": "앤스로픽이 이탈리아 밀라노에 신규 사무소를 개설하며 현지 기업 및 연구 생태계와의 협력을 강화하고, 안전한 AI 도입을 지원하는 유럽 내 입지를 확대합니다.",
+            "summary_en": "Anthropic has opened a new office in Milan to accelerate AI adoption across Italian industries, research, and developer communities while fostering responsible AI development.",
+            "link": "https://www.anthropic.com/news/milan-office-opening"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779807600000,
+            "date": "2026-05-27",
+            "title": "Using LLMs to secure source code",
+            "summary_kr": "이 기사는 Claude Opus를 활용하여 소스 코드의 위협 모델을 구축하고 취약점을 탐지, 검증, 패치하는 체계적인 보안 워크플로우를 제시합니다. 특히 모델이 정확한 판단을 내리기 위해서는 잘 정의된 위협 모델과 시스템 컨텍스트 제공이 성공의 핵심임을 강조합니다.",
+            "summary_en": "This article outlines a systematic workflow for leveraging Claude Opus to build threat models and automate the discovery, verification, and patching of source code vulnerabilities. It highlights that providing a well-defined threat model and system context is critical for ensuring the model's accuracy and actionable output.",
+            "link": "https://claude.com/blog/using-llms-to-secure-source-code"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779807600000,
+            "date": "2026-05-27",
+            "title": "How CodeRabbit used Claude to build an agent orchestration system",
+            "summary_kr": "CodeRabbit은 Claude를 활용해 코딩 전 단계에서 구조화된 계획을 수립하는 오케스트레이션 레이어를 도입함으로써, AI가 맥락을 오해해 발생하는 불필요한 재작업을 방지하고 코드 품질을 높였습니다.",
+            "summary_en": "CodeRabbit implemented an orchestration layer using Claude to generate structured plans before coding, effectively bridging context gaps and reducing costly rework caused by AI hallucinations or misaligned intent.",
+            "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1779807600000,
@@ -727,107 +835,6 @@
             "summary_en": "OpenAI is developing a native sandbox for Windows to allow the secure execution of the Codex coding agent, addressing the lack of built-in OS-level isolation primitives compared to other platforms.",
             "link": "https://openai.com/index/building-codex-windows-sandbox",
             "date": "2026-05-13"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778598000000,
-            "title": "Our response to the TanStack npm supply chain attack",
-            "summary_kr": "오픈AI는 오픈소스 라이브러리 공급망 공격 발생에 대응하여, 사용자 데이터 보호를 위해 macOS 앱의 코드 서명 인증서를 교체하고 사용자들의 긴급 업데이트를 당부했습니다.",
-            "summary_en": "OpenAI is rotating its macOS code-signing certificates following a supply chain attack on the TanStack library, mandating that users update their applications to ensure system security.",
-            "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-            "date": "2026-05-13"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778598000000,
-            "title": "Best practices for computer and browser use with Claude",
-            "summary_kr": "앤스로픽은 클로드의 컴퓨터 및 브라우저 제어 기능을 최적화하기 위해 스크린샷 다운스케일링 및 해상도 관리 등 기술적인 모범 사례와 가이드를 발표했습니다.",
-            "summary_en": "Anthropic has shared best practices for integrating Claude's computer and browser-use capabilities, recommending specific image downscaling techniques to ensure click accuracy and model performance.",
-            "link": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778598000000,
-            "title": "Introducing Claude for Small Business",
-            "summary_kr": "앤스로픽은 소상공인들이 복잡한 업무를 자동화할 수 있도록 지원하는 'Claude for Small Business'를 출시했습니다. 이 서비스는 퀵북, 페이팔, 허브스팟 등 기존 도구와 연동하여 급여 관리, 인보이스 처리 등 실무 효율을 높여줍니다.",
-            "summary_en": "Anthropic has launched 'Claude for Small Business,' a suite of integrated workflows designed to help small business owners automate tasks by connecting Claude directly to tools like QuickBooks, PayPal, and HubSpot.",
-            "link": "https://www.anthropic.com/news/claude-for-small-business"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778528667000,
-            "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
-            "summary_kr": "엔비디아가 출시한 'NVIDIA Fleet Intelligence'는 대규모 GPU 클러스터의 상태, 성능, 전력 효율을 실시간으로 통합 모니터링하고 최적화할 수 있도록 지원하는 관리형 서비스입니다.",
-            "summary_en": "NVIDIA Fleet Intelligence is a managed service that provides real-time, comprehensive monitoring and optimization for large-scale GPU clusters, ensuring peak performance, health, and operational efficiency.",
-            "link": "https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1778520600000,
-            "title": "Our new initiative to apply quantum science and AI to the life sciences",
-            "summary_kr": "구글은 생명과학 분야의 난제를 해결하기 위해 양자 과학과 AI를 결합하는 연구 프로그램인 'REPLIQA'를 출범하고, 5개 주요 대학에 1천만 달러를 지원합니다.",
-            "summary_en": "Google has launched 'REPLIQA,' an initiative combining quantum science and AI to address complex challenges in life sciences, supported by $10 million in funding for five leading academic institutions.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778511600000,
-            "title": "AutoScout24 scales engineering with AI-powered workflows",
-            "summary_kr": "유럽 최대 온라인 자동차 마켓플레이스인 오토스카우트24(AutoScout24)가 챗GPT와 코덱스(Codex)를 도입하여 엔지니어링 생산성을 10배 향상시켰습니다. 2,000명의 직원이 AI 도구를 활용해 개발 주기를 수주에서 수일로 단축했습니다.",
-            "summary_en": "AutoScout24, a major European automotive marketplace, has scaled its engineering productivity 10x by implementing ChatGPT and Codex, reducing development cycles from weeks to days for its 2,000 employees.",
-            "link": "https://openai.com/index/autoscout24",
-            "date": "2026-05-12"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778511600000,
-            "title": "How NVIDIA engineers and researchers build with Codex",
-            "summary_kr": "엔비디아는 사내 연구 및 엔지니어링 팀이 GPT-5.5 기반 코덱스(Codex)를 활용해 개발 속도를 10배 높이고 있다고 밝혔습니다. 이를 통해 복잡한 연구 워크플로우를 자동화하고 신속하게 프로덕션 시스템을 구축하고 있습니다.",
-            "summary_en": "NVIDIA engineers and researchers are leveraging Codex, powered by GPT-5.5, to accelerate end-to-end machine learning research and complex engineering tasks, achieving a 10x improvement in workflow speed.",
-            "link": "https://openai.com/index/nvidia",
-            "date": "2026-05-12"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778511600000,
-            "title": "What Parameter Golf taught us",
-            "summary_kr": "앤스로픽은 머신러닝 연구 커뮤니티를 대상으로 'Parameter Golf' 챌린지를 개최하여 AI 코딩 에이전트의 효율성과 기술적 창의성을 검증했습니다. 1,000명 이상의 참가자가 참여한 이번 대회를 통해 훈련 최적화 및 모델 압축 기법에 대한 새로운 통찰을 얻었습니다.",
-            "summary_en": "Anthropic hosted the 'Parameter Golf' challenge to explore machine learning optimization, revealing how over 1,000 participants utilized AI coding agents to improve training efficiency and model compression within strict constraints.",
-            "link": "https://openai.com/index/what-parameter-golf-taught-us",
-            "date": "2026-05-12"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778511600000,
-            "title": "Code w/ Claude SF 2026 recap: Building on the AI exponential",
-            "summary_kr": "앤스로픽은 'Code w/ Claude' 개발자 컨퍼런스를 통해 클로드 코드(Claude Code)의 속도 제한을 상향하고, 기업용 매니지드 에이전트 기능을 새롭게 도입했습니다. 이를 통해 기업의 생산성 강화 및 AI 기반 시스템 구축을 가속화할 방침입니다.",
-            "summary_en": "At the 'Code w/ Claude' developer conference, Anthropic announced increased rate limits for Claude Code and introduced new managed agent capabilities, aiming to simplify enterprise-scale AI deployment.",
-            "link": "https://claude.com/blog/code-w-claude-sf-2026-sf"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778511600000,
-            "title": "Claude for the legal industry",
-            "summary_kr": "앤스로픽은 법률 산업에 특화된 20개 이상의 MCP 커넥터와 12개의 플러그인을 출시했습니다. 법무팀은 MS 오피스 등 기존 도구 내에서 계약 검토 및 규제 대응 업무를 자동화하여 법률 서비스 효율을 극대화할 수 있습니다.",
-            "summary_en": "Anthropic has released over 20 new MCP connectors and 12 legal-specific plugins, enabling law firms to automate document drafting, redlining, and regulatory analysis directly within standard tools like Microsoft Office.",
-            "link": "https://claude.com/blog/claude-for-the-legal-industry"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778511600000,
-            "title": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
-            "summary_kr": "앤스로픽 보안팀은 클로드 코드를 활용해 보안 위협 탐지 플랫폼인 'CLUE'를 구축했습니다. 이를 통해 대규모 데이터를 분석하고 보안 사고 조사를 자동화하여 보안 엔지니어들의 작업 효율성을 획기적으로 개선했습니다.",
-            "summary_en": "Anthropic's security team built 'CLUE,' a threat detection platform powered by Claude Code, to automate alert triage and accelerate complex investigations, significantly reducing the manual workload for security engineers.",
-            "link": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778425200000,
-            "title": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence",
-            "summary_kr": "오픈AI는 기업의 복잡한 AI 도입을 돕기 위해 'OpenAI Deployment Company'를 설립하고, AI 컨설팅 기업인 토모로(Tomoro)를 인수했습니다. 40억 달러 이상의 투자를 바탕으로 기업들이 AI를 실질적인 운영 이점으로 전환하도록 지원합니다.",
-            "summary_en": "OpenAI has launched the 'OpenAI Deployment Company' and acquired applied AI firm Tomoro to assist enterprises in deploying frontier AI systems, backed by over $4 billion in initial investment.",
-            "link": "https://openai.com/index/openai-launches-the-deployment-company",
-            "date": "2026-05-11"
         }
     ]
 }
