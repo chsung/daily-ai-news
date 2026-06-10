@@ -389,8 +389,11 @@ for config in CONFIGS:
                 entry.link = norm_link
                 candidate_entries.append(entry)
                 
-        print(f" {i+1}. [{status}] {entry.title} ({entry.get('published', '')})")
-        print(f"    URL: {entry.link}")
+        if status == "후보":
+            print(f" {i+1}. {entry.title} ({entry.get('published', '')})")
+        else:
+            print(f" {i+1}. [{status}] {entry.title} ({entry.get('published', '')})")
+        print(f"     {entry.link}")
     
     if candidate_entries:
         title_only_text = "\n".join([f"{idx}: {entry.title}" for idx, entry in enumerate(candidate_entries)])
@@ -441,26 +444,28 @@ for config in CONFIGS:
                     for idx in valid_ids:
                         entry = candidate_entries[idx]
                         print(f" - [{idx}] {entry.title}")
+                        print(f"    {entry.link}")
                         
                         try:
                             final_url = entry.link
-                            try:
-                                if hasattr(googlenewsdecoder, 'new_decoderv1'):
-                                    res = googlenewsdecoder.new_decoderv1(entry.link)
-                                    if res and res.get("status"):
-                                        final_url = res.get("decoded_url")
-                                    else:
-                                        msg = res.get("message", "Unknown error") if res else "No response"
-                                        print(f"   -> [경고] 구글 뉴스 URL 디코딩 실패: {msg}")
-                                elif hasattr(googlenewsdecoder, 'decode'):
-                                    res = googlenewsdecoder.decode(entry.link)
-                                    if isinstance(res, dict) and res.get("status"):
-                                        final_url = res.get("decoded_url")
-                                    else:
-                                        msg = res.get("message", "Unknown error") if isinstance(res, dict) else "No response"
-                                        print(f"   -> [경고] 구글 뉴스 URL 디코딩 실패: {msg}")
-                            except Exception as e:
-                                print(f"   -> [에러] 구글 뉴스 URL 디코딩 중 예외 발생: {e}")
+                            if "news.google.com" in entry.link:
+                                try:
+                                    if hasattr(googlenewsdecoder, 'new_decoderv1'):
+                                        res = googlenewsdecoder.new_decoderv1(entry.link)
+                                        if res and res.get("status"):
+                                            final_url = res.get("decoded_url")
+                                        else:
+                                            msg = res.get("message", "Unknown error") if res else "No response"
+                                            print(f"   -> [경고] 구글 뉴스 URL 디코딩 실패: {msg}")
+                                    elif hasattr(googlenewsdecoder, 'decode'):
+                                        res = googlenewsdecoder.decode(entry.link)
+                                        if isinstance(res, dict) and res.get("status"):
+                                            final_url = res.get("decoded_url")
+                                        else:
+                                            msg = res.get("message", "Unknown error") if isinstance(res, dict) else "No response"
+                                            print(f"   -> [경고] 구글 뉴스 URL 디코딩 실패: {msg}")
+                                except Exception as e:
+                                    print(f"   -> [에러] 구글 뉴스 URL 디코딩 중 예외 발생: {e}")
                             
                             html_content = None
                             headers = {
