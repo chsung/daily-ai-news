@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-10 07:14:26",
+    "last_update": "2026-06-10 18:07:45",
     "articles": [
+        {
+            "title": "SK Telecom and NVIDIA Build AI Infrastructure to Power Korea’s AI Innovation - NVIDIA Newsroom",
+            "summary_en": "SK Telecom plans to build a gigawatt-scale AI Cloud in South Korea by 2027 using NVIDIA’s DSX platform to advance sovereign, agentic, and physical AI infrastructure. This collaboration aims to optimize AI manufacturing efficiency, positioning SK Group as a key player in the Asian AI factory ecosystem.",
+            "link": "https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure",
+            "timestamp": 1780873463000,
+            "date": "2026-06-07"
+        },
+        {
+            "title": "Nebius launches Physical AI Living Lab for UK and European robotics startups built with NVIDIA technologies - Nebius",
+            "summary_en": "Nebius has launched a six-month 'Physical AI Living Lab' to provide European and British robotics startups with direct access to NVIDIA’s simulation tools and high-performance cloud compute. By removing infrastructure barriers, the program enables founders to transition faster from prototype development to real-world deployment using NVIDIA RTX PRO Blackwell GPUs.",
+            "link": "https://nebius.com/newsroom/nebius-launches-physical-ai-living-lab-for-uk-and-european-robotics-startups-built-with-nvidia-technologies",
+            "timestamp": 1780987592000,
+            "date": "2026-06-09"
+        },
         {
             "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant - Apple",
             "summary_en": "Apple has introduced Siri AI, a major evolution of its assistant powered by Apple Intelligence that features deep onscreen awareness and the ability to retrieve context from personal apps. The system leverages a new privacy-focused architecture to provide conversational responses and perform systemwide actions across messages, emails, and third-party integrations.",
@@ -662,18 +676,6 @@
             "summary_en": "Microsoft’s new open-weight model family, Fara1.5, outperformed OpenAI’s Operator and Google’s Gemini 2.5 on key web-browsing benchmarks, scoring 72% on the Online-Mind2Web test. Developed using OpenAI’s GPT-5.4 as a 'teacher' to generate training data, the model demonstrates high proficiency in autonomous agentic tasks.",
             "link": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
             "timestamp": 1779481863000
-        },
-        {
-            "title": "Co-Scientist: A multi-agent AI partner to accelerate research - Google DeepMind",
-            "summary_en": "Google DeepMind has introduced Co-Scientist, a multi-agent AI framework designed to accelerate scientific research and innovation. The project features a broad, multidisciplinary team of researchers and technical contributors aimed at leveraging AI to advance experimental discovery.",
-            "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-            "timestamp": 1779213866000
-        },
-        {
-            "title": "Nvidia to launch Singapore research hub as city-state boosts AI plans - CNBC",
-            "summary_en": "Nvidia is establishing its first research hub in Singapore to focus on advancing embodied AI and improving the efficiency of AI infrastructure. The facility will collaborate with local government and industry partners to test AI-driven robotics for logistics, security, and cleaning services.",
-            "link": "https://www.cnbc.com/2026/05/20/nvidia-to-launch-singapore-research-hub-as-city-state-boosts-ai-plans.html",
-            "timestamp": 1779249718000
         }
     ]
 }

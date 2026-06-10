@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-10 07:14:26",
+    "last_update": "2026-06-10 18:07:45",
     "articles": [
+        {
+            "title": "Co-Scientist: A multi-agent AI partner to accelerate research - Google DeepMind",
+            "summary_en": "Google DeepMind has introduced Co-Scientist, a multi-agent AI framework designed to accelerate scientific research and innovation. The project features a broad, multidisciplinary team of researchers and technical contributors aimed at leveraging AI to advance experimental discovery.",
+            "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+            "timestamp": 1779213866000
+        },
+        {
+            "title": "Nvidia to launch Singapore research hub as city-state boosts AI plans - CNBC",
+            "summary_en": "Nvidia is establishing its first research hub in Singapore to focus on advancing embodied AI and improving the efficiency of AI infrastructure. The facility will collaborate with local government and industry partners to test AI-driven robotics for logistics, security, and cleaning services.",
+            "link": "https://www.cnbc.com/2026/05/20/nvidia-to-launch-singapore-research-hub-as-city-state-boosts-ai-plans.html",
+            "timestamp": 1779249718000
+        },
         {
             "title": "I/O 2026: Welcome to the agentic Gemini era - blog.google",
             "summary_en": "At Google I/O 2026, CEO Sundar Pichai announced that Google is shifting into an 'agentic' AI era, marked by a massive surge in usage to over 3.2 quadrillion tokens processed monthly. The company reported significant growth in adoption, with the Gemini app reaching 900 million monthly active users and over 8.5 million developers building on its models.",
@@ -588,18 +600,6 @@
             "link": "https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion",
             "summary_en": "This article discusses the concept and implications of an intelligence explosion in artificial intelligence.",
             "timestamp": 1778175481000
-        },
-        {
-            "title": "Anthropic Found AI Makes Impractical Work Worth Doing - PYMNTS.com",
-            "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-found-ai-makes-impractical-work-worth-doing/",
-            "summary_en": "Anthropic discovered that artificial intelligence can make previously impractical or difficult tasks worth pursuing.",
-            "timestamp": 1778271413000
-        },
-        {
-            "title": "Find out how AlphaEvolve has gone from research to solving real-life problems. - blog.google",
-            "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/",
-            "summary_en": "Google's AlphaEvolve is an AI-powered tool that has evolved from a research project into a practical solution for solving complex scientific, social, and business problems.",
-            "timestamp": 1778166557000
         }
     ]
 }

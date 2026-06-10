@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-10 07:14:26",
+    "last_update": "2026-06-10 18:07:45",
     "articles": [
+        {
+            "title": "Anthropic Found AI Makes Impractical Work Worth Doing - PYMNTS.com",
+            "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-found-ai-makes-impractical-work-worth-doing/",
+            "summary_en": "Anthropic discovered that artificial intelligence can make previously impractical or difficult tasks worth pursuing.",
+            "timestamp": 1778271413000
+        },
+        {
+            "title": "Find out how AlphaEvolve has gone from research to solving real-life problems. - blog.google",
+            "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates/",
+            "summary_en": "Google's AlphaEvolve is an AI-powered tool that has evolved from a research project into a practical solution for solving complex scientific, social, and business problems.",
+            "timestamp": 1778166557000
+        },
         {
             "title": "“The Nuclear Weapons of Cybersecurity”: Why Treasury Just Warned Banks About AI’s New Power - AOL.com",
             "link": "https://www.aol.com/articles/nuclear-weapons-cybersecurity-why-treasury-150058171.html?utm_source=read.youreverydayai.com&utm_medium=referral&utm_campaign=ep-769-musk-vs-openai-trial-heats-up-pentagon-makes-big-ai-deal-openai-shifts-its-strategy-and-more",
