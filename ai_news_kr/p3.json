@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-11 08:09:14",
+    "last_update": "2026-06-11 18:20:42",
     "articles": [
+        {
+            "title": "구글, 양자컴퓨팅·AI로 생명과학 판 바꾼다 - 양자신문",
+            "link": "https://www.quantumtimes.net/news/articleView.html?idxno=56344",
+            "summary_kr": "구글 퀀텀 AI는 1천만 달러를 투입해 하버드·MIT 등 5개 대학과 함께 양자컴퓨팅과 AI를 융합한 ‘리플리카(REPLIQA)’ 프로그램을 출범하고, 기존 슈퍼컴퓨터로 분석이 어려웠던 단백질 구조 형성 및 신약 후보 물질의 분자 단위 상호작용 연구를 고도화한다.",
+            "timestamp": 1778560056000
+        },
+        {
+            "title": "오픈AI·마이크로소프트 수익배분 구조 재조정...AI 동맹 새 국면 진입 - 레디앙",
+            "link": "https://www.redian.org/news/articleView.html?idxno=256567",
+            "summary_kr": "오픈AI와 마이크로소프트가 수익배분 계약 구조를 재조정하며 마이크로소프트의 이익 공유에 상한선을 설정한 것은, 오픈AI가 특정 기업 의존도를 낮추고 독립적인 사업 확장성을 강화해 글로벌 AI 인프라 시장에서 영향력을 넓히려는 전략적 행보로 해석된다.",
+            "timestamp": 1778564061000
+        },
+        {
+            "title": "서비스나우, 엔비디아·마이크로소프트·AWS와 AI 동맹 확대…“기업 AI 운영 체계 구축” - 더테크",
+            "link": "https://www.the-tech.co.kr/news/article.html?no=41507",
+            "summary_kr": "서비스나우가 엔비디아·마이크로소프트·AWS 등과 협력해 에이전틱 AI를 기업 운영 체계에 통합하는 ‘AI 컨트롤 타워’ 전략을 발표하며, 자율형 AI 에이전트의 워크플로우 자동화부터 보안 거버넌스까지 총괄하는 ‘AI 운영체제(AI OS)’로의 사업 확장을 본격화했다.",
+            "timestamp": 1778565935000
+        },
         {
             "title": "‘미장에서 요즘 가장 뜨겁다’ 새 전략 발표 앞두고 난리…구글 관련주까지 들썩 [투자360] - 헤럴드경제",
             "link": "https://biz.heraldcorp.com/article/10735370",
@@ -582,24 +600,6 @@
             "link": "https://zdnet.co.kr/view/?no=20260422093359",
             "summary_kr": "SK텔레콤이 엔비디아와의 장기적인 기술 협력을 통해 차세대 AI 모델 'A.X K2' 개발에 엔비디아의 데이터셋과 프레임워크를 활용하고 있으며, 이를 통해 대규모 언어 모델의 학습 안정성과 성능을 고도화하고 있습니다.",
             "timestamp": 1776841200000
-        },
-        {
-            "title": "LG 이어 네이버도 '엔비디아 회동'…K-AI 존재감 커졌다 - 연합뉴스 한민족센터",
-            "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1343527",
-            "summary_kr": "LG AI연구원에 이어 네이버 경영진도 엔비디아와 회동을 가짐으로써 한국 AI 기업들이 글로벌 생태계 내에서 기술적 입지와 영향력을 성공적으로 넓혀가고 있습니다.",
-            "timestamp": 1776927600000
-        },
-        {
-            "title": "\"엔비디아 잡는다\"… 구글, 8세대 학습·추론용 TPU 공개 - 조선일보",
-            "link": "https://www.chosun.com/economy/tech_it/2026/04/23/WJYLJOBAQZFLXGDJG3WGVSVPEQ/",
-            "summary_kr": "구글이 AI 학습과 추론 성능을 비약적으로 높인 8세대 텐서처리장치(TPU)를 공개하며, 인공지능 인프라 시장에서 엔비디아의 독주 체제를 견제하기 위한 강력한 경쟁력을 확보했습니다.",
-            "timestamp": 1776927600000
-        },
-        {
-            "title": "오픈AI 출신들, 스타트업 ‘코어 오토메이션’ 창업...한국계 조앤 장도 합류 - v.daum.net",
-            "link": "https://v.daum.net/v/XsISTd5TT7",
-            "summary_kr": "오픈AI의 핵심 연구자 제리 투오렉과 한국계 조앤 장 등이 주축이 되어 설립한 스타트업 '코어 오토메이션'은 트랜스포머 아키텍처의 한계를 넘는 새로운 학습 알고리즘을 도입해 연구 업무의 자동화와 최적화를 목표로 하고 있습니다.",
-            "timestamp": 1776927600000
         }
     ]
 }

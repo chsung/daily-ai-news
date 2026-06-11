@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-11 08:09:52",
+    "last_update": "2026-06-11 18:21:23",
     "articles": [
+        {
+            "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes - VentureBeat",
+            "link": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+            "summary_en": "Anthropic has introduced a new system called \"dreaming\" that allows AI agents to improve by learning from their own mistakes.",
+            "timestamp": 1778199001000
+        },
+        {
+            "title": "CAISI Signs Frontier AI Testing Agreements With 3 Companies - ExecutiveGov",
+            "link": "https://www.executivegov.com/articles/caisi-ai-testing-google-deepmind-microsoft-xai",
+            "summary_en": "The U.S. government's AI standards center has partnered with Google, Microsoft, and xAI to conduct safety testing and research on advanced AI models.",
+            "timestamp": 1778098340000
+        },
+        {
+            "title": "Google Flow Music and Believe bring next-gen tools to artists - blog.google",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership/",
+            "summary_en": "Google is collaborating with the company Believe to provide musicians and songwriters with new AI-powered creative tools.",
+            "timestamp": 1778081045000
+        },
         {
             "title": "A historic $200-million USC gift from Nvidia board member aims to transform AI education - Los Angeles Times",
             "link": "https://www.latimes.com/california/story/2026-05-05/usc-200-million-donation-ai-artificial-intelligence",
