@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-10 18:07:45",
+    "last_update": "2026-06-11 08:09:52",
     "articles": [
+        {
+            "title": "A historic $200-million USC gift from Nvidia board member aims to transform AI education - Los Angeles Times",
+            "link": "https://www.latimes.com/california/story/2026-05-05/usc-200-million-donation-ai-artificial-intelligence",
+            "summary_en": "USC received a $200 million donation from Nvidia board member Mark Stevens to expand and integrate AI research across various academic fields.",
+            "timestamp": 1778020399000
+        },
+        {
+            "title": "How frontier firms are pulling ahead - OpenAI",
+            "link": "https://openai.com/index/introducing-b2b-signals/",
+            "summary_en": "OpenAI research shows that leading companies are gaining a competitive edge by deeply integrating complex, agent-based AI workflows into their daily operations.",
+            "timestamp": 1778039230000
+        },
+        {
+            "title": "Behind the Curtain: Intelligence explosion - Axios",
+            "link": "https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion",
+            "summary_en": "This article discusses the concept and implications of an intelligence explosion in artificial intelligence.",
+            "timestamp": 1778175481000
+        },
         {
             "title": "Anthropic Found AI Makes Impractical Work Worth Doing - PYMNTS.com",
             "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-found-ai-makes-impractical-work-worth-doing/",
