@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-06-11 18:39:57",
+    "last_update": "2026-06-12 17:57:08",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1781285601000,
+            "date": "2026-06-12",
+            "title": "5 foundations for reshaping the future of education and AI | Microsoft Education Blog",
+            "summary_kr": "AI 시대의 교육은 단순히 기술 습득을 넘어 인간 고유의 역량과 윤리적 판단력을 함양하여 학생들의 전인적 성장과 미래 노동 시장의 변화에 유연하게 대응하는 데 집중해야 합니다.",
+            "summary_en": "Education in the AI era must transcend technical skill acquisition by prioritizing uniquely human capabilities and ethical judgment, ensuring students achieve both personal flourishing and adaptability in a shifting labor market.",
+            "link": "https://www.microsoft.com/en-us/education/blog/2026/06/5-foundations-for-reshaping-the-future-of-education-and-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781275397000,
+            "date": "2026-06-12",
+            "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
+            "summary_kr": "MiniMax M3는 엔비디아 인프라에 최적화된 428B 파라미터의 멀티모달 모델로, 독자적인 고속 어텐션 기술을 통해 긴 컨텍스트 추론과 에이전트 워크플로우를 효율적으로 구현합니다.",
+            "summary_en": "MiniMax M3 is a 428B-parameter multimodal model optimized for NVIDIA infrastructure that leverages proprietary sparse attention to enable high-performance long-context reasoning and agentic workflows.",
+            "link": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781258400000,
+            "date": "2026-06-12",
+            "title": "New OpenAI Academy courses for the next era of work",
+            "summary_kr": "OpenAI는 조직의 실질적인 AI 활용 능력을 높이기 위해 기초부터 에이전트 워크플로우까지 단계별 교육 과정을 제공하는 'OpenAI Academy' 신규 코스를 출시했습니다.",
+            "summary_en": "OpenAI has launched new 'OpenAI Academy' courses to help organizations build practical AI fluency, ranging from foundational concepts to advanced agent-assisted workflows.",
+            "link": "https://openai.com/index/academy-courses-applying-ai-at-work"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1781222400000,
+            "date": "2026-06-12",
+            "title": "Results from first Anthropic Public Record",
+            "summary_kr": "앤스로픽의 첫 번째 설문 조사 결과, 미국인들은 AI의 질병 치료 잠재력을 기대하면서도 일자리 상실을 크게 우려하며 기업의 책임 강화와 정부 규제를 강력히 지지하는 것으로 나타났습니다.",
+            "summary_en": "Anthropic's inaugural public survey reveals that while Americans are optimistic about AI's potential to cure diseases, they are deeply concerned about job displacement and show broad bipartisan support for government regulation and corporate accountability.",
+            "link": "https://www.anthropic.com/news/anthropic-public-record"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781222400000,
+            "date": "2026-06-12",
+            "title": "How Preply combines AI and human tutors to personalize learning",
+            "summary_kr": "어학 학습 플랫폼 Preply는 OpenAI API를 활용한 '레슨 인사이트' 기능을 통해 튜터의 반복 업무는 줄이고, 학습자에게는 개인화된 피드백과 맞춤형 연습 문제를 제공하여 학습 효율을 극대화하고 있습니다.",
+            "summary_en": "Preply enhances language learning by integrating OpenAI’s technology into its 'Lesson Insights' feature, which automates administrative tasks for tutors while delivering personalized feedback and adaptive practice for students.",
+            "link": "https://openai.com/index/preply"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781207557000,
+            "date": "2026-06-11",
+            "title": "One-Click Multi-Tenant Security with NVIDIA Quantum InfiniBand",
+            "summary_kr": "NVIDIA는 UFM(Unified Fabric Manager)의 의도 기반 보안 프로파일을 통해 복잡한 InfiniBand 보안 설정을 클릭 한 번으로 자동화하여, 클라우드 환경의 구축 시간을 단축하고 하드웨어 수준의 멀티테넌트 격리를 강화했습니다.",
+            "summary_en": "NVIDIA has introduced intent-based security profiles in its Unified Fabric Manager to automate complex InfiniBand configurations with a single click, significantly reducing deployment time while ensuring robust, hardware-enforced multi-tenant isolation.",
+            "link": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1780417545000,
+            "date": "2026-06-02",
+            "title": "AI alone won't change your business. The system running it will. - The Official Microsoft Blog",
+            "summary_kr": "기업의 AI 경쟁력은 단순한 모델 도입이 아닌, 개발부터 운영·거버넌스까지 통합 관리하는 시스템적 인프라를 구축하는 데 달려 있습니다.",
+            "summary_en": "Success in enterprise AI depends not on individual models, but on building a comprehensive, governed, and continuously improving system that integrates agents into core business operations.",
+            "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1780416773000,
+            "date": "2026-06-02",
+            "title": "Microsoft Build 2026: Be yourself at work - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 개발자가 보안과 거버넌스를 유지하면서도 자신만의 데이터와 모델을 선택해 맞춤형 에이전트를 구축할 수 있는 개방적이고 유연한 개발 플랫폼을 제시했습니다.",
+            "summary_en": "Microsoft has introduced an open and flexible platform that empowers developers to build custom agents using their own data and preferred models while maintaining enterprise-grade security and governance.",
+            "link": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1776384000000,
+            "date": "2026-04-17",
+            "title": "Grok Speech to Text and Text to Speech APIs",
+            "summary_kr": "xAI가 테슬라와 그록 보이스에 활용된 검증된 기술 기반의 고성능 STT 및 TTS API를 출시하며, 경쟁력 있는 가격과 뛰어난 정확도를 바탕으로 개발자 생태계 확장에 나섭니다.",
+            "summary_en": "xAI has launched high-performance, cost-effective STT and TTS APIs built on the technology powering Grok Voice and Tesla, offering industry-leading accuracy and developer-friendly features.",
+            "link": "https://x.ai/news/grok-stt-and-tts-apis"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1781136000000,
@@ -819,87 +900,6 @@
             "summary_kr": "마이크로소프트는 사용자 의도에 맞춰 작업 흐름을 최적화하고 생산성을 높이기 위해 365 Copilot의 인터페이스를 '작업 인식형 워크스페이스'로 전면 개편했습니다.",
             "summary_en": "Microsoft has redesigned the 365 Copilot interface into a task-aware workspace to better align with user intent and streamline workflows for improved productivity.",
             "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779915317000,
-            "date": "2026-05-28",
-            "title": "There is no Copilot without the pilots, says Slovenian insurance executive",
-            "summary_kr": "슬로베니아의 보험사 트리글라브(Triglav)는 사내 '디지털 멘토' 제도를 통해 AI 도입의 장벽을 허물고, 반복 업무 자동화로 직원들이 고부가가치 업무에 집중하게 함으로써 성공적인 디지털 전환을 이뤄냈습니다.",
-            "summary_en": "Slovenian insurer Triglav has successfully driven digital transformation by utilizing a 'digital mentor' network to facilitate Copilot adoption, enabling employees to shift from repetitive tasks to higher-value work within a regulated environment.",
-            "link": "https://news.microsoft.com/source/emea/features/zavarovalnica-triglav-copilot-adoption-insurance"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779831725000,
-            "date": "2026-05-27",
-            "title": "MAI-Image-2.5 launches at No. 3 on Arena | Microsoft AI",
-            "summary_kr": "마이크로소프트가 텍스트-이미지 리더보드 3위에 오른 최신 AI 모델 'MAI-Image-2.5'를 출시했으며, 텍스트 렌더링과 시각적 추론 능력을 대폭 강화했습니다.",
-            "summary_en": "Microsoft has launched MAI-Image-2.5, which debuted at No. 3 on the Arena leaderboard, featuring significant advancements in text rendering, visual reasoning, and professional-grade image quality.",
-            "link": "https://microsoft.ai/news/mai-image-2-5-launches-at-no-3-on-arena-ai"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779800337000,
-            "date": "2026-05-26",
-            "title": "India and AI’s inflection point - Source Asia",
-            "summary_kr": "인도는 방대한 개발자 생태계, 빠른 기업 AI 도입 속도, 그리고 대규모 디지털 공공 인프라를 결합하여 AI의 실질적인 배포와 확장을 주도하는 차세대 글로벌 거점이 되고 있습니다.",
-            "summary_en": "India is emerging as a global powerhouse in the AI era by leveraging its massive developer ecosystem, rapid enterprise adoption, and population-scale digital public infrastructure to drive real-world impact and deployment.",
-            "link": "https://news.microsoft.com/source/asia/2026/05/26/india-and-ais-inflection-point"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779196262000,
-            "date": "2026-05-19",
-            "title": "Introducing new Surface devices built for business and AI acceleration",
-            "summary_kr": "마이크로소프트가 기업용 최신 인텔 코어 울트라 시리즈 3 프로세서를 탑재한 새로운 Surface Pro 및 Laptop을 출시하며, 보안과 AI 성능을 강화한 비즈니스 컴퓨팅 환경을 제시했습니다.",
-            "summary_en": "Microsoft has launched new Surface Pro and Laptop models powered by Intel Core Ultra Series 3 processors, offering enhanced security and on-device AI performance tailored for modern enterprise needs.",
-            "link": "https://blogs.windows.com/devices/?p=263818"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780093863000,
-            "date": "2026-05-30",
-            "title": "DynoSim: Simulating the Pareto Frontier",
-            "summary_kr": "NVIDIA가 공개한 'DynoSim'은 LLM 서빙 스택의 복잡한 최적화 변수를 가상 환경에서 정밀하게 시뮬레이션하여, 대규모 인프라 자원 소모 없이 시스템 성능을 1,500배 빠르게 예측하고 최적화할 수 있는 솔루션입니다.",
-            "summary_en": "NVIDIA's 'DynoSim' is a high-fidelity, discrete-event simulator that enables rapid optimization of complex LLM serving stacks by modeling system performance 1,500x faster than real-time without requiring extensive physical hardware deployment.",
-            "link": "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780070400000,
-            "date": "2026-05-30",
-            "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit",
-            "summary_kr": "엔비디아의 모델 카드 생성기(MCG) 툴킷은 소스 데이터를 기반으로 AI 모델 문서를 자동으로 표준화하여 생성함으로써, 복잡해지는 규제 환경 속에서 개발자의 문서화 부담을 줄이고 투명성을 강화합니다.",
-            "summary_en": "NVIDIA's Model Card Generator (MCG) toolkit automates and standardizes AI model documentation by extracting data directly from source code, helping teams meet rigorous regulatory requirements and enhance transparency efficiently.",
-            "link": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780056000000,
-            "date": "2026-05-29",
-            "title": "Boston Children’s uses AI to unlock new diagnoses",
-            "summary_kr": "보스턴 어린이병원은 AI를 단순한 도구가 아닌 핵심 인프라로 통합하여, 40건 이상의 희귀 질환을 진단하고 6만 시간의 운영 효율성을 창출하며 의료 서비스의 질과 접근성을 혁신했습니다.",
-            "summary_en": "Boston Children’s Hospital has integrated AI as a core enterprise infrastructure, successfully diagnosing over 40 rare conditions and saving 60,000 operational hours to enhance clinical and administrative efficiency.",
-            "link": "https://openai.com/index/boston-childrens-hospital"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780056000000,
-            "date": "2026-05-29",
-            "title": "How Braintrust turns customer requests into code with Codex",
-            "summary_kr": "브레인트러스트(Braintrust)는 코덱스(Codex)를 도입해 고객의 기능 요청을 수 분 내에 코드로 구현하고, 실시간 피드백 루프를 구축하여 개발 실험의 속도와 효율성을 극적으로 개선했습니다.",
-            "summary_en": "Braintrust has integrated Codex into its workflow to transform customer feature requests into functional code in minutes, significantly accelerating iteration cycles and enabling real-time collaborative experimentation.",
-            "link": "https://openai.com/index/braintrust"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780013231000,
-            "date": "2026-05-29",
-            "title": "Run Step 3.7 Flash on NVIDIA GPUs with Enterprise&#x2d;Ready Multimodal AI",
-            "summary_kr": "StepFun의 새로운 멀티모달 모델 'Step 3.7 Flash'는 엔비디아의 가속 인프라와 NIM, NeMo 프레임워크를 통해 기업 환경에서 대규모 실시간 추론 및 에이전트 워크플로우를 구현합니다.",
-            "summary_en": "StepFun’s new 'Step 3.7 Flash' multimodal model leverages NVIDIA’s accelerated infrastructure, NIM microservices, and the NeMo framework to enable enterprise-scale real-time inference and agentic workflows.",
-            "link": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai"
         }
     ]
 }
