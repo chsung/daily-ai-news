@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-11 18:21:23",
+    "last_update": "2026-06-12 07:28:31",
     "articles": [
+        {
+            "title": "Report: As AI electricity demands soar, Microsoft weighs retreat from ambitious carbon-free energy pledge - GeekWire",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0FOLW0ySDVRUG1idER1WVVYZnJzYXhYSnNNV3E3b1B0OXVKZzVuSk95R1Q3eHc1VVBHQTlwUEREdjlyUmhZNnNyWmM0RjRJRTJic2hIdDdrY21YSG9OSEIyTG1xbk02dDh4d25QUnVJVHVIdHctLXAwY2dIVEhHRklzV3JvTktzTjlMMHpnaHBvbHNmQVZId2JENFhaQldxc0hKZnFaREpkMWlfcjhlRk9jRnZJN0NFZ3lxYjZMWWQzQVczaVhUTGl3MXc2Zmc?oc=5",
+            "summary_en": "Microsoft is considering scaling back its carbon-free energy goals as the electricity demands for its AI operations increase significantly.",
+            "timestamp": 1778174944000
+        },
+        {
+            "title": "iOS 27 will let you choose between Gemini, Claude, and more for AI features: report - 9to5Mac",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFphY2dRLXVQREgwT0VBSm1SUUlMR0U5VTI3U3N5bDJYTVNvSm1nSWdHSl9LVjdtdzhld0R6TEJ1MmE1bERaU0E2aEVvVE03Z1V6LTZNd0IzeUhZS0xRcHhoNnB5VWpFc0FtVFJSTlNyWm1OQy15aVpxWUE2bno0QXJ2SXprcm9mSlNMVFVOX2ROSGRNaGZHMjg3cTlRRjNxZUNHLWpCOHlXaG9rMGxJSzln?oc=5",
+            "summary_en": "Future iOS versions are expected to allow users to select their preferred AI services, such as Gemini or Claude, for device features.",
+            "timestamp": 1778003340000
+        },
+        {
+            "title": "Google, PayPal Advocate Crypto Infrastructure for AI Commerce - Let's Data Science",
+            "link": "https://letsdatascience.com/news/google-paypal-advocate-crypto-infrastructure-for-ai-commerce-eebd3906",
+            "summary_en": "Google and PayPal are promoting the use of cryptocurrency and blockchain technology to help autonomous AI agents make payments more efficiently than traditional banking systems.",
+            "timestamp": 1778425801000
+        },
         {
             "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes - VentureBeat",
             "link": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",

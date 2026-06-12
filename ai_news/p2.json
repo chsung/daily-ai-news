@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-11 18:21:23",
+    "last_update": "2026-06-12 07:28:31",
     "articles": [
+        {
+            "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs - Anthropic",
+            "summary_en": "Anthropic has partnered with firms like Blackstone and Goldman Sachs to launch a new company dedicated to integrating the Claude AI model into the operations of mid-sized enterprises lacking internal AI resources.",
+            "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
+            "timestamp": 1777878000000
+        },
+        {
+            "title": "Strengthening Singapore’s AI Future: A New National Partnership - Google DeepMind",
+            "summary_en": "Google DeepMind has launched a new national partnership in Singapore to accelerate frontier AI research in healthcare, scientific discovery, and education. The initiative aims to drive economic growth and public benefit, with projections suggesting a S$3.3 billion increase in economic value by 2040.",
+            "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+            "timestamp": 1779263824000
+        },
+        {
+            "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has released 'Ising,' the first family of open-source quantum AI models designed to improve the calibration and error-correction of quantum processors. By utilizing these models, researchers can achieve up to 2.5x faster performance and 3x higher accuracy in decoding processes compared to industry standards.",
+            "link": "http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+            "timestamp": 1776175526000
+        },
         {
             "title": "Microsoft open-sources tools for designing and testing AI agents - Help Net Security",
             "summary_en": "Microsoft has open-sourced two security tools, Clarity and RAMPART, developed by its internal AI Red Team to standardize the design and testing of AI agents. These tools enable developers to automate adversarial testing and conduct structured design reviews, reducing security remediation time from weeks to hours.",
@@ -582,24 +600,6 @@
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3p1SFVidnhmS2lIcGNTbUEwVmxRVlUwOHpsWlZySmhObzE4MlMyN3NWWjh5MzR2cVNvRGlERVhlS1o3ZVg4b1JnYTZXanA4YjZPZ3JwNlR3VFF6Y2VSaU9FTzVXVlNaczlqZWNYUlFFZXQ2SHdYcTZPOVFscEd6Q3diNlQtVnZCRlJnY2JreHRaUTctOVY0Wll0SlZLYy1zallsOVc3NVNNSjFvUGd2aHlfZjV2X1pvRXRJ?oc=5",
             "summary_en": "Microsoft warns that AI agent frameworks can be vulnerable to remote code execution attacks triggered by malicious prompts.",
             "timestamp": 1778185359000
-        },
-        {
-            "title": "Report: As AI electricity demands soar, Microsoft weighs retreat from ambitious carbon-free energy pledge - GeekWire",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0FOLW0ySDVRUG1idER1WVVYZnJzYXhYSnNNV3E3b1B0OXVKZzVuSk95R1Q3eHc1VVBHQTlwUEREdjlyUmhZNnNyWmM0RjRJRTJic2hIdDdrY21YSG9OSEIyTG1xbk02dDh4d25QUnVJVHVIdHctLXAwY2dIVEhHRklzV3JvTktzTjlMMHpnaHBvbHNmQVZId2JENFhaQldxc0hKZnFaREpkMWlfcjhlRk9jRnZJN0NFZ3lxYjZMWWQzQVczaVhUTGl3MXc2Zmc?oc=5",
-            "summary_en": "Microsoft is considering scaling back its carbon-free energy goals as the electricity demands for its AI operations increase significantly.",
-            "timestamp": 1778174944000
-        },
-        {
-            "title": "iOS 27 will let you choose between Gemini, Claude, and more for AI features: report - 9to5Mac",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFphY2dRLXVQREgwT0VBSm1SUUlMR0U5VTI3U3N5bDJYTVNvSm1nSWdHSl9LVjdtdzhld0R6TEJ1MmE1bERaU0E2aEVvVE03Z1V6LTZNd0IzeUhZS0xRcHhoNnB5VWpFc0FtVFJSTlNyWm1OQy15aVpxWUE2bno0QXJ2SXprcm9mSlNMVFVOX2ROSGRNaGZHMjg3cTlRRjNxZUNHLWpCOHlXaG9rMGxJSzln?oc=5",
-            "summary_en": "Future iOS versions are expected to allow users to select their preferred AI services, such as Gemini or Claude, for device features.",
-            "timestamp": 1778003340000
-        },
-        {
-            "title": "Google, PayPal Advocate Crypto Infrastructure for AI Commerce - Let's Data Science",
-            "link": "https://letsdatascience.com/news/google-paypal-advocate-crypto-infrastructure-for-ai-commerce-eebd3906",
-            "summary_en": "Google and PayPal are promoting the use of cryptocurrency and blockchain technology to help autonomous AI agents make payments more efficiently than traditional banking systems.",
-            "timestamp": 1778425801000
         }
     ]
 }

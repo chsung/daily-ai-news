@@ -1,6 +1,30 @@
 {
-    "last_update": "2026-06-11 18:20:42",
+    "last_update": "2026-06-12 07:27:48",
     "articles": [
+        {
+            "title": "오픈AI, 사이버 방어 플랫폼 ‘데이브레이크’ 공개…앤트로픽 ‘미토스’ 대항마 - itworld.co.kr",
+            "link": "https://www.itworld.co.kr/article/4170463/%EC%98%A4%ED%94%88ai-%EC%82%AC%EC%9D%B4%EB%B2%84-%EB%B0%A9%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8D%B0%EC%9D%B4%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC-%EA%B3%B5%EA%B0%9C%EC%95%A4.html",
+            "summary_kr": "오픈AI가 앤트로픽의 미토스에 대응하고자 사이버 위협 탐지 및 패치 생성 기능을 갖춘 보안 플랫폼 데이브레이크를 공개했으며, 시스코·오라클 등과 협력해 엔터프라이즈 환경에서의 사이버 방어 생태계 구축에 나섰습니다.",
+            "timestamp": 1778638050000
+        },
+        {
+            "title": "메타, AI 개발 확대에 내부 반발·EU 조사 동시 직면 - ppss.kr",
+            "link": "https://www.ppss.kr/news/articleView.html?idxno=295838",
+            "summary_kr": "메타가 AI 에이전트 학습을 위해 직원들의 PC 사용 데이터를 수집하는 과정에서 사내 반발에 직면했으며, 동시에 왓츠앱 내 자사 AI 우선 정책과 관련해 EU 경쟁법 위반 조사로 최대 연 매출 10%의 과징금 위기에 처했습니다.",
+            "timestamp": 1778637600000
+        },
+        {
+            "title": "AI 데이터 폭증 대응…빅테크 5사, 차세대 네트워킹 기술 공동 개발 - cio.com",
+            "link": "https://www.cio.com/article/4169814/ai-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8F%AD%EC%A6%9D-%EB%8C%80%EC%9D%91%EB%B9%85%ED%85%8C%ED%81%AC-5%EC%82%AC-%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%EA%B8%B0%EC%88%A0.html",
+            "summary_kr": "오픈AI와 주요 빅테크 5사가 협력해 개발한 ‘MRC(Multipath Reliable Connection)’ 프로토콜은 10만 개 이상의 GPU가 연결된 초대형 학습 환경에서 데이터를 수백 개의 경로로 분산 전송함으로써 네트워크 병목과 장애로 인한 학습 중단을 방지하고 GPU 활용률을 극대화한다.",
+            "timestamp": 1778562565000
+        },
+        {
+            "title": "AI로 만든 제로데이 공격 코드 첫 포착…구글 “취약점 전쟁 이미 시작” - 뉴스탭",
+            "link": "https://www.newstap.co.kr/news/articleView.html?idxno=326889",
+            "summary_kr": "구글 위협 인텔리전스 그룹은 AI를 활용해 실제 작동 가능한 제로데이 취약점 공격 코드를 개발하고 이를 대규모 캠페인에 적용하려는 공격 사례가 포착됨에 따라, 국가 배후 세력 및 범죄 집단이 AI를 이용한 사이버 공격의 속도와 정교함을 높이는 '취약점 전쟁'이 본격화됐다고 경고했다.",
+            "timestamp": 1778591013000
+        },
         {
             "title": "구글, 양자컴퓨팅·AI로 생명과학 판 바꾼다 - 양자신문",
             "link": "https://www.quantumtimes.net/news/articleView.html?idxno=56344",
@@ -576,30 +600,6 @@
             "link": "https://www.newstopkorea.com/news/articleView.html?idxno=44601",
             "summary_kr": "메타와 마이크로소프트는 '슈퍼인텔리전스' 개발 등 공격적인 AI 투자로 인한 비용 부담을 줄이기 위해 메타의 대규모 해고와 마이크로소프트의 자발적 퇴직 프로그램 도입처럼 인력 구조를 효율적으로 재편하고 있습니다.",
             "timestamp": 1777014000000
-        },
-        {
-            "title": "구글, TPU 키우고 엔비디아도 품었다…AI 인프라 양손 전략[구글 클라우드 넥스트 2026] - v.daum.net",
-            "link": "https://v.daum.net/v/5hxQ2lQ9WU",
-            "summary_kr": "구글은 학습용과 추론용으로 기능을 세분화한 8세대 TPU를 통해 자체 연산 성능을 극대화하는 한편, 엔비디아의 최신 GPU를 통합하고 클라우드 간 데이터 분석 경계를 허무는 멀티클라우드 전략으로 AI 인프라 시장의 주도권을 강화합니다.",
-            "timestamp": 1776927600000
-        },
-        {
-            "title": "오픈AI, 업무까지 대신하는 챗GPT '워크스페이스 에이전트' 공개 - 디지털투데이",
-            "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=659540",
-            "summary_kr": "오픈AI가 비즈니스 및 엔터프라이즈 사용자를 위해 출시한 '워크스페이스 에이전트'는 슬랙 등 외부 도구와 연동하여 팀 단위의 복잡한 업무를 스스로 처리하고 협업 과정을 자동화하는 기업용 AI 협업 툴입니다.",
-            "timestamp": 1776927600000
-        },
-        {
-            "title": "LG AI연구원-엔비디아 경영진 회동… ‘산업 특화 AI’ 공동 개발 합의 - 더에이아이",
-            "link": "http://www.newstheai.com/news/articleView.html?idxno=20582",
-            "summary_kr": "LG AI연구원이 엔비디아와 협력해 엑사원(EXAONE)과 네모트론(Nemotron) 오픈 에코시스템을 결합한 산업 특화 AI 모델을 공동 개발하기로 했으며, 이를 통해 비전언어모델(VLM) 기술력을 바탕으로 글로벌 ‘소버린 AI’ 시장에서의 영향력 확대를 꾀합니다.",
-            "timestamp": 1776841200000
-        },
-        {
-            "title": "SKT, AI모델 A.X K2 개발에 엔비디아 솔루션 활용 - 지디넷코리아",
-            "link": "https://zdnet.co.kr/view/?no=20260422093359",
-            "summary_kr": "SK텔레콤이 엔비디아와의 장기적인 기술 협력을 통해 차세대 AI 모델 'A.X K2' 개발에 엔비디아의 데이터셋과 프레임워크를 활용하고 있으며, 이를 통해 대규모 언어 모델의 학습 안정성과 성능을 고도화하고 있습니다.",
-            "timestamp": 1776841200000
         }
     ]
 }
