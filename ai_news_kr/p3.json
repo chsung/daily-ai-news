@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-12 07:27:48",
+    "last_update": "2026-06-12 17:40:24",
     "articles": [
+        {
+            "title": "\"AI 신약 개발 가속\"...구글의 아이소모픽, 3조 투자 유치 - AI타임스",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=210466",
+            "summary_kr": "구글 딥마인드에서 분사한 아이소모픽 랩스가 알파폴드 기술을 기반으로 신약 개발을 가속화하기 위해 스라이브 캐피털 등이 주도한 21억 달러 규모의 투자를 유치했으며, 당초 2025년 목표였던 임상 진입 시점은 2026년 말로 조정했습니다.",
+            "timestamp": 1778657678000
+        },
+        {
+            "title": "SAP, 앤트로픽과 동맹 확장...\"클로드로 AI에이전트 개발 쉽게\" - 디지털투데이",
+            "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=665362",
+            "summary_kr": "SAP가 연례 컨퍼런스 사파이어 2026에서 고객사들이 앤트로픽의 클로드 모델을 활용해 AI 에이전트를 더 쉽게 구축하고 SAP 애플리케이션과 원활하게 연동할 수 있도록 협력을 대폭 강화했습니다.",
+            "timestamp": 1778645762000
+        },
+        {
+            "title": "구글, AI 중심 ‘구글북’ 공개 임박...노트북 시장 판도 변화 예고 - 레디앙",
+            "link": "https://www.redian.org/news/articleView.html?idxno=256575",
+            "summary_kr": "구글이 제미나이 AI를 운영체제 전반에 통합해 사용자 작업을 자동화하는 차세대 노트북 플랫폼 구글북을 준비 중이며, 이는 단순 하드웨어 성능 경쟁을 넘어 AI 생태계 주도권을 확보하려는 전략으로 풀이됩니다.",
+            "timestamp": 1778650929000
+        },
         {
             "title": "오픈AI, 사이버 방어 플랫폼 ‘데이브레이크’ 공개…앤트로픽 ‘미토스’ 대항마 - itworld.co.kr",
             "link": "https://www.itworld.co.kr/article/4170463/%EC%98%A4%ED%94%88ai-%EC%82%AC%EC%9D%B4%EB%B2%84-%EB%B0%A9%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8D%B0%EC%9D%B4%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC-%EA%B3%B5%EA%B0%9C%EC%95%A4.html",
@@ -582,24 +600,6 @@
             "link": "https://www.aitimes.kr/news/articleView.html?idxno=39760",
             "summary_kr": "메타가 아마존웹서비스(AWS)의 '그라비톤5' CPU 코어를 수천만 개 도입하며, 스스로 사고하고 실행하는 '에이전틱 AI'를 위한 연산 인프라를 확장해 GPU 중심 구조에서 벗어난 멀티 아키텍처 전략을 본격화했습니다.",
             "timestamp": 1777100400000
-        },
-        {
-            "title": "오픈AI, 에이전틱·코딩·맥락 강화한 'GPT-5.5' 출시 - 전자신문",
-            "link": "https://www.etnews.com/20260424000020",
-            "summary_kr": "오픈AI가 공개한 차세대 모델 'GPT-5.5'는 에이전트형 코딩과 복잡한 추론 작업에서 경쟁 모델보다 압도적인 정확도와 효율성을 입증하며, 토큰 효율성을 최적화해 성능 저하 없이 경제성을 높인 것이 핵심입니다.",
-            "timestamp": 1777014000000
-        },
-        {
-            "title": "오토메타, 시리즈 A 105억 원 유치…온톨로지 기반 AI 엔터프라이즈 플랫폼 ‘Zenith AI’ 고도화 - 플래텀(Platum)",
-            "link": "https://platum.kr/archives/285802",
-            "summary_kr": "오토메타는 온톨로지 엔진을 활용해 기업의 업무 지식을 소프트웨어 개발 과정에 반영하고 자동화하는 'Zenith AI' 플랫폼을 앞세워 105억 원 규모의 시리즈 A 투자를 유치하며 글로벌 시장 공략을 가속화합니다.",
-            "timestamp": 1777014000000
-        },
-        {
-            "title": "메타·MS, AI 투자 확대 속 인력 재편 가속 - 뉴스톱",
-            "link": "https://www.newstopkorea.com/news/articleView.html?idxno=44601",
-            "summary_kr": "메타와 마이크로소프트는 '슈퍼인텔리전스' 개발 등 공격적인 AI 투자로 인한 비용 부담을 줄이기 위해 메타의 대규모 해고와 마이크로소프트의 자발적 퇴직 프로그램 도입처럼 인력 구조를 효율적으로 재편하고 있습니다.",
-            "timestamp": 1777014000000
         }
     ]
 }

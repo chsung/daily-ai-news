@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-12 07:28:31",
+    "last_update": "2026-06-12 17:41:02",
     "articles": [
+        {
+            "title": "University of Nebraska Deploys NSF-Funded ‘PLUMAGE’ GPU Infrastructure for AI Research - HPCwire",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVpIOW95RW84VFMyX2lHdmE5SWFIcUZneC1ubUFQY0JsRDZSWkhPbnhxMkFGWGw5aldVLUY1THRCSnYzdHNLYXIxVU1FLWhjMDBPalBEUnBkNVNWLVdVeDNOcnlPN2lsTUswNVNvT3pmSllHM0VpS2FqNnlmNEpNSmNEdlVLdEZVVFFYMDU5UkluZ2F2V2ZYekQwS2VXd3F6S2hRclE5MTBkcXFMTlBUOFhRRjdVZ1ZBM1Qya29pVQ?oc=5",
+            "summary_en": "The University of Nebraska has launched a new GPU infrastructure called PLUMAGE to support advanced AI research.",
+            "timestamp": 1778261972000
+        },
+        {
+            "title": "Ai2's NSF OMAI Cluster Is Live. Here's What It Means for Open AI. - The AI Economy | Ken Yeung",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jRUYzRWhyT1F1QmJOVmV3WEpqY3BSTDdPX2hNMDYyUVloNG9kLTQtVW5XZ0xSdXZXUUltUE1xSmhMdEU2RXgzRVgtaGl2dnpiR0k2a0M3QzBVV2EtYUVJVm9vam1tXzJjY2pjdUtibjNvYnlIQnd6LQ?oc=5",
+            "summary_en": "The launch of Ai2's NSF OMAI cluster marks a significant development for the growth and accessibility of open-source AI research.",
+            "timestamp": 1778204160000
+        },
+        {
+            "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks - Microsoft",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3p1SFVidnhmS2lIcGNTbUEwVmxRVlUwOHpsWlZySmhObzE4MlMyN3NWWjh5MzR2cVNvRGlERVhlS1o3ZVg4b1JnYTZXanA4YjZPZ3JwNlR3VFF6Y2VSaU9FTzVXVlNaczlqZWNYUlFFZXQ2SHdYcTZPOVFscEd6Q3diNlQtVnZCRlJnY2JreHRaUTctOVY0Wll0SlZLYy1zallsOVc3NVNNSjFvUGd2aHlfZjV2X1pvRXRJ?oc=5",
+            "summary_en": "Microsoft warns that AI agent frameworks can be vulnerable to remote code execution attacks triggered by malicious prompts.",
+            "timestamp": 1778185359000
+        },
         {
             "title": "Report: As AI electricity demands soar, Microsoft weighs retreat from ambitious carbon-free energy pledge - GeekWire",
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0FOLW0ySDVRUG1idER1WVVYZnJzYXhYSnNNV3E3b1B0OXVKZzVuSk95R1Q3eHc1VVBHQTlwUEREdjlyUmhZNnNyWmM0RjRJRTJic2hIdDdrY21YSG9OSEIyTG1xbk02dDh4d25QUnVJVHVIdHctLXAwY2dIVEhHRklzV3JvTktzTjlMMHpnaHBvbHNmQVZId2JENFhaQldxc0hKZnFaREpkMWlfcjhlRk9jRnZJN0NFZ3lxYjZMWWQzQVczaVhUTGl3MXc2Zmc?oc=5",
