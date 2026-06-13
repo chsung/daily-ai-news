@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-12 17:40:24",
+    "last_update": "2026-06-13 07:02:46",
     "articles": [
+        {
+            "title": "“AI가 윈도 취약점 직접 찾았다”…DARPA 우승 이끈 김태수, MS 보안 혁신 주도 - 이데일리",
+            "link": "https://www.edaily.co.kr/News/Read?newsId=04831446645448920&mediaCodeNo=257",
+            "summary_kr": "마이크로소프트의 김태수 부사장이 DARPA AIxCC 우승 기술을 기반으로 개발한 AI 보안 시스템 'MDASH'를 통해 윈도의 치명적인 보안 취약점 16개를 발견하는 등 AI가 주도하는 소프트웨어 자동 보안 시대를 열고 있습니다.",
+            "timestamp": 1778735990000
+        },
+        {
+            "title": "엔비디아, '알파고' 주역과 협업...스스로 발전하는 차세대 강화학습 설계 - AI타임스",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=210528",
+            "summary_kr": "엔비디아가 '알파고'의 주역 데이비드 실버가 설립한 이네퍼블 인텔리전스와 협력하여, 인간 데이터 학습을 넘어 스스로 새로운 지식을 발견하는 차세대 강화학습 시스템 구축에 나섭니다.",
+            "timestamp": 1778748366000
+        },
+        {
+            "title": "'메타 AI' 1년 만에 국내 출시...'뮤즈 스파크' 기반 - AI타임스",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=210484",
+            "summary_kr": "메타가 자체 모델 '뮤즈 스파크'를 기반으로 하는 생성형 AI 서비스 '메타 AI'를 국내에 공식 출시하며, 한국어 서비스 고도화와 함께 사진 분석 및 문서 요약 등 멀티모달 기능을 제공합니다.",
+            "timestamp": 1778706000000
+        },
         {
             "title": "\"AI 신약 개발 가속\"...구글의 아이소모픽, 3조 투자 유치 - AI타임스",
             "link": "https://www.aitimes.com/news/articleView.html?idxno=210466",
@@ -582,24 +600,6 @@
             "link": "https://biz.chosun.com/it-science/ict/2026/04/24/Z2NRH7NWU5FRTG3WJTNHVOYKXU/",
             "summary_kr": "구글이 GPU 의존도를 낮추기 위해 다층형 AI 인프라 전략을 추진하며 독자적인 AI 반도체 생태계를 구축해 업계의 기술 지각변동을 주도하고 있습니다.",
             "timestamp": 1777014000000
-        },
-        {
-            "title": "[글로벌] 메타 10% 해고·MS 희망퇴직...AI 투자 비용 부담에 빅테크 감원 계속 - 테크M",
-            "link": "https://www.techm.kr/news/articleView.html?idxno=151335",
-            "summary_kr": "메타가 전체 직원의 10%인 8,000명을 해고하고 마이크로소프트가 희망퇴직 프로그램을 가동하는 등 빅테크 기업들이 AI 인프라 투자에 따른 막대한 비용 부담을 상쇄하기 위해 대규모 인력 감축을 단행하고 있습니다.",
-            "timestamp": 1777100400000
-        },
-        {
-            "title": "탐색전 마친 빅테크…빅파마와 신약 개발 팩토리 구축한다 - 서울경제",
-            "link": "https://www.sedaily.com/article/20036366",
-            "summary_kr": "빅테크 기업들이 신약 개발 과정에 AI를 도입해 개발 기간을 최대 60% 단축하고 비용을 70%까지 절감하는 '신약 개발 팩토리'를 구축하며, 단순 기술 협력을 넘어 공동 개발 및 지분 투자 방식으로 제약사와 전방위적 협력 체계를 강화하고 있습니다.",
-            "timestamp": 1777014000000
-        },
-        {
-            "title": "메타, ‘에이전틱 AI’ 인프라에 CPU 대규모 확장… AWS, 수천만 개 '그라비톤 칩' 도입 - 인공지능신문",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=39760",
-            "summary_kr": "메타가 아마존웹서비스(AWS)의 '그라비톤5' CPU 코어를 수천만 개 도입하며, 스스로 사고하고 실행하는 '에이전틱 AI'를 위한 연산 인프라를 확장해 GPU 중심 구조에서 벗어난 멀티 아키텍처 전략을 본격화했습니다.",
-            "timestamp": 1777100400000
         }
     ]
 }

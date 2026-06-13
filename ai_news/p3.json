@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-12 17:41:02",
+    "last_update": "2026-06-13 07:03:44",
     "articles": [
+        {
+            "title": "Donating our open-source alignment tool - Anthropic",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelFNcm9saDVyMk9peWVCZVFOSnlQVFhCSF9qWElLdFVNNUstMGtwX1hNNlBFQm1qbnFDbGxFQVZSWm5LRFJVVHZQaXZ2TnZ5UWZwc0RpV2tMTzBJZVpxd0FteGdWbktKenZ1dDN3?oc=5",
+            "summary_en": "Anthropic is donating its open-source tool designed to improve AI alignment.",
+            "timestamp": 1778187973000
+        },
+        {
+            "title": "Meta taps AWS chips, adds teen AI safety tools amid privacy debate - MSN",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeS1qalNaeWdpTWwzenlhS2NQQ0RUb2hJWTlocUpBQklYUU14Nm1fZnJZSUlQTzJia2RmRjh4d2xOMjljek1fbE5yLVhBVk5KeWlOT2xSX0NOUTRjNEJuRjZ4T2p1bUdlNUxFd2ZrQ2I4SE9JbW1EVkxsamtmOFJTcXZwV0V2Zi1aelVnbmFHXzNsSndST3VGb1BIVjNuX1RFUWdzUlFvdHdKT0NHTnBqNUxqNHJJSkFQUU1BQnpTVFAtUElZNkhFTk12VGQ?oc=5",
+            "summary_en": "Meta is using AWS chips for its AI projects while introducing new safety tools for teens amid ongoing privacy discussions.",
+            "timestamp": 1778296365000
+        },
+        {
+            "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes - VentureBeat",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDVxd0FOUXlQdzlvR3otaTdjYkJtdXl5OXNTUXNNTW5MMjJXUnRqdGkwMVVYTUdWQ2tCZFZlcjhZOTBpdU9WYnJobkNHUGI1N3NDb0JBQUFzOGRjRkJCYWNqckhaMF9nLUJpdmZVaEZGbmtjd3plalVyR3dqWnJjMlNxS1BiSG5TTDNscEx5dUM5ZUdubktaWFRCdlExclNDdUlTakVlUFVQSlhkLUFnbHBDRUlsc193aGJvNURCQWo?oc=5",
+            "summary_en": "Anthropic created a 'dreaming' system that helps AI agents improve by learning from their past mistakes.",
+            "timestamp": 1778199001000
+        },
         {
             "title": "University of Nebraska Deploys NSF-Funded ‘PLUMAGE’ GPU Infrastructure for AI Research - HPCwire",
             "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVpIOW95RW84VFMyX2lHdmE5SWFIcUZneC1ubUFQY0JsRDZSWkhPbnhxMkFGWGw5aldVLUY1THRCSnYzdHNLYXIxVU1FLWhjMDBPalBEUnBkNVNWLVdVeDNOcnlPN2lsTUswNVNvT3pmSllHM0VpS2FqNnlmNEpNSmNEdlVLdEZVVFFYMDU5UkluZ2F2V2ZYekQwS2VXd3F6S2hRclE5MTBkcXFMTlBUOFhRRjdVZ1ZBM1Qya29pVQ?oc=5",
