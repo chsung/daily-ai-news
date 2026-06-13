@@ -1,6 +1,40 @@
 {
-    "last_update": "2026-06-12 17:57:08",
+    "last_update": "2026-06-13 17:06:45",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1779040800000,
+            "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.",
+            "summary_kr": "구글 딥마인드가 아시아 태평양 지역의 환경 난제 해결을 위해 'AI for the Planet' 액셀러레이터 프로그램을 신설하고 스타트업 및 연구팀을 지원합니다.",
+            "summary_en": "Google DeepMind is launching the 'AI for the Planet' accelerator program in APAC to empower startups and researchers in leveraging frontier AI for climate and environmental solutions.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779030000000,
+            "title": "Anthropic acquires Stainless",
+            "summary_kr": "앤스로픽이 SDK 개발 전문 기업인 Stainless를 인수하여 AI 에이전트와 외부 시스템 간의 연결성을 강화하고 클로드(Claude) 생태계의 기술적 완성도를 높입니다.",
+            "summary_en": "Anthropic has acquired Stainless, a specialist in SDK and MCP server tooling, to improve the connectivity and integration capabilities of its Claude platform with external systems and developer tools.",
+            "link": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779030000000,
+            "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
+            "summary_kr": "오픈AI와 델 테크놀로지스가 협력하여 기업용 AI 모델인 Codex를 델의 온프레미스 인프라에서 구동할 수 있도록 지원하며, 보안이 중요한 환경에서도 AI 에이전트 배치를 가속화합니다.",
+            "summary_en": "OpenAI and Dell Technologies are collaborating to integrate OpenAI's Codex into Dell’s enterprise-grade infrastructure, enabling businesses to deploy AI agents securely within their own on-premises and hybrid data environments.",
+            "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+            "date": "2026-05-18"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1778857200000,
+            "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+            "summary_kr": "오픈AI와 몰타 정부가 세계 최초로 시민 대상 'ChatGPT Plus' 무료 제공 프로그램을 발표하며, AI 리터러시 교육을 통해 국가 차원의 디지털 역량 강화를 추진합니다.",
+            "summary_en": "OpenAI and the Maltese government have launched a pioneering initiative to provide all citizens with free access to ChatGPT Plus, contingent upon completing a national AI literacy course to enhance public AI adoption.",
+            "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+            "date": "2026-05-16"
+        },
         {
             "company": "xAI",
             "timestamp": 1778803200000,
@@ -799,38 +833,6 @@
             "summary_kr": "엔비디아 FLARE는 복잡한 코드 수정 없이도 데이터 보안을 유지하며 연합 학습을 구현할 수 있도록 지원하여 기업의 머신러닝 개발 효율성을 높였습니다.",
             "summary_en": "NVIDIA FLARE now enables efficient federated learning by allowing developers to integrate existing training scripts into a secure, distributed runtime with minimal code changes, effectively removing common refactoring barriers.",
             "link": "https://developer.nvidia.com/blog/federated-learning-without-the-refactoring-overhead-using-nvidia-flare"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1776956400000,
-            "title": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
-            "summary_kr": "앤스로픽과 NEC가 전략적 파트너십을 체결하고, NEC 직원 3만 명을 대상으로 클로드를 도입하여 일본 시장 맞춤형 AI 솔루션을 개발합니다.",
-            "summary_en": "Anthropic and NEC have formed a strategic partnership to deploy Claude to 30,000 NEC employees and co-develop industry-specific, secure AI solutions for the Japanese market.",
-            "link": "https://www.anthropic.com/news/anthropic-nec"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1776956400000,
-            "title": "An update on our election safeguards",
-            "summary_kr": "앤스로픽은 다가오는 미국 중간선거 등을 대비해 클로드의 정치적 중립성을 강화하고, 오남용 방지 테스트에서 99% 이상의 높은 정확도를 확보했습니다.",
-            "summary_en": "Anthropic is enhancing Claude's political neutrality and safety measures for upcoming global elections, reporting that its models achieved up to 100% accuracy in identifying and declining harmful, election-related misuse.",
-            "link": "https://www.anthropic.com/news/election-safeguards-update"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1776949200000,
-            "title": "3 creative tips from our Flow Sessions artists",
-            "summary_kr": "구글의 'Flow Sessions'는 다양한 분야의 아티스트들과의 협업을 통해 AI 도구 'Flow'가 단순한 영상 제작을 넘어 창의적 실험과 개인적 서사 표현의 확장 도구로 활용될 수 있음을 입증했습니다.",
-            "summary_en": "Google's 'Flow Sessions' program demonstrates that the AI tool 'Flow' serves as a collaborative catalyst, empowering artists across diverse fields to transcend traditional filmmaking through experimentation and personal storytelling.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-sessions-artists-lessons"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1776905281000,
-            "title": "Cricket Australia uses AI Insights to bring fans closer to the action - Source Asia",
-            "summary_kr": "크리켓 오스트레일리아가 마이크로소프트와 협력하여 경기 중 실시간 데이터를 역사적 기록과 결합해 팬들에게 깊이 있는 맥락을 제공하는 AI 인사이트 기능을 도입했습니다.",
-            "summary_en": "Cricket Australia has integrated AI Insights, powered by Microsoft Azure OpenAI, to provide fans with real-time, context-rich narratives that bridge historical statistics with live match action.",
-            "link": "https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action"
         }
     ]
 }

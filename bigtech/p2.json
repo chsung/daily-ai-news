@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-06-12 17:57:08",
+    "last_update": "2026-06-13 17:06:45",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1778519968000,
+            "date": "2026-05-12",
+            "title": "SocialReasoning Bench shows the limits of today’s AI agents",
+            "summary_kr": "SocialReasoning-Bench는 AI 에이전트의 사회적 추론 능력을 평가하며, 현재의 최첨단 모델들이 사용자의 이익을 대변하는 협상 및 조정 작업에서 여전히 최적의 결과를 도출하지 못하고 있음을 밝혀냈습니다.",
+            "summary_en": "SocialReasoning-Bench evaluates the social reasoning capabilities of AI agents, revealing that current frontier models struggle to effectively advocate for users' interests in negotiation and coordination tasks.",
+            "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1780071773000,
+            "date": "2026-05-30",
+            "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+            "summary_kr": "Data Formulator 0.7은 파편화된 기업 데이터를 통합하고 AI 에이전트를 통해 비코딩 기반의 대화형 데이터 분석 및 시각화를 지원하는 오픈소스 플랫폼입니다.",
+            "summary_en": "Data Formulator 0.7 is an open-source platform that unifies fragmented enterprise data and leverages AI agents to enable code-free, interactive data analysis and visualization.",
+            "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1780063636000,
+            "date": "2026-05-29",
+            "title": "Copilot Health: Now in Preview | Microsoft Copilot Blog",
+            "summary_kr": "마이크로소프트가 개인의 건강 기록과 웨어러블 데이터를 통합해 맞춤형 의료 인사이트를 제공하는 'Copilot Health'의 프리뷰 버전을 미국에서 출시했습니다. 이 서비스는 보안과 신뢰성을 최우선으로 하여 임상 전문가와 협력해 설계되었으며, 사용자의 건강 데이터를 체계적으로 관리하고 안내합니다.",
+            "summary_en": "Microsoft has launched the preview of 'Copilot Health' in the U.S., a secure platform that integrates personal health records and wearable data to provide personalized, clinically-informed insights. Developed with medical professionals, the tool emphasizes user privacy and evidence-based guidance to help navigate health management.",
+            "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/05/29/copilot-health-now-in-preview"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779990944000,
+            "date": "2026-05-29",
+            "title": "Introducing a new design for Microsoft 365 Copilot | Microsoft 365 Blog",
+            "summary_kr": "마이크로소프트는 사용자 의도에 맞춰 작업 흐름을 최적화하고 생산성을 높이기 위해 365 Copilot의 인터페이스를 '작업 인식형 워크스페이스'로 전면 개편했습니다.",
+            "summary_en": "Microsoft has redesigned the 365 Copilot interface into a task-aware workspace to better align with user intent and streamline workflows for improved productivity.",
+            "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1779915317000,
@@ -813,40 +849,6 @@
             "summary_kr": "xAI의 Grok이 사용자의 작업 환경을 기억하고 전문 문서를 작성하는 'Skills' 기능을 출시하여 반복적인 설정 없이도 고품질의 보고서와 스프레드시트 생성이 가능해졌습니다.",
             "summary_en": "xAI has launched 'Skills' for Grok, which allows the AI to remember user preferences and formatting rules across sessions to autonomously generate professional-grade documents, slide decks, and spreadsheets.",
             "link": "https://x.ai/news/grok-skills"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779040800000,
-            "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks.",
-            "summary_kr": "구글 딥마인드가 아시아 태평양 지역의 환경 난제 해결을 위해 'AI for the Planet' 액셀러레이터 프로그램을 신설하고 스타트업 및 연구팀을 지원합니다.",
-            "summary_en": "Google DeepMind is launching the 'AI for the Planet' accelerator program in APAC to empower startups and researchers in leveraging frontier AI for climate and environmental solutions.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779030000000,
-            "title": "Anthropic acquires Stainless",
-            "summary_kr": "앤스로픽이 SDK 개발 전문 기업인 Stainless를 인수하여 AI 에이전트와 외부 시스템 간의 연결성을 강화하고 클로드(Claude) 생태계의 기술적 완성도를 높입니다.",
-            "summary_en": "Anthropic has acquired Stainless, a specialist in SDK and MCP server tooling, to improve the connectivity and integration capabilities of its Claude platform with external systems and developer tools.",
-            "link": "https://www.anthropic.com/news/anthropic-acquires-stainless"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779030000000,
-            "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments",
-            "summary_kr": "오픈AI와 델 테크놀로지스가 협력하여 기업용 AI 모델인 Codex를 델의 온프레미스 인프라에서 구동할 수 있도록 지원하며, 보안이 중요한 환경에서도 AI 에이전트 배치를 가속화합니다.",
-            "summary_en": "OpenAI and Dell Technologies are collaborating to integrate OpenAI's Codex into Dell’s enterprise-grade infrastructure, enabling businesses to deploy AI agents securely within their own on-premises and hybrid data environments.",
-            "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-            "date": "2026-05-18"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778857200000,
-            "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-            "summary_kr": "오픈AI와 몰타 정부가 세계 최초로 시민 대상 'ChatGPT Plus' 무료 제공 프로그램을 발표하며, AI 리터러시 교육을 통해 국가 차원의 디지털 역량 강화를 추진합니다.",
-            "summary_en": "OpenAI and the Maltese government have launched a pioneering initiative to provide all citizens with free access to ChatGPT Plus, contingent upon completing a national AI literacy course to enhance public AI adoption.",
-            "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-            "date": "2026-05-16"
         }
     ]
 }
