@@ -219,6 +219,13 @@ EXCLUDE_DOMAINS = (
     GLOBAL_SOCIAL_GOSSIP_DOMAINS
 )
 
+# 4. 빅테크 직접 수집 도메인 (영문 뉴스 수집 시 중복 방지용)
+GLOBAL_BIGTECH_DOMAINS = [
+    "openai.com", "anthropic.com", "blog.google", "deepmind.google",
+    "microsoft.com", "nvidia.com", "nvidianews.nvidia.com", "x.ai",
+    "meta.com", "ai.meta.com"
+]
+
 PAYWALL_KEYWORDS = [
     "subscribe to read", "log in to continue", "please subscribe", 
     "for subscribers only", "to continue reading this article", 
@@ -282,9 +289,9 @@ CONFIGS = [
     },
     {
         "lang_name": "English",
-        "max_rss_items": 40,
-        "query": "AI AND (OpenAI OR ChatGPT OR Google OR DeepMind OR Meta OR Microsoft OR Nvidia OR Anthropic OR Claude OR Apple OR Amazon OR AWS) AND (Research OR Development OR Trend OR Strategy OR Release OR Regulation OR Innovation) -investing -\"stock price\" -\"market watch\" -\"analyst rating\" when:12h",
-        "rss_params": "hl=en-US&gl=US&ceid=US:en",
+        "max_rss_items": 50,
+        "query": "AI AND (OpenAI OR ChatGPT OR Google OR DeepMind OR Meta OR Microsoft OR Nvidia OR Anthropic OR Claude OR Apple OR Amazon OR AWS) AND (Research OR Development OR Trend OR Strategy OR Release OR Regulation OR Innovation) when:12h",
+        "rss_params": "hl=en&gl=US&ceid=US:en",
         "output_dir": "ai_news",
         "prompt1": """You are a world-class AI industry analyst and chief news editor.
 Here are the titles of {count} AI news articles collected today. 
@@ -379,7 +386,23 @@ for config in CONFIGS:
                 pass
     
         status = "후보"
-        if should_exclude_link(entry.link, EXCLUDE_DOMAINS):
+        is_past_article = False
+        pub_date = entry.get("published", "")
+        if pub_date:
+            try:
+                dt = email.utils.parsedate_to_datetime(pub_date)
+                timestamp_ms = int(dt.timestamp() * 1000)
+                current_ms = int(time.time() * 1000)
+                if current_ms - timestamp_ms > 172800000:  # 48 * 3600 * 1000
+                    is_past_article = True
+            except Exception:
+                pass
+
+        if is_past_article:
+            status = "제외-과거"
+        elif config["lang_name"] == "English" and should_exclude_link(entry.link, GLOBAL_BIGTECH_DOMAINS):
+            status = "제외-bigtech"
+        elif should_exclude_link(entry.link, EXCLUDE_DOMAINS):
             status = "제외-필터"
         else:
             norm_link = normalize_link(entry.link)
