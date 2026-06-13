@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-13 07:03:44",
+    "last_update": "2026-06-13 16:20:09",
     "articles": [
+        {
+            "title": "US bans Anthropic from exporting most advanced AI systems to other countries - The Jerusalem Post",
+            "summary_en": "The US government has ordered Anthropic to suspend access to its most advanced AI models, Fable 5 and Mythos 5, for foreign nationals due to national security concerns regarding potential 'jailbreaks' that could identify software vulnerabilities. This directive marks a significant shift in US export policy, moving from restricting physical hardware to directly regulating access to sophisticated AI software.",
+            "link": "https://www.jpost.com/business-and-innovation/all-news/article-899253",
+            "timestamp": 1781355311000,
+            "date": "2026-06-13"
+        },
+        {
+            "title": "ChatGPT hits a billion monthly app users despite souring public AI sentiment - CNBC",
+            "summary_en": "Despite cooling public sentiment and ethical concerns, OpenAI's ChatGPT has become the fastest app in history to reach one billion monthly active users. While ChatGPT remains the market leader, competitors like Anthropic's Claude are experiencing triple-digit growth as users increasingly migrate toward models perceived as having different ethical stances, particularly following OpenAI's partnership with the Pentagon.",
+            "link": "https://www.cnbc.com/2026/06/12/chatgpt-a-billion-monthly-app-users-despite-souring-public-ai-sentiment.html",
+            "timestamp": 1781244336000,
+            "date": "2026-06-12"
+        },
+        {
+            "title": "Coinbase’s new tool can help agents trade and pay for premium research | TechCrunch - TechCrunch",
+            "summary_en": "Coinbase has launched an AI agent tool that allows users to automate crypto trades and pay for premium research data using the open x402 payment protocol. By integrating exchange access with native payment capabilities, the platform aims to empower agents to transact independently within a growing 'agentic economy' while providing users with sandbox-controlled security options.",
+            "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading",
+            "timestamp": 1781197200000,
+            "date": "2026-06-11"
+        },
         {
             "title": "OpenAI buys Ona to help rein in AI agents - InfoWorld",
             "summary_en": "OpenAI has acquired cloud development environment provider Ona for an estimated $450-500 million to provide secure, persistent sandboxes for enterprise AI agents. This strategic move aims to address organizational security concerns and counter competition from Anthropic’s managed agent offerings.",
@@ -673,24 +694,6 @@
             "summary_en": "Google has launched Agent Executor, an open-source runtime designed to solve the reliability challenges of long-running, distributed AI agent workflows in enterprise environments. By providing durable execution and state recovery, the tool aims to bridge the gap between AI prototyping and production-grade stability.",
             "link": "https://www.infoworld.com/article/4176801/google-adds-open-source-agent-executor-to-support-ai-agents-in-production.html",
             "timestamp": 1779733787000
-        },
-        {
-            "title": "Classified Networks AI Agreements - U.S. Department of War (.gov)",
-            "summary_en": "The U.S. Department of War has initiated agreements regarding the deployment and integration of artificial intelligence within classified networks. Further details remain restricted due to the sensitive nature of the defense infrastructure involved.",
-            "link": "https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/",
-            "timestamp": 1777618800000
-        },
-        {
-            "title": "Anthropic Plans Public Release of Mythos-Class AI Bug Finder Once Safeguards Are Ready - gHacks",
-            "summary_en": "Anthropic plans to release its Mythos-class AI, which has already identified over 23,000 software vulnerabilities, to the public once sufficient safeguards are established. The model currently operates under Project Glasswing, where its high-volume bug reporting has pressured security maintainers to request slower disclosure rates.",
-            "link": "https://www.ghacks.net/2026/05/26/anthropic-plans-public-release-of-mythos-class-ai-bug-finder-once-safeguards-are-ready/",
-            "timestamp": 1779779661000
-        },
-        {
-            "title": "Google Unveils ERA AI To Accelerate Expert-level Scientific Research - Dataconomy",
-            "summary_en": "Google has introduced Empirical Research Assistance (ERA), an AI tool powered by Gemini that utilizes tree-search methods to automate coding and testing for scientific research. Published in the journal Nature, the tool is now available via a trusted tester program to assist in complex fields like genomics and neuroscience.",
-            "link": "https://dataconomy.com/2026/05/26/google-era-ai-expert-level-scientific-research/",
-            "timestamp": 1779768040000
         }
     ]
 }

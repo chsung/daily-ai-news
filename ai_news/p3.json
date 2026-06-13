@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-13 07:03:44",
+    "last_update": "2026-06-13 16:20:09",
     "articles": [
+        {
+            "title": "Publishers sue Meta platforms over alleged AI training piracy - Research Information",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWTFLcWhob1V1eThNRHRQSlVGM0U0TDl2RlZNMGU2aVdld0R6NF91SmpaZlVnNzJOWnVMWHVXRHBPQ0Y3VHduRi03QVE0Ykh2WGFwc01Rd0hlbE1IODVRVFJWS1AyRHhoLUN3eUVVUHVOblNQNnhoejR2RmF2aGh1bzZ3SmpMdGJWTjdKVmVSUy1CVnRJWjB1cTZER252TVlYUDBqREU2OA?oc=5",
+            "summary_en": "Publishers are taking legal action against Meta, accusing the company of using their content to train AI models without authorization.",
+            "timestamp": 1778058808000
+        },
+        {
+            "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber - OpenAI",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uWlJsdDkxQ0wzdE1rb19ZYXlmLWNBbmFNRTY1a1RqYkNqUlJCalV6V0tiLWw0VERlZGxlZlBrRjRlRUkyUzRZc0dRZVBzMFNhUkYwVERMM1p5ZGotWjBQTFBTSEtsc1UyYWlmTE1UMzQ?oc=5",
+            "summary_en": "OpenAI is introducing new GPT-5.5 models specifically designed to improve cybersecurity and trusted access.",
+            "timestamp": 1778191698000
+        },
+        {
+            "title": "Google highlights Apple's AI strategy: Gemini to drive its next-generation models - MSN",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObk54ZWJ4Tlg2bWNldmhkOFg3bEhORkdYSXZBa016WnFDUldSTWdzQmJadzRqcUVaN1pydXFvN1BNZmhBYXJ6VkY2RUNheFNrOGZxY2tsTkZDdFhBUHVwbW9zbjgtTzdOY1Nzb1NXRlhHaWpjSU1TZ0ttRHpaX1RfeDBsNl9yVzhRLTUtejFhZjJBRW5aV1JRVnRkMVJjeGNpcTU4WVRYTnZSSl9rS0Zfay1Ranh6X3VBZU5KaHpTYnhkaEw1SHNqMzFCdUhwcm5Z?oc=5",
+            "summary_en": "Google reports that Apple plans to use Gemini technology to power its upcoming generation of AI models.",
+            "timestamp": 1778315145000
+        },
         {
             "title": "Donating our open-source alignment tool - Anthropic",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DelFNcm9saDVyMk9peWVCZVFOSnlQVFhCSF9qWElLdFVNNUstMGtwX1hNNlBFQm1qbnFDbGxFQVZSWm5LRFJVVHZQaXZ2TnZ5UWZwc0RpV2tMTzBJZVpxd0FteGdWbktKenZ1dDN3?oc=5",

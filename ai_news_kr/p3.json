@@ -1,6 +1,12 @@
 {
-    "last_update": "2026-06-13 07:02:46",
+    "last_update": "2026-06-13 16:19:22",
     "articles": [
+        {
+            "title": "‘알파폴드’ 아이소모픽, 시리즈B 21억弗 “역대급 펀딩” - 바이오스펙테이터",
+            "link": "https://www.biospectator.com/news/view/28716",
+            "summary_kr": "알파벳의 AI 신약개발 자회사 아이소모픽 랩스가 시리즈B 라운드에서 AI 기반 신약개발 분야 역대 최대 규모인 21억 달러를 유치하며, 자체 AI 엔진 개발과 신약 후보물질의 임상 진입 가속화에 나섭니다.",
+            "timestamp": 1778707440000
+        },
         {
             "title": "“AI가 윈도 취약점 직접 찾았다”…DARPA 우승 이끈 김태수, MS 보안 혁신 주도 - 이데일리",
             "link": "https://www.edaily.co.kr/News/Read?newsId=04831446645448920&mediaCodeNo=257",
@@ -593,12 +599,6 @@
             "title": "오픈AI, 복잡한 업무 처리 능력 높인 AI 모델 'GPT-5.5' 공개...코딩·리서치·문서 작업까지 - 인공지능신문",
             "link": "https://www.aitimes.kr/news/articleView.html?idxno=39741",
             "summary_kr": "오픈AI가 코딩, 데이터 분석, 컴퓨터 조작 등 복잡한 실무를 자율적으로 수행하는 AI 모델 'GPT-5.5'를 공개했으며, 성능 지표인 Terminal-Bench 2.0에서 82.7%, OSWorld-Verified에서 78.7%를 기록하는 등 효율성과 안전성을 대폭 강화했습니다.",
-            "timestamp": 1777014000000
-        },
-        {
-            "title": "“GPU 대체하는 다층형 AI 인프라”…구글이 쏘아올린 AI 반도체 지각변동 - 조선비즈 - Chosunbiz",
-            "link": "https://biz.chosun.com/it-science/ict/2026/04/24/Z2NRH7NWU5FRTG3WJTNHVOYKXU/",
-            "summary_kr": "구글이 GPU 의존도를 낮추기 위해 다층형 AI 인프라 전략을 추진하며 독자적인 AI 반도체 생태계를 구축해 업계의 기술 지각변동을 주도하고 있습니다.",
             "timestamp": 1777014000000
         }
     ]
