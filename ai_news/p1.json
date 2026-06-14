@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-14 07:28:12",
+    "last_update": "2026-06-14 16:28:41",
     "articles": [
+        {
+            "title": "Anthropic Pulls Its Most Powerful AI Models After U.S. Bars Foreign Access - Time Magazine",
+            "summary_en": "Anthropic has disabled its powerful Fable 5 and Mythos 5 models following a U.S. government export-control directive citing national security concerns and alleged vulnerabilities. The order marks a significant escalation in federal regulation, as the government seeks to prevent foreign adversaries from accessing high-capability AI models.",
+            "link": "https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security",
+            "timestamp": 1781373017000,
+            "date": "2026-06-13"
+        },
+        {
+            "title": "Meta says its old open AI strategy no longer works - Startup Fortune",
+            "summary_en": "Meta has shifted away from its open-weights 'Llama' strategy for its newest model, Muse Spark, keeping it closed due to uncontainable safety risks in areas like chemical and biological threats. This transition signals that even historically open-source proponents are moving toward restricted access models as frontier AI performance levels introduce higher dual-use dangers.",
+            "link": "https://startupfortune.com/meta-says-its-old-open-ai-strategy-no-longer-works",
+            "timestamp": 1781423979000,
+            "date": "2026-06-14"
+        },
         {
             "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
             "summary_en": "Anthropic has suspended its Claude Fable 5 and Mythos 5 models following US government concerns regarding potential jailbreaking vulnerabilities. The UK's AI Security Institute reported that the model could successfully exploit system defenses 73% of the time, raising significant national security fears.",
@@ -684,18 +698,6 @@
             "summary_en": "NVIDIA has launched its Agent Toolkit, featuring the OpenShell runtime and AI-Q blueprint, to provide developers with secure, open-source tools for building autonomous enterprise AI agents. By utilizing a hybrid model architecture, the platform aims to enhance agentic efficiency and reduce query costs by over 50% compared to standard approaches.",
             "link": "http://nvidianews.nvidia.com/news/ai-agents",
             "timestamp": 1773644400000
-        },
-        {
-            "title": "Project Genie: Experimenting with infinite, interactive worlds - blog.google",
-            "summary_en": "Google has opened access to Project Genie, an experimental prototype powered by the Genie 3 world model that allows users to create, explore, and remix real-time interactive 3D environments. This research initiative represents a significant step toward developing AGI capable of simulating complex physics and dynamic interactions across diverse scenarios.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
-            "timestamp": 1769673600000
-        },
-        {
-            "title": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research - infoq.com",
-            "summary_en": "Microsoft has introduced MDASH, a multi-model agentic platform designed to automate large-scale security auditing by coordinating over 100 specialized AI agents. The system achieved a 88.45% success rate on the CyberGym benchmark, marking a strategic shift toward model-agnostic orchestration for complex codebase validation.",
-            "link": "https://www.infoq.com/news/2026/05/microsoft-mdash/",
-            "timestamp": 1779726608000
         }
     ]
 }

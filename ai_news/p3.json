@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-14 07:28:12",
+    "last_update": "2026-06-14 16:28:41",
     "articles": [
+        {
+            "title": "Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims - MSN",
+            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOYVR6WnRXNEkyaHktQjF0anJsOVRubnQ5ejE4RS04bkJVd3gtUGlRbTN3Ml9mNWpXSU5aVVNIRk5jUWw4c1FvY2tFeUxEaTJHNzcwcGRfbXRVMm83UWEzUVpFLWp5YlJJdDNrbGttTW9VdUh4TVNpQXFmRy1UVXEzYkxBM29Kci01VkxUb0FVLXJ0VFFHdzJ5NTBCTEZDWkZBUmZHYlVBb3RGdzNNY29NamhFeUxiZ09ZRmx4RlZxUlh4YVlpRnRqYzFvSXg5TTgxQUZxN0NVUTJsMHZ0MGxNbG1VQnNsTXZoQmZLb1RYejNoRDlrd1JlcENkbTU3d1UwUjdFa0ZSdWJPNmRxWXdkVXBQRDRsTkJPS0ZXV01lcVZ2SW5Ga2xtZDUtWjdKNUhRWjJMVm1lczUtOHdxcTA4UFJWeUxrMDNod2lhOVZSN0Fpd1NQYXJxV3ZHbm0wMU1wWlBqYU5KYmlQaXM2QUpRQzJEYTJTMXRxcHNhN2RrT0JnUWNMYkM1SV9JV2k0eEdHY0M1LUdkQnZVT3RjNFNZUzJwYVpoTlRk?oc=5",
+            "summary_en": "Reports suggest that Google Chrome is automatically downloading a large 4GB AI model to users' computers without seeking their permission.",
+            "timestamp": 1778386180000
+        },
+        {
+            "title": "Microsoft’s new research finds an AI ‘paradox’ holding companies back - MSN",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU25PZlNFbzFQQUdEUzRLMDdGSGh0TDhadTduSVNXckxqOVBZOUE5TTJWdkg3a0pNZzlsVTg3UmRZRTBHWm9odzdBM09xbkdQeVJSQVQ0b2pienN3Tzc3di1XNU9aVFZjZmNrNy1WVTVTMDVXWDR5MEV6X0dfbHZnX0NoMC0zTEFOV2FUQ0NGMVRuVzNrWXZEVm9yRWJxSmFEWWZFQmFvVkpxNGM0emtzOG5EWVJiVnlqblI4?oc=5",
+            "summary_en": "New Microsoft research identifies an AI paradox that is preventing many companies from fully benefiting from the technology.",
+            "timestamp": 1778203280000
+        },
         {
             "title": "How Anthropic’s Mythos threw the White House AI strategy into chaos - MSN",
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHNkcms2QkVBcjVYc1ZRRTFTVUdXcGpqQ2tFQTMzZVVubHNJa29MX2dlemxtaGFpUi1XNUw1QlBmY29oSFBZMm10Wl9PY283cVFIQ3p0T2hQZkwtUFFBRXN4Q2p5eVNRSXVLVm9SblFEd1dycWVWc3hmWDdiX0QzT3R6TkhoeFdDdmlid0dGR3dwaldybTJldy1xTERxc182c3R1SUdYdWxIdFJVZjBCNVMxWkROaWt5SjlFVWNGU1VsVUhJRVVuNkhNazNtalk?oc=5",

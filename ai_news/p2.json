@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-14 07:28:12",
+    "last_update": "2026-06-14 16:28:41",
     "articles": [
+        {
+            "title": "Project Genie: Experimenting with infinite, interactive worlds - blog.google",
+            "summary_en": "Google has opened access to Project Genie, an experimental prototype powered by the Genie 3 world model that allows users to create, explore, and remix real-time interactive 3D environments. This research initiative represents a significant step toward developing AGI capable of simulating complex physics and dynamic interactions across diverse scenarios.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+            "timestamp": 1769673600000
+        },
+        {
+            "title": "Microsoft Introduces MDASH for Large-Scale AI Vulnerability Research - infoq.com",
+            "summary_en": "Microsoft has introduced MDASH, a multi-model agentic platform designed to automate large-scale security auditing by coordinating over 100 specialized AI agents. The system achieved a 88.45% success rate on the CyberGym benchmark, marking a strategic shift toward model-agnostic orchestration for complex codebase validation.",
+            "link": "https://www.infoq.com/news/2026/05/microsoft-mdash/",
+            "timestamp": 1779726608000
+        },
         {
             "title": "Pope Leo says AI must be 'disarmed' in first major teaching - BBC",
             "summary_en": "Pope Leo’s new encyclical, 'Magnificent Humanity,' warns that AI must be 'disarmed' to prevent 'digital slaveries' and the normalization of human exploitation. The document specifically decries the use of AI in autonomous weaponry and calls for developers to accept greater ethical responsibility for their design choices.",
@@ -588,18 +600,6 @@
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSml6azgyUTBTaTRRRXJodWVHclE1bGhMOHlscUdRZzBFRklxeGJWTmtHUi1uQ3pxU2k1VFF6Z2UzOHllaE05UFluNGdPMkViQnp5Y3pfdTl6NDhnQnNQUjVQeS1CQy1JUkp5V3loTWY2LU51YzF4X0tiTE5GamZVZDVLS1ZTUFpkM2ExTEczVGN6VTZXZDJnMl9XQkZYS0lJbXc5X3Z6dWZSeGY3dENCcG43VHNYczh3dGRj?oc=5",
             "summary_en": "A report claims that Anthropic’s new internal model, Mythos, is creating confusion regarding the White House's artificial intelligence strategy.",
             "timestamp": 1778239536000
-        },
-        {
-            "title": "Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims - MSN",
-            "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOYVR6WnRXNEkyaHktQjF0anJsOVRubnQ5ejE4RS04bkJVd3gtUGlRbTN3Ml9mNWpXSU5aVVNIRk5jUWw4c1FvY2tFeUxEaTJHNzcwcGRfbXRVMm83UWEzUVpFLWp5YlJJdDNrbGttTW9VdUh4TVNpQXFmRy1UVXEzYkxBM29Kci01VkxUb0FVLXJ0VFFHdzJ5NTBCTEZDWkZBUmZHYlVBb3RGdzNNY29NamhFeUxiZ09ZRmx4RlZxUlh4YVlpRnRqYzFvSXg5TTgxQUZxN0NVUTJsMHZ0MGxNbG1VQnNsTXZoQmZLb1RYejNoRDlrd1JlcENkbTU3d1UwUjdFa0ZSdWJPNmRxWXdkVXBQRDRsTkJPS0ZXV01lcVZ2SW5Ga2xtZDUtWjdKNUhRWjJMVm1lczUtOHdxcTA4UFJWeUxrMDNod2lhOVZSN0Fpd1NQYXJxV3ZHbm0wMU1wWlBqYU5KYmlQaXM2QUpRQzJEYTJTMXRxcHNhN2RrT0JnUWNMYkM1SV9JV2k0eEdHY0M1LUdkQnZVT3RjNFNZUzJwYVpoTlRk?oc=5",
-            "summary_en": "Reports suggest that Google Chrome is automatically downloading a large 4GB AI model to users' computers without seeking their permission.",
-            "timestamp": 1778386180000
-        },
-        {
-            "title": "Microsoft’s new research finds an AI ‘paradox’ holding companies back - MSN",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU25PZlNFbzFQQUdEUzRLMDdGSGh0TDhadTduSVNXckxqOVBZOUE5TTJWdkg3a0pNZzlsVTg3UmRZRTBHWm9odzdBM09xbkdQeVJSQVQ0b2pienN3Tzc3di1XNU9aVFZjZmNrNy1WVTVTMDVXWDR5MEV6X0dfbHZnX0NoMC0zTEFOV2FUQ0NGMVRuVzNrWXZEVm9yRWJxSmFEWWZFQmFvVkpxNGM0emtzOG5EWVJiVnlqblI4?oc=5",
-            "summary_en": "New Microsoft research identifies an AI paradox that is preventing many companies from fully benefiting from the technology.",
-            "timestamp": 1778203280000
         }
     ]
 }
