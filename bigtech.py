@@ -255,10 +255,9 @@ def add_bigtech_candidate(company, title, link, pub_date="", timestamp_ms=None, 
     normalized_url = normalize_link(link)
     if normalized_url not in existing_bigtech_links:
         # 3. 기사 발행일이 7일이 지났으면 리스트에서 제거 (오래된 과거 기사는 후보군에 들어오는 것을 원천 사전 차단)
-        # 단, 글 작성 주기가 상대적으로 느린 Microsoft와 NVIDIA는 30일 범위까지 예외 허용
         if timestamp_ms is not None:
             age_days = (current_time - (timestamp_ms / 1000)) / (24 * 3600)
-            allowed_days = 60 if company in ["Microsoft", "NVIDIA", "Meta", "xAI"] else 7
+            allowed_days = 7
             if age_days > allowed_days:
                 return
                 
