@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-06-13 17:06:45",
+    "last_update": "2026-06-15 19:37:50",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1779840000000,
+            "date": "2026-05-27",
+            "title": "Use Grok in Kilo Code",
+            "summary_kr": "오픈소스 에이전트형 코딩 플랫폼인 Kilo Code가 xAI의 Grok 모델을 통합하여, 사용자가 별도의 API 키 없이도 프리미엄 구독을 통해 즉시 고급 코딩 기능을 활용할 수 있게 되었습니다.",
+            "summary_en": "Open-source agentic coding platform Kilo Code has integrated xAI's Grok models, allowing users to leverage advanced coding capabilities directly through their existing X Premium+ or SuperGrok subscriptions without needing separate API keys.",
+            "link": "https://x.ai/news/grok-kilocode"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1779667200000,
+            "date": "2026-05-25",
+            "title": "Introducing Grok Build",
+            "summary_kr": "xAI는 터미널 기반의 AI 코딩 에이전트인 'Grok Build'의 얼리 베타 버전을 출시하여, 복잡한 개발 작업과 자동화 프로세스를 효율적으로 지원합니다.",
+            "summary_en": "xAI has launched an early beta of 'Grok Build,' a powerful terminal-based coding agent designed to streamline complex software engineering tasks and automation workflows.",
+            "link": "https://x.ai/news/grok-build-cli"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779897600000,
+            "date": "2026-05-28",
+            "title": "Extending human intelligence through AI",
+            "summary_kr": "현대 AI는 인간의 지능을 대체하는 것이 아니라 인간 인지와 언어에 이미 내재된 구조를 확장하는 도구이며, 이러한 관점은 AI의 강력한 능력과 한계를 동시에 설명합니다.",
+            "summary_en": "Modern AI is best understood not as a replacement for human intelligence, but as an extension of structures rooted in human cognition and language, which clarifies both its capabilities and inherent limitations.",
+            "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1778868417000,
+            "date": "2026-05-16",
+            "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability - Microsoft Research",
+            "summary_kr": "마이크로소프트는 AI에게 복잡한 작업을 위임할 때 정보 손실이 누적될 수 있음을 지적하며, 장기적인 워크플로우에서 AI의 신뢰성을 확보하기 위한 정교한 검증 시스템과 추가 연구의 필요성을 강조했습니다.",
+            "summary_en": "Microsoft highlights that delegating long-horizon tasks to AI can lead to cumulative fidelity degradation, emphasizing the need for robust verification systems and further research to ensure reliable AI collaboration.",
+            "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1778688020000,
+            "date": "2026-05-14",
+            "title": "GridSFM: Small foundation model boosts power grid optimization",
+            "summary_kr": "마이크로소프트가 공개한 'GridSFM'은 전력망의 복잡한 최적화 문제를 밀리초 단위로 해결하여 운영 효율성을 극대화하고 전력망 관리의 패러다임을 사후 대응에서 사전 최적화로 전환합니다.",
+            "summary_en": "Microsoft's 'GridSFM' is a lightweight foundation model that solves complex AC optimal power flow problems in milliseconds, enabling proactive grid optimization and significantly reducing congestion costs and energy curtailment.",
+            "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1778590800000,
+            "date": "2026-05-12",
+            "title": "MatterSim expands materials discovery with faster simulation and a new multi-task model",
+            "summary_kr": "MatterSim은 추론 속도를 대폭 개선하고 새로운 멀티태스킹 모델을 출시하며 소재 탐색의 효율성을 높였으며, 실제 실험을 통해 고성능 열전도체 예측의 정확성을 입증했습니다.",
+            "summary_en": "MatterSim has accelerated simulation speeds and introduced a new multi-task foundation model, while experimentally validating its capacity to accurately predict high-performance thermal conductors.",
+            "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1778519968000,
@@ -798,57 +852,6 @@
             "summary_kr": "호주의 요양 서비스 업체 Regis는 마이크로소프트의 Copilot 기반 'RegiCare Assist'를 도입하여 방대한 임상 기록 요약 업무를 자동화하고 의료진이 환자 케어에 집중할 수 있도록 지원합니다.",
             "summary_en": "Australian aged care provider Regis has deployed 'RegiCare Assist,' built on Microsoft Copilot Studio, to automate the summarization of extensive clinical reports, allowing staff to focus more on direct resident care.",
             "link": "https://news.microsoft.com/source/asia/features/at-aged-care-provider-regis-ai-takes-on-paperwork-so-staff-can-focus-on-residents"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779116400000,
-            "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-            "summary_kr": "오픈AI는 콘텐츠의 출처와 수정 이력을 투명하게 관리하기 위해 C2PA 표준 준수 및 구글의 워터마킹 기술인 '신스ID(SynthID)'를 결합한 다중 레이어 보안 모델을 도입했습니다.",
-            "summary_en": "OpenAI has adopted a multi-layered security approach to enhance content transparency by integrating C2PA standards with Google's 'SynthID' watermarking technology to track AI-generated media.",
-            "link": "https://openai.com/index/advancing-content-provenance",
-            "date": "2026-05-19"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779116400000,
-            "title": "Introducing OpenAI for Singapore",
-            "summary_kr": "오픈AI가 싱가포르 정부와 파트너십을 맺고 3억 싱가포르 달러 이상을 투자해 해외 첫 '응용 AI 연구소(Applied AI Lab)'를 설립합니다. 이를 통해 싱가포르를 글로벌 AI 허브로 육성하고, 공공·금융·의료 분야의 현장 중심 AI 기술을 고도화할 계획입니다.",
-            "summary_en": "OpenAI is partnering with the Singaporean government, investing over S$300 million to establish its first overseas Applied AI Lab in Singapore. The initiative aims to position Singapore as a global AI hub while advancing field-oriented AI solutions in public services, finance, and healthcare.",
-            "link": "https://openai.com/index/introducing-openai-for-singapore",
-            "date": "2026-05-19"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779116400000,
-            "date": "2026-05-19",
-            "title": "May 19, 2026 Announcements Widening the conversation on frontier AI",
-            "summary_kr": "앤스로픽은 프론티어 AI의 안전하고 유익한 발전을 위해 종교, 철학, 학계 등 다양한 분야의 전문가들과 협력하여 AI의 윤리적 가치관과 도덕적 형성을 체계화하고 있습니다.",
-            "summary_en": "Anthropic is engaging with diverse religious, philosophical, and professional experts to integrate a broad range of perspectives into the ethical foundation and moral formation of their frontier AI systems.",
-            "link": "https://www.anthropic.com/news/widening-conversation-ai"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779116400000,
-            "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
-            "summary_kr": "앤스로픽은 기업 보안을 강화하기 위해 클로드(Claude) 관리형 에이전트에 자가 호스팅 샌드박스와 MCP 터널 기능을 추가하여 기업 내부 데이터와 폐쇄망 내에서 안전한 AI 실행을 지원합니다.",
-            "summary_en": "Anthropic has introduced self-hosted sandboxes and MCP tunnels for Claude Managed Agents, enabling enterprises to maintain strict security controls by running AI tool execution and data access within their own private infrastructure.",
-            "link": "https://claude.com/blog/claude-managed-agents-updates"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779116400000,
-            "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-            "summary_kr": "KPMG가 앤스로픽과 글로벌 파트너십을 맺고 27만 6천 명 이상의 전 세계 임직원에게 클로드(Claude)를 도입하여 업무 생산성 향상 및 고객 서비스 혁신에 나섭니다.",
-            "summary_en": "KPMG has entered a global alliance with Anthropic to integrate Claude into its 'Digital Gateway' platform, granting all 276,000+ global employees access to AI-powered tax, legal, and advisory tools.",
-            "link": "https://www.anthropic.com/news/anthropic-kpmg"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1779062400000,
-            "title": "Skills in web, iOS, and Android",
-            "summary_kr": "xAI의 Grok이 사용자의 작업 환경을 기억하고 전문 문서를 작성하는 'Skills' 기능을 출시하여 반복적인 설정 없이도 고품질의 보고서와 스프레드시트 생성이 가능해졌습니다.",
-            "summary_en": "xAI has launched 'Skills' for Grok, which allows the AI to remember user preferences and formatting rules across sessions to autonomously generate professional-grade documents, slide decks, and spreadsheets.",
-            "link": "https://x.ai/news/grok-skills"
         }
     ]
 }

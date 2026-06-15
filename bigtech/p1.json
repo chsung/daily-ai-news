@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-06-13 17:06:45",
+    "last_update": "2026-06-15 19:37:50",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781546851000,
+            "date": "2026-06-15",
+            "title": "Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes",
+            "summary_kr": "엔비디아 BioNeMo 레시피는 LoRA 기술을 통합하여 방대한 생물학적 파운데이션 모델을 단일 워크스테이션 GPU에서도 효율적으로 미세 조정할 수 있는 최적화된 경로를 제공합니다.",
+            "summary_en": "NVIDIA BioNeMo Recipes leverage LoRA to enable efficient fine-tuning of massive biological foundation models on a single workstation GPU, significantly reducing computational and storage overhead.",
+            "link": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781541941000,
+            "date": "2026-06-15",
+            "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
+            "summary_kr": "CuTe DSL 기반의 고급 융합 커널을 도입하여 MoE 모델의 메모리 및 동기화 병목 현상을 해결함으로써, 훈련 처리량을 최대 2배 향상하고 전체 성능을 크게 개선했습니다.",
+            "summary_en": "The introduction of advanced fused kernels based on CuTe DSL resolves memory and synchronization bottlenecks in MoE models, delivering up to 2x kernel-level speedups and significant end-to-end performance gains.",
+            "link": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781524800000,
+            "date": "2026-06-15",
+            "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
+            "summary_kr": "로봇 학습 분야에서 기존 VLA(비전-언어-행동) 모델의 한계를 극복하기 위해, 사전 학습된 비디오 모델을 활용하는 '월드-액션 모델(WAM)'이 새로운 핵심 패러다임으로 부상하고 있습니다.",
+            "summary_en": "World-Action Models (WAMs), which leverage pretrained video backbones, are emerging as a major paradigm shift in robot foundation models to overcome the grounding limitations of traditional VLM-based VLAs.",
+            "link": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1781481600000,
+            "date": "2026-06-15",
+            "title": "Agent Dashboard in Grok Build",
+            "summary_kr": "Grok Build의 새로운 에이전트 대시보드는 여러 코딩 세션을 한 화면에서 동시에 관리하고, 실시간으로 병렬 작업을 수행하며 필요한 경우에만 개입할 수 있도록 최적화된 워크플로우를 제공합니다.",
+            "summary_en": "The new Agent Dashboard in Grok Build enables users to manage multiple coding sessions simultaneously from a single screen, streamlining parallel task execution and intervention through a centralized, status-driven interface.",
+            "link": "https://x.ai/news/agent-dashboard"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1781481600000,
+            "date": "2026-06-15",
+            "title": "Use Grok in Warp",
+            "summary_kr": "개발자를 위한 터미널 환경인 'Warp'에 X 프리미엄 구독자용 Grok 모델이 통합되어 터미널 내에서 직접 AI 기능을 활용할 수 있게 되었습니다.",
+            "summary_en": "The agentic terminal environment Warp has integrated X Premium's Grok models, enabling developers to leverage advanced AI capabilities directly within their workflow.",
+            "link": "https://x.ai/news/grok-warp"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781456400000,
+            "date": "2026-06-14",
+            "title": "Introducing the OpenAI Partner Network",
+            "summary_kr": "OpenAI는 기업의 AI 도입과 실행을 가속화하기 위해 1억 5천만 달러를 투자하여 글로벌 파트너 네트워크를 구축하고, 전문 컨설턴트 30만 명 양성을 목표로 생태계를 확장합니다.",
+            "summary_en": "OpenAI is launching a $150 million partner network to accelerate enterprise AI adoption by leveraging global partners to deliver tailored solutions and scaling its ecosystem to train 300,000 certified consultants by 2026.",
+            "link": "https://openai.com/index/introducing-openai-partner-network"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1781298760000,
@@ -846,60 +900,6 @@
             "summary_kr": "xAI가 웹 개발과 디버깅 등 에이전트형 코딩 작업에 최적화된 고속·저비용 모델 'Grok Build 0.1'을 API로 공개했습니다.",
             "summary_en": "xAI has launched 'Grok Build 0.1' via API, a high-speed, cost-effective model specifically optimized for agentic coding tasks and tool calling.",
             "link": "https://x.ai/news/grok-build-0-1"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1779840000000,
-            "date": "2026-05-27",
-            "title": "Use Grok in Kilo Code",
-            "summary_kr": "오픈소스 에이전트형 코딩 플랫폼인 Kilo Code가 xAI의 Grok 모델을 통합하여, 사용자가 별도의 API 키 없이도 프리미엄 구독을 통해 즉시 고급 코딩 기능을 활용할 수 있게 되었습니다.",
-            "summary_en": "Open-source agentic coding platform Kilo Code has integrated xAI's Grok models, allowing users to leverage advanced coding capabilities directly through their existing X Premium+ or SuperGrok subscriptions without needing separate API keys.",
-            "link": "https://x.ai/news/grok-kilocode"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1779667200000,
-            "date": "2026-05-25",
-            "title": "Introducing Grok Build",
-            "summary_kr": "xAI는 터미널 기반의 AI 코딩 에이전트인 'Grok Build'의 얼리 베타 버전을 출시하여, 복잡한 개발 작업과 자동화 프로세스를 효율적으로 지원합니다.",
-            "summary_en": "xAI has launched an early beta of 'Grok Build,' a powerful terminal-based coding agent designed to streamline complex software engineering tasks and automation workflows.",
-            "link": "https://x.ai/news/grok-build-cli"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779897600000,
-            "date": "2026-05-28",
-            "title": "Extending human intelligence through AI",
-            "summary_kr": "현대 AI는 인간의 지능을 대체하는 것이 아니라 인간 인지와 언어에 이미 내재된 구조를 확장하는 도구이며, 이러한 관점은 AI의 강력한 능력과 한계를 동시에 설명합니다.",
-            "summary_en": "Modern AI is best understood not as a replacement for human intelligence, but as an extension of structures rooted in human cognition and language, which clarifies both its capabilities and inherent limitations.",
-            "link": "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1778868417000,
-            "date": "2026-05-16",
-            "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability - Microsoft Research",
-            "summary_kr": "마이크로소프트는 AI에게 복잡한 작업을 위임할 때 정보 손실이 누적될 수 있음을 지적하며, 장기적인 워크플로우에서 AI의 신뢰성을 확보하기 위한 정교한 검증 시스템과 추가 연구의 필요성을 강조했습니다.",
-            "summary_en": "Microsoft highlights that delegating long-horizon tasks to AI can lead to cumulative fidelity degradation, emphasizing the need for robust verification systems and further research to ensure reliable AI collaboration.",
-            "link": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1778688020000,
-            "date": "2026-05-14",
-            "title": "GridSFM: Small foundation model boosts power grid optimization",
-            "summary_kr": "마이크로소프트가 공개한 'GridSFM'은 전력망의 복잡한 최적화 문제를 밀리초 단위로 해결하여 운영 효율성을 극대화하고 전력망 관리의 패러다임을 사후 대응에서 사전 최적화로 전환합니다.",
-            "summary_en": "Microsoft's 'GridSFM' is a lightweight foundation model that solves complex AC optimal power flow problems in milliseconds, enabling proactive grid optimization and significantly reducing congestion costs and energy curtailment.",
-            "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1778590800000,
-            "date": "2026-05-12",
-            "title": "MatterSim expands materials discovery with faster simulation and a new multi-task model",
-            "summary_kr": "MatterSim은 추론 속도를 대폭 개선하고 새로운 멀티태스킹 모델을 출시하며 소재 탐색의 효율성을 높였으며, 실제 실험을 통해 고성능 열전도체 예측의 정확성을 입증했습니다.",
-            "summary_en": "MatterSim has accelerated simulation speeds and introduced a new multi-task foundation model, while experimentally validating its capacity to accurately predict high-performance thermal conductors.",
-            "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models"
         }
     ]
 }

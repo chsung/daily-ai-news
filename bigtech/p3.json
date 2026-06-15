@@ -1,6 +1,57 @@
 {
-    "last_update": "2026-06-13 17:06:45",
+    "last_update": "2026-06-15 19:37:50",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1779116400000,
+            "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+            "summary_kr": "오픈AI는 콘텐츠의 출처와 수정 이력을 투명하게 관리하기 위해 C2PA 표준 준수 및 구글의 워터마킹 기술인 '신스ID(SynthID)'를 결합한 다중 레이어 보안 모델을 도입했습니다.",
+            "summary_en": "OpenAI has adopted a multi-layered security approach to enhance content transparency by integrating C2PA standards with Google's 'SynthID' watermarking technology to track AI-generated media.",
+            "link": "https://openai.com/index/advancing-content-provenance",
+            "date": "2026-05-19"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779116400000,
+            "title": "Introducing OpenAI for Singapore",
+            "summary_kr": "오픈AI가 싱가포르 정부와 파트너십을 맺고 3억 싱가포르 달러 이상을 투자해 해외 첫 '응용 AI 연구소(Applied AI Lab)'를 설립합니다. 이를 통해 싱가포르를 글로벌 AI 허브로 육성하고, 공공·금융·의료 분야의 현장 중심 AI 기술을 고도화할 계획입니다.",
+            "summary_en": "OpenAI is partnering with the Singaporean government, investing over S$300 million to establish its first overseas Applied AI Lab in Singapore. The initiative aims to position Singapore as a global AI hub while advancing field-oriented AI solutions in public services, finance, and healthcare.",
+            "link": "https://openai.com/index/introducing-openai-for-singapore",
+            "date": "2026-05-19"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779116400000,
+            "date": "2026-05-19",
+            "title": "May 19, 2026 Announcements Widening the conversation on frontier AI",
+            "summary_kr": "앤스로픽은 프론티어 AI의 안전하고 유익한 발전을 위해 종교, 철학, 학계 등 다양한 분야의 전문가들과 협력하여 AI의 윤리적 가치관과 도덕적 형성을 체계화하고 있습니다.",
+            "summary_en": "Anthropic is engaging with diverse religious, philosophical, and professional experts to integrate a broad range of perspectives into the ethical foundation and moral formation of their frontier AI systems.",
+            "link": "https://www.anthropic.com/news/widening-conversation-ai"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779116400000,
+            "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+            "summary_kr": "앤스로픽은 기업 보안을 강화하기 위해 클로드(Claude) 관리형 에이전트에 자가 호스팅 샌드박스와 MCP 터널 기능을 추가하여 기업 내부 데이터와 폐쇄망 내에서 안전한 AI 실행을 지원합니다.",
+            "summary_en": "Anthropic has introduced self-hosted sandboxes and MCP tunnels for Claude Managed Agents, enabling enterprises to maintain strict security controls by running AI tool execution and data access within their own private infrastructure.",
+            "link": "https://claude.com/blog/claude-managed-agents-updates"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779116400000,
+            "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+            "summary_kr": "KPMG가 앤스로픽과 글로벌 파트너십을 맺고 27만 6천 명 이상의 전 세계 임직원에게 클로드(Claude)를 도입하여 업무 생산성 향상 및 고객 서비스 혁신에 나섭니다.",
+            "summary_en": "KPMG has entered a global alliance with Anthropic to integrate Claude into its 'Digital Gateway' platform, granting all 276,000+ global employees access to AI-powered tax, legal, and advisory tools.",
+            "link": "https://www.anthropic.com/news/anthropic-kpmg"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1779062400000,
+            "title": "Skills in web, iOS, and Android",
+            "summary_kr": "xAI의 Grok이 사용자의 작업 환경을 기억하고 전문 문서를 작성하는 'Skills' 기능을 출시하여 반복적인 설정 없이도 고품질의 보고서와 스프레드시트 생성이 가능해졌습니다.",
+            "summary_en": "xAI has launched 'Skills' for Grok, which allows the AI to remember user preferences and formatting rules across sessions to autonomously generate professional-grade documents, slide decks, and spreadsheets.",
+            "link": "https://x.ai/news/grok-skills"
+        },
         {
             "company": "Google",
             "timestamp": 1779040800000,
@@ -785,54 +836,6 @@
             "summary_kr": "엔비디아는 영상, 음성, 텍스트를 통합하여 추론하는 오픈 모델 '네모트론 3 나노 옴니(Nemotron 3 Nano Omni)'를 출시했습니다. 이 모델은 파편화된 다중 모달 스택을 단일 구조로 대체하여 추론 비용을 낮추고 효율성을 극대화합니다.",
             "summary_en": "NVIDIA released 'Nemotron 3 Nano Omni,' an efficient open-weight model that unifies video, audio, and text reasoning. By replacing fragmented multi-modal stacks, it significantly reduces inference costs and complexity while enhancing performance for enterprise agentic systems.",
             "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-nano-omni-powers-multimodal-agent-reasoning-in-a-single-efficient-open-model"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1777388400000,
-            "title": "24/7 Simulation Loops: How Agentic AI Keeps Subsurface Engineering Moving",
-            "summary_kr": "지하 자원 탐사 산업에서 에이전트 AI를 활용한 24/7 시뮬레이션 루프가 도입되고 있습니다. 이 기술은 수동으로 수행하던 복잡한 데이터 분석과 시뮬레이션 작업을 자동화하여 엔지니어의 업무 효율을 획기적으로 개선합니다.",
-            "summary_en": "The subsurface engineering industry is adopting agentic AI to enable 24/7 automated simulation loops. By offloading repetitive manual tasks and data synthesis to AI agents, companies are accelerating project cycles and freeing human experts for high-level strategic decision-making.",
-            "link": "https://developer.nvidia.com/blog/24-7-simulation-loops-how-agentic-ai-keeps-subsurface-engineering-moving"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1777312452000,
-            "title": "Accenture is rolling out Copilot to a workforce the size of Denver. Here’s how they're doing it. - Source",
-            "summary_kr": "액센추어는 약 74만 명의 직원을 대상으로 마이크로소프트 365 코파일럿을 대규모 도입했습니다. 조사 결과 97%의 직원이 일상 업무 속도가 15배 향상되었다고 응답하며 기업 생산성 도구로서의 가치를 입증했습니다.",
-            "summary_en": "Accenture has completed a massive rollout of Microsoft 365 Copilot to its 743,000-strong global workforce. Data shows that 97% of employees completed routine tasks 15 times faster, demonstrating the significant productivity gains achievable through large-scale AI deployment.",
-            "link": "https://news.microsoft.com/source/features/digital-transformation/accenture-is-rolling-out-copilot-to-a-workforce-the-size-of-denver"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1777305603000,
-            "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
-            "summary_kr": "마이크로소프트는 Azure Local의 확장성을 수천 대의 서버 노드까지 확대하여, 기업과 정부 기관이 데이터 주권과 보안을 유지하면서 대규모 AI 및 미션 크리티컬 워크로드를 자체 환경에서 운영할 수 있도록 지원합니다.",
-            "summary_en": "Microsoft has scaled Azure Local to support thousands of server nodes, enabling organizations to run large-scale AI and mission-critical workloads within their own sovereign environments while maintaining strict data control and regulatory compliance.",
-            "link": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1777302000000,
-            "title": "Claude for Creative Work",
-            "summary_kr": "앤스로픽은 크리에이티브 전문가들이 복잡한 작업 과정을 자동화하고 다양한 도구와 협업할 수 있도록 돕는 클로드용 커넥터 제품군을 출시했습니다.",
-            "summary_en": "Anthropic has released a suite of connectors for Claude, enabling creative professionals to integrate AI directly into their existing software workflows to automate tasks and expand their creative capabilities.",
-            "link": "https://www.anthropic.com/news/claude-for-creative-work"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1777294802000,
-            "title": "The next phase of the Microsoft-OpenAI partnership",
-            "summary_kr": "마이크로소프트와 오픈AI는 파트너십 계약을 개정하여 오픈AI의 멀티 클라우드 전략을 허용하고 마이크로소프트의 기술 라이선스를 비독점적으로 전환하는 등 협력 관계를 보다 유연하고 효율적으로 재편했습니다.",
-            "summary_en": "Microsoft and OpenAI have amended their partnership to increase operational flexibility, allowing OpenAI to pursue a multi-cloud strategy while transitioning Microsoft's AI model licenses to a non-exclusive basis.",
-            "link": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1777042800000,
-            "title": "Federated Learning Without the Refactoring Overhead Using NVIDIA FLARE",
-            "summary_kr": "엔비디아 FLARE는 복잡한 코드 수정 없이도 데이터 보안을 유지하며 연합 학습을 구현할 수 있도록 지원하여 기업의 머신러닝 개발 효율성을 높였습니다.",
-            "summary_en": "NVIDIA FLARE now enables efficient federated learning by allowing developers to integrate existing training scripts into a secure, distributed runtime with minimal code changes, effectively removing common refactoring barriers.",
-            "link": "https://developer.nvidia.com/blog/federated-learning-without-the-refactoring-overhead-using-nvidia-flare"
         }
     ]
 }
