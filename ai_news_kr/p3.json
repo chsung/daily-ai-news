@@ -1,6 +1,30 @@
 {
-    "last_update": "2026-06-14 16:27:39",
+    "last_update": "2026-06-15 09:29:05",
     "articles": [
+        {
+            "title": "설립 6개월 만에 몸값 7조...리커시브, 스스로 진화하는 '재귀적 AI' 도전 - AI타임스",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=210601",
+            "summary_kr": "유닷컴 창업자 리차드 소처가 설립한 AI 스타트업 '리커시브'가 인간 개입 없이 스스로 약점을 분석하고 성능을 개선하는 '재귀적 자기 개선(RSI)' 기술 개발을 목표로 설립 6개월 만에 7조 원의 기업 가치를 인정받으며 투자 유치에 성공했습니다.",
+            "timestamp": 1778927961000
+        },
+        {
+            "title": "챗GPT 기업시장 열린다···韓 SI 빅3 ‘오픈AI 동맹’ 경쟁 - 이뉴스투데이",
+            "link": "http://www.enewstoday.co.kr/news/articleViewAmp.html?idxno=2430071",
+            "summary_kr": "삼성SDS, LG CNS, SK AX 등 국내 SI 대형 3사가 오픈AI와 협력을 강화하며 단순 챗봇 도입을 넘어 기업 업무 시스템과 데이터 거버넌스를 재설계하는 '실행형 AI' 시장 선점 경쟁에 본격적으로 뛰어들었습니다.",
+            "timestamp": 1778913383000
+        },
+        {
+            "title": "오픈AI, '슈퍼 앱' 체제로 경영진 전면 개편…브록먼이 제품 총괄 - AI타임스",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=210597",
+            "summary_kr": "오픈AI가 챗GPT와 코덱스를 통합한 '슈퍼 앱' 개발 및 에이전트 서비스 강화를 위해 그렉 브록먼 사장을 제품 총괄로 임명하는 등 경영진을 전면 개편하고, 컴퓨팅 파워 확보를 위해 추가 투자 유치를 검토하고 있습니다.",
+            "timestamp": 1778892846000
+        },
+        {
+            "title": "아마존, AI 데이터센터 투자 전면 확대...AWS 중심 ‘초거대 인프라 경쟁’ 가속 - 레디앙",
+            "link": "https://www.redian.org/news/articleView.html?idxno=256609",
+            "summary_kr": "아마존은 클라우드 사업부인 AWS를 중심으로 자체 AI 칩인 '트레이니엄'과 '인퍼런시아'를 공급하고 데이터센터 인프라에 막대한 투자를 단행하며, 급증하는 생성형 AI 수요에 대응해 글로벌 AI 인프라 시장 주도권을 노리고 있습니다.",
+            "timestamp": 1778906746000
+        },
         {
             "title": "IPO 앞둔 앤트로픽, 기업가치 1천350조원…3개월 새 또 2.4배 ‘폭등’ - 뉴스로드",
             "link": "http://www.newsroad.co.kr/news/articleViewAmp.html?idxno=59389",
@@ -576,30 +600,6 @@
             "link": "https://www.chosun.com/economy/tech_it/2026/04/28/U5APO6QT2RG6VNACLHJQGAUB6M/",
             "summary_kr": "오픈AI가 앱 실행 없이도 AI 에이전트가 직접 작업을 수행하는 혁신적인 스마트폰 형태의 새로운 AI 기기 출시를 2028년 목표로 추진하고 있습니다.",
             "timestamp": 1777359600000
-        },
-        {
-            "title": "최태원 \"韓 AI 성장하려면 스케일·스피드 중요…엔비디아 전략 카피해야\" - 지디넷코리아",
-            "link": "https://zdnet.co.kr/view/?no=20260428122236",
-            "summary_kr": "최태원 SK그룹 회장은 한국이 미·중 AI 패권 경쟁에서 생존하기 위해 데이터센터 등 인프라의 과감한 투자와 함께, 엔비디아의 전략을 벤치마킹하는 속도감 있는 기술 개발 및 한·일 경제 협력이 필수적이라고 강조했습니다.",
-            "timestamp": 1777359600000
-        },
-        {
-            "title": "텐센트, 오픈AI 출신 과학자 영입 후 차세대 AI 모델 ‘Hy3’ 공개 - cio.com",
-            "link": "https://www.cio.com/article/4164030/%ED%85%90%EC%84%BC%ED%8A%B8-%EC%98%A4%ED%94%88ai-%EC%B6%9C%EC%8B%A0-%EA%B3%BC%ED%95%99%EC%9E%90-%EC%98%81%EC%9E%85-%ED%9B%84-%EC%B0%A8%EC%84%B8%EB%8C%80-ai-%EB%AA%A8%EB%8D%B8-hy3.html",
-            "summary_kr": "텐센트는 오픈AI 출신 과학자 영입과 함께 차세대 모델 'Hy3'를 공개하며 AI 투자액을 연간 50억 달러로 두 배 확대했고, 경쟁사인 딥시크 또한 추론 능력을 강화한 'V4' 시리즈를 출시하며 중국 빅테크 간 기술 주도권 경쟁이 심화되고 있습니다.",
-            "timestamp": 1777344605000
-        },
-        {
-            "title": "과기정통부-구글 딥마인드, 'K-문샷' 협력 본격화...AI 기반 과학기술 혁신·인재 양성·책임있는 AI 활용 등 전방위 협력 - 인공지능신문",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=39785",
-            "summary_kr": "과기정통부와 구글 딥마인드가 AI 과학기술 혁신을 위한 'K-문샷' 프로젝트 협력을 위해 양해각서를 체결했으며, 앞으로 양측은 국가과학AI연구센터를 중심으로 공동 연구를 수행하고 구글의 한국 AI 캠퍼스 설립을 통해 인재 양성 및 AI 안전 거버넌스 분야에서 실질적인 파트너십을 강화하기로 했습니다.",
-            "timestamp": 1777273200000
-        },
-        {
-            "title": "오픈AI, 직접 스마트폰까지 만드나?…\"퀄컴·미디어텍과 개발 협력\" - v.daum.net",
-            "link": "https://v.daum.net/v/x65E1c5T1T?f=p",
-            "summary_kr": "오픈AI가 2028년 양산을 목표로 퀄컴·미디어텍과 협력해 자체 AI 스마트폰 개발을 추진 중이라는 관측이 제기되었는데, 이는 챗GPT를 넘어 하드웨어까지 통합한 AI 에이전트 생태계를 구축해 모바일 시장의 기존 제조사 중심 구조를 변화시키려는 전략으로 풀이됩니다.",
-            "timestamp": 1777273200000
         }
     ]
 }

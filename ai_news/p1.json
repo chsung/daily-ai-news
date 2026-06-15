@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-14 16:28:41",
+    "last_update": "2026-06-15 09:29:57",
     "articles": [
+        {
+            "title": "Why the US government shut down Anthropic’s latest Claude AI model - The Conversation",
+            "summary_en": "Anthropic suspended its latest Claude models after the US government issued an export control directive, citing concerns that safety guardrails could be bypassed to facilitate cyberattacks. The directive follows a period of escalating friction between the administration and Anthropic regarding national security, autonomous weaponry, and AI regulation.",
+            "link": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
+            "timestamp": 1781496514000,
+            "date": "2026-06-15"
+        },
+        {
+            "title": "Google DeepMind and partners put $10M behind multi-agent AI safety research - EdTech Innovation Hub",
+            "summary_en": "A coalition including Google DeepMind and Schmidt Sciences has launched a $10 million funding initiative to research the safety risks inherent in multi-agent AI systems. The program targets the unpredictable behaviors that emerge when autonomous agents from different organizations interact within shared digital infrastructures.",
+            "link": "https://www.edtechinnovationhub.com/news/google-deepmind-and-partners-put-10m-behind-multi-agent-ai-safety-research",
+            "timestamp": 1781478087000,
+            "date": "2026-06-14"
+        },
+        {
+            "title": "NVIDIA, KKR Back Helix Platform to Accelerate Next-Gen AI Infrastructure Development - The Fast Mode",
+            "summary_en": "KKR, NVIDIA, and Vistra have launched Helix Digital Infrastructure, a new company backed by over $10 billion in capital to streamline the development of data centers and power facilities for AI hyperscalers. Led by former AWS CEO Adam Selipsky, the firm aims to resolve industry bottlenecks by providing integrated infrastructure solutions.",
+            "link": "https://www.thefastmode.com/technology-solutions/49007-nvidia-kkr-back-helix-platform-to-accelerate-next-gen-ai-infrastructure-development",
+            "timestamp": 1781489806000,
+            "date": "2026-06-15"
+        },
         {
             "title": "Anthropic Pulls Its Most Powerful AI Models After U.S. Bars Foreign Access - Time Magazine",
             "summary_en": "Anthropic has disabled its powerful Fable 5 and Mythos 5 models following a U.S. government export-control directive citing national security concerns and alleged vulnerabilities. The order marks a significant escalation in federal regulation, as the government seeks to prevent foreign adversaries from accessing high-capability AI models.",
@@ -679,25 +700,6 @@
             "link": "https://investors.intuit.com/news-events/press-releases/detail/1305/intuit-and-anthropic-partner-to-bring-trusted-financial-intelligence-and-custom-ai-agents-to-consumers-and-businesses",
             "timestamp": 1771920000000,
             "date": "2026-02-24"
-        },
-        {
-            "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots - NVIDIA Newsroom",
-            "summary_en": "NVIDIA has launched new open-source models including Cosmos and GR00T to simplify the training of generalist-specialist robots and physical AI. These tools, paired with the Isaac Lab-Arena framework, enable global partners like Boston Dynamics and LG to accelerate the development of autonomous machines that can reason and navigate the physical world.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
-            "timestamp": 1767600000000,
-            "date": "2026-01-05"
-        },
-        {
-            "title": "How Google’s $15 Billion Missouri AI Data Hub Strategy Could Reshape Alphabet’s (GOOGL) Investor Narrative - Yahoo Finance",
-            "summary_en": "Google is investing $15 billion into a new Missouri data center hub, aiming to bolster its AI infrastructure while simultaneously funding local energy initiatives and workforce development. This capital-intensive strategy underscores Alphabet's commitment to scaling its Gemini and Cloud services, despite ongoing investor concerns regarding antitrust regulatory risks and long-term margin pressure.",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/google-15-billion-missouri-ai-221529374.html",
-            "timestamp": 1779833729000
-        },
-        {
-            "title": "NVIDIA Ignites the Next Industrial Revolution in Knowledge Work With Open Agent Development Platform - NVIDIA Newsroom",
-            "summary_en": "NVIDIA has launched its Agent Toolkit, featuring the OpenShell runtime and AI-Q blueprint, to provide developers with secure, open-source tools for building autonomous enterprise AI agents. By utilizing a hybrid model architecture, the platform aims to enhance agentic efficiency and reduce query costs by over 50% compared to standard approaches.",
-            "link": "http://nvidianews.nvidia.com/news/ai-agents",
-            "timestamp": 1773644400000
         }
     ]
 }

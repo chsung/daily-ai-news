@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-14 16:28:41",
+    "last_update": "2026-06-15 09:29:57",
     "articles": [
+        {
+            "title": "Spotify says engineers haven't written code in months as AI takes over development - MSN",
+            "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQdWRPX2pSaTc3NzQtYS1aazExMG4zc3hmLW9HMEdadFhfZjZHMXVtTlB2YWJJS25jVnFiR3NjSVFWMmRjcDRRUHRrd2h5WTgzZDBFQ01xQW9kQ1lDcXp3NHlyQ1I2bVk5cGRiSEZybDFHM3NuaklzMGZoNlFyaHVhNVlpN0hhclAxRjI1b1ZyMFJFYWlxQ2E5N25uVVR3OGNSemZYZnNSMHFkWDl1OWpjQl9qa0I4UklLcW1QaENzQ1BHS0JrdXJ6eVUxNTV0QzBWUFd1cGRIcjQyR2tMclZISlZ4ZWp2T2pMWDgycWpNOUE2UEtuYnZMZEhva05ubVZrVk9xZURWR0xKd0d1VER1UnctcmItTDBDY2gxcFdOM0RkQ0JiWXJhMjE0OThzd0I3LTVxdEMyMnkyWU9wQmNNaEFES0J6VHN2cjIzaHJwMFU2NlBndWZ0RG90NGk3M0tOYzBrUjlESm4?oc=5",
+            "summary_en": "Spotify reports that its engineers have shifted away from manual coding as AI tools take over development tasks.",
+            "timestamp": 1778405389000
+        },
+        {
+            "title": "US to safety test new AI models from Google, Microsoft, xAI - AOL.com",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1dHpOZzlPUXdvN2lqa01zWXF0ZXNpbmQtZXV6WXdPelE1MFFoc2ZNSGFyYzc2Vlc0MzJCeFp4ZF9rcGF3UFhQQjRrSV8yaXJsSVJXTVRZZEFvZndwLTNBdzU3X1RkbTBrXzRQc3N4S1NVQQ?oc=5",
+            "summary_en": "The U.S. government will conduct safety testing on new AI models developed by major companies like Google, Microsoft, and xAI.",
+            "timestamp": 1778362554000
+        },
+        {
+            "title": "Anthropic’s Mythos throws White House AI strategy into ‘chaos’: Report - Anadolu Ajansı",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSml6azgyUTBTaTRRRXJodWVHclE1bGhMOHlscUdRZzBFRklxeGJWTmtHUi1uQ3pxU2k1VFF6Z2UzOHllaE05UFluNGdPMkViQnp5Y3pfdTl6NDhnQnNQUjVQeS1CQy1JUkp5V3loTWY2LU51YzF4X0tiTE5GamZVZDVLS1ZTUFpkM2ExTEczVGN6VTZXZDJnMl9XQkZYS0lJbXc5X3Z6dWZSeGY3dENCcG43VHNYczh3dGRj?oc=5",
+            "summary_en": "A report claims that Anthropic’s new internal model, Mythos, is creating confusion regarding the White House's artificial intelligence strategy.",
+            "timestamp": 1778239536000
+        },
         {
             "title": "Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims - MSN",
             "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOYVR6WnRXNEkyaHktQjF0anJsOVRubnQ5ejE4RS04bkJVd3gtUGlRbTN3Ml9mNWpXSU5aVVNIRk5jUWw4c1FvY2tFeUxEaTJHNzcwcGRfbXRVMm83UWEzUVpFLWp5YlJJdDNrbGttTW9VdUh4TVNpQXFmRy1UVXEzYkxBM29Kci01VkxUb0FVLXJ0VFFHdzJ5NTBCTEZDWkZBUmZHYlVBb3RGdzNNY29NamhFeUxiZ09ZRmx4RlZxUlh4YVlpRnRqYzFvSXg5TTgxQUZxN0NVUTJsMHZ0MGxNbG1VQnNsTXZoQmZLb1RYejNoRDlrd1JlcENkbTU3d1UwUjdFa0ZSdWJPNmRxWXdkVXBQRDRsTkJPS0ZXV01lcVZ2SW5Ga2xtZDUtWjdKNUhRWjJMVm1lczUtOHdxcTA4UFJWeUxrMDNod2lhOVZSN0Fpd1NQYXJxV3ZHbm0wMU1wWlBqYU5KYmlQaXM2QUpRQzJEYTJTMXRxcHNhN2RrT0JnUWNMYkM1SV9JV2k0eEdHY0M1LUdkQnZVT3RjNFNZUzJwYVpoTlRk?oc=5",
