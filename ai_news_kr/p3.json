@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-15 09:29:05",
+    "last_update": "2026-06-15 19:06:52",
     "articles": [
+        {
+            "title": "“인공지능, 파일럿 넘어 실전으로”…앤트로픽·PwC, 클로드 기반 엔터프라이즈 AI 대전환 선언 - 인공지능신문",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40053",
+            "summary_kr": "앤트로픽과 PwC가 30만 명 규모의 글로벌 조직에 '클로드(Claude)' 기반 AI 에이전트를 도입해 업무 프로세스를 재설계하는 전략적 협력을 강화했으며, 실제 보험 인수 심사 기간을 10주에서 10일로 단축하는 등 기업 운영 효율을 극대화하는 실전 단계에 돌입했습니다.",
+            "timestamp": 1778889901000
+        },
+        {
+            "title": "오픈AI, 브록먼 사장이 직접 제품 담당…인프라-제품 통합 전략 - v.daum.net",
+            "link": "https://v.daum.net/v/20260516035505380?f=p",
+            "summary_kr": "오픈AI가 IPO를 앞두고 기업용 매출 증대와 제품 경쟁력 강화를 위해 제품 부문과 AI 인프라 부문을 통합하고, 그레그 브록먼 사장이 전체 제품 총괄을 맡아 챗GPT와 API 등 핵심 제품 팀을 재편하는 조직 개편을 단행했습니다.",
+            "timestamp": 1778871305000
+        },
+        {
+            "title": "“교사가 AI 교육 중심에 있어야 한다”…구글, 6개국 교육 정책 랩 통해 AI 교육 로드맵 공개 - 인공지능신문",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40052",
+            "summary_kr": "구글이 브라질, 인도, 스웨덴 등 6개국과 협력하여 'AI 정책 및 가이드 랩'을 운영하고 기술 중심이 아닌 교사를 AI 교육의 핵심 주체로 세우는 '제품 중립'의 범용 AI 교육 정책 프레임워크를 수립했습니다.",
+            "timestamp": 1778887948000
+        },
         {
             "title": "설립 6개월 만에 몸값 7조...리커시브, 스스로 진화하는 '재귀적 AI' 도전 - AI타임스",
             "link": "https://www.aitimes.com/news/articleView.html?idxno=210601",
@@ -582,24 +600,6 @@
             "link": "https://news.microsoft.com/source/asia/features/ai%EB%A1%9C-%EC%A6%9D%ED%8F%AD%EB%90%98%EB%8A%94-%EC%9C%84%ED%98%91-%ED%99%98%EA%B2%BD%EC%97%90-%EB%8C%80%EC%9D%91%ED%95%98%EB%8A%94-ai-%EA%B8%B0%EB%B0%98-%EB%B3%B4%EC%95%88-%EC%B2%B4%EA%B3%84/?lang=ko",
             "summary_kr": "마이크로소프트는 AI 기반의 자율 공격 위협에 대응하기 위해 앤트로픽과 협력한 '클로드 미토스' 모델 활용 등 멀티 모델 보안 전략을 강화하고, 취약점 조기 탐지 및 자동 완화 체계를 엔터프라이즈 솔루션 전반에 통합하고 있습니다.",
             "timestamp": 1777365926000
-        },
-        {
-            "title": "구글 딥마인드와 과학기술정보통신부, 국가 AI 파트너십 발표 - blog.google",
-            "link": "https://blog.google/intl/ko-kr/company-news/inside-google/announcing-our-partnership-with-the-republic-of-korea/",
-            "summary_kr": "구글 딥마인드는 대한민국과의 국가 AI 파트너십을 통해 과학기술정보통신부와 협력하여 서울에 'AI 캠퍼스'를 설립하고, 알파이볼브, 알파게놈, 알파폴드, AI 코사이언티스트, 웨더넥스트 등 첨단 AI 모델을 도입해 신약 개발, 기후 예측 등 과학적 혁신을 가속화할 계획입니다.",
-            "timestamp": 1777273200000
-        },
-        {
-            "title": "오픈AI, MS 독점 구조 걷어냈다…멀티클라우드 전략 전환 - 지디넷코리아",
-            "link": "https://zdnet.co.kr/view/?no=20260428090415",
-            "summary_kr": "오픈AI와 마이크로소프트는 독점적 관계를 해소하고 모델 판매 및 클라우드 협력을 비독점 방식으로 전환했으며, 이를 통해 오픈AI는 AWS와 구글 클라우드 등 멀티클라우드 전략을 구사하고 MS는 수익 공유 구조를 단순화하여 시장 경쟁력을 높이기로 했습니다.",
-            "timestamp": 1777359600000
-        },
-        {
-            "title": "앱 없이 AI 에이전트가 척척... 오픈AI, 천지개벽 스마트폰? - 조선일보",
-            "link": "https://www.chosun.com/economy/tech_it/2026/04/28/U5APO6QT2RG6VNACLHJQGAUB6M/",
-            "summary_kr": "오픈AI가 앱 실행 없이도 AI 에이전트가 직접 작업을 수행하는 혁신적인 스마트폰 형태의 새로운 AI 기기 출시를 2028년 목표로 추진하고 있습니다.",
-            "timestamp": 1777359600000
         }
     ]
 }

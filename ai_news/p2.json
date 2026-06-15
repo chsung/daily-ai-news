@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-06-15 09:29:57",
+    "last_update": "2026-06-15 19:07:47",
     "articles": [
+        {
+            "title": "Google DeepMind Partners with South Korea to Boost AI-Driven Scientific Research - CDO Magazine",
+            "summary_en": "Google DeepMind has partnered with South Korea’s Ministry of Science and ICT to launch an AI Campus in Seoul and accelerate research in life sciences, energy, and climate modeling. This collaboration supports national research missions and focuses on developing local AI talent while establishing rigorous safety standards for advanced AI deployment.",
+            "link": "https://www.cdomagazine.tech/aiml/google-deepmind-partners-with-south-korea-to-boost-ai-driven-scientific-research",
+            "timestamp": 1779907860000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has unveiled its Rubin platform, an AI supercomputer architecture comprising six new chips, including the Vera CPU and Rubin GPU, designed to lower inference costs by 10x compared to Blackwell. The platform aims to accelerate the adoption of large-scale agentic AI and mixture-of-experts models with support from major cloud providers and research labs.",
+            "link": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+            "timestamp": 1767600000000,
+            "date": "2026-01-05"
+        },
+        {
+            "title": "NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has introduced the Alpamayo family, an open-source ecosystem featuring reasoning-based vision-language-action (VLA) models and high-fidelity simulation tools for autonomous vehicle development. The platform allows developers to train vehicles on rare 'long-tail' edge cases, enabling safer, more reliable decision-making in complex driving scenarios.",
+            "link": "https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development",
+            "timestamp": 1767600000000,
+            "date": "2026-01-05"
+        },
+        {
+            "title": "Intuit and Anthropic Partner to Bring Trusted Financial Intelligence and Custom AI Agents to Consumers and Businesses - Intuit",
+            "summary_en": "Intuit and Anthropic are partnering to integrate Claude into the Intuit platform, allowing mid-market businesses to build custom AI agents that utilize proprietary financial data for compliant workflows. Additionally, Intuit’s financial tools will be embedded directly into Claude to provide personalized accounting and tax expertise to users.",
+            "link": "https://investors.intuit.com/news-events/press-releases/detail/1305/intuit-and-anthropic-partner-to-bring-trusted-financial-intelligence-and-custom-ai-agents-to-consumers-and-businesses",
+            "timestamp": 1771920000000,
+            "date": "2026-02-24"
+        },
         {
             "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots - NVIDIA Newsroom",
             "summary_en": "NVIDIA has launched new open-source models including Cosmos and GR00T to simplify the training of generalist-specialist robots and physical AI. These tools, paired with the Isaac Lab-Arena framework, enable global partners like Boston Dynamics and LG to accelerate the development of autonomous machines that can reason and navigate the physical world.",
@@ -577,30 +605,6 @@
             "link": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-commission-talks-with-openai-anthropic-over-ai-models-2026-05-11/",
             "summary_en": "The European Commission is actively engaging in discussions with leading AI developers, OpenAI and Anthropic, to align the deployment of their advanced models with European regulatory standards.",
             "timestamp": 1778496805000
-        },
-        {
-            "title": "Tech Giants’ Cash Reserve Shrinks Amid $725 Billion AI Investment - PYMNTS.com",
-            "link": "https://www.pymnts.com/artificial-intelligence-2/2026/tech-giants-cash-reserve-shrinks-amid-725-billion-ai-investment/",
-            "summary_en": "Tech giants are seeing their cash reserves decrease as they invest a combined $725 billion into the development of artificial intelligence.",
-            "timestamp": 1778445758000
-        },
-        {
-            "title": "Anthropic collaborates with Blackstone, Goldman Sachs, others to launch $1.5 billion AI firm - MSN",
-            "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPWXZQRXdVTWN4N1ZoYWo4VzRTaTNGeFZyUXNtcGZEcjBPbldKSkR3MndPNTY0c2xvSFEwcnBsbklDcE1uYzFpYW5PZGVmeDVEa2ZHTjA4c1hPbXVHZXZ3Q1drZTZWTHNUaFl0TlJkZ2owMk1iSE5pdHlzdmJ1NGtCWW9Ibzh3R09fbWk2MjhXZU9OS1czQTQ2UTRJV2psMjA4VVVyZVhCOTBiUkoyaFl6dGJ1RzBMdHdfMTNKLXhFZXBjOVZWY0x1RVlLNUtBODhIOVFQRlh6b3BmazBzM0JpRFVfeEFRVnlSNG9QMVBPSjJxNnUxc2ZrNHdUcnE5TGxVZnNmZHowbGNKOGFaOVgtcmhIaUxUWXFGZVp6dGdBV1FjZG9PM1RhWTFLYmpCbE1CVi1IcmJUZlhxWUtVWU8zVjkyTTcxMjZKU0o0U0JsbUZ0SnBjZE55VDVpdnJWWm5WNi1fZGVxeExrZUJSZ0FoTVhvNE56Vi1WM3RwRlF2RTFrY0d3VUNmc1JBanpGUQ?oc=5",
-            "summary_en": "Anthropic is partnering with major financial firms like Blackstone and Goldman Sachs to launch a new $1.5 billion AI company.",
-            "timestamp": 1778396725000
-        },
-        {
-            "title": "Meta 20% Workforce Cut Could Reshape Tech Giant as AI Spending Surges - USA Herald",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS19XeW9UUGsxLXJKN21wclotT0dadmJ6XzUzaG8wajlmdk81MVdPTEVQcmMxdm16RHJjamlOdTkwNDhKMG1aUkEyV2Q3cFBVbkEyc25XZGU1TnhNZ1hvM194Q0s4UFNiYUJ4cFZxMktYZEh4U1NlVE41SDhfMXZHWmpYM1IwVERjWXdYZVg4Yy1qSDZpdUE?oc=5",
-            "summary_en": "Meta is reducing its workforce by 20% to shift focus and resources toward its growing AI investments.",
-            "timestamp": 1778318157000
-        },
-        {
-            "title": "Amazon Admits Its Flagship AI Coding Tool Isn’t Good Enough for Its Own Workers to Use - Futurism",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFZkdUZNTXVEVE52U05UNXI3XzMxYTN5T1VJSjFHLW42ZVZZdHI0cTAxcmJjSURKdE1UbDNoZXd2OFdIaTh2WGE4b2NFa0lIcmEwa0Q1TFIzWTZWV1lPWjhJc1lFZ3lmemE4RDZlTmtOTjJDUml2blNkTzlmb3RXWS1KdkZLc0FHUGhZUF9fT0xiMno5?oc=5",
-            "summary_en": "Amazon acknowledged that its primary AI coding tool is currently not effective enough for its own employees to use.",
-            "timestamp": 1778337000000
         }
     ]
 }
