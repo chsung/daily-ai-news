@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-15 19:07:47",
+    "last_update": "2026-06-16 08:52:04",
     "articles": [
+        {
+            "title": "SearchLeak vulnerability allows data theft from Microsoft 365 Copilot Enterprise - SC Media",
+            "summary_en": "Researchers at Varonis identified a critical three-stage vulnerability chain, dubbed SearchLeak, that allowed attackers to exfiltrate sensitive data from Microsoft 365 Copilot by exploiting Bing's image search feature. Microsoft has successfully addressed the flaw, which previously enabled data theft through specially crafted URLs and HTML rendering exploits.",
+            "link": "https://www.scworld.com/brief/searchleak-vulnerability-allows-data-theft-from-microsoft-365-copilot-enterprise",
+            "timestamp": 1781564012000,
+            "date": "2026-06-15"
+        },
+        {
+            "title": "Meta Unwinds Manus Acquisition and Faces Internal Revolt as AI Strategy Takes Its Toll - AI Insider",
+            "summary_en": "Meta is unwinding its $2 billion acquisition of Manus following a divestiture order from Chinese regulators citing national security concerns. Simultaneously, the company faces internal unrest as 1,600 employees protest a massive new Applied AI unit that monitors staff activity for training data collection.",
+            "link": "https://theaiinsider.tech/2026/06/15/meta-unwinds-manus-acquisition-and-faces-internal-revolt-as-ai-strategy-takes-its-toll",
+            "timestamp": 1781535955000,
+            "date": "2026-06-15"
+        },
+        {
+            "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests - 404 Media",
+            "summary_en": "Cornell University research reveals that AI search agents can be manipulated by as few as 13 words of strategically placed, inauthentic content on platforms like Reddit and Wikipedia. This vulnerability highlights the growing threat of AI-engine optimization (AEO), where brands create spam content to influence the information retrieved and cited by LLMs.",
+            "link": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests",
+            "timestamp": 1781533177000,
+            "date": "2026-06-15"
+        },
         {
             "title": "New York’s IT office partners with AWS for cloud and AI services, strategy saving taxpayers $58M - StateScoop",
             "summary_en": "New York’s Office of Information Technology Services has partnered with AWS to centralize cloud and AI services, a move that has already generated $58 million in taxpayer savings. The initiative aims to streamline procurement and provide advanced AI tools to over 100,000 state employees.",
@@ -679,27 +700,6 @@
             "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
             "timestamp": 1780051892000,
             "date": "2026-05-29"
-        },
-        {
-            "title": "Snowflake Expands AWS Collaboration with $6B Commitment to Accelerate Enterprise Agentic AI Adoption - Snowflake",
-            "summary_en": "Snowflake has signed a $6 billion multi-year commitment to expand its use of AWS infrastructure, specifically targeting the acceleration of enterprise-grade agentic AI workloads. This collaboration deepens product integration between Snowflake Cortex AI and AWS Graviton processors to help customers deploy intelligent applications on governed data.",
-            "link": "https://www.snowflake.com/en/news/press-releases/snowflake-expands-aws-collaboration-with-6b-commitment-to-accelerate-enterprise-agentic-ai-adoption/",
-            "timestamp": 1779913098000,
-            "date": "2026-05-28"
-        },
-        {
-            "title": "NVIDIA Research Advances Robotics From Simulation to the Real World - NVIDIA Blog",
-            "summary_en": "NVIDIA Research has showcased new sim-to-real frameworks at ICRA, including ScheduleStream for multi-arm coordination and Grasp-MPC for adaptive robotic handling. These tools allow robots to move beyond scripted tasks by leveraging GPU-accelerated simulation to generalize behaviors for unpredictable real-world environments.",
-            "link": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
-            "timestamp": 1779973698000,
-            "date": "2026-05-28"
-        },
-        {
-            "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era - IBM Newsroom",
-            "summary_en": "IBM and Red Hat have committed $5 billion to Project Lightwell, a massive initiative utilizing frontier AI to identify and remediate security vulnerabilities in open-source software. The project establishes a trusted clearinghouse and deploys 20,000 engineers to validate fixes, directly addressing the risks inherent in the supply chains of Fortune 500 companies.",
-            "link": "https://newsroom.ibm.com/2026-05-28-ibm-and-red-hat-commit-5-billion-to-redefine-the-future-of-open-source-in-the-ai-era",
-            "timestamp": 1779962574000,
-            "date": "2026-05-28"
         }
     ]
 }

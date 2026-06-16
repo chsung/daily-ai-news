@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-15 19:07:47",
+    "last_update": "2026-06-16 08:52:04",
     "articles": [
+        {
+            "title": "Snowflake Expands AWS Collaboration with $6B Commitment to Accelerate Enterprise Agentic AI Adoption - Snowflake",
+            "summary_en": "Snowflake has signed a $6 billion multi-year commitment to expand its use of AWS infrastructure, specifically targeting the acceleration of enterprise-grade agentic AI workloads. This collaboration deepens product integration between Snowflake Cortex AI and AWS Graviton processors to help customers deploy intelligent applications on governed data.",
+            "link": "https://www.snowflake.com/en/news/press-releases/snowflake-expands-aws-collaboration-with-6b-commitment-to-accelerate-enterprise-agentic-ai-adoption/",
+            "timestamp": 1779913098000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "NVIDIA Research Advances Robotics From Simulation to the Real World - NVIDIA Blog",
+            "summary_en": "NVIDIA Research has showcased new sim-to-real frameworks at ICRA, including ScheduleStream for multi-arm coordination and Grasp-MPC for adaptive robotic handling. These tools allow robots to move beyond scripted tasks by leveraging GPU-accelerated simulation to generalize behaviors for unpredictable real-world environments.",
+            "link": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+            "timestamp": 1779973698000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era - IBM Newsroom",
+            "summary_en": "IBM and Red Hat have committed $5 billion to Project Lightwell, a massive initiative utilizing frontier AI to identify and remediate security vulnerabilities in open-source software. The project establishes a trusted clearinghouse and deploys 20,000 engineers to validate fixes, directly addressing the risks inherent in the supply chains of Fortune 500 companies.",
+            "link": "https://newsroom.ibm.com/2026-05-28-ibm-and-red-hat-commit-5-billion-to-redefine-the-future-of-open-source-in-the-ai-era",
+            "timestamp": 1779962574000,
+            "date": "2026-05-28"
+        },
         {
             "title": "Google DeepMind Partners with South Korea to Boost AI-Driven Scientific Research - CDO Magazine",
             "summary_en": "Google DeepMind has partnered with South Korea’s Ministry of Science and ICT to launch an AI Campus in Seoul and accelerate research in life sciences, energy, and climate modeling. This collaboration supports national research missions and focuses on developing local AI talent while establishing rigorous safety standards for advanced AI deployment.",
@@ -587,24 +608,6 @@
             "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
             "summary_en": "Google is expanding its AI-powered finance platform to Europe with full local language support, featuring advanced research tools, real-time market data, and AI-generated insights for earnings calls to help users better navigate complex financial information.",
             "timestamp": 1778479983000
-        },
-        {
-            "title": "Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw - The New York Times",
-            "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-            "summary_en": "Google reports that criminal hackers are increasingly utilizing artificial intelligence to identify and exploit critical vulnerabilities in software, posing a new threat to global cybersecurity.",
-            "timestamp": 1778504406000
-        },
-        {
-            "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
-            "link": "https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/",
-            "summary_en": "OpenAI has established a dedicated business unit supported by a $4 billion investment to accelerate the adoption of its artificial intelligence technologies within the corporate sector.",
-            "timestamp": 1778504505000
-        },
-        {
-            "title": "EU Commission in talks with OpenAI and Anthropic over AI models - Reuters",
-            "link": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-commission-talks-with-openai-anthropic-over-ai-models-2026-05-11/",
-            "summary_en": "The European Commission is actively engaging in discussions with leading AI developers, OpenAI and Anthropic, to align the deployment of their advanced models with European regulatory standards.",
-            "timestamp": 1778496805000
         }
     ]
 }

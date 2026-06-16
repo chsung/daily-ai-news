@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-15 19:07:47",
+    "last_update": "2026-06-16 08:52:04",
     "articles": [
+        {
+            "title": "Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw - The New York Times",
+            "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+            "summary_en": "Google reports that criminal hackers are increasingly utilizing artificial intelligence to identify and exploit critical vulnerabilities in software, posing a new threat to global cybersecurity.",
+            "timestamp": 1778504406000
+        },
+        {
+            "title": "OpenAI creates new unit with $4 billion investment to aid corporate AI push - Reuters",
+            "link": "https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/",
+            "summary_en": "OpenAI has established a dedicated business unit supported by a $4 billion investment to accelerate the adoption of its artificial intelligence technologies within the corporate sector.",
+            "timestamp": 1778504505000
+        },
+        {
+            "title": "EU Commission in talks with OpenAI and Anthropic over AI models - Reuters",
+            "link": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-commission-talks-with-openai-anthropic-over-ai-models-2026-05-11/",
+            "summary_en": "The European Commission is actively engaging in discussions with leading AI developers, OpenAI and Anthropic, to align the deployment of their advanced models with European regulatory standards.",
+            "timestamp": 1778496805000
+        },
         {
             "title": "Tech Giants’ Cash Reserve Shrinks Amid $725 Billion AI Investment - PYMNTS.com",
             "link": "https://www.pymnts.com/artificial-intelligence-2/2026/tech-giants-cash-reserve-shrinks-amid-725-billion-ai-investment/",
