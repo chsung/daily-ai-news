@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-06-15 19:37:50",
+    "last_update": "2026-06-16 19:26:50",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780289355000,
+            "date": "2026-06-01",
+            "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
+            "summary_kr": "NVIDIA Alpamayo의 AlpaGym은 자율주행 모델 학습 시 시뮬레이터 피드백을 직접 반영하는 폐루프(closed-loop) 강화학습을 통해, 오픈루프 방식의 한계를 극복하고 모델의 실전 대응력을 향상시키는 확장 가능한 학습 파이프라인을 제공합니다.",
+            "summary_en": "NVIDIA Alpamayo’s AlpaGym provides a scalable closed-loop reinforcement learning pipeline that integrates simulator feedback directly into model training, overcoming the limitations of open-loop methods to improve real-world autonomous driving performance.",
+            "link": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780289038000,
+            "date": "2026-06-01",
+            "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
+            "summary_kr": "엔비디아가 물리적 AI의 추론, 세계 모델링, 행동 생성 기능을 통합한 'Cosmos 3' 파운데이션 모델을 오픈소스로 공개하여 로봇 및 자율주행 기술 개발을 가속화합니다.",
+            "summary_en": "NVIDIA has open-sourced 'Cosmos 3,' a unified foundation model that integrates physical reasoning, world modeling, and action generation to accelerate development in robotics and autonomous systems.",
+            "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780287702000,
+            "date": "2026-06-01",
+            "title": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
+            "summary_kr": "NVIDIA BlueField DPU와 DOCA 기술은 호스트 시스템과 분리된 하드웨어 기반 보안을 통해 AI 팩토리의 인프라, 데이터, 자율형 AI 에이전트를 고성능으로 보호합니다.",
+            "summary_en": "NVIDIA BlueField DPUs and DOCA provide hardware-enforced, full-stack security that protects AI infrastructure, data, and autonomous agents by isolating security services from host systems to maintain performance at AI scale.",
+            "link": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780286355000,
+            "date": "2026-06-01",
+            "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
+            "summary_kr": "NVIDIA Vera CPU는 에이전트형 AI와 강화학습 시대에 발맞춰, 높은 코어 성능과 효율적인 메모리 대역폭을 통해 AI 팩토리의 병목 현상을 해결하고 작업 처리량을 극대화하도록 설계되었습니다.",
+            "summary_en": "NVIDIA Vera CPU is designed to overcome bottlenecks in AI factories by delivering high per-core performance and efficient memory bandwidth, specifically optimized to scale agentic AI and reinforcement learning workloads.",
+            "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780285012000,
+            "date": "2026-06-01",
+            "title": "NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale",
+            "summary_kr": "엔비디아(NVIDIA)가 공개한 DSX OS는 AI 팩토리의 구축과 운영을 최적화하는 개방형 모듈식 소프트웨어로, 에너지 효율 향상과 운영 자동화를 통해 기가와트 규모의 AI 인프라 확장을 가속화합니다.",
+            "summary_en": "NVIDIA's DSX OS provides an open, modular software platform that optimizes AI factory operations, enhancing energy efficiency and scalability to accelerate the deployment of gigawatt-scale AI infrastructure.",
+            "link": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1780075800000,
+            "date": "2026-05-30",
+            "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+            "summary_kr": "구글은 멀티모달 영상 생성 및 편집에 특화된 '제미나이 옴니'와 복잡한 에이전트 작업과 코딩에 최적화된 '제미나이 3.5 플래시'를 공개하며 AI 모델의 지능적 활용 범위를 대폭 확장했습니다.",
+            "summary_en": "Google has unveiled 'Gemini Omni,' specialized in multimodal video generation and editing, and 'Gemini 3.5 Flash,' optimized for complex agentic tasks and coding, significantly expanding the practical applications of AI.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1780012800000,
+            "date": "2026-05-29",
+            "title": "Grok Build 0.1 on API",
+            "summary_kr": "xAI가 웹 개발과 디버깅 등 에이전트형 코딩 작업에 최적화된 고속·저비용 모델 'Grok Build 0.1'을 API로 공개했습니다.",
+            "summary_en": "xAI has launched 'Grok Build 0.1' via API, a high-speed, cost-effective model specifically optimized for agentic coding tasks and tool calling.",
+            "link": "https://x.ai/news/grok-build-0-1"
+        },
         {
             "company": "xAI",
             "timestamp": 1779840000000,
@@ -796,62 +859,6 @@
             "summary_kr": "구글은 연구 과정을 가속화하기 위해 다중 에이전트 AI 파트너인 '코-사이언티스트(Co-Scientist)'를 개발하여 과학적 발견의 효율성을 극대화하고 있습니다.",
             "summary_en": "Google has developed 'Co-Scientist,' a multi-agent AI partner designed to accelerate scientific research and maximize the efficiency of complex discovery processes.",
             "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779187140000,
-            "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
-            "summary_kr": "구글 딥마인드의 AI 모델 '웨더넥스트(WeatherNext)'가 허리케인 멜리사의 급격한 세력 강화와 경로를 5일 전에 예측하며 기상 예측의 정확도를 획기적으로 개선했습니다.",
-            "summary_en": "Google DeepMind's AI model 'WeatherNext' successfully predicted the rapid intensification and landfall of Hurricane Melissa five days in advance, marking a significant breakthrough in storm forecasting.",
-            "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779186600000,
-            "title": "Fast-tracking genetic leads to reverse cellular aging",
-            "summary_kr": "생명공학 연구진이 '코-사이언티스트'를 활용해 노화 역전을 위한 유전자 경로를 분석한 결과, 수개월이 걸릴 데이터 분석 작업을 단 며칠 만에 단축하는 성과를 거두었습니다.",
-            "summary_en": "Biologists are leveraging 'Co-Scientist' to analyze genetic pathways for reversing cellular aging, reducing complex data analysis timelines from months to just a few days.",
-            "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779186600000,
-            "title": "Finding the molecular switches behind new infectious diseases",
-            "summary_kr": "캠브리지 대학 연구팀은 '코-사이언티스트'를 사용하여 전염병의 분자적 기전을 밝히고, 수년이 소요될 실험 설계를 단 6개월 만에 단축하는 연구 효율성을 입증했습니다.",
-            "summary_en": "A research team at the University of Cambridge is using 'Co-Scientist' to identify molecular triggers of infectious diseases, successfully reducing experimental planning time from years to six months.",
-            "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779186600000,
-            "title": "Opening new paths in aging research",
-            "summary_kr": "Calico Life Sciences의 연구팀이 노화 생물학의 복잡한 데이터를 통합하고 가설을 검증하기 위해 'Co-Scientist' AI 모델을 도입하여 연구 효율성을 높였습니다.",
-            "summary_en": "Researchers at Calico Life Sciences are utilizing the 'Co-Scientist' AI model to synthesize complex biological literature and formulate testable hypotheses regarding the mechanisms of aging.",
-            "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779186600000,
-            "title": "Accelerating discovery of liver disease mechanisms",
-            "summary_kr": "에든버러 대학교 연구진은 'Co-Scientist'를 활용해 대사성 지방간염(MASH)의 복잡한 질병 기전을 규명하고, 특정 분자 연결 고리를 찾아내어 새로운 복합 치료제 가능성을 제시했습니다.",
-            "summary_en": "The University of Edinburgh researchers used 'Co-Scientist' to analyze liver disease mechanisms, identifying the NLRP3 inflammasome as a key molecular link that supports the development of new targeted combination therapies for MASH.",
-            "link": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1779148800000,
-            "title": "Use Grok in OpenClaw",
-            "summary_kr": "오픈소스 AI 에이전트 서비스인 'OpenClaw'가 X의 Grok 구독 모델을 통합하여 사용자가 다양한 메신저 플랫폼에서 AI 어시스턴트를 활용할 수 있게 지원합니다.",
-            "summary_en": "OpenClaw, an open-source, local-first AI assistant, has integrated X's Grok models, allowing subscribers to interact with their AI agent across various messaging platforms like WhatsApp, Slack, and Discord.",
-            "link": "https://x.ai/news/grok-openclaw"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779145212000,
-            "title": "At aged care provider Regis, AI takes on paperwork so staff can focus on residents - Source Asia",
-            "summary_kr": "호주의 요양 서비스 업체 Regis는 마이크로소프트의 Copilot 기반 'RegiCare Assist'를 도입하여 방대한 임상 기록 요약 업무를 자동화하고 의료진이 환자 케어에 집중할 수 있도록 지원합니다.",
-            "summary_en": "Australian aged care provider Regis has deployed 'RegiCare Assist,' built on Microsoft Copilot Studio, to automate the summarization of extensive clinical reports, allowing staff to focus more on direct resident care.",
-            "link": "https://news.microsoft.com/source/asia/features/at-aged-care-provider-regis-ai-takes-on-paperwork-so-staff-can-focus-on-residents"
         }
     ]
 }
