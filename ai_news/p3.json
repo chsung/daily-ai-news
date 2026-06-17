@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-16 18:57:54",
+    "last_update": "2026-06-17 08:33:50",
     "articles": [
+        {
+            "title": "OpenAI launches $4 billion AI deployment company - qz.com",
+            "link": "https://qz.com/openai-deployment-company-launch-tpg-tomoro-051126",
+            "summary_en": "OpenAI has officially launched a new $4 billion entity focused on the deployment of artificial intelligence technologies.",
+            "timestamp": 1778507582000
+        },
+        {
+            "title": "Google spotted an AI-developed zero-day before attackers could use it - CyberScoop",
+            "link": "https://cyberscoop.com/google-threat-intelligence-group-ai-developed-zero-day-exploit/",
+            "summary_en": "Google Threat Intelligence Group identified a zero-day exploit created by artificial intelligence, marking a significant escalation in cyber threats where AI-generated code, containing non-human artifacts like hallucinated CVSS scores, was used to target authentication vulnerabilities.",
+            "timestamp": 1778504485000
+        },
+        {
+            "title": "What Microsoft’s new research tells CFOs about the ROI of AI - Fortune",
+            "link": "https://fortune.com/2026/05/11/what-microsoft-research-tells-cfo-roi-ai/",
+            "summary_en": "Microsoft’s 2026 Work Trend Index reveals that 67% of AI's business impact stems from organizational factors like culture and workflow redesign rather than just technology, noting that while 66% of users report improved productivity, management alignment and clear incentives remain major hurdles for CFOs.",
+            "timestamp": 1778500200000
+        },
         {
             "title": "This Week In AI Chips - NVIDIA Strengthens Board with Strategic Leadership Addition - Yahoo Finance",
             "link": "https://finance.yahoo.com/sectors/technology/articles/week-ai-chips-nvidia-strengthens-113723116.html",

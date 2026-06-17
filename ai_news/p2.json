@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-16 18:57:54",
+    "last_update": "2026-06-17 08:33:50",
     "articles": [
+        {
+            "title": "A New Era of Innovation: Google Research at I/O 2026 - Research at Google",
+            "summary_en": "Google Research has introduced 'Gemini for Science,' an agentic suite of tools including ERA and Co-Scientist designed to accelerate scientific discovery through automated hypothesis generation and complex coding workflows. These experimental tools leverage multi-agent systems to perform large-scale computational experiments and literature synthesis across domains like neuroscience and genomics.",
+            "link": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
+            "timestamp": 1780002032000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "Russia-linked threat group put ChatGPT to work from lure to payload - The Register",
+            "summary_en": "Recent industry reports highlight an increasing trend of threat actors utilizing LLMs to facilitate cyberattacks, alongside growing corporate demand for 'off switches' to manage rogue AI agents. Organizations like Okta are responding by developing specific licensing and security frameworks to mitigate the risks posed by autonomous AI entities.",
+            "link": "https://www.theregister.com/research/2026/05/29/russia-linked-threat-group-put-chatgpt-to-work-from-lure-to-payload/5248368",
+            "timestamp": 1780055385000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "Canonical and Google simplify AI workloads on TPUs - Techzine Global",
+            "summary_en": "Canonical and Google Cloud have partnered to offer certified Ubuntu images for Cloud TPU Virtual Machines, streamlining the deployment of AI inference workloads on Google’s proprietary hardware. This integration supports the latest TPU7x generation and provides users with standardized LTS support, bridging the gap between familiar Linux environments and high-performance AI acceleration.",
+            "link": "https://www.techzine.eu/news/devops/141681/canonical-and-google-simplify-ai-workloads-on-tpus/",
+            "timestamp": 1780043183000,
+            "date": "2026-05-29"
+        },
         {
             "title": "Introducing Claude Opus 4.8 - Anthropic",
             "summary_en": "Anthropic has released Claude Opus 4.8, featuring enhanced reasoning, faster 2.5x execution speeds, and improved tool-calling efficiency for complex agentic workflows. The update also achieves record-breaking performance on the Legal Agent Benchmark, making it more reliable for high-stakes professional and autonomous engineering tasks.",
@@ -592,24 +613,6 @@
             "link": "https://www.prnewswire.com/news-releases/leni-tops-four-major-ai-benchmarks-outperforming-systems-from-openai-anthropic-google-and-perplexity-302769724.html",
             "summary_en": "The commercial real estate AI platform Leni has surpassed major competitors like OpenAI and Google on four key industry benchmarks, proving its ability to provide accurate, reliable data analysis for high-stakes investment decisions.",
             "timestamp": 1778596260000
-        },
-        {
-            "title": "OpenAI launches $4 billion AI deployment company - qz.com",
-            "link": "https://qz.com/openai-deployment-company-launch-tpg-tomoro-051126",
-            "summary_en": "OpenAI has officially launched a new $4 billion entity focused on the deployment of artificial intelligence technologies.",
-            "timestamp": 1778507582000
-        },
-        {
-            "title": "Google spotted an AI-developed zero-day before attackers could use it - CyberScoop",
-            "link": "https://cyberscoop.com/google-threat-intelligence-group-ai-developed-zero-day-exploit/",
-            "summary_en": "Google Threat Intelligence Group identified a zero-day exploit created by artificial intelligence, marking a significant escalation in cyber threats where AI-generated code, containing non-human artifacts like hallucinated CVSS scores, was used to target authentication vulnerabilities.",
-            "timestamp": 1778504485000
-        },
-        {
-            "title": "What Microsoft’s new research tells CFOs about the ROI of AI - Fortune",
-            "link": "https://fortune.com/2026/05/11/what-microsoft-research-tells-cfo-roi-ai/",
-            "summary_en": "Microsoft’s 2026 Work Trend Index reveals that 67% of AI's business impact stems from organizational factors like culture and workflow redesign rather than just technology, noting that while 66% of users report improved productivity, management alignment and clear incentives remain major hurdles for CFOs.",
-            "timestamp": 1778500200000
         }
     ]
 }

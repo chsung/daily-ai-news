@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-16 18:57:54",
+    "last_update": "2026-06-17 08:33:50",
     "articles": [
+        {
+            "title": "OpenAI's Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls - MarkTechPost",
+            "summary_en": "OpenAI has introduced 'Deployment Simulation,' a safety method that evaluates new models by replaying actual user traffic to estimate failure rates. This approach complements traditional testing by providing representative data on how models perform in real-world contexts, though it is limited to risks appearing in at least 1 in 200,000 messages.",
+            "link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation",
+            "timestamp": 1781675394000,
+            "date": "2026-06-17"
+        },
+        {
+            "title": "Anthropic to meet White House officials over AI tool suspension - BBC",
+            "summary_en": "Anthropic executives are set to meet with U.S. Commerce Department officials to address a government-mandated suspension of its 'Fable 5' and 'Mythos 5' AI tools. The government blocked public access due to national security concerns regarding potential jailbreak vulnerabilities in these highly capable models.",
+            "link": "https://www.bbc.com/news/articles/c9w2p7ykp8yo",
+            "timestamp": 1781549066000,
+            "date": "2026-06-15"
+        },
+        {
+            "title": "North Korea Advances AI Research Using Aging Nvidia Chips Despite Sanctions - Koreabizwire",
+            "summary_en": "Despite stringent international sanctions, North Korea continues to advance its artificial intelligence research efforts by utilizing aging Nvidia hardware. The state’s ability to conduct AI development despite restricted access to modern semiconductor technology underscores ongoing challenges in enforcing global tech export controls.",
+            "link": "http://koreabizwire.com/north-korea-advances-ai-research-using-aging-nvidia-chips-despite-sanctions/353309",
+            "timestamp": 1781658223000,
+            "date": "2026-06-17"
+        },
         {
             "title": "HPE tightens Nvidia ties in AI stack, integrates Juniper - Constellation Research",
             "summary_en": "HPE has expanded its enterprise AI infrastructure by integrating Nvidia’s latest server technologies and Juniper’s networking portfolio to create a self-driving, high-efficiency data center stack. The update features advanced observability tools and metadata optimization that HPE claims can reduce AI token response times by 20x.",
@@ -678,27 +699,6 @@
             "summary_en": "Google has introduced Gemini Omni, a multimodal model capable of generating and iteratively editing videos via natural language, alongside the Gemini 3.5 Flash model. Designed for high-speed, long-horizon agentic tasks, 3.5 Flash is now powering real-world workflows in Google Search and developer-focused tools.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
             "timestamp": 1780076243000,
-            "date": "2026-05-29"
-        },
-        {
-            "title": "A New Era of Innovation: Google Research at I/O 2026 - Research at Google",
-            "summary_en": "Google Research has introduced 'Gemini for Science,' an agentic suite of tools including ERA and Co-Scientist designed to accelerate scientific discovery through automated hypothesis generation and complex coding workflows. These experimental tools leverage multi-agent systems to perform large-scale computational experiments and literature synthesis across domains like neuroscience and genomics.",
-            "link": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
-            "timestamp": 1780002032000,
-            "date": "2026-05-28"
-        },
-        {
-            "title": "Russia-linked threat group put ChatGPT to work from lure to payload - The Register",
-            "summary_en": "Recent industry reports highlight an increasing trend of threat actors utilizing LLMs to facilitate cyberattacks, alongside growing corporate demand for 'off switches' to manage rogue AI agents. Organizations like Okta are responding by developing specific licensing and security frameworks to mitigate the risks posed by autonomous AI entities.",
-            "link": "https://www.theregister.com/research/2026/05/29/russia-linked-threat-group-put-chatgpt-to-work-from-lure-to-payload/5248368",
-            "timestamp": 1780055385000,
-            "date": "2026-05-29"
-        },
-        {
-            "title": "Canonical and Google simplify AI workloads on TPUs - Techzine Global",
-            "summary_en": "Canonical and Google Cloud have partnered to offer certified Ubuntu images for Cloud TPU Virtual Machines, streamlining the deployment of AI inference workloads on Google’s proprietary hardware. This integration supports the latest TPU7x generation and provides users with standardized LTS support, bridging the gap between familiar Linux environments and high-performance AI acceleration.",
-            "link": "https://www.techzine.eu/news/devops/141681/canonical-and-google-simplify-ai-workloads-on-tpus/",
-            "timestamp": 1780043183000,
             "date": "2026-05-29"
         }
     ]
