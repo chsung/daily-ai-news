@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-06-16 19:26:50",
+    "last_update": "2026-06-17 18:08:17",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1780358400000,
+            "date": "2026-06-02",
+            "title": "A harness for every task: dynamic workflows in Claude Code",
+            "summary_kr": "Claude Code가 복잡한 작업을 효율적으로 처리하기 위해 맞춤형 다중 에이전트 워크플로우를 즉석에서 생성 및 조정하는 기능을 도입했습니다. 이를 통해 사용자는 작업별 최적화된 에이전트 환경을 구축하여 고도의 문제 해결 역량을 확보할 수 있습니다.",
+            "summary_en": "Claude Code has introduced dynamic workflows, enabling the model to autonomously create and orchestrate custom multi-agent harnesses tailored to specific complex tasks. This capability improves performance by delegating sub-tasks to isolated agents, optimizing both context management and execution.",
+            "link": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780351200000,
+            "date": "2026-06-01",
+            "title": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+            "summary_kr": "엔비디아는 DGX Spark를 통해 로컬 환경에서 자율형 AI 에이전트를 신속하게 구축하고 실행할 수 있도록 지원하며, NemoClaw를 도입하여 설치 과정을 대폭 간소화하고 멀티 노드 클러스터링 기능을 강화했습니다.",
+            "summary_en": "NVIDIA has streamlined the local deployment of autonomous AI agents on DGX Spark by introducing NemoClaw, significantly reducing setup time while enhancing performance and multi-node scalability.",
+            "link": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780333200000,
+            "date": "2026-06-01",
+            "title": "Our views on AI policy and political advocacy",
+            "summary_kr": "OpenAI는 AI 정책이 당파적 정치를 넘어선 중요한 사안임을 강조하며, 특정 정치 단체에 기부하거나 후원하지 않는 중립적 입장을 고수하고 정책적 견해를 직접 투명하게 밝히겠다고 선언했습니다.",
+            "summary_en": "OpenAI emphasizes that AI policy transcends partisan politics, maintaining a neutral stance by refusing political donations while committing to transparently advocating for its own policy views directly.",
+            "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1780329600000,
+            "date": "2026-06-01",
+            "title": "How we used Gemini to build Google I/O 2026",
+            "summary_kr": "구글은 I/O 2026 행사의 기획 및 제작 전 과정에 제미나이 등 최신 AI 도구를 적극 도입하여, 인간의 창의성과 기술의 효율성을 결합한 혁신적인 제작 방식을 선보였습니다.",
+            "summary_en": "Google leveraged its Gemini-powered AI tools throughout the planning and production of I/O 2026, demonstrating a collaborative workflow that blends human artistry with generative technology to redefine event creation.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780315200000,
+            "date": "2026-06-01",
+            "title": "Building the infrastructure for the Intelligence Age in Michigan",
+            "summary_kr": "OpenAI가 미시간주에 1GW 규모의 '더 반(The Barn)' 데이터 센터 착공을 발표하며, 지역사회 상생, 일자리 창출, 교육 지원을 통해 인공지능 시대를 위한 지속 가능한 인프라를 구축합니다.",
+            "summary_en": "OpenAI has broken ground on 'The Barn,' a 1GW data center in Michigan, committing to local economic growth, job creation, and extensive AI literacy programs for students as part of its strategy to build sustainable AI infrastructure.",
+            "link": "https://openai.com/index/stargate-michigan-data-center"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780308000000,
+            "date": "2026-06-01",
+            "title": "OpenAI frontier models and Codex are now available on AWS",
+            "summary_kr": "AWS가 오픈AI의 최신 모델과 코드 생성 모델인 코덱스를 자사 플랫폼에 정식 도입함으로써, 기업들이 기존 보안 및 거버넌스 체계 안에서 AI를 보다 쉽고 빠르게 도입할 수 있게 되었습니다.",
+            "summary_en": "AWS has integrated OpenAI's frontier models and Codex into its platform, enabling enterprises to deploy advanced AI solutions more efficiently within their existing security and governance workflows.",
+            "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780272000000,
+            "date": "2026-06-01",
+            "title": "Anthropic confidentially submits draft S-1 to the SEC",
+            "summary_kr": "AI 기업 앤스로픽이 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 S-1 등록 서류 초안을 비공개로 제출하며 상장 절차에 착수했습니다.",
+            "summary_en": "AI startup Anthropic has officially initiated the IPO process by confidentially submitting a draft S-1 registration statement to the U.S. SEC.",
+            "link": "https://www.anthropic.com/news/confidential-draft-s1-sec"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1780272000000,
+            "date": "2026-06-01",
+            "title": "Composer 2.5",
+            "summary_kr": "X의 Grok 빌드에 복잡한 지시 사항과 긴 작업 처리에 최적화된 최신 AI 모델 'Composer 2.5'가 출시되었습니다.",
+            "summary_en": "Composer 2.5 has been released on Grok Build, offering state-of-the-art performance for complex, long-running tasks.",
+            "link": "https://x.ai/news/composer-2-5"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1780323255000,
+            "date": "2026-06-01",
+            "title": "Introducing a powerful new chapter for Windows PCs, accelerated by NVIDIA RTX Spark",
+            "summary_kr": "마이크로소프트와 엔비디아가 협력하여 1페타플롭 규모의 AI 성능과 고효율을 갖춘 차세대 윈도우 PC용 'NVIDIA RTX Spark'를 공개하며, 온디바이스 AI 에이전트 시대를 본격화합니다.",
+            "summary_en": "Microsoft and NVIDIA have partnered to introduce 'NVIDIA RTX Spark,' a powerful, high-efficiency platform designed to accelerate local AI agents and demanding workloads on the next generation of Windows PCs.",
+            "link": "https://blogs.windows.com/windowsexperience/2026/05/31/introducing-a-powerful-new-chapter-for-windows-pcs-accelerated-by-nvidia-rtx-spark"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1780289355000,
@@ -784,81 +865,6 @@
             "summary_kr": "구글이 공개한 '제미나이 옴니(Gemini Omni)'는 멀티모달 입력을 기반으로 자연어 대화를 통해 고품질 영상을 생성 및 편집할 수 있는 차세대 AI 모델입니다.",
             "summary_en": "Google's new 'Gemini Omni' is a next-generation multimodal model that enables the creation and conversational editing of high-quality videos by leveraging advanced reasoning and real-world knowledge.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779212700000,
-            "title": "Gemini 3.5: frontier intelligence with action",
-            "summary_kr": "구글이 공개한 Gemini 3.5 Flash는 향상된 코딩 및 에이전트 역량을 통해 복잡한 작업을 저비용·고속으로 처리하며, AI 모델의 성능과 속도 간의 균형을 혁신했습니다.",
-            "summary_en": "Google's Gemini 3.5 Flash delivers frontier-level intelligence and agentic performance at exceptional speeds, enabling efficient, large-scale execution of complex coding and real-world tasks.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779207267000,
-            "title": "Microsoft targets service hiding malware in plain sight",
-            "summary_kr": "마이크로소프트는 악성코드를 합법적인 소프트웨어로 위장해주는 서비스인 '폭스 템페스트(Fox Tempest)'를 상대로 법적 대응에 나서며, 고도화된 사이버 범죄 생태계의 인프라를 차단했습니다.",
-            "summary_en": "Microsoft has taken legal action against 'Fox Tempest,' a malware-signing-as-a-service provider that disguised malicious software as legitimate, effectively disrupting a key component of the evolving cybercrime ecosystem.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/05/19/disrupting-fox-tempest-a-cybercrime-service"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779205511000,
-            "title": "Why better AI starts with the people it often misses",
-            "summary_kr": "마이크로소프트는 장애인 커뮤니티와 협력하여 AI 모델 학습 데이터의 대표성을 높이고, 편향되지 않은 포용적인 AI 이미지를 생성하기 위한 프로젝트를 추진하고 있습니다.",
-            "summary_en": "Microsoft is partnering with disability communities to improve AI representation and develop unbiased datasets, ensuring that AI-generated imagery accurately reflects the lives of people with disabilities.",
-            "link": "https://news.microsoft.com/source/features/ai/why-better-ai-starts-with-the-people-it-often-misses"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779202800000,
-            "title": "How Ramp engineers accelerate code review with Codex",
-            "summary_kr": "램프(Ramp) 엔지니어들은 GPT-5.5 기반의 코덱스(Codex)를 도입하여 코드 리뷰 시간을 몇 시간에서 몇 분으로 단축했습니다. 또한, 코덱스를 활용한 온콜 어시스턴트(On-Call Assistant) 개발을 통해 복잡한 비즈니스 로직 운영의 효율성과 개발자 생산성을 극대화하고 있습니다.",
-            "summary_en": "Engineers at Ramp are utilizing Codex with GPT-5.5 to drastically accelerate code reviews, reducing turnaround time from hours to minutes. Additionally, the team is building an 'On-Call Assistant' agent to manage complex incident responses, significantly boosting developer productivity and operational efficiency.",
-            "link": "https://openai.com/index/ramp",
-            "date": "2026-05-20"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779202800000,
-            "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-            "summary_kr": "오픈AI의 모델이 80년간 풀리지 않았던 이산 기하학의 난제인 '에르되시 단위 거리 문제'를 해결했습니다. 이번 성과는 AI가 단순한 도구를 넘어 수학 연구 분야에서 독창적인 증명과 추론 능력을 갖췄음을 보여주는 중요한 이정표로 평가받습니다.",
-            "summary_en": "An OpenAI reasoning model has successfully disproved a long-standing conjecture in discrete geometry known as the unit distance problem. This milestone marks the first time an AI has independently solved a prominent open problem in mathematics, demonstrating advanced original reasoning capabilities.",
-            "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-            "date": "2026-05-20"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779202800000,
-            "title": "The next phase of OpenAI’s Education for Countries",
-            "summary_kr": "오픈AI는 '국가별 교육 프로그램'을 확대하며 싱가포르를 새로운 파트너로 맞이했습니다. 이 프로그램은 연구 기반의 AI 도입, 교사 교육, 현지 맞춤형 AI 도구 제공을 통해 국가적 차원의 학습 성과 개선과 교육 혁신을 지원합니다.",
-            "summary_en": "OpenAI is expanding its 'Education for Countries' initiative to include Singapore, focusing on research-driven AI deployment, educator upskilling, and the development of localized learning tools. The program aims to improve educational outcomes and foster responsible AI literacy on a national scale.",
-            "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-            "date": "2026-05-20"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779202800000,
-            "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-            "summary_kr": "클로드 코드(Claude Code) 팀은 복잡한 정보의 가독성을 높이고 시각적 상호작용을 지원하기 위해 기존 마크다운 대신 HTML 형식을 출력 방식으로 도입했습니다.",
-            "summary_en": "The Claude Code team has transitioned from Markdown to HTML for output generation to improve readability, support rich visualizations, and facilitate easier sharing of complex information.",
-            "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779202800000,
-            "title": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
-            "summary_kr": "앤스로픽의 영업 담당자가 AI 에이전트 '클로드 코워크(Claude Cowork)'를 활용해 4,000개의 고객 계정 관리, 데이터 분석, 보고서 작성을 자동화하여 업무 효율을 획기적으로 높였습니다.",
-            "summary_en": "An Anthropic sales leader is utilizing 'Claude Cowork' to automate the management of 4,000 accounts, including data assembly and territory scoring, drastically reducing manual workload.",
-            "link": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779187320000,
-            "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
-            "summary_kr": "구글은 연구 과정을 가속화하기 위해 다중 에이전트 AI 파트너인 '코-사이언티스트(Co-Scientist)'를 개발하여 과학적 발견의 효율성을 극대화하고 있습니다.",
-            "summary_en": "Google has developed 'Co-Scientist,' a multi-agent AI partner designed to accelerate scientific research and maximize the efficiency of complex discovery processes.",
-            "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research"
         }
     ]
 }

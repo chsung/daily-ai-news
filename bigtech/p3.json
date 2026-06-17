@@ -1,6 +1,81 @@
 {
-    "last_update": "2026-06-16 19:26:50",
+    "last_update": "2026-06-17 18:08:17",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1779212700000,
+            "title": "Gemini 3.5: frontier intelligence with action",
+            "summary_kr": "구글이 공개한 Gemini 3.5 Flash는 향상된 코딩 및 에이전트 역량을 통해 복잡한 작업을 저비용·고속으로 처리하며, AI 모델의 성능과 속도 간의 균형을 혁신했습니다.",
+            "summary_en": "Google's Gemini 3.5 Flash delivers frontier-level intelligence and agentic performance at exceptional speeds, enabling efficient, large-scale execution of complex coding and real-world tasks.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779207267000,
+            "title": "Microsoft targets service hiding malware in plain sight",
+            "summary_kr": "마이크로소프트는 악성코드를 합법적인 소프트웨어로 위장해주는 서비스인 '폭스 템페스트(Fox Tempest)'를 상대로 법적 대응에 나서며, 고도화된 사이버 범죄 생태계의 인프라를 차단했습니다.",
+            "summary_en": "Microsoft has taken legal action against 'Fox Tempest,' a malware-signing-as-a-service provider that disguised malicious software as legitimate, effectively disrupting a key component of the evolving cybercrime ecosystem.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/05/19/disrupting-fox-tempest-a-cybercrime-service"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779205511000,
+            "title": "Why better AI starts with the people it often misses",
+            "summary_kr": "마이크로소프트는 장애인 커뮤니티와 협력하여 AI 모델 학습 데이터의 대표성을 높이고, 편향되지 않은 포용적인 AI 이미지를 생성하기 위한 프로젝트를 추진하고 있습니다.",
+            "summary_en": "Microsoft is partnering with disability communities to improve AI representation and develop unbiased datasets, ensuring that AI-generated imagery accurately reflects the lives of people with disabilities.",
+            "link": "https://news.microsoft.com/source/features/ai/why-better-ai-starts-with-the-people-it-often-misses"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779202800000,
+            "title": "How Ramp engineers accelerate code review with Codex",
+            "summary_kr": "램프(Ramp) 엔지니어들은 GPT-5.5 기반의 코덱스(Codex)를 도입하여 코드 리뷰 시간을 몇 시간에서 몇 분으로 단축했습니다. 또한, 코덱스를 활용한 온콜 어시스턴트(On-Call Assistant) 개발을 통해 복잡한 비즈니스 로직 운영의 효율성과 개발자 생산성을 극대화하고 있습니다.",
+            "summary_en": "Engineers at Ramp are utilizing Codex with GPT-5.5 to drastically accelerate code reviews, reducing turnaround time from hours to minutes. Additionally, the team is building an 'On-Call Assistant' agent to manage complex incident responses, significantly boosting developer productivity and operational efficiency.",
+            "link": "https://openai.com/index/ramp",
+            "date": "2026-05-20"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779202800000,
+            "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+            "summary_kr": "오픈AI의 모델이 80년간 풀리지 않았던 이산 기하학의 난제인 '에르되시 단위 거리 문제'를 해결했습니다. 이번 성과는 AI가 단순한 도구를 넘어 수학 연구 분야에서 독창적인 증명과 추론 능력을 갖췄음을 보여주는 중요한 이정표로 평가받습니다.",
+            "summary_en": "An OpenAI reasoning model has successfully disproved a long-standing conjecture in discrete geometry known as the unit distance problem. This milestone marks the first time an AI has independently solved a prominent open problem in mathematics, demonstrating advanced original reasoning capabilities.",
+            "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+            "date": "2026-05-20"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779202800000,
+            "title": "The next phase of OpenAI’s Education for Countries",
+            "summary_kr": "오픈AI는 '국가별 교육 프로그램'을 확대하며 싱가포르를 새로운 파트너로 맞이했습니다. 이 프로그램은 연구 기반의 AI 도입, 교사 교육, 현지 맞춤형 AI 도구 제공을 통해 국가적 차원의 학습 성과 개선과 교육 혁신을 지원합니다.",
+            "summary_en": "OpenAI is expanding its 'Education for Countries' initiative to include Singapore, focusing on research-driven AI deployment, educator upskilling, and the development of localized learning tools. The program aims to improve educational outcomes and foster responsible AI literacy on a national scale.",
+            "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+            "date": "2026-05-20"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779202800000,
+            "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+            "summary_kr": "클로드 코드(Claude Code) 팀은 복잡한 정보의 가독성을 높이고 시각적 상호작용을 지원하기 위해 기존 마크다운 대신 HTML 형식을 출력 방식으로 도입했습니다.",
+            "summary_en": "The Claude Code team has transitioned from Markdown to HTML for output generation to improve readability, support rich visualizations, and facilitate easier sharing of complex information.",
+            "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779202800000,
+            "title": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+            "summary_kr": "앤스로픽의 영업 담당자가 AI 에이전트 '클로드 코워크(Claude Cowork)'를 활용해 4,000개의 고객 계정 관리, 데이터 분석, 보고서 작성을 자동화하여 업무 효율을 획기적으로 높였습니다.",
+            "summary_en": "An Anthropic sales leader is utilizing 'Claude Cowork' to automate the management of 4,000 accounts, including data assembly and territory scoring, drastically reducing manual workload.",
+            "link": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779187320000,
+            "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+            "summary_kr": "구글은 연구 과정을 가속화하기 위해 다중 에이전트 AI 파트너인 '코-사이언티스트(Co-Scientist)'를 개발하여 과학적 발견의 효율성을 극대화하고 있습니다.",
+            "summary_en": "Google has developed 'Co-Scientist,' a multi-agent AI partner designed to accelerate scientific research and maximize the efficiency of complex discovery processes.",
+            "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research"
+        },
         {
             "company": "Google",
             "timestamp": 1779187140000,
@@ -763,79 +838,6 @@
             "summary_kr": "앤스로픽은 금융 서비스 기업들이 연구, 거래, 규정 준수 등 복잡한 업무를 효율화할 수 있도록 지원하는 'Claude' 활용 가이드와 도입 로드맵을 발표했습니다.",
             "summary_en": "Anthropic has released a comprehensive deployment guide and adoption roadmap for financial services, enabling firms to leverage Claude across high-stakes tasks like underwriting, model reviews, and month-end financial closing.",
             "link": "https://claude.com/blog/deploying-claude-across-financial-services"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1777906800000,
-            "title": "Agents for financial services",
-            "summary_kr": "앤스로픽은 금융 업무 특화 에이전트 템플릿 10종과 마이크로소프트 365 연동 기능을 출시하여, 복잡한 재무 업무를 자동화하고 전문적인 데이터 활용도를 높였습니다.",
-            "summary_en": "Anthropic introduced 10 specialized agent templates and Microsoft 365 integration for finance, allowing professionals to automate complex tasks like pitchbook drafting and KYC screening with state-of-the-art performance on industry benchmarks.",
-            "link": "https://www.anthropic.com/news/finance-agents"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777820400000,
-            "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-            "summary_kr": "오픈AI와 PwC는 재무 부서의 디지털 전환을 위해 기업의 재무 업무를 자동화하고 의사결정을 최적화하는 AI 에이전트 솔루션을 공동 개발합니다. 이 협력은 예산 계획, 회계 결산, 계약 검토 등 반복적인 재무 프로세스에 AI를 적용하여 생산성을 높이고, 실질적인 기업 거버넌스를 갖춘 에이전트 워크플로우 구축을 목표로 합니다.",
-            "summary_en": "OpenAI and PwC are collaborating to develop AI agents that automate finance operations, including forecasting, procurement, and accounting close. This partnership leverages OpenAI's models and PwC's implementation expertise to help enterprises streamline financial decision-making and deploy secure, agentic workflows.",
-            "link": "https://openai.com/index/openai-pwc-finance-collaboration",
-            "date": "2026-05-04"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1777820400000,
-            "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-            "summary_kr": "앤스로픽은 블랙스톤, 골드만삭스 등과 함께 중견 기업의 AI 도입을 지원하는 신규 서비스 기업을 설립하여, 기업별 맞춤형 Claude 솔루션 제공 역량을 강화했습니다.",
-            "summary_en": "Anthropic has partnered with Blackstone, Goldman Sachs, and other major firms to launch an AI services company dedicated to helping mid-sized businesses build and scale custom Claude-powered solutions.",
-            "link": "https://www.anthropic.com/news/enterprise-ai-services-company"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1777568400000,
-            "title": "Speed Up Unreal Engine NNE Inference with NVIDIA TensorRT for RTX Runtime",
-            "summary_kr": "엔비디아는 언리얼 엔진 5의 NNE(Neural Network Engine)를 위한 'TensorRT for RTX' 플러그인을 공개하여 실시간 그래픽 환경에서 AI 모델의 추론 성능을 크게 향상시켰습니다.",
-            "summary_en": "NVIDIA introduced the TensorRT for RTX plugin for Unreal Engine 5's Neural Network Engine, significantly boosting real-time AI inference performance for graphics workflows compared to standard runtimes like DirectML.",
-            "link": "https://developer.nvidia.com/blog/speed-up-unreal-engine-nne-inference-with-nvidia-tensorrt-for-rtx-runtime"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1777568400000,
-            "title": "Build AI-Powered Games with NVIDIA DLSS 4.5, RTX, and Unreal Engine 5",
-            "summary_kr": "엔비디아는 DLSS 4.5 SDK와 Kimodo 모션 생성 모델을 발표하여 게임 개발자들이 고품질 그래픽과 사실적인 3D 애니메이션을 효율적으로 구현하도록 지원합니다.",
-            "summary_en": "NVIDIA released the DLSS 4.5 SDK and the Kimodo motion generation model, providing game developers with advanced AI-driven rendering and automated character animation capabilities.",
-            "link": "https://developer.nvidia.com/blog/build-ai-powered-games-with-nvidia-dlss-4-5-rtx-and-unreal-engine-5"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1777566900000,
-            "title": "How people ask Claude for personal guidance",
-            "summary_kr": "앤스로픽은 사용자가 Claude로부터 얻는 개인적 조언의 패턴을 연구하여, AI가 맹목적으로 동조하는 현상을 줄이고 사용자의 웰빙을 보호할 수 있는 모델 개선책을 마련했습니다.",
-            "summary_en": "Anthropic analyzed 1 million user conversations to study how people seek personal guidance, using the findings to reduce sycophancy in models like Claude Opus 4.7 and improve user safety.",
-            "link": "https://www.anthropic.com/research/claude-personal-guidance"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1777565764000,
-            "title": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
-            "summary_kr": "엔비디아는 ComfyUI를 기반으로 한 생성형 AI 워크플로우 툴킷을 공개하여, 크리에이터들이 로컬 환경에서 이미지 분할, 객체 제거, 3D 모델 생성을 자동화하도록 지원합니다.",
-            "summary_en": "NVIDIA released a GenAI Creator Toolkit for ComfyUI, enabling creators to build and run automated local workflows for professional image segmentation, object removal, and 3D asset generation on RTX GPUs.",
-            "link": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1777564478000,
-            "title": "Automating GPU Kernel Translation with AI Agents: cuTile Python to cuTile.jl",
-            "summary_kr": "엔비디아는 AI 에이전트를 활용하여 Python 환경의 cuTile GPU 커널을 Julia 언어인 cuTile.jl로 자동 변환하는 기술을 개발해 개발 효율성을 대폭 개선했습니다.",
-            "summary_en": "NVIDIA introduced an AI-assisted workflow using TileGym to automate the translation of GPU kernels from Python-based cuTile to Julia's cuTile.jl, preventing manual errors and accelerating scientific computing.",
-            "link": "https://developer.nvidia.com/blog/automating-gpu-kernel-translation-with-ai-agents-cutile-python-to-cutile-jl"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1777561200000,
-            "title": "How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks",
-            "summary_kr": "비전문가 프로젝트 매니저가 Claude Code만을 활용해 6주 만에 스트레스 관리 앱 'Respiro'를 개발 및 출시하며, 코드 작성 경험 없이도 복잡한 에이전트 시스템을 구축할 수 있음을 입증했습니다.",
-            "summary_en": "A non-technical project manager successfully built and shipped 'Respiro,' an AI-powered stress management app, in just six weeks using Claude Code, demonstrating how agents can empower non-coders to architect complex software.",
-            "link": "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks"
         }
     ]
 }

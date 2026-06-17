@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-06-16 19:26:50",
+    "last_update": "2026-06-17 18:08:17",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1781715638000,
+            "date": "2026-06-17",
+            "title": "Y Combinator and Microsoft partner to support the next generation of AI startups",
+            "summary_kr": "Y Combinator와 마이크로소프트가 파트너십을 확대하여 차세대 AI 스타트업들에게 Azure 기반의 고성능 인프라, 기술 지원 및 기업용 시장 진입 경로를 제공합니다.",
+            "summary_en": "Y Combinator and Microsoft have expanded their partnership to provide next-gen AI startups with access to Azure's high-performance infrastructure, technical expertise, and enterprise-grade go-to-market resources.",
+            "link": "https://www.microsoft.com/en-us/startups/blog/y-combinator-and-microsoft-partner-to-support-the-next-generation-of-ai-startups"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1781708400000,
+            "date": "2026-06-17",
+            "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+            "summary_kr": "구글의 의료 AI 'AMIE'가 방대한 임상 지식과 제미나이 모델을 활용해 장기적인 질병 관리 및 치료 계획 수립에서 전문의와 대등하거나 더 뛰어난 성능을 입증했습니다.",
+            "summary_en": "Google's medical AI, AMIE, leverages the Gemini model and clinical guidelines to achieve performance on par with or superior to physicians in long-term disease management and treatment planning.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781690400000,
+            "date": "2026-06-17",
+            "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+            "summary_kr": "OpenAI와 Molecule.one은 자율형 AI 화학자 '마리아'와 GPT-5.4를 결합하여 난제였던 찬-람 커플링 반응의 수율을 성공적으로 개선했습니다. 이는 AI가 연구 전 과정을 주도하며 과학적 난제를 해결하는 실질적인 파트너로 발전할 수 있음을 입증한 사례입니다.",
+            "summary_en": "OpenAI and Molecule.one successfully improved the challenging Chan-Lam coupling reaction by integrating GPT-5.4 with the autonomous AI chemist 'Maria.' This achievement demonstrates the potential for AI to serve as an effective research partner by autonomously navigating the scientific workflow to solve complex chemical problems.",
+            "link": "https://openai.com/index/ai-chemist-improves-reaction"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1781654400000,
+            "date": "2026-06-17",
+            "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+            "summary_kr": "앤스로픽이 서울 사무소를 개소하며 네이버, LG CNS, 삼성 SDS 등 한국 주요 기업 및 연구 기관과의 파트너십을 강화해 AI 생태계 확장에 나섰습니다.",
+            "summary_en": "Anthropic has officially opened its Seoul office and is expanding its AI ecosystem in Korea through strategic partnerships with major enterprises like Naver, LG CNS, and Samsung SDS, as well as academic research institutions.",
+            "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781653740000,
+            "date": "2026-06-16",
+            "title": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace  - Source Asia",
+            "summary_kr": "시드니 대학교가 개발한 AI 교육 플랫폼 'Cogniti'가 마이크로소프트 마켓플레이스 출시를 통해 교육자가 맞춤형 AI 튜터를 직접 설계하도록 지원하며 글로벌 교육 성과를 혁신하고 있습니다.",
+            "summary_en": "The University of Sydney’s AI platform, 'Cogniti', has launched on Microsoft Marketplace, empowering educators to build bespoke AI agents that drive global educational outcomes and improve student performance.",
+            "link": "https://news.microsoft.com/source/asia/2026/06/16/usyd-takes-cogniti-global"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781649000000,
+            "date": "2026-06-16",
+            "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
+            "summary_kr": "NVIDIA가 공개한 XR AI는 AR 글래스 및 XR 기기에서 실시간 시각·음성 정보를 처리하고 엔터프라이즈 데이터와 연동되는 지능형 에이전트 개발을 위한 오픈소스 인프라를 제공합니다.",
+            "summary_en": "NVIDIA XR AI provides an open-source infrastructure that enables developers to build intelligent agents capable of processing real-time multimodal inputs and integrating enterprise data for AR and XR devices.",
+            "link": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781641808000,
+            "date": "2026-06-16",
+            "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
+            "summary_kr": "금융 거래 데이터의 순차적 패턴을 학습하는 트랜스포머 기반 파운데이션 모델이 기존의 수동 피처 엔지니어링을 대체하며 사기 탐지 및 신용 평가 등 다양한 금융 업무에서 성능을 혁신하고 있습니다.",
+            "summary_en": "Transformer-based foundation models are revolutionizing financial intelligence by learning sequential transaction patterns, replacing brittle manual feature engineering to significantly enhance performance in tasks like fraud detection and credit scoring.",
+            "link": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781639985000,
+            "date": "2026-06-16",
+            "title": "Achieving success with AI - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 기업이 독자적인 경쟁력을 강화하려면 특정 모델에 종속되지 않는 개방형 플랫폼 환경과 함께, 비용 효율성 및 보안을 보장하는 신뢰 기반의 AI 전략이 필수적이라고 강조합니다.",
+            "summary_en": "Microsoft emphasizes that for organizations to thrive, they must adopt an open, model-diverse platform that prioritizes 'Intelligence + Trust' to ensure strategic autonomy, cost optimization, and secure governance.",
+            "link": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1781568000000,
+            "date": "2026-06-16",
+            "title": "Grok Imagine Video 1.5",
+            "summary_kr": "xAI가 공개한 Grok Imagine Video 1.5는 향상된 물리 효과와 오디오 동기화 및 2배 빠른 생성 속도를 갖추었으며, 워크플로우 효율을 위한 새로운 프로젝트 관리 기능을 제공합니다.",
+            "summary_en": "xAI has launched Grok Imagine Video 1.5, featuring superior motion, physics, and audio synchronization alongside doubled generation speeds and new workflow-enhancing project management tools.",
+            "link": "https://x.ai/news/grok-imagine-video-1-5"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1781654400000,
@@ -819,87 +900,6 @@
             "summary_kr": "클로드 미토스(Claude Mythos)를 활용해 소프트웨어 취약점을 탐지하는 '프로젝트 글라스윙(Project Glasswing)'이 150개 신규 기관으로 확대되며, AI를 통한 사이버 보안 방어 체계 강화에 나섭니다.",
             "summary_en": "Project Glasswing is expanding to 150 new organizations to leverage Claude Mythos for detecting critical software vulnerabilities and strengthening global cybersecurity defenses.",
             "link": "https://www.anthropic.com/news/expanding-project-glasswing"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780358400000,
-            "date": "2026-06-02",
-            "title": "A harness for every task: dynamic workflows in Claude Code",
-            "summary_kr": "Claude Code가 복잡한 작업을 효율적으로 처리하기 위해 맞춤형 다중 에이전트 워크플로우를 즉석에서 생성 및 조정하는 기능을 도입했습니다. 이를 통해 사용자는 작업별 최적화된 에이전트 환경을 구축하여 고도의 문제 해결 역량을 확보할 수 있습니다.",
-            "summary_en": "Claude Code has introduced dynamic workflows, enabling the model to autonomously create and orchestrate custom multi-agent harnesses tailored to specific complex tasks. This capability improves performance by delegating sub-tasks to isolated agents, optimizing both context management and execution.",
-            "link": "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780351200000,
-            "date": "2026-06-01",
-            "title": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
-            "summary_kr": "엔비디아는 DGX Spark를 통해 로컬 환경에서 자율형 AI 에이전트를 신속하게 구축하고 실행할 수 있도록 지원하며, NemoClaw를 도입하여 설치 과정을 대폭 간소화하고 멀티 노드 클러스터링 기능을 강화했습니다.",
-            "summary_en": "NVIDIA has streamlined the local deployment of autonomous AI agents on DGX Spark by introducing NemoClaw, significantly reducing setup time while enhancing performance and multi-node scalability.",
-            "link": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780333200000,
-            "date": "2026-06-01",
-            "title": "Our views on AI policy and political advocacy",
-            "summary_kr": "OpenAI는 AI 정책이 당파적 정치를 넘어선 중요한 사안임을 강조하며, 특정 정치 단체에 기부하거나 후원하지 않는 중립적 입장을 고수하고 정책적 견해를 직접 투명하게 밝히겠다고 선언했습니다.",
-            "summary_en": "OpenAI emphasizes that AI policy transcends partisan politics, maintaining a neutral stance by refusing political donations while committing to transparently advocating for its own policy views directly.",
-            "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1780329600000,
-            "date": "2026-06-01",
-            "title": "How we used Gemini to build Google I/O 2026",
-            "summary_kr": "구글은 I/O 2026 행사의 기획 및 제작 전 과정에 제미나이 등 최신 AI 도구를 적극 도입하여, 인간의 창의성과 기술의 효율성을 결합한 혁신적인 제작 방식을 선보였습니다.",
-            "summary_en": "Google leveraged its Gemini-powered AI tools throughout the planning and production of I/O 2026, demonstrating a collaborative workflow that blends human artistry with generative technology to redefine event creation.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780315200000,
-            "date": "2026-06-01",
-            "title": "Building the infrastructure for the Intelligence Age in Michigan",
-            "summary_kr": "OpenAI가 미시간주에 1GW 규모의 '더 반(The Barn)' 데이터 센터 착공을 발표하며, 지역사회 상생, 일자리 창출, 교육 지원을 통해 인공지능 시대를 위한 지속 가능한 인프라를 구축합니다.",
-            "summary_en": "OpenAI has broken ground on 'The Barn,' a 1GW data center in Michigan, committing to local economic growth, job creation, and extensive AI literacy programs for students as part of its strategy to build sustainable AI infrastructure.",
-            "link": "https://openai.com/index/stargate-michigan-data-center"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780308000000,
-            "date": "2026-06-01",
-            "title": "OpenAI frontier models and Codex are now available on AWS",
-            "summary_kr": "AWS가 오픈AI의 최신 모델과 코드 생성 모델인 코덱스를 자사 플랫폼에 정식 도입함으로써, 기업들이 기존 보안 및 거버넌스 체계 안에서 AI를 보다 쉽고 빠르게 도입할 수 있게 되었습니다.",
-            "summary_en": "AWS has integrated OpenAI's frontier models and Codex into its platform, enabling enterprises to deploy advanced AI solutions more efficiently within their existing security and governance workflows.",
-            "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780272000000,
-            "date": "2026-06-01",
-            "title": "Anthropic confidentially submits draft S-1 to the SEC",
-            "summary_kr": "AI 기업 앤스로픽이 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 S-1 등록 서류 초안을 비공개로 제출하며 상장 절차에 착수했습니다.",
-            "summary_en": "AI startup Anthropic has officially initiated the IPO process by confidentially submitting a draft S-1 registration statement to the U.S. SEC.",
-            "link": "https://www.anthropic.com/news/confidential-draft-s1-sec"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1780272000000,
-            "date": "2026-06-01",
-            "title": "Composer 2.5",
-            "summary_kr": "X의 Grok 빌드에 복잡한 지시 사항과 긴 작업 처리에 최적화된 최신 AI 모델 'Composer 2.5'가 출시되었습니다.",
-            "summary_en": "Composer 2.5 has been released on Grok Build, offering state-of-the-art performance for complex, long-running tasks.",
-            "link": "https://x.ai/news/composer-2-5"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1780323255000,
-            "date": "2026-06-01",
-            "title": "Introducing a powerful new chapter for Windows PCs, accelerated by NVIDIA RTX Spark",
-            "summary_kr": "마이크로소프트와 엔비디아가 협력하여 1페타플롭 규모의 AI 성능과 고효율을 갖춘 차세대 윈도우 PC용 'NVIDIA RTX Spark'를 공개하며, 온디바이스 AI 에이전트 시대를 본격화합니다.",
-            "summary_en": "Microsoft and NVIDIA have partnered to introduce 'NVIDIA RTX Spark,' a powerful, high-efficiency platform designed to accelerate local AI agents and demanding workloads on the next generation of Windows PCs.",
-            "link": "https://blogs.windows.com/windowsexperience/2026/05/31/introducing-a-powerful-new-chapter-for-windows-pcs-accelerated-by-nvidia-rtx-spark"
         }
     ]
 }
