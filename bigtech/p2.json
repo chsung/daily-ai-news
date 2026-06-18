@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-06-17 18:08:17",
+    "last_update": "2026-06-18 18:20:21",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780426800000,
+            "date": "2026-06-02",
+            "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
+            "summary_kr": "마이크로소프트와 엔비디아는 윈도우 환경에서 안전하고 강력한 개인용 AI 에이전트를 개발 및 실행할 수 있도록 보안 프레임워크와 전용 하드웨어, 최적화된 도구들을 통합 발표했습니다.",
+            "summary_en": "Microsoft and NVIDIA have partnered to accelerate personal AI agent development by introducing robust security frameworks, dedicated hardware, and optimized tools for the Windows platform.",
+            "link": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780416000000,
+            "date": "2026-06-02",
+            "title": "Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA NemoClaw",
+            "summary_kr": "NVIDIA NemoClaw와 Hermes Agent는 안전한 샌드박스 환경에서 내부 및 외부 데이터를 통합하여 자가 학습하고 효율적으로 연구를 수행하는 AI 에이전트 구축 솔루션을 제공합니다.",
+            "summary_en": "NVIDIA NemoClaw and Hermes Agent provide a secure, sandbox-based solution for deploying self-evolving AI agents that synthesize internal and public data to accelerate research.",
+            "link": "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780401600000,
+            "date": "2026-06-02",
+            "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+            "summary_kr": "보험사 트래블러스(Travelers)는 오픈AI의 실시간 음성 API를 활용한 'AI 클레임 어시스턴트'를 전국에 도입해, 고객의 보험금 청구 완료율을 90%까지 끌어올리며 운영 효율성을 대폭 개선했습니다.",
+            "summary_en": "Travelers has successfully deployed an AI Claim Assistant powered by OpenAI’s real-time models nationwide, achieving a 90% claim completion rate and significantly improving operational scalability.",
+            "link": "https://openai.com/index/travelers"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780390800000,
+            "date": "2026-06-02",
+            "title": "Codex for every role, tool, and workflow",
+            "summary_kr": "Codex는 소프트웨어 개발을 넘어 비개발 직군으로 사용자가 급증함에 따라, 업무 도구와 연동되는 맞춤형 플러그인과 인터랙티브 기능 등을 도입하여 업무 생산성 플랫폼으로 진화하고 있습니다.",
+            "summary_en": "Codex is evolving into a comprehensive productivity platform by introducing role-specific plugins and interactive tools that integrate seamlessly with various workflows, catering to its rapidly growing non-developer user base.",
+            "link": "https://openai.com/index/codex-for-every-role-tool-workflow"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780383600000,
+            "date": "2026-06-02",
+            "title": "Advancing youth safety and opportunity through global leadership",
+            "summary_kr": "OpenAI는 청소년을 위한 안전한 AI 환경 조성을 위해 G7 정상회의에서 국제 청소년 AI 안전 연구소 설립을 제안하며, 기업의 책임 있는 안전 가이드라인 준수를 촉구했습니다.",
+            "summary_en": "OpenAI is advocating for the establishment of an international youth AI safety institute at the G7 Summit to foster a secure digital environment and is calling for industry-wide adoption of robust, age-appropriate safety standards.",
+            "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780365600000,
+            "date": "2026-06-02",
+            "title": "Codex is becoming a productivity tool for everyone",
+            "summary_kr": "OpenAI의 Codex가 단순한 코딩 도구를 넘어 지식 노동자의 업무 자동화와 효율성을 극대화하는 범용 생산성 도구로 진화하며 업무 방식의 근본적인 변화를 주도하고 있습니다.",
+            "summary_en": "OpenAI's Codex is evolving from a specialized coding tool into a universal productivity platform, significantly boosting efficiency and automating routine tasks for knowledge workers across diverse industries.",
+            "link": "https://openai.com/index/codex-for-knowledge-work"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780365600000,
+            "date": "2026-06-02",
+            "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
+            "summary_kr": "엔비디아 JetPack 7.2는 NemoClaw를 통한 에이전트형 AI 배포와 맞춤형 'Jetson 에이전트 스킬'을 도입하여, 엣지 환경에서 개발 효율성을 극대화하고 하드웨어 성능을 최적화합니다.",
+            "summary_en": "NVIDIA JetPack 7.2 enables agentic AI deployment via NemoClaw and introduces 'Jetson agent skills' to automate development workflows, significantly boosting efficiency and performance for edge AI applications.",
+            "link": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780358400000,
+            "date": "2026-06-02",
+            "title": "Expanding Project Glasswing",
+            "summary_kr": "클로드 미토스(Claude Mythos)를 활용해 소프트웨어 취약점을 탐지하는 '프로젝트 글라스윙(Project Glasswing)'이 150개 신규 기관으로 확대되며, AI를 통한 사이버 보안 방어 체계 강화에 나섭니다.",
+            "summary_en": "Project Glasswing is expanding to 150 new organizations to leverage Claude Mythos for detecting critical software vulnerabilities and strengthening global cybersecurity defenses.",
+            "link": "https://www.anthropic.com/news/expanding-project-glasswing"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1780358400000,
@@ -801,70 +873,6 @@
             "summary_kr": "구글의 '러닝 가이드 에이전트'는 온디바이스 AI와 멀티 에이전트 프레임워크를 활용해 시각장애인 러너들에게 실시간 환경 인식을 제공함으로써 물리적 도움 없이 독립적인 러닝을 가능하게 합니다.",
             "summary_en": "Google's 'Running Guide agent' leverages on-device AI and a multi-agent framework to provide real-time environmental awareness, enabling blind and low-vision athletes to run independently without physical assistance.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779234045000,
-            "title": "NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents",
-            "summary_kr": "엔비디아는 AI 에이전트의 기술(Skill)을 검증, 서명, 문서화하는 표준화된 체계를 도입하여 기업이 자율형 AI 에이전트의 역량을 안전하고 신뢰할 수 있게 관리하도록 지원합니다.",
-            "summary_en": "NVIDIA has introduced a standardized framework to verify, sign, and document AI agent skills, enabling enterprises to manage autonomous agent capabilities with greater security, transparency, and trust.",
-            "link": "https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779220800000,
-            "title": "Mastering Agentic Techniques: AI Agent Evaluation",
-            "summary_kr": "AI 모델 평가는 정적 데이터셋을 통한 엔진의 지적 능력을 측정하는 반면, AI 에이전트 평가는 도구 사용과 추론 과정을 포함한 역동적인 환경에서의 실제 과업 완수 능력과 수행 효율성을 검증하는 데 중점을 둡니다.",
-            "summary_en": "While AI model evaluation focuses on measuring static cognitive capabilities, AI agent evaluation prioritizes end-to-end performance, specifically tracking task success rates and workflow trajectories within dynamic, real-world environments.",
-            "link": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779212700000,
-            "title": "Simulate real-world places with Project Genie and Street View",
-            "summary_kr": "구글은 생성형 월드 모델인 '프로젝트 지니(Project Genie)'에 스트리트 뷰 데이터를 결합하여 실제 지형 기반의 상호작용 가능한 가상 환경을 구현하고, 이를 구글 AI 울트라 구독자들에게 공개했습니다.",
-            "summary_en": "Google has integrated Street View data into its generative world model, 'Project Genie,' enabling the creation of interactive, reality-grounded virtual environments for AI agents and users.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779212700000,
-            "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-            "summary_kr": "구글은 방대한 과학 데이터를 분석하고 가설 생성부터 실험, 문헌 조사를 자동화하는 '제미나이 포 사이언스(Gemini for Science)'를 통해 과학적 발견의 속도와 정밀도를 획기적으로 높이고 있습니다.",
-            "summary_en": "Google has introduced 'Gemini for Science' to accelerate scientific discovery by automating hypothesis generation, computational experimentation, and literature synthesis for researchers and enterprise R&D.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779212700000,
-            "title": "We’re introducing new ways to design in real time with Stitch.",
-            "summary_kr": "구글은 사용자가 텍스트나 음성으로 실시간 협업하며 디자인을 수정하고 배포할 수 있는 AI 에이전트 'Stitch'를 공개했습니다.",
-            "summary_en": "Google has introduced 'Stitch,' an AI agent that enables real-time collaborative design iterations through text and voice inputs with seamless export capabilities.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-updates"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779212700000,
-            "title": "New agents, mobile apps and Gemini Omni for Google Flow and Google Flow Music",
-            "summary_kr": "구글은 'Google Flow'와 'Flow Music'에 제미나이 옴니(Gemini Omni) 모델, AI 창작 에이전트, 자연어 기반 도구 생성 기능을 도입하여 크리에이터들의 영상 및 음악 제작 워크플로우를 혁신적으로 강화했습니다.",
-            "summary_en": "Google has significantly upgraded its 'Google Flow' and 'Flow Music' platforms by integrating the Gemini Omni model, AI-driven creative agents, and natural language-based tool building to enhance professional video and music production workflows.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779212700000,
-            "title": "Pomelli adds new ways to build brand content and design websites.",
-            "summary_kr": "구글의 포멜리(Pomelli)가 AI 에이전트 기능을 도입하여 중소기업이 브랜드 아이덴티티를 구축하고 브랜드 가이드북과 웹사이트를 손쉽게 제작할 수 있도록 지원합니다.",
-            "summary_en": "Google's Pomelli has introduced new agentic capabilities that enable small and medium-sized businesses to easily define their brand identity and automatically generate brand books and websites.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-agentic-capabilities"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779212700000,
-            "title": "Introducing Gemini Omni",
-            "summary_kr": "구글이 공개한 '제미나이 옴니(Gemini Omni)'는 멀티모달 입력을 기반으로 자연어 대화를 통해 고품질 영상을 생성 및 편집할 수 있는 차세대 AI 모델입니다.",
-            "summary_en": "Google's new 'Gemini Omni' is a next-generation multimodal model that enables the creation and conversational editing of high-quality videos by leveraging advanced reasoning and real-world knowledge.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni"
         }
     ]
 }

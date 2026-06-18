@@ -1,6 +1,70 @@
 {
-    "last_update": "2026-06-17 18:08:17",
+    "last_update": "2026-06-18 18:20:21",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779234045000,
+            "title": "NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents",
+            "summary_kr": "엔비디아는 AI 에이전트의 기술(Skill)을 검증, 서명, 문서화하는 표준화된 체계를 도입하여 기업이 자율형 AI 에이전트의 역량을 안전하고 신뢰할 수 있게 관리하도록 지원합니다.",
+            "summary_en": "NVIDIA has introduced a standardized framework to verify, sign, and document AI agent skills, enabling enterprises to manage autonomous agent capabilities with greater security, transparency, and trust.",
+            "link": "https://developer.nvidia.com/blog/nvidia-verified-agent-skills-provide-capability-governance-for-ai-agents"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779220800000,
+            "title": "Mastering Agentic Techniques: AI Agent Evaluation",
+            "summary_kr": "AI 모델 평가는 정적 데이터셋을 통한 엔진의 지적 능력을 측정하는 반면, AI 에이전트 평가는 도구 사용과 추론 과정을 포함한 역동적인 환경에서의 실제 과업 완수 능력과 수행 효율성을 검증하는 데 중점을 둡니다.",
+            "summary_en": "While AI model evaluation focuses on measuring static cognitive capabilities, AI agent evaluation prioritizes end-to-end performance, specifically tracking task success rates and workflow trajectories within dynamic, real-world environments.",
+            "link": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-evaluation"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779212700000,
+            "title": "Simulate real-world places with Project Genie and Street View",
+            "summary_kr": "구글은 생성형 월드 모델인 '프로젝트 지니(Project Genie)'에 스트리트 뷰 데이터를 결합하여 실제 지형 기반의 상호작용 가능한 가상 환경을 구현하고, 이를 구글 AI 울트라 구독자들에게 공개했습니다.",
+            "summary_en": "Google has integrated Street View data into its generative world model, 'Project Genie,' enabling the creation of interactive, reality-grounded virtual environments for AI agents and users.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779212700000,
+            "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+            "summary_kr": "구글은 방대한 과학 데이터를 분석하고 가설 생성부터 실험, 문헌 조사를 자동화하는 '제미나이 포 사이언스(Gemini for Science)'를 통해 과학적 발견의 속도와 정밀도를 획기적으로 높이고 있습니다.",
+            "summary_en": "Google has introduced 'Gemini for Science' to accelerate scientific discovery by automating hypothesis generation, computational experimentation, and literature synthesis for researchers and enterprise R&D.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779212700000,
+            "title": "We’re introducing new ways to design in real time with Stitch.",
+            "summary_kr": "구글은 사용자가 텍스트나 음성으로 실시간 협업하며 디자인을 수정하고 배포할 수 있는 AI 에이전트 'Stitch'를 공개했습니다.",
+            "summary_en": "Google has introduced 'Stitch,' an AI agent that enables real-time collaborative design iterations through text and voice inputs with seamless export capabilities.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-updates"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779212700000,
+            "title": "New agents, mobile apps and Gemini Omni for Google Flow and Google Flow Music",
+            "summary_kr": "구글은 'Google Flow'와 'Flow Music'에 제미나이 옴니(Gemini Omni) 모델, AI 창작 에이전트, 자연어 기반 도구 생성 기능을 도입하여 크리에이터들의 영상 및 음악 제작 워크플로우를 혁신적으로 강화했습니다.",
+            "summary_en": "Google has significantly upgraded its 'Google Flow' and 'Flow Music' platforms by integrating the Gemini Omni model, AI-driven creative agents, and natural language-based tool building to enhance professional video and music production workflows.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779212700000,
+            "title": "Pomelli adds new ways to build brand content and design websites.",
+            "summary_kr": "구글의 포멜리(Pomelli)가 AI 에이전트 기능을 도입하여 중소기업이 브랜드 아이덴티티를 구축하고 브랜드 가이드북과 웹사이트를 손쉽게 제작할 수 있도록 지원합니다.",
+            "summary_en": "Google's Pomelli has introduced new agentic capabilities that enable small and medium-sized businesses to easily define their brand identity and automatically generate brand books and websites.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-agentic-capabilities"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779212700000,
+            "title": "Introducing Gemini Omni",
+            "summary_kr": "구글이 공개한 '제미나이 옴니(Gemini Omni)'는 멀티모달 입력을 기반으로 자연어 대화를 통해 고품질 영상을 생성 및 편집할 수 있는 차세대 AI 모델입니다.",
+            "summary_en": "Google's new 'Gemini Omni' is a next-generation multimodal model that enables the creation and conversational editing of high-quality videos by leveraging advanced reasoning and real-world knowledge.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni"
+        },
         {
             "company": "Google",
             "timestamp": 1779212700000,
@@ -769,75 +833,6 @@
             "summary_kr": "기업은 AI와의 협업 모델을 저자에서 오케스트레이터 단계로 고도화하고, 인간의 역할을 실행 중심에서 전략적 방향 설정과 결과 평가로 재정의해야 합니다. 성공적인 전환을 위해서는 단순히 기술을 도입하는 것을 넘어 조직의 문화와 구조를 AI 중심의 학습 시스템으로 재설계하는 리더십이 필수적입니다.",
             "summary_en": "Organizations must shift their operating model from individual AI assistance to advanced orchestration, moving human focus from tactical execution to strategic direction and oversight. The core challenge for leaders is not just technical adoption, but redesigning organizational culture and workflows to integrate AI as a systemic strategic advantage.",
             "link": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1777928105000,
-            "title": "Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills",
-            "summary_kr": "엔비디아는 AI 에이전트가 복잡한 공급망 문제를 자연어로 이해하고 최적의 결정을 내릴 수 있도록 돕는 'cuOpt 에이전트 스킬'을 공개했습니다. 이 솔루션은 GPU 가속 최적화 엔진을 활용해 기존 CPU 방식보다 훨씬 빠르게 물류 및 재고 계획을 수행하며, 기업이 급변하는 시장 상황에 유연하게 대응하도록 지원합니다.",
-            "summary_en": "NVIDIA has released 'cuOpt agent skills' to enable AI agents to solve complex supply chain optimization problems using natural language input. By leveraging GPU-accelerated solvers, this tool allows for real-time logistics and inventory decision-making, far outperforming traditional CPU-based optimization methods.",
-            "link": "https://developer.nvidia.com/blog/optimize-supply-chain-decision-systems-using-nvidia-cuopt-agent-skills"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1777914000000,
-            "title": "The latest AI news we announced in April 2026",
-            "summary_kr": "구글은 2026년 4월 'Cloud Next'를 통해 기업용 에이전트 플랫폼, 8세대 TPU, Gemma 4 등 자율적 에이전트 시대를 가속화할 혁신적인 AI 기술과 도구를 대거 발표했습니다.",
-            "summary_en": "In April 2026, Google accelerated the era of agentic AI by unveiling key innovations at Cloud Next, including the Gemini Enterprise Agent Platform, 8th-gen TPUs, and the highly capable Gemma 4 open model.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777906800000,
-            "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-            "summary_kr": "오픈AI는 더 높은 정확도와 간결한 답변을 제공하는 'GPT-5.5 Instant' 모델을 공개했습니다. 이전 버전 대비 의료, 법률, 금융 분야에서의 환각 현상을 52.5% 줄였으며, 사용자 개인별 맥락을 더 잘 반영하는 새로운 메모리 관리 기능과 함께 전 세계 사용자에게 순차적으로 배포됩니다.",
-            "summary_en": "OpenAI has released 'GPT-5.5 Instant,' which improves factuality in high-stakes fields like medicine and law with 52.5% fewer hallucinations compared to its predecessor. The update features enhanced personalization capabilities and improved context management, rolling out to all users globally.",
-            "link": "https://openai.com/index/gpt-5-5-instant",
-            "date": "2026-05-05"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777906800000,
-            "title": "New ways to buy ChatGPT ads",
-            "summary_kr": "오픈AI가 챗GPT 내 광고 플랫폼을 확장하며 광고주들이 직접 캠페인을 관리할 수 있는 베타 셀프서비스 관리 도구와 클릭당 비용(CPC) 입찰 방식을 도입했습니다. 이를 통해 기업들은 개인 정보를 보호하면서도 사용자의 질문 의도에 최적화된 광고를 효율적으로 집행할 수 있게 되었습니다.",
-            "summary_en": "OpenAI is expanding its ChatGPT ad platform by launching a self-serve Ads Manager and introducing cost-per-click (CPC) bidding. These tools allow businesses to manage campaigns and measure performance while maintaining user privacy and ensuring ads remain relevant to the conversational context.",
-            "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-            "date": "2026-05-05"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777906800000,
-            "title": "GPT-5.5 Instant System Card",
-            "summary_kr": "GPT-5.5 Instant 모델에 대한 시스템 카드가 공개되었으며, 해당 모델은 사이버 보안 및 생물·화학적 위험 대비 분야에서 오픈AI의 고성능(High capability) 등급 기준을 적용받는 첫 번째 인스턴트 모델입니다. 이 모델은 보안 안전장치를 강화하여 기존 모델군과 차별화된 안전성 정책을 따릅니다.",
-            "summary_en": "The system card for GPT-5.5 Instant highlights that this is the first 'Instant' model categorized as high-capability regarding cybersecurity and biological/chemical threats. It implements advanced safety safeguards to ensure responsible deployment in these sensitive areas.",
-            "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-            "date": "2026-05-05"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777906800000,
-            "title": "Advancing youth safety and wellbeing in EMEA",
-            "summary_kr": "오픈AI는 유럽의 청소년 AI 안전을 위한 '유럽 청소년 안전 청사진'을 발표하고, 12개 NGO 및 연구 기관에 총 50만 유로의 지원금을 전달했습니다. 이번 조치는 AI 교육, 연령 확인 기술, 정신 건강 지원 등 청소년이 안전하고 올바르게 AI를 활용할 수 있도록 돕는 실질적인 보호 체계를 구축하기 위함입니다.",
-            "summary_en": "OpenAI has unveiled its European Youth Safety Blueprint and awarded €500,000 in grants to 12 organizations to foster safe and beneficial AI use among young people. The initiative focuses on practical measures like AI literacy, robust age assurance, and mental health support for the younger generation.",
-            "link": "https://openai.com/index/advancing-youth-safety-in-emea",
-            "date": "2026-05-05"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777906800000,
-            "title": "Supercomputer networking to accelerate large scale AI training",
-            "summary_kr": "오픈AI는 AMD, 엔비디아 등 주요 기술 기업들과 협력하여 대규모 AI 훈련 속도를 높이는 새로운 네트워킹 프로토콜 'MRC(Multipath Reliable Connection)'를 개발했습니다. 이는 네트워크 장애 시에도 학습 중단 없이 데이터 전송을 유지하며, 훈련 클러스터 내에서 GPU의 효율성을 극대화하여 초대형 모델 학습의 병목 현상을 해결합니다.",
-            "summary_en": "OpenAI, in collaboration with AMD, NVIDIA, and other partners, has developed the Multipath Reliable Connection (MRC) protocol to accelerate large-scale AI training. By enabling resilient data transmission and minimizing network congestion, MRC maximizes GPU efficiency and ensures uninterrupted model training at scale.",
-            "link": "https://openai.com/index/mrc-supercomputer-networking",
-            "date": "2026-05-05"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1777906800000,
-            "title": "Deploying Claude across financial services",
-            "summary_kr": "앤스로픽은 금융 서비스 기업들이 연구, 거래, 규정 준수 등 복잡한 업무를 효율화할 수 있도록 지원하는 'Claude' 활용 가이드와 도입 로드맵을 발표했습니다.",
-            "summary_en": "Anthropic has released a comprehensive deployment guide and adoption roadmap for financial services, enabling firms to leverage Claude across high-stakes tasks like underwriting, model reviews, and month-end financial closing.",
-            "link": "https://claude.com/blog/deploying-claude-across-financial-services"
         }
     ]
 }
