@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-17 17:52:19",
+    "last_update": "2026-06-18 08:13:51",
     "articles": [
+        {
+            "title": "Meta Offers Rival AI Chatbots Free Access to WhatsApp During EU Competition Probe - WSJ",
+            "link": "https://www.wsj.com/tech/meta-offers-rival-ai-chatbots-free-access-to-whatsapp-during-eu-competition-probe-f3c11e5c",
+            "summary_en": "Meta is offering rival AI chatbot developers free access to its WhatsApp platform to address concerns and scrutiny from EU regulators regarding competition practices.",
+            "timestamp": 1778668620000
+        },
+        {
+            "title": "Microsoft strengthens partnership with SK Hynix for its own AI chips - Techzine Global",
+            "link": "https://www.techzine.eu/news/infrastructure/141307/microsoft-strengthens-partnership-with-sk-hynix-for-its-own-ai-chips/",
+            "summary_en": "Microsoft is deepening its partnership with SK Hynix, making the firm the exclusive supplier of high-bandwidth memory for its proprietary 'Maia 200' AI inference chips to reduce dependence on NVIDIA hardware.",
+            "timestamp": 1778674260000
+        },
+        {
+            "title": "SoftBank Logs Surprise Profit Jump in Boon for Son’s AI Bets - Bloomberg.com",
+            "link": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
+            "summary_en": "SoftBank reported a surprise surge in profits, validating CEO Masayoshi Son’s aggressive and long-term investment strategy in the artificial intelligence sector.",
+            "timestamp": 1778670342000
+        },
         {
             "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No. - The New York Times",
             "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
