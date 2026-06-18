@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-06-18 08:13:51",
+    "last_update": "2026-06-18 18:09:54",
     "articles": [
+        {
+            "title": "Amazon SVP on AI strategy: Aim to compete with Anthropic in coming year - CNBC",
+            "summary_en": "Amazon's SVP of foundational AI, Peter DeSantis, expects the company's internal AI models to reach competitive parity with frontier models from Anthropic and OpenAI within the next year. This strategy is central to Amazon's ongoing efforts to transform the online shopping experience.",
+            "link": "https://www.cnbc.com/video/2026/06/18/amazon-svp-on-ai-strategy-aim-to-compete-with-anthropic-in-coming-year.html",
+            "timestamp": 1781782713000,
+            "date": "2026-06-18"
+        },
+        {
+            "title": "Amazon Expands Trainium AI Chip Strategy Beyond AWS - Amazon.com (NASDAQ:AMZN) - Benzinga",
+            "summary_en": "Amazon is exploring the sale of its Trainium AI chips to external customers beyond AWS to address the global underconsumption of AI hardware. While third-generation chips are currently sold out, the company is already experiencing significant demand for its upcoming fourth-generation chips.",
+            "link": "https://www.benzinga.com/markets/tech/26/06/53285203/amazon-expands-trainium-ai-chip-strategy-beyond-aws",
+            "timestamp": 1781802520000,
+            "date": "2026-06-18"
+        },
+        {
+            "title": "NVIDIA ENPIRE Closes the Loop: AI Agents Now Run Robotics Research on Real Hardware - Tech Times",
+            "summary_en": "NVIDIA's new ENPIRE framework enables autonomous AI agents to conduct 'physical autoresearch' by managing the entire robotics experimentation cycle without human intervention. By automating scene resets and hardware trials, the system achieved a 99% success rate on complex physical tasks like seating graphics cards.",
+            "link": "https://www.techtimes.com/articles/318587/20260617/nvidia-enpire-closes-loop-ai-agents-now-run-robotics-research-real-hardware.htm",
+            "timestamp": 1781726887000,
+            "date": "2026-06-17"
+        },
+        {
+            "title": "AWS targets software release bottlenecks with DevOps Agent update - InfoWorld",
+            "summary_en": "AWS has updated its DevOps Agent with automated release management features designed to validate, test, and review AI-generated code before deployment. These tools aim to eliminate software delivery bottlenecks by running code in isolated environments to verify functionality and security compliance automatically.",
+            "link": "https://www.infoworld.com/article/4186159/aws-targets-software-release-bottlenecks-with-devops-agent-update.html",
+            "timestamp": 1781708550000,
+            "date": "2026-06-17"
+        },
         {
             "title": "OpenAI Releases LifeSciBench, a 750-Task Benchmark Grading AI Models on Real Life-Science Research With Expert-Written Rubric - MarkTechPost",
             "summary_en": "OpenAI has introduced LifeSciBench, a comprehensive benchmark designed to rigorously evaluate AI models across 750 distinct tasks within the life-science research domain.",
@@ -672,34 +700,6 @@
             "link": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
             "timestamp": 1776668400000,
             "date": "2026-04-20"
-        },
-        {
-            "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
-            "summary_en": "NVIDIA has launched Cosmos 3, an open-source omnimodel architecture capable of integrated vision reasoning and physical action generation to accelerate robotics and autonomous system development. The company also formed the Cosmos Coalition, partnering with industry leaders like Runway and Skild AI to advance next-generation world models.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
-            "timestamp": 1780289449000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-            "summary_en": "Anthropic has secured $65 billion in Series H funding at a $965 billion valuation, backed by a wide consortium of investors and hyperscalers including Amazon, Google, and Microsoft. The capital will support the company's massive compute expansion—including agreements for five gigawatts of capacity with Amazon—to meet the rising enterprise demand for its Claude models.",
-            "link": "https://www.anthropic.com/news/series-h",
-            "timestamp": 1779992101000,
-            "date": "2026-05-28"
-        },
-        {
-            "title": "Andrej Karpathy Joins Anthropic to Lead Claude Pre-training Research",
-            "summary_en": "AI researcher Andrej Karpathy has joined Anthropic to lead a team focused on accelerating pre-training research for the Claude model. This move concludes his 22-month tenure at his startup, Eureka Labs, as he shifts his focus toward frontier agentic engineering and large-scale model development.",
-            "link": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-andrej-karpathy-anthropic-pretraining-2026-05-31",
-            "timestamp": 1780232400000,
-            "date": "2026-05-31"
-        },
-        {
-            "title": "Google unveils AI tools to support scientific research workflows",
-            "summary_en": "Google has introduced 'Gemini for Science,' an AI platform featuring hypothesis generation and agentic experimentation tools designed to accelerate research workflows by automating complex data analysis. Starting May 20, the platform aims to streamline scientific discovery by summarizing technical literature and identifying research gaps through verifiable, AI-assisted insights.",
-            "link": "https://www.techedt.com/google-unveils-ai-tools-to-support-scientific-research-workflows",
-            "timestamp": 1780197925000,
-            "date": "2026-05-31"
         }
     ]
 }

@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-06-18 08:13:51",
+    "last_update": "2026-06-18 18:09:54",
     "articles": [
+        {
+            "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
+            "summary_en": "NVIDIA has launched Cosmos 3, an open-source omnimodel architecture capable of integrated vision reasoning and physical action generation to accelerate robotics and autonomous system development. The company also formed the Cosmos Coalition, partnering with industry leaders like Runway and Skild AI to advance next-generation world models.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+            "timestamp": 1780289449000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+            "summary_en": "Anthropic has secured $65 billion in Series H funding at a $965 billion valuation, backed by a wide consortium of investors and hyperscalers including Amazon, Google, and Microsoft. The capital will support the company's massive compute expansion—including agreements for five gigawatts of capacity with Amazon—to meet the rising enterprise demand for its Claude models.",
+            "link": "https://www.anthropic.com/news/series-h",
+            "timestamp": 1779992101000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "Andrej Karpathy Joins Anthropic to Lead Claude Pre-training Research",
+            "summary_en": "AI researcher Andrej Karpathy has joined Anthropic to lead a team focused on accelerating pre-training research for the Claude model. This move concludes his 22-month tenure at his startup, Eureka Labs, as he shifts his focus toward frontier agentic engineering and large-scale model development.",
+            "link": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-andrej-karpathy-anthropic-pretraining-2026-05-31",
+            "timestamp": 1780232400000,
+            "date": "2026-05-31"
+        },
+        {
+            "title": "Google unveils AI tools to support scientific research workflows",
+            "summary_en": "Google has introduced 'Gemini for Science,' an AI platform featuring hypothesis generation and agentic experimentation tools designed to accelerate research workflows by automating complex data analysis. Starting May 20, the platform aims to streamline scientific discovery by summarizing technical literature and identifying research gaps through verifiable, AI-assisted insights.",
+            "link": "https://www.techedt.com/google-unveils-ai-tools-to-support-scientific-research-workflows",
+            "timestamp": 1780197925000,
+            "date": "2026-05-31"
+        },
         {
             "title": "Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms",
             "summary_en": "Anthropic plans to release its powerful Claude Mythos model in the coming weeks, despite significant scrutiny regarding its ability to autonomously execute complex cyberattacks. While the company maintains the model will help defenders patch vulnerabilities, previous testing revealed the AI could identify hundreds of exploits, including 271 in Firefox and vulnerabilities in M5 Mac chips.",
@@ -596,30 +624,6 @@
             "link": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html",
             "summary_en": "Wrongful death lawsuits against OpenAI are testing a new legal strategy, though further details are currently inaccessible due to technical access restrictions.",
             "timestamp": 1778723040000
-        },
-        {
-            "title": "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough - Reuters",
-            "link": "https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/",
-            "summary_en": "The U.S. has cleared the sale of Nvidia H200 AI chips to 10 Chinese firms as part of CEO Jensen Huang's efforts to navigate trade restrictions, with specific details limited by access errors.",
-            "timestamp": 1778737680000
-        },
-        {
-            "title": "Exclusive: Microsoft eyeing startup deals for life after OpenAI - Reuters",
-            "link": "https://www.reuters.com/world/microsoft-eyeing-startup-deals-life-after-openai-2026-05-13/",
-            "summary_en": "Microsoft is reportedly exploring startup investments to diversify its AI strategy beyond its primary reliance on OpenAI, though specific implementation details remain restricted.",
-            "timestamp": 1778705570000
-        },
-        {
-            "title": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch - The New York Times",
-            "link": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
-            "summary_en": "Silicon Valley firms are significantly intensifying their lobbying efforts in Washington to influence the rapid development and regulation of artificial intelligence policies.",
-            "timestamp": 1778663676000
-        },
-        {
-            "title": "Google Cloud Uncovers First AI-Made Zero-Day Exploit, Putting CX in the Crosshairs - CX Today",
-            "link": "https://www.cxtoday.com/security-privacy-compliance/google-cloud-uncovers-first-ai-made-zero-day-exploit-putting-cx-in-the-crosshairs/",
-            "summary_en": "Google Threat Intelligence Group has identified the first AI-developed zero-day exploit, which utilized large language models to detect complex logic flaws that allowed cybercriminals to bypass two-factor authentication in an open-source administration tool.",
-            "timestamp": 1778678666000
         }
     ]
 }

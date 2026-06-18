@@ -1,6 +1,30 @@
 {
-    "last_update": "2026-06-18 08:13:51",
+    "last_update": "2026-06-18 18:09:54",
     "articles": [
+        {
+            "title": "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough - Reuters",
+            "link": "https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/",
+            "summary_en": "The U.S. has cleared the sale of Nvidia H200 AI chips to 10 Chinese firms as part of CEO Jensen Huang's efforts to navigate trade restrictions, with specific details limited by access errors.",
+            "timestamp": 1778737680000
+        },
+        {
+            "title": "Exclusive: Microsoft eyeing startup deals for life after OpenAI - Reuters",
+            "link": "https://www.reuters.com/world/microsoft-eyeing-startup-deals-life-after-openai-2026-05-13/",
+            "summary_en": "Microsoft is reportedly exploring startup investments to diversify its AI strategy beyond its primary reliance on OpenAI, though specific implementation details remain restricted.",
+            "timestamp": 1778705570000
+        },
+        {
+            "title": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch - The New York Times",
+            "link": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
+            "summary_en": "Silicon Valley firms are significantly intensifying their lobbying efforts in Washington to influence the rapid development and regulation of artificial intelligence policies.",
+            "timestamp": 1778663676000
+        },
+        {
+            "title": "Google Cloud Uncovers First AI-Made Zero-Day Exploit, Putting CX in the Crosshairs - CX Today",
+            "link": "https://www.cxtoday.com/security-privacy-compliance/google-cloud-uncovers-first-ai-made-zero-day-exploit-putting-cx-in-the-crosshairs/",
+            "summary_en": "Google Threat Intelligence Group has identified the first AI-developed zero-day exploit, which utilized large language models to detect complex logic flaws that allowed cybercriminals to bypass two-factor authentication in an open-source administration tool.",
+            "timestamp": 1778678666000
+        },
         {
             "title": "Meta Offers Rival AI Chatbots Free Access to WhatsApp During EU Competition Probe - WSJ",
             "link": "https://www.wsj.com/tech/meta-offers-rival-ai-chatbots-free-access-to-whatsapp-during-eu-competition-probe-f3c11e5c",
