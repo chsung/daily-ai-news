@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-19 08:36:45",
+    "last_update": "2026-06-19 17:23:20",
     "articles": [
+        {
+            "title": "오픈AI, 80년 미해결 수학 반증 성공했다 - 스타트업레시피",
+            "link": "https://startuprecipe.co.kr/archives/tech/5817964",
+            "summary_kr": "오픈AI의 범용 추론 모델이 1946년 폴 에르되시가 제기한 기하학 난제인 '단위 거리 문제'를 80년 만에 반증하며, 대수적 정수론의 복잡한 도구를 연결해 인간 수학자의 예상을 뛰어넘는 독창적인 연구 성과를 입증했습니다.",
+            "timestamp": 1779408000000
+        },
+        {
+            "title": "\"'후발주자' MS, 앤트로픽에 자체 AI칩 공급 논의…첫 외부공급\" - 연합뉴스 한민족센터",
+            "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1357050",
+            "summary_kr": "AI 반도체 후발주자인 마이크로소프트가 연산 인프라 부족을 겪는 앤트로픽에 자체 설계한 '마이아 200' 칩 서버를 공급하는 방안을 논의 중이며, 이는 MS의 첫 외부 칩 공급 사례이자 앤트로픽이 엔비디아 GPU 대비 높은 비용 효율을 확보하는 전략적 협력이 될 전망입니다.",
+            "timestamp": 1779384429000
+        },
+        {
+            "title": "앤트로픽, 2분기 16조 매출에 '첫 흑자'... 수익성으론 오픈AI 추월 - AI타임스",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=210792",
+            "summary_kr": "앤트로픽은 기업용 AI 코딩 도구 등 '클로드'의 폭발적 수요에 힘입어 2분기 매출 16조 원과 사상 첫 분기 흑자 달성을 예고했으며, 구글·아마존의 AI 칩 활용과 보수적인 투자 전략을 통해 매출 1달러당 컴퓨팅 비용을 1분기 71센트에서 2분기 56센트로 낮추는 운영 효율성을 입증했습니다.",
+            "timestamp": 1779355174000
+        },
         {
             "title": "구글 “AI 투자 끝은 효율 혁신”…‘에이전틱 AI’ 승부수 - 아이티데일리",
             "link": "http://www.itdaily.kr/news/articleView.html?idxno=239452",
@@ -582,24 +600,6 @@
             "link": "http://www.nkeconomy.com/news/articleView.html?idxno=16456",
             "summary_kr": "북한이 김일성종합대학 학보를 통해 오픈AI의 GPT-4 기술 보고서와 구글의 검색 결합 언어모델 논문을 연구에 활용하고 있음을 공식 인정했으며, 이를 바탕으로 일상적인 조선어 질문을 처리하는 AI 지능검색 및 질문 자동추천 시스템을 개발 중인 것으로 확인되었습니다.",
             "timestamp": 1777874556000
-        },
-        {
-            "title": "6G 향한 AI-RAN 프로젝트 시동 …ETRI, 통신 3사, 엔비디아 등 참여 - 아이티데일리",
-            "link": "http://www.itdaily.kr/news/articleView.html?idxno=239169",
-            "summary_kr": "메타가 휴머노이드 로봇 스타트업 'ARI'를 인수하며 소프트웨어를 넘어 물리적 세계를 이해하고 학습하는 '피지컬 AI' 분야로 본격 진출했고, 향후 안드로이드처럼 로봇 플랫폼을 개방하여 테슬라 등과 휴머노이드 시장 경쟁에 나설 전망입니다.",
-            "timestamp": 1777854986000
-        },
-        {
-            "title": "메타, 美 로봇 스타트업 ARI 인수…피지컬 AI 경쟁 점화 - 지디넷코리아",
-            "link": "https://zdnet.co.kr/view/?no=20260504095546",
-            "summary_kr": "오픈AI가 자체 스마트폰 개발을 추진한다는 소식이 전해지면서, 그간 AI 파트너십을 맺어온 애플과의 관계가 협력에서 경쟁 구도로 전환될 가능성에 대한 업계의 관심이 집중되고 있습니다.",
-            "timestamp": 1777856868000
-        },
-        {
-            "title": "AI, 응급실 진단서 의사 앞섰다 - 조선일보",
-            "link": "https://www.chosun.com/economy/science/2026/05/03/QDLRR4SRKFETZOG3QKGGHRUUSA/",
-            "summary_kr": "AI가 응급실 현장에서 의사보다 정확한 진단 결과를 내놓으며 의료 분야에서의 높은 활용 가능성을 입증했습니다.",
-            "timestamp": 1777787340000
         }
     ]
 }
