@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-06-18 18:20:21",
+    "last_update": "2026-06-19 17:46:08",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1781807954000,
+            "date": "2026-06-18",
+            "title": "Beyond the benchmark: Advancing security at AI speed  | Microsoft Security Blog",
+            "summary_kr": "마이크로소프트는 독자적인 다중 모델 AI 에이전트 시스템인 'MDASH'를 개발해 소프트웨어 취약점 탐지부터 해결까지 전 과정을 자동화하고, 이를 실제 운영 환경에 통합하여 기업 수준의 보안을 강화하고 있습니다.",
+            "summary_en": "Microsoft has deployed 'MDASH,' an orchestrating multi-model AI agent system, to automate end-to-end vulnerability discovery and remediation, successfully integrating research-grade AI into production workflows to enhance enterprise-scale security.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781802000000,
+            "date": "2026-06-18",
+            "title": "New usage analytics and updated spend controls for enterprises",
+            "summary_kr": "OpenAI는 ChatGPT Enterprise 관리자가 AI 도입 현황을 가시적으로 파악하고 비용을 정밀하게 관리할 수 있도록 새로운 사용량 분석 도구와 유연한 지출 통제 기능을 도입했습니다.",
+            "summary_en": "OpenAI has introduced new usage analytics and enhanced spend controls for ChatGPT Enterprise, enabling administrators to gain granular visibility into AI deployment and effectively manage costs at scale.",
+            "link": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1781740800000,
+            "date": "2026-06-18",
+            "title": "Grok for Word",
+            "summary_kr": "마이크로소프트 워드용 'Grok' 애드인이 출시되어, 웹 검색과 문서 자동 작성 및 편집 기능을 통해 문서 작업의 생산성을 획기적으로 향상시킵니다.",
+            "summary_en": "The new Grok add-in for Microsoft Word boosts productivity by enabling seamless web research, automated drafting, and intelligent document editing.",
+            "link": "https://x.ai/news/introducing-word-addin"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1781780400000,
@@ -873,33 +900,6 @@
             "summary_kr": "앤스로픽은 LLM의 할루시네이션을 제어하기 위한 전문적인 에이전트 데이터 스택을 구축하여, 비즈니스 분석의 95%를 자동화하고 데이터 팀의 전략적 역량을 극대화했습니다.",
             "summary_en": "Anthropic has optimized self-service analytics by deploying an agentic data stack that mitigates LLM hallucination, successfully automating 95% of business queries while enabling its data team to focus on high-impact strategic work.",
             "link": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Lessons from building Claude Code: How we use skills",
-            "summary_kr": "앤스로픽은 클로드 코드(Claude Code) 내 수백 개의 '스킬'을 운영하며 얻은 경험을 바탕으로, 효율적인 에이전트 활용을 위해 스킬을 명확한 역할별로 구조화하고 검증 프로세스를 강화할 것을 권장합니다.",
-            "summary_en": "Anthropic shares lessons from scaling hundreds of 'skills' in Claude Code, emphasizing the importance of structuring skills into clear, purpose-driven categories and prioritizing verification to improve agent performance.",
-            "link": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Best practices for getting started with Claude Cowork",
-            "summary_kr": "앤스로픽의 Claude Cowork은 단순 질의응답을 넘어 파일과 앱을 연동해 복합적인 업무를 자동 수행하는 에이전트 환경으로, 사용자가 결과물을 정의하고 위임하는 방식의 업무 최적화를 지원합니다.",
-            "summary_en": "Claude Cowork moves beyond simple chat-based Q&A by acting as an agent that integrates with files and apps to automate multi-step workflows, allowing users to delegate entire tasks and deliver finished results.",
-            "link": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Running an AI-native engineering org",
-            "summary_kr": "AI 에이전트 기반 코딩이 주류가 된 엔지니어링 조직에서는 기존의 비효율적인 계획과 프로세스를 탈피하고, 인간의 역할을 단순 코딩에서 검증·보안·의사결정 등 고차원적 전문성 중심으로 재편해야 합니다.",
-            "summary_en": "As agentic coding becomes the standard, engineering organizations must move away from legacy planning and manual processes, shifting human focus from routine coding to high-level expertise in verification, security, and strategic decision-making.",
-            "link": "https://claude.com/blog/running-an-ai-native-engineering-org"
         }
     ]
 }

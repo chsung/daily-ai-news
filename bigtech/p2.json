@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-06-18 18:20:21",
+    "last_update": "2026-06-19 17:46:08",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1780444800000,
+            "date": "2026-06-03",
+            "title": "Lessons from building Claude Code: How we use skills",
+            "summary_kr": "앤스로픽은 클로드 코드(Claude Code) 내 수백 개의 '스킬'을 운영하며 얻은 경험을 바탕으로, 효율적인 에이전트 활용을 위해 스킬을 명확한 역할별로 구조화하고 검증 프로세스를 강화할 것을 권장합니다.",
+            "summary_en": "Anthropic shares lessons from scaling hundreds of 'skills' in Claude Code, emphasizing the importance of structuring skills into clear, purpose-driven categories and prioritizing verification to improve agent performance.",
+            "link": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780444800000,
+            "date": "2026-06-03",
+            "title": "Best practices for getting started with Claude Cowork",
+            "summary_kr": "앤스로픽의 Claude Cowork은 단순 질의응답을 넘어 파일과 앱을 연동해 복합적인 업무를 자동 수행하는 에이전트 환경으로, 사용자가 결과물을 정의하고 위임하는 방식의 업무 최적화를 지원합니다.",
+            "summary_en": "Claude Cowork moves beyond simple chat-based Q&A by acting as an agent that integrates with files and apps to automate multi-step workflows, allowing users to delegate entire tasks and deliver finished results.",
+            "link": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780444800000,
+            "date": "2026-06-03",
+            "title": "Running an AI-native engineering org",
+            "summary_kr": "AI 에이전트 기반 코딩이 주류가 된 엔지니어링 조직에서는 기존의 비효율적인 계획과 프로세스를 탈피하고, 인간의 역할을 단순 코딩에서 검증·보안·의사결정 등 고차원적 전문성 중심으로 재편해야 합니다.",
+            "summary_en": "As agentic coding becomes the standard, engineering organizations must move away from legacy planning and manual processes, shifting human focus from routine coding to high-level expertise in verification, security, and strategic decision-making.",
+            "link": "https://claude.com/blog/running-an-ai-native-engineering-org"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1780426800000,
@@ -849,30 +876,6 @@
             "summary_en": "AdventHealth has integrated ChatGPT for Healthcare to automate administrative tasks, successfully reducing documentation time by 80% and allowing clinical staff to dedicate more time to direct patient care.",
             "link": "https://openai.com/index/adventhealth",
             "date": "2026-05-21"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779289200000,
-            "title": "Claude now works with more security and compliance tools",
-            "summary_kr": "앤스로픽은 클로드 엔터프라이즈의 보안 강화를 위해 28개의 주요 보안 및 컴플라이언스 도구와 연동되는 '클로드 컴플라이언스 API'를 출시했습니다. 이를 통해 기업 보안팀은 클로드 내의 데이터 유출 방지 및 활동 모니터링을 중앙화된 대시보드에서 효율적으로 관리할 수 있습니다.",
-            "summary_en": "Anthropic has introduced the Claude Compliance API, providing enterprise teams with integration support for 28 major security and compliance platforms. This enables organizations to apply unified DLP, monitoring, and audit policies to their Claude Enterprise usage across their existing security stack.",
-            "link": "https://claude.com/blog/compliance-api-security-partners"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779289200000,
-            "title": "How our partners are putting Opus to work for cybersecurity",
-            "summary_kr": "위즈, 팔로알토 네트웍스 등 보안 기업들이 앤스로픽의 클로드 오퍼스(Opus)를 활용해 취약점 탐지 및 수정 과정을 자동화하고 있습니다. 특히 엑센츄어는 클로드 기반의 보안 플랫폼을 통해 IT 인프라의 스캔 효율을 대폭 개선하며 보안 운영 속도를 획기적으로 높였습니다.",
-            "summary_en": "Cybersecurity firms like Wiz, Palo Alto Networks, and Accenture are leveraging Claude Opus to automate vulnerability management and defense. Accenture reported a dramatic increase in security testing coverage and a reduction in scan turnaround time, demonstrating the power of frontier models in threat remediation.",
-            "link": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779235260000,
-            "title": "Running Guide agent: A step towards running unbounded",
-            "summary_kr": "구글의 '러닝 가이드 에이전트'는 온디바이스 AI와 멀티 에이전트 프레임워크를 활용해 시각장애인 러너들에게 실시간 환경 인식을 제공함으로써 물리적 도움 없이 독립적인 러닝을 가능하게 합니다.",
-            "summary_en": "Google's 'Running Guide agent' leverages on-device AI and a multi-agent framework to provide real-time environmental awareness, enabling blind and low-vision athletes to run independently without physical assistance.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/running-guide-agent"
         }
     ]
 }
