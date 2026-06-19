@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-18 18:09:54",
+    "last_update": "2026-06-19 08:37:32",
     "articles": [
+        {
+            "title": "Why Anthropic Is Sounding the Alarm on the Next Generation of AI - Council on Foreign Relations",
+            "summary_en": "Anthropic is advocating for an international AI arms control regime, warning that the rapid advent of 'recursive self-improvement' could soon create models capable of operating beyond human control. The company reports that its latest systems are now generating 80% of their own code and evolving at a speed 52 times faster than they were just last year.",
+            "link": "https://www.cfr.org/articles/why-anthropic-is-sounding-the-alarm-on-the-next-generation-of-ai",
+            "timestamp": 1781809661000,
+            "date": "2026-06-18"
+        },
+        {
+            "title": "The fight to keep AI research in the open - Sources | Alex Heath",
+            "summary_en": "Databricks co-founder Andy Konwinski has launched the $100 million Laude Institute to combat the 'feudal' centralization of AI power by Big Tech and frontier labs. By funding open research, the institute aims to counter the industry's exodus of academic talent and ensure that foundational AI capabilities remain accessible to the broader research community.",
+            "link": "https://sources.news/p/fight-to-keep-ai-research-open",
+            "timestamp": 1781831706000,
+            "date": "2026-06-19"
+        },
+        {
+            "title": "OpenAI Taps Trump's Former AI Adviser For New Strategy Role - Benzinga",
+            "summary_en": "OpenAI has hired Dean Ball, a former White House AI adviser and architect of the AI Action Plan, to spearhead a new strategy team focusing on public policy and internal governance. This hire reflects OpenAI's efforts to integrate high-level policy expertise alongside other strategic leadership additions, including former Salesforce and Ironclad executives.",
+            "link": "https://www.benzinga.com/markets/private-markets/26/06/53288065/openai-taps-trumps-former-ai-adviser-for-new-strategy-role",
+            "timestamp": 1781807603000,
+            "date": "2026-06-18"
+        },
         {
             "title": "Amazon SVP on AI strategy: Aim to compete with Anthropic in coming year - CNBC",
             "summary_en": "Amazon's SVP of foundational AI, Peter DeSantis, expects the company's internal AI models to reach competitive parity with frontier models from Anthropic and OpenAI within the next year. This strategy is central to Amazon's ongoing efforts to transform the online shopping experience.",
@@ -679,27 +700,6 @@
             "link": "http://www.techtimes.com/articles/317651/20260602/microsoft-rayfin-debuts-new-backend-platform-ai-agent-development-app-creation.htm",
             "timestamp": 1780459207000,
             "date": "2026-06-03"
-        },
-        {
-            "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure",
-            "summary_en": "NVIDIA and Corning have established a long-term partnership to advance optical technologies for AI infrastructure. The collaboration focuses on strengthening US manufacturing and supply chains to support the massive infrastructure buildout required for next-generation AI systems.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
-            "timestamp": 1778050800000,
-            "date": "2026-05-06"
-        },
-        {
-            "title": "Deep Research Max: a step change for autonomous research agents",
-            "summary_en": "Google has expanded its autonomous research agent capabilities with the release of 'Deep Research' and 'Deep Research Max,' designed for complex enterprise workflows. These agents now support Model Context Protocol (MCP) for proprietary data access and can natively generate infographics to visualize analytical reports.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research",
-            "timestamp": 1776754800000,
-            "date": "2026-04-21"
-        },
-        {
-            "title": "Amazon announces $5B Anthropic investment, up to $20B more",
-            "summary_en": "Amazon is deepening its commitment to Anthropic with a $5 billion investment, with the potential for an additional $20 billion tied to commercial milestones. As part of the deal, Anthropic has committed to spending over $100 billion on AWS infrastructure and custom Trainium silicon over the next decade.",
-            "link": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
-            "timestamp": 1776668400000,
-            "date": "2026-04-20"
         }
     ]
 }

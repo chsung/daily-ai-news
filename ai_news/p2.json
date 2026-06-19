@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-18 18:09:54",
+    "last_update": "2026-06-19 08:37:32",
     "articles": [
+        {
+            "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure",
+            "summary_en": "NVIDIA and Corning have established a long-term partnership to advance optical technologies for AI infrastructure. The collaboration focuses on strengthening US manufacturing and supply chains to support the massive infrastructure buildout required for next-generation AI systems.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
+            "timestamp": 1778050800000,
+            "date": "2026-05-06"
+        },
+        {
+            "title": "Deep Research Max: a step change for autonomous research agents",
+            "summary_en": "Google has expanded its autonomous research agent capabilities with the release of 'Deep Research' and 'Deep Research Max,' designed for complex enterprise workflows. These agents now support Model Context Protocol (MCP) for proprietary data access and can natively generate infographics to visualize analytical reports.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research",
+            "timestamp": 1776754800000,
+            "date": "2026-04-21"
+        },
+        {
+            "title": "Amazon announces $5B Anthropic investment, up to $20B more",
+            "summary_en": "Amazon is deepening its commitment to Anthropic with a $5 billion investment, with the potential for an additional $20 billion tied to commercial milestones. As part of the deal, Anthropic has committed to spending over $100 billion on AWS infrastructure and custom Trainium silicon over the next decade.",
+            "link": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
+            "timestamp": 1776668400000,
+            "date": "2026-04-20"
+        },
         {
             "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
             "summary_en": "NVIDIA has launched Cosmos 3, an open-source omnimodel architecture capable of integrated vision reasoning and physical action generation to accelerate robotics and autonomous system development. The company also formed the Cosmos Coalition, partnering with industry leaders like Runway and Skild AI to advance next-generation world models.",
@@ -606,24 +627,6 @@
             "link": "https://www.benzinga.com/markets/private-markets/26/05/52592572/anthropic-and-bill-gates-foundation-commit-200-million-to-ai-for-healthcare-and-education",
             "summary_en": "Anthropic and the Bill & Melinda Gates Foundation have committed $200 million over four years to develop AI-driven tools aimed at improving healthcare and educational access in underserved regions like sub-Saharan Africa and India.",
             "timestamp": 1778845431000
-        },
-        {
-            "title": "Inside Scale AI’s Business After Meta’s Bombshell $14 Billion Deal - Forbes",
-            "link": "https://www.forbes.com/sites/richardnieva/2026/05/13/scale-meta-deal/",
-            "summary_en": "After founder Alexandr Wang left to join Meta following a $14 billion deal that granted Meta a 49% stake and a $450 million annual service agreement, Scale AI pivoted its business model from data labeling to internal AI application development under new leader Jason Droege, successfully growing revenue to nearly $1 billion last year.",
-            "timestamp": 1778754600000
-        },
-        {
-            "title": "OpenAI Floats Idea of Global AI Governance Body With US, China - Claims Journal",
-            "link": "https://www.claimsjournal.com/news/national/2026/05/14/337570.htm",
-            "summary_en": "OpenAI is advocating for a global AI governance body modeled after the International Atomic Energy Agency, which would include China and set safety standards, as the U.S. government navigates diplomatic talks regarding AI competition and potential intellectual property misuse by Chinese developers.",
-            "timestamp": 1778764903000
-        },
-        {
-            "title": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy - The New York Times",
-            "link": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html",
-            "summary_en": "Wrongful death lawsuits against OpenAI are testing a new legal strategy, though further details are currently inaccessible due to technical access restrictions.",
-            "timestamp": 1778723040000
         }
     ]
 }

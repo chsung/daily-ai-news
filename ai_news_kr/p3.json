@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-18 18:08:59",
+    "last_update": "2026-06-19 08:36:45",
     "articles": [
+        {
+            "title": "구글 “AI 투자 끝은 효율 혁신”…‘에이전틱 AI’ 승부수 - 아이티데일리",
+            "link": "http://www.itdaily.kr/news/articleView.html?idxno=239452",
+            "summary_kr": "구글은 올해 1,900억 달러의 막대한 자본지출을 통해 AI 인프라를 확장하는 동시에, 스스로 업무를 처리하는 '에이전틱 AI' 체계로 전환하며 제미나이 3.5 모델 및 개인형 비서 '제미나이 스파크'를 통해 인프라 투자 이상의 효율 혁신을 이끌어내겠다는 전략을 제시했습니다.",
+            "timestamp": 1779354659000
+        },
+        {
+            "title": "구글 피차이, 천문학적 AI 투자에 \"급격한 효율 향상 따라올 것\" - 연합뉴스 한민족센터",
+            "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1356601",
+            "summary_kr": "구글 순다르 피차이 CEO는 지난 2년간의 천문학적 AI 인프라 투자(약 284조원 규모)가 강력한 모델 효율화로 이어질 것이며, 삼성전자와의 협력을 통해 갤럭시 등 기기 전반에 AI 혁신을 가속화하겠다는 자신감을 드러냈습니다.",
+            "timestamp": 1779326698000
+        },
+        {
+            "title": "마이크로소프트, 에이전틱 AI 기반의 ‘프론티어 트랜스포메이션’ 전략과 글로벌 활용 사례 공개 - 캐드앤그래픽스",
+            "link": "https://www.cadgraphics.co.kr/newsview.php?pages=news&sub=news01&catecode=2&num=78445",
+            "summary_kr": "마이크로소프트는 비즈니스 성과와 직결된 '프론티어 트랜스포메이션' 전략을 발표하고, 마이크로소프트 IQ와 에이전트 365를 통해 에어 인디아, 메르세데스-벤츠 등 글로벌 기업들이 운영 효율성을 높이고 AI 도입의 투자수익률(ROI)을 확보하도록 지원하고 있습니다.",
+            "timestamp": 1779326324000
+        },
         {
             "title": "145곳에 자금 뿌린 엔비디아, 21일 오전 실적 발표…AI 동향 풍향계 - 뉴시스",
             "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260520_0003637872",
@@ -582,24 +600,6 @@
             "link": "https://www.chosun.com/economy/science/2026/05/03/QDLRR4SRKFETZOG3QKGGHRUUSA/",
             "summary_kr": "AI가 응급실 현장에서 의사보다 정확한 진단 결과를 내놓으며 의료 분야에서의 높은 활용 가능성을 입증했습니다.",
             "timestamp": 1777787340000
-        },
-        {
-            "title": "[IT 소식 톺아보기- 5월 1주차] AI 에이전트 기반 ‘오픈AI폰’ 개발 본격화, 日, AI 안전성·데이터 보호 강화 추진 - M이코노미뉴스",
-            "link": "https://www.m-economynews.com/news/article.html?no=66928",
-            "summary_kr": "오픈AI는 2028년 양산을 목표로 스마트폰 개발에 착수해 AI 에이전트 시장을 공략 중이며, 일본 정부는 AI 안전 규제 정비에 나섰고, 메타는 막대한 AI 인프라 투자 비용 부담으로 인해 주가가 급락했습니다.",
-            "timestamp": 1777731540000
-        },
-        {
-            "title": "메타, 美 로봇 AI 스타트업 ARI 인수…휴머노이드·피지컬 AI 경쟁 본격화 - 이데일리",
-            "link": "https://www.edaily.co.kr/News/Read?newsId=01115206645445312&mediaCodeNo=257",
-            "summary_kr": "메타가 로봇용 AI 모델 개발 전문 스타트업 ARI를 인수하며 향후 제조·물류 등 실물 경제로 확장될 피지컬 AI와 휴머노이드 로봇 경쟁에서 주도권을 확보하고자 합니다.",
-            "timestamp": 1777758300000
-        },
-        {
-            "title": "美 국방부, 구글·엔비디아 등 7개 AI 기업과 기밀망 계약…앤스로픽 제외 - 이데일리",
-            "link": "https://www.edaily.co.kr/News/Read?newsId=01118486645445312&mediaCodeNo=257",
-            "summary_kr": "미국 국방부가 스페이스X, 오픈AI, 구글 등 7개 기업과 계약하여 군사용 기밀 네트워크에 AI 기술을 도입하고 데이터 기반의 의사결정 체계로 전환을 가속화합니다.",
-            "timestamp": 1777758877000
         }
     ]
 }

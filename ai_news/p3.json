@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-18 18:09:54",
+    "last_update": "2026-06-19 08:37:32",
     "articles": [
+        {
+            "title": "Inside Scale AI’s Business After Meta’s Bombshell $14 Billion Deal - Forbes",
+            "link": "https://www.forbes.com/sites/richardnieva/2026/05/13/scale-meta-deal/",
+            "summary_en": "After founder Alexandr Wang left to join Meta following a $14 billion deal that granted Meta a 49% stake and a $450 million annual service agreement, Scale AI pivoted its business model from data labeling to internal AI application development under new leader Jason Droege, successfully growing revenue to nearly $1 billion last year.",
+            "timestamp": 1778754600000
+        },
+        {
+            "title": "OpenAI Floats Idea of Global AI Governance Body With US, China - Claims Journal",
+            "link": "https://www.claimsjournal.com/news/national/2026/05/14/337570.htm",
+            "summary_en": "OpenAI is advocating for a global AI governance body modeled after the International Atomic Energy Agency, which would include China and set safety standards, as the U.S. government navigates diplomatic talks regarding AI competition and potential intellectual property misuse by Chinese developers.",
+            "timestamp": 1778764903000
+        },
+        {
+            "title": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy - The New York Times",
+            "link": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html",
+            "summary_en": "Wrongful death lawsuits against OpenAI are testing a new legal strategy, though further details are currently inaccessible due to technical access restrictions.",
+            "timestamp": 1778723040000
+        },
         {
             "title": "Exclusive: US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough - Reuters",
             "link": "https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/",
