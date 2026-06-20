@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-20 07:05:48",
+    "last_update": "2026-06-20 16:25:35",
     "articles": [
+        {
+            "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
+            "summary_en": "TSMC is integrating NVIDIA’s accelerated computing, including CUDA-X libraries and vision AI, into its fabrication processes to optimize lithography, transistor modeling, and defect inspection. This partnership aims to enhance manufacturing precision and productivity in producing next-generation semiconductor nodes.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing",
+            "timestamp": 1780290365000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "NVIDIA Unveils Vera, the CPU for Agents",
+            "summary_en": "NVIDIA has launched the Vera CPU, specifically designed to handle agentic AI workloads, delivering 1.8x faster performance than traditional x86 processors. Major AI labs and cloud hyperscalers, including OpenAI, Anthropic, and Oracle, are planning to adopt this chip to scale high-throughput reasoning and data-processing tasks.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-unveils-vera-the-cpu-for-agents",
+            "timestamp": 1780286443000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
+            "summary_en": "NVIDIA is ramping up production of the Vera Rubin platform, a new POD-scale system designed to power agentic AI factories with 10x the agent throughput of its predecessor. The platform features integrated co-packaged optics networking to support massive-scale AI infrastructure consisting of millions of GPUs.",
+            "link": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
+            "timestamp": 1780286415000,
+            "date": "2026-06-01"
+        },
         {
             "title": "Microsoft’s first advanced reasoning AI is here",
             "summary_en": "Microsoft introduced MAI-Thinking-1, an advanced reasoning model trained from scratch on clean data, as part of a suite of seven new in-house AI tools unveiled at Build 2026. This move highlights Microsoft’s shift toward developing its own proprietary AI models for software engineering and application tasks.",
@@ -612,24 +633,6 @@
             "link": "https://www.indexbox.io/blog/ai-infrastructure-shift-nvidia-faces-new-competition-in-inference-and-custom-chips/",
             "summary_en": "While Nvidia currently dominates the AI infrastructure market, companies like Broadcom and AMD are gaining traction as the industry shifts from training large models to inference, where energy-efficient custom ASIC chips are becoming increasingly vital for hyperscalers.",
             "timestamp": 1778922720000
-        },
-        {
-            "title": "Nvidia executive admits AI costs more than hiring human workers - MSN",
-            "link": "https://www.msn.com/en-us/money/smallbusiness/nvidia-executive-admits-ai-costs-more-than-hiring-human-workers/ar-AA23cTVx",
-            "summary_en": "An executive at Nvidia has acknowledged that the costs associated with implementing AI currently exceed the expenses of hiring human workers.",
-            "timestamp": 1778926097000
-        },
-        {
-            "title": "2028: Two scenarios for global AI leadership - Anthropic",
-            "link": "https://www.anthropic.com/research/2028-ai-leadership",
-            "summary_en": "Anthropic argues that the U.S. must maintain its leadership in compute resources to prevent authoritarian regimes from dominating AI development and using the technology for mass repression by 2028.",
-            "timestamp": 1778782464000
-        },
-        {
-            "title": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration - Fortune",
-            "link": "https://fortune.com/2026/05/15/openai-legal-action-apple-siri-chatgpt-integration/",
-            "summary_en": "OpenAI is reportedly considering legal action against Apple, claiming the integration of ChatGPT into Siri has failed to drive subscriptions as expected, potentially creating a breach of contract.",
-            "timestamp": 1778841900000
         }
     ]
 }

@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-20 07:05:48",
+    "last_update": "2026-06-20 16:25:35",
     "articles": [
+        {
+            "title": "Microsoft’s AI strategy feels like a beta test — at the expense of Windows and Office - Windows Central",
+            "summary_en": "Microsoft is prioritizing AI integration over its core Windows and Office business, leading to criticism that its operating system development feels like a 'beta test.' This strategic shift has caused friction, as reflected in low Windows 11 adoption rates and concerns over the company's handling of Windows 10 support.",
+            "link": "https://www.windowscentral.com/microsoft/microsofts-ai-strategy-feels-like-a-beta-test-at-the-expense-of-windows-and-office",
+            "timestamp": 1781960400000,
+            "date": "2026-06-20"
+        },
+        {
+            "title": "Google Takes On Nvidia With Bold New AI Chip Strategy - GuruFocus",
+            "summary_en": "Google is actively positioning itself to challenge Nvidia's market dominance by developing a strategic roadmap focused on proprietary AI hardware solutions.",
+            "link": "https://www.gurufocus.com/news/8924244/google-takes-on-nvidia-with-bold-new-ai-chip-strategy",
+            "timestamp": 1781899522000,
+            "date": "2026-06-19"
+        },
+        {
+            "title": "OpenAI Reveals 2028 AI Research Goals, Aims to Automate AI Development | KuCoin - KuCoin",
+            "summary_en": "OpenAI has entered 'Phase Three' of its development, targeting the creation of automated AI researchers and universal access to personal AGI by 2028. This long-term vision was released alongside a confidential IPO filing, signaling a major transition toward public market operations.",
+            "link": "https://www.kucoin.com/news/flash/openai-unveils-2028-ai-research-goals-aims-to-automate-ai-development",
+            "timestamp": 1781947107000,
+            "date": "2026-06-20"
+        },
         {
             "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning - MarkTechPost",
             "summary_en": "NVIDIA Research introduced SpatialClaw, a training-free framework that enhances spatial reasoning in vision-language models by using code as an action interface. This approach allows agents to dynamically chain perception tools and geometry primitives, achieving a 59.9% average accuracy across 20 benchmarks.",
@@ -679,27 +700,6 @@
             "link": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai",
             "timestamp": 1780359147000,
             "date": "2026-06-02"
-        },
-        {
-            "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
-            "summary_en": "TSMC is integrating NVIDIA’s accelerated computing, including CUDA-X libraries and vision AI, into its fabrication processes to optimize lithography, transistor modeling, and defect inspection. This partnership aims to enhance manufacturing precision and productivity in producing next-generation semiconductor nodes.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing",
-            "timestamp": 1780290365000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "NVIDIA Unveils Vera, the CPU for Agents",
-            "summary_en": "NVIDIA has launched the Vera CPU, specifically designed to handle agentic AI workloads, delivering 1.8x faster performance than traditional x86 processors. Major AI labs and cloud hyperscalers, including OpenAI, Anthropic, and Oracle, are planning to adopt this chip to scale high-throughput reasoning and data-processing tasks.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-unveils-vera-the-cpu-for-agents",
-            "timestamp": 1780286443000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
-            "summary_en": "NVIDIA is ramping up production of the Vera Rubin platform, a new POD-scale system designed to power agentic AI factories with 10x the agent throughput of its predecessor. The platform features integrated co-packaged optics networking to support massive-scale AI infrastructure consisting of millions of GPUs.",
-            "link": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
-            "timestamp": 1780286415000,
-            "date": "2026-06-01"
         }
     ]
 }

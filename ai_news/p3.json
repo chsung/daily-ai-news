@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-20 07:05:48",
+    "last_update": "2026-06-20 16:25:35",
     "articles": [
+        {
+            "title": "Nvidia executive admits AI costs more than hiring human workers - MSN",
+            "link": "https://www.msn.com/en-us/money/smallbusiness/nvidia-executive-admits-ai-costs-more-than-hiring-human-workers/ar-AA23cTVx",
+            "summary_en": "An executive at Nvidia has acknowledged that the costs associated with implementing AI currently exceed the expenses of hiring human workers.",
+            "timestamp": 1778926097000
+        },
+        {
+            "title": "2028: Two scenarios for global AI leadership - Anthropic",
+            "link": "https://www.anthropic.com/research/2028-ai-leadership",
+            "summary_en": "Anthropic argues that the U.S. must maintain its leadership in compute resources to prevent authoritarian regimes from dominating AI development and using the technology for mass repression by 2028.",
+            "timestamp": 1778782464000
+        },
+        {
+            "title": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration - Fortune",
+            "link": "https://fortune.com/2026/05/15/openai-legal-action-apple-siri-chatgpt-integration/",
+            "summary_en": "OpenAI is reportedly considering legal action against Apple, claiming the integration of ChatGPT into Siri has failed to drive subscriptions as expected, potentially creating a breach of contract.",
+            "timestamp": 1778841900000
+        },
         {
             "title": "Google Launches REPLIQA to Integrate Quantum AI and Life Sciences - Quantum Computing Report",
             "link": "https://quantumcomputingreport.com/google-launches-repliqa-to-integrate-quantum-ai-and-life-sciences/",
@@ -582,18 +600,6 @@
             "link": "https://www.bbc.com/news/articles/cgjp2we2j8go",
             "summary_en": "The US government is expanding its oversight by requiring companies like Google, Microsoft, and xAI to submit new AI models for safety testing.",
             "timestamp": 1778012184000
-        },
-        {
-            "title": "Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims — researcher says practice may violate EU law, waste thousands of kilowatts of energy - Tom's Hardware",
-            "link": "https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy",
-            "summary_en": "A privacy researcher claims Google Chrome is automatically downloading large AI model files to user devices without clear permission or an easy way to remove them.",
-            "timestamp": 1778060400000
-        },
-        {
-            "title": "Mark and Mary Stevens give $200 million to power AI research across USC - USC Today",
-            "link": "https://today.usc.edu/mark-and-mary-stevens-give-200-million-to-power-ai-research-across-usc/",
-            "summary_en": "Mark and Mary Stevens have donated $200 million to USC to support and expand the university's research and education in computing and artificial intelligence.",
-            "timestamp": 1777997615000
         }
     ]
 }
