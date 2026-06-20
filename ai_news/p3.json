@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-19 17:24:22",
+    "last_update": "2026-06-20 07:05:48",
     "articles": [
+        {
+            "title": "Google Launches REPLIQA to Integrate Quantum AI and Life Sciences - Quantum Computing Report",
+            "link": "https://quantumcomputingreport.com/google-launches-repliqa-to-integrate-quantum-ai-and-life-sciences/",
+            "summary_en": "Google has launched the $10 million REPLIQA initiative to fund five universities in researching the application of quantum computing and AI to molecular biology, specifically targeting complex drug metabolism processes.",
+            "timestamp": 1778844663000
+        },
+        {
+            "title": "Microsoft business software faces UK antitrust probe over bundling, AI lock-in - Computerworld",
+            "link": "https://www.computerworld.com/article/4171743/microsoft-business-software-faces-uk-antitrust-probe-over-bundling-ai-lock-in.html",
+            "summary_en": "The UK’s Competition and Markets Authority has launched an antitrust investigation into Microsoft to determine if its bundling of AI-powered Copilot with its business software ecosystem restricts competition and creates unfair vendor lock-in.",
+            "timestamp": 1778849427000
+        },
+        {
+            "title": "Anthropic and Bill Gates' Foundation Commit $200 Million To AI for Healthcare And Education - Benzinga",
+            "link": "https://www.benzinga.com/markets/private-markets/26/05/52592572/anthropic-and-bill-gates-foundation-commit-200-million-to-ai-for-healthcare-and-education",
+            "summary_en": "Anthropic and the Bill & Melinda Gates Foundation have committed $200 million over four years to develop AI-driven tools aimed at improving healthcare and educational access in underserved regions like sub-Saharan Africa and India.",
+            "timestamp": 1778845431000
+        },
         {
             "title": "Inside Scale AI’s Business After Meta’s Bombshell $14 Billion Deal - Forbes",
             "link": "https://www.forbes.com/sites/richardnieva/2026/05/13/scale-meta-deal/",

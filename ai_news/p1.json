@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-19 17:24:22",
+    "last_update": "2026-06-20 07:05:48",
     "articles": [
+        {
+            "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning - MarkTechPost",
+            "summary_en": "NVIDIA Research introduced SpatialClaw, a training-free framework that enhances spatial reasoning in vision-language models by using code as an action interface. This approach allows agents to dynamically chain perception tools and geometry primitives, achieving a 59.9% average accuracy across 20 benchmarks.",
+            "link": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
+            "timestamp": 1781909519000,
+            "date": "2026-06-19"
+        },
+        {
+            "title": "AI optimizer beats Claude Code, Codex by 2.5x - VentureBeat",
+            "summary_en": "Researchers have developed Arbor, an optimization framework that organizes AI experiments into a tree structure to enable cumulative learning rather than isolated trial-and-error. By maintaining state and historical data, the system delivers verifiable performance gains 2.5 times higher than standard coding agents.",
+            "link": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
+            "timestamp": 1781806434000,
+            "date": "2026-06-18"
+        },
+        {
+            "title": "AI agents take over robot training at Nvidia - Techzine Global",
+            "summary_en": "NVIDIA's new ENPIRE framework leverages collaborative AI coding agents to autonomously train robots for complex tasks, achieving a 99% success rate in experiments. By enabling agents to independently design, execute, and refine training protocols, the system allows researchers to automate much of the robot development lifecycle.",
+            "link": "https://www.techzine.eu/news/infrastructure/142271/ai-agents-take-over-robot-training-at-nvidia",
+            "timestamp": 1781776340000,
+            "date": "2026-06-18"
+        },
         {
             "title": "Why Anthropic Is Sounding the Alarm on the Next Generation of AI - Council on Foreign Relations",
             "summary_en": "Anthropic is advocating for an international AI arms control regime, warning that the rapid advent of 'recursive self-improvement' could soon create models capable of operating beyond human control. The company reports that its latest systems are now generating 80% of their own code and evolving at a speed 52 times faster than they were just last year.",
@@ -679,27 +700,6 @@
             "link": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
             "timestamp": 1780286415000,
             "date": "2026-06-01"
-        },
-        {
-            "title": "Microsoft’s first advanced reasoning AI is here",
-            "summary_en": "Microsoft introduced MAI-Thinking-1, an advanced reasoning model trained from scratch on clean data, as part of a suite of seven new in-house AI tools unveiled at Build 2026. This move highlights Microsoft’s shift toward developing its own proprietary AI models for software engineering and application tasks.",
-            "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-            "timestamp": 1780423964000,
-            "date": "2026-06-03"
-        },
-        {
-            "title": "Mayo Clinic, Microsoft partner on healthcare AI model development By Investing.com - Investing.com Australia",
-            "summary_en": "Microsoft and Mayo Clinic have entered a strategic partnership to jointly develop advanced healthcare-focused artificial intelligence models. This collaboration aims to leverage institutional data to create specialized AI solutions for the medical industry.",
-            "link": "https://au.investing.com/news/stock-market-news/mayo-clinic-microsoft-partner-on-healthcare-ai-model-development-93CH-4468224",
-            "timestamp": 1780430233000,
-            "date": "2026-06-03"
-        },
-        {
-            "title": "Microsoft Rayfin Debuts as a New Backend Platform for AI Agent Development and App Creation",
-            "summary_en": "Microsoft launched Rayfin, an open-source backend platform integrated with Microsoft Fabric that automates infrastructure management for AI agents. The tool enables developers and agents to generate complete application backends, such as databases and APIs, through simple code definitions or natural language prompts.",
-            "link": "http://www.techtimes.com/articles/317651/20260602/microsoft-rayfin-debuts-new-backend-platform-ai-agent-development-app-creation.htm",
-            "timestamp": 1780459207000,
-            "date": "2026-06-03"
         }
     ]
 }
