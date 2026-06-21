@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-20 16:25:35",
+    "last_update": "2026-06-21 08:05:48",
     "articles": [
+        {
+            "title": "Trump signs AI safety order seeking voluntary review of new models",
+            "summary_en": "President Trump signed an executive order requiring AI companies to voluntarily submit powerful new models for government security testing at least 30 days before public release. While avoiding mandatory licensing, the order directs agencies to develop cybersecurity benchmarks to address national security concerns regarding advanced AI.",
+            "link": "https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order",
+            "timestamp": 1780422107000,
+            "date": "2026-06-03"
+        },
+        {
+            "title": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI",
+            "summary_en": "Snowflake and Anthropic are deepening their strategic partnership to accelerate enterprise AI adoption by integrating Claude models directly into Snowflake Cortex AI. This collaboration allows businesses to deploy governed, production-ready AI agents on their own data without moving sensitive information outside of Snowflake's secure environment.",
+            "link": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai",
+            "timestamp": 1780359147000,
+            "date": "2026-06-02"
+        },
         {
             "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
             "summary_en": "TSMC is integrating NVIDIA’s accelerated computing, including CUDA-X libraries and vision AI, into its fabrication processes to optimize lithography, transistor modeling, and defect inspection. This partnership aims to enhance manufacturing precision and productivity in producing next-generation semiconductor nodes.",
@@ -621,18 +635,6 @@
             "link": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
             "summary_en": "Mustafa Suleyman, CEO of Microsoft AI, predicts that AI will achieve human-level performance and automate most office-based white-collar tasks, such as legal and accounting work, within 18 months, despite current data showing limited productivity gains and mixed results in real-world professional environments.",
             "timestamp": 1778934540000
-        },
-        {
-            "title": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
-            "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
-            "summary_en": "OpenAI has acquired a company that specializes in AI-powered voice cloning technology.",
-            "timestamp": 1778891636000
-        },
-        {
-            "title": "AI Infrastructure Shift: Nvidia Faces New Competition in Inference and Custom Chips - IndexBox",
-            "link": "https://www.indexbox.io/blog/ai-infrastructure-shift-nvidia-faces-new-competition-in-inference-and-custom-chips/",
-            "summary_en": "While Nvidia currently dominates the AI infrastructure market, companies like Broadcom and AMD are gaining traction as the industry shifts from training large models to inference, where energy-efficient custom ASIC chips are becoming increasingly vital for hyperscalers.",
-            "timestamp": 1778922720000
         }
     ]
 }
