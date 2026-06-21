@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-06-21 08:05:48",
+    "last_update": "2026-06-21 16:49:35",
     "articles": [
+        {
+            "title": "Microsoft is Accelerating its AI-First Strategy. From Infrastructure to Frontier Models, Here’s What Investors Need to Know - Barchart.com",
+            "summary_en": "Microsoft is aggressively investing $190 billion into data center infrastructure and an agent-centric computing vision to secure a leading position in the AI economy. By building a comprehensive, proprietary tech stack, the company aims to transition from app-based software to intelligent, autonomous agents that drive long-term monetization.",
+            "link": "https://www.barchart.com/story/news/2569048/microsoft-is-accelerating-its-ai-first-strategy-from-infrastructure-to-frontier-models-heres-what-investors-need-to-know",
+            "timestamp": 1781999600000,
+            "date": "2026-06-20"
+        },
         {
             "title": "US scientist John Jumper to leave Google DeepMind for Anthropic - Reuters",
             "summary_en": "Prominent US scientist John Jumper is reportedly set to depart Google DeepMind to join its rival, Anthropic.",
@@ -692,13 +699,6 @@
             "summary_en": "NVIDIA has introduced Alpamayo 2 Super, a 32-billion-parameter reasoning model designed to enhance level 4 autonomous vehicle development by enabling humanlike perception and 360-degree situational awareness. The release includes a suite of new simulation and training tools, such as AlpaGym and OmniDreams, to facilitate safer, closed-loop testing for robotaxis.",
             "link": "https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis",
             "timestamp": 1780300632000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
-            "summary_en": "NVIDIA launched Cosmos 3, a unified foundation model for physical AI that integrates physical reasoning, world generation, and action generation using a Mixture-of-Transformers architecture. Available in 16B and 64B parameter versions, the model is open-sourced alongside datasets and deployment tools to accelerate development in robotics and autonomous driving.",
-            "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3",
-            "timestamp": 1780289894000,
             "date": "2026-06-01"
         }
     ]

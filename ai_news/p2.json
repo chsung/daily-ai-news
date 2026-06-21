@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-06-21 08:05:48",
+    "last_update": "2026-06-21 16:49:35",
     "articles": [
+        {
+            "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
+            "summary_en": "NVIDIA launched Cosmos 3, a unified foundation model for physical AI that integrates physical reasoning, world generation, and action generation using a Mixture-of-Transformers architecture. Available in 16B and 64B parameter versions, the model is open-sourced alongside datasets and deployment tools to accelerate development in robotics and autonomous driving.",
+            "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3",
+            "timestamp": 1780289894000,
+            "date": "2026-06-01"
+        },
         {
             "title": "Trump signs AI safety order seeking voluntary review of new models",
             "summary_en": "President Trump signed an executive order requiring AI companies to voluntarily submit powerful new models for government security testing at least 30 days before public release. While avoiding mandatory licensing, the order directs agencies to develop cybersecurity benchmarks to address national security concerns regarding advanced AI.",
@@ -629,12 +636,6 @@
             "link": "https://www.reuters.com/business/openai-seals-deal-malta-give-all-maltese-access-chatgpt-plus-2026-05-16/",
             "summary_en": "OpenAI has entered into an agreement with Malta to provide all residents of the country with access to ChatGPT Plus.",
             "timestamp": 1778927500000
-        },
-        {
-            "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI - Fortune",
-            "link": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
-            "summary_en": "Mustafa Suleyman, CEO of Microsoft AI, predicts that AI will achieve human-level performance and automate most office-based white-collar tasks, such as legal and accounting work, within 18 months, despite current data showing limited productivity gains and mixed results in real-world professional environments.",
-            "timestamp": 1778934540000
         }
     ]
 }

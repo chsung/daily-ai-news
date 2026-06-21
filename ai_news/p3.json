@@ -1,6 +1,12 @@
 {
-    "last_update": "2026-06-21 08:05:48",
+    "last_update": "2026-06-21 16:49:35",
     "articles": [
+        {
+            "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI - Fortune",
+            "link": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
+            "summary_en": "Mustafa Suleyman, CEO of Microsoft AI, predicts that AI will achieve human-level performance and automate most office-based white-collar tasks, such as legal and accounting work, within 18 months, despite current data showing limited productivity gains and mixed results in real-world professional environments.",
+            "timestamp": 1778934540000
+        },
         {
             "title": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
             "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
@@ -594,12 +600,6 @@
             "link": "https://blogs.microsoft.com/on-the-issues/2026/05/05/advancing-ai-evaluation-with-the-center-for-ai-standards-us-and-innovation-and-the-ai-security-institute-uk/",
             "summary_en": "Microsoft is partnering with U.S. and U.K. government institutions to advance the science of AI testing and improve the safety and security of frontier AI models.",
             "timestamp": 1777993361000
-        },
-        {
-            "title": "Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale - Microsoft",
-            "link": "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale/",
-            "summary_en": "Microsoft research shows that interconnected AI agent networks face unique security risks, such as the spread of malicious data, that do not occur when agents operate in isolation.",
-            "timestamp": 1777532400000
         }
     ]
 }
