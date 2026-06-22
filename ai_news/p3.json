@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-21 16:49:35",
+    "last_update": "2026-06-22 09:16:48",
     "articles": [
+        {
+            "title": "Forward deployed engineer is AI’s hottest job as OpenAI and Google race to hire. Here’s how to become one. - The New Stack",
+            "link": "https://thenewstack.io/forward-deployed-engineer-fde-openai-google/",
+            "summary_en": "The 'forward deployed engineer' has become the most sought-after AI role as major firms like OpenAI, Google, and Anthropic prioritize experts who can bridge the gap between complex AI models and practical enterprise business outcomes to solve the current lack of measurable impact in generative AI pilots.",
+            "timestamp": 1778925805000
+        },
+        {
+            "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus - Reuters",
+            "link": "https://www.reuters.com/business/openai-seals-deal-malta-give-all-maltese-access-chatgpt-plus-2026-05-16/",
+            "summary_en": "OpenAI has entered into an agreement with Malta to provide all residents of the country with access to ChatGPT Plus.",
+            "timestamp": 1778927500000
+        },
         {
             "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI - Fortune",
             "link": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
@@ -588,18 +600,6 @@
             "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
             "summary_en": "Microsoft identified and fixed critical security vulnerabilities in its AI agent framework that could allow attackers to execute unauthorized code through prompt injection.",
             "timestamp": 1778185359000
-        },
-        {
-            "title": "Open by design: Ai2 brings fully open AI infrastructure online with NSF OMAI - Allen AI",
-            "link": "https://allenai.org/blog/omai-compute-now-live",
-            "summary_en": "The Allen Institute for AI (Ai2) has launched a new open-source infrastructure powered by NSF and NVIDIA to allow researchers to share and build upon AI experiments more efficiently.",
-            "timestamp": 1778167702000
-        },
-        {
-            "title": "Advancing AI evaluation with the Center for AI Standards (US) and Innovation and the AI Security Institute (UK) - The Official Microsoft Blog",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/05/05/advancing-ai-evaluation-with-the-center-for-ai-standards-us-and-innovation-and-the-ai-security-institute-uk/",
-            "summary_en": "Microsoft is partnering with U.S. and U.K. government institutions to advance the science of AI testing and improve the safety and security of frontier AI models.",
-            "timestamp": 1777993361000
         }
     ]
 }
