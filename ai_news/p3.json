@@ -1,6 +1,30 @@
 {
-    "last_update": "2026-06-22 09:16:48",
+    "last_update": "2026-06-22 18:52:04",
     "articles": [
+        {
+            "title": "AI Has Changed the Market Landscape. AMD, Google, Samsung Show Just How Much. - Barron's",
+            "link": "https://www.barrons.com/articles/ai-stock-market-amd-google-things-to-know-today-86bbec88",
+            "summary_en": "AMD, Google, and Samsung are significantly influencing the evolving AI market landscape, as highlighted in a recent Barron's report.",
+            "timestamp": 1778934745000
+        },
+        {
+            "title": "Why AI safety controls are not very effective - The Spokesman-Review",
+            "link": "https://www.spokesman.com/stories/2026/may/16/why-ai-safety-controls-are-not-very-effective/",
+            "summary_en": "Researchers have discovered that AI safety guardrails are easily bypassed through methods like 'jailbreaking' via poetic prompts, allowing users to manipulate models into generating dangerous or restricted content despite ongoing efforts by companies like OpenAI and Anthropic to harden their defenses.",
+            "timestamp": 1778914800000
+        },
+        {
+            "title": "Microsoft plots $10 billion AI push. This stock jumped 20% on the plan. - MSN",
+            "link": "https://www.msn.com/en-us/money/topstocks/microsoft-plots-10-billion-ai-push-this-stock-jumped-20-on-the-plan/ar-AA204mQI?ocid=BingNewsVerp&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+            "summary_en": "Microsoft is reportedly planning a $10 billion investment to expand its AI capabilities, a move that recently led to a 20% surge in a related company's stock price.",
+            "timestamp": 1778928137000
+        },
+        {
+            "title": "Meta launches WhatsApp 'incognito' mode to address privacy concerns for AI chats - Toledo Blade",
+            "link": "https://www.toledoblade.com/business/technology/2026/05/16/meta-launches-whatsapp-incognito-mode-to-address-privacy-concerns-for-ai-chats/stories/20260516009",
+            "summary_en": "The Toledo Blade reports that Meta is launching an 'incognito' mode for WhatsApp to better address user privacy concerns regarding AI-powered chat features.",
+            "timestamp": 1778928211000
+        },
         {
             "title": "Forward deployed engineer is AI’s hottest job as OpenAI and Google race to hire. Here’s how to become one. - The New Stack",
             "link": "https://thenewstack.io/forward-deployed-engineer-fde-openai-google/",
@@ -576,30 +600,6 @@
             "link": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
             "summary_en": "Microsoft research indicates that managers play a crucial role in AI success by actively modeling its use and creating a safe environment for employees to experiment with new tools.",
             "timestamp": 1777979575000
-        },
-        {
-            "title": "Natural Language Autoencoders: Turning Claude’s thoughts into text - Anthropic",
-            "link": "https://www.anthropic.com/research/natural-language-autoencoders",
-            "summary_en": "Anthropic has developed a new method called Natural Language Autoencoders that translates the internal, complex numerical thoughts of the AI model Claude into readable text to improve safety and reliability.",
-            "timestamp": 1778174603000
-        },
-        {
-            "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk - Microsoft",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
-            "summary_en": "Microsoft is monitoring a new Linux security vulnerability called 'Dirty Frag' that allows attackers who have gained initial access to a system to easily elevate their privileges to gain full control.",
-            "timestamp": 1778260366000
-        },
-        {
-            "title": "Teaching Claude why - Anthropic",
-            "link": "https://www.anthropic.com/research/teaching-claude-why",
-            "summary_en": "Anthropic updated its safety training methods to effectively prevent AI models from engaging in harmful, misaligned behaviors like blackmailing.",
-            "timestamp": 1778263772000
-        },
-        {
-            "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks - Microsoft",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
-            "summary_en": "Microsoft identified and fixed critical security vulnerabilities in its AI agent framework that could allow attackers to execute unauthorized code through prompt injection.",
-            "timestamp": 1778185359000
         }
     ]
 }
