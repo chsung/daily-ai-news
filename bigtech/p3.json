@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-06-19 17:46:08",
+    "last_update": "2026-06-22 19:02:37",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1779375600000,
+            "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+            "summary_kr": "앤스로픽 재무팀은 클로드(Claude)를 활용해 복잡한 재무 데이터의 일관성을 유지하고, 보고서 작성 등 반복 업무 시간을 대폭 줄여 전략적 판단에 집중하고 있습니다.",
+            "summary_en": "Anthropic's finance team is leveraging Claude to automate data validation and narrative drafting, reclaiming up to 20 hours per week and ensuring consistency across board-level financial communications.",
+            "link": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779361353000,
+            "title": "From AI pilots to enterprise impact: Why execution is the new differentiator",
+            "summary_kr": "기업의 AI 경쟁력은 단순한 실험을 넘어 데이터와 보안, 신뢰를 기반으로 한 업무 전반의 실질적 실행과 확장성에 달려 있습니다.",
+            "summary_en": "The competitive edge in AI has shifted from experimentation to execution, requiring a foundation of trust, security, and integration to scale meaningful impact across the enterprise.",
+            "link": "https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779361207000,
+            "title": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
+            "summary_kr": "EY와 마이크로소프트가 10억 달러 이상을 공동 투자하여 기업의 AI 도입을 실험 단계를 넘어 전사적 가치 창출로 확장하는 전략적 이니셔티브를 발표했습니다.",
+            "summary_en": "EY and Microsoft are jointly investing over $1 billion in a new initiative to help enterprises scale AI beyond experimentation, leveraging integrated engineering and consulting teams to drive measurable business value.",
+            "link": "https://news.microsoft.com/source/2026/05/21/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprisewide-value-creation-and-move-beyond-experimentation"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1779321600000,
+            "title": "Use Grok in OpenCode",
+            "summary_kr": "오픈코드(OpenCode) 사용자는 이제 X 프리미엄 구독을 통해 그록(Grok)을 연결하여 터미널 기반의 코딩 에이전트 기능을 활용할 수 있게 되었습니다.",
+            "summary_en": "OpenCode users can now integrate their Grok or X Premium subscription to leverage Grok for terminal-based coding, mirroring the functionality found in xAI's specialized coding agent.",
+            "link": "https://x.ai/news/grok-opencode"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779307200000,
+            "title": "Mastering Agentic Techniques: AI Agent Customization",
+            "summary_kr": "범용 AI 모델을 특정 업무에 최적화하기 위해 프롬프트 엔지니어링부터 RAG까지 다양한 커스터마이징 기법을 활용하여 성능과 신뢰성을 극대화할 수 있습니다.",
+            "summary_en": "To optimize general-purpose AI models for specific tasks, organizations can leverage various customization techniques ranging from prompt engineering to RAG to enhance performance and operational reliability.",
+            "link": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779305400000,
+            "title": "100 things we announced at I/O 2026",
+            "summary_kr": "구글 I/O 2026에서 공개된 고성능 AI 모델 'Gemini 3.5 Flash'와 멀티모달 생성 모델 'Gemini Omni'는 압도적인 속도와 효율성으로 AI 개발 및 콘텐츠 제작의 새로운 표준을 제시했습니다.",
+            "summary_en": "Google I/O 2026 unveiled 'Gemini 3.5 Flash' and 'Gemini Omni,' setting a new standard for AI development and creative production with frontier-level intelligence, exceptional speed, and advanced multimodal capabilities.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779295500000,
+            "title": "A new experiment brings better group meetings to Google Beam",
+            "summary_kr": "구글 빔(Google Beam)은 HP의 몰입형 디스플레이와 공간 음향 기술을 도입하여 원격 참가자를 실제 크기로 구현하고, 하이브리드 회의의 소속감과 참여도를 크게 향상시켰습니다.",
+            "summary_en": "Google Beam has introduced immersive display and spatial audio technologies to render remote participants in true-to-life proportions, significantly enhancing social connection and engagement in hybrid meetings.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779293931000,
+            "title": "New open source tools to bring safety into agent development workflow",
+            "summary_kr": "마이크로소프트는 AI 에이전트의 안전성을 지속적인 엔지니어링 영역으로 전환하기 위해, 설계 단계의 위험을 검증하는 'Clarity'와 실시간 적대적 테스트를 자동화하는 'RAMPART'라는 두 가지 오픈소스 도구를 공개했습니다.",
+            "summary_en": "Microsoft has open-sourced 'Clarity' and 'RAMPART' to transition AI agent safety into a continuous engineering discipline by enabling early design-stage validation and automated adversarial testing within the development workflow.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779292800000,
+            "title": "Add a Specialized Deep Research Skill to Agent Harnesses",
+            "summary_kr": "NVIDIA의 AI-Q는 복잡한 데이터 분석 및 심층 연구 작업을 에이전트가 쉽게 활용할 수 있도록 표준화된 '연구 스킬'로 패키징하여, 개발자의 부담을 줄이고 보안이 확보된 환경에서 전문적인 분석 결과를 제공합니다.",
+            "summary_en": "NVIDIA AI-Q packages complex deep research capabilities into a portable agent skill, allowing existing agent harnesses to delegate sophisticated data synthesis and analysis tasks while maintaining enterprise data security.",
+            "link": "https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779289200000,
+            "title": "AdventHealth advances whole-person care with OpenAI",
+            "summary_kr": "어드벤트헬스(AdventHealth)는 챗GPT 엔터프라이즈를 도입하여 의료진의 행정 업무 시간을 80% 줄이고, 그 시간을 환자 케어에 집중하도록 업무 환경을 개선했습니다.",
+            "summary_en": "AdventHealth has integrated ChatGPT for Healthcare to automate administrative tasks, successfully reducing documentation time by 80% and allowing clinical staff to dedicate more time to direct patient care.",
+            "link": "https://openai.com/index/adventhealth",
+            "date": "2026-05-21"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1779289200000,
@@ -748,91 +829,6 @@
             "summary_kr": "구글은 음악 기업 Believe와 협력하여 자사의 최신 AI 음악 생성 모델 'Lyria 3 Pro' 기반의 'Flow Music' 도구를 아티스트들에게 제공하고, 창작자들과 함께 음악 기술의 미래를 공동 개발합니다.",
             "summary_en": "Google has partnered with Believe to provide artists with 'Flow Music,' powered by its advanced 'Lyria 3 Pro' model, fostering a collaborative approach to co-create the future of music technology.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778079600000,
-            "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
-            "summary_kr": "클로드(Claude)가 엑셀, 파워포인트, 워드, 아웃룩 등 마이크로소프트 365 앱과 연동되어 업무 컨텍스트를 유지한 채 자동화된 협업을 지원합니다. 기업 관리자는 엔터프라이즈급 보안 및 애널리틱스 API를 통해 사용 활동을 추적하고 제어할 수 있습니다.",
-            "summary_en": "Claude is now integrated across Microsoft 365 apps, allowing users to maintain workflow context across Excel, PowerPoint, Word, and Outlook; enterprise admins can manage deployment and monitor activity via security controls and an analytics API.",
-            "link": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1778025600000,
-            "title": "New Compute Partnership with Anthropic",
-            "summary_kr": "스페이스X와 앤스로픽이 협력하여 22만 개 이상의 엔비디아 GPU로 구성된 AI 슈퍼컴퓨터 '콜로서스 1'을 활용한 대규모 AI 컴퓨팅 파트너십을 체결했습니다.",
-            "summary_en": "SpaceX and Anthropic have formed a partnership to utilize 'Colossus 1,' an AI supercomputer equipped with over 220,000 NVIDIA GPUs, to scale AI training and infrastructure capabilities.",
-            "link": "https://x.ai/news/anthropic-compute-partnership"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1778025600000,
-            "title": "Connectors in web, iOS, and Android",
-            "summary_kr": "그록(Grok)은 아웃룩, 구글 워크스페이스, 노션, 깃허브 등 주요 업무 도구와 직접 연결되는 '커넥터' 기능을 출시하여 플랫폼 간 이동 없이 데이터를 검색하고 문서를 편집할 수 있게 했습니다.",
-            "summary_en": "Grok has launched 'Connectors,' enabling direct integration with tools like Google Workspace, Notion, and GitHub to facilitate seamless data synthesis and document management within the Grok interface.",
-            "link": "https://x.ai/news/grok-connectors"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1778025600000,
-            "title": "Grok Imagine Quality Mode API",
-            "summary_kr": "그록(Grok)의 '이미지 퀄리티 모드 API'는 브랜드 스타일을 유지하면서 상세한 프롬프트를 통해 고품질의 실사 제품 렌더링, 소셜 미디어 광고 자산 및 콘텐츠를 생성하는 기능을 제공합니다.",
-            "summary_en": "Grok's 'Imagine Quality Mode API' enables the generation of high-end photorealistic product renders and marketing assets, maintaining consistent brand style through detailed prompt-based adjustments.",
-            "link": "https://x.ai/news/grok-imagine-quality-mode"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1777996335000,
-            "title": "Building for the Rising Complexity of Agentic Systems with Extreme Co-Design",
-            "summary_kr": "에이전트 AI 시스템의 복잡성이 증가함에 따라, 엔비디아의 베라 루빈 플랫폼과 같이 효율적인 컨텍스트 관리와 도구 활용을 위해 최적화된 새로운 인프라 설계의 중요성이 강조되고 있습니다.",
-            "summary_en": "As agentic AI systems become increasingly complex, specialized infrastructure stacks, such as NVIDIA's Vera Rubin platform, are essential to manage the demanding token consumption, context windows, and latency requirements.",
-            "link": "https://developer.nvidia.com/blog/building-for-the-rising-complexity-of-agentic-systems-with-extreme-co-design"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777993200000,
-            "title": "Uber uses OpenAI to help people earn smarter and book faster",
-            "summary_kr": "우버는 오픈AI의 모델을 기반으로 운전기사에게 실시간 수익 최적화와 시장 분석 데이터를 제공하는 '우버 어시스턴트'를 도입하여 기사의 업무 효율과 의사결정 속도를 높이고 있습니다.",
-            "summary_en": "Uber has integrated OpenAI's models into 'Uber Assistant' to provide drivers with real-time market insights and decision-making support, effectively reducing cognitive load and accelerating onboarding efficiency.",
-            "link": "https://openai.com/index/uber",
-            "date": "2026-05-06"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777993200000,
-            "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-            "summary_kr": "싱귤러 뱅크는 챗GPT와 코덱스를 기반으로 내부 비서 '싱귤래리티'를 구축해 포트폴리오 분석 및 보고서 작성 시간을 단축함으로써, 은행원이 일평균 60~90분의 업무 시간을 절약하고 고객 자문 서비스에 집중하도록 돕고 있습니다.",
-            "summary_en": "Singular Bank's AI assistant, 'Singularity,' utilizes ChatGPT and Codex to automate portfolio analysis and meeting preparation, saving bankers 60-90 minutes daily and enabling more focus on high-value client advisory.",
-            "link": "https://openai.com/index/singular-bank",
-            "date": "2026-05-06"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777993200000,
-            "title": "How ChatGPT learns about the world while protecting privacy",
-            "summary_kr": "오픈AI는 챗GPT 학습 과정에서 개인정보보호 필터 기술을 활용해 데이터를 마스킹하며, 사용자가 학습 데이터 포함 여부를 직접 제어할 수 있는 다양한 프라이버시 옵션을 제공하고 있습니다.",
-            "summary_en": "OpenAI employs a privacy filter to mask personal information during model training and provides users with granular controls, such as disabling data sharing for training and using temporary chats, to safeguard their privacy.",
-            "link": "https://openai.com/index/how-chatgpt-protects-privacy",
-            "date": "2026-05-06"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777993200000,
-            "title": "How frontier firms are pulling ahead",
-            "summary_kr": "오픈AI의 분석 보고서에 따르면, AI를 깊이 있게 활용하는 선도 기업들은 일반 기업보다 작업자당 3.5배 많은 지능 데이터를 사용하며 AI 에이전트를 통한 업무 위임으로 차별화된 효율을 보이고 있습니다.",
-            "summary_en": "OpenAI research reveals that frontier firms consume 3.5x more intelligence per worker compared to typical firms, increasingly shifting from simple assistance to delegating complex tasks to AI agents.",
-            "link": "https://openai.com/index/introducing-b2b-signals",
-            "date": "2026-05-06"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1777993200000,
-            "title": "Introducing ChatGPT Futures: Class of 2026",
-            "summary_kr": "오픈AI는 AI를 활용해 창의적이고 실질적인 문제를 해결하는 학생 26명을 '챗GPT 퓨처스 2026' 멤버로 선정하고, 이들의 혁신적인 활동을 돕기 위해 각각 1만 달러의 지원금과 모델 접근 권한을 제공합니다.",
-            "summary_en": "OpenAI introduced 'ChatGPT Futures: Class of 2026,' recognizing 26 students who use AI for social impact, providing each with a $10,000 grant and frontier model access to support their continued innovation.",
-            "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-            "date": "2026-05-06"
         }
     ]
 }

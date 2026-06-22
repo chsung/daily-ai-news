@@ -1,6 +1,96 @@
 {
-    "last_update": "2026-06-19 17:46:08",
+    "last_update": "2026-06-22 19:02:37",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1780492500000,
+            "date": "2026-06-03",
+            "title": "Introducing new capabilities to GPT-Rosalind",
+            "summary_kr": "GPT-Rosalind의 최신 업데이트는 제약 및 생명공학 연구를 위해 특화된 에이전트형 모델로, 전용 벤치마크인 'LifeSciBench'를 통해 신약 개발과 복잡한 연구 워크플로우 전반의 성능을 강화했습니다.",
+            "summary_en": "The updated GPT-Rosalind integrates advanced agentic capabilities with domain-specific intelligence for life sciences, leveraging the new 'LifeSciBench' to optimize end-to-end research workflows and drug discovery tasks.",
+            "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780488000000,
+            "date": "2026-06-03",
+            "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+            "summary_kr": "Wasmer는 AI 코딩 도구인 Codex를 활용해 기존 1년이 걸릴 개발 기간을 2주로 단축하며, WebAssembly 환경에서 구동되는 혁신적인 Node.js 런타임 'Edge.js'를 성공적으로 출시했습니다.",
+            "summary_en": "By leveraging Codex, Wasmer successfully developed and launched its innovative Edge.js runtime for WebAssembly in just two weeks, reducing a project that would have otherwise taken a full year.",
+            "link": "https://openai.com/index/wasmer"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1780444800000,
+            "date": "2026-06-03",
+            "title": "Grok Becomes the Voice of Vapi",
+            "summary_kr": "xAI의 Grok이 음성 AI 플랫폼 Vapi의 기본 음성 엔진으로 선정되어, 250만 개 이상의 AI 에이전트에 한층 자연스럽고 감정적인 대화 능력을 제공하게 되었습니다.",
+            "summary_en": "xAI's Grok has been selected as the default voice engine for Vapi, delivering enhanced naturalness and emotional resonance to over 2.5 million AI agents on the platform.",
+            "link": "https://x.ai/news/grok-vapi"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1780444800000,
+            "date": "2026-06-03",
+            "title": "Grok Imagine 1.5 Preview",
+            "summary_kr": "xAI가 정지 이미지를 자연스러운 영상으로 변환하고 카메라 움직임과 물리 효과를 정밀하게 제어할 수 있는 'Grok Imagine 1.5 Preview' 모델을 API로 공개했습니다.",
+            "summary_en": "xAI has released 'Grok Imagine 1.5 Preview' via API, a new model that transforms still images into cinematic videos with precise control over camera movement, physics, and visual consistency.",
+            "link": "https://x.ai/news/grok-imagine-1-5"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1780502400000,
+            "date": "2026-06-03",
+            "title": "Meet Dreambeans, an app that connects you with what matters",
+            "summary_kr": "구글 랩스가 공개한 'Dreambeans'는 개인의 구글 앱 데이터를 활용해 사용자가 놓치지 말아야 할 정보와 영감을 맞춤형 스토리 형태로 제공하는 AI 서비스입니다.",
+            "summary_en": "Google Labs has introduced 'Dreambeans,' an AI-powered app that synthesizes personal data from Google services to curate personalized daily stories aimed at fostering meaningful engagement rather than endless scrolling.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780480800000,
+            "date": "2026-06-03",
+            "title": "OpenAI public policy agenda",
+            "summary_kr": "OpenAI는 AGI의 혜택을 전 인류와 공유하기 위해 민주화, 권한 부여, 안전 등 5대 원칙을 수립하고, 정부 및 정책 당국과 협력하여 책임감 있는 AI 거버넌스 프레임워크를 구축하는 데 주력하고 있습니다.",
+            "summary_en": "OpenAI is committed to ensuring AGI benefits all humanity by adhering to five core principles and actively collaborating with global policymakers to establish comprehensive safety frameworks and accountable AI governance.",
+            "link": "https://openai.com/index/public-policy-agenda"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780480800000,
+            "date": "2026-06-03",
+            "title": "A blueprint for democratic governance of frontier AI",
+            "summary_kr": "미국 정부가 첨단 AI의 안전성을 보장하기 위해 주 정부 법안과 연계한 국가적 관리 체계를 구축하고, CAISI를 핵심 기관으로 강화하며 범정부 차원의 대응 전략을 마련해야 한다는 청사진을 제시했습니다.",
+            "summary_en": "The blueprint proposes a U.S. federal framework for frontier AI governance by leveraging state-level consensus, strengthening CAISI as a primary safety institution, and implementing a comprehensive national resilience strategy.",
+            "link": "https://openai.com/index/frontier-safety-blueprint"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780444800000,
+            "date": "2026-06-03",
+            "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+            "summary_kr": "AI 기반 사이버 위협 분석 결과, 공격자들이 AI를 활용해 초기 침투보다 고난도인 내부망 이동 및 권한 상승 등 '침투 후 단계'의 작업을 자동화하며 위협 수준을 높이고 있습니다. 이로 인해 기존의 보안 위협 평가 방식은 유효성을 잃고 있으며, AI가 숙련도가 낮은 공격자조차 고위험군으로 격상시키는 핵심 동인이 되고 있습니다.",
+            "summary_en": "Analysis of AI-enabled cyber threats reveals that attackers are increasingly using AI to automate complex post-compromise tasks like lateral movement and privilege escalation, effectively closing the capability gap between amateur and sophisticated actors. This shift renders traditional risk assessment metrics obsolete as AI empowers low-skill actors to execute high-stakes operations.",
+            "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780444800000,
+            "date": "2026-06-03",
+            "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+            "summary_kr": "앤스로픽은 기업의 성공적인 AI 도입을 지원하기 위해 파트너사의 전문성을 검증하는 '서비스 트랙'과 고객과 파트너를 연결하는 '클로드 파트너 허브'를 도입했습니다.",
+            "summary_en": "Anthropic has launched the 'Services Track' to categorize partner expertise and the 'Claude Partner Hub' to connect enterprises with qualified firms, ensuring successful, large-scale AI deployment.",
+            "link": "https://www.anthropic.com/news/services-track-partner-hub"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780444800000,
+            "date": "2026-06-03",
+            "title": "How Anthropic enables self-service data analytics with Claude",
+            "summary_kr": "앤스로픽은 LLM의 할루시네이션을 제어하기 위한 전문적인 에이전트 데이터 스택을 구축하여, 비즈니스 분석의 95%를 자동화하고 데이터 팀의 전략적 역량을 극대화했습니다.",
+            "summary_en": "Anthropic has optimized self-service analytics by deploying an agentic data stack that mitigates LLM hallucination, successfully automating 95% of business queries while enabling its data team to focus on high-impact strategic work.",
+            "link": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1780444800000,
@@ -795,87 +885,6 @@
             "summary_en": "Virgin Atlantic successfully utilized Codex to reduce legacy code refactoring time from two weeks to under 30 minutes, achieving near-perfect unit test coverage and zero P1 defects for its mobile app launch.",
             "link": "https://openai.com/index/virgin-atlantic",
             "date": "2026-05-22"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779375600000,
-            "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
-            "summary_kr": "앤스로픽 재무팀은 클로드(Claude)를 활용해 복잡한 재무 데이터의 일관성을 유지하고, 보고서 작성 등 반복 업무 시간을 대폭 줄여 전략적 판단에 집중하고 있습니다.",
-            "summary_en": "Anthropic's finance team is leveraging Claude to automate data validation and narrative drafting, reclaiming up to 20 hours per week and ensuring consistency across board-level financial communications.",
-            "link": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779361353000,
-            "title": "From AI pilots to enterprise impact: Why execution is the new differentiator",
-            "summary_kr": "기업의 AI 경쟁력은 단순한 실험을 넘어 데이터와 보안, 신뢰를 기반으로 한 업무 전반의 실질적 실행과 확장성에 달려 있습니다.",
-            "summary_en": "The competitive edge in AI has shifted from experimentation to execution, requiring a foundation of trust, security, and integration to scale meaningful impact across the enterprise.",
-            "link": "https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779361207000,
-            "title": "EY and Microsoft announce global initiative to help clients scale AI enterprisewide value creation and move beyond experimentation",
-            "summary_kr": "EY와 마이크로소프트가 10억 달러 이상을 공동 투자하여 기업의 AI 도입을 실험 단계를 넘어 전사적 가치 창출로 확장하는 전략적 이니셔티브를 발표했습니다.",
-            "summary_en": "EY and Microsoft are jointly investing over $1 billion in a new initiative to help enterprises scale AI beyond experimentation, leveraging integrated engineering and consulting teams to drive measurable business value.",
-            "link": "https://news.microsoft.com/source/2026/05/21/ey-and-microsoft-announce-global-initiative-to-help-clients-scale-ai-enterprisewide-value-creation-and-move-beyond-experimentation"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1779321600000,
-            "title": "Use Grok in OpenCode",
-            "summary_kr": "오픈코드(OpenCode) 사용자는 이제 X 프리미엄 구독을 통해 그록(Grok)을 연결하여 터미널 기반의 코딩 에이전트 기능을 활용할 수 있게 되었습니다.",
-            "summary_en": "OpenCode users can now integrate their Grok or X Premium subscription to leverage Grok for terminal-based coding, mirroring the functionality found in xAI's specialized coding agent.",
-            "link": "https://x.ai/news/grok-opencode"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779307200000,
-            "title": "Mastering Agentic Techniques: AI Agent Customization",
-            "summary_kr": "범용 AI 모델을 특정 업무에 최적화하기 위해 프롬프트 엔지니어링부터 RAG까지 다양한 커스터마이징 기법을 활용하여 성능과 신뢰성을 극대화할 수 있습니다.",
-            "summary_en": "To optimize general-purpose AI models for specific tasks, organizations can leverage various customization techniques ranging from prompt engineering to RAG to enhance performance and operational reliability.",
-            "link": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-customization"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779305400000,
-            "title": "100 things we announced at I/O 2026",
-            "summary_kr": "구글 I/O 2026에서 공개된 고성능 AI 모델 'Gemini 3.5 Flash'와 멀티모달 생성 모델 'Gemini Omni'는 압도적인 속도와 효율성으로 AI 개발 및 콘텐츠 제작의 새로운 표준을 제시했습니다.",
-            "summary_en": "Google I/O 2026 unveiled 'Gemini 3.5 Flash' and 'Gemini Omni,' setting a new standard for AI development and creative production with frontier-level intelligence, exceptional speed, and advanced multimodal capabilities.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779295500000,
-            "title": "A new experiment brings better group meetings to Google Beam",
-            "summary_kr": "구글 빔(Google Beam)은 HP의 몰입형 디스플레이와 공간 음향 기술을 도입하여 원격 참가자를 실제 크기로 구현하고, 하이브리드 회의의 소속감과 참여도를 크게 향상시켰습니다.",
-            "summary_en": "Google Beam has introduced immersive display and spatial audio technologies to render remote participants in true-to-life proportions, significantly enhancing social connection and engagement in hybrid meetings.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779293931000,
-            "title": "New open source tools to bring safety into agent development workflow",
-            "summary_kr": "마이크로소프트는 AI 에이전트의 안전성을 지속적인 엔지니어링 영역으로 전환하기 위해, 설계 단계의 위험을 검증하는 'Clarity'와 실시간 적대적 테스트를 자동화하는 'RAMPART'라는 두 가지 오픈소스 도구를 공개했습니다.",
-            "summary_en": "Microsoft has open-sourced 'Clarity' and 'RAMPART' to transition AI agent safety into a continuous engineering discipline by enabling early design-stage validation and automated adversarial testing within the development workflow.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779292800000,
-            "title": "Add a Specialized Deep Research Skill to Agent Harnesses",
-            "summary_kr": "NVIDIA의 AI-Q는 복잡한 데이터 분석 및 심층 연구 작업을 에이전트가 쉽게 활용할 수 있도록 표준화된 '연구 스킬'로 패키징하여, 개발자의 부담을 줄이고 보안이 확보된 환경에서 전문적인 분석 결과를 제공합니다.",
-            "summary_en": "NVIDIA AI-Q packages complex deep research capabilities into a portable agent skill, allowing existing agent harnesses to delegate sophisticated data synthesis and analysis tasks while maintaining enterprise data security.",
-            "link": "https://developer.nvidia.com/blog/add-a-specialized-deep-research-skill-to-agent-harnesses"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779289200000,
-            "title": "AdventHealth advances whole-person care with OpenAI",
-            "summary_kr": "어드벤트헬스(AdventHealth)는 챗GPT 엔터프라이즈를 도입하여 의료진의 행정 업무 시간을 80% 줄이고, 그 시간을 환자 케어에 집중하도록 업무 환경을 개선했습니다.",
-            "summary_en": "AdventHealth has integrated ChatGPT for Healthcare to automate administrative tasks, successfully reducing documentation time by 80% and allowing clinical staff to dedicate more time to direct patient care.",
-            "link": "https://openai.com/index/adventhealth",
-            "date": "2026-05-21"
         }
     ]
 }
