@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-23 06:56:42",
+    "last_update": "2026-06-23 17:23:11",
     "articles": [
+        {
+            "title": "OpenAI Will Let The US Government Review Its AI Models Before Release - Engadget",
+            "summary_en": "OpenAI has announced it will comply with the U.S. government's recent voluntary executive order, allowing regulators to review its advanced AI models for safety 30 days prior to public release. This move follows a revised policy that seeks to balance security benchmarks with industry concerns regarding the potential chilling effects of strict oversight.",
+            "link": "https://www.engadget.com/2188124/openai-will-let-us-government-review-its-models",
+            "timestamp": 1780662314000,
+            "date": "2026-06-05"
+        },
+        {
+            "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
+            "summary_en": "NVIDIA and Microsoft have partnered to launch the RTX Spark, a new superchip designed to enable secure, high-performance local AI agents on Windows PCs. The hardware, which features 1 petaflop of performance and NVIDIA OpenShell security, aims to transition the PC from a tool to a teammate by running complex models and personal agents locally.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
+            "timestamp": 1780288247000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI - NVIDIA Blog",
+            "summary_en": "NVIDIA has introduced a suite of physical AI agent skills and the Cosmos 3 foundation model to streamline the creation of autonomous vehicles and robotics workflows. These tools help researchers overcome the 'long tail' of data challenges by automating synthetic scene generation and high-fidelity simulations.",
+            "link": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills",
+            "timestamp": 1780499168000,
+            "date": "2026-06-03"
+        },
         {
             "title": "Anthropic warns AI could soon help build its own successors - Axios",
             "summary_en": "Anthropic warns that AI systems are approaching a stage of 'recursive self-improvement,' where they may soon be capable of autonomously designing and building their own successors. The company is actively engaging lawmakers to prepare for the societal impacts of AI-driven development and the critical need for alignment verification.",
@@ -627,24 +648,6 @@
             "link": "https://www.sdxcentral.com/news/verizon-first-telecom-partner-in-anthropic-ai-security-venture/",
             "summary_en": "Verizon has become the first telecommunications provider to join Anthropic’s Project Glasswing, utilizing the Claude Mythos model to strengthen its network defenses against complex cyber threats and state-sponsored AI attacks.",
             "timestamp": 1779109954000
-        },
-        {
-            "title": "DW News. . Meta is introducing AI tools to estimate users’ ages based on photos and videos, aiming to identify underage accounts in the US, Brazil, and EU. The rollout comes after a $375M child‑safety fine, but it’s also reigniting debates around data privacy a - facebook.com",
-            "link": "https://www.facebook.com/deutschewellenews/videos/meta-is-introducing-ai-tools-to-estimate-users-ages-based-on-photos-and-videos-a/1545744047255729/",
-            "summary_en": "Meta is implementing AI-powered age estimation tools for photos and videos in the US, Brazil, and EU to improve child safety, a move that follows a $375 million fine but has sparked significant controversy regarding user data privacy.",
-            "timestamp": 1779109515000
-        },
-        {
-            "title": "Salesforce sets aside $300M for AI development with Anthropic - Techzine Global",
-            "link": "https://www.techzine.eu/news/devops/141412/salesforce-sets-aside-300m-for-ai-development-with-anthropic/",
-            "summary_en": "Salesforce has committed $300 million to fund AI development initiatives in partnership with Anthropic.",
-            "timestamp": 1779097320000
-        },
-        {
-            "title": "EU Commission in talks with OpenAI and Anthropic over AI models - AOL.com",
-            "link": "https://www.aol.com/articles/eu-commission-talks-openai-anthropic-104846000.html",
-            "summary_en": "The European Commission is engaging in diplomatic discussions with OpenAI and Anthropic to explore potential regulatory access to their AI models, with OpenAI proactively offering cooperation while talks with Anthropic remain in preliminary stages.",
-            "timestamp": 1778991806000
         }
     ]
 }

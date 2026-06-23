@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-23 06:56:42",
+    "last_update": "2026-06-23 17:23:11",
     "articles": [
+        {
+            "title": "DW News. . Meta is introducing AI tools to estimate users’ ages based on photos and videos, aiming to identify underage accounts in the US, Brazil, and EU. The rollout comes after a $375M child‑safety fine, but it’s also reigniting debates around data privacy a - facebook.com",
+            "link": "https://www.facebook.com/deutschewellenews/videos/meta-is-introducing-ai-tools-to-estimate-users-ages-based-on-photos-and-videos-a/1545744047255729/",
+            "summary_en": "Meta is implementing AI-powered age estimation tools for photos and videos in the US, Brazil, and EU to improve child safety, a move that follows a $375 million fine but has sparked significant controversy regarding user data privacy.",
+            "timestamp": 1779109515000
+        },
+        {
+            "title": "Salesforce sets aside $300M for AI development with Anthropic - Techzine Global",
+            "link": "https://www.techzine.eu/news/devops/141412/salesforce-sets-aside-300m-for-ai-development-with-anthropic/",
+            "summary_en": "Salesforce has committed $300 million to fund AI development initiatives in partnership with Anthropic.",
+            "timestamp": 1779097320000
+        },
+        {
+            "title": "EU Commission in talks with OpenAI and Anthropic over AI models - AOL.com",
+            "link": "https://www.aol.com/articles/eu-commission-talks-openai-anthropic-104846000.html",
+            "summary_en": "The European Commission is engaging in diplomatic discussions with OpenAI and Anthropic to explore potential regulatory access to their AI models, with OpenAI proactively offering cooperation while talks with Anthropic remain in preliminary stages.",
+            "timestamp": 1778991806000
+        },
         {
             "title": "DeepSeek unveils new AI model, targets OpenAI and Anthropic - MSN",
             "link": "https://www.msn.com/en-us/health/other/deepseek-unveils-new-ai-model-targets-openai-and-anthropic/ar-AA21BOlI?gemSnapshotKey=GM14E0454F-snapshot-1&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
@@ -582,24 +600,6 @@
             "link": "https://www.neowin.net/news/metas-aggressive-generative-ai-push-is-making-employees-miserable-claims-report/",
             "summary_en": "Meta employees are unhappy due to a new mandatory monitoring program designed to train AI and aggressive restructuring efforts focused on AI efficiency.",
             "timestamp": 1778384760000
-        },
-        {
-            "title": "Building AI apps and agents with Microsoft Foundry - InfoWorld",
-            "link": "https://www.infoworld.com/article/4165766/building-ai-apps-and-agents-with-microsoft-foundry.html",
-            "summary_en": "Microsoft Foundry is a new unified Azure platform that helps developers build, deploy, and manage AI agents and models with built-in security and governance tools.",
-            "timestamp": 1778058154000
-        },
-        {
-            "title": "New Microsoft data: AI adoption continues to rise – Switzerland remains above average - Microsoft Source",
-            "link": "https://news.microsoft.com/source/emea/2026/05/new-microsoft-data-ai-adoption-continues-to-rise-switzerland-remains-above-average/",
-            "summary_en": "Global generative AI usage is steadily increasing, with Switzerland leading as over one-third of its working-age population adopts AI tools for daily tasks.",
-            "timestamp": 1778175434000
-        },
-        {
-            "title": "Allen Institute for AI launches big computing cluster for $152M project backed by Nvidia and NSF - GeekWire",
-            "link": "https://www.geekwire.com/2026/allen-institute-for-ai-brings-152m-federally-backed-computing-project-online/",
-            "summary_en": "The Allen Institute for AI has launched a powerful new computing cluster to support a $152 million project aimed at creating open-source AI models for scientific research.",
-            "timestamp": 1778179767000
         }
     ]
 }
