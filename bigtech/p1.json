@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-06-22 19:02:37",
+    "last_update": "2026-06-23 17:43:53",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1782235801000,
+            "date": "2026-06-23",
+            "title": "Rethinking cloud operations with agentic observability - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 복잡하고 자율적인 클라우드 환경에서 발생하는 문제를 실시간으로 분석하고 해결책을 제시하는 'Azure Copilot Observability Agent'를 출시하여 운영 효율성을 극대화합니다.",
+            "summary_en": "Microsoft has launched the Azure Copilot Observability Agent to streamline cloud operations by providing real-time, AI-driven insights that help organizations diagnose and resolve complex, interdependent system issues more efficiently.",
+            "link": "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782234000000,
+            "date": "2026-06-23",
+            "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+            "summary_kr": "면역학자 데리아 우누트마즈는 GPT-5 Pro를 활용하여 포도당 대사가 T세포 분화에 미치는 영향을 분석함으로써 3년간 풀리지 않았던 난제를 성공적으로 해결했습니다. 이번 사례는 AI가 복잡한 생물학적 데이터를 해석하고 인간 전문가의 직관을 확장함으로써 질병 연구를 가속화하는 핵심 도구가 될 수 있음을 입증합니다.",
+            "summary_en": "Immunologist Derya Unutmaz successfully resolved a three-year-old research mystery regarding T cell differentiation by utilizing GPT-5 Pro to analyze complex metabolic data. This case demonstrates that AI acts as a vital tool in accelerating medical research by augmenting human expertise and uncovering insights beyond traditional cognitive boundaries.",
+            "link": "https://openai.com/index/gpt-5-immunology-mystery"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782232200000,
+            "date": "2026-06-23",
+            "title": "Maximize AI Factory Energy Efficiency Through Full-Stack Inference and Training Optimizations",
+            "summary_kr": "AI 공장의 운영 비용 절감을 위해 전력 효율성(성능/와트) 개선이 필수적이며, NVIDIA는 풀스택 최적화와 시스템 통합 설계를 통해 이를 극대화하고 있습니다.",
+            "summary_en": "Improving power efficiency (performance per watt) is critical for reducing AI factory operating costs, and NVIDIA is maximizing this through full-stack optimizations and integrated system design.",
+            "link": "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782226800000,
+            "date": "2026-06-23",
+            "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
+            "summary_kr": "DFlash는 블록 확산 모델을 활용해 토큰 생성 단계를 병렬화함으로써, 엔비디아 블랙웰 GPU에서 기존 방식 대비 최대 15배 향상된 추론 성능을 제공합니다.",
+            "summary_en": "DFlash leverages a block-diffusion model to parallelize token generation, achieving up to 15x higher inference performance on NVIDIA Blackwell GPUs compared to traditional autoregressive decoding.",
+            "link": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782221400000,
+            "date": "2026-06-23",
+            "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
+            "summary_kr": "엔비디아의 BioNeMo 에이전트 툴킷은 범용 AI를 생명과학 연구에 최적화된 전문 AI 과학자로 변모시켜, 복잡한 생체 분자 연구 과정을 자동화하고 가속화합니다.",
+            "summary_en": "NVIDIA's BioNeMo Agent Toolkit transforms general-purpose AI into specialized AI scientists for life sciences by providing the necessary tools and interfaces to automate and accelerate complex biomolecular research workflows.",
+            "link": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782194400000,
+            "date": "2026-06-23",
+            "title": "How Telcos Build Autonomous Networks with Agentic AI",
+            "summary_kr": "통신사들이 네트워크 자율성 4~5단계로 나아가기 위해서는 단순 자동화를 넘어, 에이전트가 공유 플랫폼 내에서 문제 해결 및 최적화 루프를 스스로 수행할 수 있는 자율 운영 체계 구축이 필수적입니다.",
+            "summary_en": "To achieve Level 4–5 network autonomy, telcos must transition from siloed automation to an integrated platform where autonomous agents leverage shared domain models and digital twins to execute, optimize, and discover solutions independently.",
+            "link": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1782172800000,
+            "date": "2026-06-23",
+            "title": "Introducing Claude Tag",
+            "summary_kr": "앤스로픽은 슬랙에서 팀원처럼 협업하며 실시간으로 업무를 수행하고 문맥을 공유하는 AI 에이전트 서비스 'Claude Tag'를 출시했습니다. 이 기능은 팀 단위의 생산성을 극대화하기 위해 설계되었으며, 자율적인 작업 처리와 지속적인 맥락 학습을 지원합니다.",
+            "summary_en": "Anthropic has launched 'Claude Tag,' an AI agent service for Slack that functions as a collaborative team member capable of managing tasks, building context, and working asynchronously. This tool enhances team productivity by enabling shared AI interactions and proactive, autonomous workflow execution.",
+            "link": "https://www.anthropic.com/news/introducing-claude-tag"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782172800000,
+            "date": "2026-06-23",
+            "title": "How Omio is building the future of conversational travel",
+            "summary_kr": "오미오(Omio)는 오픈AI와의 협력을 통해 실시간 데이터를 기반으로 한 대화형 여행 검색·예약 서비스를 구축하고, 사내 개발 워크플로우 전반에 AI를 통합하여 기업 운영의 AI 네이티브 전환을 가속화하고 있습니다.",
+            "summary_en": "Omio is leveraging OpenAI to revolutionize travel through real-time conversational booking experiences while simultaneously accelerating its internal transformation into an AI-native organization by embedding AI across all software development and operational workflows.",
+            "link": "https://openai.com/index/omio"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1782144000000,
@@ -828,78 +900,6 @@
             "summary_kr": "앤스로픽은 화학 연구의 핵심인 다양한 데이터 해석 및 번역 과정을 자동화하기 위해 클로드(Claude)의 화학 전문성 강화에 나섰으며, 그 첫 번째 결과물로 NMR 스펙트럼 분석 기술을 공개했습니다.",
             "summary_en": "Anthropic is enhancing Claude’s chemical reasoning capabilities to assist researchers in interpreting complex analytical data, marking the initiative with the release of a new white paper on NMR spectrum analysis.",
             "link": "https://www.anthropic.com/research/making-claude-a-chemist"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780617600000,
-            "date": "2026-06-05",
-            "title": "The Claude Cowork product guide",
-            "summary_kr": "클로드 코워크(Claude Cowork)는 로컬 파일 및 외부 앱과 연동하여 복잡한 다단계 업무를 스스로 수행하고 최종 결과물을 생성하는 지식 업무 에이전트입니다.",
-            "summary_en": "Claude Cowork is a new knowledge work agent that integrates with local files and applications to autonomously execute multi-step tasks and deliver completed work.",
-            "link": "https://claude.com/blog/the-claude-cowork-product-guide"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1780670700000,
-            "date": "2026-06-05",
-            "title": "The latest AI news we announced in May 2026",
-            "summary_kr": "구글은 2026년 5월 I/O를 통해 에이전트형 AI 시대를 선언하며, 복합 추론과 생성 능력을 갖춘 Gemini 3.5와 Gemini Omni, 그리고 일상 업무를 능동적으로 수행하는 통합 에이전트 생태계를 대거 공개했습니다.",
-            "summary_en": "Google inaugurated the agentic AI era in May 2026 by launching Gemini 3.5 and Gemini Omni, while unveiling a proactive ecosystem of agents designed to seamlessly integrate advanced intelligence into daily tasks and hardware.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780617600000,
-            "date": "2026-06-05",
-            "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
-            "summary_kr": "Anthropic의 GTM 프로덕트 매니저 자레드 사이어스는 코딩 경험이 전무함에도 Claude Code를 활용해 반복적인 영업 업무를 자동화하는 툴을 직접 개발하여 팀 전체의 업무 효율을 혁신했습니다.",
-            "summary_en": "Despite having no prior coding experience, Anthropic GTM product manager Jared Sires used Claude Code to build internal tools that automate sales workflows, significantly boosting productivity for his entire team.",
-            "link": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1780597819000,
-            "date": "2026-06-04",
-            "title": "AI@Work: Tokenomics and 4 other AI shifts leaders need to know",
-            "summary_kr": "AI 도입의 성패는 기술 자체보다 리더의 의사결정에 달려 있으며, 신뢰 구축을 위한 구체적 시스템 설계와 업무 프로세스의 근본적인 재구조화가 필수적입니다.",
-            "summary_en": "The success of AI transformation depends on leadership decisions rather than the technology itself, requiring specific system design for trust and a fundamental redesign of workflows to drive real outcomes.",
-            "link": "https://www.microsoft.com/en-us/worklab/aiwork-tokenomics-is-the-new-headcount-and-four-more-trends-to-watch"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780531200000,
-            "date": "2026-06-04",
-            "title": "Biodefense in the Intelligence Age",
-            "summary_kr": "OpenAI는 생명과학 연구와 치료제 개발을 가속화하는 최첨단 AI 모델 'GPT-Rosalind'를 공개하고, 이를 활용한 생물학적 위협 대응 및 팬데믹 대비를 위한 전략적 실행 계획을 발표했습니다.",
-            "summary_en": "OpenAI has introduced 'GPT-Rosalind' to accelerate biological research and therapeutics, alongside a strategic action plan to leverage AI for enhanced biodefense and pandemic preparedness.",
-            "link": "https://openai.com/index/biodefense-in-the-intelligence-age"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780578169000,
-            "date": "2026-06-04",
-            "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
-            "summary_kr": "NVIDIA가 공개한 550B 파라미터 규모의 'Nemotron 3 Ultra'는 혼합 전문가(MoE) 아키텍처와 혁신적인 추론 기술을 통해 장기 실행형 AI 에이전트의 효율성을 높이고 운영 비용을 최대 30% 절감합니다.",
-            "summary_en": "NVIDIA's new 550B-parameter 'Nemotron 3 Ultra' leverages a Mixture-of-Experts architecture and innovative reasoning technologies to enhance the efficiency of long-running AI agents while reducing operational costs by up to 30%.",
-            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780574400000,
-            "date": "2026-06-04",
-            "title": "How Endava is redesigning software delivery around AI agents",
-            "summary_kr": "엔다바(Endava)는 AI 에이전트를 소프트웨어 개발 생명주기 전반에 내재화한 'DavaFlow' 방법론을 통해 개발은 물론 비즈니스 운영 전반의 효율성을 혁신하고 있습니다.",
-            "summary_en": "Endava is transforming its enterprise workflows by embedding AI agents throughout the software delivery lifecycle via its 'DavaFlow' methodology, effectively integrating AI into all aspects of business operations.",
-            "link": "https://openai.com/index/endava-frontiers"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780563600000,
-            "date": "2026-06-04",
-            "title": "Dreaming: Better memory for a more helpful ChatGPT",
-            "summary_kr": "OpenAI는 기존 '기억(Memory)' 기능의 한계를 극복하기 위해 대화 맥락을 자동 생성하는 '드리밍(Dreaming)' 기술을 고도화하여, 사용자의 선호와 정보를 실시간으로 최신화하고 기억의 정확도를 높인 차세대 메모리 아키텍처를 도입했습니다.",
-            "summary_en": "OpenAI has introduced an advanced memory architecture built on 'Dreaming' technology, which automatically synthesizes chat context to ensure ChatGPT’s memory remains accurate, relevant, and personalized over time.",
-            "link": "https://openai.com/index/chatgpt-memory-dreaming"
         }
     ]
 }

@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-06-22 19:02:37",
+    "last_update": "2026-06-23 17:43:53",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1780617600000,
+            "date": "2026-06-05",
+            "title": "The Claude Cowork product guide",
+            "summary_kr": "클로드 코워크(Claude Cowork)는 로컬 파일 및 외부 앱과 연동하여 복잡한 다단계 업무를 스스로 수행하고 최종 결과물을 생성하는 지식 업무 에이전트입니다.",
+            "summary_en": "Claude Cowork is a new knowledge work agent that integrates with local files and applications to autonomously execute multi-step tasks and deliver completed work.",
+            "link": "https://claude.com/blog/the-claude-cowork-product-guide"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1780670700000,
+            "date": "2026-06-05",
+            "title": "The latest AI news we announced in May 2026",
+            "summary_kr": "구글은 2026년 5월 I/O를 통해 에이전트형 AI 시대를 선언하며, 복합 추론과 생성 능력을 갖춘 Gemini 3.5와 Gemini Omni, 그리고 일상 업무를 능동적으로 수행하는 통합 에이전트 생태계를 대거 공개했습니다.",
+            "summary_en": "Google inaugurated the agentic AI era in May 2026 by launching Gemini 3.5 and Gemini Omni, while unveiling a proactive ecosystem of agents designed to seamlessly integrate advanced intelligence into daily tasks and hardware.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780617600000,
+            "date": "2026-06-05",
+            "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+            "summary_kr": "Anthropic의 GTM 프로덕트 매니저 자레드 사이어스는 코딩 경험이 전무함에도 Claude Code를 활용해 반복적인 영업 업무를 자동화하는 툴을 직접 개발하여 팀 전체의 업무 효율을 혁신했습니다.",
+            "summary_en": "Despite having no prior coding experience, Anthropic GTM product manager Jared Sires used Claude Code to build internal tools that automate sales workflows, significantly boosting productivity for his entire team.",
+            "link": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1780597819000,
+            "date": "2026-06-04",
+            "title": "AI@Work: Tokenomics and 4 other AI shifts leaders need to know",
+            "summary_kr": "AI 도입의 성패는 기술 자체보다 리더의 의사결정에 달려 있으며, 신뢰 구축을 위한 구체적 시스템 설계와 업무 프로세스의 근본적인 재구조화가 필수적입니다.",
+            "summary_en": "The success of AI transformation depends on leadership decisions rather than the technology itself, requiring specific system design for trust and a fundamental redesign of workflows to drive real outcomes.",
+            "link": "https://www.microsoft.com/en-us/worklab/aiwork-tokenomics-is-the-new-headcount-and-four-more-trends-to-watch"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780531200000,
+            "date": "2026-06-04",
+            "title": "Biodefense in the Intelligence Age",
+            "summary_kr": "OpenAI는 생명과학 연구와 치료제 개발을 가속화하는 최첨단 AI 모델 'GPT-Rosalind'를 공개하고, 이를 활용한 생물학적 위협 대응 및 팬데믹 대비를 위한 전략적 실행 계획을 발표했습니다.",
+            "summary_en": "OpenAI has introduced 'GPT-Rosalind' to accelerate biological research and therapeutics, alongside a strategic action plan to leverage AI for enhanced biodefense and pandemic preparedness.",
+            "link": "https://openai.com/index/biodefense-in-the-intelligence-age"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780578169000,
+            "date": "2026-06-04",
+            "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+            "summary_kr": "NVIDIA가 공개한 550B 파라미터 규모의 'Nemotron 3 Ultra'는 혼합 전문가(MoE) 아키텍처와 혁신적인 추론 기술을 통해 장기 실행형 AI 에이전트의 효율성을 높이고 운영 비용을 최대 30% 절감합니다.",
+            "summary_en": "NVIDIA's new 550B-parameter 'Nemotron 3 Ultra' leverages a Mixture-of-Experts architecture and innovative reasoning technologies to enhance the efficiency of long-running AI agents while reducing operational costs by up to 30%.",
+            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780574400000,
+            "date": "2026-06-04",
+            "title": "How Endava is redesigning software delivery around AI agents",
+            "summary_kr": "엔다바(Endava)는 AI 에이전트를 소프트웨어 개발 생명주기 전반에 내재화한 'DavaFlow' 방법론을 통해 개발은 물론 비즈니스 운영 전반의 효율성을 혁신하고 있습니다.",
+            "summary_en": "Endava is transforming its enterprise workflows by embedding AI agents throughout the software delivery lifecycle via its 'DavaFlow' methodology, effectively integrating AI into all aspects of business operations.",
+            "link": "https://openai.com/index/endava-frontiers"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780563600000,
+            "date": "2026-06-04",
+            "title": "Dreaming: Better memory for a more helpful ChatGPT",
+            "summary_kr": "OpenAI는 기존 '기억(Memory)' 기능의 한계를 극복하기 위해 대화 맥락을 자동 생성하는 '드리밍(Dreaming)' 기술을 고도화하여, 사용자의 선호와 정보를 실시간으로 최신화하고 기억의 정확도를 높인 차세대 메모리 아키텍처를 도입했습니다.",
+            "summary_en": "OpenAI has introduced an advanced memory architecture built on 'Dreaming' technology, which automatically synthesizes chat context to ensure ChatGPT’s memory remains accurate, relevant, and personalized over time.",
+            "link": "https://openai.com/index/chatgpt-memory-dreaming"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1780492500000,
@@ -820,71 +892,6 @@
             "summary_kr": "마이크로소프트 빌드 2026은 단순한 AI 실험을 넘어, 실무 환경에서 확장 가능한 AI 배포와 운영을 지원하는 인프라 및 엔터프라이즈 솔루션 중심의 혁신에 집중합니다.",
             "summary_en": "Microsoft Build 2026 shifts its focus from experimental AI to building robust infrastructure and enterprise-grade tooling, emphasizing scalable production and operational efficiency for AI-first startups.",
             "link": "https://www.microsoft.com/en-us/startups/blog/11-startups-to-watch-at-microsoft-build-2026"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779396113000,
-            "title": "XBOX announces improved accessibility offerings",
-            "summary_kr": "Xbox는 세계 접근성 인식의 날을 맞아 3D 프린팅 가능한 적응형 썸스틱 디자인 개선, 웹사이트 개편, 그리고 게임 내 접근성 태그 도입을 통해 포용적 게이밍 환경을 강화했습니다.",
-            "summary_en": "In celebration of Global Accessibility Awareness Day, Xbox has bolstered its inclusive gaming ecosystem by upgrading 3D-printable adaptive thumbsticks, enhancing its support website, and integrating accessibility tags across its storefront.",
-            "link": "https://news.xbox.com/en-us/2026/05/21/xbox-global-accessibility-awareness-day-2026"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779394976000,
-            "title": "AI@Work: Redesign first. Then AI just works",
-            "summary_kr": "기업이 AI 도입에서 성과를 내지 못하는 이유는 기술 부족이 아닌 조직의 구조적 정체 때문이며, 진정한 확장성을 위해서는 업무 프로세스를 재설계하고 AI를 실무 환경에 보이지 않게 통합하는 인프라 구축이 필수적입니다.",
-            "summary_en": "The gap in enterprise AI adoption stems from organizational inertia rather than model limitations; true scalability requires redesigning workflows and building infrastructure that embeds AI seamlessly into existing operations.",
-            "link": "https://www.microsoft.com/en-us/worklab/ai-at-work-redesign-first-then-ai-just-works"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779388316000,
-            "title": "Automating and Optimizing Financial Signal Discovery with Multi-Agent Systems",
-            "summary_kr": "엔비디아는 NeMo Agent Toolkit을 활용해 신호 발굴, 코드 생성, 성능 평가를 수행하는 멀티 에이전트 시스템을 구축함으로써 정량적 금융의 신호 탐색 과정을 자동화하고 효율성을 극대화했습니다.",
-            "summary_en": "NVIDIA has automated and streamlined the quantitative financial signal discovery process by developing a multi-agent system that leverages the NeMo Agent Toolkit to autonomously generate, code, and evaluate market signals.",
-            "link": "https://developer.nvidia.com/blog/automating-and-optimizing-financial-signal-discovery-with-multi-agent-systems"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779386400000,
-            "title": "Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters",
-            "summary_kr": "오픈소스 'GPU Usage Monitor'는 복잡한 설정 없이도 NVIDIA DCGM과 쿠버네티스 메트릭을 통합하여 GPU 활용도를 실시간으로 가시화함으로써 인프라 과잉 공급과 스케줄링 병목 현상을 해결합니다.",
-            "summary_en": "The open-source 'GPU Usage Monitor' simplifies infrastructure observability by integrating NVIDIA DCGM and Kubernetes metrics into a single deployment, enabling real-time visibility to resolve GPU underutilization and scheduling bottlenecks.",
-            "link": "https://developer.nvidia.com/blog/get-real-time-visibility-into-gpu-usage-across-kubernetes-clusters"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779384776000,
-            "title": "Unlock Exascale Performance on NVIDIA GB200 NVL72 with Slurm Topology-Aware Job Scheduling",
-            "summary_kr": "NVIDIA GB200 NVL72의 엑사스케일 성능을 극대화하기 위해서는 Slurm의 새로운 토폴로지 인식 스케줄링을 통해 작업 배치를 네트워크 아키텍처와 정렬하는 것이 필수적입니다.",
-            "summary_en": "To maximize the exascale performance of NVIDIA GB200 NVL72, it is essential to utilize Slurm's topology-aware scheduling to align job placement with the system's underlying network architecture.",
-            "link": "https://developer.nvidia.com/blog/unlock-exascale-performance-on-nvidia-gb200-nvl72-with-slurm-topology-aware-job-scheduling"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779380809000,
-            "title": "Microsoft Research’s Vega lets you prove who you are while protecting your privacy",
-            "summary_kr": "마이크로소프트의 '베가(Vega)'는 영지식 증명 기술을 통해 개인정보를 노출하지 않고도 모바일 기기에서 정부 발급 신원 정보를 안전하게 인증할 수 있게 하는 효율적인 솔루션입니다.",
-            "summary_en": "Microsoft's 'Vega' is an efficient solution that leverages zero-knowledge proofs to enable secure identity verification on mobile devices without exposing sensitive government-issued credentials.",
-            "link": "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779377400000,
-            "title": "Building Token‑Metered AI Services on Telco AI Factories",
-            "summary_kr": "통신사들은 단순히 GPU 인프라를 대여하는 단계를 넘어, 기업 고객이 요구하는 성능과 SLA를 보장하는 '토큰 기반 AI 서비스(TaaS)' 제공자로 진화함으로써 수익성을 극대화해야 합니다.",
-            "summary_en": "Telcos must evolve from mere infrastructure providers into 'token-metered AI service' providers to maximize profitability by delivering high-margin, production-ready AI services that meet enterprise demands for performance and SLAs.",
-            "link": "https://developer.nvidia.com/blog/building-token-metered-ai-services-on-telco-ai-factories"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779375600000,
-            "title": "How Virgin Atlantic ships faster with Codex",
-            "summary_kr": "버진 애틀랜틱 항공은 코덱스를 도입하여 레거시 코드 리팩토링 시간을 2주에서 30분으로 단축하고, 모바일 앱 출시 시 결함 제로를 달성하는 성과를 거두었습니다.",
-            "summary_en": "Virgin Atlantic successfully utilized Codex to reduce legacy code refactoring time from two weeks to under 30 minutes, achieving near-perfect unit test coverage and zero P1 defects for its mobile app launch.",
-            "link": "https://openai.com/index/virgin-atlantic",
-            "date": "2026-05-22"
         }
     ]
 }
