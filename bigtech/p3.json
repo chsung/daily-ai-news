@@ -1,6 +1,62 @@
 {
-    "last_update": "2026-06-23 17:43:53",
+    "last_update": "2026-06-24 17:46:24",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1779472812585,
+            "title": "Project Glasswing: An initial update",
+            "summary_kr": "앤스로픽의 프로젝트 글래스윙(Project Glasswing)은 클로드 미토스(Claude Mythos) 모델을 활용해 한 달 만에 핵심 소프트웨어에서 1만 개 이상의 취약점을 발견하며 사이버 보안 역량을 입증했습니다.",
+            "summary_en": "Anthropic's 'Project Glasswing' has utilized the Claude Mythos Preview model to identify over 10,000 critical vulnerabilities in essential software within just one month, demonstrating a significant advancement in AI-driven cybersecurity.",
+            "link": "https://www.anthropic.com/research/glasswing-initial-update"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1779472800000,
+            "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+            "summary_kr": "구글 I/O 2026의 'Dialogues' 무대에서는 AI 에이전트, 양자 컴퓨팅, 과학 연구, 로봇 공학 및 창의적 스토리텔링 등 미래 사회를 견인할 핵심 기술 혁신에 대한 심도 있는 논의가 진행되었습니다.",
+            "summary_en": "Google I/O 2026's 'Dialogues' stage featured in-depth discussions among industry leaders and experts on key technological frontiers, including AI agents, quantum computing, scientific breakthroughs, robotics, and creative storytelling.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779471475000,
+            "title": "Bing introduces a smarter way to explore images",
+            "summary_kr": "마이크로소프트는 빙(Bing) 이미지 검색에 AI를 도입하여 검색 결과를 체계적으로 분류하고 요약함으로써, 사용자가 정보를 더 직관적이고 빠르게 탐색할 수 있도록 개편했습니다.",
+            "summary_en": "Microsoft has upgraded Bing Image Search with AI-powered categorization and summarization, transforming cluttered results into an intuitive, guided experience for faster information discovery.",
+            "link": "https://blogs.bing.com/search/May-2026/A-Smarter-Way-to-Explore-Images-Has-Come-to-Bing"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779467551000,
+            "title": "XBOX Game Studios Shop launches with official merchandise from favorite titles",
+            "summary_kr": "엑스박스 게임 스튜디오가 자사 인기 타이틀의 공식 굿즈를 판매하는 전용 온라인 샵을 오픈하여 팬덤 경험을 확장합니다.",
+            "summary_en": "Xbox Game Studios has launched a dedicated online shop for official merchandise, allowing fans to engage with their favorite gaming franchises beyond the screen.",
+            "link": "https://news.xbox.com/en-us/2026/05/21/introducing-the-xbox-game-studios-shop"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779467145000,
+            "title": "Smarter AI agents, built to run on smaller models",
+            "summary_kr": "마이크로소프트가 공개한 MagenticLite는 소형 모델과 최적화된 오케스트레이션 도구를 결합하여, 로컬 환경에서 효율적으로 구동되는 고성능 AI 에이전트의 가능성을 제시합니다.",
+            "summary_en": "Microsoft’s MagenticLite leverages purpose-built small models and optimized orchestration to demonstrate that highly capable AI agents can operate efficiently directly on user hardware.",
+            "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779465600000,
+            "title": "Synthesize Realistic 3D Medical Images at Scale to Ship Pre‑Trained Models",
+            "summary_kr": "엔비디아는 고품질 3D 의료 영상 데이터 부족 문제를 해결하기 위해 대규모 합성 데이터 생성 프레임워크인 MAISI와 이를 기반으로 한 MR-RATE 데이터셋 및 생성 모델을 오픈소스로 공개했습니다. 이를 통해 연구자와 개발자는 개인정보 보호를 준수하면서도 신뢰성 높은 의료 AI 모델을 효율적으로 학습시킬 수 있습니다.",
+            "summary_en": "NVIDIA has released the MAISI framework and the MR-RATE dataset as open-source solutions to overcome data scarcity and privacy constraints in medical AI. These tools enable researchers to generate high-fidelity synthetic 3D medical images, significantly accelerating the development and generalization of robust diagnostic models.",
+            "link": "https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779462430000,
+            "title": "11 startups to watch at Microsoft Build 2026",
+            "summary_kr": "마이크로소프트 빌드 2026은 단순한 AI 실험을 넘어, 실무 환경에서 확장 가능한 AI 배포와 운영을 지원하는 인프라 및 엔터프라이즈 솔루션 중심의 혁신에 집중합니다.",
+            "summary_en": "Microsoft Build 2026 shifts its focus from experimental AI to building robust infrastructure and enterprise-grade tooling, emphasizing scalable production and operational efficiency for AI-first startups.",
+            "link": "https://www.microsoft.com/en-us/startups/blog/11-startups-to-watch-at-microsoft-build-2026"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1779396113000,
@@ -767,63 +823,6 @@
             "summary_kr": "클로드 모델의 에이전트 정렬(alignment) 훈련 결과, 모델의 원칙 이해도를 높이고 훈련 데이터의 질을 개선함으로써 치명적인 오정렬 사례를 성공적으로 차단했습니다.",
             "summary_en": "Anthropic significantly improved Claude’s safety alignment by teaching the model the principles underlying desired behaviors, successfully reducing agentic misalignment to zero in recent model versions.",
             "link": "https://www.anthropic.com/research/teaching-claude-why"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778188860000,
-            "title": "Natural Language Autoencoders",
-            "summary_kr": "앤스로픽은 언어 모델의 내부 활성화값을 자연어로 변환하여 해석하는 '자연어 오토인코더(NLA)' 기술을 공개하여 모델의 사고 과정을 투명하게 분석할 수 있게 했습니다.",
-            "summary_en": "Anthropic introduced Natural Language Autoencoders (NLAs), a tool that converts complex internal model activations into human-readable text, providing deeper insight into Claude's planning and decision-making.",
-            "link": "https://www.anthropic.com/research/natural-language-autoencoders"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778188814000,
-            "title": "Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling",
-            "summary_kr": "엔비디아 GB200 NVL72 시스템의 효율적 운영을 위해 슬럼(Slurm)의 '토폴로지/블록' 플러그인을 도입하여 랙 단위의 NVLink 고속 통신 환경을 최적화했습니다.",
-            "summary_en": "To optimize the NVIDIA GB200 NVL72 architecture, the new Slurm 'topology/block' plugin enforces rack-scale locality, ensuring that workloads maintain high performance by respecting hardware communication boundaries.",
-            "link": "https://developer.nvidia.com/blog/achieving-peak-system-and-workload-efficiency-on-nvidia-gb200-nvl72-with-slurm-block-scheduling"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778188686000,
-            "title": "Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer",
-            "summary_kr": "엔비디아 모델 옵티마이저를 활용한 사후 학습 양자화(PTQ) 기법으로, CLIP 모델의 VRAM 사용량을 줄이면서도 추론 성능을 최적화하는 방법이 제시되었습니다.",
-            "summary_en": "NVIDIA Model Optimizer enables efficient post-training quantization (PTQ) for models like CLIP, allowing users to reduce VRAM requirements and enhance inference speed while maintaining accuracy.",
-            "link": "https://developer.nvidia.com/blog/model-quantization-post-training-quantization-using-nvidia-model-optimizer"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778185020000,
-            "title": "Donating our open-source alignment tool",
-            "summary_kr": "앤스로픽은 AI 모델의 정렬 여부를 평가하는 오픈소스 도구 '페트리(Petri)' 3.0을 비영리 단체 메리디안 랩스에 기증하여 독립적인 생태계 발전을 도모합니다.",
-            "summary_en": "Anthropic has donated its open-source alignment testing tool, Petri 3.0, to Meridian Labs to ensure neutral, industry-wide adoption and independent evaluation of AI model behaviors.",
-            "link": "https://www.anthropic.com/research/donating-open-source-petri"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778169778000,
-            "title": "Real-Time Performance Monitoring and Faster Debugging with NCCL Inspector and Prometheus",
-            "summary_kr": "엔비디아가 분산 딥러닝 성능 분석을 지원하는 'NCCL Inspector'에 프로메테우스 모드를 도입하여 실시간 모니터링 기능을 강화했습니다. 이를 통해 GPU 통신 병목 현상을 실시간 시각화하고 데이터 저장 부담을 줄여 대규모 AI 학습 환경에서의 디버깅 효율을 높였습니다.",
-            "summary_en": "NVIDIA has introduced Prometheus Mode to its NCCL Inspector, enabling real-time performance monitoring and visualization for distributed deep learning. This enhancement reduces storage overhead while accelerating bottleneck triaging in complex AI training environments.",
-            "link": "https://developer.nvidia.com/blog/real-time-performance-monitoring-and-faster-debugging-with-nccl-inspector-and-prometheus"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778166000000,
-            "title": "Running Codex safely at OpenAI",
-            "summary_kr": "오픈AI는 코딩 에이전트인 코덱(Codex)을 안전하게 배포하기 위해 샌드박스 격리, 자동 승인 모드, 강력한 네트워크 및 인증 정책을 도입했습니다.",
-            "summary_en": "OpenAI implements a multi-layered security strategy for its coding agent, Codex, utilizing managed sandboxes, automated approval workflows for low-risk tasks, and strict network policies to ensure safe deployment.",
-            "link": "https://openai.com/index/running-codex-safely",
-            "date": "2026-05-08"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1778165995000,
-            "title": "Inside Porsche Cup Brasil’s AI-powered race operations",
-            "summary_kr": "포르쉐 컵 브라질이 마이크로소프트의 AI 기술을 활용해 차량 충돌 분석 및 실시간 레이스 운영 시스템을 혁신했습니다. AI 기반 다중 에이전트 시스템을 도입하여 손상 평가 시간을 절반으로 단축하고, 수리 공정을 최적화하여 차량의 경기 복귀 속도를 높였습니다.",
-            "summary_en": "Porsche Cup Brasil has integrated Microsoft's AI technology to revolutionize its race operations, utilizing multi-agent systems for crash analysis. This initiative has reduced damage assessment time by approximately 50%, significantly accelerating vehicle repair and turnaround.",
-            "link": "https://news.microsoft.com/source/latam/features/ai/porsche-cup-brasil-ai-powered-crash-analysis?lang=en"
         }
     ]
 }

@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-06-23 17:43:53",
+    "last_update": "2026-06-24 17:46:24",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780942686000,
+            "date": "2026-06-08",
+            "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
+            "summary_kr": "NVIDIA Blackwell의 NVFP4 기술은 4비트 혼합 정밀도와 고도화된 스케일링 기법을 통해 정확도 손실 없이 학습 처리량을 획기적으로 높였습니다.",
+            "summary_en": "NVIDIA’s NVFP4 technology leverages 4-bit mixed-precision and advanced scaling techniques to significantly boost training throughput on Blackwell architectures without sacrificing accuracy.",
+            "link": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780927200000,
+            "date": "2026-06-08",
+            "title": "Confidential submission of draft S-1 to the SEC",
+            "summary_kr": "OpenAI가 향후 기업 공개(IPO)를 대비해 미국 증권거래위원회(SEC)에 비공개 S-1 서류를 제출했으나, 당장 상장을 추진하는 것은 아니라고 밝혔습니다.",
+            "summary_en": "OpenAI has confidentially submitted a draft S-1 to the SEC to keep its options open for a potential IPO, though the company noted that it has not yet decided on a timeline for going public.",
+            "link": "https://openai.com/index/openai-submits-confidential-s-1"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780882200000,
+            "date": "2026-06-08",
+            "title": "Built to benefit everyone: our plan",
+            "summary_kr": "OpenAI는 AI를 소수에게 집중된 권력이 아닌 인류 모두를 위한 도구로 정의하며, 인간의 가치 판단과 주도권을 강화하여 공동의 번영을 이끄는 기술로 발전시키겠다는 비전을 제시합니다.",
+            "summary_en": "OpenAI envisions AI not as a tool for concentrated power, but as a transformative technology that empowers humanity by enhancing individual capabilities and ensuring widely distributed benefits.",
+            "link": "https://openai.com/index/built-to-benefit-everyone-our-plan"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780876800000,
+            "date": "2026-06-08",
+            "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+            "summary_kr": "애플의 Foundation Models 프레임워크가 Claude를 지원함에 따라, 개발자들은 온디바이스 모델의 효율성과 Claude의 고도화된 추론 능력을 결합한 하이브리드 AI 앱을 쉽게 구축할 수 있게 되었습니다.",
+            "summary_en": "Apple's Foundation Models framework now supports Claude, enabling developers to seamlessly integrate on-device processing with Claude’s advanced reasoning capabilities for more intelligent, hybrid applications.",
+            "link": "https://claude.com/blog/claude-for-foundation-models"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780876800000,
+            "date": "2026-06-08",
+            "title": "Paving the way for agents in biology",
+            "summary_kr": "생물학 분야의 AI 에이전트가 복잡한 데이터 인프라에서 신뢰성을 확보하려면 확정적 검색 도구(deterministic tools) 도입과 에이전트 친화적인 데이터 설계가 필수적입니다.",
+            "summary_en": "To ensure reliable AI agent performance in biology, it is critical to integrate deterministic retrieval layers and redesign biological data infrastructure to be agent-friendly.",
+            "link": "https://www.anthropic.com/research/agents-in-biology"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780876800000,
+            "date": "2026-06-08",
+            "title": "Introducing the OpenAI Economic Research Exchange",
+            "summary_kr": "OpenAI는 AI가 경제와 노동 시장에 미치는 영향을 객관적으로 분석하기 위해 외부 연구자들과 협력하는 '경제 연구 교류(Economic Research Exchange)' 프로그램을 출범합니다.",
+            "summary_en": "OpenAI has launched the 'Economic Research Exchange' to support rigorous, independent research on the economic and labor market impacts of AI through collaboration with external researchers.",
+            "link": "https://openai.com/index/economic-research-exchange"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780617600000,
+            "date": "2026-06-05",
+            "title": "Making Claude a chemist",
+            "summary_kr": "앤스로픽은 화학 연구의 핵심인 다양한 데이터 해석 및 번역 과정을 자동화하기 위해 클로드(Claude)의 화학 전문성 강화에 나섰으며, 그 첫 번째 결과물로 NMR 스펙트럼 분석 기술을 공개했습니다.",
+            "summary_en": "Anthropic is enhancing Claude’s chemical reasoning capabilities to assist researchers in interpreting complex analytical data, marking the initiative with the release of a new white paper on NMR spectrum analysis.",
+            "link": "https://www.anthropic.com/research/making-claude-a-chemist"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1780617600000,
@@ -836,62 +899,6 @@
             "summary_kr": "앤스로픽 공동 창업자 크리스 올라(Chris Olah)는 교황 레오 14세의 AI 회칙 발표에 참석해, AI는 공학적 산물을 넘어 인문학적 성찰이 필요한 영역임을 강조하며 외부 사회와의 긴밀한 소통과 안전한 개발을 위한 협력을 촉구했습니다.",
             "summary_en": "Anthropic co-founder Chris Olah addressed Pope Leo XIV's AI encyclical, asserting that AI development transcends technical engineering and requires deep collaboration with humanities and society to ensure ethical and safe outcomes.",
             "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779472812585,
-            "title": "Project Glasswing: An initial update",
-            "summary_kr": "앤스로픽의 프로젝트 글래스윙(Project Glasswing)은 클로드 미토스(Claude Mythos) 모델을 활용해 한 달 만에 핵심 소프트웨어에서 1만 개 이상의 취약점을 발견하며 사이버 보안 역량을 입증했습니다.",
-            "summary_en": "Anthropic's 'Project Glasswing' has utilized the Claude Mythos Preview model to identify over 10,000 critical vulnerabilities in essential software within just one month, demonstrating a significant advancement in AI-driven cybersecurity.",
-            "link": "https://www.anthropic.com/research/glasswing-initial-update"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779472800000,
-            "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-            "summary_kr": "구글 I/O 2026의 'Dialogues' 무대에서는 AI 에이전트, 양자 컴퓨팅, 과학 연구, 로봇 공학 및 창의적 스토리텔링 등 미래 사회를 견인할 핵심 기술 혁신에 대한 심도 있는 논의가 진행되었습니다.",
-            "summary_en": "Google I/O 2026's 'Dialogues' stage featured in-depth discussions among industry leaders and experts on key technological frontiers, including AI agents, quantum computing, scientific breakthroughs, robotics, and creative storytelling.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779471475000,
-            "title": "Bing introduces a smarter way to explore images",
-            "summary_kr": "마이크로소프트는 빙(Bing) 이미지 검색에 AI를 도입하여 검색 결과를 체계적으로 분류하고 요약함으로써, 사용자가 정보를 더 직관적이고 빠르게 탐색할 수 있도록 개편했습니다.",
-            "summary_en": "Microsoft has upgraded Bing Image Search with AI-powered categorization and summarization, transforming cluttered results into an intuitive, guided experience for faster information discovery.",
-            "link": "https://blogs.bing.com/search/May-2026/A-Smarter-Way-to-Explore-Images-Has-Come-to-Bing"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779467551000,
-            "title": "XBOX Game Studios Shop launches with official merchandise from favorite titles",
-            "summary_kr": "엑스박스 게임 스튜디오가 자사 인기 타이틀의 공식 굿즈를 판매하는 전용 온라인 샵을 오픈하여 팬덤 경험을 확장합니다.",
-            "summary_en": "Xbox Game Studios has launched a dedicated online shop for official merchandise, allowing fans to engage with their favorite gaming franchises beyond the screen.",
-            "link": "https://news.xbox.com/en-us/2026/05/21/introducing-the-xbox-game-studios-shop"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779467145000,
-            "title": "Smarter AI agents, built to run on smaller models",
-            "summary_kr": "마이크로소프트가 공개한 MagenticLite는 소형 모델과 최적화된 오케스트레이션 도구를 결합하여, 로컬 환경에서 효율적으로 구동되는 고성능 AI 에이전트의 가능성을 제시합니다.",
-            "summary_en": "Microsoft’s MagenticLite leverages purpose-built small models and optimized orchestration to demonstrate that highly capable AI agents can operate efficiently directly on user hardware.",
-            "link": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779465600000,
-            "title": "Synthesize Realistic 3D Medical Images at Scale to Ship Pre‑Trained Models",
-            "summary_kr": "엔비디아는 고품질 3D 의료 영상 데이터 부족 문제를 해결하기 위해 대규모 합성 데이터 생성 프레임워크인 MAISI와 이를 기반으로 한 MR-RATE 데이터셋 및 생성 모델을 오픈소스로 공개했습니다. 이를 통해 연구자와 개발자는 개인정보 보호를 준수하면서도 신뢰성 높은 의료 AI 모델을 효율적으로 학습시킬 수 있습니다.",
-            "summary_en": "NVIDIA has released the MAISI framework and the MR-RATE dataset as open-source solutions to overcome data scarcity and privacy constraints in medical AI. These tools enable researchers to generate high-fidelity synthetic 3D medical images, significantly accelerating the development and generalization of robust diagnostic models.",
-            "link": "https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779462430000,
-            "title": "11 startups to watch at Microsoft Build 2026",
-            "summary_kr": "마이크로소프트 빌드 2026은 단순한 AI 실험을 넘어, 실무 환경에서 확장 가능한 AI 배포와 운영을 지원하는 인프라 및 엔터프라이즈 솔루션 중심의 혁신에 집중합니다.",
-            "summary_en": "Microsoft Build 2026 shifts its focus from experimental AI to building robust infrastructure and enterprise-grade tooling, emphasizing scalable production and operational efficiency for AI-first startups.",
-            "link": "https://www.microsoft.com/en-us/startups/blog/11-startups-to-watch-at-microsoft-build-2026"
         }
     ]
 }
