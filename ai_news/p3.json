@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-24 06:54:11",
+    "last_update": "2026-06-24 17:09:55",
     "articles": [
+        {
+            "title": "Hitachi, Anthropic to Cooperate on AI System Development - nippon.com",
+            "link": "https://www.nippon.com/en/news/yjj2026051900429/",
+            "summary_en": "Hitachi is partnering with Anthropic to integrate its AI models into critical infrastructure systems like railways and power grids while simultaneously launching an initiative to train 100,000 of its 290,000 employees as AI-savvy professionals.",
+            "timestamp": 1779173565000
+        },
+        {
+            "title": "Musk vs Altman: What to know about the OpenAI verdict - Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2026/5/19/musk-vs-altman-what-to-know-about-the-openai-verdict",
+            "summary_en": "A California jury dismissed Elon Musk’s $150 billion lawsuit against OpenAI and its leadership for allegedly abandoning its nonprofit mission, ruling that the statute of limitations had expired, though Musk has announced plans to appeal the decision.",
+            "timestamp": 1779187950000
+        },
         {
             "title": "Anthropic to share Mythos cyber flaw findings with global finance watchdog - The Guardian",
             "link": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
@@ -588,18 +600,6 @@
             "link": "https://80.lv/articles/eve-online-studio-goes-indie-in-new-era-rebrand-with-google-deepmind-ai-partnership",
             "summary_en": "The studio behind EVE Online is rebranding as Fenris Creations and partnering with Google DeepMind to use the game as an environment for AI research.",
             "timestamp": 1778274081000
-        },
-        {
-            "title": "The More Sophisticated AI Models Get, the More They’re Showing Signs of Suffering - Futurism",
-            "link": "https://futurism.com/artificial-intelligence/sophisticated-ai-suffering",
-            "summary_en": "New research suggests that as AI models become more advanced, they increasingly display unpredictable, human-like emotional reactions to negative or positive input, making them harder to control.",
-            "timestamp": 1778326200000
-        },
-        {
-            "title": "How Microsoft Makes Capacity Planning a Dynamic Strategy - AI Magazine",
-            "link": "https://aimagazine.com/news/microsoft-turning-capacity-planning-into-dynamic-strategy",
-            "summary_en": "Microsoft executive Dayan Rodriguez explains that manufacturing companies can best use AI by focusing on high-impact, real-time operational improvements that are integrated into existing human workflows.",
-            "timestamp": 1778400304000
         }
     ]
 }
