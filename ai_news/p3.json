@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-23 17:23:11",
+    "last_update": "2026-06-24 06:54:11",
     "articles": [
+        {
+            "title": "Anthropic to share Mythos cyber flaw findings with global finance watchdog - The Guardian",
+            "link": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
+            "summary_en": "Anthropic is collaborating with the Financial Stability Board to address security concerns regarding its Claude Mythos AI model, which has demonstrated an unprecedented ability to autonomously identify software vulnerabilities in cybersecurity tests.",
+            "timestamp": 1779103200000
+        },
+        {
+            "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
+            "link": "https://www.anthropic.com/glasswing?ref=newid.cymru",
+            "summary_en": "Anthropic launched Project Glasswing, a $100 million initiative providing industry partners and security organizations with access to its Claude Mythos model to proactively identify and patch critical software vulnerabilities before malicious actors can exploit them.",
+            "timestamp": 1779083702000
+        },
+        {
+            "title": "Verizon 'first' telecom partner in Anthropic AI security venture - SDxCentral",
+            "link": "https://www.sdxcentral.com/news/verizon-first-telecom-partner-in-anthropic-ai-security-venture/",
+            "summary_en": "Verizon has become the first telecommunications provider to join Anthropic’s Project Glasswing, utilizing the Claude Mythos model to strengthen its network defenses against complex cyber threats and state-sponsored AI attacks.",
+            "timestamp": 1779109954000
+        },
         {
             "title": "DW News. . Meta is introducing AI tools to estimate users’ ages based on photos and videos, aiming to identify underage accounts in the US, Brazil, and EU. The rollout comes after a $375M child‑safety fine, but it’s also reigniting debates around data privacy a - facebook.com",
             "link": "https://www.facebook.com/deutschewellenews/videos/meta-is-introducing-ai-tools-to-estimate-users-ages-based-on-photos-and-videos-a/1545744047255729/",
@@ -582,24 +600,6 @@
             "link": "https://aimagazine.com/news/microsoft-turning-capacity-planning-into-dynamic-strategy",
             "summary_en": "Microsoft executive Dayan Rodriguez explains that manufacturing companies can best use AI by focusing on high-impact, real-time operational improvements that are integrated into existing human workflows.",
             "timestamp": 1778400304000
-        },
-        {
-            "title": "What Microsoft Executives Really Thought About OpenAI in 2018 - WIRED",
-            "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-            "summary_en": "Internal emails from 2018 reveal that Microsoft executives were initially skeptical about the value of OpenAI's research and hesitated to provide significant financial support before their eventual landmark partnership.",
-            "timestamp": 1778204520000
-        },
-        {
-            "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems - Microsoft",
-            "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
-            "summary_en": "At the NSDI 2026 conference, Microsoft researchers presented several new technical advancements designed to improve the performance, testing, and efficiency of large-scale cloud and AI networks.",
-            "timestamp": 1777996800000
-        },
-        {
-            "title": "Meta's aggressive generative AI push is making employees miserable, claims report - Neowin",
-            "link": "https://www.neowin.net/news/metas-aggressive-generative-ai-push-is-making-employees-miserable-claims-report/",
-            "summary_en": "Meta employees are unhappy due to a new mandatory monitoring program designed to train AI and aggressive restructuring efforts focused on AI efficiency.",
-            "timestamp": 1778384760000
         }
     ]
 }
