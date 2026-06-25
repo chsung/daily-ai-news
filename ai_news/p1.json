@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-25 06:53:43",
+    "last_update": "2026-06-25 17:16:10",
     "articles": [
+        {
+            "title": "Google's Gemini 3.5 Pro release slips to July - Business Insider",
+            "summary_en": "Google has delayed the release of its Gemini 3.5 Pro model to July to incorporate feedback from early testers and improve performance in long-horizon tasks. The move comes as Google seeks to better compete with OpenAI and Anthropic, particularly in coding capabilities.",
+            "link": "https://www.businessinsider.com/google-3-5-pro-july-release-tokens-ai-agents-model-2026-6",
+            "timestamp": 1782326340000,
+            "date": "2026-06-24"
+        },
+        {
+            "title": "Qualcomm unveils sweeping AI infrastructure strategy to take on Nvidia in the data center - TechSpot",
+            "summary_en": "Qualcomm is launching its 'DragonFly' brand to challenge Nvidia and Broadcom in the data center market through new CPUs, custom ASICs, and a cost-effective high-bandwidth computing architecture. The company has already secured two major hyperscaler contracts, with each projected to generate over $1 billion in revenue by fiscal year 2027.",
+            "link": "https://www.techspot.com/news/112901-qualcomm-unveils-sweeping-ai-infrastructure-strategy-take-nvidia.html",
+            "timestamp": 1782404580000,
+            "date": "2026-06-25"
+        },
         {
             "title": "Qualcomm outlines new CPU, AI accelerator roadmap, inks deal with Meta - Constellation Research",
             "summary_en": "Qualcomm unveiled its Dragonfly data center roadmap, including the C1000 CPU and AI300 accelerator, aiming to challenge Nvidia by prioritizing power-efficient inference for agentic AI. The company projects over $15 billion in data center revenue by fiscal 2029, bolstered by a strategic partnership with Meta.",
@@ -685,20 +699,6 @@
             "summary_en": "Anthropic has called for a global mechanism to slow frontier AI development, warning that models are nearing a point of 'recursive self-improvement' where human oversight becomes minimal. The company, which reports that Claude now generates over 80% of its internal code, suggests this pause is necessary to allow societal structures to keep pace with rapid technological advancement.",
             "link": "https://www.scientificamerican.com/article/anthropic-warns-ai-may-soon-begin-recursive-self-improvement",
             "timestamp": 1780682811000,
-            "date": "2026-06-05"
-        },
-        {
-            "title": "China poaches more AI talent from the U.S. as it eyes the next 'super-app' - CNBC",
-            "summary_en": "Major Chinese tech firms like Tencent and Alibaba are aggressively recruiting top-tier AI talent from Silicon Valley to accelerate the development of Artificial General Intelligence (AGI) in China. This talent migration signals a strategic shift as Chinese companies aim to bypass U.S. chip restrictions by focusing on high-performance, cost-effective AI models and super-app integration.",
-            "link": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
-            "timestamp": 1780638364000,
-            "date": "2026-06-05"
-        },
-        {
-            "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG - Research at Google",
-            "summary_en": "Google has unveiled an 'agentic RAG' framework for its Gemini Enterprise Agent Platform, which improves response accuracy by up to 34% by iteratively searching multiple data sources. Unlike traditional RAG systems that often fail on complex, multi-hop queries, this multi-agent workflow uses a 'Sufficient Context Agent' to ensure information is complete before generating an answer.",
-            "link": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag",
-            "timestamp": 1780686876000,
             "date": "2026-06-05"
         }
     ]
