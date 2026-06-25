@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-24 17:09:55",
+    "last_update": "2026-06-25 06:53:43",
     "articles": [
+        {
+            "title": "Qualcomm outlines new CPU, AI accelerator roadmap, inks deal with Meta - Constellation Research",
+            "summary_en": "Qualcomm unveiled its Dragonfly data center roadmap, including the C1000 CPU and AI300 accelerator, aiming to challenge Nvidia by prioritizing power-efficient inference for agentic AI. The company projects over $15 billion in data center revenue by fiscal 2029, bolstered by a strategic partnership with Meta.",
+            "link": "https://www.constellationr.com/insights/news/qualcomm-outlines-new-cpu-ai-accelerator-roadmap-inks-deal-meta",
+            "timestamp": 1782341789000,
+            "date": "2026-06-24"
+        },
+        {
+            "title": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle - Tom's Hardware",
+            "summary_en": "OpenAI and Broadcom have developed Jalapeño, a custom-built, reticle-sized ASIC optimized specifically for large language model inference to address bottlenecks in memory and data movement. Built during a rapid nine-month cycle, the processor is currently undergoing internal testing to achieve higher performance-per-watt than existing state-of-the-art accelerators.",
+            "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
+            "timestamp": 1782327056000,
+            "date": "2026-06-24"
+        },
         {
             "title": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models - Venturebeat",
             "summary_en": "OpenAI and Broadcom have developed 'Jalapeño,' a custom AI accelerator chip designed to reduce LLM inference costs by approximately 50%. The chip’s design phase was completed in a record nine-month period, assisted by OpenAI’s own models to optimize hardware-software co-development.",
@@ -685,20 +699,6 @@
             "summary_en": "Google has unveiled an 'agentic RAG' framework for its Gemini Enterprise Agent Platform, which improves response accuracy by up to 34% by iteratively searching multiple data sources. Unlike traditional RAG systems that often fail on complex, multi-hop queries, this multi-agent workflow uses a 'Sufficient Context Agent' to ensure information is complete before generating an answer.",
             "link": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag",
             "timestamp": 1780686876000,
-            "date": "2026-06-05"
-        },
-        {
-            "title": "Anthropic urges AI labs to pause development, warns humans risk losing control - Reuters",
-            "summary_en": "Anthropic has formally urged leading AI laboratories to pause development, citing growing concerns that the rapid advancement of artificial intelligence risks human loss of control.",
-            "link": "https://www.reuters.com/business/anthropic-says-ai-labs-need-coordinated-plan-halt-development-if-risks-rise-2026-06-04",
-            "timestamp": 1780615680000,
-            "date": "2026-06-04"
-        },
-        {
-            "title": "SpaceX: Reported $920 Million-Per-Month Google Deal Highlights AI Infrastructure Strategy Ahead Of IPO - Pulse 2.0",
-            "summary_en": "SpaceX has entered a $920 million-per-month infrastructure deal with Google to provide compute capacity for 110,000 Nvidia GPUs, bolstering Google's Gemini Enterprise platform ahead of SpaceX's planned IPO.",
-            "link": "https://pulse2.com/spacex-reported-920-million-per-month-google-deal-highlights-ai-infrastructure-strategy-ahead-of-ipo",
-            "timestamp": 1780702640000,
             "date": "2026-06-05"
         }
     ]

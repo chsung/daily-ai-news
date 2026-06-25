@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-24 17:09:55",
+    "last_update": "2026-06-25 06:53:43",
     "articles": [
+        {
+            "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
+            "link": "https://www.cnbc.com/2026/05/19/blackstone-google-ai-data-center-joint-venture-tpu.html",
+            "summary_en": "Blackstone is partnering with Google to invest $5 billion into a new AI infrastructure venture that will utilize Google's proprietary TPU chips to meet the surging global demand for compute capacity, with the first 500 megawatts expected to be online by 2027.",
+            "timestamp": 1779180816000
+        },
+        {
+            "title": "FANUC Accelerates Physical AI Through Collaboration with Google - PR Newswire",
+            "link": "https://www.prnewswire.com/news-releases/fanuc-accelerates-physical-ai-through-collaboration-with-google-302775837.html",
+            "summary_en": "FANUC is collaborating with Google to integrate advanced 'Physical AI'—the fusion of cognitive intelligence with robotic physical action—into its industrial robot lineup, a move that has already seen over 1,000 units shipped for real-world factory applications.",
+            "timestamp": 1779192000000
+        },
         {
             "title": "Hitachi, Anthropic to Cooperate on AI System Development - nippon.com",
             "link": "https://www.nippon.com/en/news/yjj2026051900429/",
@@ -588,18 +600,6 @@
             "link": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
             "summary_en": "Meta is using new AI technology to better identify and protect underage users on its platforms by analyzing profile content and visual cues to ensure teens are placed in age-appropriate accounts.",
             "timestamp": 1777978840000
-        },
-        {
-            "title": "Government pushes Anthropic to host Claude AI models locally: Report - MSN",
-            "link": "https://www.msn.com/en-in/money/topstories/government-pushes-anthropic-to-host-claude-ai-models-locally-report/ar-AA22FWkK?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "The government is reportedly urging Anthropic to host its Claude AI models locally.",
-            "timestamp": 1778383193000
-        },
-        {
-            "title": "EVE Online Studio Goes Indie in “New Era” Rebrand With Google DeepMind AI Partnership - 80 Level",
-            "link": "https://80.lv/articles/eve-online-studio-goes-indie-in-new-era-rebrand-with-google-deepmind-ai-partnership",
-            "summary_en": "The studio behind EVE Online is rebranding as Fenris Creations and partnering with Google DeepMind to use the game as an environment for AI research.",
-            "timestamp": 1778274081000
         }
     ]
 }
