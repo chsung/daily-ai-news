@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-06-24 17:46:24",
+    "last_update": "2026-06-25 18:00:14",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781022908000,
+            "date": "2026-06-09",
+            "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
+            "summary_kr": "NVIDIA FLARE의 Auto-FL은 AI 에이전트를 활용해 연합 학습 전략의 실험과 최적화를 자동화하고, 구조화된 워크플로우를 통해 연구의 재현성과 효율성을 높입니다.",
+            "summary_en": "NVIDIA FLARE Auto-FL leverages AI agents to automate the testing and optimization of federated learning strategies, enhancing research reproducibility and efficiency through a structured, benchmark-driven workflow.",
+            "link": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1781017200000,
+            "date": "2026-06-09",
+            "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+            "summary_kr": "구글이 발표한 'Gemini 3.5 Live Translate'는 70개 이상의 언어를 실시간 음성 대 음성으로 번역하며, 화자의 어조와 속도를 유지한 자연스러운 동시통역을 제공합니다. 이 기술은 구글 미트와 번역 앱은 물론 개발자 API를 통해 다양한 플랫폼에서 원활한 다국어 소통 환경을 지원합니다.",
+            "summary_en": "Google’s 'Gemini 3.5 Live Translate' delivers fluid, natural speech-to-speech translation across 70+ languages by preserving speaker intonation in near real-time. The model is now rolling out across Google products and developer APIs, enabling seamless multilingual communication for global users and enterprises.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781017200000,
+            "date": "2026-06-09",
+            "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
+            "summary_kr": "NVIDIA는 임상 분야의 전문 용어 인식 정확도를 높이기 위해 AI 에이전트 기술과 Nemotron Speech를 활용한 고품질 합성 데이터 생성 및 반복적인 평가 워크플로우를 제시합니다. 이는 개인정보 보호 문제를 해결함과 동시에 임상 ASR 모델의 성능을 빠르고 효율적으로 개선할 수 있는 혁신적인 방안입니다.",
+            "summary_en": "NVIDIA introduces a workflow leveraging AI agent skills and Nemotron Speech to generate high-quality synthetic data for clinical ASR, enabling rapid and repeatable model evaluation while overcoming privacy and data scarcity constraints.",
+            "link": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780963200000,
+            "date": "2026-06-09",
+            "title": "Claude Fable 5 and Claude Mythos 5",
+            "summary_kr": "앤스로픽은 역대 최고 성능을 갖춘 AI 모델 'Claude Fable 5'를 출시하고, 보안이 강화된 'Mythos 5'를 사이버 보안 전문가 및 인프라 제공업체에 공개했습니다.",
+            "summary_en": "Anthropic has launched 'Claude Fable 5,' its most capable AI model to date, alongside 'Mythos 5,' a specialized version for cyberdefenders with fewer usage restrictions.",
+            "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1780963200000,
+            "date": "2026-06-09",
+            "title": "Powering Gopuff's Go agent",
+            "summary_kr": "고퍼프(Gopuff)가 스페이스X AI(xAI)의 그록(Grok) 모델을 탑재한 쇼핑 어시스턴트 'Go'를 출시하여, 개인화된 데이터와 실시간 정보를 바탕으로 고객의 수요를 예측하고 즉각적인 배송을 지원합니다.",
+            "summary_en": "Gopuff has launched 'Go,' an AI-powered shopping assistant integrated with xAI's Grok models, which leverages personalized demand intelligence and real-time data to anticipate customer needs and streamline rapid delivery.",
+            "link": "https://x.ai/news/grok-gopuff"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1780945697000,
+            "date": "2026-06-08",
+            "title": "AI brands as bait: How threat actors are using the AI hype in social engineering | Microsoft Security Blog",
+            "summary_kr": "사이버 범죄자들이 유명 AI 브랜드의 인지도를 악용하여 피싱, 악성 광고 등 다양한 사회 공학적 공격을 감행하고 있으므로 기업과 사용자의 각별한 주의와 AI 기반 보안 솔루션 도입이 필요합니다.",
+            "summary_en": "Threat actors are increasingly exploiting popular AI brands as lures for phishing and malvertising campaigns, necessitating heightened user vigilance and the adoption of AI-powered security solutions to mitigate these evolving social engineering risks.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1780942686000,
@@ -845,60 +899,6 @@
             "summary_kr": "CodeRabbit은 Claude를 활용해 코딩 전 단계에서 구조화된 계획을 수립하는 오케스트레이션 레이어를 도입함으로써, AI가 맥락을 오해해 발생하는 불필요한 재작업을 방지하고 코드 품질을 높였습니다.",
             "summary_en": "CodeRabbit implemented an orchestration layer using Claude to generate structured plans before coding, effectively bridging context gaps and reducing costly rework caused by AI hallucinations or misaligned intent.",
             "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "Zero Trust for AI agents",
-            "summary_kr": "본 가이드는 자율형 AI 에이전트 도입에 따른 보안 위협을 방어하기 위해 제로 트러스트 원칙을 적용한 새로운 엔터프라이즈 보안 프레임워크를 제시합니다.",
-            "summary_en": "This guide introduces a Zero Trust security framework designed to address the unique threat landscape and operational risks associated with deploying autonomous AI agents in the enterprise.",
-            "link": "https://claude.com/blog/zero-trust-for-ai-agents"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "Economic Research Coding agents in the social sciences",
-            "summary_kr": "사회과학 분야에서 AI 코딩 에이전트의 활용은 초기 단계에 머물러 있으며, 성별과 소속 기관에 따른 사용 격차가 뚜렷하게 나타나고 있습니다. 이러한 도구는 연구 생산성을 혁신할 잠재력이 있으나, 동시에 학계 내 자원 불균형과 편향된 연구 결과에 대한 우려도 제기됩니다.",
-            "summary_en": "The adoption of AI coding agents in social sciences remains in its early stages with significant disparities based on gender and institutional prestige. While these tools hold the potential to revolutionize research productivity, they also risk amplifying resource inequality and introducing systemic biases into scholarly outcomes.",
-            "link": "https://www.anthropic.com/research/coding-agents-social-sciences"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779721200000,
-            "date": "2026-05-26",
-            "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-            "summary_kr": "앤스로픽이 한국 시장의 높은 수요를 대응하고 현지 전략을 강화하기 위해 전 스노우플레이크 한국 지사장 최기영을 한국 대표로 선임하고 서울 사무소를 개소합니다.",
-            "summary_en": "Anthropic has appointed former Snowflake Korea GM KiYoung Choi as its Representative Director for Korea and is opening a Seoul office to strengthen its market presence and support growing demand for Claude.",
-            "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779721200000,
-            "date": "2026-05-26",
-            "title": "Code w/ Claude London 2026: Rethinking how we build",
-            "summary_kr": "앤스로픽은 'Code w/ Claude' 런던 행사에서 AI 에이전트를 통해 개발의 복잡성을 줄이고, 기업 보안 환경 내에서 활용 가능한 'Claude Managed Agents'와 MCP 통합 기능을 발표했습니다.",
-            "summary_en": "Anthropic's 'Code w/ Claude' London event highlighted how AI agents simplify development, introducing 'Claude Managed Agents' and MCP integration to enable secure, enterprise-grade AI execution.",
-            "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779667200000,
-            "date": "2026-05-25",
-            "title": "OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnership",
-            "summary_kr": "OpenAI가 브라질 최대 언론사인 Grupo Folha 및 UOL과 전략적 파트너십을 체결하여 ChatGPT 내 신뢰할 수 있는 뉴스 접근성을 높이고, 언론사는 AI 기술을 활용해 디지털 혁신을 도모합니다.",
-            "summary_en": "OpenAI has formed a strategic partnership with Brazil's Grupo Folha and UOL to integrate high-quality journalism into ChatGPT while providing the publishers with access to advanced AI tools for innovation.",
-            "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779634800000,
-            "date": "2026-05-25",
-            "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-            "summary_kr": "앤스로픽 공동 창업자 크리스 올라(Chris Olah)는 교황 레오 14세의 AI 회칙 발표에 참석해, AI는 공학적 산물을 넘어 인문학적 성찰이 필요한 영역임을 강조하며 외부 사회와의 긴밀한 소통과 안전한 개발을 위한 협력을 촉구했습니다.",
-            "summary_en": "Anthropic co-founder Chris Olah addressed Pope Leo XIV's AI encyclical, asserting that AI development transcends technical engineering and requires deep collaboration with humanities and society to ensure ethical and safe outcomes.",
-            "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
         }
     ]
 }

@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-06-24 17:46:24",
+    "last_update": "2026-06-25 18:00:14",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1779807600000,
+            "date": "2026-05-27",
+            "title": "Zero Trust for AI agents",
+            "summary_kr": "본 가이드는 자율형 AI 에이전트 도입에 따른 보안 위협을 방어하기 위해 제로 트러스트 원칙을 적용한 새로운 엔터프라이즈 보안 프레임워크를 제시합니다.",
+            "summary_en": "This guide introduces a Zero Trust security framework designed to address the unique threat landscape and operational risks associated with deploying autonomous AI agents in the enterprise.",
+            "link": "https://claude.com/blog/zero-trust-for-ai-agents"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779807600000,
+            "date": "2026-05-27",
+            "title": "Economic Research Coding agents in the social sciences",
+            "summary_kr": "사회과학 분야에서 AI 코딩 에이전트의 활용은 초기 단계에 머물러 있으며, 성별과 소속 기관에 따른 사용 격차가 뚜렷하게 나타나고 있습니다. 이러한 도구는 연구 생산성을 혁신할 잠재력이 있으나, 동시에 학계 내 자원 불균형과 편향된 연구 결과에 대한 우려도 제기됩니다.",
+            "summary_en": "The adoption of AI coding agents in social sciences remains in its early stages with significant disparities based on gender and institutional prestige. While these tools hold the potential to revolutionize research productivity, they also risk amplifying resource inequality and introducing systemic biases into scholarly outcomes.",
+            "link": "https://www.anthropic.com/research/coding-agents-social-sciences"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779721200000,
+            "date": "2026-05-26",
+            "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+            "summary_kr": "앤스로픽이 한국 시장의 높은 수요를 대응하고 현지 전략을 강화하기 위해 전 스노우플레이크 한국 지사장 최기영을 한국 대표로 선임하고 서울 사무소를 개소합니다.",
+            "summary_en": "Anthropic has appointed former Snowflake Korea GM KiYoung Choi as its Representative Director for Korea and is opening a Seoul office to strengthen its market presence and support growing demand for Claude.",
+            "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779721200000,
+            "date": "2026-05-26",
+            "title": "Code w/ Claude London 2026: Rethinking how we build",
+            "summary_kr": "앤스로픽은 'Code w/ Claude' 런던 행사에서 AI 에이전트를 통해 개발의 복잡성을 줄이고, 기업 보안 환경 내에서 활용 가능한 'Claude Managed Agents'와 MCP 통합 기능을 발표했습니다.",
+            "summary_en": "Anthropic's 'Code w/ Claude' London event highlighted how AI agents simplify development, introducing 'Claude Managed Agents' and MCP integration to enable secure, enterprise-grade AI execution.",
+            "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1779667200000,
+            "date": "2026-05-25",
+            "title": "OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnership",
+            "summary_kr": "OpenAI가 브라질 최대 언론사인 Grupo Folha 및 UOL과 전략적 파트너십을 체결하여 ChatGPT 내 신뢰할 수 있는 뉴스 접근성을 높이고, 언론사는 AI 기술을 활용해 디지털 혁신을 도모합니다.",
+            "summary_en": "OpenAI has formed a strategic partnership with Brazil's Grupo Folha and UOL to integrate high-quality journalism into ChatGPT while providing the publishers with access to advanced AI tools for innovation.",
+            "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1779634800000,
+            "date": "2026-05-25",
+            "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+            "summary_kr": "앤스로픽 공동 창업자 크리스 올라(Chris Olah)는 교황 레오 14세의 AI 회칙 발표에 참석해, AI는 공학적 산물을 넘어 인문학적 성찰이 필요한 영역임을 강조하며 외부 사회와의 긴밀한 소통과 안전한 개발을 위한 협력을 촉구했습니다.",
+            "summary_en": "Anthropic co-founder Chris Olah addressed Pope Leo XIV's AI encyclical, asserting that AI development transcends technical engineering and requires deep collaboration with humanities and society to ensure ethical and safe outcomes.",
+            "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1779472812585,
@@ -774,55 +828,6 @@
             "summary_en": "OpenAI has launched the 'OpenAI Deployment Company' and acquired applied AI firm Tomoro to assist enterprises in deploying frontier AI systems, backed by over $4 billion in initial investment.",
             "link": "https://openai.com/index/openai-launches-the-deployment-company",
             "date": "2026-05-11"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778425200000,
-            "title": "OpenAI Campus Network: Student club interest form",
-            "summary_kr": "오픈AI는 전 세계 대학생들이 AI 역량을 기를 수 있도록 돕는 '오픈AI 캠퍼스 네트워크'를 출범했습니다. 이 프로그램은 학생 리더들에게 AI 도구 조기 접근 권한과 행사 지원 등을 제공합니다.",
-            "summary_en": "OpenAI has launched the 'OpenAI Campus Network' to partner with student clubs worldwide, providing early access to AI tools, research support, and resources for student-led AI initiatives.",
-            "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-            "date": "2026-05-11"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778425200000,
-            "title": "Agent view in Claude Code",
-            "summary_kr": "클로드 코드(Claude Code)에 '에이전트 뷰(Agent View)' 기능이 도입되어, 다수의 에이전트 세션을 하나의 인터페이스에서 통합 관리할 수 있게 되었습니다.",
-            "summary_en": "Anthropic has introduced 'Agent View' for Claude Code, allowing developers to manage multiple concurrent agent sessions from a single terminal interface for improved efficiency.",
-            "link": "https://claude.com/blog/agent-view-in-claude-code"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778425200000,
-            "title": "Introducing the Claude Platform on AWS",
-            "summary_kr": "AWS 환경에서 클로드 플랫폼을 직접 이용할 수 있게 되어, AWS 인증 및 결제 시스템을 활용한 통합적인 에이전트 배포와 관리 서비스가 정식 제공됩니다.",
-            "summary_en": "The Claude Platform on AWS is now generally available, enabling customers to deploy managed agents and access API features directly through their existing AWS account and billing infrastructure.",
-            "link": "https://claude.com/blog/claude-platform-on-aws"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778260413000,
-            "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
-            "summary_kr": "NVIDIA 연구진은 문법 제약 디코딩 기술을 통해 소형 언어 모델의 Bash 명령 생성 정확도를 크게 향상했으며, 이를 통해 에이전트 시스템의 안정적인 워크플로우 구축 가능성을 입증했습니다.",
-            "summary_en": "NVIDIA researchers significantly improved Bash command generation accuracy in small language models using grammar-constrained decoding, demonstrating a more reliable approach for building robust agentic workflows.",
-            "link": "https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778255956000,
-            "title": "Streaming Tokens and Tools: Multi-Turn Agentic Harness Support in NVIDIA Dynamo",
-            "summary_kr": "엔비디아 다이너모(Dynamo)는 에이전트의 사고 과정과 도구 호출을 효율적으로 처리하기 위해 추론 엔진 최적화와 스트리밍 기능을 개선하여 성능을 극대화했습니다.",
-            "summary_en": "NVIDIA Dynamo has enhanced its inference engine to better support multi-turn agentic workflows by optimizing streaming behavior and addressing KV cache reuse issues through stable prompt management.",
-            "link": "https://developer.nvidia.com/blog/streaming-tokens-and-tools-multi-turn-agentic-harness-support-in-nvidia-dynamo"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778242680000,
-            "title": "Teaching Claude why",
-            "summary_kr": "클로드 모델의 에이전트 정렬(alignment) 훈련 결과, 모델의 원칙 이해도를 높이고 훈련 데이터의 질을 개선함으로써 치명적인 오정렬 사례를 성공적으로 차단했습니다.",
-            "summary_en": "Anthropic significantly improved Claude’s safety alignment by teaching the model the principles underlying desired behaviors, successfully reducing agentic misalignment to zero in recent model versions.",
-            "link": "https://www.anthropic.com/research/teaching-claude-why"
         }
     ]
 }

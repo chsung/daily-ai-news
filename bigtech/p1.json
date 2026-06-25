@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-06-24 17:46:24",
+    "last_update": "2026-06-25 18:00:14",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782405828000,
+            "date": "2026-06-25",
+            "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
+            "summary_kr": "NVIDIA TensorRT 11.0은 NCCL과의 통합을 통해 다중 GPU 환경에서 텐서 및 컨텍스트 병렬화를 지원함으로써, 단일 GPU의 메모리 한계를 극복하고 고성능 생성형 AI 추론을 가능하게 합니다.",
+            "summary_en": "NVIDIA TensorRT 11.0 introduces native multi-device inference support via NCCL integration, enabling tensor and context parallelism to overcome single-GPU memory limits for large-scale generative AI deployments.",
+            "link": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782405498000,
+            "date": "2026-06-25",
+            "title": "How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
+            "summary_kr": "크래프톤은 엔비디아 ACE와 소형 언어 모델을 활용해 플레이어와 실시간으로 소통하고 협력하는 지능형 '공동 플레이 캐릭터(CPC)'인 'PUBG Ally'를 선보였습니다.",
+            "summary_en": "KRAFTON has introduced 'PUBG Ally,' an intelligent co-playable character (CPC) powered by NVIDIA ACE and small language models, capable of real-time communication and dynamic cooperation with players.",
+            "link": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782403200000,
+            "date": "2026-06-25",
+            "title": "Turning brain prediction models into testable explanations",
+            "summary_kr": "생성적 인과 검사(GCT)는 블랙박스인 뇌 예측 모델을 LLM을 활용해 검증 가능한 과학적 가설로 변환함으로써, 특정 뇌 영역의 반응 원리를 명확히 규명하는 새로운 분석 프레임워크입니다.",
+            "summary_en": "Generative Causal Testing (GCT) is a new framework that translates opaque brain-prediction models into testable scientific hypotheses using LLMs, effectively closing the gap between computational prediction and neurological understanding.",
+            "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782352800000,
+            "date": "2026-06-25",
+            "title": "How agents are transforming work",
+            "summary_kr": "에이전트형 AI는 단발성 질문을 넘어 장시간 독립적으로 복잡한 업무를 수행하며 지식 노동의 패러다임을 변화시키고 있습니다. 특히 비개발 직군을 포함한 전 영역에서 에이전트 도구의 활용이 급증하며 생산성의 혁신을 이끌고 있습니다.",
+            "summary_en": "Agentic AI is transforming knowledge work by shifting from short, single-task interactions to the independent execution of complex, long-horizon projects. This evolution has driven widespread adoption across all departments, including non-technical roles, fundamentally reshaping productivity.",
+            "link": "https://openai.com/index/how-agents-are-transforming-work"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1782345600000,
+            "date": "2026-06-25",
+            "title": "Explore the markets with Interactive Brokers and Grok",
+            "summary_kr": "인터랙티브 브로커스가 그록(Grok) AI를 통합하여 고객들에게 포트폴리오 분석, 시장 조사, 주문 실행 등 실시간 투자 지원 기능을 제공합니다.",
+            "summary_en": "Interactive Brokers has integrated Grok AI to provide clients with real-time portfolio analysis, market research, and seamless order execution capabilities.",
+            "link": "https://x.ai/news/grok-interactive-brokers"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782334464000,
+            "date": "2026-06-24",
+            "title": "Scaling cybercrime disruption through innovation and AI",
+            "summary_kr": "마이크로소프트는 AI를 활용해 범죄 인프라의 연관성을 분석함으로써 개별 악성코드가 아닌 사이버 범죄 공급망 전체를 효율적으로 차단하는 전략을 도입했습니다.",
+            "summary_en": "Microsoft is pivoting to a supply-chain disruption strategy, utilizing AI to analyze and dismantle interconnected cybercrime infrastructures rather than targeting individual threats in isolation.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/06/24/scaling-cybercrime-disruption-through-innovation-and-ai"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1782318600000,
@@ -846,60 +900,6 @@
             "summary_kr": "OpenAI는 초지능 시대를 대비해 AI가 모두에게 혜택을 줄 수 있도록 기회 확대와 번영 공유를 위한 새로운 산업 정책 아이디어를 제시하고, 이를 논의하기 위한 연구 지원 및 협력 체계를 구축했습니다.",
             "summary_en": "OpenAI has introduced people-first industrial policy ideas to ensure equitable AI benefits in the age of superintelligence and is actively fostering public discourse through research grants and collaborative workshops.",
             "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781022908000,
-            "date": "2026-06-09",
-            "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
-            "summary_kr": "NVIDIA FLARE의 Auto-FL은 AI 에이전트를 활용해 연합 학습 전략의 실험과 최적화를 자동화하고, 구조화된 워크플로우를 통해 연구의 재현성과 효율성을 높입니다.",
-            "summary_en": "NVIDIA FLARE Auto-FL leverages AI agents to automate the testing and optimization of federated learning strategies, enhancing research reproducibility and efficiency through a structured, benchmark-driven workflow.",
-            "link": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1781017200000,
-            "date": "2026-06-09",
-            "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-            "summary_kr": "구글이 발표한 'Gemini 3.5 Live Translate'는 70개 이상의 언어를 실시간 음성 대 음성으로 번역하며, 화자의 어조와 속도를 유지한 자연스러운 동시통역을 제공합니다. 이 기술은 구글 미트와 번역 앱은 물론 개발자 API를 통해 다양한 플랫폼에서 원활한 다국어 소통 환경을 지원합니다.",
-            "summary_en": "Google’s 'Gemini 3.5 Live Translate' delivers fluid, natural speech-to-speech translation across 70+ languages by preserving speaker intonation in near real-time. The model is now rolling out across Google products and developer APIs, enabling seamless multilingual communication for global users and enterprises.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781017200000,
-            "date": "2026-06-09",
-            "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
-            "summary_kr": "NVIDIA는 임상 분야의 전문 용어 인식 정확도를 높이기 위해 AI 에이전트 기술과 Nemotron Speech를 활용한 고품질 합성 데이터 생성 및 반복적인 평가 워크플로우를 제시합니다. 이는 개인정보 보호 문제를 해결함과 동시에 임상 ASR 모델의 성능을 빠르고 효율적으로 개선할 수 있는 혁신적인 방안입니다.",
-            "summary_en": "NVIDIA introduces a workflow leveraging AI agent skills and Nemotron Speech to generate high-quality synthetic data for clinical ASR, enabling rapid and repeatable model evaluation while overcoming privacy and data scarcity constraints.",
-            "link": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780963200000,
-            "date": "2026-06-09",
-            "title": "Claude Fable 5 and Claude Mythos 5",
-            "summary_kr": "앤스로픽은 역대 최고 성능을 갖춘 AI 모델 'Claude Fable 5'를 출시하고, 보안이 강화된 'Mythos 5'를 사이버 보안 전문가 및 인프라 제공업체에 공개했습니다.",
-            "summary_en": "Anthropic has launched 'Claude Fable 5,' its most capable AI model to date, alongside 'Mythos 5,' a specialized version for cyberdefenders with fewer usage restrictions.",
-            "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1780963200000,
-            "date": "2026-06-09",
-            "title": "Powering Gopuff's Go agent",
-            "summary_kr": "고퍼프(Gopuff)가 스페이스X AI(xAI)의 그록(Grok) 모델을 탑재한 쇼핑 어시스턴트 'Go'를 출시하여, 개인화된 데이터와 실시간 정보를 바탕으로 고객의 수요를 예측하고 즉각적인 배송을 지원합니다.",
-            "summary_en": "Gopuff has launched 'Go,' an AI-powered shopping assistant integrated with xAI's Grok models, which leverages personalized demand intelligence and real-time data to anticipate customer needs and streamline rapid delivery.",
-            "link": "https://x.ai/news/grok-gopuff"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1780945697000,
-            "date": "2026-06-08",
-            "title": "AI brands as bait: How threat actors are using the AI hype in social engineering | Microsoft Security Blog",
-            "summary_kr": "사이버 범죄자들이 유명 AI 브랜드의 인지도를 악용하여 피싱, 악성 광고 등 다양한 사회 공학적 공격을 감행하고 있으므로 기업과 사용자의 각별한 주의와 AI 기반 보안 솔루션 도입이 필요합니다.",
-            "summary_en": "Threat actors are increasingly exploiting popular AI brands as lures for phishing and malvertising campaigns, necessitating heightened user vigilance and the adoption of AI-powered security solutions to mitigate these evolving social engineering risks.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering"
         }
     ]
 }
