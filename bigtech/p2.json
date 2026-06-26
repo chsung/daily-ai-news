@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-06-25 18:00:14",
+    "last_update": "2026-06-26 17:27:56",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1781028148000,
+            "date": "2026-06-09",
+            "title": "How Microsoft Discovery is speeding BHP's copper innovation — critical to the energy transition",
+            "summary_kr": "세계 최대 광업 기업 BHP는 마이크로소프트의 AI 플랫폼 'Microsoft Discovery'를 도입하여 구리 추출 효율을 높이는 신물질 탐색 기간을 획기적으로 단축하고 에너지 전환에 필수적인 구리 공급망 혁신을 가속화하고 있습니다.",
+            "summary_en": "BHP is leveraging Microsoft Discovery to drastically accelerate the R&D process for efficient copper extraction, utilizing AI agents to enhance innovation in a critical mineral essential for the global energy transition.",
+            "link": "https://news.microsoft.com/signal/articles/microsoft-discovery-bhp-copper"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1781020800000,
+            "date": "2026-06-09",
+            "title": "4 ways researchers are collaborating with Co-Scientist to solve big problems",
+            "summary_kr": "구글의 '코-사이언티스트(Co-Scientist)'는 전문 에이전트들의 협업을 통해 가설 생성부터 검증, 고도화까지 과학적 연구 과정을 자동화하고 가속화하는 AI 시스템입니다.",
+            "summary_en": "Google's Co-Scientist is an AI system that leverages a coalition of specialized agents to automate and accelerate scientific research, from hypothesis generation and peer review to refinement.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781006400000,
+            "date": "2026-06-09",
+            "title": "How engineers at Nextdoor use Codex to build without limits",
+            "summary_kr": "Nextdoor는 엔지니어링 도구인 Codex를 도입하여 엔지니어가 기술적 구현 방식보다 제품의 결과물과 가치에 집중하도록 업무 패러다임을 전환했으며, 이를 통해 부서 간 협업 없이도 엔지니어가 제품 전체를 단독으로 개발할 수 있는 환경을 구축했습니다.",
+            "summary_en": "By integrating Codex, Nextdoor has shifted its engineering paradigm from technical implementation to outcome-driven development, enabling individual engineers to own full-stack product delivery and accelerate innovation without traditional cross-team bottlenecks.",
+            "link": "https://openai.com/index/nextdoor"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780999200000,
+            "date": "2026-06-09",
+            "title": "What Codex unlocks for Notion",
+            "summary_kr": "노션은 코덱스(Codex)를 도입해 개발 시간을 2주에서 3시간으로 단축하며 생산성을 극대화했고, 엔지니어들이 코드 작성보다 설계와 고차원적 문제 해결에 집중하는 새로운 업무 방식을 구축했습니다.",
+            "summary_en": "Notion has revolutionized its engineering workflow by leveraging Codex to reduce development time from two weeks to three hours, enabling engineers to shift their focus from manual coding to high-level architectural design and parallel task execution.",
+            "link": "https://openai.com/index/notion"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780963200000,
+            "date": "2026-06-09",
+            "title": "Industrial policy for the Intelligence Age",
+            "summary_kr": "OpenAI는 초지능 시대를 대비해 AI가 모두에게 혜택을 줄 수 있도록 기회 확대와 번영 공유를 위한 새로운 산업 정책 아이디어를 제시하고, 이를 논의하기 위한 연구 지원 및 협력 체계를 구축했습니다.",
+            "summary_en": "OpenAI has introduced people-first industrial policy ideas to ensure equitable AI benefits in the age of superintelligence and is actively fostering public discourse through research grants and collaborative workshops.",
+            "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1781022908000,
@@ -854,51 +899,6 @@
             "summary_kr": "NVIDIA가 CUDA 13.3을 통해 C++ 기반의 'CUDA Tile' 프로그래밍을 지원하며, 복잡한 저수준 최적화 없이도 타일 단위의 추상화를 통해 효율적인 GPU 커널 개발이 가능해졌습니다.",
             "summary_en": "NVIDIA has introduced C++ support for 'CUDA Tile' in CUDA 13.3, enabling developers to build highly optimized GPU kernels through tile-based abstractions without manual low-level hardware management.",
             "link": "https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779831557000,
-            "date": "2026-05-27",
-            "title": "NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++, Compiler Autotuning, and Python",
-            "summary_kr": "NVIDIA CUDA 13.3은 C++ 타일 프로그래밍과 CUDA Python 1.0 정식 출시를 통해 개발 편의성과 호환성을 대폭 강화했으며, CompileIQ를 통한 자동 튜닝으로 연산 성능을 최대 15% 향상시켰습니다.",
-            "summary_en": "NVIDIA CUDA 13.3 enhances development efficiency and portability with the introduction of C++ Tile programming and the official CUDA Python 1.0 release, while delivering up to a 15% performance boost through the CompileIQ auto-tuning framework.",
-            "link": "https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779811200000,
-            "date": "2026-05-27",
-            "title": "Run Key Genomics and Protein Folding Workloads Faster with NVIDIA RTX PRO 4500 Blackwell",
-            "summary_kr": "엔비디아는 고성능 GPU와 BioNeMo 플랫폼을 통해 유전체 분석 및 신약 개발의 병목 현상을 해결하며 정밀 의료의 속도와 효율성을 획기적으로 높이고 있습니다.",
-            "summary_en": "NVIDIA is significantly accelerating precision medicine by leveraging its GPU-accelerated platforms, such as BioNeMo and Parabricks, to overcome critical bottlenecks in genomic analysis and drug discovery.",
-            "link": "https://developer.nvidia.com/blog/run-key-genomics-and-protein-folding-workloads-faster-with-nvidia-rtx-pro-4500-blackwell"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-            "summary_kr": "앤스로픽이 이탈리아 밀라노에 신규 사무소를 개설하며 현지 기업 및 연구 생태계와의 협력을 강화하고, 안전한 AI 도입을 지원하는 유럽 내 입지를 확대합니다.",
-            "summary_en": "Anthropic has opened a new office in Milan to accelerate AI adoption across Italian industries, research, and developer communities while fostering responsible AI development.",
-            "link": "https://www.anthropic.com/news/milan-office-opening"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "Using LLMs to secure source code",
-            "summary_kr": "이 기사는 Claude Opus를 활용하여 소스 코드의 위협 모델을 구축하고 취약점을 탐지, 검증, 패치하는 체계적인 보안 워크플로우를 제시합니다. 특히 모델이 정확한 판단을 내리기 위해서는 잘 정의된 위협 모델과 시스템 컨텍스트 제공이 성공의 핵심임을 강조합니다.",
-            "summary_en": "This article outlines a systematic workflow for leveraging Claude Opus to build threat models and automate the discovery, verification, and patching of source code vulnerabilities. It highlights that providing a well-defined threat model and system context is critical for ensuring the model's accuracy and actionable output.",
-            "link": "https://claude.com/blog/using-llms-to-secure-source-code"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "How CodeRabbit used Claude to build an agent orchestration system",
-            "summary_kr": "CodeRabbit은 Claude를 활용해 코딩 전 단계에서 구조화된 계획을 수립하는 오케스트레이션 레이어를 도입함으로써, AI가 맥락을 오해해 발생하는 불필요한 재작업을 방지하고 코드 품질을 높였습니다.",
-            "summary_en": "CodeRabbit implemented an orchestration layer using Claude to generate structured plans before coding, effectively bridging context gaps and reducing costly rework caused by AI hallucinations or misaligned intent.",
-            "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system"
         }
     ]
 }

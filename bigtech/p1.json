@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-06-25 18:00:14",
+    "last_update": "2026-06-26 17:27:56",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782489635000,
+            "date": "2026-06-26",
+            "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
+            "summary_kr": "엔비디아 모델 옵티마이저를 활용한 Nemotron 3 Ultra의 NVFP4 양자화는 BF16 수준의 정확도를 유지하면서 모델 크기를 3.2배 줄이고 추론 처리량을 최대 5.9배 향상시켰습니다. 또한, 이 모델은 엔비디아 호퍼 및 블랙웰 아키텍처 간의 호환성을 보장하며 효율적인 고성능 AI 배포 표준을 제시합니다.",
+            "summary_en": "NVIDIA Model Optimizer's NVFP4 quantization of Nemotron 3 Ultra achieves up to 5.9x higher inference throughput and a 3.2x reduction in model size while maintaining BF16-level accuracy. The resulting checkpoint ensures cross-architecture compatibility between NVIDIA Hopper and Blackwell, setting a new standard for efficient, high-performance AI deployment.",
+            "link": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782468000000,
+            "date": "2026-06-26",
+            "title": "Previewing GPT-5.6 Sol: a next-generation model",
+            "summary_kr": "OpenAI는 코딩, 생물학, 사이버 보안 분야에서 추론 능력과 효율성을 극대화한 차세대 모델 시리즈인 'GPT-5.6(Sol, Terra, Luna)'을 공개하며 정부와의 협력을 통해 순차적 출시를 시작했습니다.",
+            "summary_en": "OpenAI has unveiled the GPT-5.6 model series, featuring Sol, Terra, and Luna, which deliver enhanced reasoning and efficiency in coding, biology, and cybersecurity, while initiating a phased rollout in coordination with the U.S. government.",
+            "link": "https://openai.com/index/previewing-gpt-5-6-sol"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1782432000000,
+            "date": "2026-06-26",
+            "title": "Anthropic Economic Index report: Cadences",
+            "summary_kr": "앤스로픽은 클로드의 사용 패턴이 대화형에서 에이전트형 작업으로 변화함에 따라 데이터를 세분화하여 업무 리듬과 사용자 인식이 AI 경제에 미치는 영향을 분석했습니다. 분석 결과, AI 사용 패턴은 주간 업무 주기와 밀접하게 연동되며, 자동화 도구 활용도가 높은 사용자일수록 AI의 경제적 긍정 효과에 대해 더 낙관적인 것으로 나타났습니다.",
+            "summary_en": "Anthropic has refined its economic index methodology to track the shift from conversational AI to agentic tasks, revealing that Claude usage patterns closely mirror real-world work cycles and seasonal demands. The report highlights that high-frequency AI users express greater optimism regarding AI's impact on job security, compensation, and workplace fulfillment.",
+            "link": "https://www.anthropic.com/research/economic-index-june-2026-report"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782426351000,
+            "date": "2026-06-25",
+            "title": "Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps",
+            "summary_kr": "Vulkan의 새로운 VK_EXT_descriptor_heap 확장은 기존의 복잡한 리소스 바인딩 방식을 개선하여 개발자가 메모리를 직접 관리하고 성능을 최적화할 수 있도록 지원합니다.",
+            "summary_en": "The new VK_EXT_descriptor_heap extension for Vulkan streamlines resource binding by replacing complex descriptor sets with a simplified, direct memory management model that enhances performance and cross-API parity.",
+            "link": "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782422700000,
+            "date": "2026-06-25",
+            "title": "Copilot in Excel: Built for the era of Frontier Finance | Microsoft 365 Blog",
+            "summary_kr": "마이크로소프트는 재무 전문가를 위해 데이터 추적성과 검증 가능성을 강화하고, 사용자 정의 가능한 '스킬' 기능과 신뢰할 수 있는 외부 데이터 연결을 갖춘 최적화된 Copilot in Excel을 선보였습니다.",
+            "summary_en": "Microsoft has introduced an optimized Copilot in Excel for finance professionals, featuring enhanced data traceability, custom workflow 'skills,' and direct integration with trusted financial data sources.",
+            "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1782405828000,
@@ -855,51 +900,6 @@
             "summary_kr": "본 기사는 FP8로 양자화된 CLIP 모델을 ONNX로 변환하고 NVIDIA TensorRT 엔진으로 컴파일하여 추론 성능과 효율성을 극대화하는 실무 과정을 설명합니다.",
             "summary_en": "This article outlines the practical workflow for converting FP8-quantized CLIP checkpoints into NVIDIA TensorRT engines, enabling significant improvements in inference speed and GPU utilization.",
             "link": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781028148000,
-            "date": "2026-06-09",
-            "title": "How Microsoft Discovery is speeding BHP's copper innovation — critical to the energy transition",
-            "summary_kr": "세계 최대 광업 기업 BHP는 마이크로소프트의 AI 플랫폼 'Microsoft Discovery'를 도입하여 구리 추출 효율을 높이는 신물질 탐색 기간을 획기적으로 단축하고 에너지 전환에 필수적인 구리 공급망 혁신을 가속화하고 있습니다.",
-            "summary_en": "BHP is leveraging Microsoft Discovery to drastically accelerate the R&D process for efficient copper extraction, utilizing AI agents to enhance innovation in a critical mineral essential for the global energy transition.",
-            "link": "https://news.microsoft.com/signal/articles/microsoft-discovery-bhp-copper"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1781020800000,
-            "date": "2026-06-09",
-            "title": "4 ways researchers are collaborating with Co-Scientist to solve big problems",
-            "summary_kr": "구글의 '코-사이언티스트(Co-Scientist)'는 전문 에이전트들의 협업을 통해 가설 생성부터 검증, 고도화까지 과학적 연구 과정을 자동화하고 가속화하는 AI 시스템입니다.",
-            "summary_en": "Google's Co-Scientist is an AI system that leverages a coalition of specialized agents to automate and accelerate scientific research, from hypothesis generation and peer review to refinement.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781006400000,
-            "date": "2026-06-09",
-            "title": "How engineers at Nextdoor use Codex to build without limits",
-            "summary_kr": "Nextdoor는 엔지니어링 도구인 Codex를 도입하여 엔지니어가 기술적 구현 방식보다 제품의 결과물과 가치에 집중하도록 업무 패러다임을 전환했으며, 이를 통해 부서 간 협업 없이도 엔지니어가 제품 전체를 단독으로 개발할 수 있는 환경을 구축했습니다.",
-            "summary_en": "By integrating Codex, Nextdoor has shifted its engineering paradigm from technical implementation to outcome-driven development, enabling individual engineers to own full-stack product delivery and accelerate innovation without traditional cross-team bottlenecks.",
-            "link": "https://openai.com/index/nextdoor"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780999200000,
-            "date": "2026-06-09",
-            "title": "What Codex unlocks for Notion",
-            "summary_kr": "노션은 코덱스(Codex)를 도입해 개발 시간을 2주에서 3시간으로 단축하며 생산성을 극대화했고, 엔지니어들이 코드 작성보다 설계와 고차원적 문제 해결에 집중하는 새로운 업무 방식을 구축했습니다.",
-            "summary_en": "Notion has revolutionized its engineering workflow by leveraging Codex to reduce development time from two weeks to three hours, enabling engineers to shift their focus from manual coding to high-level architectural design and parallel task execution.",
-            "link": "https://openai.com/index/notion"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780963200000,
-            "date": "2026-06-09",
-            "title": "Industrial policy for the Intelligence Age",
-            "summary_kr": "OpenAI는 초지능 시대를 대비해 AI가 모두에게 혜택을 줄 수 있도록 기회 확대와 번영 공유를 위한 새로운 산업 정책 아이디어를 제시하고, 이를 논의하기 위한 연구 지원 및 협력 체계를 구축했습니다.",
-            "summary_en": "OpenAI has introduced people-first industrial policy ideas to ensure equitable AI benefits in the age of superintelligence and is actively fostering public discourse through research grants and collaborative workshops.",
-            "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
         }
     ]
 }
