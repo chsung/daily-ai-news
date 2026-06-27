@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-06-26 17:04:17",
+    "last_update": "2026-06-27 06:33:34",
     "articles": [
+        {
+            "title": "애플, WWDC서 ‘엣지 AI’ 전면 선언…데이터센터 의존 줄여 '비용 절감' - AI타임스",
+            "summary_kr": "애플은 WWDC에서 데이터센터 의존도를 낮추고 개인정보 보호와 비용 절감을 달성하기 위해 기기 자체 연산을 활용하는 '엣지 AI' 전략을 전면화할 예정입니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=211107",
+            "timestamp": 1780042777000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "오픈AI, 한국 첫 '이그젯 서밋' 개최…엔터프라이즈 AI 확대 논의 - 전자신문",
+            "summary_kr": "오픈AI는 국내 기업 리더십 행사인 '이그젝 서밋'을 열고 크래프톤 등과 협력하며 기업 시스템 및 업무 프로세스 전반에 AI를 안전하게 통합하는 방안을 논의했습니다.",
+            "link": "https://www.etnews.com/20260529000278",
+            "timestamp": 1780034681000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "[이슈] 삼성SDS, AI 전환 전략 공개...OpenAI·구글 안고 AX 전환 지원 - 오늘경제",
+            "summary_kr": "삼성SDS는 오픈AI 및 구글 클라우드와의 파트너십을 통해 기업별 환경에 최적화된 AI 컨설팅부터 운영까지 지원하는 풀스택 AX 전환 전략을 발표했습니다.",
+            "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=802402",
+            "timestamp": 1780041932000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "\"전력망부터 코어까지\"…인피니언, 엔비디아와 차세대 AI 서버 전력 혁신 협력 - 디지털데일리",
+            "summary_kr": "인피니언이 엔비디아의 MGX 에코시스템에 합류하여 차세대 AI 데이터센터를 위한 800V 전력 관리 솔루션을 제공함으로써 고효율 전력 분배와 인프라 효율성을 높입니다.",
+            "link": "https://www.ddaily.co.kr/page/view/2026052911435331758",
+            "timestamp": 1780022641000,
+            "date": "2026-05-29"
+        },
         {
             "title": "아스테로모프, 오픈AI 추격한 '과학 AI 모델' 공개…시드 470억 확보 - 지디넷코리아",
             "summary_kr": "아스테로모프는 470억 원 규모의 투자를 유치하고 국가 전략 프로젝트인 'K-문샷'에 참여하며, 오픈AI와 대등한 성능을 보이는 과학 전용 AI '스페이서 1.0'을 공개했습니다.",
@@ -580,30 +608,6 @@
             "link": "https://www.itworld.co.kr/article/4170463/%EC%98%A4%ED%94%88ai-%EC%82%AC%EC%9D%B4%EB%B2%84-%EB%B0%A9%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8D%B0%EC%9D%B4%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC-%EA%B3%B5%EA%B0%9C%EC%95%A4.html",
             "summary_kr": "오픈AI가 앤트로픽의 미토스에 대응하고자 사이버 위협 탐지 및 패치 생성 기능을 갖춘 보안 플랫폼 데이브레이크를 공개했으며, 시스코·오라클 등과 협력해 엔터프라이즈 환경에서의 사이버 방어 생태계 구축에 나섰습니다.",
             "timestamp": 1778638050000
-        },
-        {
-            "title": "메타, AI 개발 확대에 내부 반발·EU 조사 동시 직면 - ppss.kr",
-            "link": "https://www.ppss.kr/news/articleView.html?idxno=295838",
-            "summary_kr": "메타가 AI 에이전트 학습을 위해 직원들의 PC 사용 데이터를 수집하는 과정에서 사내 반발에 직면했으며, 동시에 왓츠앱 내 자사 AI 우선 정책과 관련해 EU 경쟁법 위반 조사로 최대 연 매출 10%의 과징금 위기에 처했습니다.",
-            "timestamp": 1778637600000
-        },
-        {
-            "title": "AI 데이터 폭증 대응…빅테크 5사, 차세대 네트워킹 기술 공동 개발 - cio.com",
-            "link": "https://www.cio.com/article/4169814/ai-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8F%AD%EC%A6%9D-%EB%8C%80%EC%9D%91%EB%B9%85%ED%85%8C%ED%81%AC-5%EC%82%AC-%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%EA%B8%B0%EC%88%A0.html",
-            "summary_kr": "오픈AI와 주요 빅테크 5사가 협력해 개발한 ‘MRC(Multipath Reliable Connection)’ 프로토콜은 10만 개 이상의 GPU가 연결된 초대형 학습 환경에서 데이터를 수백 개의 경로로 분산 전송함으로써 네트워크 병목과 장애로 인한 학습 중단을 방지하고 GPU 활용률을 극대화한다.",
-            "timestamp": 1778562565000
-        },
-        {
-            "title": "AI로 만든 제로데이 공격 코드 첫 포착…구글 “취약점 전쟁 이미 시작” - 뉴스탭",
-            "link": "https://www.newstap.co.kr/news/articleView.html?idxno=326889",
-            "summary_kr": "구글 위협 인텔리전스 그룹은 AI를 활용해 실제 작동 가능한 제로데이 취약점 공격 코드를 개발하고 이를 대규모 캠페인에 적용하려는 공격 사례가 포착됨에 따라, 국가 배후 세력 및 범죄 집단이 AI를 이용한 사이버 공격의 속도와 정교함을 높이는 '취약점 전쟁'이 본격화됐다고 경고했다.",
-            "timestamp": 1778591013000
-        },
-        {
-            "title": "구글, 양자컴퓨팅·AI로 생명과학 판 바꾼다 - 양자신문",
-            "link": "https://www.quantumtimes.net/news/articleView.html?idxno=56344",
-            "summary_kr": "구글 퀀텀 AI는 1천만 달러를 투입해 하버드·MIT 등 5개 대학과 함께 양자컴퓨팅과 AI를 융합한 ‘리플리카(REPLIQA)’ 프로그램을 출범하고, 기존 슈퍼컴퓨터로 분석이 어려웠던 단백질 구조 형성 및 신약 후보 물질의 분자 단위 상호작용 연구를 고도화한다.",
-            "timestamp": 1778560056000
         }
     ]
 }

@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-26 17:05:02",
+    "last_update": "2026-06-27 06:34:33",
     "articles": [
+        {
+            "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations - Reuters",
+            "summary_en": "The United States government has authorized Anthropic to provide its Mythos AI model to specific, vetted domestic organizations. This move aims to balance the rapid advancement of generative AI with strict security and oversight protocols.",
+            "link": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+            "timestamp": 1782513420000,
+            "date": "2026-06-26"
+        },
+        {
+            "title": "OpenAI builds its own AI silicon - Jon Peddie Research",
+            "summary_en": "OpenAI has partnered with Broadcom to develop 'Jalapeño,' a custom inference-focused AI processor designed to optimize efficiency and reduce reliance on third-party hardware. This move marks OpenAI's transition into a full-stack company, utilizing AI-assisted engineering to shorten development cycles for its multi-generation silicon roadmap.",
+            "link": "https://www.jonpeddie.com/news/openai-builds-its-own-ai-silicon",
+            "timestamp": 1782506883000,
+            "date": "2026-06-26"
+        },
         {
             "title": "OpenAI staggers AI model release after Trump administration request - The Guardian",
             "summary_en": "OpenAI is implementing a staggered, government-vetted preview for its GPT 5.6 model following requests from federal agencies concerned about the security risks of powerful AI. This move signals a significant shift in White House policy toward stricter oversight of cutting-edge models capable of sensitive tasks like cyber-hacking.",
@@ -685,20 +699,6 @@
             "summary_en": "Apple is set to reveal a revamped version of Siri at its Worldwide Developers Conference, aiming to bridge the performance gap with rivals like ChatGPT and Gemini through a potential partnership with Google. This strategic update seeks to revitalize Apple's AI presence, addressing investor concerns as the company prepares for a leadership transition under incoming CEO John Ternus.",
             "link": "https://abc7chicago.com/post/apple-ceo-tim-cook-expected-unveil-new-siri-wwdc-ai-strategy-update-catch-competitors-chatgpt-gemini/19257048",
             "timestamp": 1780931432000,
-            "date": "2026-06-08"
-        },
-        {
-            "title": "Introducing Majorana 2 - Microsoft Source",
-            "summary_en": "Microsoft has unveiled its Majorana 2 topological quantum chip, which utilizes agentic AI to achieve a 1,000-fold increase in qubit reliability. This breakthrough has allowed the company to accelerate its timeline for a scalable, commercially valuable quantum computer to 2029.",
-            "link": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai",
-            "timestamp": 1780424572000,
-            "date": "2026-06-02"
-        },
-        {
-            "title": "NVIDIA Accelerates Physical AI Strategy: Deepens Collaboration with Hyundai Motor to Advance Robot Industrialization into Practical Implementation Phase - 富途牛牛",
-            "summary_en": "NVIDIA is deepening its collaboration with Hyundai Motor to push 'Physical AI' from conceptual development into the practical implementation phase of industrial robotics. This partnership aims to leverage NVIDIA's AI infrastructure to advance the real-world application of intelligent machines within manufacturing environments.",
-            "link": "https://news.futunn.com/en/post/74276002/nvidia-accelerates-physical-ai-strategy-deepens-collaboration-with-hyundai-motor",
-            "timestamp": 1780923653000,
             "date": "2026-06-08"
         }
     ]

@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-26 17:05:02",
+    "last_update": "2026-06-27 06:34:33",
     "articles": [
+        {
+            "title": "Introducing Majorana 2 - Microsoft Source",
+            "summary_en": "Microsoft has unveiled its Majorana 2 topological quantum chip, which utilizes agentic AI to achieve a 1,000-fold increase in qubit reliability. This breakthrough has allowed the company to accelerate its timeline for a scalable, commercially valuable quantum computer to 2029.",
+            "link": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai",
+            "timestamp": 1780424572000,
+            "date": "2026-06-02"
+        },
+        {
+            "title": "NVIDIA Accelerates Physical AI Strategy: Deepens Collaboration with Hyundai Motor to Advance Robot Industrialization into Practical Implementation Phase - 富途牛牛",
+            "summary_en": "NVIDIA is deepening its collaboration with Hyundai Motor to push 'Physical AI' from conceptual development into the practical implementation phase of industrial robotics. This partnership aims to leverage NVIDIA's AI infrastructure to advance the real-world application of intelligent machines within manufacturing environments.",
+            "link": "https://news.futunn.com/en/post/74276002/nvidia-accelerates-physical-ai-strategy-deepens-collaboration-with-hyundai-motor",
+            "timestamp": 1780923653000,
+            "date": "2026-06-08"
+        },
         {
             "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure - NVIDIA Blog",
             "summary_en": "NVIDIA and LG Group are collaborating to build an AI factory that integrates NVIDIA’s full-stack computing platform with LG’s manufacturing expertise to advance physical AI, robotics, and smart factory standards. The partnership utilizes technologies like NVIDIA Isaac Sim and the GR00T foundation model to create an end-to-end workflow for autonomous manufacturing and robot development.",
@@ -651,18 +665,6 @@
             "link": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom",
             "summary_en": "Nvidia reported record quarterly profits of $58.3 billion, driven by a 92% surge in data-center revenue from AI demand, leading the company to announce an $80 billion share buyback and a significant dividend increase as it shifts into a more mature phase of hypergrowth.",
             "timestamp": 1779375334000
-        },
-        {
-            "title": "Anthropic Is in Talks to Use Microsoft’s AI Chips - The Information",
-            "link": "https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips",
-            "summary_en": "Anthropic is currently in negotiations to incorporate Microsoft’s proprietary AI chips into its infrastructure, reflecting a strategic move to diversify its hardware supply for advanced model development.",
-            "timestamp": 1779368651000
-        },
-        {
-            "title": "Gemini for Science: AI experiments and tools for a new era of discovery - blog.google",
-            "link": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
-            "summary_en": "Google has launched 'Gemini for Science,' a suite of agentic research tools on Google Labs designed to accelerate discovery by automating hypothesis generation, computational testing, and the synthesis of vast scientific literature.",
-            "timestamp": 1779377397000
         }
     ]
 }
