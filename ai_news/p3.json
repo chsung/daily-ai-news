@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-27 06:34:33",
+    "last_update": "2026-06-27 16:10:56",
     "articles": [
+        {
+            "title": "Nvidia’s Two-Track Data Center Strategy Targets Hyperscalers, Enterprise AI Factories - crn.com",
+            "link": "https://www.crn.com/news/ai/2026/nvidia-s-two-track-data-center-strategy-targets-hyperscalers-enterprise-ai-factories",
+            "summary_en": "Nvidia CEO Jensen Huang is splitting the company's data center strategy into two segments: high-spending hyperscalers and a vast, growing network of diverse enterprise 'AI factories' that require localized, reliable computing.",
+            "timestamp": 1779397860000
+        },
+        {
+            "title": "Nvidia posts record profit of $58.3bn amid AI chip boom - Al Jazeera",
+            "link": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom",
+            "summary_en": "Nvidia reported record quarterly profits of $58.3 billion, driven by a 92% surge in data-center revenue from AI demand, leading the company to announce an $80 billion share buyback and a significant dividend increase as it shifts into a more mature phase of hypergrowth.",
+            "timestamp": 1779375334000
+        },
         {
             "title": "Anthropic Is in Talks to Use Microsoft’s AI Chips - The Information",
             "link": "https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips",
@@ -588,18 +600,6 @@
             "link": "https://www.msn.com/en-us/news/technology/anthropic-inks-200b-google-cloud-chip-pact-report/ar-AA22uhpY?gemSnapshotKey=GM866A146F-snapshot-3&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
             "summary_en": "Anthropic has reportedly signed a $200 billion deal with Google Cloud to use its services and chips for AI development.",
             "timestamp": 1778376073000
-        },
-        {
-            "title": "US military expands Google AI partnership for classified work: Plans for diversified AI ecosystem - MSN",
-            "link": "https://www.msn.com/en-in/money/topstories/us-military-expands-google-ai-partnership-for-classified-work-plans-for-diversified-ai-ecosystem/ar-AA21ZoG2?uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "The U.S. military is expanding its partnership with Google to use AI for classified projects as part of a strategy to build a broader range of AI technologies.",
-            "timestamp": 1778404446000
-        },
-        {
-            "title": "Unhappy with Mark Zuckerberg's Meta buying AI startup Manus, Chinese government to startups: Reject funding from American origin companies, unless ... - MSN",
-            "link": "https://www.msn.com/en-in/news/world/unhappy-with-mark-zuckerbergs-meta-buying-ai-startup-manus-chinese-government-to-startups-reject-funding-from-american-origin-companies-unless/ar-AA22oUoQ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "Following Meta's acquisition of the startup Manus, the Chinese government is reportedly advising domestic startups to avoid taking funding from American companies.",
-            "timestamp": 1778373959000
         }
     ]
 }
