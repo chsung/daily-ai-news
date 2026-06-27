@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-06-26 17:27:56",
+    "last_update": "2026-06-27 16:53:20",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1779831616000,
+            "date": "2026-05-27",
+            "title": "Develop High&#x2d;Performance GPU Kernels in C++ with NVIDIA CUDA Tile",
+            "summary_kr": "NVIDIA가 CUDA 13.3을 통해 C++ 기반의 'CUDA Tile' 프로그래밍을 지원하며, 복잡한 저수준 최적화 없이도 타일 단위의 추상화를 통해 효율적인 GPU 커널 개발이 가능해졌습니다.",
+            "summary_en": "NVIDIA has introduced C++ support for 'CUDA Tile' in CUDA 13.3, enabling developers to build highly optimized GPU kernels through tile-based abstractions without manual low-level hardware management.",
+            "link": "https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1779831557000,
@@ -821,15 +830,6 @@
             "summary_kr": "유럽 최대 온라인 자동차 마켓플레이스인 오토스카우트24(AutoScout24)가 챗GPT와 코덱스(Codex)를 도입하여 엔지니어링 생산성을 10배 향상시켰습니다. 2,000명의 직원이 AI 도구를 활용해 개발 주기를 수주에서 수일로 단축했습니다.",
             "summary_en": "AutoScout24, a major European automotive marketplace, has scaled its engineering productivity 10x by implementing ChatGPT and Codex, reducing development cycles from weeks to days for its 2,000 employees.",
             "link": "https://openai.com/index/autoscout24",
-            "date": "2026-05-12"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778511600000,
-            "title": "How NVIDIA engineers and researchers build with Codex",
-            "summary_kr": "엔비디아는 사내 연구 및 엔지니어링 팀이 GPT-5.5 기반 코덱스(Codex)를 활용해 개발 속도를 10배 높이고 있다고 밝혔습니다. 이를 통해 복잡한 연구 워크플로우를 자동화하고 신속하게 프로덕션 시스템을 구축하고 있습니다.",
-            "summary_en": "NVIDIA engineers and researchers are leveraging Codex, powered by GPT-5.5, to accelerate end-to-end machine learning research and complex engineering tasks, achieving a 10x improvement in workflow speed.",
-            "link": "https://openai.com/index/nvidia",
             "date": "2026-05-12"
         }
     ]

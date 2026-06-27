@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-06-26 17:27:56",
+    "last_update": "2026-06-27 16:53:20",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782500445000,
+            "date": "2026-06-26",
+            "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+            "summary_kr": "본 기사는 NVIDIA NeMo Agent Toolkit 기반의 멀티 에이전트 시스템인 'AI-Q 2.0'을 Oracle Cloud Infrastructure(OCI) 환경에 배포하는 실용적인 가이드를 제공합니다. 테라폼과 헬름을 활용해 프로덕션 수준의 확장 가능한 AI 에이전트 인프라를 효율적으로 구축하는 방법을 설명합니다.",
+            "summary_en": "This article provides a practical guide for deploying the NVIDIA NeMo Agent Toolkit-based 'AI-Q 2.0' multi-agent system on Oracle Cloud Infrastructure (OCI). It demonstrates how to leverage Terraform and Helm to efficiently provision a production-ready and scalable AI agent infrastructure.",
+            "link": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1782489635000,
@@ -891,15 +900,6 @@
             "summary_kr": "NVIDIA DGX Spark의 엔터프라이즈 관리 기능은 표준 IT 도구와 원활하게 통합되는 에이전트리스 프레임워크를 통해 AI 인프라의 도입부터 폐기까지 전 과정에 걸친 효율적인 운영 관리와 보안을 지원합니다.",
             "summary_en": "NVIDIA DGX Spark’s Enterprise Manageability provides a modular, agentless framework that integrates with standard IT tools to enable end-to-end lifecycle management, secure provisioning, and observability for AI infrastructure at scale.",
             "link": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781029672000,
-            "date": "2026-06-09",
-            "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT",
-            "summary_kr": "본 기사는 FP8로 양자화된 CLIP 모델을 ONNX로 변환하고 NVIDIA TensorRT 엔진으로 컴파일하여 추론 성능과 효율성을 극대화하는 실무 과정을 설명합니다.",
-            "summary_en": "This article outlines the practical workflow for converting FP8-quantized CLIP checkpoints into NVIDIA TensorRT engines, enabling significant improvements in inference speed and GPU utilization.",
-            "link": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt"
         }
     ]
 }

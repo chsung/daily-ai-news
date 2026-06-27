@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-06-26 17:27:56",
+    "last_update": "2026-06-27 16:53:20",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781029672000,
+            "date": "2026-06-09",
+            "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT",
+            "summary_kr": "본 기사는 FP8로 양자화된 CLIP 모델을 ONNX로 변환하고 NVIDIA TensorRT 엔진으로 컴파일하여 추론 성능과 효율성을 극대화하는 실무 과정을 설명합니다.",
+            "summary_en": "This article outlines the practical workflow for converting FP8-quantized CLIP checkpoints into NVIDIA TensorRT engines, enabling significant improvements in inference speed and GPU utilization.",
+            "link": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1781028148000,
@@ -890,15 +899,6 @@
             "summary_kr": "NVIDIA가 공개한 'CompileIQ'는 진화 알고리즘을 활용해 특정 워크로드에 최적화된 컴파일러 설정을 자동으로 찾아줌으로써 GPU 성능을 극대화하는 AI 기반 컴파일러 튜닝 프레임워크입니다.",
             "summary_en": "NVIDIA's new 'CompileIQ' is an AI-powered framework that utilizes evolutionary algorithms to automatically discover workload-specific compiler configurations, enabling the extraction of maximum GPU performance.",
             "link": "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779831616000,
-            "date": "2026-05-27",
-            "title": "Develop High&#x2d;Performance GPU Kernels in C++ with NVIDIA CUDA Tile",
-            "summary_kr": "NVIDIA가 CUDA 13.3을 통해 C++ 기반의 'CUDA Tile' 프로그래밍을 지원하며, 복잡한 저수준 최적화 없이도 타일 단위의 추상화를 통해 효율적인 GPU 커널 개발이 가능해졌습니다.",
-            "summary_en": "NVIDIA has introduced C++ support for 'CUDA Tile' in CUDA 13.3, enabling developers to build highly optimized GPU kernels through tile-based abstractions without manual low-level hardware management.",
-            "link": "https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile"
         }
     ]
 }
