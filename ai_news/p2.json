@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-27 16:10:56",
+    "last_update": "2026-06-28 07:06:29",
     "articles": [
+        {
+            "title": "Confidential submission of draft S-1 to the SEC - OpenAI",
+            "summary_en": "OpenAI has confidentially submitted a draft S-1 registration statement to the SEC, marking an initial step toward a potential public offering. While the company has not finalized its IPO timeline, it stated that filing now provides the flexibility to transition to public markets when deemed strategically advantageous.",
+            "link": "https://openai.com/index/openai-submits-confidential-s-1",
+            "timestamp": 1780953598000,
+            "date": "2026-06-08"
+        },
+        {
+            "title": "WWDC26: Apple unveils next generation of Apple Intelligence, Siri AI, powerful parental controls, and an expansive set of software improvements - Apple",
+            "summary_en": "At WWDC26, Apple introduced the next generation of Apple Intelligence and a significantly upgraded Siri AI capable of cross-app actions and deep personal context understanding. The release also debuts enhanced parental controls, allowing for granular digital safety management and age-appropriate app restrictions across the Apple ecosystem.",
+            "link": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
+            "timestamp": 1780942967000,
+            "date": "2026-06-08"
+        },
+        {
+            "title": "Apple Intelligence brings powerful AI capabilities into everyday experiences - Apple",
+            "summary_en": "Apple is rolling out new AI-powered tools across its platforms, including a dedicated Siri AI app and advanced image editing features like Spatial Reframing in Photos. These updates, which feature hidden SynthID watermarking for AI-edited content, will be available to developers immediately and to the public this fall.",
+            "link": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences",
+            "timestamp": 1780942967000,
+            "date": "2026-06-08"
+        },
         {
             "title": "Naver, Nvidia Agree to Joint Development of Hyperscale AI Factories - thelec.net",
             "summary_en": "Naver and Nvidia have partnered to develop gigawatt-scale hyperscale AI factories, beginning with the expansion of Naver's 'Gak Sejong' data center. The collaboration aims to build sovereign AI infrastructure globally while jointly developing spatial intelligence technologies, including a 'Seoul World Model' based on Nvidia's Cosmos.",
@@ -649,24 +670,6 @@
             "link": "https://openai.com/index/advancing-content-provenance/",
             "summary_en": "OpenAI is prioritizing the advancement of content provenance and digital watermarking technologies to foster greater transparency and safety within the rapidly evolving AI ecosystem.",
             "timestamp": 1779212771000
-        },
-        {
-            "title": "EY and Microsoft to invest over $1bn in enterprise AI transformation - International Accounting Bulletin",
-            "link": "https://www.internationalaccountingbulletin.com/news/ey-and-microsoft-to-invest-over-1bn-in-enterprise-ai-transformation/",
-            "summary_en": "EY and Microsoft have entered a five-year, $1 billion partnership to accelerate enterprise-wide AI transformation by deploying integrated teams and scaling Microsoft's 'agentic AI' tools to improve productivity and business processes.",
-            "timestamp": 1779465593000
-        },
-        {
-            "title": "Google Unveils Android XR Smart Glasses, Powered by Gemini AI - Campus Technology",
-            "link": "https://campustechnology.com/articles/2026/05/22/google-unveils-android-xr-smart-glasses-powered-by-gemini-ai.aspx?admgarea=news",
-            "summary_en": "Google has launched Android XR smart glasses in collaboration with Samsung and eyewear brands like Warby Parker, focusing on Gemini-powered conversational AI for daily tasks rather than traditional augmented reality displays.",
-            "timestamp": 1779468974000
-        },
-        {
-            "title": "Trump cancels AI executive order over concerns of slowing U.S. tech innovation - Fast Company",
-            "link": "https://www.fastcompany.com/91546771/trump-ai-executive-order",
-            "summary_en": "Donald Trump has canceled an executive order regarding AI, citing concerns that such regulations could hinder American technological innovation.",
-            "timestamp": 1779419190000
         }
     ]
 }

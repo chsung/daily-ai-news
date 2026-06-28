@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-06-27 16:10:56",
+    "last_update": "2026-06-28 07:06:29",
     "articles": [
+        {
+            "title": "EY and Microsoft to invest over $1bn in enterprise AI transformation - International Accounting Bulletin",
+            "link": "https://www.internationalaccountingbulletin.com/news/ey-and-microsoft-to-invest-over-1bn-in-enterprise-ai-transformation/",
+            "summary_en": "EY and Microsoft have entered a five-year, $1 billion partnership to accelerate enterprise-wide AI transformation by deploying integrated teams and scaling Microsoft's 'agentic AI' tools to improve productivity and business processes.",
+            "timestamp": 1779465593000
+        },
+        {
+            "title": "Google Unveils Android XR Smart Glasses, Powered by Gemini AI - Campus Technology",
+            "link": "https://campustechnology.com/articles/2026/05/22/google-unveils-android-xr-smart-glasses-powered-by-gemini-ai.aspx?admgarea=news",
+            "summary_en": "Google has launched Android XR smart glasses in collaboration with Samsung and eyewear brands like Warby Parker, focusing on Gemini-powered conversational AI for daily tasks rather than traditional augmented reality displays.",
+            "timestamp": 1779468974000
+        },
+        {
+            "title": "Trump cancels AI executive order over concerns of slowing U.S. tech innovation - Fast Company",
+            "link": "https://www.fastcompany.com/91546771/trump-ai-executive-order",
+            "summary_en": "Donald Trump has canceled an executive order regarding AI, citing concerns that such regulations could hinder American technological innovation.",
+            "timestamp": 1779419190000
+        },
         {
             "title": "Nvidia’s Two-Track Data Center Strategy Targets Hyperscalers, Enterprise AI Factories - crn.com",
             "link": "https://www.crn.com/news/ai/2026/nvidia-s-two-track-data-center-strategy-targets-hyperscalers-enterprise-ai-factories",
@@ -582,24 +600,6 @@
             "link": "https://www.msn.com/en-us/news/technology/ios-27-will-let-you-choose-third-party-ai-models-to-power-apple-intelligence-report-says/ar-AA22zTnc?gemSnapshotKey=GME94419F5-snapshot-4&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
             "summary_en": "A report indicates that the upcoming iOS 27 update will allow users to select third-party AI models to run Apple Intelligence services.",
             "timestamp": 1778405991000
-        },
-        {
-            "title": "Microsoft, Google and xAI will let the government test their AI models before launch - WLFI News 18",
-            "link": "https://www.wlfi.com/news/microsoft-google-and-xai-will-let-the-government-test-their-ai-models-before-launch/article_6e5158dd-fb4f-5b1f-a723-c957d7c904dd.html",
-            "summary_en": "Major tech companies like Google, Microsoft, and xAI will allow the U.S. government to test their new AI models before release to ensure they do not pose security risks.",
-            "timestamp": 1778362380000
-        },
-        {
-            "title": "Microsoft may shelve clean energy target amid AI power use: Report | 'No final decisions have been made' | Inshorts - Inshorts",
-            "link": "https://inshorts.com/en/news/microsoft-may-shelve-clean-energy-target-amid-ai-power-use--report-1778412022882",
-            "summary_en": "Microsoft is reportedly considering delaying its clean energy goals because the high power demands of artificial intelligence are making it difficult to reach those targets.",
-            "timestamp": 1778418292000
-        },
-        {
-            "title": "Anthropic inks $200B Google Cloud, chip pact - report - MSN",
-            "link": "https://www.msn.com/en-us/news/technology/anthropic-inks-200b-google-cloud-chip-pact-report/ar-AA22uhpY?gemSnapshotKey=GM866A146F-snapshot-3&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "Anthropic has reportedly signed a $200 billion deal with Google Cloud to use its services and chips for AI development.",
-            "timestamp": 1778376073000
         }
     ]
 }
