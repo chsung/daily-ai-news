@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-28 07:06:29",
+    "last_update": "2026-06-28 16:17:31",
     "articles": [
+        {
+            "title": "Gemini 3.5: frontier intelligence with action - blog.google",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+            "summary_en": "Google has introduced Gemini 3.5 Flash, an agent-focused model that delivers frontier-level coding and reasoning performance at four times the speed and half the cost of previous iterations. Integrated with the new 'Antigravity' platform, the model is designed to automate complex, multi-step workflows for developers and enterprise applications.",
+            "timestamp": 1779213035000
+        },
+        {
+            "title": "Advancing content provenance for a safer, more transparent AI ecosystem - OpenAI",
+            "link": "https://openai.com/index/advancing-content-provenance/",
+            "summary_en": "OpenAI is prioritizing the advancement of content provenance and digital watermarking technologies to foster greater transparency and safety within the rapidly evolving AI ecosystem.",
+            "timestamp": 1779212771000
+        },
         {
             "title": "EY and Microsoft to invest over $1bn in enterprise AI transformation - International Accounting Bulletin",
             "link": "https://www.internationalaccountingbulletin.com/news/ey-and-microsoft-to-invest-over-1bn-in-enterprise-ai-transformation/",
@@ -588,18 +600,6 @@
             "link": "https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/",
             "summary_en": "Recent tests show that advanced AI models like Claude Mythos can now perform complex security tasks faster than human experts, prompting warnings about the risks of autonomous AI attackers.",
             "timestamp": 1778405289000
-        },
-        {
-            "title": "Wall Street giants back Anthropic’s plan to sell AI to companies - MSN",
-            "link": "https://www.msn.com/en-in/money/topstories/wall-street-giants-back-anthropic-s-plan-to-sell-ai-to-companies/ar-AA22kniI",
-            "summary_en": "Major Wall Street financial firms are supporting Anthropic's initiative to integrate its advanced AI technology into corporate business operations.",
-            "timestamp": 1778400909000
-        },
-        {
-            "title": "iOS 27 will let you choose third-party AI models to power Apple Intelligence, report says - MSN",
-            "link": "https://www.msn.com/en-us/news/technology/ios-27-will-let-you-choose-third-party-ai-models-to-power-apple-intelligence-report-says/ar-AA22zTnc?gemSnapshotKey=GME94419F5-snapshot-4&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "A report indicates that the upcoming iOS 27 update will allow users to select third-party AI models to run Apple Intelligence services.",
-            "timestamp": 1778405991000
         }
     ]
 }

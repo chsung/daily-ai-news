@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-28 07:06:29",
+    "last_update": "2026-06-28 16:17:31",
     "articles": [
+        {
+            "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies - CNBC",
+            "summary_en": "The U.S. government has granted Anthropic limited permission to deploy its Mythos 5 model to approximately 100 federal agencies and corporate partners. This decision marks a partial breakthrough in the ongoing standoff between Anthropic and the administration, although access to the company's Fable 5 model remains suspended due to national security concerns.",
+            "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+            "timestamp": 1782514752000,
+            "date": "2026-06-26"
+        },
+        {
+            "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them - WIRED",
+            "summary_en": "OpenAI is delaying the public release of its new GPT-5.6 models—Sol, Terra, and Luna—to comply with a Trump administration mandate requiring government pre-approval of initial users. While OpenAI views this as a temporary measure to ensure future availability, the lack of an established regulatory framework has created significant uncertainty regarding the government's role in AI product launches.",
+            "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval",
+            "timestamp": 1782493500000,
+            "date": "2026-06-26"
+        },
         {
             "title": "Tech industry grapples with Trump’s AI about-faces - Politico",
             "summary_en": "The technology industry is currently navigating significant uncertainty as it anticipates potential shifts in artificial intelligence policy under a Trump administration.",
@@ -685,20 +699,6 @@
             "summary_en": "Google has launched Gemini 3.5 Live Translate, an audio model capable of continuous, real-time speech-to-speech translation across more than 70 languages. By processing streaming audio to mimic the speaker's original intonation and pacing, the model aims to eliminate latency in multilingual meetings and consumer-facing applications.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate",
             "timestamp": 1781018110000,
-            "date": "2026-06-09"
-        },
-        {
-            "title": "OpenAI Joins Anthropic in Call for International AI Watchdog - Gizmodo",
-            "summary_en": "OpenAI has officially joined Anthropic in advocating for the establishment of an international AI regulatory body. This move reflects a growing industry consensus among leading AI labs on the necessity for global oversight to address the safety and societal risks of advanced artificial intelligence.",
-            "link": "https://gizmodo.com/openai-joins-anthropic-in-call-for-international-ai-watchdog-2000769442",
-            "timestamp": 1781019629000,
-            "date": "2026-06-09"
-        },
-        {
-            "title": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
-            "summary_en": "Anthropic has launched Claude Fable 5, a state-of-the-art model offering superior performance in software engineering and scientific research at half the cost of its predecessor. Alongside it, the company introduced Mythos 5, a version with reduced safeguards available to select cyberdefenders and infrastructure providers via Project Glasswing.",
-            "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-            "timestamp": 1781024922000,
             "date": "2026-06-09"
         }
     ]
