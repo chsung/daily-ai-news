@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-06-27 16:53:20",
+    "last_update": "2026-06-29 18:02:11",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782748213000,
+            "date": "2026-06-29",
+            "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+            "summary_kr": "엔비디아는 기업 환경에서 자율형 AI 에이전트를 안전하게 운영하기 위해 실행 환경을 중앙 관리형 워크스페이스로 분리하고, 네트워크 통제와 실시간 런타임 보안을 적용하는 표준 아키텍처를 제시합니다.",
+            "summary_en": "NVIDIA introduces a secure reference design that shifts autonomous agent execution into managed, isolated workspaces, enforcing robust network controls and runtime governance to enable safe, scalable enterprise AI operations.",
+            "link": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782716400000,
+            "date": "2026-06-29",
+            "title": "Mapping Europe’s AI Workforce Opportunity",
+            "summary_kr": "OpenAI의 새로운 보고서는 유럽의 고용 구조가 미국보다 자동화 영향에 덜 민감하다는 점을 지적하며, AI 도입에 따른 노동 시장의 변화와 기회를 예측하기 위한 직무 전환 프레임워크를 제시합니다.",
+            "summary_en": "OpenAI’s new report introduces an AI Jobs Transition Framework for the EU, highlighting that Europe’s occupational structure is less susceptible to immediate automation than the U.S. and providing a strategic map for navigating AI-driven labor market shifts.",
+            "link": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1782691200000,
+            "date": "2026-06-29",
+            "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+            "summary_kr": "Brain2Qwerty v2는 비침습적 뇌 신호를 실시간 문장으로 해독하는 AI 기술로, 수술 없이도 기존 침습적 방식에 근접한 높은 정확도를 구현하며 뇌 과학 연구를 위한 오픈 소스로 공개되었습니다.",
+            "summary_en": "Brain2Qwerty v2 is an AI-powered, non-invasive system that decodes real-time brain signals into text with accuracy levels approaching surgical methods, now available as open-source to accelerate neuroscience innovation.",
+            "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782666000000,
+            "date": "2026-06-28",
+            "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+            "summary_kr": "HP는 OpenAI와의 'Frontier' 전략적 파트너십을 전사적으로 확대하여 고객 경험 개선, 업무 생산성 향상 및 소프트웨어 개발 가속화를 위한 AI 통합 운영 모델을 구축합니다.",
+            "summary_en": "HP is scaling its 'Frontier' strategic partnership with OpenAI to integrate AI across its enterprise, aiming to enhance customer experiences, boost employee productivity, and accelerate operational transformation.",
+            "link": "https://openai.com/index/hp-frontier-partnership"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1782500445000,
@@ -864,42 +900,6 @@
             "summary_kr": "AI 공장의 전력 수요가 급증함에 따라, 배터리 에너지 저장 시스템(BESS)은 단순한 예비 전원을 넘어 전력 품질을 제어하고 계통 연결을 최적화하는 핵심적인 생산 인프라로 자리 잡고 있습니다.",
             "summary_en": "As AI factories scale, Battery Energy Storage Systems (BESS) are evolving from simple backups into essential infrastructure that ensures power stability, optimizes grid interconnection, and manages high-density, rapidly fluctuating compute loads.",
             "link": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781100476000,
-            "date": "2026-06-10",
-            "title": "AI, jobs, and the next generation",
-            "summary_kr": "최근 대학 졸업생들의 AI에 대한 반감은 기술 효율성보다 인간의 주체성과 노동의 가치를 중시하는 차세대 노동력의 의지를 보여줍니다. 기술 업계는 혁신을 추진함에 있어 인간의 선택권과 사회적 합의를 우선시해야 한다는 강력한 경고를 직시해야 합니다.",
-            "summary_en": "The recent backlash against AI among college graduates highlights that the next generation prioritizes human agency and the dignity of work over mere technological efficiency. Tech leaders must heed this signal, ensuring that human choice and broad social consensus remain central to the future of AI development.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/06/10/ai-jobs-and-the-next-generation"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781049600000,
-            "date": "2026-06-10",
-            "title": "From data to decisions: how LSEG is scaling trusted AI",
-            "summary_kr": "런던증권거래소그룹(LSEG)은 오픈AI와의 협력을 통해 자사의 신뢰도 높은 금융 데이터를 생성형 AI와 결합함으로써, 제품 출시 주기를 대폭 단축하고 전사적 운영 효율성을 혁신했습니다.",
-            "summary_en": "LSEG has transformed its operations by integrating OpenAI’s generative AI with its trusted financial data, significantly accelerating product release cycles and enhancing enterprise-wide productivity.",
-            "link": "https://openai.com/index/lseg"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781049600000,
-            "date": "2026-06-10",
-            "title": "Bringing real-time market sentiment to Tori, from eToro",
-            "summary_kr": "이토로(eToro)가 자사의 AI 에이전트 '토리'에 xAI의 실시간 모델을 통합하여, 사용자가 X(구 트위터)의 시장 심리를 즉각적으로 분석하고 투자에 활용할 수 있게 했습니다.",
-            "summary_en": "eToro has integrated xAI’s real-time models into its AI agent, Tori, enabling users to analyze live market sentiment from X directly within their investment workflow.",
-            "link": "https://x.ai/news/grok-etoro"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781031600000,
-            "date": "2026-06-09",
-            "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
-            "summary_kr": "NVIDIA DGX Spark의 엔터프라이즈 관리 기능은 표준 IT 도구와 원활하게 통합되는 에이전트리스 프레임워크를 통해 AI 인프라의 도입부터 폐기까지 전 과정에 걸친 효율적인 운영 관리와 보안을 지원합니다.",
-            "summary_en": "NVIDIA DGX Spark’s Enterprise Manageability provides a modular, agentless framework that integrates with standard IT tools to enable end-to-end lifecycle management, secure provisioning, and observability for AI infrastructure at scale.",
-            "link": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability"
         }
     ]
 }
