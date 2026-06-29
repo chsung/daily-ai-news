@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-29 08:20:59",
+    "last_update": "2026-06-29 17:44:16",
     "articles": [
+        {
+            "title": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians | Governor of California - California State Portal | CA.gov",
+            "summary_en": "California has partnered with Anthropic to provide state agencies, cities, and counties with access to the Claude AI assistant at a 50% discount. The initiative includes free workforce training and technical support to improve government efficiency in areas like document analysis, cyber defense, and customer service.",
+            "link": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians",
+            "timestamp": 1782741697000,
+            "date": "2026-06-29"
+        },
+        {
+            "title": "AWS builds new partner strategy around agentic AI outcomes - ChannelE2E",
+            "summary_en": "AWS has launched a 'Business Value Realization' (BVR) program that ties partner incentives and funding to verified customer outcomes rather than project completion milestones. This strategy reflects a broader market shift where 80% of customers now demand outcome-based commercial models to ensure AI investments deliver measurable business results.",
+            "link": "https://www.channele2e.com/news/aws-builds-new-partner-strategy-around-agentic-ai-outcomes",
+            "timestamp": 1782747545000,
+            "date": "2026-06-29"
+        },
         {
             "title": "AI agents that provide ‘economic value’ are next frontier, says Meta AI research chief - South China Morning Post",
             "summary_en": "Meta’s new AI research lead, Dawn Song, aims to shift the industry focus toward building AI agents capable of performing economically valuable, real-world tasks. This effort is supported by UC Berkeley’s new ‘Agents’ Last Exam’ benchmark, which evaluates agent performance across over 1,500 complex tasks in 55 different industries.",
@@ -686,20 +700,6 @@
             "link": "https://news.cornell.edu/stories/2026/06/amazon-partnership-establishes-cornell-ai-security-initiative",
             "timestamp": 1781103963000,
             "date": "2026-06-10"
-        },
-        {
-            "title": "Microsoft Hardware Pushes More AI Development and Execution to the Edge - Cloud Wars",
-            "summary_en": "Microsoft is advancing 'unmetered intelligence' by launching purpose-built hardware like the Surface RTX Spark Dev Box and Project Solara reference designs. These initiatives enable developers to run powerful agentic AI models locally at the edge, reducing cloud dependency and enabling seamless AI workflows across multiple devices.",
-            "link": "https://cloudwars.com/ai/microsoft-hardware-pushes-more-ai-development-and-execution-to-the-edge",
-            "timestamp": 1781018611000,
-            "date": "2026-06-09"
-        },
-        {
-            "title": "SK Telecom and NVIDIA Build AI Infrastructure to Power Korea’s AI Innovation - NVIDIA Newsroom",
-            "summary_en": "SK Telecom plans to build a gigawatt-scale AI Cloud in South Korea by 2027 using NVIDIA’s DSX platform to advance sovereign, agentic, and physical AI infrastructure. This collaboration aims to optimize AI manufacturing efficiency, positioning SK Group as a key player in the Asian AI factory ecosystem.",
-            "link": "https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure",
-            "timestamp": 1780873463000,
-            "date": "2026-06-07"
         }
     ]
 }

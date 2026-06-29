@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-29 08:20:59",
+    "last_update": "2026-06-29 17:44:16",
     "articles": [
+        {
+            "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web - Decrypt",
+            "summary_en": "Microsoft’s new open-weight model family, Fara1.5, outperformed OpenAI’s Operator and Google’s Gemini 2.5 on key web-browsing benchmarks, scoring 72% on the Online-Mind2Web test. Developed using OpenAI’s GPT-5.4 as a 'teacher' to generate training data, the model demonstrates high proficiency in autonomous agentic tasks.",
+            "link": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
+            "timestamp": 1779481863000
+        },
+        {
+            "title": "Co-Scientist: A multi-agent AI partner to accelerate research - Google DeepMind",
+            "summary_en": "Google DeepMind has introduced Co-Scientist, a multi-agent AI framework designed to accelerate scientific research and innovation. The project features a broad, multidisciplinary team of researchers and technical contributors aimed at leveraging AI to advance experimental discovery.",
+            "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+            "timestamp": 1779213866000
+        },
         {
             "title": "Nvidia to launch Singapore research hub as city-state boosts AI plans - CNBC",
             "summary_en": "Nvidia is establishing its first research hub in Singapore to focus on advancing embodied AI and improving the efficiency of AI infrastructure. The facility will collaborate with local government and industry partners to test AI-driven robotics for logistics, security, and cleaning services.",
@@ -588,18 +600,6 @@
             "link": "https://openai.com/index/introducing-b2b-signals/",
             "summary_en": "OpenAI research shows that leading companies are gaining a competitive edge by deeply integrating complex, agent-based AI workflows into their daily operations.",
             "timestamp": 1778039230000
-        },
-        {
-            "title": "Behind the Curtain: Intelligence explosion - Axios",
-            "link": "https://www.axios.com/2026/05/07/anthropic-jack-clark-ai-intelligence-explosion",
-            "summary_en": "This article discusses the concept and implications of an intelligence explosion in artificial intelligence.",
-            "timestamp": 1778175481000
-        },
-        {
-            "title": "Anthropic Found AI Makes Impractical Work Worth Doing - PYMNTS.com",
-            "link": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-found-ai-makes-impractical-work-worth-doing/",
-            "summary_en": "Anthropic discovered that artificial intelligence can make previously impractical or difficult tasks worth pursuing.",
-            "timestamp": 1778271413000
         }
     ]
 }
