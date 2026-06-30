@@ -1,6 +1,114 @@
 {
-    "last_update": "2026-06-29 18:02:11",
+    "last_update": "2026-06-30 17:47:02",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782841003000,
+            "date": "2026-06-30",
+            "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+            "summary_kr": "NVIDIA GQE는 HBM, NVLink-C2C 등 최신 하드웨어 가속 기술을 활용하여 GPU 쿼리 엔진의 메모리 및 I/O 병목 현상을 해소하고 데이터 처리 성능을 극대화합니다.",
+            "summary_en": "NVIDIA GQE leverages advanced hardware technologies like HBM and NVLink-C2C to eliminate memory and I/O bottlenecks, significantly boosting query engine performance.",
+            "link": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782840708000,
+            "date": "2026-06-30",
+            "title": "Securing AI agents: When AI tools move from reading to acting | Microsoft Security Blog",
+            "summary_kr": "기업용 AI 에이전트가 단순 정보 분석에서 실행 단계로 진화함에 따라, 모델 컨텍스트 프로토콜(MCP) 도구의 메타데이터를 악용한 새로운 공급망 공격 패턴이 등장하고 있어 철저한 보안 통제가 필수적입니다.",
+            "summary_en": "As enterprise AI agents evolve from passive analysis to active execution, the emergence of supply chain attacks targeting poisoned Model Context Protocol (MCP) metadata necessitates robust security detection and containment measures.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782838202000,
+            "date": "2026-06-30",
+            "title": "SkillOpt turns AI agent skills into trainable assets",
+            "summary_kr": "SkillOpt는 AI 에이전트의 기술(Skill)을 모델 가중치 수정 없이 학습 가능한 매개변수로 전환하여, 검증 가능한 방식으로 성능을 안정적으로 최적화하는 새로운 프레임워크입니다.",
+            "summary_en": "SkillOpt is a novel framework that optimizes AI agent performance by treating skills as trainable parameters, enabling reliable and auditable improvements without modifying model weights.",
+            "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1782835200000,
+            "date": "2026-06-30",
+            "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+            "summary_kr": "구글이 고속·저비용 이미지 생성을 지원하는 'Nano Banana 2 Lite'와 고성능 비디오 편집 및 생성 모델인 'Gemini Omni Flash'를 개발자 플랫폼에 출시했습니다.",
+            "summary_en": "Google has launched 'Nano Banana 2 Lite' for high-speed, cost-efficient image generation and 'Gemini Omni Flash' for advanced video creation and editing across its developer platforms.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782835200000,
+            "date": "2026-06-30",
+            "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
+            "summary_kr": "NVIDIA Omniverse NuRec은 자율주행 및 로봇 공학을 위한 고충실도 3D 환경 재구성 파이프라인으로, NVIDIA Nsight 툴킷을 활용해 병목 현상을 식별하고 최적화함으로써 성능을 극대화합니다.",
+            "summary_en": "NVIDIA Omniverse NuRec is a high-fidelity 3D reconstruction pipeline for autonomous systems that leverages NVIDIA Nsight Developer Tools to identify bottlenecks and optimize performance for faster, more efficient simulations.",
+            "link": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782810000000,
+            "date": "2026-06-30",
+            "title": "How ChatGPT adoption has expanded",
+            "summary_kr": "ChatGPT는 전 세계적으로 사용자 기반이 다변화되고 사용 빈도와 활용 범위가 심화되면서, 업무와 일상의 핵심 도구로 빠르게 자리 잡고 있습니다.",
+            "summary_en": "ChatGPT is rapidly becoming an essential tool for work and daily life as its global user base diversifies and usage deepens in frequency and functional scope.",
+            "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1782777600000,
+            "date": "2026-06-30",
+            "title": "Claude Science, an AI workbench for scientists",
+            "summary_kr": "Claude Science는 파편화된 과학 연구 도구들을 통합하여 데이터 분석부터 논문 작성까지 전 과정을 지원하고, 검증 가능한 연구 결과를 생성하는 AI 연구 워크벤치입니다.",
+            "summary_en": "Claude Science is an AI workbench that integrates fragmented research tools into a unified environment, enabling scientists to conduct, validate, and scale their work from data analysis to publication-ready manuscripts.",
+            "link": "https://www.anthropic.com/news/claude-science-ai-workbench"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782777600000,
+            "date": "2026-06-30",
+            "title": "Introducing GeneBench-Pro",
+            "summary_kr": "GeneBench-Pro는 AI 모델이 계산 생물학 분야에서 데이터의 모호성을 해결하고 복잡한 분석 과정을 거쳐 올바른 판단을 내리는 능력을 측정하기 위한 고난도 벤치마크입니다. 합성 데이터를 기반으로 설계되어 단순한 사실 암기가 아닌 실제 연구 수준의 분석적 사고와 의사결정 역량을 정밀하게 평가합니다.",
+            "summary_en": "GeneBench-Pro is a research-level benchmark designed to evaluate an AI's ability to navigate ambiguity and make consequential judgments in computational biology. By utilizing synthetic datasets with known causal structures, it rigorously assesses high-level analytical reasoning and iterative decision-making rather than simple fact retrieval.",
+            "link": "https://openai.com/index/introducing-genebench-pro"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782777600000,
+            "date": "2026-06-30",
+            "title": "Core dump epidemiology: fixing an 18-year-old bug",
+            "summary_kr": "OpenAI는 대규모 데이터 인프라에서 발생한 원인 불명의 C++ 충돌 문제를 해결하기 위해, 방대한 코어 덤프 데이터를 역학 조사 방식으로 분석하여 하드웨어 결함과 18년 묵은 오픈소스 라이브러리의 버그를 찾아냈습니다.",
+            "summary_en": "OpenAI resolved inexplicable C++ infrastructure crashes by applying epidemiological analysis to large-scale core dump data, ultimately identifying a silent hardware failure and an 18-year-old race condition in the GNU libunwind library.",
+            "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782777600000,
+            "date": "2026-06-30",
+            "title": "Inside Genebench-Pro",
+            "summary_kr": "Genebench-Pro는 임상 데이터, 유전체 정보 및 복합적인 생물학적 변수를 종합적으로 분석하여 AI의 전문적인 추론 및 의사결정 능력을 평가하는 정밀 의료 특화 벤치마크입니다.",
+            "summary_en": "Genebench-Pro is a specialized benchmark for precision medicine that evaluates an AI's professional reasoning and decision-making capabilities by requiring the integration of clinical data, genomic information, and complex biological variables.",
+            "link": "https://openai.com/index/genebench-pro/case-studies"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782757602000,
+            "date": "2026-06-29",
+            "title": "Small and medium businesses aren't waiting for an AI invitation—they're already leading | The Microsoft Cloud Blog",
+            "summary_kr": "전 세계 경제의 중추인 중소기업(SMB)들이 AI를 단순 생산성 도구를 넘어 업무 프로세스 전반에 내재화하며 혁신적인 운영 모델을 구축하고 경쟁 우위를 선점하고 있습니다.",
+            "summary_en": "Small and medium businesses are driving a structural shift by embedding AI into their core workflows, transforming it from a productivity tool into a catalyst for innovation and sustainable competitive advantage.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782757230000,
+            "date": "2026-06-29",
+            "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum | The Microsoft Cloud Blog",
+            "summary_kr": "AI 에이전트의 발전은 단순한 속도 경쟁을 넘어 인간의 신뢰를 확보하는 것이 핵심이며, 2026 에이전트 신뢰 지수는 실무 전문가들이 반복적이고 소모적인 업무를 자동화하는 과정에서 에이전트의 실질적인 가치를 어떻게 검증하고 있는지 보여줍니다.",
+            "summary_en": "The future of AI agents hinges on establishing trust to enable effective delegation, as evidenced by the 2026 Agent Confidence Index which highlights how technical leaders are successfully offloading repetitive, high-toil tasks to intelligent systems.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1782748213000,
@@ -792,114 +900,6 @@
             "summary_kr": "앤스로픽은 1억 5천만 달러를 투자해 1,000명의 청년 인재가 비영리 단체에서 AI 실무를 수행하며 기술을 전파하는 '클로드 코어(Claude Corps)' 펠로우십 프로그램을 출범합니다.",
             "summary_en": "Anthropic is launching 'Claude Corps,' a $150 million fellowship program that trains 1,000 young professionals to deploy AI solutions within US nonprofits, bridging the gap between technological advancement and social impact.",
             "link": "https://www.anthropic.com/news/claude-corps"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781136000000,
-            "date": "2026-06-11",
-            "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-            "summary_kr": "DXC 테크놀로지는 앤스로픽과 협력하여 자사 AI 플랫폼 'OASIS' 및 핵심 IT 서비스에 클로드(Claude)를 도입하고, 규제 산업 고객을 위한 전문 엔지니어링 생태계를 구축합니다.",
-            "summary_en": "DXC Technology is partnering with Anthropic to integrate Claude into its AI-native platform 'OASIS' and core IT services, while deploying a specialized team of certified engineers to drive AI transformation for highly regulated industries.",
-            "link": "https://www.anthropic.com/news/dxc-anthropic-alliance"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781136000000,
-            "date": "2026-06-11",
-            "title": "OpenAI to acquire Ona",
-            "summary_kr": "OpenAI는 보안 클라우드 실행 기술을 보유한 Ona를 인수하여, AI 에이전트가 고객의 클라우드 환경에서 지속적이고 안전하게 작업을 수행할 수 있도록 Codex 생태계를 확장합니다.",
-            "summary_en": "OpenAI is acquiring Ona to integrate its secure cloud execution technology, enabling AI agents to perform persistent, enterprise-grade work within customer-controlled environments through the Codex ecosystem.",
-            "link": "https://openai.com/index/openai-to-acquire-ona"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781136000000,
-            "date": "2026-06-11",
-            "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-            "summary_kr": "OpenAI는 EU의 AI 생성 콘텐츠 투명성 실천 강령을 지지하며, C2PA 메타데이터와 워터마킹 등 다층적 기술을 통해 신뢰할 수 있는 디지털 생태계 구축에 앞장서겠다고 밝혔습니다.",
-            "summary_en": "OpenAI has pledged its support for the EU Code of Practice on Transparency of AI-generated content, reinforcing its commitment to building a trustworthy ecosystem through multi-layered provenance standards like C2PA and watermarking.",
-            "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781136000000,
-            "date": "2026-06-11",
-            "title": "How an astrophysicist uses Codex to help simulate black holes",
-            "summary_kr": "천체물리학자 치콴 찬은 OpenAI의 Codex를 활용해 블랙홀 주변의 복잡한 플라즈마 입자 운동을 정밀하게 모의실험할 수 있는 새로운 알고리즘을 개발하고 있습니다.",
-            "summary_en": "Astrophysicist Chi-kwan Chan is leveraging OpenAI's Codex to accelerate the development of innovative algorithms that accurately simulate complex plasma particle dynamics around black holes.",
-            "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781136000000,
-            "date": "2026-06-11",
-            "title": "BBVA puts AI at the core of banking with OpenAI",
-            "summary_kr": "BBVA는 OpenAI와의 전략적 파트너십을 통해 고객 경험부터 내부 운영까지 은행 전반의 프로세스를 AI 중심으로 재설계하며, 10만 명 이상의 직원이 업무 효율성을 획기적으로 개선하고 있습니다.",
-            "summary_en": "BBVA is partnering with OpenAI to integrate AI across its entire banking operations, achieving significant efficiency gains and transforming customer experience through the large-scale adoption of ChatGPT Enterprise.",
-            "link": "https://openai.com/index/bbva"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781136000000,
-            "date": "2026-06-11",
-            "title": "Grok Build Plugin Marketplace",
-            "summary_kr": "Grok Build가 터미널 환경 내에서 손쉽게 기능을 확장할 수 있는 통합 플러그인 마켓플레이스를 출시했습니다.",
-            "summary_en": "Grok Build has launched an integrated plugin marketplace, enabling users to easily browse, install, and manage extensions directly within their terminal.",
-            "link": "https://x.ai/news/grok-plugin-marketplace"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781121600000,
-            "date": "2026-06-10",
-            "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-            "summary_kr": "오라클과 OpenAI의 협업을 통해 오라클 클라우드 고객들은 기존의 구매 약정 및 예산을 활용하여 OpenAI의 최신 AI 모델을 손쉽게 도입할 수 있게 되었습니다.",
-            "summary_en": "Oracle and OpenAI have partnered to allow OCI customers to access advanced AI models using their existing cloud commitments, streamlining enterprise AI adoption.",
-            "link": "https://openai.com/index/openai-on-oracle-cloud"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781118771000,
-            "date": "2026-06-10",
-            "title": "Allie K. Miller: Find your âweirdosââand let them lead",
-            "summary_kr": "AI 산업 전문가 앨리 K. 밀러는 조직이 혁신을 이루기 위해서는 정형화된 틀을 벗어난 사고를 장려하고, 완벽함보다는 빠른 반복을 통해 에이전트 워크플로우와 같은 파격적인 아이디어를 실질적인 비즈니스 성과로 연결해야 한다고 강조합니다.",
-            "summary_en": "AI expert Allie K. Miller argues that organizations can drive innovation by empowering unconventional thinkers and prioritizing rapid iteration over perfection to turn edge ideas into tangible business impact.",
-            "link": "https://www.microsoft.com/en-us/worklab/podcast/allie-k-miller-find-your-weirdos-and-let-them-lead"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781117595000,
-            "date": "2026-06-10",
-            "title": "Reconstructing AI activity in investigations  | Microsoft Security Blog",
-            "summary_kr": "마이크로소프트는 기업 내 AI 활동을 체계적으로 추적하고 조사할 수 있는 'AI 조사 플레이북'을 공개하여, 분산된 원격 측정 데이터를 통합해 보안 사고를 효과적으로 분석할 수 있게 했습니다.",
-            "summary_en": "Microsoft has released an AI investigation playbook that provides a structured methodology to reconstruct AI activities, enabling security teams to transform scattered telemetry into coherent incident analysis.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781092800000,
-            "date": "2026-06-10",
-            "title": "PRC-linked influence operations are targeting AI debates in the US",
-            "summary_kr": "오픈AI는 중국과 연계된 세력이 자사의 모델을 악용하여 미국 내 AI 인프라 및 기술 정책에 대한 여론 조작을 시도한 정황을 포착하고 해당 계정들을 차단했습니다.",
-            "summary_en": "OpenAI has identified and banned China-linked influence operations that attempted to manipulate US debates on AI infrastructure and technology policy using its models.",
-            "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781108190000,
-            "date": "2026-06-10",
-            "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
-            "summary_kr": "구글 딥마인드의 DiffusionGemma는 NVIDIA GPU 환경에서 토큰을 병렬 생성하여 기존 대비 획기적인 처리량과 저지연 성능을 제공함으로써 실시간 AI 서비스의 효율성을 극대화합니다.",
-            "summary_en": "Google DeepMind's DiffusionGemma leverages parallel token generation on NVIDIA platforms to deliver high-throughput, low-latency performance, significantly optimizing real-time AI applications.",
-            "link": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781103600000,
-            "date": "2026-06-10",
-            "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories",
-            "summary_kr": "AI 공장의 전력 수요가 급증함에 따라, 배터리 에너지 저장 시스템(BESS)은 단순한 예비 전원을 넘어 전력 품질을 제어하고 계통 연결을 최적화하는 핵심적인 생산 인프라로 자리 잡고 있습니다.",
-            "summary_en": "As AI factories scale, Battery Energy Storage Systems (BESS) are evolving from simple backups into essential infrastructure that ensures power stability, optimizes grid interconnection, and manages high-density, rapidly fluctuating compute loads.",
-            "link": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories"
         }
     ]
 }

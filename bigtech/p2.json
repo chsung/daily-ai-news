@@ -1,6 +1,114 @@
 {
-    "last_update": "2026-06-29 18:02:11",
+    "last_update": "2026-06-30 17:47:02",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1781136000000,
+            "date": "2026-06-11",
+            "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+            "summary_kr": "DXC 테크놀로지는 앤스로픽과 협력하여 자사 AI 플랫폼 'OASIS' 및 핵심 IT 서비스에 클로드(Claude)를 도입하고, 규제 산업 고객을 위한 전문 엔지니어링 생태계를 구축합니다.",
+            "summary_en": "DXC Technology is partnering with Anthropic to integrate Claude into its AI-native platform 'OASIS' and core IT services, while deploying a specialized team of certified engineers to drive AI transformation for highly regulated industries.",
+            "link": "https://www.anthropic.com/news/dxc-anthropic-alliance"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781136000000,
+            "date": "2026-06-11",
+            "title": "OpenAI to acquire Ona",
+            "summary_kr": "OpenAI는 보안 클라우드 실행 기술을 보유한 Ona를 인수하여, AI 에이전트가 고객의 클라우드 환경에서 지속적이고 안전하게 작업을 수행할 수 있도록 Codex 생태계를 확장합니다.",
+            "summary_en": "OpenAI is acquiring Ona to integrate its secure cloud execution technology, enabling AI agents to perform persistent, enterprise-grade work within customer-controlled environments through the Codex ecosystem.",
+            "link": "https://openai.com/index/openai-to-acquire-ona"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781136000000,
+            "date": "2026-06-11",
+            "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+            "summary_kr": "OpenAI는 EU의 AI 생성 콘텐츠 투명성 실천 강령을 지지하며, C2PA 메타데이터와 워터마킹 등 다층적 기술을 통해 신뢰할 수 있는 디지털 생태계 구축에 앞장서겠다고 밝혔습니다.",
+            "summary_en": "OpenAI has pledged its support for the EU Code of Practice on Transparency of AI-generated content, reinforcing its commitment to building a trustworthy ecosystem through multi-layered provenance standards like C2PA and watermarking.",
+            "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781136000000,
+            "date": "2026-06-11",
+            "title": "How an astrophysicist uses Codex to help simulate black holes",
+            "summary_kr": "천체물리학자 치콴 찬은 OpenAI의 Codex를 활용해 블랙홀 주변의 복잡한 플라즈마 입자 운동을 정밀하게 모의실험할 수 있는 새로운 알고리즘을 개발하고 있습니다.",
+            "summary_en": "Astrophysicist Chi-kwan Chan is leveraging OpenAI's Codex to accelerate the development of innovative algorithms that accurately simulate complex plasma particle dynamics around black holes.",
+            "link": "https://openai.com/index/using-codex-to-simulate-black-holes"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781136000000,
+            "date": "2026-06-11",
+            "title": "BBVA puts AI at the core of banking with OpenAI",
+            "summary_kr": "BBVA는 OpenAI와의 전략적 파트너십을 통해 고객 경험부터 내부 운영까지 은행 전반의 프로세스를 AI 중심으로 재설계하며, 10만 명 이상의 직원이 업무 효율성을 획기적으로 개선하고 있습니다.",
+            "summary_en": "BBVA is partnering with OpenAI to integrate AI across its entire banking operations, achieving significant efficiency gains and transforming customer experience through the large-scale adoption of ChatGPT Enterprise.",
+            "link": "https://openai.com/index/bbva"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1781136000000,
+            "date": "2026-06-11",
+            "title": "Grok Build Plugin Marketplace",
+            "summary_kr": "Grok Build가 터미널 환경 내에서 손쉽게 기능을 확장할 수 있는 통합 플러그인 마켓플레이스를 출시했습니다.",
+            "summary_en": "Grok Build has launched an integrated plugin marketplace, enabling users to easily browse, install, and manage extensions directly within their terminal.",
+            "link": "https://x.ai/news/grok-plugin-marketplace"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781121600000,
+            "date": "2026-06-10",
+            "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+            "summary_kr": "오라클과 OpenAI의 협업을 통해 오라클 클라우드 고객들은 기존의 구매 약정 및 예산을 활용하여 OpenAI의 최신 AI 모델을 손쉽게 도입할 수 있게 되었습니다.",
+            "summary_en": "Oracle and OpenAI have partnered to allow OCI customers to access advanced AI models using their existing cloud commitments, streamlining enterprise AI adoption.",
+            "link": "https://openai.com/index/openai-on-oracle-cloud"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781118771000,
+            "date": "2026-06-10",
+            "title": "Allie K. Miller: Find your âweirdosââand let them lead",
+            "summary_kr": "AI 산업 전문가 앨리 K. 밀러는 조직이 혁신을 이루기 위해서는 정형화된 틀을 벗어난 사고를 장려하고, 완벽함보다는 빠른 반복을 통해 에이전트 워크플로우와 같은 파격적인 아이디어를 실질적인 비즈니스 성과로 연결해야 한다고 강조합니다.",
+            "summary_en": "AI expert Allie K. Miller argues that organizations can drive innovation by empowering unconventional thinkers and prioritizing rapid iteration over perfection to turn edge ideas into tangible business impact.",
+            "link": "https://www.microsoft.com/en-us/worklab/podcast/allie-k-miller-find-your-weirdos-and-let-them-lead"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781117595000,
+            "date": "2026-06-10",
+            "title": "Reconstructing AI activity in investigations  | Microsoft Security Blog",
+            "summary_kr": "마이크로소프트는 기업 내 AI 활동을 체계적으로 추적하고 조사할 수 있는 'AI 조사 플레이북'을 공개하여, 분산된 원격 측정 데이터를 통합해 보안 사고를 효과적으로 분석할 수 있게 했습니다.",
+            "summary_en": "Microsoft has released an AI investigation playbook that provides a structured methodology to reconstruct AI activities, enabling security teams to transform scattered telemetry into coherent incident analysis.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781092800000,
+            "date": "2026-06-10",
+            "title": "PRC-linked influence operations are targeting AI debates in the US",
+            "summary_kr": "오픈AI는 중국과 연계된 세력이 자사의 모델을 악용하여 미국 내 AI 인프라 및 기술 정책에 대한 여론 조작을 시도한 정황을 포착하고 해당 계정들을 차단했습니다.",
+            "summary_en": "OpenAI has identified and banned China-linked influence operations that attempted to manipulate US debates on AI infrastructure and technology policy using its models.",
+            "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781108190000,
+            "date": "2026-06-10",
+            "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+            "summary_kr": "구글 딥마인드의 DiffusionGemma는 NVIDIA GPU 환경에서 토큰을 병렬 생성하여 기존 대비 획기적인 처리량과 저지연 성능을 제공함으로써 실시간 AI 서비스의 효율성을 극대화합니다.",
+            "summary_en": "Google DeepMind's DiffusionGemma leverages parallel token generation on NVIDIA platforms to deliver high-throughput, low-latency performance, significantly optimizing real-time AI applications.",
+            "link": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781103600000,
+            "date": "2026-06-10",
+            "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories",
+            "summary_kr": "AI 공장의 전력 수요가 급증함에 따라, 배터리 에너지 저장 시스템(BESS)은 단순한 예비 전원을 넘어 전력 품질을 제어하고 계통 연결을 최적화하는 핵심적인 생산 인프라로 자리 잡고 있습니다.",
+            "summary_en": "As AI factories scale, Battery Energy Storage Systems (BESS) are evolving from simple backups into essential infrastructure that ensures power stability, optimizes grid interconnection, and manages high-density, rapidly fluctuating compute loads.",
+            "link": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1781100476000,
@@ -792,113 +900,6 @@
             "summary_kr": "프론티어 AI 모델의 독립적 평가를 위해서는 모델 자체뿐만 아니라 도구와 환경을 포함하는 '하네스(Harness)'의 영향력을 명확히 규정하고, 결과의 타당성을 입증하는 체계적인 평가 기준이 필요합니다.",
             "summary_en": "To ensure reliable third-party evaluations of frontier AI models, it is essential to account for the impact of the 'harness'—the surrounding environment and tools—and provide clear evidence supporting the validity of the reported claims.",
             "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1779980400000,
-            "title": "Catch up on 12 major I/O 2026 moments",
-            "summary_kr": "구글 I/O 2026에서 공개된 'Gemini Omni'와 'Gemini 3.5 Flash'는 멀티모달 생성 능력과 에이전트 기능을 한층 강화했으며, 검색 엔진은 맞춤형 인터랙티브 경험을 제공하는 지능형 에이전트 플랫폼으로 진화했습니다.",
-            "summary_en": "Google I/O 2026 introduced 'Gemini Omni' and 'Gemini 3.5 Flash' with advanced multimodal and agentic capabilities, while transforming Google Search into a proactive platform that delivers personalized, generative experiences.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779980400000,
-            "date": "2026-05-29",
-            "title": "Strengthening societal resilience with Rosalind Biodefense",
-            "summary_kr": "OpenAI는 생물학적 위협에 대한 방어 역량을 강화하기 위해 최첨단 AI 모델인 GPT-Rosalind에 대한 신뢰할 수 있는 접근 권한을 제공하고, 생체 방어 애플리케이션 개발을 지원하는 'Rosalind Biodefense' 이니셔티브를 출범합니다.",
-            "summary_en": "OpenAI is launching 'Rosalind Biodefense' and expanding trusted access to its GPT-Rosalind model, aiming to empower vetted developers and government partners to leverage frontier AI for strengthening global biodefense and pandemic preparedness.",
-            "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779969600000,
-            "date": "2026-05-28",
-            "title": "How Endava builds an agentic organization with Codex",
-            "summary_kr": "소프트웨어 기업 엔다바(Endava)는 Codex를 도입해 시니어 엔지니어의 전문성을 에이전트 형태로 코드화하고, 이를 통해 주니어 개발자의 생산성 향상과 전 개발 주기의 효율화를 달성하는 '에이전트 조직'으로 탈바꿈했습니다.",
-            "summary_en": "Endava has transformed into an 'agentic organization' by leveraging Codex to codify senior expertise into AI agents, enabling junior developers to produce high-quality outputs and drastically accelerating the entire software delivery lifecycle.",
-            "link": "https://openai.com/index/endava"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779926400000,
-            "date": "2026-05-28",
-            "title": "OpenAI’s Frontier Governance Framework",
-            "summary_kr": "OpenAI가 최첨단 AI 모델의 안전 및 보안 관행을 EU AI법 등 급변하는 글로벌 규제 요건에 맞추기 위한 '프런티어 거버넌스 프레임워크'를 발표했습니다.",
-            "summary_en": "OpenAI has introduced its 'Frontier Governance Framework' to align its advanced AI safety and security practices with emerging global regulatory requirements, such as the EU AI Act.",
-            "link": "https://openai.com/index/openai-frontier-governance-framework"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779926400000,
-            "date": "2026-05-28",
-            "title": "MUFG aims to become AI-native with OpenAI",
-            "summary_kr": "MUFG는 OpenAI와의 전략적 파트너십을 통해 35,000명의 직원에게 ChatGPT Enterprise를 도입하며, 사내 업무 혁신과 고객 경험 향상을 아우르는 'AI 네이티브' 금융 기업으로의 전환을 가속화하고 있습니다.",
-            "summary_en": "MUFG is accelerating its transformation into an 'AI-native' financial institution by partnering with OpenAI to deploy ChatGPT Enterprise to 35,000 employees, aiming to revolutionize internal operations and enhance customer experiences.",
-            "link": "https://openai.com/index/mufg"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779923392000,
-            "date": "2026-05-28",
-            "title": "NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes",
-            "summary_kr": "NVIDIA는 쿠버네티스 기반 AI 추론 작업의 고질적인 문제인 '콜드 스타트' 지연 시간을 획기적으로 줄이기 위해 CRIU와 CUDA 체크포인트를 활용한 'Dynamo Snapshot' 기술을 발표했습니다.",
-            "summary_en": "NVIDIA has introduced 'Dynamo Snapshot,' a technology leveraging CRIU and CUDA checkpointing to drastically reduce cold-start latency for AI inference workloads on Kubernetes.",
-            "link": "https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779912000000,
-            "date": "2026-05-28",
-            "title": "NVIDIA Blackwell Sets STAC&#x2d;AI Record for LLM Inference in Finance",
-            "summary_kr": "금융권의 LLM 활용이 가속화됨에 따라 NVIDIA는 STAC-AI LANG6 벤치마크를 통해 Hopper 및 Blackwell 기반 시스템에서의 강력한 추론 성능과 신뢰성을 입증했습니다.",
-            "summary_en": "As LLM adoption in finance accelerates, NVIDIA has demonstrated robust inference performance and reliability across its Hopper and Blackwell-based systems using the STAC-AI LANG6 benchmark.",
-            "link": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779901198000,
-            "date": "2026-05-28",
-            "title": "What&#8217;s New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters",
-            "summary_kr": "엔비디아는 다국어 AI NPC 구현을 위한 ACE 업데이트와 DLSS 4.5 플러그인, 언리얼 엔진용 NvRTX 5.7.4를 공개하며 개발자들의 몰입형 게임 제작 환경을 대폭 강화했습니다.",
-            "summary_en": "NVIDIA has enhanced its developer ecosystem with the new multi-lingual NVIDIA ACE models, the DLSS 4.5 Unreal Engine plugin, and the stable NvRTX 5.7.4 release, advancing AI-driven character interaction and rendering performance.",
-            "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779894000000,
-            "date": "2026-05-28",
-            "title": "Introducing Claude Opus 4.8",
-            "summary_kr": "앤스로픽은 벤치마크 성능과 에이전트 작업 능력을 대폭 개선하고, 비용 효율성과 처리 속도를 높인 차세대 모델 'Claude Opus 4.8'을 출시했습니다.",
-            "summary_en": "Anthropic has launched Claude Opus 4.8, featuring significant improvements in benchmark performance and agentic capabilities alongside enhanced cost-efficiency and faster processing speeds.",
-            "link": "https://www.anthropic.com/news/claude-opus-4-8"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779894000000,
-            "date": "2026-05-28",
-            "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-            "summary_kr": "앤스로픽(Anthropic)이 시리즈 H 투자를 통해 650억 달러를 조달하며 기업가치 9,650억 달러를 기록했습니다. 이번 대규모 자금은 클로드(Claude)의 연구 개발 가속화와 인프라 확장을 통해 AI 산업 리더십을 공고히 하는 데 사용될 예정입니다.",
-            "summary_en": "Anthropic has raised $65 billion in Series H funding, achieving a post-money valuation of $965 billion. The capital will accelerate R&D for Claude and expand computational infrastructure to meet surging global enterprise demand.",
-            "link": "https://www.anthropic.com/news/series-h"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779894000000,
-            "date": "2026-05-28",
-            "title": "Introducing dynamic workflows in Claude Code",
-            "summary_kr": "Anthropic의 'Claude Code'에 도입된 다이내믹 워크플로우는 복잡한 대규모 엔지니어링 작업을 수백 개의 병렬 에이전트가 협력해 엔드투엔드로 자동 수행함으로써 개발 효율을 획기적으로 높여줍니다.",
-            "summary_en": "Anthropic's new 'dynamic workflows' in Claude Code enable the execution of complex, large-scale engineering tasks end-to-end by orchestrating hundreds of parallel subagents, drastically accelerating development cycles.",
-            "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779879600000,
-            "date": "2026-05-27",
-            "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-            "summary_kr": "시스코는 OpenAI의 Codex를 엔터프라이즈 개발 워크플로우에 깊숙이 통합하여 복잡한 소프트웨어 엔지니어링의 효율성을 극대화하고 개발 주기를 획기적으로 단축했습니다.",
-            "summary_en": "Cisco has integrated OpenAI’s Codex into its core enterprise workflows, significantly accelerating software development cycles and maximizing engineering productivity at scale.",
-            "link": "https://openai.com/index/cisco"
         }
     ]
 }
