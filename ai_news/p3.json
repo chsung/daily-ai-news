@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-06-30 07:01:09",
+    "last_update": "2026-06-30 17:10:04",
     "articles": [
+        {
+            "title": "Microsoft open-sources tools for designing and testing AI agents - Help Net Security",
+            "summary_en": "Microsoft has open-sourced two security tools, Clarity and RAMPART, developed by its internal AI Red Team to standardize the design and testing of AI agents. These tools enable developers to automate adversarial testing and conduct structured design reviews, reducing security remediation time from weeks to hours.",
+            "link": "https://www.helpnetsecurity.com/2026/05/21/microsoft-open-sources-tools-for-designing-and-testing-ai-agents/",
+            "timestamp": 1779379858000
+        },
+        {
+            "title": "Howard University Launches Howard AI Network powered by AWS to Accelerate AI Research, Infrastructure, and Workforce Readiness - The Dig at Howard University",
+            "summary_en": "Howard University has established the Howard AI Network in partnership with AWS to serve as a regional hub for AI infrastructure, faculty development, and workforce training. The initiative will offer intensive bootcamps and grant-writing resources to prepare students and educators for an AI-driven economy by 2026.",
+            "link": "https://thedig.howard.edu/all-stories/howard-university-launches-howard-ai-network-powered-aws-accelerate-ai-research-infrastructure-and",
+            "timestamp": 1779385145000
+        },
         {
             "title": "Project Glasswing: An initial update - Anthropic",
             "summary_en": "Anthropic’s 'Project Glasswing' has utilized its Claude Mythos Preview model to identify over 10,000 high-severity software vulnerabilities in partnership with 50 organizations. Early results show significant performance gains in bug detection, with some partners reporting a ten-fold increase in finding critical security flaws.",
@@ -588,18 +600,6 @@
             "link": "https://letsdatascience.com/news/google-paypal-advocate-crypto-infrastructure-for-ai-commerce-eebd3906",
             "summary_en": "Google and PayPal are promoting the use of cryptocurrency and blockchain technology to help autonomous AI agents make payments more efficiently than traditional banking systems.",
             "timestamp": 1778425801000
-        },
-        {
-            "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes - VentureBeat",
-            "link": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
-            "summary_en": "Anthropic has introduced a new system called \"dreaming\" that allows AI agents to improve by learning from their own mistakes.",
-            "timestamp": 1778199001000
-        },
-        {
-            "title": "CAISI Signs Frontier AI Testing Agreements With 3 Companies - ExecutiveGov",
-            "link": "https://www.executivegov.com/articles/caisi-ai-testing-google-deepmind-microsoft-xai",
-            "summary_en": "The U.S. government's AI standards center has partnered with Google, Microsoft, and xAI to conduct safety testing and research on advanced AI models.",
-            "timestamp": 1778098340000
         }
     ]
 }

@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-06-30 07:01:09",
+    "last_update": "2026-06-30 17:10:04",
     "articles": [
+        {
+            "title": "Investing in multi-agent AI safety research - Google DeepMind",
+            "summary_en": "Google DeepMind has launched a $10 million global research funding initiative to address the unpredictable and emergent safety risks associated with large-scale, interacting multi-agent AI systems. The program focuses on developing testbeds, infrastructure, and oversight protocols to ensure stability as autonomous agents begin to negotiate and transact across digital networks.",
+            "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research",
+            "timestamp": 1781176648000,
+            "date": "2026-06-11"
+        },
+        {
+            "title": "IBM, Google Cloud plan to release industry-specific AI agents - No Jitter",
+            "summary_en": "IBM and Google Cloud have partnered to deploy industry-specific AI agents that integrate Google's Gemini models with IBM’s watsonx platform to improve enterprise interoperability and governance. By embedding domain-specific logic into these agents, the companies aim to reduce vendor lock-in and accelerate automation, though success remains dependent on overcoming legacy system limitations and data quality challenges.",
+            "link": "https://www.nojitter.com/data-management/ibm-google-cloud-plan-to-release-industry-specific-ai-agents",
+            "timestamp": 1781196977000,
+            "date": "2026-06-11"
+        },
         {
             "title": "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling - Tata Consultancy Services",
             "summary_en": "Tata Consultancy Services (TCS) and Anthropic have established a Global Premier Partnership designed to help enterprises scale the deployment of generative AI technologies. This collaboration leverages Anthropic's Claude models alongside TCS's industry expertise to facilitate large-scale AI implementation within corporate environments.",
@@ -668,18 +682,6 @@
             "summary_en": "NVIDIA has released 'Ising,' the first family of open-source quantum AI models designed to improve the calibration and error-correction of quantum processors. By utilizing these models, researchers can achieve up to 2.5x faster performance and 3x higher accuracy in decoding processes compared to industry standards.",
             "link": "http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
             "timestamp": 1776175526000
-        },
-        {
-            "title": "Microsoft open-sources tools for designing and testing AI agents - Help Net Security",
-            "summary_en": "Microsoft has open-sourced two security tools, Clarity and RAMPART, developed by its internal AI Red Team to standardize the design and testing of AI agents. These tools enable developers to automate adversarial testing and conduct structured design reviews, reducing security remediation time from weeks to hours.",
-            "link": "https://www.helpnetsecurity.com/2026/05/21/microsoft-open-sources-tools-for-designing-and-testing-ai-agents/",
-            "timestamp": 1779379858000
-        },
-        {
-            "title": "Howard University Launches Howard AI Network powered by AWS to Accelerate AI Research, Infrastructure, and Workforce Readiness - The Dig at Howard University",
-            "summary_en": "Howard University has established the Howard AI Network in partnership with AWS to serve as a regional hub for AI infrastructure, faculty development, and workforce training. The initiative will offer intensive bootcamps and grant-writing resources to prepare students and educators for an AI-driven economy by 2026.",
-            "link": "https://thedig.howard.edu/all-stories/howard-university-launches-howard-ai-network-powered-aws-accelerate-ai-research-infrastructure-and",
-            "timestamp": 1779385145000
         }
     ]
 }
