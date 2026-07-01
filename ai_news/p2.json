@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-01 07:17:45",
+    "last_update": "2026-07-01 17:21:59",
     "articles": [
+        {
+            "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
+            "summary_en": "Apple unveiled its third-generation Foundation Models (AFM), a five-model suite developed in collaboration with Google that spans from on-device, sparsely-activated models to high-performance cloud models. Notably, the 20-billion-parameter 'AFM 3 Core Advanced' uses a novel flash-memory architecture to run sophisticated multimodal tasks locally on Apple silicon.",
+            "link": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+            "timestamp": 1780953249000,
+            "date": "2026-06-08"
+        },
+        {
+            "title": "Apple introduces innovative features and intelligence experiences across services - Apple",
+            "summary_en": "Apple’s upcoming 2027 software updates will integrate AI-driven intelligence across its services, including enhanced imagery for Apple Maps, intelligent local discovery lists, and AI-powered bill-splitting features within Apple Wallet. These updates aim to improve user utility while maintaining Apple's commitment to privacy-focused, locally derived insights.",
+            "link": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services",
+            "timestamp": 1781010655000,
+            "date": "2026-06-09"
+        },
         {
             "title": "Introducing Claude Corps - Anthropic",
             "summary_en": "Anthropic has launched 'Claude Corps,' a $150 million fellowship program that will place 1,000 workers in nonprofit organizations over the next year. Fellows will receive a $85,000 salary and specialized training to help host organizations integrate AI while building valuable technical skills.",
@@ -673,18 +687,6 @@
             "summary_en": "SoftBank is planning to introduce an AI-focused GPU cloud service as a core component of its new neocloud strategy. The initiative aims to provide scalable computing infrastructure to meet the growing demand for artificial intelligence workloads.",
             "link": "https://www.telecompaper.com/news/softbank-to-launch-ai-gpu-cloud-service-under-neocloud-strategy--1572028",
             "timestamp": 1779688739000
-        },
-        {
-            "title": "100 things we announced at I/O 2026 - blog.google",
-            "summary_en": "Google unveiled its latest Gemini 3.5 Flash and Gemini Omni models at I/O 2026, focusing on high-speed agentic tasks and advanced multimodal video generation. These new tools are designed to streamline creative workflows and complex coding processes across Google’s ecosystem.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-            "timestamp": 1779305769000
-        },
-        {
-            "title": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure - NVIDIA Newsroom",
-            "summary_en": "NVIDIA and IREN have formed a strategic partnership to deploy up to 5 gigawatts of AI infrastructure globally. The collaboration leverages IREN’s renewable-rich, grid-connected data center sites to provide large-scale computing power for AI training and inference.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
-            "timestamp": 1778137200000
         }
     ]
 }

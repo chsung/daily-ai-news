@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-01 07:17:45",
+    "last_update": "2026-07-01 17:21:59",
     "articles": [
+        {
+            "title": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears - The Guardian",
+            "summary_en": "The US government lifted export controls on Anthropic’s Fable and Mythos AI models after the company implemented enhanced safety safeguards to prevent potential exploitation for cyber-attacks. This decision follows a brief restriction imposed after security concerns were raised regarding the models' ability to identify software vulnerabilities.",
+            "link": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+            "timestamp": 1782870660000,
+            "date": "2026-07-01"
+        },
+        {
+            "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
+            "summary_en": "Google AI has introduced TabFM, a new foundation model utilizing a hybrid-attention architecture designed to perform zero-shot classification and regression tasks on tabular data.",
+            "link": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression",
+            "timestamp": 1782892139000,
+            "date": "2026-07-01"
+        },
         {
             "title": "Nissan Showcases What AI-Defined Vehicle Development Looks Like - Applied Intuition",
             "summary_en": "Nissan and Applied Intuition demonstrated an AI-native development environment that consolidates the software lifecycle into a single, unified workflow. By replacing fragmented manual processes with this integrated toolchain, automakers can reduce vehicle development timelines by up to 50%.",
@@ -686,20 +700,6 @@
             "link": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools",
             "timestamp": 1780952783000,
             "date": "2026-06-08"
-        },
-        {
-            "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
-            "summary_en": "Apple unveiled its third-generation Foundation Models (AFM), a five-model suite developed in collaboration with Google that spans from on-device, sparsely-activated models to high-performance cloud models. Notably, the 20-billion-parameter 'AFM 3 Core Advanced' uses a novel flash-memory architecture to run sophisticated multimodal tasks locally on Apple silicon.",
-            "link": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
-            "timestamp": 1780953249000,
-            "date": "2026-06-08"
-        },
-        {
-            "title": "Apple introduces innovative features and intelligence experiences across services - Apple",
-            "summary_en": "Apple’s upcoming 2027 software updates will integrate AI-driven intelligence across its services, including enhanced imagery for Apple Maps, intelligent local discovery lists, and AI-powered bill-splitting features within Apple Wallet. These updates aim to improve user utility while maintaining Apple's commitment to privacy-focused, locally derived insights.",
-            "link": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services",
-            "timestamp": 1781010655000,
-            "date": "2026-06-09"
         }
     ]
 }
