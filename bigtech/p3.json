@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-06-30 17:47:02",
+    "last_update": "2026-07-01 17:45:27",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780070400000,
+            "date": "2026-05-30",
+            "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit",
+            "summary_kr": "엔비디아의 모델 카드 생성기(MCG) 툴킷은 소스 데이터를 기반으로 AI 모델 문서를 자동으로 표준화하여 생성함으로써, 복잡해지는 규제 환경 속에서 개발자의 문서화 부담을 줄이고 투명성을 강화합니다.",
+            "summary_en": "NVIDIA's Model Card Generator (MCG) toolkit automates and standardizes AI model documentation by extracting data directly from source code, helping teams meet rigorous regulatory requirements and enhance transparency efficiently.",
+            "link": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780056000000,
+            "date": "2026-05-29",
+            "title": "Boston Children’s uses AI to unlock new diagnoses",
+            "summary_kr": "보스턴 어린이병원은 AI를 단순한 도구가 아닌 핵심 인프라로 통합하여, 40건 이상의 희귀 질환을 진단하고 6만 시간의 운영 효율성을 창출하며 의료 서비스의 질과 접근성을 혁신했습니다.",
+            "summary_en": "Boston Children’s Hospital has integrated AI as a core enterprise infrastructure, successfully diagnosing over 40 rare conditions and saving 60,000 operational hours to enhance clinical and administrative efficiency.",
+            "link": "https://openai.com/index/boston-childrens-hospital"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780056000000,
+            "date": "2026-05-29",
+            "title": "How Braintrust turns customer requests into code with Codex",
+            "summary_kr": "브레인트러스트(Braintrust)는 코덱스(Codex)를 도입해 고객의 기능 요청을 수 분 내에 코드로 구현하고, 실시간 피드백 루프를 구축하여 개발 실험의 속도와 효율성을 극적으로 개선했습니다.",
+            "summary_en": "Braintrust has integrated Codex into its workflow to transform customer feature requests into functional code in minutes, significantly accelerating iteration cycles and enabling real-time collaborative experimentation.",
+            "link": "https://openai.com/index/braintrust"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780013231000,
+            "date": "2026-05-29",
+            "title": "Run Step 3.7 Flash on NVIDIA GPUs with Enterprise&#x2d;Ready Multimodal AI",
+            "summary_kr": "StepFun의 새로운 멀티모달 모델 'Step 3.7 Flash'는 엔비디아의 가속 인프라와 NIM, NeMo 프레임워크를 통해 기업 환경에서 대규모 실시간 추론 및 에이전트 워크플로우를 구현합니다.",
+            "summary_en": "StepFun’s new 'Step 3.7 Flash' multimodal model leverages NVIDIA’s accelerated infrastructure, NIM microservices, and the NeMo framework to enable enterprise-scale real-time inference and agentic workflows.",
+            "link": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780012800000,
+            "date": "2026-05-29",
+            "title": "A shared playbook for trustworthy third party evaluations",
+            "summary_kr": "프론티어 AI 모델의 독립적 평가를 위해서는 모델 자체뿐만 아니라 도구와 환경을 포함하는 '하네스(Harness)'의 영향력을 명확히 규정하고, 결과의 타당성을 입증하는 체계적인 평가 기준이 필요합니다.",
+            "summary_en": "To ensure reliable third-party evaluations of frontier AI models, it is essential to account for the impact of the 'harness'—the surrounding environment and tools—and provide clear evidence supporting the validity of the reported claims.",
+            "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
+        },
         {
             "company": "Google",
             "timestamp": 1779980400000,
@@ -799,46 +844,6 @@
             "summary_en": "OpenAI has launched a preview of a new personal finance experience in ChatGPT for U.S. Pro users, allowing them to securely link financial accounts and receive context-aware insights powered by GPT-5.5.",
             "link": "https://openai.com/index/personal-finance-chatgpt",
             "date": "2026-05-15"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778770800000,
-            "title": "Deploying Claude across the legal industry",
-            "summary_kr": "법률 업계에서 클로드(Claude) 활용도가 급증함에 따라, 계약 검토 및 실사 등 복잡한 업무를 가속화하기 위한 단계별 도입 가이드라인이 제시되었습니다.",
-            "summary_en": "With 87% of general counsel now utilizing generative AI, a new deployment guide for legal professionals has been released, detailing how to integrate Claude into workflows like contract redlining and M&A diligence.",
-            "link": "https://claude.com/blog/deploying-claude-across-the-legal-industry"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1778763596000,
-            "title": "A Costa Rican dairy cooperative turns AI agents into coworkers",
-            "summary_kr": "코스타리카 유제품 협동조합 '도스 피노스(Dos Pinos)'는 마이크로소프트 코파일럿 스튜디오를 활용해 약 80개의 AI 에이전트를 도입, 업무 효율성을 높이고 규제 리스크를 획기적으로 줄였습니다.",
-            "summary_en": "Costa Rican dairy cooperative Dos Pinos has deployed approximately 80 AI agents using Microsoft Copilot Studio, successfully automating tasks ranging from packaging inspection to legal drafting to minimize operational errors.",
-            "link": "https://news.microsoft.com/source/latam/features/ai/costa-rica-dos-pinos-ai-agents-microsoft-copilot-en?lang=en"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1778716800000,
-            "title": "Introducing Grok Build",
-            "summary_kr": "xAI는 터미널에서 직접 실행 가능한 전문가용 코딩 에이전트인 '그록 빌드(Grok Build)' 베타 버전을 슈퍼그록 헤비 구독자를 대상으로 출시했습니다.",
-            "summary_en": "xAI has launched an early beta of 'Grok Build,' a CLI-based coding agent for professional engineers that supports parallel subagent delegation and deep integration with existing repositories.",
-            "link": "https://x.ai/news/grok-build-cli"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778695200000,
-            "title": "Transform Video Into Instantly Searchable, Actionable Intelligence with AI Agents and Skills",
-            "summary_kr": "NVIDIA Metropolis VSS는 VLM과 LLM을 결합한 AI 에이전트를 통해 방대한 영상 데이터를 실시간으로 분석하고 검색 가능한 인텔리전스로 전환하며, 코딩 에이전트를 활용해 배포와 통합 과정을 자동화합니다.",
-            "summary_en": "NVIDIA Metropolis VSS transforms vast video data into searchable, actionable intelligence using AI agents powered by VLMs and LLMs, while streamlining deployment and integration through automated coding agents.",
-            "link": "https://developer.nvidia.com/blog/transform-video-into-instantly-searchable-actionable-intelligence-with-ai-agents-and-skills"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778690360000,
-            "title": "Accelerated X-Ray Analysis for Nanoscale Imaging (XANI) of Novel Materials",
-            "summary_kr": "엔비디아는 XANI 워크플로우와 GB200 Grace Blackwell 슈퍼칩을 활용해 X선 나노 이미징 데이터 분석 시간을 9개월에서 4시간 미만으로 1,000배 이상 단축했습니다.",
-            "summary_en": "NVIDIA has accelerated the XANI workflow using GB200 Grace Blackwell Superchips, reducing X-ray nanoscale imaging data analysis time from nine months to under four hours—a 1,000x improvement.",
-            "link": "https://developer.nvidia.com/blog/accelerated-x-ray-analysis-for-nanoscale-imaging-xani-of-novel-materials"
         }
     ]
 }
