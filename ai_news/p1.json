@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-30 17:10:04",
+    "last_update": "2026-07-01 07:17:45",
     "articles": [
+        {
+            "title": "Nissan Showcases What AI-Defined Vehicle Development Looks Like - Applied Intuition",
+            "summary_en": "Nissan and Applied Intuition demonstrated an AI-native development environment that consolidates the software lifecycle into a single, unified workflow. By replacing fragmented manual processes with this integrated toolchain, automakers can reduce vehicle development timelines by up to 50%.",
+            "link": "https://www.appliedintuition.com/blog/nissan-applied-intuition-aws-summit-japan",
+            "timestamp": 1782825585000,
+            "date": "2026-06-30"
+        },
+        {
+            "title": "CIQ Turns NVIDIA DGX Spark Into A Ready-To-Run AI Development And Inference Environment At Any Scale - marketscreener.com",
+            "summary_en": "CIQ has integrated NVIDIA DGX Spark into its infrastructure to provide a ready-to-run AI development and inference environment capable of scaling across various enterprise workloads.",
+            "link": "https://www.marketscreener.com/news/ciq-turns-nvidia-dgx-spark-into-a-ready-to-run-ai-development-and-inference-environment-at-any-scale-ce7f5fdddd8df526",
+            "timestamp": 1782844200000,
+            "date": "2026-06-30"
+        },
+        {
+            "title": "Microsoft MCP server gives AI assistants access to MSBuild logs - InfoWorld",
+            "summary_en": "Microsoft launched the Binlog Model Context Protocol (MCP) server, allowing AI assistants like GitHub Copilot to analyze MSBuild log files through natural language queries. This tool enables developers to instantly diagnose build failures, trace properties, and identify performance bottlenecks without manual log review.",
+            "link": "https://www.infoworld.com/article/4191163/microsoft-mcp-server-gives-ai-assistants-access-to-msbuild-logs.html",
+            "timestamp": 1782832177000,
+            "date": "2026-06-30"
+        },
         {
             "title": "AWS invests $1 billion in forward deployed AI engineers - About Amazon",
             "summary_en": "AWS has launched a $1 billion Forward Deployed Engineering organization that embeds expert AI engineers directly into client teams to build agentic, production-ready systems. The initiative focuses on compressing deployment timelines from months to days while ensuring long-term customer self-sufficiency through proprietary knowledge graphs and AI-driven development.",
@@ -679,27 +700,6 @@
             "link": "https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services",
             "timestamp": 1781010655000,
             "date": "2026-06-09"
-        },
-        {
-            "title": "Introducing Claude Corps - Anthropic",
-            "summary_en": "Anthropic has launched 'Claude Corps,' a $150 million fellowship program that will place 1,000 workers in nonprofit organizations over the next year. Fellows will receive a $85,000 salary and specialized training to help host organizations integrate AI while building valuable technical skills.",
-            "link": "https://www.anthropic.com/news/claude-corps",
-            "timestamp": 1781182869000,
-            "date": "2026-06-11"
-        },
-        {
-            "title": "Introducing the OpenAI Economic Research Exchange - OpenAI",
-            "summary_en": "OpenAI has introduced the Economic Research Exchange to facilitate rigorous, independent studies on how artificial intelligence impacts the labor market and broader economy. By granting researchers access to proprietary tools and datasets, the program aims to produce empirical evidence to guide policymakers and businesses.",
-            "link": "https://openai.com/index/economic-research-exchange",
-            "timestamp": 1780942340000,
-            "date": "2026-06-08"
-        },
-        {
-            "title": "PRC-linked influence operations are targeting AI debates in the US - OpenAI",
-            "summary_en": "OpenAI has identified and banned two Chinese-linked influence campaigns that used ChatGPT to covertly manipulate US public discourse regarding AI infrastructure and trade tariffs. These operations attempted to amplify domestic concerns over energy prices and data center development to disrupt American technological policy debates.",
-            "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-            "timestamp": 1781123622000,
-            "date": "2026-06-10"
         }
     ]
 }

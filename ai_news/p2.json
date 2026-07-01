@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-06-30 17:10:04",
+    "last_update": "2026-07-01 07:17:45",
     "articles": [
+        {
+            "title": "Introducing Claude Corps - Anthropic",
+            "summary_en": "Anthropic has launched 'Claude Corps,' a $150 million fellowship program that will place 1,000 workers in nonprofit organizations over the next year. Fellows will receive a $85,000 salary and specialized training to help host organizations integrate AI while building valuable technical skills.",
+            "link": "https://www.anthropic.com/news/claude-corps",
+            "timestamp": 1781182869000,
+            "date": "2026-06-11"
+        },
+        {
+            "title": "Introducing the OpenAI Economic Research Exchange - OpenAI",
+            "summary_en": "OpenAI has introduced the Economic Research Exchange to facilitate rigorous, independent studies on how artificial intelligence impacts the labor market and broader economy. By granting researchers access to proprietary tools and datasets, the program aims to produce empirical evidence to guide policymakers and businesses.",
+            "link": "https://openai.com/index/economic-research-exchange",
+            "timestamp": 1780942340000,
+            "date": "2026-06-08"
+        },
+        {
+            "title": "PRC-linked influence operations are targeting AI debates in the US - OpenAI",
+            "summary_en": "OpenAI has identified and banned two Chinese-linked influence campaigns that used ChatGPT to covertly manipulate US public discourse regarding AI infrastructure and trade tariffs. These operations attempted to amplify domestic concerns over energy prices and data center development to disrupt American technological policy debates.",
+            "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+            "timestamp": 1781123622000,
+            "date": "2026-06-10"
+        },
         {
             "title": "Investing in multi-agent AI safety research - Google DeepMind",
             "summary_en": "Google DeepMind has launched a $10 million global research funding initiative to address the unpredictable and emergent safety risks associated with large-scale, interacting multi-agent AI systems. The program focuses on developing testbeds, infrastructure, and oversight protocols to ensure stability as autonomous agents begin to negotiate and transact across digital networks.",
@@ -664,24 +685,6 @@
             "summary_en": "NVIDIA and IREN have formed a strategic partnership to deploy up to 5 gigawatts of AI infrastructure globally. The collaboration leverages IREN’s renewable-rich, grid-connected data center sites to provide large-scale computing power for AI training and inference.",
             "link": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
             "timestamp": 1778137200000
-        },
-        {
-            "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs - Anthropic",
-            "summary_en": "Anthropic has partnered with firms like Blackstone and Goldman Sachs to launch a new company dedicated to integrating the Claude AI model into the operations of mid-sized enterprises lacking internal AI resources.",
-            "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
-            "timestamp": 1777878000000
-        },
-        {
-            "title": "Strengthening Singapore’s AI Future: A New National Partnership - Google DeepMind",
-            "summary_en": "Google DeepMind has launched a new national partnership in Singapore to accelerate frontier AI research in healthcare, scientific discovery, and education. The initiative aims to drive economic growth and public benefit, with projections suggesting a S$3.3 billion increase in economic value by 2040.",
-            "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-            "timestamp": 1779263824000
-        },
-        {
-            "title": "NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers - NVIDIA Newsroom",
-            "summary_en": "NVIDIA has released 'Ising,' the first family of open-source quantum AI models designed to improve the calibration and error-correction of quantum processors. By utilizing these models, researchers can achieve up to 2.5x faster performance and 3x higher accuracy in decoding processes compared to industry standards.",
-            "link": "http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
-            "timestamp": 1776175526000
         }
     ]
 }
