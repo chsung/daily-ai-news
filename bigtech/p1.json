@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-07-01 17:45:27",
+    "last_update": "2026-07-02 17:23:04",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1782998986000,
+            "date": "2026-07-02",
+            "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 기업의 AI 도입을 가속화하고 성과를 극대화하기 위해 25억 달러를 투자하여 6,000명의 전문가로 구성된 '마이크로소프트 프론티어 컴퍼니(Microsoft Frontier Company)'를 출범했습니다. 이 조직은 기업 고유의 지식 재산권과 데이터를 보호하면서 AI를 통한 실질적인 비즈니스 혁신과 수익 창출을 지원하는 데 집중합니다.",
+            "summary_en": "Microsoft has launched 'Microsoft Frontier Company,' a $2.5B investment initiative featuring 6,000 experts dedicated to driving measurable business transformation through AI. The organization focuses on scaling enterprise AI solutions while strictly protecting proprietary data and intellectual property to ensure sustainable competitive advantage.",
+            "link": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1782929700000,
+            "date": "2026-07-01",
+            "title": "The latest AI news we announced in June 2026",
+            "summary_kr": "구글은 2026년 6월, 온디바이스 AI 모델인 Gemma 4 12B와 고도화된 Gemini 모델, 그리고 생산성을 극대화한 Android 17 등을 발표하며 AI가 일상의 직관적인 파트너로 기능하는 통합 생태계를 강화했습니다.",
+            "summary_en": "Google's June 2026 updates, including the on-device Gemma 4 12B, advanced Gemini models, and Android 17, focus on creating a unified AI ecosystem that acts as an intuitive partner for personal and enterprise productivity.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1782925442000,
@@ -882,24 +900,6 @@
             "summary_kr": "OpenAI는 조직의 실질적인 AI 활용 능력을 높이기 위해 기초부터 에이전트 워크플로우까지 단계별 교육 과정을 제공하는 'OpenAI Academy' 신규 코스를 출시했습니다.",
             "summary_en": "OpenAI has launched new 'OpenAI Academy' courses to help organizations build practical AI fluency, ranging from foundational concepts to advanced agent-assisted workflows.",
             "link": "https://openai.com/index/academy-courses-applying-ai-at-work"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781222400000,
-            "date": "2026-06-12",
-            "title": "Results from first Anthropic Public Record",
-            "summary_kr": "앤스로픽의 첫 번째 설문 조사 결과, 미국인들은 AI의 질병 치료 잠재력을 기대하면서도 일자리 상실을 크게 우려하며 기업의 책임 강화와 정부 규제를 강력히 지지하는 것으로 나타났습니다.",
-            "summary_en": "Anthropic's inaugural public survey reveals that while Americans are optimistic about AI's potential to cure diseases, they are deeply concerned about job displacement and show broad bipartisan support for government regulation and corporate accountability.",
-            "link": "https://www.anthropic.com/news/anthropic-public-record"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781222400000,
-            "date": "2026-06-12",
-            "title": "How Preply combines AI and human tutors to personalize learning",
-            "summary_kr": "어학 학습 플랫폼 Preply는 OpenAI API를 활용한 '레슨 인사이트' 기능을 통해 튜터의 반복 업무는 줄이고, 학습자에게는 개인화된 피드백과 맞춤형 연습 문제를 제공하여 학습 효율을 극대화하고 있습니다.",
-            "summary_en": "Preply enhances language learning by integrating OpenAI’s technology into its 'Lesson Insights' feature, which automates administrative tasks for tutors while delivering personalized feedback and adaptive practice for students.",
-            "link": "https://openai.com/index/preply"
         }
     ]
 }

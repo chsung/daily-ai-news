@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-07-01 17:45:27",
+    "last_update": "2026-07-02 17:23:04",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1779196262000,
+            "date": "2026-05-19",
+            "title": "Introducing new Surface devices built for business and AI acceleration",
+            "summary_kr": "마이크로소프트가 기업용 최신 인텔 코어 울트라 시리즈 3 프로세서를 탑재한 새로운 Surface Pro 및 Laptop을 출시하며, 보안과 AI 성능을 강화한 비즈니스 컴퓨팅 환경을 제시했습니다.",
+            "summary_en": "Microsoft has launched new Surface Pro and Laptop models powered by Intel Core Ultra Series 3 processors, offering enhanced security and on-device AI performance tailored for modern enterprise needs.",
+            "link": "https://blogs.windows.com/devices/?p=263818"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780093863000,
+            "date": "2026-05-30",
+            "title": "DynoSim: Simulating the Pareto Frontier",
+            "summary_kr": "NVIDIA가 공개한 'DynoSim'은 LLM 서빙 스택의 복잡한 최적화 변수를 가상 환경에서 정밀하게 시뮬레이션하여, 대규모 인프라 자원 소모 없이 시스템 성능을 1,500배 빠르게 예측하고 최적화할 수 있는 솔루션입니다.",
+            "summary_en": "NVIDIA's 'DynoSim' is a high-fidelity, discrete-event simulator that enables rapid optimization of complex LLM serving stacks by modeling system performance 1,500x faster than real-time without requiring extensive physical hardware deployment.",
+            "link": "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1780070400000,
@@ -826,24 +844,6 @@
             "summary_kr": "본 보고서는 2028년까지 미국과 중국의 AI 패권 경쟁 시나리오를 분석하며, 민주주의 국가가 AI 기술 주도권과 규범을 유지해야 할 필요성을 강조합니다.",
             "summary_en": "This report outlines two 2028 scenarios for the US-China AI competition, arguing that maintaining a compute advantage is critical for democratic nations to set global AI norms and prevent authoritarian misuse.",
             "link": "https://www.anthropic.com/research/2028-ai-leadership"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778770800000,
-            "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-            "summary_kr": "데이터브릭스가 기업용 에이전트 워크플로우를 위해 'GPT-5.5' 모델을 도입했으며, OfficeQA Pro 벤치마크에서 50% 이상의 정확도를 기록하며 업계 최고 수준을 달성했습니다.",
-            "summary_en": "Databricks has integrated GPT-5.5 into its enterprise agent workflows, achieving a state-of-the-art 50% accuracy on the OfficeQA Pro benchmark and reducing errors by 46% compared to the previous version.",
-            "link": "https://openai.com/index/databricks",
-            "date": "2026-05-15"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1778770800000,
-            "title": "A new personal finance experience in ChatGPT",
-            "summary_kr": "오픈AI가 미국 프로 사용자를 대상으로 챗GPT 내에서 금융 계좌를 연동하고 재무 상황을 관리할 수 있는 개인 금융 서비스를 프리뷰 버전으로 공개했습니다.",
-            "summary_en": "OpenAI has launched a preview of a new personal finance experience in ChatGPT for U.S. Pro users, allowing them to securely link financial accounts and receive context-aware insights powered by GPT-5.5.",
-            "link": "https://openai.com/index/personal-finance-chatgpt",
-            "date": "2026-05-15"
         }
     ]
 }

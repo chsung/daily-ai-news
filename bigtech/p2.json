@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-07-01 17:45:27",
+    "last_update": "2026-07-02 17:23:04",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1781222400000,
+            "date": "2026-06-12",
+            "title": "Results from first Anthropic Public Record",
+            "summary_kr": "앤스로픽의 첫 번째 설문 조사 결과, 미국인들은 AI의 질병 치료 잠재력을 기대하면서도 일자리 상실을 크게 우려하며 기업의 책임 강화와 정부 규제를 강력히 지지하는 것으로 나타났습니다.",
+            "summary_en": "Anthropic's inaugural public survey reveals that while Americans are optimistic about AI's potential to cure diseases, they are deeply concerned about job displacement and show broad bipartisan support for government regulation and corporate accountability.",
+            "link": "https://www.anthropic.com/news/anthropic-public-record"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781222400000,
+            "date": "2026-06-12",
+            "title": "How Preply combines AI and human tutors to personalize learning",
+            "summary_kr": "어학 학습 플랫폼 Preply는 OpenAI API를 활용한 '레슨 인사이트' 기능을 통해 튜터의 반복 업무는 줄이고, 학습자에게는 개인화된 피드백과 맞춤형 연습 문제를 제공하여 학습 효율을 극대화하고 있습니다.",
+            "summary_en": "Preply enhances language learning by integrating OpenAI’s technology into its 'Lesson Insights' feature, which automates administrative tasks for tutors while delivering personalized feedback and adaptive practice for students.",
+            "link": "https://openai.com/index/preply"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1781207557000,
@@ -882,24 +900,6 @@
             "summary_kr": "인도는 방대한 개발자 생태계, 빠른 기업 AI 도입 속도, 그리고 대규모 디지털 공공 인프라를 결합하여 AI의 실질적인 배포와 확장을 주도하는 차세대 글로벌 거점이 되고 있습니다.",
             "summary_en": "India is emerging as a global powerhouse in the AI era by leveraging its massive developer ecosystem, rapid enterprise adoption, and population-scale digital public infrastructure to drive real-world impact and deployment.",
             "link": "https://news.microsoft.com/source/asia/2026/05/26/india-and-ais-inflection-point"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1779196262000,
-            "date": "2026-05-19",
-            "title": "Introducing new Surface devices built for business and AI acceleration",
-            "summary_kr": "마이크로소프트가 기업용 최신 인텔 코어 울트라 시리즈 3 프로세서를 탑재한 새로운 Surface Pro 및 Laptop을 출시하며, 보안과 AI 성능을 강화한 비즈니스 컴퓨팅 환경을 제시했습니다.",
-            "summary_en": "Microsoft has launched new Surface Pro and Laptop models powered by Intel Core Ultra Series 3 processors, offering enhanced security and on-device AI performance tailored for modern enterprise needs.",
-            "link": "https://blogs.windows.com/devices/?p=263818"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780093863000,
-            "date": "2026-05-30",
-            "title": "DynoSim: Simulating the Pareto Frontier",
-            "summary_kr": "NVIDIA가 공개한 'DynoSim'은 LLM 서빙 스택의 복잡한 최적화 변수를 가상 환경에서 정밀하게 시뮬레이션하여, 대규모 인프라 자원 소모 없이 시스템 성능을 1,500배 빠르게 예측하고 최적화할 수 있는 솔루션입니다.",
-            "summary_en": "NVIDIA's 'DynoSim' is a high-fidelity, discrete-event simulator that enables rapid optimization of complex LLM serving stacks by modeling system performance 1,500x faster than real-time without requiring extensive physical hardware deployment.",
-            "link": "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier"
         }
     ]
 }
