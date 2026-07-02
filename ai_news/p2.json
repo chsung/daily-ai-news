@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-07-01 17:21:59",
+    "last_update": "2026-07-02 06:46:32",
     "articles": [
+        {
+            "title": "OpenAI buys Ona to help rein in AI agents - InfoWorld",
+            "summary_en": "OpenAI has acquired cloud development environment provider Ona for an estimated $450-500 million to provide secure, persistent sandboxes for enterprise AI agents. This strategic move aims to address organizational security concerns and counter competition from Anthropic’s managed agent offerings.",
+            "link": "https://www.infoworld.com/article/4184648/openai-buys-ona-to-help-rein-in-ai-agents.html",
+            "timestamp": 1781294493000,
+            "date": "2026-06-12"
+        },
+        {
+            "title": "Microsoft Discovery Platform Brings Agentic AI to Scientific Research -- Campus Technology - Campus Technology",
+            "summary_en": "Microsoft has launched its 'Discovery' platform into general availability, offering a specialized environment where AI agents coordinate data analysis and hypothesis generation for scientific R&D. The system is designed to maintain human-in-the-loop governance while supporting complex, multi-step workflows for academic and industrial research.",
+            "link": "https://campustechnology.com/articles/2026/06/12/microsoft-discovery-platform-brings-agentic-ai-to-scientific-research.aspx?admgarea=news",
+            "timestamp": 1781284735000,
+            "date": "2026-06-12"
+        },
+        {
+            "title": "Anthropic Pledges $200 Million to Research AI's Impact as CEO Suggests Job Loss Solutions - Broadband Breakfast",
+            "summary_en": "Anthropic has pledged $200 million toward an Economic Futures Research Fund to study AI’s labor market impact, as CEO Dario Amodei advocates for government interventions like universal basic income. This initiative reflects a broader industry trend among AI leaders to address potential job displacement through policy frameworks and wealth-sharing models.",
+            "link": "https://broadbandbreakfast.com/anthropic-pledges-200-million-to-research-ais-impact-as-ceo-suggests-job-loss-solutions",
+            "timestamp": 1781208082000,
+            "date": "2026-06-11"
+        },
+        {
+            "title": "Apple accelerates app development with new intelligence frameworks and advanced tools - Apple",
+            "summary_en": "Apple introduced new intelligence frameworks and agentic coding capabilities in Xcode 27, allowing developers to integrate advanced AI models from Apple, Anthropic, Google, and OpenAI into their applications. The update provides a streamlined Swift API and the 'Core AI' framework to optimize local LLM deployment on Apple silicon hardware.",
+            "link": "https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools",
+            "timestamp": 1780952783000,
+            "date": "2026-06-08"
+        },
         {
             "title": "Introducing the Third Generation of Apple’s Foundation Models - Apple Machine Learning Research",
             "summary_en": "Apple unveiled its third-generation Foundation Models (AFM), a five-model suite developed in collaboration with Google that spans from on-device, sparsely-activated models to high-performance cloud models. Notably, the 20-billion-parameter 'AFM 3 Core Advanced' uses a novel flash-memory architecture to run sophisticated multimodal tasks locally on Apple silicon.",
@@ -663,30 +691,6 @@
             "summary_en": "Google has introduced Empirical Research Assistance (ERA), an AI tool powered by Gemini that utilizes tree-search methods to automate coding and testing for scientific research. Published in the journal Nature, the tool is now available via a trusted tester program to assist in complex fields like genomics and neuroscience.",
             "link": "https://dataconomy.com/2026/05/26/google-era-ai-expert-level-scientific-research/",
             "timestamp": 1779768040000
-        },
-        {
-            "title": "A new era for AI Search - blog.google",
-            "summary_en": "Google is integrating Gemini 3.5 Flash as the default model for its AI-enhanced Search, alongside a redesigned, intuitive search box that supports multi-modal inputs. Additionally, Google is launching 'information agents' that proactively scan the web to provide synthesized updates and booking services for users.",
-            "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-            "timestamp": 1779213035000
-        },
-        {
-            "title": "Introducing Prism - OpenAI",
-            "summary_en": "OpenAI has launched Prism, a free, LaTeX-native AI workspace powered by GPT-5.2 designed to centralize scientific writing, equation management, and real-time collaboration. Built on the acquired Crixet platform, it allows researchers to integrate AI directly into their papers without switching between disconnected software tools.",
-            "link": "https://openai.com/index/introducing-prism/",
-            "timestamp": 1769500800000
-        },
-        {
-            "title": "Apple’s 2026 AI Strategy Shifts Toward On-Device Models - memeburn.com",
-            "summary_en": "Apple is doubling down on an on-device AI strategy for its hardware ecosystem to prioritize user privacy, low latency, and hardware-software integration. By processing tasks locally on custom silicon, Apple differentiates itself from competitors like OpenAI and Google, who rely heavily on cloud-based infrastructure.",
-            "link": "https://memeburn.com/apples-2026-ai-strategy-shifts-toward-on-device-models/",
-            "timestamp": 1779678317000
-        },
-        {
-            "title": "SoftBank to launch AI GPU cloud service under neocloud strategy - Telecompaper",
-            "summary_en": "SoftBank is planning to introduce an AI-focused GPU cloud service as a core component of its new neocloud strategy. The initiative aims to provide scalable computing infrastructure to meet the growing demand for artificial intelligence workloads.",
-            "link": "https://www.telecompaper.com/news/softbank-to-launch-ai-gpu-cloud-service-under-neocloud-strategy--1572028",
-            "timestamp": 1779688739000
         }
     ]
 }
