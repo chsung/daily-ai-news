@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-03 06:37:46",
+    "last_update": "2026-07-03 16:40:14",
     "articles": [
+        {
+            "title": "Anthropic Discusses AI Chips With Samsung Electronics - 조선일보",
+            "summary_en": "Anthropic is in discussions with Samsung Electronics to potentially utilize its 2-nanometer foundry process for custom AI chip development. This initiative aims to reduce reliance on NVIDIA GPUs by leveraging internal expertise and strategic partnerships with major memory providers.",
+            "link": "https://www.chosun.com/english/industry-en/2026/07/03/K7GWIZR2RRBIXFH7WWHMIDOCY4",
+            "timestamp": 1783093465000,
+            "date": "2026-07-03"
+        },
+        {
+            "title": "Nvidia's Bold New Bet on AI Neoclouds: Brilliant Platform Strategy or Latest Sign of an AI Bubble? - 24/7 Wall St.",
+            "summary_en": "Nvidia is launching an AI Compute Partnership program that shifts from traditional hardware sales to a revenue-sharing model with neocloud providers like SharonAI and Firmus. By financing infrastructure and earning income based on AI compute consumption, Nvidia aims to bypass capital bottlenecks and secure a recurring revenue stream amidst growing competition from custom hyperscaler chips.",
+            "link": "https://247wallst.com/investing/2026/07/02/nvidias-bold-new-bet-on-ai-neoclouds-brilliant-platform-strategy-or-latest-sign-of-an-ai-bubble",
+            "timestamp": 1783004177000,
+            "date": "2026-07-02"
+        },
         {
             "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
             "summary_en": "Meta CEO Mark Zuckerberg stated that the development of AI agent technology is progressing at a slower pace than initially anticipated.",
@@ -686,20 +700,6 @@
             "link": "https://startupfortune.com/meta-says-its-old-open-ai-strategy-no-longer-works",
             "timestamp": 1781423979000,
             "date": "2026-06-14"
-        },
-        {
-            "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
-            "summary_en": "Anthropic has suspended its Claude Fable 5 and Mythos 5 models following US government concerns regarding potential jailbreaking vulnerabilities. The UK's AI Security Institute reported that the model could successfully exploit system defenses 73% of the time, raising significant national security fears.",
-            "link": "https://www.bbc.com/news/articles/c932g3v3e13o",
-            "timestamp": 1781368118000,
-            "date": "2026-06-13"
-        },
-        {
-            "title": "Anthropic urges industry coordination to allow ‘pause’ in AI development if risks grow - The North State Journal",
-            "summary_en": "Anthropic is calling for a coordinated global framework among AI firms to allow for temporary pauses in development, citing the risk of machines achieving recursive self-improvement and potentially exceeding human control. While Anthropic emphasizes industry cooperation, rival OpenAI contends that regulatory standards and safety protocols should be governed by democratic institutions rather than private companies.",
-            "link": "https://nsjonline.com/article/2026/06/anthropic-urges-industry-coordination-to-allow-pause-in-ai-development-if-risks-grow",
-            "timestamp": 1781359234000,
-            "date": "2026-06-13"
         }
     ]
 }

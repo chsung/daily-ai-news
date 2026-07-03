@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-03 06:37:46",
+    "last_update": "2026-07-03 16:40:14",
     "articles": [
+        {
+            "title": "Anthropic's Claude Fable 5 and Mythos 5 AI suspended over security fears - BBC",
+            "summary_en": "Anthropic has suspended its Claude Fable 5 and Mythos 5 models following US government concerns regarding potential jailbreaking vulnerabilities. The UK's AI Security Institute reported that the model could successfully exploit system defenses 73% of the time, raising significant national security fears.",
+            "link": "https://www.bbc.com/news/articles/c932g3v3e13o",
+            "timestamp": 1781368118000,
+            "date": "2026-06-13"
+        },
+        {
+            "title": "Anthropic urges industry coordination to allow ‘pause’ in AI development if risks grow - The North State Journal",
+            "summary_en": "Anthropic is calling for a coordinated global framework among AI firms to allow for temporary pauses in development, citing the risk of machines achieving recursive self-improvement and potentially exceeding human control. While Anthropic emphasizes industry cooperation, rival OpenAI contends that regulatory standards and safety protocols should be governed by democratic institutions rather than private companies.",
+            "link": "https://nsjonline.com/article/2026/06/anthropic-urges-industry-coordination-to-allow-pause-in-ai-development-if-risks-grow",
+            "timestamp": 1781359234000,
+            "date": "2026-06-13"
+        },
         {
             "title": "US bans Anthropic from exporting most advanced AI systems to other countries - The Jerusalem Post",
             "summary_en": "The US government has ordered Anthropic to suspend access to its most advanced AI models, Fable 5 and Mythos 5, for foreign nationals due to national security concerns regarding potential 'jailbreaks' that could identify software vulnerabilities. This directive marks a significant shift in US export policy, moving from restricting physical hardware to directly regulating access to sophisticated AI software.",
@@ -682,18 +696,6 @@
             "summary_en": "Microsoft has introduced MDASH, a multi-model agentic platform designed to automate large-scale security auditing by coordinating over 100 specialized AI agents. The system achieved a 88.45% success rate on the CyberGym benchmark, marking a strategic shift toward model-agnostic orchestration for complex codebase validation.",
             "link": "https://www.infoq.com/news/2026/05/microsoft-mdash/",
             "timestamp": 1779726608000
-        },
-        {
-            "title": "Pope Leo says AI must be 'disarmed' in first major teaching - BBC",
-            "summary_en": "Pope Leo’s new encyclical, 'Magnificent Humanity,' warns that AI must be 'disarmed' to prevent 'digital slaveries' and the normalization of human exploitation. The document specifically decries the use of AI in autonomous weaponry and calls for developers to accept greater ethical responsibility for their design choices.",
-            "link": "https://www.bbc.com/news/articles/cedppn6002jo",
-            "timestamp": 1779725290000
-        },
-        {
-            "title": "Google adds open source Agent Executor to support AI agents in production - InfoWorld",
-            "summary_en": "Google has launched Agent Executor, an open-source runtime designed to solve the reliability challenges of long-running, distributed AI agent workflows in enterprise environments. By providing durable execution and state recovery, the tool aims to bridge the gap between AI prototyping and production-grade stability.",
-            "link": "https://www.infoworld.com/article/4176801/google-adds-open-source-agent-executor-to-support-ai-agents-in-production.html",
-            "timestamp": 1779733787000
         }
     ]
 }

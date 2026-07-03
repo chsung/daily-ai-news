@@ -1,6 +1,18 @@
 {
-    "last_update": "2026-07-03 06:37:46",
+    "last_update": "2026-07-03 16:40:14",
     "articles": [
+        {
+            "title": "Pope Leo says AI must be 'disarmed' in first major teaching - BBC",
+            "summary_en": "Pope Leo’s new encyclical, 'Magnificent Humanity,' warns that AI must be 'disarmed' to prevent 'digital slaveries' and the normalization of human exploitation. The document specifically decries the use of AI in autonomous weaponry and calls for developers to accept greater ethical responsibility for their design choices.",
+            "link": "https://www.bbc.com/news/articles/cedppn6002jo",
+            "timestamp": 1779725290000
+        },
+        {
+            "title": "Google adds open source Agent Executor to support AI agents in production - InfoWorld",
+            "summary_en": "Google has launched Agent Executor, an open-source runtime designed to solve the reliability challenges of long-running, distributed AI agent workflows in enterprise environments. By providing durable execution and state recovery, the tool aims to bridge the gap between AI prototyping and production-grade stability.",
+            "link": "https://www.infoworld.com/article/4176801/google-adds-open-source-agent-executor-to-support-ai-agents-in-production.html",
+            "timestamp": 1779733787000
+        },
         {
             "title": "Classified Networks AI Agreements - U.S. Department of War (.gov)",
             "summary_en": "The U.S. Department of War has initiated agreements regarding the deployment and integration of artificial intelligence within classified networks. Further details remain restricted due to the sensitive nature of the defense infrastructure involved.",
@@ -588,18 +600,6 @@
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU25PZlNFbzFQQUdEUzRLMDdGSGh0TDhadTduSVNXckxqOVBZOUE5TTJWdkg3a0pNZzlsVTg3UmRZRTBHWm9odzdBM09xbkdQeVJSQVQ0b2pienN3Tzc3di1XNU9aVFZjZmNrNy1WVTVTMDVXWDR5MEV6X0dfbHZnX0NoMC0zTEFOV2FUQ0NGMVRuVzNrWXZEVm9yRWJxSmFEWWZFQmFvVkpxNGM0emtzOG5EWVJiVnlqblI4?oc=5",
             "summary_en": "New Microsoft research identifies an AI paradox that is preventing many companies from fully benefiting from the technology.",
             "timestamp": 1778203280000
-        },
-        {
-            "title": "How Anthropic’s Mythos threw the White House AI strategy into chaos - MSN",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHNkcms2QkVBcjVYc1ZRRTFTVUdXcGpqQ2tFQTMzZVVubHNJa29MX2dlemxtaGFpUi1XNUw1QlBmY29oSFBZMm10Wl9PY283cVFIQ3p0T2hQZkwtUFFBRXN4Q2p5eVNRSXVLVm9SblFEd1dycWVWc3hmWDdiX0QzT3R6TkhoeFdDdmlid0dGR3dwaldybTJldy1xTERxc182c3R1SUdYdWxIdFJVZjBCNVMxWkROaWt5SjlFVWNGU1VsVUhJRVVuNkhNazNtalk?oc=5",
-            "summary_en": "Anthropic's Mythos project has reportedly caused significant confusion regarding the White House's artificial intelligence strategy.",
-            "timestamp": 1778318711000
-        },
-        {
-            "title": "According to a report, Google Chrome 'silently' downloads a 4GB AI model to your device without your consent - MSN",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaFJYNE5xRmEtTGJfb085XzhiRDd2XzN0TzlieGdkWkJ3aE9jajJrUVRzNnlkWDBPaEczaU5zTTRoNU1NaXNTZ0lHZWgxLWxtMmpMXzQwdU5UM0FEd21hNjhHeEs0MktTOTktNkd4MDltMnlwYWthZm82Um1OU2J3ZnRzVFB0ZWhsN2xxTFF2NFZWdnBWTi1yam55OUtrNFZVeU11TjhpMUdDdVZKNVJrdjBqUWxTOFpfMksxVEZSeGtfX1lZdHNGVW43V1JCU3NvaXZLVWVEd3BTaC1maUJvdFZ6MGVqZGVQNHpHd2ZCU2M?oc=5",
-            "summary_en": "Google Chrome is reportedly automatically downloading a large AI model to users' devices without asking for permission.",
-            "timestamp": 1778400168000
         }
     ]
 }
