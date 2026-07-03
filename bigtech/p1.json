@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-07-02 17:23:04",
+    "last_update": "2026-07-03 17:08:59",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783027542000,
+            "date": "2026-07-02",
+            "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
+            "summary_kr": "NVIDIA의 컨피덴셜 컴퓨팅(CC)은 하드웨어 기반의 강력한 보안을 제공하면서도 최적화 기술을 통해 비보안 모드 대비 98% 수준의 고성능 추론을 구현합니다.",
+            "summary_en": "NVIDIA Confidential Computing provides robust, hardware-rooted AI security while maintaining up to 98% of standard inference performance through advanced optimization techniques.",
+            "link": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1782950400000,
+            "date": "2026-07-02",
+            "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+            "summary_kr": "앤스로픽은 모델 'Fable 5'의 사이버 보안 안전 분류기 작동 원리를 공개하고, AI 탈옥 위험을 평가할 표준 프레임워크를 제안하며 생태계 전반의 논의를 촉구했습니다.",
+            "summary_en": "Anthropic has released details on the cybersecurity safety classifiers for its Fable 5 model and proposed a standardized framework to assess AI jailbreak severity, aiming to foster broader industry-wide cooperation.",
+            "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1782998986000,
@@ -882,24 +900,6 @@
             "summary_kr": "AI 시대의 교육은 단순히 기술 습득을 넘어 인간 고유의 역량과 윤리적 판단력을 함양하여 학생들의 전인적 성장과 미래 노동 시장의 변화에 유연하게 대응하는 데 집중해야 합니다.",
             "summary_en": "Education in the AI era must transcend technical skill acquisition by prioritizing uniquely human capabilities and ethical judgment, ensuring students achieve both personal flourishing and adaptability in a shifting labor market.",
             "link": "https://www.microsoft.com/en-us/education/blog/2026/06/5-foundations-for-reshaping-the-future-of-education-and-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781275397000,
-            "date": "2026-06-12",
-            "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
-            "summary_kr": "MiniMax M3는 엔비디아 인프라에 최적화된 428B 파라미터의 멀티모달 모델로, 독자적인 고속 어텐션 기술을 통해 긴 컨텍스트 추론과 에이전트 워크플로우를 효율적으로 구현합니다.",
-            "summary_en": "MiniMax M3 is a 428B-parameter multimodal model optimized for NVIDIA infrastructure that leverages proprietary sparse attention to enable high-performance long-context reasoning and agentic workflows.",
-            "link": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781258400000,
-            "date": "2026-06-12",
-            "title": "New OpenAI Academy courses for the next era of work",
-            "summary_kr": "OpenAI는 조직의 실질적인 AI 활용 능력을 높이기 위해 기초부터 에이전트 워크플로우까지 단계별 교육 과정을 제공하는 'OpenAI Academy' 신규 코스를 출시했습니다.",
-            "summary_en": "OpenAI has launched new 'OpenAI Academy' courses to help organizations build practical AI fluency, ranging from foundational concepts to advanced agent-assisted workflows.",
-            "link": "https://openai.com/index/academy-courses-applying-ai-at-work"
         }
     ]
 }

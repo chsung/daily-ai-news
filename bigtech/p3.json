@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-07-02 17:23:04",
+    "last_update": "2026-07-03 17:08:59",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1779831725000,
+            "date": "2026-05-27",
+            "title": "MAI-Image-2.5 launches at No. 3 on Arena | Microsoft AI",
+            "summary_kr": "마이크로소프트가 텍스트-이미지 리더보드 3위에 오른 최신 AI 모델 'MAI-Image-2.5'를 출시했으며, 텍스트 렌더링과 시각적 추론 능력을 대폭 강화했습니다.",
+            "summary_en": "Microsoft has launched MAI-Image-2.5, which debuted at No. 3 on the Arena leaderboard, featuring significant advancements in text rendering, visual reasoning, and professional-grade image quality.",
+            "link": "https://microsoft.ai/news/mai-image-2-5-launches-at-no-3-on-arena-ai"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1779800337000,
+            "date": "2026-05-26",
+            "title": "India and AI’s inflection point - Source Asia",
+            "summary_kr": "인도는 방대한 개발자 생태계, 빠른 기업 AI 도입 속도, 그리고 대규모 디지털 공공 인프라를 결합하여 AI의 실질적인 배포와 확장을 주도하는 차세대 글로벌 거점이 되고 있습니다.",
+            "summary_en": "India is emerging as a global powerhouse in the AI era by leveraging its massive developer ecosystem, rapid enterprise adoption, and population-scale digital public infrastructure to drive real-world impact and deployment.",
+            "link": "https://news.microsoft.com/source/asia/2026/05/26/india-and-ais-inflection-point"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1779196262000,
@@ -828,22 +846,6 @@
             "summary_kr": "누스 리서치(Nous Research)가 자사의 오픈소스 에이전트 '헤르메스(Hermes)'에 xAI의 그록(Grok) 구독을 연동할 수 있는 기능을 출시했습니다.",
             "summary_en": "Nous Research has integrated xAI’s Grok into its open-source, self-improving Hermes Agent, allowing users to leverage their Grok subscriptions directly within the platform.",
             "link": "https://x.ai/news/grok-hermes"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1778786675000,
-            "title": "How the NVIDIA Vera Rubin Platform is Solving Agentic AI’s Scale-Up Problem",
-            "summary_kr": "NVIDIA Vera Rubin 플랫폼과 Groq 3 LPX는 에이전트형 AI 워크로드의 핵심인 대규모 연산과 초저지연성을 동시에 해결하기 위해 하드웨어-소프트웨어 통합 설계를 도입했습니다. 이를 통해 복잡한 다중 에이전트 환경에서도 수천 개의 칩을 확정적이고 효율적으로 연결하여 고성능 AI 추론을 가능하게 합니다.",
-            "summary_en": "The NVIDIA Vera Rubin platform, paired with Groq 3 LPX, utilizes extreme co-design to overcome the scaling bottlenecks of agentic AI by ensuring deterministic, low-latency execution across massive, multi-trillion parameter model workloads.",
-            "link": "https://developer.nvidia.com/blog/how-the-nvidia-vera-rubin-platform-is-solving-agentic-ais-scale-up-problem"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1778778372172,
-            "title": "2028: Two scenarios for global AI leadership",
-            "summary_kr": "본 보고서는 2028년까지 미국과 중국의 AI 패권 경쟁 시나리오를 분석하며, 민주주의 국가가 AI 기술 주도권과 규범을 유지해야 할 필요성을 강조합니다.",
-            "summary_en": "This report outlines two 2028 scenarios for the US-China AI competition, arguing that maintaining a compute advantage is critical for democratic nations to set global AI norms and prevent authoritarian misuse.",
-            "link": "https://www.anthropic.com/research/2028-ai-leadership"
         }
     ]
 }
