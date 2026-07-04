@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-04 06:25:45",
+    "last_update": "2026-07-04 16:09:02",
     "articles": [
+        {
+            "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+            "summary_en": "Google Research has introduced TabFM, a foundation model that utilizes in-context learning to perform tabular classification and regression without manual hyperparameter tuning or feature engineering. By training on hundreds of millions of synthetic datasets, the model overcomes the scarcity of open-source industrial data and allows for zero-shot predictions via a single forward pass.",
+            "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
+            "timestamp": 1783178586000,
+            "date": "2026-07-04"
+        },
+        {
+            "title": "Anthropic launches Claude Science AI workbench for researchers - qz.com",
+            "summary_en": "Anthropic has launched a new AI-powered workspace specifically designed to assist researchers in conducting scientific analysis and experimentation.",
+            "link": "https://qz.com/anthropic-claude-science-ai-workbench-scientists-070126",
+            "timestamp": 1783116726000,
+            "date": "2026-07-03"
+        },
+        {
+            "title": "Qualcomm (QCOM), Hugging Face Expand Partnership to Accelerate Open AI Development - Insider Monkey",
+            "summary_en": "Qualcomm and Hugging Face have expanded their partnership to accelerate the development of open-source artificial intelligence. The collaboration aims to leverage Qualcomm’s hardware expertise to enhance the deployment and efficiency of open AI models within the broader technology ecosystem.",
+            "link": "https://www.insidermonkey.com/blog/qualcomm-qcom-hugging-face-expand-partnership-to-accelerate-open-ai-development-1795432",
+            "timestamp": 1783169828000,
+            "date": "2026-07-04"
+        },
         {
             "title": "Meta to release new AI model with advanced coding capabilities ‘soon’ - SiliconANGLE",
             "summary_en": "Meta is preparing to release a successor to its Muse Spark AI model that offers significantly improved coding capabilities and agent performance. While the new model reportedly rivals GPT-5.5 on key benchmarks, it requires an order of magnitude more computing capacity to operate.",
@@ -679,27 +700,6 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
             "timestamp": 1781386766000,
             "date": "2026-06-13"
-        },
-        {
-            "title": "IMDA and Microsoft sign AI safety MOU - Let's Data Science",
-            "summary_en": "Singapore's IMDA and Microsoft have signed an MOU to collaborate on AI safety, focusing on research into agentic AI and multilingual safety standards. The partnership will produce shared evaluation benchmarks and a joint white paper on policy frameworks for trusted access to frontier AI models.",
-            "link": "https://letsdatascience.com/news/imda-and-microsoft-sign-ai-safety-mou-50801559",
-            "timestamp": 1781460158000,
-            "date": "2026-06-14"
-        },
-        {
-            "title": "Why the US government shut down Anthropic’s latest Claude AI model - The Conversation",
-            "summary_en": "Anthropic suspended its latest Claude models after the US government issued an export control directive, citing concerns that safety guardrails could be bypassed to facilitate cyberattacks. The directive follows a period of escalating friction between the administration and Anthropic regarding national security, autonomous weaponry, and AI regulation.",
-            "link": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
-            "timestamp": 1781496514000,
-            "date": "2026-06-15"
-        },
-        {
-            "title": "Google DeepMind and partners put $10M behind multi-agent AI safety research - EdTech Innovation Hub",
-            "summary_en": "A coalition including Google DeepMind and Schmidt Sciences has launched a $10 million funding initiative to research the safety risks inherent in multi-agent AI systems. The program targets the unpredictable behaviors that emerge when autonomous agents from different organizations interact within shared digital infrastructures.",
-            "link": "https://www.edtechinnovationhub.com/news/google-deepmind-and-partners-put-10m-behind-multi-agent-ai-safety-research",
-            "timestamp": 1781478087000,
-            "date": "2026-06-14"
         }
     ]
 }

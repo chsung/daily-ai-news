@@ -1,6 +1,26 @@
 {
-    "last_update": "2026-07-04 06:25:45",
+    "last_update": "2026-07-04 16:09:02",
     "articles": [
+        {
+            "title": "Intuit and Anthropic Partner to Bring Trusted Financial Intelligence and Custom AI Agents to Consumers and Businesses - Intuit",
+            "summary_en": "Intuit and Anthropic are partnering to integrate Claude into the Intuit platform, allowing mid-market businesses to build custom AI agents that utilize proprietary financial data for compliant workflows. Additionally, Intuit’s financial tools will be embedded directly into Claude to provide personalized accounting and tax expertise to users.",
+            "link": "https://investors.intuit.com/news-events/press-releases/detail/1305/intuit-and-anthropic-partner-to-bring-trusted-financial-intelligence-and-custom-ai-agents-to-consumers-and-businesses",
+            "timestamp": 1771920000000,
+            "date": "2026-02-24"
+        },
+        {
+            "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has launched new open-source models including Cosmos and GR00T to simplify the training of generalist-specialist robots and physical AI. These tools, paired with the Isaac Lab-Arena framework, enable global partners like Boston Dynamics and LG to accelerate the development of autonomous machines that can reason and navigate the physical world.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
+            "timestamp": 1767600000000,
+            "date": "2026-01-05"
+        },
+        {
+            "title": "How Google’s $15 Billion Missouri AI Data Hub Strategy Could Reshape Alphabet’s (GOOGL) Investor Narrative - Yahoo Finance",
+            "summary_en": "Google is investing $15 billion into a new Missouri data center hub, aiming to bolster its AI infrastructure while simultaneously funding local energy initiatives and workforce development. This capital-intensive strategy underscores Alphabet's commitment to scaling its Gemini and Cloud services, despite ongoing investor concerns regarding antitrust regulatory risks and long-term margin pressure.",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/google-15-billion-missouri-ai-221529374.html",
+            "timestamp": 1779833729000
+        },
         {
             "title": "NVIDIA Ignites the Next Industrial Revolution in Knowledge Work With Open Agent Development Platform - NVIDIA Newsroom",
             "summary_en": "NVIDIA has launched its Agent Toolkit, featuring the OpenShell runtime and AI-Q blueprint, to provide developers with secure, open-source tools for building autonomous enterprise AI agents. By utilizing a hybrid model architecture, the platform aims to enhance agentic efficiency and reduce query costs by over 50% compared to standard approaches.",
@@ -582,24 +602,6 @@
             "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS19XeW9UUGsxLXJKN21wclotT0dadmJ6XzUzaG8wajlmdk81MVdPTEVQcmMxdm16RHJjamlOdTkwNDhKMG1aUkEyV2Q3cFBVbkEyc25XZGU1TnhNZ1hvM194Q0s4UFNiYUJ4cFZxMktYZEh4U1NlVE41SDhfMXZHWmpYM1IwVERjWXdYZVg4Yy1qSDZpdUE?oc=5",
             "summary_en": "Meta is reducing its workforce by 20% to shift focus and resources toward its growing AI investments.",
             "timestamp": 1778318157000
-        },
-        {
-            "title": "Amazon Admits Its Flagship AI Coding Tool Isn’t Good Enough for Its Own Workers to Use - Futurism",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFZkdUZNTXVEVE52U05UNXI3XzMxYTN5T1VJSjFHLW42ZVZZdHI0cTAxcmJjSURKdE1UbDNoZXd2OFdIaTh2WGE4b2NFa0lIcmEwa0Q1TFIzWTZWV1lPWjhJc1lFZ3lmemE4RDZlTmtOTjJDUml2blNkTzlmb3RXWS1KdkZLc0FHUGhZUF9fT0xiMno5?oc=5",
-            "summary_en": "Amazon acknowledged that its primary AI coding tool is currently not effective enough for its own employees to use.",
-            "timestamp": 1778337000000
-        },
-        {
-            "title": "Spotify says engineers haven't written code in months as AI takes over development - MSN",
-            "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQdWRPX2pSaTc3NzQtYS1aazExMG4zc3hmLW9HMEdadFhfZjZHMXVtTlB2YWJJS25jVnFiR3NjSVFWMmRjcDRRUHRrd2h5WTgzZDBFQ01xQW9kQ1lDcXp3NHlyQ1I2bVk5cGRiSEZybDFHM3NuaklzMGZoNlFyaHVhNVlpN0hhclAxRjI1b1ZyMFJFYWlxQ2E5N25uVVR3OGNSemZYZnNSMHFkWDl1OWpjQl9qa0I4UklLcW1QaENzQ1BHS0JrdXJ6eVUxNTV0QzBWUFd1cGRIcjQyR2tMclZISlZ4ZWp2T2pMWDgycWpNOUE2UEtuYnZMZEhva05ubVZrVk9xZURWR0xKd0d1VER1UnctcmItTDBDY2gxcFdOM0RkQ0JiWXJhMjE0OThzd0I3LTVxdEMyMnkyWU9wQmNNaEFES0J6VHN2cjIzaHJwMFU2NlBndWZ0RG90NGk3M0tOYzBrUjlESm4?oc=5",
-            "summary_en": "Spotify reports that its engineers have shifted away from manual coding as AI tools take over development tasks.",
-            "timestamp": 1778405389000
-        },
-        {
-            "title": "US to safety test new AI models from Google, Microsoft, xAI - AOL.com",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1dHpOZzlPUXdvN2lqa01zWXF0ZXNpbmQtZXV6WXdPelE1MFFoc2ZNSGFyYzc2Vlc0MzJCeFp4ZF9rcGF3UFhQQjRrSV8yaXJsSVJXTVRZZEFvZndwLTNBdzU3X1RkbTBrXzRQc3N4S1NVQQ?oc=5",
-            "summary_en": "The U.S. government will conduct safety testing on new AI models developed by major companies like Google, Microsoft, and xAI.",
-            "timestamp": 1778362554000
         }
     ]
 }
