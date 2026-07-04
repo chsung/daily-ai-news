@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-03 16:40:14",
+    "last_update": "2026-07-04 06:25:45",
     "articles": [
+        {
+            "title": "Meta to release new AI model with advanced coding capabilities ‘soon’ - SiliconANGLE",
+            "summary_en": "Meta is preparing to release a successor to its Muse Spark AI model that offers significantly improved coding capabilities and agent performance. While the new model reportedly rivals GPT-5.5 on key benchmarks, it requires an order of magnitude more computing capacity to operate.",
+            "link": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon",
+            "timestamp": 1783113092000,
+            "date": "2026-07-03"
+        },
+        {
+            "title": "Anthropic wants to develop its own drugs - The Verge",
+            "summary_en": "Anthropic has launched 'Claude Science' to assist researchers while announcing its intent to develop proprietary drugs focusing on neglected diseases. This strategic move positions Anthropic as both a software provider for the pharmaceutical industry and a direct competitor in drug discovery.",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+            "timestamp": 1783087012000,
+            "date": "2026-07-03"
+        },
+        {
+            "title": "Anthropic is discussing a new custom chip with Samsung | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic is in discussions with Samsung to explore the development of custom AI chips, seeking to reduce its reliance on Nvidia’s hardware. This move follows similar industry trends, such as OpenAI's recent partnership with Broadcom to build its own 'Jalapeño' inference processor.",
+            "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung",
+            "timestamp": 1783017069000,
+            "date": "2026-07-02"
+        },
         {
             "title": "Anthropic Discusses AI Chips With Samsung Electronics - 조선일보",
             "summary_en": "Anthropic is in discussions with Samsung Electronics to potentially utilize its 2-nanometer foundry process for custom AI chip development. This initiative aims to reduce reliance on NVIDIA GPUs by leveraging internal expertise and strategic partnerships with major memory providers.",
@@ -678,27 +699,6 @@
             "summary_en": "A coalition including Google DeepMind and Schmidt Sciences has launched a $10 million funding initiative to research the safety risks inherent in multi-agent AI systems. The program targets the unpredictable behaviors that emerge when autonomous agents from different organizations interact within shared digital infrastructures.",
             "link": "https://www.edtechinnovationhub.com/news/google-deepmind-and-partners-put-10m-behind-multi-agent-ai-safety-research",
             "timestamp": 1781478087000,
-            "date": "2026-06-14"
-        },
-        {
-            "title": "NVIDIA, KKR Back Helix Platform to Accelerate Next-Gen AI Infrastructure Development - The Fast Mode",
-            "summary_en": "KKR, NVIDIA, and Vistra have launched Helix Digital Infrastructure, a new company backed by over $10 billion in capital to streamline the development of data centers and power facilities for AI hyperscalers. Led by former AWS CEO Adam Selipsky, the firm aims to resolve industry bottlenecks by providing integrated infrastructure solutions.",
-            "link": "https://www.thefastmode.com/technology-solutions/49007-nvidia-kkr-back-helix-platform-to-accelerate-next-gen-ai-infrastructure-development",
-            "timestamp": 1781489806000,
-            "date": "2026-06-15"
-        },
-        {
-            "title": "Anthropic Pulls Its Most Powerful AI Models After U.S. Bars Foreign Access - Time Magazine",
-            "summary_en": "Anthropic has disabled its powerful Fable 5 and Mythos 5 models following a U.S. government export-control directive citing national security concerns and alleged vulnerabilities. The order marks a significant escalation in federal regulation, as the government seeks to prevent foreign adversaries from accessing high-capability AI models.",
-            "link": "https://time.com/article/2026/06/13/anthropic-fable-mythos-ban-US-security",
-            "timestamp": 1781373017000,
-            "date": "2026-06-13"
-        },
-        {
-            "title": "Meta says its old open AI strategy no longer works - Startup Fortune",
-            "summary_en": "Meta has shifted away from its open-weights 'Llama' strategy for its newest model, Muse Spark, keeping it closed due to uncontainable safety risks in areas like chemical and biological threats. This transition signals that even historically open-source proponents are moving toward restricted access models as frontier AI performance levels introduce higher dual-use dangers.",
-            "link": "https://startupfortune.com/meta-says-its-old-open-ai-strategy-no-longer-works",
-            "timestamp": 1781423979000,
             "date": "2026-06-14"
         }
     ]
