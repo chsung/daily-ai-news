@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-04 16:09:02",
+    "last_update": "2026-07-05 06:46:22",
     "articles": [
+        {
+            "title": "Chinese Hackers Target Medical, Military, and AI Research in North America - SecurityWeek",
+            "summary_en": "Chinese hackers are reportedly targeting critical sectors in North America, including medical, military, and artificial intelligence research, according to recent security reports.",
+            "link": "https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america",
+            "timestamp": 1781532465000,
+            "date": "2026-06-15"
+        },
+        {
+            "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban - The Verge",
+            "summary_en": "A White House export control directive blocking Anthropic’s Fable and Mythos models was reportedly triggered by Amazon's security research, which claimed the models could be exploited for cyberattacks. Anthropic has disputed the findings, arguing that the models were not compromised by a true 'jailbreak' and that similar vulnerabilities exist in other industry models.",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+            "timestamp": 1781386766000,
+            "date": "2026-06-13"
+        },
         {
             "title": "IMDA and Microsoft sign AI safety MOU - Let's Data Science",
             "summary_en": "Singapore's IMDA and Microsoft have signed an MOU to collaborate on AI safety, focusing on research into agentic AI and multilingual safety standards. The partnership will produce shared evaluation benchmarks and a joint white paper on policy frameworks for trusted access to frontier AI models.",
@@ -686,20 +700,6 @@
             "link": "https://www.cdomagazine.tech/aiml/google-deepmind-partners-with-south-korea-to-boost-ai-driven-scientific-research",
             "timestamp": 1779907860000,
             "date": "2026-05-28"
-        },
-        {
-            "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
-            "summary_en": "NVIDIA has unveiled its Rubin platform, an AI supercomputer architecture comprising six new chips, including the Vera CPU and Rubin GPU, designed to lower inference costs by 10x compared to Blackwell. The platform aims to accelerate the adoption of large-scale agentic AI and mixture-of-experts models with support from major cloud providers and research labs.",
-            "link": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
-            "timestamp": 1767600000000,
-            "date": "2026-01-05"
-        },
-        {
-            "title": "NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development - NVIDIA Newsroom",
-            "summary_en": "NVIDIA has introduced the Alpamayo family, an open-source ecosystem featuring reasoning-based vision-language-action (VLA) models and high-fidelity simulation tools for autonomous vehicle development. The platform allows developers to train vehicles on rare 'long-tail' edge cases, enabling safer, more reliable decision-making in complex driving scenarios.",
-            "link": "https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development",
-            "timestamp": 1767600000000,
-            "date": "2026-01-05"
         }
     ]
 }

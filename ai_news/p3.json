@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-04 16:09:02",
+    "last_update": "2026-07-05 06:46:22",
     "articles": [
+        {
+            "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has unveiled its Rubin platform, an AI supercomputer architecture comprising six new chips, including the Vera CPU and Rubin GPU, designed to lower inference costs by 10x compared to Blackwell. The platform aims to accelerate the adoption of large-scale agentic AI and mixture-of-experts models with support from major cloud providers and research labs.",
+            "link": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+            "timestamp": 1767600000000,
+            "date": "2026-01-05"
+        },
+        {
+            "title": "NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has introduced the Alpamayo family, an open-source ecosystem featuring reasoning-based vision-language-action (VLA) models and high-fidelity simulation tools for autonomous vehicle development. The platform allows developers to train vehicles on rare 'long-tail' edge cases, enabling safer, more reliable decision-making in complex driving scenarios.",
+            "link": "https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development",
+            "timestamp": 1767600000000,
+            "date": "2026-01-05"
+        },
         {
             "title": "Intuit and Anthropic Partner to Bring Trusted Financial Intelligence and Custom AI Agents to Consumers and Businesses - Intuit",
             "summary_en": "Intuit and Anthropic are partnering to integrate Claude into the Intuit platform, allowing mid-market businesses to build custom AI agents that utilize proprietary financial data for compliant workflows. Additionally, Intuit’s financial tools will be embedded directly into Claude to provide personalized accounting and tax expertise to users.",
@@ -590,18 +604,6 @@
             "link": "https://www.pymnts.com/artificial-intelligence-2/2026/tech-giants-cash-reserve-shrinks-amid-725-billion-ai-investment/",
             "summary_en": "Tech giants are seeing their cash reserves decrease as they invest a combined $725 billion into the development of artificial intelligence.",
             "timestamp": 1778445758000
-        },
-        {
-            "title": "Anthropic collaborates with Blackstone, Goldman Sachs, others to launch $1.5 billion AI firm - MSN",
-            "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPWXZQRXdVTWN4N1ZoYWo4VzRTaTNGeFZyUXNtcGZEcjBPbldKSkR3MndPNTY0c2xvSFEwcnBsbklDcE1uYzFpYW5PZGVmeDVEa2ZHTjA4c1hPbXVHZXZ3Q1drZTZWTHNUaFl0TlJkZ2owMk1iSE5pdHlzdmJ1NGtCWW9Ibzh3R09fbWk2MjhXZU9OS1czQTQ2UTRJV2psMjA4VVVyZVhCOTBiUkoyaFl6dGJ1RzBMdHdfMTNKLXhFZXBjOVZWY0x1RVlLNUtBODhIOVFQRlh6b3BmazBzM0JpRFVfeEFRVnlSNG9QMVBPSjJxNnUxc2ZrNHdUcnE5TGxVZnNmZHowbGNKOGFaOVgtcmhIaUxUWXFGZVp6dGdBV1FjZG9PM1RhWTFLYmpCbE1CVi1IcmJUZlhxWUtVWU8zVjkyTTcxMjZKU0o0U0JsbUZ0SnBjZE55VDVpdnJWWm5WNi1fZGVxeExrZUJSZ0FoTVhvNE56Vi1WM3RwRlF2RTFrY0d3VUNmc1JBanpGUQ?oc=5",
-            "summary_en": "Anthropic is partnering with major financial firms like Blackstone and Goldman Sachs to launch a new $1.5 billion AI company.",
-            "timestamp": 1778396725000
-        },
-        {
-            "title": "Meta 20% Workforce Cut Could Reshape Tech Giant as AI Spending Surges - USA Herald",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS19XeW9UUGsxLXJKN21wclotT0dadmJ6XzUzaG8wajlmdk81MVdPTEVQcmMxdm16RHJjamlOdTkwNDhKMG1aUkEyV2Q3cFBVbkEyc25XZGU1TnhNZ1hvM194Q0s4UFNiYUJ4cFZxMktYZEh4U1NlVE41SDhfMXZHWmpYM1IwVERjWXdYZVg4Yy1qSDZpdUE?oc=5",
-            "summary_en": "Meta is reducing its workforce by 20% to shift focus and resources toward its growing AI investments.",
-            "timestamp": 1778318157000
         }
     ]
 }
