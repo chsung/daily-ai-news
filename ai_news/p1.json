@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-05 06:46:22",
+    "last_update": "2026-07-05 16:14:57",
     "articles": [
+        {
+            "title": "Meta Launches AI Gaming App Pocket While Zuckerberg Admits Agent Development Has Fallen Behind Expectations - AI Insider",
+            "summary_en": "Meta has introduced its new AI-driven gaming app, Pocket, while CEO Mark Zuckerberg has publicly acknowledged that the company's progress in developing autonomous AI agents has fallen behind internal expectations.",
+            "link": "https://theaiinsider.tech/2026/07/03/meta-launches-ai-gaming-app-pocket-while-zuckerberg-admits-agent-development-has-fallen-behind-expectations",
+            "timestamp": 1783098184000,
+            "date": "2026-07-03"
+        },
+        {
+            "title": "Your Microsoft 365 Copilot Isn’t the Problem. Your Enterprise Has No AI Orchestration Strategy. - Security Boulevard",
+            "summary_en": "Recent industry analysis suggests that the underwhelming performance of Microsoft 365 Copilot in corporate settings is primarily due to a systemic lack of comprehensive AI orchestration strategies rather than flaws in the software itself.",
+            "link": "https://securityboulevard.com/2026/07/your-microsoft-365-copilot-isnt-the-problem-your-enterprise-has-no-ai-orchestration-strategy",
+            "timestamp": 1783101055000,
+            "date": "2026-07-03"
+        },
+        {
+            "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable - the-decoder.com",
+            "summary_en": "Anthropic is launching preclinical drug discovery programs focused on neglected diseases, leveraging its new 'Claude Science' tool to address areas that traditional pharmaceutical companies have historically bypassed as unprofitable. By integrating these AI models, industry leaders estimate that development timelines could be reduced from 12 years to 8, with potential to double clinical success rates through improved safety predictions.",
+            "link": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable",
+            "timestamp": 1783153025000,
+            "date": "2026-07-04"
+        },
         {
             "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines - MarkTechPost",
             "summary_en": "Anthropic has introduced Claude Science Beta, a specialized multi-agent AI workbench designed to streamline and improve the reproducibility of complex workflows in genomics, proteomics, and cheminformatics.",
@@ -678,27 +699,6 @@
             "summary_en": "Researchers at Varonis identified a critical three-stage vulnerability chain, dubbed SearchLeak, that allowed attackers to exfiltrate sensitive data from Microsoft 365 Copilot by exploiting Bing's image search feature. Microsoft has successfully addressed the flaw, which previously enabled data theft through specially crafted URLs and HTML rendering exploits.",
             "link": "https://www.scworld.com/brief/searchleak-vulnerability-allows-data-theft-from-microsoft-365-copilot-enterprise",
             "timestamp": 1781564012000,
-            "date": "2026-06-15"
-        },
-        {
-            "title": "Meta Unwinds Manus Acquisition and Faces Internal Revolt as AI Strategy Takes Its Toll - AI Insider",
-            "summary_en": "Meta is unwinding its $2 billion acquisition of Manus following a divestiture order from Chinese regulators citing national security concerns. Simultaneously, the company faces internal unrest as 1,600 employees protest a massive new Applied AI unit that monitors staff activity for training data collection.",
-            "link": "https://theaiinsider.tech/2026/06/15/meta-unwinds-manus-acquisition-and-faces-internal-revolt-as-ai-strategy-takes-its-toll",
-            "timestamp": 1781535955000,
-            "date": "2026-06-15"
-        },
-        {
-            "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests - 404 Media",
-            "summary_en": "Cornell University research reveals that AI search agents can be manipulated by as few as 13 words of strategically placed, inauthentic content on platforms like Reddit and Wikipedia. This vulnerability highlights the growing threat of AI-engine optimization (AEO), where brands create spam content to influence the information retrieved and cited by LLMs.",
-            "link": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests",
-            "timestamp": 1781533177000,
-            "date": "2026-06-15"
-        },
-        {
-            "title": "New York’s IT office partners with AWS for cloud and AI services, strategy saving taxpayers $58M - StateScoop",
-            "summary_en": "New York’s Office of Information Technology Services has partnered with AWS to centralize cloud and AI services, a move that has already generated $58 million in taxpayer savings. The initiative aims to streamline procurement and provide advanced AI tools to over 100,000 state employees.",
-            "link": "https://statescoop.com/new-yorks-it-office-partners-with-aws-for-cloud-and-ai-services-strategy-saving-taxpayers-58m",
-            "timestamp": 1781533116000,
             "date": "2026-06-15"
         }
     ]
