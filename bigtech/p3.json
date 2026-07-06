@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-03 17:08:59",
+    "last_update": "2026-07-06 18:02:18",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1779915317000,
+            "date": "2026-05-28",
+            "title": "There is no Copilot without the pilots, says Slovenian insurance executive",
+            "summary_kr": "슬로베니아의 보험사 트리글라브(Triglav)는 사내 '디지털 멘토' 제도를 통해 AI 도입의 장벽을 허물고, 반복 업무 자동화로 직원들이 고부가가치 업무에 집중하게 함으로써 성공적인 디지털 전환을 이뤄냈습니다.",
+            "summary_en": "Slovenian insurer Triglav has successfully driven digital transformation by utilizing a 'digital mentor' network to facilitate Copilot adoption, enabling employees to shift from repetitive tasks to higher-value work within a regulated environment.",
+            "link": "https://news.microsoft.com/source/emea/features/zavarovalnica-triglav-copilot-adoption-insurance"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1779831725000,
@@ -838,14 +847,6 @@
             "summary_en": "OpenAI and the Maltese government have launched a pioneering initiative to provide all citizens with free access to ChatGPT Plus, contingent upon completing a national AI literacy course to enhance public AI adoption.",
             "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
             "date": "2026-05-16"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1778803200000,
-            "title": "Connect Grok to Hermes Agent",
-            "summary_kr": "누스 리서치(Nous Research)가 자사의 오픈소스 에이전트 '헤르메스(Hermes)'에 xAI의 그록(Grok) 구독을 연동할 수 있는 기능을 출시했습니다.",
-            "summary_en": "Nous Research has integrated xAI’s Grok into its open-source, self-improving Hermes Agent, allowing users to leverage their Grok subscriptions directly within the platform.",
-            "link": "https://x.ai/news/grok-hermes"
         }
     ]
 }

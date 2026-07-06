@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-03 17:08:59",
+    "last_update": "2026-07-06 18:02:18",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1783296000000,
+            "date": "2026-07-06",
+            "title": "A global workspace in language models",
+            "summary_kr": "앤스로픽은 언어 모델 Claude 내부에서 인간의 의식적 사고와 유사하게 고차원적 추론과 정보 공유를 담당하는 신경 패턴인 'J-스페이스(J-space)'가 자발적으로 형성되었음을 발견했습니다.",
+            "summary_en": "Anthropic has discovered the 'J-space' within Claude, a set of spontaneously emerged neural patterns that function similarly to a human 'global workspace,' enabling the model to perform higher-order reasoning and flexible information processing.",
+            "link": "https://www.anthropic.com/research/global-workspace"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1783027542000,
@@ -891,15 +900,6 @@
             "summary_kr": "xAI는 복잡한 다단계 워크플로우를 실시간으로 처리하며 높은 정확도와 저지연성을 갖춘 차세대 음성 모델 'grok-voice-think-fast-1.0'을 API로 출시했습니다.",
             "summary_en": "xAI has launched 'grok-voice-think-fast-1.0', a flagship voice model designed for high-stakes, real-time multi-step workflows that balances low latency with superior reasoning and accuracy.",
             "link": "https://x.ai/news/grok-voice-think-fast-1"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781285601000,
-            "date": "2026-06-12",
-            "title": "5 foundations for reshaping the future of education and AI | Microsoft Education Blog",
-            "summary_kr": "AI 시대의 교육은 단순히 기술 습득을 넘어 인간 고유의 역량과 윤리적 판단력을 함양하여 학생들의 전인적 성장과 미래 노동 시장의 변화에 유연하게 대응하는 데 집중해야 합니다.",
-            "summary_en": "Education in the AI era must transcend technical skill acquisition by prioritizing uniquely human capabilities and ethical judgment, ensuring students achieve both personal flourishing and adaptability in a shifting labor market.",
-            "link": "https://www.microsoft.com/en-us/education/blog/2026/06/5-foundations-for-reshaping-the-future-of-education-and-ai"
         }
     ]
 }
