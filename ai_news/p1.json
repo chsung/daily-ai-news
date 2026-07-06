@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-07-06 07:18:58",
+    "last_update": "2026-07-06 17:48:36",
     "articles": [
+        {
+            "title": "Urgent Boost for Self-Developed AI Chips: Amazon AWS Raises Q3 ASIC Server Shipment Targets by Up to 30%. - TradingKey",
+            "summary_en": "Amazon AWS has raised its Q3 2026 ASIC server shipment targets by up to 30% to meet soaring demand from major partners like Anthropic, OpenAI, and its own Bedrock platform. The move centers on the 3nm Trainium 3 chip, which offers double the computing performance of its predecessor and represents a strategic shift toward self-developed hardware to maintain cloud dominance.",
+            "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262013038-amazon-aws-hiking-q3-asic-server-shipment-targets-up-30-tradingkey",
+            "timestamp": 1783337451000,
+            "date": "2026-07-06"
+        },
         {
             "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says - CNBC",
             "summary_en": "Nvidia’s flagship Kyber rack-scale architecture has been delayed until 2028 due to manufacturing challenges involving a complex multi-layer printed circuit board. This setback complicates Nvidia's product roadmap and may provide a competitive opening for rivals like AMD and Google as cloud providers reject alternative stopgap hardware designs.",
@@ -693,13 +700,6 @@
             "link": "http://koreabizwire.com/north-korea-advances-ai-research-using-aging-nvidia-chips-despite-sanctions/353309",
             "timestamp": 1781658223000,
             "date": "2026-06-17"
-        },
-        {
-            "title": "HPE tightens Nvidia ties in AI stack, integrates Juniper - Constellation Research",
-            "summary_en": "HPE has expanded its enterprise AI infrastructure by integrating Nvidia’s latest server technologies and Juniper’s networking portfolio to create a self-driving, high-efficiency data center stack. The update features advanced observability tools and metadata optimization that HPE claims can reduce AI token response times by 20x.",
-            "link": "https://www.constellationr.com/insights/news/hpe-tightens-nvidia-ties-ai-stack-integrates-juniper",
-            "timestamp": 1781627871000,
-            "date": "2026-06-16"
         }
     ]
 }

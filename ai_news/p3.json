@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-07-06 07:18:58",
+    "last_update": "2026-07-06 17:48:36",
     "articles": [
+        {
+            "title": "Introducing Claude Opus 4.8 - Anthropic",
+            "summary_en": "Anthropic has released Claude Opus 4.8, featuring enhanced reasoning, faster 2.5x execution speeds, and improved tool-calling efficiency for complex agentic workflows. The update also achieves record-breaking performance on the Legal Agent Benchmark, making it more reliable for high-stakes professional and autonomous engineering tasks.",
+            "link": "https://www.anthropic.com/news/claude-opus-4-8",
+            "timestamp": 1780008728000,
+            "date": "2026-05-29"
+        },
         {
             "title": "Strengthening societal resilience with Rosalind Biodefense - OpenAI",
             "summary_en": "OpenAI has launched the Rosalind Biodefense initiative to provide vetted developers with access to GPT-Rosalind, a frontier reasoning model designed to bolster pandemic preparedness and biological threat detection. This program is part of a broader strategy to equip public-health defenders with advanced, secure AI tools while maintaining rigorous safety safeguards.",
@@ -603,12 +610,6 @@
             "link": "https://fortune.com/2026/05/11/what-microsoft-research-tells-cfo-roi-ai/",
             "summary_en": "Microsoft’s 2026 Work Trend Index reveals that 67% of AI's business impact stems from organizational factors like culture and workflow redesign rather than just technology, noting that while 66% of users report improved productivity, management alignment and clear incentives remain major hurdles for CFOs.",
             "timestamp": 1778500200000
-        },
-        {
-            "title": "This Week In AI Chips - NVIDIA Strengthens Board with Strategic Leadership Addition - Yahoo Finance",
-            "link": "https://finance.yahoo.com/sectors/technology/articles/week-ai-chips-nvidia-strengthens-113723116.html",
-            "summary_en": "NVIDIA has strengthened its board of directors by appointing Suzanne Nora Johnson, a veteran with deep expertise in finance and technology, to support the company's expanding AI chip initiatives amidst strong market performance for semiconductor stocks.",
-            "timestamp": 1778499443000
         }
     ]
 }
