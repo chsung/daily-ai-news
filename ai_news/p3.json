@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-05 16:14:57",
+    "last_update": "2026-07-06 07:18:58",
     "articles": [
+        {
+            "title": "Strengthening societal resilience with Rosalind Biodefense - OpenAI",
+            "summary_en": "OpenAI has launched the Rosalind Biodefense initiative to provide vetted developers with access to GPT-Rosalind, a frontier reasoning model designed to bolster pandemic preparedness and biological threat detection. This program is part of a broader strategy to equip public-health defenders with advanced, secure AI tools while maintaining rigorous safety safeguards.",
+            "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
+            "timestamp": 1780051892000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "Snowflake Expands AWS Collaboration with $6B Commitment to Accelerate Enterprise Agentic AI Adoption - Snowflake",
+            "summary_en": "Snowflake has signed a $6 billion multi-year commitment to expand its use of AWS infrastructure, specifically targeting the acceleration of enterprise-grade agentic AI workloads. This collaboration deepens product integration between Snowflake Cortex AI and AWS Graviton processors to help customers deploy intelligent applications on governed data.",
+            "link": "https://www.snowflake.com/en/news/press-releases/snowflake-expands-aws-collaboration-with-6b-commitment-to-accelerate-enterprise-agentic-ai-adoption/",
+            "timestamp": 1779913098000,
+            "date": "2026-05-28"
+        },
         {
             "title": "NVIDIA Research Advances Robotics From Simulation to the Real World - NVIDIA Blog",
             "summary_en": "NVIDIA Research has showcased new sim-to-real frameworks at ICRA, including ScheduleStream for multi-arm coordination and Grasp-MPC for adaptive robotic handling. These tools allow robots to move beyond scripted tasks by leveraging GPU-accelerated simulation to generalize behaviors for unpredictable real-world environments.",
@@ -595,18 +609,6 @@
             "link": "https://finance.yahoo.com/sectors/technology/articles/week-ai-chips-nvidia-strengthens-113723116.html",
             "summary_en": "NVIDIA has strengthened its board of directors by appointing Suzanne Nora Johnson, a veteran with deep expertise in finance and technology, to support the company's expanding AI chip initiatives amidst strong market performance for semiconductor stocks.",
             "timestamp": 1778499443000
-        },
-        {
-            "title": "The new AI-powered Google Finance is expanding to Europe. - blog.google",
-            "link": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-            "summary_en": "Google is expanding its AI-powered finance platform to Europe with full local language support, featuring advanced research tools, real-time market data, and AI-generated insights for earnings calls to help users better navigate complex financial information.",
-            "timestamp": 1778479983000
-        },
-        {
-            "title": "Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw - The New York Times",
-            "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-            "summary_en": "Google reports that criminal hackers are increasingly utilizing artificial intelligence to identify and exploit critical vulnerabilities in software, posing a new threat to global cybersecurity.",
-            "timestamp": 1778504406000
         }
     ]
 }

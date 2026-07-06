@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-05 16:14:57",
+    "last_update": "2026-07-06 07:18:58",
     "articles": [
+        {
+            "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says - CNBC",
+            "summary_en": "Nvidia’s flagship Kyber rack-scale architecture has been delayed until 2028 due to manufacturing challenges involving a complex multi-layer printed circuit board. This setback complicates Nvidia's product roadmap and may provide a competitive opening for rivals like AMD and Google as cloud providers reject alternative stopgap hardware designs.",
+            "link": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+            "timestamp": 1783308060000,
+            "date": "2026-07-06"
+        },
+        {
+            "title": "Anthropic exploring custom AI chip development with Samsung, according to reports - New Electronics",
+            "summary_en": "Anthropic is reportedly in discussions with Samsung Electronics to develop custom artificial intelligence chips. This strategic move highlights the company's intent to reduce its reliance on third-party silicon providers and secure its own AI hardware supply chain.",
+            "link": "https://www.newelectronics.co.uk/content/news/anthropic-exploring-custom-ai-chip-development-with-samsung-according-to-reports",
+            "timestamp": 1783283175000,
+            "date": "2026-07-05"
+        },
         {
             "title": "Meta Launches AI Gaming App Pocket While Zuckerberg Admits Agent Development Has Fallen Behind Expectations - AI Insider",
             "summary_en": "Meta has introduced its new AI-driven gaming app, Pocket, while CEO Mark Zuckerberg has publicly acknowledged that the company's progress in developing autonomous AI agents has fallen behind internal expectations.",
@@ -686,20 +700,6 @@
             "link": "https://www.constellationr.com/insights/news/hpe-tightens-nvidia-ties-ai-stack-integrates-juniper",
             "timestamp": 1781627871000,
             "date": "2026-06-16"
-        },
-        {
-            "title": "ASUS Launches ExpertCenter Pro ET900N G3 Built on NVIDIA DGX Station Architecture - ASUS Pressroom",
-            "summary_en": "ASUS has released the ExpertCenter Pro ET900N G3, a deskside supercomputer utilizing the NVIDIA GB300 Grace Blackwell Ultra chip to provide data-center-level AI performance locally. With 748GB of coherent memory and 20 PFLOPS of performance, it is designed to support the training of models with up to 1 trillion parameters without relying on cloud infrastructure.",
-            "link": "https://press.asus.com/news/press-releases/asus-expertcenter-pro-et900n-g3-nvidia-gb300-blackwell",
-            "timestamp": 1781515825000,
-            "date": "2026-06-15"
-        },
-        {
-            "title": "SearchLeak vulnerability allows data theft from Microsoft 365 Copilot Enterprise - SC Media",
-            "summary_en": "Researchers at Varonis identified a critical three-stage vulnerability chain, dubbed SearchLeak, that allowed attackers to exfiltrate sensitive data from Microsoft 365 Copilot by exploiting Bing's image search feature. Microsoft has successfully addressed the flaw, which previously enabled data theft through specially crafted URLs and HTML rendering exploits.",
-            "link": "https://www.scworld.com/brief/searchleak-vulnerability-allows-data-theft-from-microsoft-365-copilot-enterprise",
-            "timestamp": 1781564012000,
-            "date": "2026-06-15"
         }
     ]
 }
