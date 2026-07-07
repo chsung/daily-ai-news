@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-07-07 06:52:28",
+    "last_update": "2026-07-07 17:22:59",
     "articles": [
+        {
+            "title": "King's partners with Google Quantum AI and National Quantum Computing Centre to explore quantum fundamentals",
+            "summary_en": "King's College London has partnered with Google Quantum AI and the NQCC to utilize the Willow quantum processor for simulating complex quantum systems, aiming to advance materials science, energy systems, and drug discovery.",
+            "link": "https://www.kcl.ac.uk/news/kings-partners-with-google-quantum-ai-and-national-quantum-computing-centre-to-explore-quantum-fundamentals",
+            "timestamp": 1779960306000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "Coding agents in the social sciences",
+            "summary_en": "A 2026 survey of 1,260 quantitative social scientists reveals that while 81% use AI chatbots, only 20% utilize autonomous coding agents, with notable adoption disparities linked to gender and institutional prestige. Despite these gaps, users of agentic tools are producing more working papers and grant proposals, signaling a potential shift toward automated empirical research.",
+            "link": "https://www.anthropic.com/research/coding-agents-social-sciences",
+            "timestamp": 1779923342000,
+            "date": "2026-05-27"
+        },
+        {
+            "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
+            "summary_en": "Meta is developing an AI pendant for 2027 testing and expanding its smart glasses lineup with 'supersensing' technology to combat hardware division losses through AI model integration and new enterprise-focused offerings. The company aims to monetize these wearables via a tiered subscription service, targeting 6.8 million monthly active users by the end of the year.",
+            "link": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy",
+            "timestamp": 1780130368000,
+            "date": "2026-05-30"
+        },
+        {
+            "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+            "summary_en": "Google has introduced Gemini Omni, a multimodal model capable of generating and iteratively editing videos via natural language, alongside the Gemini 3.5 Flash model. Designed for high-speed, long-horizon agentic tasks, 3.5 Flash is now powering real-world workflows in Google Search and developer-focused tools.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos",
+            "timestamp": 1780076243000,
+            "date": "2026-05-29"
+        },
+        {
+            "title": "A New Era of Innovation: Google Research at I/O 2026 - Research at Google",
+            "summary_en": "Google Research has introduced 'Gemini for Science,' an agentic suite of tools including ERA and Co-Scientist designed to accelerate scientific discovery through automated hypothesis generation and complex coding workflows. These experimental tools leverage multi-agent systems to perform large-scale computational experiments and literature synthesis across domains like neuroscience and genomics.",
+            "link": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
+            "timestamp": 1780002032000,
+            "date": "2026-05-28"
+        },
         {
             "title": "Russia-linked threat group put ChatGPT to work from lure to payload - The Register",
             "summary_en": "Recent industry reports highlight an increasing trend of threat actors utilizing LLMs to facilitate cyberattacks, alongside growing corporate demand for 'off switches' to manage rogue AI agents. Organizations like Okta are responding by developing specific licensing and security frameworks to mitigate the risks posed by autonomous AI entities.",
@@ -582,36 +617,6 @@
             "link": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
             "summary_en": "SoftBank reported a surprise surge in profits, validating CEO Masayoshi Son’s aggressive and long-term investment strategy in the artificial intelligence sector.",
             "timestamp": 1778670342000
-        },
-        {
-            "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No. - The New York Times",
-            "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
-            "summary_en": "Anthropic rejected a request from China for access to its most advanced artificial intelligence models due to national security and safety concerns.",
-            "timestamp": 1778576622000
-        },
-        {
-            "title": "American AI Companies Can’t Get Enough Chips - Center for a New American Security | CNAS",
-            "link": "https://www.cnas.org/publications/reports/american-ai-companies-cant-get-enough-chips",
-            "summary_en": "As of 2026, a severe shortage of AI chips has become the primary bottleneck for U.S. compute expansion, prompting policy calls for increased public research funding and stricter export controls to prevent China from gaining strategic technological advantages.",
-            "timestamp": 1778589315000
-        },
-        {
-            "title": "Google Detects First AI-Generated Zero-Day Exploit - Homeland Security Today",
-            "link": "https://www.hstoday.us/subject-matter-areas/cybersecurity/google-detects-first-ai-generated-zero-day-exploit/",
-            "summary_en": "Google security researchers have identified the first instance of a zero-day exploit generated by artificial intelligence, marking a new milestone in AI-driven cyber threats.",
-            "timestamp": 1778592454000
-        },
-        {
-            "title": "Leni Tops Four Major AI Benchmarks, Outperforming Systems from OpenAI, Anthropic, Google, and Perplexity - PR Newswire",
-            "link": "https://www.prnewswire.com/news-releases/leni-tops-four-major-ai-benchmarks-outperforming-systems-from-openai-anthropic-google-and-perplexity-302769724.html",
-            "summary_en": "The commercial real estate AI platform Leni has surpassed major competitors like OpenAI and Google on four key industry benchmarks, proving its ability to provide accurate, reliable data analysis for high-stakes investment decisions.",
-            "timestamp": 1778596260000
-        },
-        {
-            "title": "OpenAI launches $4 billion AI deployment company - qz.com",
-            "link": "https://qz.com/openai-deployment-company-launch-tpg-tomoro-051126",
-            "summary_en": "OpenAI has officially launched a new $4 billion entity focused on the deployment of artificial intelligence technologies.",
-            "timestamp": 1778507582000
         }
     ]
 }

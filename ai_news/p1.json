@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-07-07 06:52:28",
+    "last_update": "2026-07-07 17:22:59",
     "articles": [
+        {
+            "title": "Microsoft Shifts Its Enterprise AI Strategy from Building Models to Deployment -- Redmond Channel Partner - Redmond Channel Partner",
+            "summary_en": "Microsoft has launched the 'Frontier Company' initiative, allocating approximately 6,000 AI engineers and industry specialists to help enterprise customers transition AI projects from experimentation to production. This strategy shifts the company's focus from model performance to outcome-driven engineering, addressing the operational, governance, and workflow challenges of large-scale AI deployment.",
+            "link": "https://rcpmag.com/articles/2026/07/07/microsoft-shifts-its-enterprise-ai-strategy.aspx",
+            "timestamp": 1783429865000,
+            "date": "2026-07-07"
+        },
+        {
+            "title": "Certara Accelerates Drug Discovery and Development with NVIDIA BioNeMo Agent Toolkit FAQs - Stock Titan",
+            "summary_en": "Certara is partnering with NVIDIA to integrate the BioNeMo Agent Toolkit into its drug discovery platform to create autonomous AI agents for biosimulation. These agents will assist scientists by automating complex tasks such as dosage optimization, clinical trial simulation, and regulatory documentation while maintaining a human-in-the-loop decision-making process.",
+            "link": "https://www.stocktitan.net/news/CERT/certara-accelerates-drug-discovery-and-development-with-nvidia-bio-xvymzo9l011a.html",
+            "timestamp": 1783425600000,
+            "date": "2026-07-07"
+        },
+        {
+            "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research - MarkTechPost",
+            "summary_en": "Synthetic Sciences has introduced OpenScience, an open-source, model-agnostic AI workbench designed to support interdisciplinary research in machine learning, biology, physics, and chemistry. This platform aims to provide researchers with a unified environment for developing and deploying AI-driven scientific workflows.",
+            "link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+            "timestamp": 1783314432000,
+            "date": "2026-07-06"
+        },
+        {
+            "title": "DeepSeek Ventures into AI Chip Development, Challenging Nvidia and Huawei | Technology - Devdiscourse",
+            "summary_en": "Chinese startup DeepSeek is entering the proprietary AI chip market in an effort to reduce its dependency on Nvidia and Huawei hardware. Despite facing significant hurdles from U.S. export restrictions, the move represents a strategic effort to secure China's technological independence in the AI sector.",
+            "link": "https://www.devdiscourse.com/article/technology/3946531-deepseek-ventures-into-ai-chip-development-challenging-nvidia-and-huawei",
+            "timestamp": 1783428706000,
+            "date": "2026-07-07"
+        },
+        {
+            "title": "Google launches Genkit Agents preview to simplify full-stack AI app development- Moneycontrol.com - Moneycontrol.com",
+            "summary_en": "Google has launched a preview of Genkit Agents, a new API for TypeScript and Go that simplifies full-stack AI development by automating conversation state management and tool execution. The framework allows developers to build complex, multi-agent applications with features like human-approval workflows, persistence, and support for detached long-running tasks.",
+            "link": "https://www.moneycontrol.com/technology/google-launches-genkit-agents-preview-to-simplify-full-stack-ai-app-development-article-13968013.html",
+            "timestamp": 1783416006000,
+            "date": "2026-07-07"
+        },
         {
             "title": "Amazon seeks robotics scientist to build autonomous lab for materials research - EdTech Innovation Hub",
             "summary_en": "Amazon is recruiting a robotics scientist to develop an autonomous laboratory aimed at accelerating sustainability research through physical AI and foundation models. The role focuses on integrating robotic platforms with machine learning pipelines to automate materials discovery for packaging and alternative fuels.",
@@ -665,41 +700,6 @@
             "link": "https://indianexpress.com/article/technology/artificial-intelligence/openai-adds-gemini-co-lead-noam-shazeer-to-growing-talent-roster-10745345",
             "timestamp": 1781749686000,
             "date": "2026-06-18"
-        },
-        {
-            "title": "AWS Summit New York 2026: New AI agent innovations - About Amazon",
-            "summary_en": "AWS has unveiled several new AI-native tools, including the 'AWS Continuum' security service and 'AWS Context' knowledge graph, to help organizations accelerate the deployment and autonomy of AI agents. These innovations aim to help businesses move beyond conceptual stages by providing agents with the necessary telemetry and contextual data to perform complex tasks at machine speed.",
-            "link": "https://www.aboutamazon.com/news/aws/aws-summit-nyc-2026-ai-agents",
-            "timestamp": 1781708605000,
-            "date": "2026-06-17"
-        },
-        {
-            "title": "Nvidia research shows robots that train themselves through AI coding agents - the-decoder.com",
-            "summary_en": "Nvidia, Carnegie Mellon, and UC Berkeley researchers developed the ENPIRE project, which uses AI coding agents to autonomously train robots in dexterous manipulation tasks like pin insertion and cable tie cutting. By coordinating a fleet of eight robots via Git, the agents achieved up to 99% success rates while significantly reducing training time compared to human-in-the-loop methods.",
-            "link": "https://the-decoder.com/nvidia-research-shows-robots-that-train-themselves-through-ai-coding-agents",
-            "timestamp": 1781708287000,
-            "date": "2026-06-17"
-        },
-        {
-            "title": "From pixels to planning: Earth AI for nature restoration - Research at Google",
-            "summary_en": "Google Research has released a high-resolution, vectorized dataset that identifies fine-scale ecological features like hedgerows and copses which are typically invisible to standard satellite imagery. This AI-powered tool enables landowners and conservationists to precisely measure and expand biodiversity-rich habitats without displacing essential agricultural land.",
-            "link": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration",
-            "timestamp": 1781631289000,
-            "date": "2026-06-16"
-        },
-        {
-            "title": "Database market shifts as MongoDB Atlas powers AI apps - SiliconANGLE",
-            "summary_en": "MongoDB is positioning its Atlas platform as the 'active memory layer' for AI applications by integrating directly with AWS services like Amazon Bedrock and Amazon Q Developer. This unified approach allows enterprises to streamline their AI stack and consolidate procurement costs, as demonstrated by firms like Novo Nordisk, which significantly reduced clinical reporting times.",
-            "link": "https://siliconangle.com/2026/06/16/database-market-mongodb-atlas-aws-marketplace-awsmarketplaceseries",
-            "timestamp": 1781620891000,
-            "date": "2026-06-16"
-        },
-        {
-            "title": "OpenAI's Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls - MarkTechPost",
-            "summary_en": "OpenAI has introduced 'Deployment Simulation,' a safety method that evaluates new models by replaying actual user traffic to estimate failure rates. This approach complements traditional testing by providing representative data on how models perform in real-world contexts, though it is limited to risks appearing in at least 1 in 200,000 messages.",
-            "link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation",
-            "timestamp": 1781675394000,
-            "date": "2026-06-17"
         }
     ]
 }
