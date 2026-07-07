@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-06 17:48:36",
+    "last_update": "2026-07-07 06:52:28",
     "articles": [
+        {
+            "title": "Amazon seeks robotics scientist to build autonomous lab for materials research - EdTech Innovation Hub",
+            "summary_en": "Amazon is recruiting a robotics scientist to develop an autonomous laboratory aimed at accelerating sustainability research through physical AI and foundation models. The role focuses on integrating robotic platforms with machine learning pipelines to automate materials discovery for packaging and alternative fuels.",
+            "link": "https://www.edtechinnovationhub.com/news/amazon-seeks-robotics-scientist-to-build-autonomous-lab-for-materials-research",
+            "timestamp": 1783378911000,
+            "date": "2026-07-06"
+        },
+        {
+            "title": "AMD Ryzen AI Halo Launches at $3,999, Undercutting Nvidia DGX Spark for Local AI Development - finance.biggo.com",
+            "summary_en": "AMD has released its Ryzen AI Halo mini workstation at $3,999, providing developers with 128 GB of unified memory for running large language models on-device. While it serves as a more affordable alternative to Nvidia’s DGX Spark, the system lacks the high-speed networking capabilities required for advanced multi-node clustering.",
+            "link": "https://finance.biggo.com/news/629271c3-c7cb-4a9a-b43a-068d34de6ecc",
+            "timestamp": 1783364760000,
+            "date": "2026-07-06"
+        },
         {
             "title": "Urgent Boost for Self-Developed AI Chips: Amazon AWS Raises Q3 ASIC Server Shipment Targets by Up to 30%. - TradingKey",
             "summary_en": "Amazon AWS has raised its Q3 2026 ASIC server shipment targets by up to 30% to meet soaring demand from major partners like Anthropic, OpenAI, and its own Bedrock platform. The move centers on the 3nm Trainium 3 chip, which offers double the computing performance of its predecessor and represents a strategic shift toward self-developed hardware to maintain cloud dominance.",
@@ -685,20 +699,6 @@
             "summary_en": "OpenAI has introduced 'Deployment Simulation,' a safety method that evaluates new models by replaying actual user traffic to estimate failure rates. This approach complements traditional testing by providing representative data on how models perform in real-world contexts, though it is limited to risks appearing in at least 1 in 200,000 messages.",
             "link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation",
             "timestamp": 1781675394000,
-            "date": "2026-06-17"
-        },
-        {
-            "title": "Anthropic to meet White House officials over AI tool suspension - BBC",
-            "summary_en": "Anthropic executives are set to meet with U.S. Commerce Department officials to address a government-mandated suspension of its 'Fable 5' and 'Mythos 5' AI tools. The government blocked public access due to national security concerns regarding potential jailbreak vulnerabilities in these highly capable models.",
-            "link": "https://www.bbc.com/news/articles/c9w2p7ykp8yo",
-            "timestamp": 1781549066000,
-            "date": "2026-06-15"
-        },
-        {
-            "title": "North Korea Advances AI Research Using Aging Nvidia Chips Despite Sanctions - Koreabizwire",
-            "summary_en": "Despite stringent international sanctions, North Korea continues to advance its artificial intelligence research efforts by utilizing aging Nvidia hardware. The state’s ability to conduct AI development despite restricted access to modern semiconductor technology underscores ongoing challenges in enforcing global tech export controls.",
-            "link": "http://koreabizwire.com/north-korea-advances-ai-research-using-aging-nvidia-chips-despite-sanctions/353309",
-            "timestamp": 1781658223000,
             "date": "2026-06-17"
         }
     ]
