@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-07 17:22:59",
+    "last_update": "2026-07-08 05:58:12",
     "articles": [
+        {
+            "title": "Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms",
+            "summary_en": "Anthropic plans to release its powerful Claude Mythos model in the coming weeks, despite significant scrutiny regarding its ability to autonomously execute complex cyberattacks. While the company maintains the model will help defenders patch vulnerabilities, previous testing revealed the AI could identify hundreds of exploits, including 271 in Firefox and vulnerabilities in M5 Mac chips.",
+            "link": "https://decrypt.co/369383/anthropic-claude-mythos-ai-model-nearing-release-cybersecurity-alarms",
+            "timestamp": 1779992859000,
+            "date": "2026-05-28"
+        },
+        {
+            "title": "Google DeepMind Explains AI Agent Building Struggles",
+            "summary_en": "Google DeepMind researcher Philipp Schmid identifies five 'mental model collisions' that occur when engineers shift from traditional, deterministic software development to the probabilistic and non-linear nature of building AI agents.",
+            "link": "https://www.startuphub.ai/ai-news/ai-research/2026/google-deepmind-explains-ai-agent-building-struggles",
+            "timestamp": 1780153316000,
+            "date": "2026-05-30"
+        },
+        {
+            "title": "Labor market impacts of AI: A new measure and early evidence",
+            "summary_en": "A new study reveals that while occupations with high 'observed exposure' to AI are projected to see slower growth through 2034, there is currently no systematic evidence of increased unemployment linked to AI integration.",
+            "link": "https://www.anthropic.com/research/labor-market-impacts",
+            "timestamp": 1772697600000,
+            "date": "2026-03-05"
+        },
         {
             "title": "King's partners with Google Quantum AI and National Quantum Computing Centre to explore quantum fundamentals",
             "summary_en": "King's College London has partnered with Google Quantum AI and the NQCC to utilize the Willow quantum processor for simulating complex quantum systems, aiming to advance materials science, energy systems, and drug discovery.",
@@ -599,24 +620,6 @@
             "link": "https://www.cxtoday.com/security-privacy-compliance/google-cloud-uncovers-first-ai-made-zero-day-exploit-putting-cx-in-the-crosshairs/",
             "summary_en": "Google Threat Intelligence Group has identified the first AI-developed zero-day exploit, which utilized large language models to detect complex logic flaws that allowed cybercriminals to bypass two-factor authentication in an open-source administration tool.",
             "timestamp": 1778678666000
-        },
-        {
-            "title": "Meta Offers Rival AI Chatbots Free Access to WhatsApp During EU Competition Probe - WSJ",
-            "link": "https://www.wsj.com/tech/meta-offers-rival-ai-chatbots-free-access-to-whatsapp-during-eu-competition-probe-f3c11e5c",
-            "summary_en": "Meta is offering rival AI chatbot developers free access to its WhatsApp platform to address concerns and scrutiny from EU regulators regarding competition practices.",
-            "timestamp": 1778668620000
-        },
-        {
-            "title": "Microsoft strengthens partnership with SK Hynix for its own AI chips - Techzine Global",
-            "link": "https://www.techzine.eu/news/infrastructure/141307/microsoft-strengthens-partnership-with-sk-hynix-for-its-own-ai-chips/",
-            "summary_en": "Microsoft is deepening its partnership with SK Hynix, making the firm the exclusive supplier of high-bandwidth memory for its proprietary 'Maia 200' AI inference chips to reduce dependence on NVIDIA hardware.",
-            "timestamp": 1778674260000
-        },
-        {
-            "title": "SoftBank Logs Surprise Profit Jump in Boon for Son’s AI Bets - Bloomberg.com",
-            "link": "https://www.bloomberg.com/news/articles/2026-05-13/softbank-logs-surprise-profit-jump-in-boon-for-son-s-ai-bets",
-            "summary_en": "SoftBank reported a surprise surge in profits, validating CEO Masayoshi Son’s aggressive and long-term investment strategy in the artificial intelligence sector.",
-            "timestamp": 1778670342000
         }
     ]
 }
