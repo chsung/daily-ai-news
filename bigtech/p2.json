@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-07-07 17:49:54",
+    "last_update": "2026-07-08 17:16:05",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781649000000,
+            "date": "2026-06-16",
+            "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
+            "summary_kr": "NVIDIA가 공개한 XR AI는 AR 글래스 및 XR 기기에서 실시간 시각·음성 정보를 처리하고 엔터프라이즈 데이터와 연동되는 지능형 에이전트 개발을 위한 오픈소스 인프라를 제공합니다.",
+            "summary_en": "NVIDIA XR AI provides an open-source infrastructure that enables developers to build intelligent agents capable of processing real-time multimodal inputs and integrating enterprise data for AR and XR devices.",
+            "link": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781641808000,
+            "date": "2026-06-16",
+            "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
+            "summary_kr": "금융 거래 데이터의 순차적 패턴을 학습하는 트랜스포머 기반 파운데이션 모델이 기존의 수동 피처 엔지니어링을 대체하며 사기 탐지 및 신용 평가 등 다양한 금융 업무에서 성능을 혁신하고 있습니다.",
+            "summary_en": "Transformer-based foundation models are revolutionizing financial intelligence by learning sequential transaction patterns, replacing brittle manual feature engineering to significantly enhance performance in tasks like fraud detection and credit scoring.",
+            "link": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781639985000,
+            "date": "2026-06-16",
+            "title": "Achieving success with AI - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 기업이 독자적인 경쟁력을 강화하려면 특정 모델에 종속되지 않는 개방형 플랫폼 환경과 함께, 비용 효율성 및 보안을 보장하는 신뢰 기반의 AI 전략이 필수적이라고 강조합니다.",
+            "summary_en": "Microsoft emphasizes that for organizations to thrive, they must adopt an open, model-diverse platform that prioritizes 'Intelligence + Trust' to ensure strategic autonomy, cost optimization, and secure governance.",
+            "link": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1781568000000,
+            "date": "2026-06-16",
+            "title": "Grok Imagine Video 1.5",
+            "summary_kr": "xAI가 공개한 Grok Imagine Video 1.5는 향상된 물리 효과와 오디오 동기화 및 2배 빠른 생성 속도를 갖추었으며, 워크플로우 효율을 위한 새로운 프로젝트 관리 기능을 제공합니다.",
+            "summary_en": "xAI has launched Grok Imagine Video 1.5, featuring superior motion, physics, and audio synchronization alongside doubled generation speeds and new workflow-enhancing project management tools.",
+            "link": "https://x.ai/news/grok-imagine-video-1-5"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1781654400000,
+            "date": "2026-06-17",
+            "title": "Agentic coding and persistent returns to expertise",
+            "summary_kr": "에이전트 코딩 환경에서는 도메인 전문성이 코딩 기술보다 작업 성공의 핵심 동력이 되며, 사용자의 기획 능력과 AI의 실행력이 결합하여 업무의 복잡도와 가치를 높이고 있습니다.",
+            "summary_en": "Domain expertise serves as a key driver of success in agentic coding, where human strategic planning and AI execution combine to significantly enhance the complexity and value of knowledge work.",
+            "link": "https://www.anthropic.com/research/claude-code-expertise"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781629479000,
+            "date": "2026-06-16",
+            "title": "Copilot Cowork is now generally available | Microsoft 365 Blog",
+            "summary_kr": "마이크로소프트가 복잡하고 긴 호흡의 업무를 엔드투엔드로 자동화하는 'Copilot Cowork'를 정식 출시했습니다. 이 서비스는 엔터프라이즈급 보안과 효율적인 비용 구조를 바탕으로 기업의 생산성을 획기적으로 개선합니다.",
+            "summary_en": "Microsoft has officially launched 'Copilot Cowork,' an agentic system designed to automate complex, long-running tasks from end to end with enterprise-grade security and a cost-efficient, usage-based pricing model.",
+            "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781629200000,
+            "date": "2026-06-16",
+            "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+            "summary_kr": "엔비디아는 언리얼 엔진 5를 위한 'ACE 게임 에이전트 SDK'와 신규 플러그인을 공개하여, 개발자들이 고성능 온디바이스 AI NPC를 더 쉽고 효율적으로 구축할 수 있도록 지원합니다.",
+            "summary_en": "NVIDIA has introduced the ACE Game Agent SDK and new Unreal Engine 5 plugins, enabling developers to more easily build and deploy high-performance, on-device AI companions.",
+            "link": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781625600000,
+            "date": "2026-06-16",
+            "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
+            "summary_kr": "NVIDIA Transformer Engine을 활용해 모델의 행렬 연산(GEMM) 형태를 정밀하게 분석하고 저정밀도(FP8, FP4) 최적화를 수행함으로써 트랜스포머 모델의 학습 속도를 효과적으로 가속화하는 방법을 제시합니다.",
+            "summary_en": "This article explains how to accelerate transformer training by analyzing GEMM shapes and leveraging NVIDIA Transformer Engine to optimize performance through low-precision formats like FP8 and FP4.",
+            "link": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1781622673000,
@@ -828,78 +900,6 @@
             "summary_kr": "OpenAI가 미시간주에 1GW 규모의 '더 반(The Barn)' 데이터 센터 착공을 발표하며, 지역사회 상생, 일자리 창출, 교육 지원을 통해 인공지능 시대를 위한 지속 가능한 인프라를 구축합니다.",
             "summary_en": "OpenAI has broken ground on 'The Barn,' a 1GW data center in Michigan, committing to local economic growth, job creation, and extensive AI literacy programs for students as part of its strategy to build sustainable AI infrastructure.",
             "link": "https://openai.com/index/stargate-michigan-data-center"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780308000000,
-            "date": "2026-06-01",
-            "title": "OpenAI frontier models and Codex are now available on AWS",
-            "summary_kr": "AWS가 오픈AI의 최신 모델과 코드 생성 모델인 코덱스를 자사 플랫폼에 정식 도입함으로써, 기업들이 기존 보안 및 거버넌스 체계 안에서 AI를 보다 쉽고 빠르게 도입할 수 있게 되었습니다.",
-            "summary_en": "AWS has integrated OpenAI's frontier models and Codex into its platform, enabling enterprises to deploy advanced AI solutions more efficiently within their existing security and governance workflows.",
-            "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780272000000,
-            "date": "2026-06-01",
-            "title": "Anthropic confidentially submits draft S-1 to the SEC",
-            "summary_kr": "AI 기업 앤스로픽이 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 S-1 등록 서류 초안을 비공개로 제출하며 상장 절차에 착수했습니다.",
-            "summary_en": "AI startup Anthropic has officially initiated the IPO process by confidentially submitting a draft S-1 registration statement to the U.S. SEC.",
-            "link": "https://www.anthropic.com/news/confidential-draft-s1-sec"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1780272000000,
-            "date": "2026-06-01",
-            "title": "Composer 2.5",
-            "summary_kr": "X의 Grok 빌드에 복잡한 지시 사항과 긴 작업 처리에 최적화된 최신 AI 모델 'Composer 2.5'가 출시되었습니다.",
-            "summary_en": "Composer 2.5 has been released on Grok Build, offering state-of-the-art performance for complex, long-running tasks.",
-            "link": "https://x.ai/news/composer-2-5"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1780323255000,
-            "date": "2026-06-01",
-            "title": "Introducing a powerful new chapter for Windows PCs, accelerated by NVIDIA RTX Spark",
-            "summary_kr": "마이크로소프트와 엔비디아가 협력하여 1페타플롭 규모의 AI 성능과 고효율을 갖춘 차세대 윈도우 PC용 'NVIDIA RTX Spark'를 공개하며, 온디바이스 AI 에이전트 시대를 본격화합니다.",
-            "summary_en": "Microsoft and NVIDIA have partnered to introduce 'NVIDIA RTX Spark,' a powerful, high-efficiency platform designed to accelerate local AI agents and demanding workloads on the next generation of Windows PCs.",
-            "link": "https://blogs.windows.com/windowsexperience/2026/05/31/introducing-a-powerful-new-chapter-for-windows-pcs-accelerated-by-nvidia-rtx-spark"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780289355000,
-            "date": "2026-06-01",
-            "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
-            "summary_kr": "NVIDIA Alpamayo의 AlpaGym은 자율주행 모델 학습 시 시뮬레이터 피드백을 직접 반영하는 폐루프(closed-loop) 강화학습을 통해, 오픈루프 방식의 한계를 극복하고 모델의 실전 대응력을 향상시키는 확장 가능한 학습 파이프라인을 제공합니다.",
-            "summary_en": "NVIDIA Alpamayo’s AlpaGym provides a scalable closed-loop reinforcement learning pipeline that integrates simulator feedback directly into model training, overcoming the limitations of open-loop methods to improve real-world autonomous driving performance.",
-            "link": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780289038000,
-            "date": "2026-06-01",
-            "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
-            "summary_kr": "엔비디아가 물리적 AI의 추론, 세계 모델링, 행동 생성 기능을 통합한 'Cosmos 3' 파운데이션 모델을 오픈소스로 공개하여 로봇 및 자율주행 기술 개발을 가속화합니다.",
-            "summary_en": "NVIDIA has open-sourced 'Cosmos 3,' a unified foundation model that integrates physical reasoning, world modeling, and action generation to accelerate development in robotics and autonomous systems.",
-            "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780287702000,
-            "date": "2026-06-01",
-            "title": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
-            "summary_kr": "NVIDIA BlueField DPU와 DOCA 기술은 호스트 시스템과 분리된 하드웨어 기반 보안을 통해 AI 팩토리의 인프라, 데이터, 자율형 AI 에이전트를 고성능으로 보호합니다.",
-            "summary_en": "NVIDIA BlueField DPUs and DOCA provide hardware-enforced, full-stack security that protects AI infrastructure, data, and autonomous agents by isolating security services from host systems to maintain performance at AI scale.",
-            "link": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780286355000,
-            "date": "2026-06-01",
-            "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
-            "summary_kr": "NVIDIA Vera CPU는 에이전트형 AI와 강화학습 시대에 발맞춰, 높은 코어 성능과 효율적인 메모리 대역폭을 통해 AI 팩토리의 병목 현상을 해결하고 작업 처리량을 극대화하도록 설계되었습니다.",
-            "summary_en": "NVIDIA Vera CPU is designed to overcome bottlenecks in AI factories by delivering high per-core performance and efficient memory bandwidth, specifically optimized to scale agentic AI and reinforcement learning workloads.",
-            "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories"
         }
     ]
 }
