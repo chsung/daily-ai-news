@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-08 05:58:12",
+    "last_update": "2026-07-08 16:44:39",
     "articles": [
+        {
+            "title": "AI Chips Today - Certara-NVIDIA Partnership Revolutionizes AI in Drug Development - Yahoo Finance",
+            "summary_en": "Certara is partnering with NVIDIA to integrate the BioNeMo Agent Toolkit into its biosimulation software to automate drug discovery processes. This collaboration uses AI-driven agents to computationally simulate human biology, aiming to accelerate the development of new medicines.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-certara-nvidia-113752197.html",
+            "timestamp": 1783510672000,
+            "date": "2026-07-08"
+        },
+        {
+            "title": "Cloudflare, OpenAI launch research pilot on AI search indexing - Investing.com",
+            "summary_en": "Cloudflare and OpenAI have entered into a research partnership to pilot new methodologies for AI search indexing. Specific details regarding the scope and technical implementation of this collaboration are limited.",
+            "link": "https://www.investing.com/news/company-news/cloudflare-openai-launch-research-pilot-on-ai-search-indexing-93CH-4781484",
+            "timestamp": 1783514880000,
+            "date": "2026-07-08"
+        },
+        {
+            "title": "DeepSeek begins in-house AI chip development to cut reliance on NVIDIA, sources say - TechNode",
+            "summary_en": "Chinese startup DeepSeek has initiated an internal project to develop custom AI inference chips to reduce operational costs and dependence on NVIDIA hardware. The project, which began approximately a year ago, focuses on optimizing the high-volume inference demands essential for its growing foundation model business.",
+            "link": "https://technode.com/2026/07/08/deepseek-begins-in-house-ai-chip-development-to-cut-reliance-on-nvidia-sources-say",
+            "timestamp": 1783478066000,
+            "date": "2026-07-08"
+        },
         {
             "title": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram - Yahoo Finance",
             "summary_en": "Meta has launched the Muse Image model, enabling users to generate and edit images within its AI chatbot, Instagram, and WhatsApp. The company aims to monetize its AI infrastructure by eventually offering access to these models to external developers via cloud services.",
@@ -679,27 +700,6 @@
             "link": "https://www.cnbc.com/video/2026/06/18/amazon-svp-on-ai-strategy-aim-to-compete-with-anthropic-in-coming-year.html",
             "timestamp": 1781782713000,
             "date": "2026-06-18"
-        },
-        {
-            "title": "Amazon Expands Trainium AI Chip Strategy Beyond AWS - Amazon.com (NASDAQ:AMZN) - Benzinga",
-            "summary_en": "Amazon is exploring the sale of its Trainium AI chips to external customers beyond AWS to address the global underconsumption of AI hardware. While third-generation chips are currently sold out, the company is already experiencing significant demand for its upcoming fourth-generation chips.",
-            "link": "https://www.benzinga.com/markets/tech/26/06/53285203/amazon-expands-trainium-ai-chip-strategy-beyond-aws",
-            "timestamp": 1781802520000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "NVIDIA ENPIRE Closes the Loop: AI Agents Now Run Robotics Research on Real Hardware - Tech Times",
-            "summary_en": "NVIDIA's new ENPIRE framework enables autonomous AI agents to conduct 'physical autoresearch' by managing the entire robotics experimentation cycle without human intervention. By automating scene resets and hardware trials, the system achieved a 99% success rate on complex physical tasks like seating graphics cards.",
-            "link": "https://www.techtimes.com/articles/318587/20260617/nvidia-enpire-closes-loop-ai-agents-now-run-robotics-research-real-hardware.htm",
-            "timestamp": 1781726887000,
-            "date": "2026-06-17"
-        },
-        {
-            "title": "AWS targets software release bottlenecks with DevOps Agent update - InfoWorld",
-            "summary_en": "AWS has updated its DevOps Agent with automated release management features designed to validate, test, and review AI-generated code before deployment. These tools aim to eliminate software delivery bottlenecks by running code in isolated environments to verify functionality and security compliance automatically.",
-            "link": "https://www.infoworld.com/article/4186159/aws-targets-software-release-bottlenecks-with-devops-agent-update.html",
-            "timestamp": 1781708550000,
-            "date": "2026-06-17"
         }
     ]
 }
