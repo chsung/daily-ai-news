@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-07-09 06:50:50",
+    "last_update": "2026-07-09 17:25:32",
     "articles": [
+        {
+            "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
+            "summary_en": "NVIDIA is ramping up production of the Vera Rubin platform, a new POD-scale system designed to power agentic AI factories with 10x the agent throughput of its predecessor. The platform features integrated co-packaged optics networking to support massive-scale AI infrastructure consisting of millions of GPUs.",
+            "link": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
+            "timestamp": 1780286415000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "Microsoft’s first advanced reasoning AI is here",
+            "summary_en": "Microsoft introduced MAI-Thinking-1, an advanced reasoning model trained from scratch on clean data, as part of a suite of seven new in-house AI tools unveiled at Build 2026. This move highlights Microsoft’s shift toward developing its own proprietary AI models for software engineering and application tasks.",
+            "link": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+            "timestamp": 1780423964000,
+            "date": "2026-06-03"
+        },
+        {
+            "title": "Mayo Clinic, Microsoft partner on healthcare AI model development By Investing.com - Investing.com Australia",
+            "summary_en": "Microsoft and Mayo Clinic have entered a strategic partnership to jointly develop advanced healthcare-focused artificial intelligence models. This collaboration aims to leverage institutional data to create specialized AI solutions for the medical industry.",
+            "link": "https://au.investing.com/news/stock-market-news/mayo-clinic-microsoft-partner-on-healthcare-ai-model-development-93CH-4468224",
+            "timestamp": 1780430233000,
+            "date": "2026-06-03"
+        },
+        {
+            "title": "Microsoft Rayfin Debuts as a New Backend Platform for AI Agent Development and App Creation",
+            "summary_en": "Microsoft launched Rayfin, an open-source backend platform integrated with Microsoft Fabric that automates infrastructure management for AI agents. The tool enables developers and agents to generate complete application backends, such as databases and APIs, through simple code definitions or natural language prompts.",
+            "link": "http://www.techtimes.com/articles/317651/20260602/microsoft-rayfin-debuts-new-backend-platform-ai-agent-development-app-creation.htm",
+            "timestamp": 1780459207000,
+            "date": "2026-06-03"
+        },
         {
             "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure",
             "summary_en": "NVIDIA and Corning have established a long-term partnership to advance optical technologies for AI infrastructure. The collaboration focuses on strengthening US manufacturing and supply chains to support the massive infrastructure buildout required for next-generation AI systems.",
@@ -603,30 +631,6 @@
             "link": "https://www.anthropic.com/research/2028-ai-leadership",
             "summary_en": "Anthropic argues that the U.S. must maintain its leadership in compute resources to prevent authoritarian regimes from dominating AI development and using the technology for mass repression by 2028.",
             "timestamp": 1778782464000
-        },
-        {
-            "title": "OpenAI may take legal action against Apple over Siri’s ChatGPT integration - Fortune",
-            "link": "https://fortune.com/2026/05/15/openai-legal-action-apple-siri-chatgpt-integration/",
-            "summary_en": "OpenAI is reportedly considering legal action against Apple, claiming the integration of ChatGPT into Siri has failed to drive subscriptions as expected, potentially creating a breach of contract.",
-            "timestamp": 1778841900000
-        },
-        {
-            "title": "Google Launches REPLIQA to Integrate Quantum AI and Life Sciences - Quantum Computing Report",
-            "link": "https://quantumcomputingreport.com/google-launches-repliqa-to-integrate-quantum-ai-and-life-sciences/",
-            "summary_en": "Google has launched the $10 million REPLIQA initiative to fund five universities in researching the application of quantum computing and AI to molecular biology, specifically targeting complex drug metabolism processes.",
-            "timestamp": 1778844663000
-        },
-        {
-            "title": "Microsoft business software faces UK antitrust probe over bundling, AI lock-in - Computerworld",
-            "link": "https://www.computerworld.com/article/4171743/microsoft-business-software-faces-uk-antitrust-probe-over-bundling-ai-lock-in.html",
-            "summary_en": "The UK’s Competition and Markets Authority has launched an antitrust investigation into Microsoft to determine if its bundling of AI-powered Copilot with its business software ecosystem restricts competition and creates unfair vendor lock-in.",
-            "timestamp": 1778849427000
-        },
-        {
-            "title": "Anthropic and Bill Gates' Foundation Commit $200 Million To AI for Healthcare And Education - Benzinga",
-            "link": "https://www.benzinga.com/markets/private-markets/26/05/52592572/anthropic-and-bill-gates-foundation-commit-200-million-to-ai-for-healthcare-and-education",
-            "summary_en": "Anthropic and the Bill & Melinda Gates Foundation have committed $200 million over four years to develop AI-driven tools aimed at improving healthcare and educational access in underserved regions like sub-Saharan Africa and India.",
-            "timestamp": 1778845431000
         }
     ]
 }

@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-07-09 06:50:50",
+    "last_update": "2026-07-09 17:25:32",
     "articles": [
+        {
+            "title": "AI giant Anthropic creates drug research tool, plans its own studies for overlooked diseases - WTOP",
+            "summary_en": "Anthropic has introduced the 'Claude Science' tool to accelerate research and has begun running its own preclinical drug programs targeting neglected diseases. This initiative aims to refine its technology while leveraging the company's status as a public-benefit corporation to address medical needs overlooked by traditional pharmaceutical companies.",
+            "link": "https://wtop.com/artificial-intelligence/2026/07/can-ai-come-up-with-cures-to-diseases-often-overlooked",
+            "timestamp": 1783589451000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models - CNBC",
+            "summary_en": "OpenAI is publicly releasing its GPT-5.6 series, including the 'Sol,' 'Terra,' and 'Luna' models, following a brief period of restricted access requested by the U.S. government. Concurrently, the company launched GPT-Live, a new voice model series designed to enable real-time, conversational interaction for ChatGPT users globally.",
+            "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+            "timestamp": 1783514897000,
+            "date": "2026-07-08"
+        },
+        {
+            "title": "Microsoft (MSFT) Unifies Copilot Strategy to Challenge ChatGPT and Claude - Yahoo Finance",
+            "summary_en": "Microsoft plans to consolidate its consumer and enterprise Copilot chatbots into a single platform to compete more effectively against rivals like ChatGPT and Claude. Despite facing increased capital expenditure forecasts related to memory costs, the company remains focused on scaling its 100 million-user base through unified AI agents and coding tools.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-unifies-copilot-strategy-153524054.html",
+            "timestamp": 1783524924000,
+            "date": "2026-07-08"
+        },
+        {
+            "title": "Inference Costs Plummet 90%. Nvidia Partners With LangChain to Define Agent Standards, Seizing the New Entry Point for AI Applications - TradingKey",
+            "summary_en": "NVIDIA has partnered with LangChain to release the NeMoClaw Deep Agents blueprint, a framework that establishes enterprise-grade standards for AI agent governance and controllability. By leveraging Blackwell architecture, the initiative aims to reduce inference costs by approximately 90%, marking a strategic shift for NVIDIA toward a software-centric AI ecosystem.",
+            "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262019693-nvidia-langchain-define-agent-standards-to-seize-ai-app-gateway-tradingkey",
+            "timestamp": 1783614005000,
+            "date": "2026-07-09"
+        },
         {
             "title": "OpenAI to release its most powerful model after weekslong hold - Politico",
             "summary_en": "OpenAI is preparing to launch its most powerful artificial intelligence model following a delay of several weeks.",
@@ -672,34 +700,6 @@
             "link": "https://www.gurufocus.com/news/8924244/google-takes-on-nvidia-with-bold-new-ai-chip-strategy",
             "timestamp": 1781899522000,
             "date": "2026-06-19"
-        },
-        {
-            "title": "OpenAI Reveals 2028 AI Research Goals, Aims to Automate AI Development | KuCoin - KuCoin",
-            "summary_en": "OpenAI has entered 'Phase Three' of its development, targeting the creation of automated AI researchers and universal access to personal AGI by 2028. This long-term vision was released alongside a confidential IPO filing, signaling a major transition toward public market operations.",
-            "link": "https://www.kucoin.com/news/flash/openai-unveils-2028-ai-research-goals-aims-to-automate-ai-development",
-            "timestamp": 1781947107000,
-            "date": "2026-06-20"
-        },
-        {
-            "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning - MarkTechPost",
-            "summary_en": "NVIDIA Research introduced SpatialClaw, a training-free framework that enhances spatial reasoning in vision-language models by using code as an action interface. This approach allows agents to dynamically chain perception tools and geometry primitives, achieving a 59.9% average accuracy across 20 benchmarks.",
-            "link": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
-            "timestamp": 1781909519000,
-            "date": "2026-06-19"
-        },
-        {
-            "title": "AI optimizer beats Claude Code, Codex by 2.5x - VentureBeat",
-            "summary_en": "Researchers have developed Arbor, an optimization framework that organizes AI experiments into a tree structure to enable cumulative learning rather than isolated trial-and-error. By maintaining state and historical data, the system delivers verifiable performance gains 2.5 times higher than standard coding agents.",
-            "link": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
-            "timestamp": 1781806434000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "AI agents take over robot training at Nvidia - Techzine Global",
-            "summary_en": "NVIDIA's new ENPIRE framework leverages collaborative AI coding agents to autonomously train robots for complex tasks, achieving a 99% success rate in experiments. By enabling agents to independently design, execute, and refine training protocols, the system allows researchers to automate much of the robot development lifecycle.",
-            "link": "https://www.techzine.eu/news/infrastructure/142271/ai-agents-take-over-robot-training-at-nvidia",
-            "timestamp": 1781776340000,
-            "date": "2026-06-18"
         }
     ]
 }
