@@ -1,6 +1,159 @@
 {
-    "last_update": "2026-07-08 17:16:05",
+    "last_update": "2026-07-09 17:45:59",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1783617866000,
+            "date": "2026-07-09",
+            "title": "Responsibly building the AI future",
+            "summary_kr": "마이크로소프트는 AI 인프라 확장에 따른 환경적 요구와 책임 있는 성장을 통합하여, 지속 가능한 기술 생태계를 구축하기 위한 전략적 전환을 추진하고 있습니다.",
+            "summary_en": "Microsoft is strategically pivoting its operations to balance the resource-intensive demands of AI infrastructure with its commitment to environmental sustainability and responsible community-focused growth.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1783617414000,
+            "date": "2026-07-09",
+            "title": "Bringing Ode Poetry to life with MAI’s audio models | Microsoft AI",
+            "summary_kr": "마이크로소프트의 MAI 오디오 모델을 활용한 'Ode Poetry'는 정교한 음성 인식과 고품질 음성 합성 기술을 통해 윌리엄 시거트의 시 낭독 경험을 전 세계 사용자에게 개인화된 서비스로 구현합니다.",
+            "summary_en": "Microsoft’s 'Ode Poetry' project leverages advanced MAI audio models for real-time speech understanding and high-fidelity voice synthesis to scale William Sieghart’s personalized poetry consultations to a global audience.",
+            "link": "https://microsoft.ai/news/ode-poetry-mai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783617304000,
+            "date": "2026-07-09",
+            "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
+            "summary_kr": "GROMACS에서 CPU 중심의 MPI 통신으로 인해 발생하는 GPU 병목 현상을 NVSHMEM 기반의 GPU 직접 통신으로 대체하여 연산과 통신을 최적화하고 확장성을 극대화하는 방안을 제시합니다.",
+            "summary_en": "This article presents a strategy to enhance GROMACS scalability by replacing CPU-orchestrated MPI with NVSHMEM-based GPU-native communication, effectively eliminating bottlenecks and enabling seamless overlap of computation and communication.",
+            "link": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1783615582000,
+            "date": "2026-07-09",
+            "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications - Microsoft Research",
+            "summary_kr": "마이크로소프트가 공개한 'Aurora 1.5'는 22개의 기상 변수 추가와 시간별 예측, 확률적 앙상블 기능을 도입하여 기상 및 지구 시스템 예측의 실용성과 정밀도를 대폭 향상한 개방형 파운데이션 모델입니다.",
+            "summary_en": "Microsoft's Aurora 1.5 is an enhanced open foundation model for Earth-system forecasting that introduces 22 new variables, hourly temporal resolution, and probabilistic ensemble capabilities to support practical, enterprise-grade weather intelligence.",
+            "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1783606227000,
+            "date": "2026-07-09",
+            "title": "How Commonwealth Bank and Microsoft are reimagining the future of customer service - Source Asia",
+            "summary_kr": "커먼웰스 은행은 마이크로소프트와 협력하여 여러 레거시 시스템을 통합한 AI 오케스트레이션 플랫폼을 구축, 고객 의도를 분석해 AI와 상담원을 최적으로 연결하는 옴니채널 고객 서비스를 구현했습니다.",
+            "summary_en": "Commonwealth Bank partnered with Microsoft to build an AI-powered orchestration platform that integrates legacy systems and dynamically routes customer inquiries to the most appropriate AI or human resource, enhancing service efficiency and personalization.",
+            "link": "https://news.microsoft.com/source/asia/features/how-commonwealth-bank-and-microsoft-are-reimagining-the-future-of-customer-service"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783591200000,
+            "date": "2026-07-09",
+            "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+            "summary_kr": "GPT-5.6 시리즈는 독보적인 추론 능력과 비용 효율성을 바탕으로 코딩 및 에이전트 작업에서 업계 최고 수준의 성능을 구현하며 AI의 실용적 활용 범위를 대폭 확장했습니다.",
+            "summary_en": "The GPT-5.6 series sets a new industry benchmark for intelligence and cost-efficiency, significantly expanding the practical utility of AI in complex coding and agentic workflows.",
+            "link": "https://openai.com/index/gpt-5-6"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783591200000,
+            "date": "2026-07-09",
+            "title": "ChatGPT is now a partner for your most ambitious work",
+            "summary_kr": "OpenAI는 최신 모델 GPT-5.6과 코덱스(Codex) 기술을 기반으로, 앱과 파일을 연동하여 복잡한 업무를 독립적으로 완수하는 AI 에이전트 'ChatGPT Work'를 출시했습니다.",
+            "summary_en": "OpenAI has launched 'ChatGPT Work,' an AI agent powered by GPT-5.6 and Codex that autonomously executes complex, multi-step workflows across various apps and files.",
+            "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783591200000,
+            "date": "2026-07-09",
+            "title": "OpenAI Bio Bug Bounty",
+            "summary_kr": "OpenAI는 생물학적 위험 방지를 강화하기 위해 'Bio Bounty Program'을 상설화하고, GPT-5.6 및 GPT-5.5의 범용 탈옥 취약점 신고 보상금을 최대 5만 달러로 인상했습니다.",
+            "summary_en": "OpenAI is transitioning its bio-risk bug bounty into an ongoing program, doubling the rewards for universal jailbreak discoveries in GPT-5.5 and GPT-5.6 to $50,000.",
+            "link": "https://openai.com/index/bio-bug-bounty"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "Inviting hard questions",
+            "summary_kr": "앤스로픽은 AI 기술에 대한 대중의 기대와 우려를 적극적으로 수용하고 투명하게 소통하기 위해 '난제 제안(Hard Questions)' 이니셔티브를 시작하며, 이를 통해 공익을 위한 AI 개발의 책임과 실천 의지를 강화하고 있습니다.",
+            "summary_en": "Anthropic is launching a 'Hard Questions' initiative to actively address public hopes and concerns about AI, reaffirming its commitment to transparent, responsible, and public-benefit-driven AI development.",
+            "link": "https://www.anthropic.com/news/hard-questions"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+            "summary_kr": "전 연준 의장이자 노벨 경제학상 수상자인 벤 버냉키가 앤스로픽의 장기적 혜택 신탁(LTBT) 위원으로 합류하여, AI가 경제와 노동 시장에 미칠 영향을 관리하고 기업의 책임 있는 AI 개발을 감독하게 됩니다.",
+            "summary_en": "Former Fed Chair and Nobel laureate Ben Bernanke has joined Anthropic’s Long-Term Benefit Trust to provide oversight on the societal and economic impacts of AI, ensuring the company’s development remains aligned with its mission for long-term human benefit.",
+            "link": "https://www.anthropic.com/news/ben-bernanke"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "A new way to reflect on how you use Claude",
+            "summary_kr": "앤스로픽은 사용자가 클로드(Claude) 활용 패턴을 분석하고 AI와 인간의 업무 경계를 정립하도록 돕는 '리플렉션(Reflection)' 대시보드 기능을 베타 출시했습니다.",
+            "summary_en": "Anthropic has launched a beta 'Reflection' dashboard that helps users analyze their interaction patterns with Claude to optimize AI usage and define clear boundaries between human and AI tasks.",
+            "link": "https://www.anthropic.com/news/reflect-with-claude"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "Introducing Muse Spark 1.1",
+            "summary_kr": "메타가 공개한 'Muse Spark 1.1'은 에이전트 작업, 컴퓨터 제어, 코딩 성능을 대폭 강화한 멀티모달 추론 모델로, 복잡한 업무를 스스로 계획하고 실행하는 개인용 초지능 구현에 한 걸음 다가섰습니다.",
+            "summary_en": "Meta's new 'Muse Spark 1.1' is a multimodal reasoning model that significantly enhances agentic tasks, computer use, and coding capabilities, advancing the vision of personal superintelligence by efficiently orchestrating complex workflows.",
+            "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1783533693000,
+            "date": "2026-07-08",
+            "title": "6 key takeaways from ISTE 2026: How educators are applying AI in the classroom | Microsoft Education Blog",
+            "summary_kr": "ISTELive 2026에서 마이크로소프트는 교육 현장의 AI 활용이 단순한 실험 단계를 넘어, 실질적인 학습 효과와 교육적 성과를 도출하는 체계적이고 책임 있는 단계로 진화하고 있음을 강조했습니다.",
+            "summary_en": "At ISTELive 2026, Microsoft emphasized that AI in education is shifting from early experimentation to measurable, system-wide practical application, supported by research-backed tools and a strong focus on educator community and AI literacy.",
+            "link": "https://www.microsoft.com/en-us/education/blog/2026/07/6-key-takeaways-from-iste-2026-how-educators-are-applying-ai-in-the-classroom"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783517400000,
+            "date": "2026-07-08",
+            "title": "Our approach to government and national security partnerships",
+            "summary_kr": "OpenAI는 민주적 가치와 책임성을 준수하며 국가 안보와 공공 안전에 AI를 활용하기 위한 공식적인 '국가 안보 원칙'을 발표했습니다. 이 원칙은 향후 동맹국과의 사이버 및 생물 보안 협력을 강화하는 가이드라인 역할을 할 것입니다.",
+            "summary_en": "OpenAI has introduced its 'National Security Principles' to ensure the responsible use of AI in national security while upholding democratic accountability. These principles serve as a framework for expanding collaborations with government and allied partners in areas such as cyber and biosecurity.",
+            "link": "https://openai.com/index/government-national-security-partnerships"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783515600000,
+            "date": "2026-07-08",
+            "title": "Separating signal from noise in coding evaluations",
+            "summary_kr": "SWE-Bench Pro에 대한 정밀 조사 결과, 약 30%의 작업이 불완전한 테스트와 모호한 요구사항 등 설계상의 결함을 안고 있는 것으로 나타났습니다. 이번 연구는 AI 성능 평가 지표의 신뢰성을 확보하기 위해 엄격한 데이터 품질 검증과 인간-AI 협업 기반의 분석이 필수적임을 시사합니다.",
+            "summary_en": "An audit of SWE-Bench Pro revealed that approximately 30% of its tasks are flawed due to faulty test designs and underspecified prompts, misrepresenting actual model capabilities. This highlights the urgent need for rigorous, AI-assisted data quality assurance to ensure reliable benchmarking in AI development.",
+            "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783468800000,
+            "date": "2026-07-08",
+            "title": "An off switch for dual use knowledge in AI models",
+            "summary_kr": "앤스로픽과 AE 스튜디오가 개발한 'GRAM' 기술은 AI 모델의 이중 용도 지식을 별도의 탈착식 모듈에 격리하여, 전체 모델 재학습 없이도 특정 기능을 정밀하게 제어할 수 있는 효율적인 안전장치를 제공합니다.",
+            "summary_en": "Anthropic and AE Studio's 'GRAM' technology isolates dual-use knowledge into removable, modular compartments, enabling precise control over specific model capabilities without the need for costly full-model retraining.",
+            "link": "https://www.anthropic.com/research/off-switch-dual-use"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1783468800000,
+            "date": "2026-07-08",
+            "title": "Introducing Grok 4.5",
+            "summary_kr": "SpaceXAI가 출시한 Grok 4.5는 코딩, 에이전트 작업, 지식 업무에 최적화된 고효율 모델로, 경쟁 모델 대비 두 배 높은 토큰 효율성과 합리적인 가격을 통해 압도적인 성능을 제공합니다.",
+            "summary_en": "SpaceXAI's new Grok 4.5 is a highly efficient model optimized for coding, agentic tasks, and knowledge work, delivering superior reasoning performance at half the cost and double the token efficiency of leading competitors.",
+            "link": "https://x.ai/news/grok-4-5"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1783526725000,
@@ -747,159 +900,6 @@
             "summary_kr": "Grok Build에 도입된 '/goal' 기능은 AI 에이전트가 복잡한 코딩 작업을 자율적으로 계획하고 검증까지 완료하여 실행할 수 있도록 지원합니다.",
             "summary_en": "The new '/goal' feature in Grok Build enables autonomous execution of long-running coding tasks, allowing agents to independently plan, implement, and verify complex objectives.",
             "link": "https://x.ai/news/introducing-goal"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782082800000,
-            "date": "2026-06-21",
-            "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-            "summary_kr": "삼성전자가 OpenAI의 ChatGPT Enterprise와 Codex를 전사적으로 도입하여 R&D, 제조, 마케팅 등 업무 전반의 생산성 및 혁신 가속화에 나섰습니다.",
-            "summary_en": "Samsung Electronics is deploying ChatGPT Enterprise and Codex across its global operations to boost workforce productivity and accelerate innovation in R&D, manufacturing, and business processes.",
-            "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781807954000,
-            "date": "2026-06-18",
-            "title": "Beyond the benchmark: Advancing security at AI speed  | Microsoft Security Blog",
-            "summary_kr": "마이크로소프트는 독자적인 다중 모델 AI 에이전트 시스템인 'MDASH'를 개발해 소프트웨어 취약점 탐지부터 해결까지 전 과정을 자동화하고, 이를 실제 운영 환경에 통합하여 기업 수준의 보안을 강화하고 있습니다.",
-            "summary_en": "Microsoft has deployed 'MDASH,' an orchestrating multi-model AI agent system, to automate end-to-end vulnerability discovery and remediation, successfully integrating research-grade AI into production workflows to enhance enterprise-scale security.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781802000000,
-            "date": "2026-06-18",
-            "title": "New usage analytics and updated spend controls for enterprises",
-            "summary_kr": "OpenAI는 ChatGPT Enterprise 관리자가 AI 도입 현황을 가시적으로 파악하고 비용을 정밀하게 관리할 수 있도록 새로운 사용량 분석 도구와 유연한 지출 통제 기능을 도입했습니다.",
-            "summary_en": "OpenAI has introduced new usage analytics and enhanced spend controls for ChatGPT Enterprise, enabling administrators to gain granular visibility into AI deployment and effectively manage costs at scale.",
-            "link": "https://openai.com/index/chatgpt-enterprise-spend-controls"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781740800000,
-            "date": "2026-06-18",
-            "title": "Grok for Word",
-            "summary_kr": "마이크로소프트 워드용 'Grok' 애드인이 출시되어, 웹 검색과 문서 자동 작성 및 편집 기능을 통해 문서 작업의 생산성을 획기적으로 향상시킵니다.",
-            "summary_en": "The new Grok add-in for Microsoft Word boosts productivity by enabling seamless web research, automated drafting, and intelligent document editing.",
-            "link": "https://x.ai/news/introducing-word-addin"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781780400000,
-            "date": "2026-06-18",
-            "title": "Improving health intelligence in ChatGPT",
-            "summary_kr": "OpenAI는 의사들의 전문적인 평가와 피드백을 통해 헬스케어 인텔리전스를 대폭 강화한 'GPT-5.5 Instant'를 공개했으며, 이를 통해 의료 정보의 정확성과 안전성을 높여 무료 사용자들에게 제공합니다.",
-            "summary_en": "OpenAI has unveiled 'GPT-5.5 Instant,' which significantly enhances health intelligence through physician-led evaluations, offering improved accuracy and safety for medical guidance to all free users.",
-            "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781769600000,
-            "date": "2026-06-18",
-            "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-            "summary_kr": "OpenAI의 추론 모델을 활용해 미진단 희귀 질환 사례 376건을 재분석한 결과, 전문의 검토를 거쳐 18건의 새로운 진단을 이끌어내며 AI 기반 재분석의 임상적 유효성을 입증했습니다.",
-            "summary_en": "Researchers utilized OpenAI’s reasoning model to reanalyze 376 previously unsolved rare disease cases, successfully identifying 18 new diagnoses and demonstrating the potential for AI-assisted clinical workflows to enhance diagnostic yields.",
-            "link": "https://openai.com/index/diagnose-rare-childhood-diseases"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781740800000,
-            "date": "2026-06-18",
-            "title": "Claude Code now supports artifacts",
-            "summary_kr": "Claude Code가 작업 세션을 실시간으로 업데이트되는 대화형 웹 페이지 형태의 '아티팩트'로 시각화하여 팀 간 공유 및 협업 효율을 대폭 개선합니다.",
-            "summary_en": "Claude Code now supports 'Artifacts,' allowing developers to visualize and share live, interactive work sessions as web pages to streamline team collaboration and status updates.",
-            "link": "https://claude.com/blog/artifacts-in-claude-code"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781740800000,
-            "date": "2026-06-18",
-            "title": "Project Fetch: Phase two",
-            "summary_kr": "앤스로픽의 최신 모델인 Claude Opus 4.7은 로봇 제어 실험에서 인간 팀보다 최대 20배 이상 빠르게 작업을 수행하며, AI가 물리적 세계의 복잡한 과제를 자율적으로 해결하는 역량이 급격히 발전했음을 입증했습니다.",
-            "summary_en": "Anthropic's latest model, Claude Opus 4.7, outperformed human teams by over 20 times in robotic control tasks, demonstrating that AI is rapidly advancing in its ability to autonomously execute complex physical-world operations.",
-            "link": "https://www.anthropic.com/research/project-fetch-phase-two"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781740800000,
-            "date": "2026-06-18",
-            "title": "Grok on Databricks",
-            "summary_kr": "데이터브릭스가 '에이전트 브릭스(Agent Bricks)' 플랫폼에 그록(Grok) 모델을 통합하여, 기업들이 대규모 데이터 환경에서 최첨단 AI 에이전트를 더욱 효율적으로 구축할 수 있게 되었습니다.",
-            "summary_en": "Databricks has integrated Grok models into its Agent Bricks platform, enabling enterprises to build sophisticated AI agents directly where their data resides.",
-            "link": "https://x.ai/news/grok-databricks"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781721373000,
-            "date": "2026-06-17",
-            "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
-            "summary_kr": "AI로 인해 사이버 공격의 속도와 규모가 정교해짐에 따라, 마이크로소프트는 파편화된 보안 체계를 통합하여 ID 위협에 실시간으로 대응하는 통합 보안 전략을 강조하고 있습니다.",
-            "summary_en": "As AI accelerates the scale and speed of cyberattacks, Microsoft is emphasizing the need for unified identity security to provide real-time, integrated responses to threats across fragmented operational silos.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781654400000,
-            "date": "2026-06-17",
-            "title": "Introducing LifeSciBench",
-            "summary_kr": "LifeSciBench는 실제 생명과학 연구 현장의 복잡성을 반영하기 위해 박사급 전문가들이 설계한 벤치마크로, AI 모델의 실질적인 연구 지원 능력을 평가합니다.",
-            "summary_en": "LifeSciBench is an expert-designed benchmark that evaluates the ability of AI systems to handle the complexities of real-world life science research by utilizing tasks crafted by Ph.D.-level scientists.",
-            "link": "https://openai.com/index/introducing-life-sci-bench"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781654400000,
-            "date": "2026-06-17",
-            "title": "Grok on Amazon Bedrock",
-            "summary_kr": "xAI의 Grok 4.3이 아마존 베드락에 정식 출시되어, 뛰어난 비용 효율성과 100만 토큰 컨텍스트 윈도우, 조절 가능한 추론 기능을 통해 기업용 AI 에이전트 개발을 지원합니다.",
-            "summary_en": "xAI's Grok 4.3 is now available on Amazon Bedrock, offering industry-leading cost efficiency, a 1-million-token context window, and configurable reasoning for enterprise-grade AI agent development.",
-            "link": "https://x.ai/news/grok-amazon-bedrock"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781715638000,
-            "date": "2026-06-17",
-            "title": "Y Combinator and Microsoft partner to support the next generation of AI startups",
-            "summary_kr": "Y Combinator와 마이크로소프트가 파트너십을 확대하여 차세대 AI 스타트업들에게 Azure 기반의 고성능 인프라, 기술 지원 및 기업용 시장 진입 경로를 제공합니다.",
-            "summary_en": "Y Combinator and Microsoft have expanded their partnership to provide next-gen AI startups with access to Azure's high-performance infrastructure, technical expertise, and enterprise-grade go-to-market resources.",
-            "link": "https://www.microsoft.com/en-us/startups/blog/y-combinator-and-microsoft-partner-to-support-the-next-generation-of-ai-startups"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1781708400000,
-            "date": "2026-06-17",
-            "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-            "summary_kr": "구글의 의료 AI 'AMIE'가 방대한 임상 지식과 제미나이 모델을 활용해 장기적인 질병 관리 및 치료 계획 수립에서 전문의와 대등하거나 더 뛰어난 성능을 입증했습니다.",
-            "summary_en": "Google's medical AI, AMIE, leverages the Gemini model and clinical guidelines to achieve performance on par with or superior to physicians in long-term disease management and treatment planning.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781690400000,
-            "date": "2026-06-17",
-            "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-            "summary_kr": "OpenAI와 Molecule.one은 자율형 AI 화학자 '마리아'와 GPT-5.4를 결합하여 난제였던 찬-람 커플링 반응의 수율을 성공적으로 개선했습니다. 이는 AI가 연구 전 과정을 주도하며 과학적 난제를 해결하는 실질적인 파트너로 발전할 수 있음을 입증한 사례입니다.",
-            "summary_en": "OpenAI and Molecule.one successfully improved the challenging Chan-Lam coupling reaction by integrating GPT-5.4 with the autonomous AI chemist 'Maria.' This achievement demonstrates the potential for AI to serve as an effective research partner by autonomously navigating the scientific workflow to solve complex chemical problems.",
-            "link": "https://openai.com/index/ai-chemist-improves-reaction"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781654400000,
-            "date": "2026-06-17",
-            "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-            "summary_kr": "앤스로픽이 서울 사무소를 개소하며 네이버, LG CNS, 삼성 SDS 등 한국 주요 기업 및 연구 기관과의 파트너십을 강화해 AI 생태계 확장에 나섰습니다.",
-            "summary_en": "Anthropic has officially opened its Seoul office and is expanding its AI ecosystem in Korea through strategic partnerships with major enterprises like Naver, LG CNS, and Samsung SDS, as well as academic research institutions.",
-            "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781653740000,
-            "date": "2026-06-16",
-            "title": "Australian AI platform for educators drives global impact following launch on Microsoft’s global marketplace  - Source Asia",
-            "summary_kr": "시드니 대학교가 개발한 AI 교육 플랫폼 'Cogniti'가 마이크로소프트 마켓플레이스 출시를 통해 교육자가 맞춤형 AI 튜터를 직접 설계하도록 지원하며 글로벌 교육 성과를 혁신하고 있습니다.",
-            "summary_en": "The University of Sydney’s AI platform, 'Cogniti', has launched on Microsoft Marketplace, empowering educators to build bespoke AI agents that drive global educational outcomes and improve student performance.",
-            "link": "https://news.microsoft.com/source/asia/2026/06/16/usyd-takes-cogniti-global"
         }
     ]
 }
