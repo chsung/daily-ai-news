@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-07-09 17:45:59",
+    "last_update": "2026-07-10 17:38:58",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1783704071000,
+            "date": "2026-07-10",
+            "title": "Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot - Microsoft Dynamics 365 Blog",
+            "summary_kr": "마이크로소프트는 영업 및 서비스 현장에 에이전트형 AI를 통합하여, 실무자들이 반복적인 행정 업무에서 벗어나 고객 관계 강화에 집중할 수 있도록 업무 효율성과 고객 경험을 혁신합니다.",
+            "summary_en": "Microsoft is revolutionizing sales and service workflows by integrating agentic AI into Microsoft 365 Copilot and Dynamics 365, enabling teams to automate administrative tasks and focus on building deeper customer relationships.",
+            "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/07/moving-sales-and-service-organizations-forward-with-agentic-cx-and-microsoft-365-copilot"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783701663000,
+            "date": "2026-07-10",
+            "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
+            "summary_kr": "커널 퓨전(Kernel Fusion)은 여러 GPU 연산을 하나의 커널로 통합하여 중간 결과값을 레지스터에 유지함으로써, 메모리 트래픽을 최적화하고 불필요한 커널 호출 오버헤드를 획기적으로 줄여줍니다.",
+            "summary_en": "Kernel fusion optimizes GPU performance by combining multiple operations into a single kernel, effectively reducing memory traffic and launch overhead by keeping intermediate data in registers.",
+            "link": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783701362000,
+            "date": "2026-07-10",
+            "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
+            "summary_kr": "AI 모델의 성공적인 배포를 위해 성능, 처리량, 지연 시간을 동시에 최적화하는 하드웨어 친화적 모델 설계의 중요성을 강조하며, 연산 효율성을 높이기 위한 아키텍처 설계 가이드를 제시합니다.",
+            "summary_en": "This article highlights the importance of hardware-friendly model design to balance accuracy, throughput, and latency, offering architectural guidelines to optimize computational efficiency and scalability.",
+            "link": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783688400000,
+            "date": "2026-07-10",
+            "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
+            "summary_kr": "NVIDIA BioNeMo Agent Toolkit은 고성능 GPU 가속과 MSA 최적화를 통해 단백질 구조 예측 및 공동 폴딩 워크플로우의 속도와 메모리 효율성을 획기적으로 개선합니다.",
+            "summary_en": "The NVIDIA BioNeMo Agent Toolkit significantly enhances the speed and memory efficiency of protein structure prediction and co-folding workflows through high-performance GPU acceleration and optimized MSA processing.",
+            "link": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783666800000,
+            "date": "2026-07-10",
+            "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+            "summary_kr": "도이치 텔레콤은 생성형 AI를 단순한 도구를 넘어 기업 운영 전반에 내재화하여 고객 서비스, 네트워크 최적화, 음성 통신 경험을 근본적으로 재설계하고 있습니다.",
+            "summary_en": "Deutsche Telekom is fundamentally transforming into an AI-native company by embedding generative AI across its customer service, network operations, and core communications to redefine the telco operating model.",
+            "link": "https://openai.com/index/deutsche-telekom"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783626037000,
+            "date": "2026-07-09",
+            "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
+            "summary_kr": "NVIDIA NeMo를 활용한 반복적 합성 데이터 생성 파이프라인은 금융 데이터의 불균형 문제를 해결하고, 전역 중복 제거와 전략적 샘플링을 통해 50만 개의 고유하고 다양한 금융 뉴스 헤드라인을 효율적으로 구축합니다.",
+            "summary_en": "NVIDIA NeMo's iterative synthetic data pipeline resolves financial data imbalances by leveraging global deduplication and strategic sampling to efficiently generate 500,000 unique and diverse financial news headlines.",
+            "link": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783602000000,
+            "date": "2026-07-09",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+            "summary_kr": "마이크로소프트 365 Copilot에 OpenAI의 최신 플래그십 모델인 GPT-5.6이 도입되어 워드, 엑셀, 파워포인트 등 주요 업무 도구의 생산성과 작업 효율성이 크게 향상되었습니다.",
+            "summary_en": "OpenAI's latest flagship model, GPT-5.6, has been integrated into Microsoft 365 Copilot, significantly enhancing productivity and performance across key tools like Word, Excel, and PowerPoint.",
+            "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "UST is bringing Claude to physical AI",
+            "summary_kr": "UST는 앤스로픽의 클로드(Claude)를 자사의 엔지니어링 파이프라인에 통합하여 반도체 검증 및 제조 공정의 효율성을 극대화하고, 설계 결함을 조기에 발견하여 생산 시간을 50~70% 단축하고 있습니다.",
+            "summary_en": "UST is integrating Anthropic's Claude into its engineering pipelines to automate design validation and manufacturing processes, achieving a 50-70% reduction in cycle times through early fault detection.",
+            "link": "https://www.anthropic.com/news/ust-claude"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1783617866000,
@@ -828,78 +900,6 @@
             "summary_kr": "엔비디아의 새로운 CCCL 런타임은 현대적인 C++ 언어 관용구를 적용하여 CUDA 프로그래밍의 안전성과 생산성을 높인 차세대 API 환경을 제공합니다.",
             "summary_en": "NVIDIA's new CCCL runtime provides a next-generation API environment that enhances CUDA programming safety and productivity by leveraging modern C++ idioms.",
             "link": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782140400000,
-            "date": "2026-06-22",
-            "title": "Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI",
-            "summary_kr": "NVIDIA DAQIRI는 기존의 경직된 하드웨어 중심 데이터 수집 방식을 소프트웨어 중심의 적응형 구조로 전환하여, 초고속 데이터 스트리밍과 실시간 AI 추론을 가능하게 합니다.",
-            "summary_en": "NVIDIA DAQIRI transforms inflexible hardware-centric data acquisition into an adaptable, software-defined architecture, enabling high-speed data streaming and real-time AI inference at the edge.",
-            "link": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1782138600000,
-            "date": "2026-06-22",
-            "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-            "summary_kr": "구글 딥마인드와 영화 제작사 A24가 파트너십을 체결하고, 창작자들이 기술 개발 과정에 직접 참여하여 차세대 스토리텔링 도구와 워크플로우를 공동 연구합니다.",
-            "summary_en": "Google DeepMind and A24 have formed a strategic research partnership to integrate AI innovation into the creative process, empowering filmmakers to co-develop the next generation of storytelling tools.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782136357000,
-            "date": "2026-06-22",
-            "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트가 AI 및 클라우드 서비스 수요 급증에 대응하기 위해 텍사스 페코스에 2기가와트 규모의 대형 데이터센터를 구축하며, 자체 전력망 확보와 지역 경제 활성화를 통해 지속 가능한 성장을 도모합니다.",
-            "summary_en": "Microsoft is building a 2GW datacenter campus in Pecos, Texas, to meet surging AI and cloud demand while ensuring operational stability through self-funded energy infrastructure and long-term regional economic investment.",
-            "link": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782133200000,
-            "date": "2026-06-22",
-            "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
-            "summary_kr": "엔비디아는 자율주행 기술에서 검증된 기능 안전 시스템을 로봇 공학으로 확장한 'NVIDIA Halos'를 출시하여, 산업용 로봇과 휴머노이드를 위한 통합 안전 표준을 제시합니다.",
-            "summary_en": "NVIDIA has launched 'NVIDIA Halos,' a full-stack safety system that extends its proven autonomous vehicle safety expertise to robotics, establishing a new standardized foundation for safe industrial robots and humanoids.",
-            "link": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782122400000,
-            "date": "2026-06-22",
-            "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-            "summary_kr": "Daybreak은 AI 기반 보안 연구와 전문가 검토를 결합하여 오픈소스 소프트웨어의 취약점 발견부터 패치 개발까지 지원하는 'Patch the Planet' 이니셔티브를 출범했습니다.",
-            "summary_en": "Daybreak has launched 'Patch the Planet,' an initiative that combines AI-powered security research with expert human review to help open-source maintainers identify vulnerabilities and develop effective patches.",
-            "link": "https://openai.com/index/patch-the-planet"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782122400000,
-            "date": "2026-06-22",
-            "title": "Daybreak: Tools for securing every organization in the world",
-            "summary_kr": "Daybreak 프로젝트는 보안 분야의 핵심 과제인 취약점 탐지를 넘어 자동화된 패치 생성 및 배포를 지원하여 전 세계 조직의 사이버 방어 역량을 민주화하는 데 중점을 둡니다.",
-            "summary_en": "The Daybreak initiative focuses on democratizing global cyber defense by shifting the focus from vulnerability discovery to accelerating automated patching through frontier AI models and collaborative ecosystem partnerships.",
-            "link": "https://openai.com/index/daybreak-securing-the-world"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782086400000,
-            "date": "2026-06-22",
-            "title": "Codex-maxxing for long-running work",
-            "summary_kr": "본 가이드는 OpenAI의 Codex를 단일 프롬프트 활용을 넘어 복잡한 프로젝트의 맥락을 유지하고 지속적인 워크플로우를 관리하는 생산적 도구로 활용하는 전략을 제시합니다.",
-            "summary_en": "This guide explores strategies for leveraging OpenAI's Codex as a persistent workspace to maintain context and manage complex, long-running projects beyond single-prompt interactions.",
-            "link": "https://openai.com/index/codex-maxxing-long-running-work"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1782086400000,
-            "date": "2026-06-22",
-            "title": "Introducing /goal",
-            "summary_kr": "Grok Build에 도입된 '/goal' 기능은 AI 에이전트가 복잡한 코딩 작업을 자율적으로 계획하고 검증까지 완료하여 실행할 수 있도록 지원합니다.",
-            "summary_en": "The new '/goal' feature in Grok Build enables autonomous execution of long-running coding tasks, allowing agents to independently plan, implement, and verify complex objectives.",
-            "link": "https://x.ai/news/introducing-goal"
         }
     ]
 }

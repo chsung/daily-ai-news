@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-07-09 17:45:59",
+    "last_update": "2026-07-10 17:38:58",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782140400000,
+            "date": "2026-06-22",
+            "title": "Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI",
+            "summary_kr": "NVIDIA DAQIRI는 기존의 경직된 하드웨어 중심 데이터 수집 방식을 소프트웨어 중심의 적응형 구조로 전환하여, 초고속 데이터 스트리밍과 실시간 AI 추론을 가능하게 합니다.",
+            "summary_en": "NVIDIA DAQIRI transforms inflexible hardware-centric data acquisition into an adaptable, software-defined architecture, enabling high-speed data streaming and real-time AI inference at the edge.",
+            "link": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1782138600000,
+            "date": "2026-06-22",
+            "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+            "summary_kr": "구글 딥마인드와 영화 제작사 A24가 파트너십을 체결하고, 창작자들이 기술 개발 과정에 직접 참여하여 차세대 스토리텔링 도구와 워크플로우를 공동 연구합니다.",
+            "summary_en": "Google DeepMind and A24 have formed a strategic research partnership to integrate AI innovation into the creative process, empowering filmmakers to co-develop the next generation of storytelling tools.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782136357000,
+            "date": "2026-06-22",
+            "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트가 AI 및 클라우드 서비스 수요 급증에 대응하기 위해 텍사스 페코스에 2기가와트 규모의 대형 데이터센터를 구축하며, 자체 전력망 확보와 지역 경제 활성화를 통해 지속 가능한 성장을 도모합니다.",
+            "summary_en": "Microsoft is building a 2GW datacenter campus in Pecos, Texas, to meet surging AI and cloud demand while ensuring operational stability through self-funded energy infrastructure and long-term regional economic investment.",
+            "link": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782133200000,
+            "date": "2026-06-22",
+            "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
+            "summary_kr": "엔비디아는 자율주행 기술에서 검증된 기능 안전 시스템을 로봇 공학으로 확장한 'NVIDIA Halos'를 출시하여, 산업용 로봇과 휴머노이드를 위한 통합 안전 표준을 제시합니다.",
+            "summary_en": "NVIDIA has launched 'NVIDIA Halos,' a full-stack safety system that extends its proven autonomous vehicle safety expertise to robotics, establishing a new standardized foundation for safe industrial robots and humanoids.",
+            "link": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782122400000,
+            "date": "2026-06-22",
+            "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+            "summary_kr": "Daybreak은 AI 기반 보안 연구와 전문가 검토를 결합하여 오픈소스 소프트웨어의 취약점 발견부터 패치 개발까지 지원하는 'Patch the Planet' 이니셔티브를 출범했습니다.",
+            "summary_en": "Daybreak has launched 'Patch the Planet,' an initiative that combines AI-powered security research with expert human review to help open-source maintainers identify vulnerabilities and develop effective patches.",
+            "link": "https://openai.com/index/patch-the-planet"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782122400000,
+            "date": "2026-06-22",
+            "title": "Daybreak: Tools for securing every organization in the world",
+            "summary_kr": "Daybreak 프로젝트는 보안 분야의 핵심 과제인 취약점 탐지를 넘어 자동화된 패치 생성 및 배포를 지원하여 전 세계 조직의 사이버 방어 역량을 민주화하는 데 중점을 둡니다.",
+            "summary_en": "The Daybreak initiative focuses on democratizing global cyber defense by shifting the focus from vulnerability discovery to accelerating automated patching through frontier AI models and collaborative ecosystem partnerships.",
+            "link": "https://openai.com/index/daybreak-securing-the-world"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782086400000,
+            "date": "2026-06-22",
+            "title": "Codex-maxxing for long-running work",
+            "summary_kr": "본 가이드는 OpenAI의 Codex를 단일 프롬프트 활용을 넘어 복잡한 프로젝트의 맥락을 유지하고 지속적인 워크플로우를 관리하는 생산적 도구로 활용하는 전략을 제시합니다.",
+            "summary_en": "This guide explores strategies for leveraging OpenAI's Codex as a persistent workspace to maintain context and manage complex, long-running projects beyond single-prompt interactions.",
+            "link": "https://openai.com/index/codex-maxxing-long-running-work"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1782086400000,
+            "date": "2026-06-22",
+            "title": "Introducing /goal",
+            "summary_kr": "Grok Build에 도입된 '/goal' 기능은 AI 에이전트가 복잡한 코딩 작업을 자율적으로 계획하고 검증까지 완료하여 실행할 수 있도록 지원합니다.",
+            "summary_en": "The new '/goal' feature in Grok Build enables autonomous execution of long-running coding tasks, allowing agents to independently plan, implement, and verify complex objectives.",
+            "link": "https://x.ai/news/introducing-goal"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1782082800000,
@@ -828,78 +900,6 @@
             "summary_kr": "GPT-Rosalind의 최신 업데이트는 제약 및 생명공학 연구를 위해 특화된 에이전트형 모델로, 전용 벤치마크인 'LifeSciBench'를 통해 신약 개발과 복잡한 연구 워크플로우 전반의 성능을 강화했습니다.",
             "summary_en": "The updated GPT-Rosalind integrates advanced agentic capabilities with domain-specific intelligence for life sciences, leveraging the new 'LifeSciBench' to optimize end-to-end research workflows and drug discovery tasks.",
             "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780488000000,
-            "date": "2026-06-03",
-            "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-            "summary_kr": "Wasmer는 AI 코딩 도구인 Codex를 활용해 기존 1년이 걸릴 개발 기간을 2주로 단축하며, WebAssembly 환경에서 구동되는 혁신적인 Node.js 런타임 'Edge.js'를 성공적으로 출시했습니다.",
-            "summary_en": "By leveraging Codex, Wasmer successfully developed and launched its innovative Edge.js runtime for WebAssembly in just two weeks, reducing a project that would have otherwise taken a full year.",
-            "link": "https://openai.com/index/wasmer"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Grok Becomes the Voice of Vapi",
-            "summary_kr": "xAI의 Grok이 음성 AI 플랫폼 Vapi의 기본 음성 엔진으로 선정되어, 250만 개 이상의 AI 에이전트에 한층 자연스럽고 감정적인 대화 능력을 제공하게 되었습니다.",
-            "summary_en": "xAI's Grok has been selected as the default voice engine for Vapi, delivering enhanced naturalness and emotional resonance to over 2.5 million AI agents on the platform.",
-            "link": "https://x.ai/news/grok-vapi"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Grok Imagine 1.5 Preview",
-            "summary_kr": "xAI가 정지 이미지를 자연스러운 영상으로 변환하고 카메라 움직임과 물리 효과를 정밀하게 제어할 수 있는 'Grok Imagine 1.5 Preview' 모델을 API로 공개했습니다.",
-            "summary_en": "xAI has released 'Grok Imagine 1.5 Preview' via API, a new model that transforms still images into cinematic videos with precise control over camera movement, physics, and visual consistency.",
-            "link": "https://x.ai/news/grok-imagine-1-5"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1780502400000,
-            "date": "2026-06-03",
-            "title": "Meet Dreambeans, an app that connects you with what matters",
-            "summary_kr": "구글 랩스가 공개한 'Dreambeans'는 개인의 구글 앱 데이터를 활용해 사용자가 놓치지 말아야 할 정보와 영감을 맞춤형 스토리 형태로 제공하는 AI 서비스입니다.",
-            "summary_en": "Google Labs has introduced 'Dreambeans,' an AI-powered app that synthesizes personal data from Google services to curate personalized daily stories aimed at fostering meaningful engagement rather than endless scrolling.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780480800000,
-            "date": "2026-06-03",
-            "title": "OpenAI public policy agenda",
-            "summary_kr": "OpenAI는 AGI의 혜택을 전 인류와 공유하기 위해 민주화, 권한 부여, 안전 등 5대 원칙을 수립하고, 정부 및 정책 당국과 협력하여 책임감 있는 AI 거버넌스 프레임워크를 구축하는 데 주력하고 있습니다.",
-            "summary_en": "OpenAI is committed to ensuring AGI benefits all humanity by adhering to five core principles and actively collaborating with global policymakers to establish comprehensive safety frameworks and accountable AI governance.",
-            "link": "https://openai.com/index/public-policy-agenda"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780480800000,
-            "date": "2026-06-03",
-            "title": "A blueprint for democratic governance of frontier AI",
-            "summary_kr": "미국 정부가 첨단 AI의 안전성을 보장하기 위해 주 정부 법안과 연계한 국가적 관리 체계를 구축하고, CAISI를 핵심 기관으로 강화하며 범정부 차원의 대응 전략을 마련해야 한다는 청사진을 제시했습니다.",
-            "summary_en": "The blueprint proposes a U.S. federal framework for frontier AI governance by leveraging state-level consensus, strengthening CAISI as a primary safety institution, and implementing a comprehensive national resilience strategy.",
-            "link": "https://openai.com/index/frontier-safety-blueprint"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-            "summary_kr": "AI 기반 사이버 위협 분석 결과, 공격자들이 AI를 활용해 초기 침투보다 고난도인 내부망 이동 및 권한 상승 등 '침투 후 단계'의 작업을 자동화하며 위협 수준을 높이고 있습니다. 이로 인해 기존의 보안 위협 평가 방식은 유효성을 잃고 있으며, AI가 숙련도가 낮은 공격자조차 고위험군으로 격상시키는 핵심 동인이 되고 있습니다.",
-            "summary_en": "Analysis of AI-enabled cyber threats reveals that attackers are increasingly using AI to automate complex post-compromise tasks like lateral movement and privilege escalation, effectively closing the capability gap between amateur and sophisticated actors. This shift renders traditional risk assessment metrics obsolete as AI empowers low-skill actors to execute high-stakes operations.",
-            "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-            "summary_kr": "앤스로픽은 기업의 성공적인 AI 도입을 지원하기 위해 파트너사의 전문성을 검증하는 '서비스 트랙'과 고객과 파트너를 연결하는 '클로드 파트너 허브'를 도입했습니다.",
-            "summary_en": "Anthropic has launched the 'Services Track' to categorize partner expertise and the 'Claude Partner Hub' to connect enterprises with qualified firms, ensuring successful, large-scale AI deployment.",
-            "link": "https://www.anthropic.com/news/services-track-partner-hub"
         }
     ]
 }
