@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-09 17:25:32",
+    "last_update": "2026-07-10 06:51:26",
     "articles": [
+        {
+            "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
+            "summary_en": "Meta has launched Muse Spark 1.1, a proprietary model specialized for coding and agentic tasks, to compete directly with OpenAI and Anthropic. The company is adopting an aggressive pricing strategy of $1.25 per million input tokens to drive adoption while shifting focus toward proprietary model sales.",
+            "link": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+            "timestamp": 1783605601000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "AWS GraphRAG deployment cuts drug research cycles by 87% - AI News",
+            "summary_en": "AWS has deployed GraphRAG technology to accelerate drug research, resulting in a significant 87% reduction in development cycle times.",
+            "link": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87",
+            "timestamp": 1783611858000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "White House Denies Giving OpenAI ‘Green Light’ to Publicly Release Its Latest Model - Gizmodo",
+            "summary_en": "The White House has officially denied reports suggesting it provided OpenAI with a 'green light' or authorization for the public release of its latest AI model.",
+            "link": "https://gizmodo.com/white-house-denies-giving-openai-green-light-to-publicly-release-its-latest-model-2000782955",
+            "timestamp": 1783525248000,
+            "date": "2026-07-08"
+        },
         {
             "title": "AI giant Anthropic creates drug research tool, plans its own studies for overlooked diseases - WTOP",
             "summary_en": "Anthropic has introduced the 'Claude Science' tool to accelerate research and has begun running its own preclinical drug programs targeting neglected diseases. This initiative aims to refine its technology while leveraging the company's status as a public-benefit corporation to address medical needs overlooked by traditional pharmaceutical companies.",
@@ -678,27 +699,6 @@
             "summary_en": "Prominent US scientist John Jumper is reportedly set to depart Google DeepMind to join its rival, Anthropic.",
             "link": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
             "timestamp": 1781907158000,
-            "date": "2026-06-19"
-        },
-        {
-            "title": "Google's AI Chip Strategy Gets More Ambitious - GuruFocus",
-            "summary_en": "Google is significantly escalating its internal AI chip strategy as part of a broader push to reduce reliance on third-party hardware.",
-            "link": "https://www.gurufocus.com/news/8924225/googles-ai-chip-strategy-gets-more-ambitious",
-            "timestamp": 1781870097000,
-            "date": "2026-06-19"
-        },
-        {
-            "title": "Microsoft’s AI strategy feels like a beta test — at the expense of Windows and Office - Windows Central",
-            "summary_en": "Microsoft is prioritizing AI integration over its core Windows and Office business, leading to criticism that its operating system development feels like a 'beta test.' This strategic shift has caused friction, as reflected in low Windows 11 adoption rates and concerns over the company's handling of Windows 10 support.",
-            "link": "https://www.windowscentral.com/microsoft/microsofts-ai-strategy-feels-like-a-beta-test-at-the-expense-of-windows-and-office",
-            "timestamp": 1781960400000,
-            "date": "2026-06-20"
-        },
-        {
-            "title": "Google Takes On Nvidia With Bold New AI Chip Strategy - GuruFocus",
-            "summary_en": "Google is actively positioning itself to challenge Nvidia's market dominance by developing a strategic roadmap focused on proprietary AI hardware solutions.",
-            "link": "https://www.gurufocus.com/news/8924244/google-takes-on-nvidia-with-bold-new-ai-chip-strategy",
-            "timestamp": 1781899522000,
             "date": "2026-06-19"
         }
     ]

@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-09 17:25:32",
+    "last_update": "2026-07-10 06:51:26",
     "articles": [
+        {
+            "title": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI",
+            "summary_en": "Snowflake and Anthropic are deepening their strategic partnership to accelerate enterprise AI adoption by integrating Claude models directly into Snowflake Cortex AI. This collaboration allows businesses to deploy governed, production-ready AI agents on their own data without moving sensitive information outside of Snowflake's secure environment.",
+            "link": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai",
+            "timestamp": 1780359147000,
+            "date": "2026-06-02"
+        },
+        {
+            "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
+            "summary_en": "TSMC is integrating NVIDIA’s accelerated computing, including CUDA-X libraries and vision AI, into its fabrication processes to optimize lithography, transistor modeling, and defect inspection. This partnership aims to enhance manufacturing precision and productivity in producing next-generation semiconductor nodes.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing",
+            "timestamp": 1780290365000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "NVIDIA Unveils Vera, the CPU for Agents",
+            "summary_en": "NVIDIA has launched the Vera CPU, specifically designed to handle agentic AI workloads, delivering 1.8x faster performance than traditional x86 processors. Major AI labs and cloud hyperscalers, including OpenAI, Anthropic, and Oracle, are planning to adopt this chip to scale high-throughput reasoning and data-processing tasks.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-unveils-vera-the-cpu-for-agents",
+            "timestamp": 1780286443000,
+            "date": "2026-06-01"
+        },
         {
             "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
             "summary_en": "NVIDIA is ramping up production of the Vera Rubin platform, a new POD-scale system designed to power agentic AI factories with 10x the agent throughput of its predecessor. The platform features integrated co-packaged optics networking to support massive-scale AI infrastructure consisting of millions of GPUs.",
@@ -613,24 +634,6 @@
             "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
             "summary_en": "OpenAI has acquired a company that specializes in AI-powered voice cloning technology.",
             "timestamp": 1778891636000
-        },
-        {
-            "title": "AI Infrastructure Shift: Nvidia Faces New Competition in Inference and Custom Chips - IndexBox",
-            "link": "https://www.indexbox.io/blog/ai-infrastructure-shift-nvidia-faces-new-competition-in-inference-and-custom-chips/",
-            "summary_en": "While Nvidia currently dominates the AI infrastructure market, companies like Broadcom and AMD are gaining traction as the industry shifts from training large models to inference, where energy-efficient custom ASIC chips are becoming increasingly vital for hyperscalers.",
-            "timestamp": 1778922720000
-        },
-        {
-            "title": "Nvidia executive admits AI costs more than hiring human workers - MSN",
-            "link": "https://www.msn.com/en-us/money/smallbusiness/nvidia-executive-admits-ai-costs-more-than-hiring-human-workers/ar-AA23cTVx",
-            "summary_en": "An executive at Nvidia has acknowledged that the costs associated with implementing AI currently exceed the expenses of hiring human workers.",
-            "timestamp": 1778926097000
-        },
-        {
-            "title": "2028: Two scenarios for global AI leadership - Anthropic",
-            "link": "https://www.anthropic.com/research/2028-ai-leadership",
-            "summary_en": "Anthropic argues that the U.S. must maintain its leadership in compute resources to prevent authoritarian regimes from dominating AI development and using the technology for mass repression by 2028.",
-            "timestamp": 1778782464000
         }
     ]
 }
