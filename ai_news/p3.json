@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-07-10 06:51:26",
+    "last_update": "2026-07-10 17:01:37",
     "articles": [
+        {
+            "title": "OpenAI models and Codex on Amazon Bedrock are now generally available | Amazon Web Services",
+            "summary_en": "Amazon Bedrock now provides general availability of OpenAI's GPT-5.5, GPT-5.4, and Codex models, allowing enterprises to utilize these frontier tools with the same pricing as direct OpenAI rates. The integration leverages Bedrock’s secure inference engine to provide isolated, high-performance environments with built-in data governance and audit logging.",
+            "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available",
+            "timestamp": 1780349472000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
+            "summary_en": "NVIDIA has introduced Alpamayo 2 Super, a 32-billion-parameter reasoning model designed to enhance level 4 autonomous vehicle development by enabling humanlike perception and 360-degree situational awareness. The release includes a suite of new simulation and training tools, such as AlpaGym and OmniDreams, to facilitate safer, closed-loop testing for robotaxis.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis",
+            "timestamp": 1780300632000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
+            "summary_en": "NVIDIA launched Cosmos 3, a unified foundation model for physical AI that integrates physical reasoning, world generation, and action generation using a Mixture-of-Transformers architecture. Available in 16B and 64B parameter versions, the model is open-sourced alongside datasets and deployment tools to accelerate development in robotics and autonomous driving.",
+            "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3",
+            "timestamp": 1780289894000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "Trump signs AI safety order seeking voluntary review of new models",
+            "summary_en": "President Trump signed an executive order requiring AI companies to voluntarily submit powerful new models for government security testing at least 30 days before public release. While avoiding mandatory licensing, the order directs agencies to develop cybersecurity benchmarks to address national security concerns regarding advanced AI.",
+            "link": "https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order",
+            "timestamp": 1780422107000,
+            "date": "2026-06-03"
+        },
         {
             "title": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI",
             "summary_en": "Snowflake and Anthropic are deepening their strategic partnership to accelerate enterprise AI adoption by integrating Claude models directly into Snowflake Cortex AI. This collaboration allows businesses to deploy governed, production-ready AI agents on their own data without moving sensitive information outside of Snowflake's secure environment.",
@@ -610,30 +638,6 @@
             "link": "https://www.toledoblade.com/business/technology/2026/05/16/meta-launches-whatsapp-incognito-mode-to-address-privacy-concerns-for-ai-chats/stories/20260516009",
             "summary_en": "The Toledo Blade reports that Meta is launching an 'incognito' mode for WhatsApp to better address user privacy concerns regarding AI-powered chat features.",
             "timestamp": 1778928211000
-        },
-        {
-            "title": "Forward deployed engineer is AI’s hottest job as OpenAI and Google race to hire. Here’s how to become one. - The New Stack",
-            "link": "https://thenewstack.io/forward-deployed-engineer-fde-openai-google/",
-            "summary_en": "The 'forward deployed engineer' has become the most sought-after AI role as major firms like OpenAI, Google, and Anthropic prioritize experts who can bridge the gap between complex AI models and practical enterprise business outcomes to solve the current lack of measurable impact in generative AI pilots.",
-            "timestamp": 1778925805000
-        },
-        {
-            "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus - Reuters",
-            "link": "https://www.reuters.com/business/openai-seals-deal-malta-give-all-maltese-access-chatgpt-plus-2026-05-16/",
-            "summary_en": "OpenAI has entered into an agreement with Malta to provide all residents of the country with access to ChatGPT Plus.",
-            "timestamp": 1778927500000
-        },
-        {
-            "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI - Fortune",
-            "link": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
-            "summary_en": "Mustafa Suleyman, CEO of Microsoft AI, predicts that AI will achieve human-level performance and automate most office-based white-collar tasks, such as legal and accounting work, within 18 months, despite current data showing limited productivity gains and mixed results in real-world professional environments.",
-            "timestamp": 1778934540000
-        },
-        {
-            "title": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices - The New York Times",
-            "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
-            "summary_en": "OpenAI has acquired a company that specializes in AI-powered voice cloning technology.",
-            "timestamp": 1778891636000
         }
     ]
 }
