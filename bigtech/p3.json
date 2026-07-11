@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-10 17:38:58",
+    "last_update": "2026-07-11 16:39:39",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1780492500000,
+            "date": "2026-06-03",
+            "title": "Introducing new capabilities to GPT-Rosalind",
+            "summary_kr": "GPT-Rosalind의 최신 업데이트는 제약 및 생명공학 연구를 위해 특화된 에이전트형 모델로, 전용 벤치마크인 'LifeSciBench'를 통해 신약 개발과 복잡한 연구 워크플로우 전반의 성능을 강화했습니다.",
+            "summary_en": "The updated GPT-Rosalind integrates advanced agentic capabilities with domain-specific intelligence for life sciences, leveraging the new 'LifeSciBench' to optimize end-to-end research workflows and drug discovery tasks.",
+            "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1780488000000,
@@ -876,14 +885,6 @@
             "summary_en": "Virgin Atlantic successfully utilized Codex to reduce legacy code refactoring time from two weeks to under 30 minutes, achieving near-perfect unit test coverage and zero P1 defects for its mobile app launch.",
             "link": "https://openai.com/index/virgin-atlantic",
             "date": "2026-05-22"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779375600000,
-            "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
-            "summary_kr": "앤스로픽 재무팀은 클로드(Claude)를 활용해 복잡한 재무 데이터의 일관성을 유지하고, 보고서 작성 등 반복 업무 시간을 대폭 줄여 전략적 판단에 집중하고 있습니다.",
-            "summary_en": "Anthropic's finance team is leveraging Claude to automate data validation and narrative drafting, reclaiming up to 20 hours per week and ensuring consistency across board-level financial communications.",
-            "link": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers"
         }
     ]
 }

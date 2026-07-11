@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-10 17:38:58",
+    "last_update": "2026-07-11 16:39:39",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783707460000,
+            "date": "2026-07-10",
+            "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
+            "summary_kr": "JAX 기반 LLM 학습 시 NVIDIA Blackwell의 초고속 NVLink-C2C 연결을 활용해 활성화 값을 호스트 메모리로 오프로딩함으로써, HBM 병목을 해결하고 학습 처리량을 획기적으로 개선했습니다.",
+            "summary_en": "Leveraging high-speed NVLink-C2C connectivity on NVIDIA Blackwell systems, JAX-based LLM training can now offload activations to host memory, effectively mitigating HBM bottlenecks and significantly boosting training throughput.",
+            "link": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1783704071000,
@@ -891,15 +900,6 @@
             "summary_kr": "오미오(Omio)는 오픈AI와의 협력을 통해 실시간 데이터를 기반으로 한 대화형 여행 검색·예약 서비스를 구축하고, 사내 개발 워크플로우 전반에 AI를 통합하여 기업 운영의 AI 네이티브 전환을 가속화하고 있습니다.",
             "summary_en": "Omio is leveraging OpenAI to revolutionize travel through real-time conversational booking experiences while simultaneously accelerating its internal transformation into an AI-native organization by embedding AI across all software development and operational workflows.",
             "link": "https://openai.com/index/omio"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782144000000,
-            "date": "2026-06-22",
-            "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
-            "summary_kr": "엔비디아의 새로운 CCCL 런타임은 현대적인 C++ 언어 관용구를 적용하여 CUDA 프로그래밍의 안전성과 생산성을 높인 차세대 API 환경을 제공합니다.",
-            "summary_en": "NVIDIA's new CCCL runtime provides a next-generation API environment that enhances CUDA programming safety and productivity by leveraging modern C++ idioms.",
-            "link": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda"
         }
     ]
 }
