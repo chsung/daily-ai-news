@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-11 05:46:23",
+    "last_update": "2026-07-11 16:01:08",
     "articles": [
+        {
+            "title": "Anthropic warns AI could soon help build its own successors - Axios",
+            "summary_en": "Anthropic warns that AI systems are approaching a stage of 'recursive self-improvement,' where they may soon be capable of autonomously designing and building their own successors. The company is actively engaging lawmakers to prepare for the societal impacts of AI-driven development and the critical need for alignment verification.",
+            "link": "https://www.axios.com/2026/06/04/anthropic-warns-ai-build-successors",
+            "timestamp": 1780590471000,
+            "date": "2026-06-04"
+        },
+        {
+            "title": "NVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk - NVIDIA Newsroom",
+            "summary_en": "NVIDIA is launching the DGX Station for Windows, a deskside supercomputer powered by the GB300 Grace Blackwell chip capable of running trillion-parameter AI models locally. This system enables enterprise users to integrate powerful, always-on AI agents directly into existing Windows applications and workflows.",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-dgx-station-for-windows-puts-a-trillion-parameter-ai-supercomputer-on-every-enterprise-desk",
+            "timestamp": 1780288847000,
+            "date": "2026-06-01"
+        },
+        {
+            "title": "Pinterest signs $4 billion AWS deal to scale AI for 600 million users - About Amazon",
+            "summary_en": "Pinterest has committed $4 billion through 2031 to expand its cloud infrastructure with AWS, marking its largest investment to date. The partnership leverages Amazon’s custom Trainium and Graviton silicon to scale generative AI models for personalized visual search across its 600 million monthly users.",
+            "link": "https://www.aboutamazon.com/news/aws/pinterest-aws-4-billion-ai-infrastructure-deal",
+            "timestamp": 1780578379000,
+            "date": "2026-06-04"
+        },
         {
             "title": "IBM and Google Cloud Announce Strategic Partnership to Scale AI with Human Expertise and AI‑Powered Delivery - IBM Newsroom",
             "summary_en": "IBM and Google Cloud have launched a strategic partnership to accelerate enterprise AI adoption by integrating IBM’s consulting expertise with Google’s Gemini Enterprise Agent Platform. This collaboration focuses on deploying industry-specific AI agents and modernizing legacy systems across sectors like finance, telecommunications, and healthcare.",
@@ -624,24 +645,6 @@
             "link": "https://www.aol.com/articles/eu-commission-talks-openai-anthropic-104846000.html",
             "summary_en": "The European Commission is engaging in diplomatic discussions with OpenAI and Anthropic to explore potential regulatory access to their AI models, with OpenAI proactively offering cooperation while talks with Anthropic remain in preliminary stages.",
             "timestamp": 1778991806000
-        },
-        {
-            "title": "DeepSeek unveils new AI model, targets OpenAI and Anthropic - MSN",
-            "link": "https://www.msn.com/en-us/health/other/deepseek-unveils-new-ai-model-targets-openai-and-anthropic/ar-AA21BOlI?gemSnapshotKey=GM14E0454F-snapshot-1&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-            "summary_en": "DeepSeek has launched a new AI model designed to compete directly with leading industry players like OpenAI and Anthropic.",
-            "timestamp": 1778993588000
-        },
-        {
-            "title": "Anthropic's Mythos is already finding security flaws in Apple software - Mashable",
-            "link": "https://mashable.com/article/anthropic-mythos-apple-bugs",
-            "summary_en": "Anthropic's restricted-access AI tool, Claude Mythos, has successfully assisted security researchers in identifying critical kernel memory corruption vulnerabilities in Apple’s macOS, highlighting the model's high proficiency in automating bug discovery.",
-            "timestamp": 1779006058000
-        },
-        {
-            "title": "Nvidia plans open-source AI agent platform 'NemoClaw' for enterprises: Wired - MSN",
-            "link": "https://www.msn.com/en-us/money/other/nvidia-plans-open-source-ai-agent-platform-nemoclaw-for-enterprises-wired/ar-AA1XSltS?ocid=BingNewsVerp&utm_source=read.youreverydayai.com&utm_medium=referral&utm_campaign=ep-730-is-ai-creating-a-great-recession-for-white-collar-workers-inside-anthropic-s-labor-report",
-            "summary_en": "Nvidia is reportedly developing 'NemoClaw,' an open-source AI agent platform tailored for enterprise-level applications.",
-            "timestamp": 1779002974000
         }
     ]
 }

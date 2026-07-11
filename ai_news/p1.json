@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-11 05:46:23",
+    "last_update": "2026-07-11 16:01:08",
     "articles": [
+        {
+            "title": "Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper — models observed to have a global workspace, revealing more of what makes LLMs tick - Tom's Hardware",
+            "summary_en": "Anthropic researchers have identified a 'J-Space' within Claude's internal processing that functions similarly to a 'global workspace,' allowing the model to analyze concepts before they appear in final outputs. This discovery, made using the 'J-Lens' technique, provides a new window into how LLMs reason, though Anthropic cautions that the process remains heavily token-restricted.",
+            "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick",
+            "timestamp": 1783701852000,
+            "date": "2026-07-10"
+        },
+        {
+            "title": "OpenAI launches its new family of models with GPT-5.6 | TechCrunch - TechCrunch",
+            "summary_en": "OpenAI has introduced the GPT-5.6 family of models, featuring Sol, Terra, and Luna, which are optimized for enhanced enterprise coding and cybersecurity tasks. OpenAI claims the flagship 'Sol' model significantly outperforms competitors like Anthropic's Fable on coding benchmarks while using fewer tokens and maintaining lower operational costs.",
+            "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6",
+            "timestamp": 1783635864000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "Microsoft goes all in on new AI-powered Windows security strategy - what it means for you - ZDNET",
+            "summary_en": "Microsoft is integrating a multi-model agentic scanning harness (MDASH) into Windows development to accelerate vulnerability discovery and patching. By orchestrating over 100 specialized AI agents, the system identifies and validates security flaws throughout the development cycle to combat the increased speed of AI-powered cyberattacks.",
+            "link": "https://www.zdnet.com/article/microsoft-windows-ai-security-vulnerability-analysis",
+            "timestamp": 1783616400000,
+            "date": "2026-07-09"
+        },
         {
             "title": "Meta pulls new AI image feature after days of backlash - BBC",
             "summary_en": "Meta has withdrawn its 'Muse Image' tool after facing significant backlash regarding privacy, as the feature automatically used public Instagram user content to train or generate AI images without explicit consent.",
@@ -679,27 +700,6 @@
             "link": "https://quasa.io/media/openai-s-new-research-reinforcement-learning-for-broadly-and-persistently-beneficial-ai-models",
             "timestamp": 1782197280000,
             "date": "2026-06-23"
-        },
-        {
-            "title": "Supermicro Delivers NVIDIA Vera Rubin NVL4 End-to-End DCBBS Blueprint with Native FP64 Performance for Converged HPC and AI Infrastructure - Supermicro",
-            "summary_en": "Supermicro has introduced a liquid-cooled Data Center Building Block Solutions blueprint for the NVIDIA Vera Rubin NVL4 platform to accelerate large-scale AI and HPC infrastructure deployment. The solution supports clusters ranging from 3.2MW to 1GW, utilizing advanced thermal management to achieve native FP64 performance for scientific research.",
-            "link": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Delivers-NVIDIA-Vera-Rubin-NVL4-End-to-End-DCBBS-Blueprint-with-Native-FP64-Performance-for-Converged-HPC-and-AI-Infrastructure/default.aspx",
-            "timestamp": 1782117012000,
-            "date": "2026-06-22"
-        },
-        {
-            "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A - blog.google",
-            "summary_en": "Google has launched the Agent Development Kit and the open Agent-to-Agent (A2A) protocol to allow multi-agent systems to interoperate across different programming languages like Python and Go. This architecture enables developers to decompose complex AI monoliths into specialized microservices that communicate via a shared session state and HTTP-based standard.",
-            "link": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a",
-            "timestamp": 1782147892000,
-            "date": "2026-06-22"
-        },
-        {
-            "title": "ICON Selects Microsoft to Power AI-enabled Clinical Development - Contract Pharma",
-            "summary_en": "ICON plc has partnered with Microsoft to integrate AI across its clinical trial operations through an enterprise-wide deployment of Microsoft 365 Copilot. The collaboration focuses on scaling 'Orbis,' ICON’s agentic AI platform, to digitize study protocols and optimize operational execution throughout the pharmaceutical research lifecycle.",
-            "link": "https://www.contractpharma.com/breaking-news/icon-selects-microsoft-to-power-ai-enabled-clinical-development",
-            "timestamp": 1782142612000,
-            "date": "2026-06-22"
         }
     ]
 }

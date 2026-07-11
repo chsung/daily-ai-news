@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-11 05:46:23",
+    "last_update": "2026-07-11 16:01:08",
     "articles": [
+        {
+            "title": "Supermicro Delivers NVIDIA Vera Rubin NVL4 End-to-End DCBBS Blueprint with Native FP64 Performance for Converged HPC and AI Infrastructure - Supermicro",
+            "summary_en": "Supermicro has introduced a liquid-cooled Data Center Building Block Solutions blueprint for the NVIDIA Vera Rubin NVL4 platform to accelerate large-scale AI and HPC infrastructure deployment. The solution supports clusters ranging from 3.2MW to 1GW, utilizing advanced thermal management to achieve native FP64 performance for scientific research.",
+            "link": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Delivers-NVIDIA-Vera-Rubin-NVL4-End-to-End-DCBBS-Blueprint-with-Native-FP64-Performance-for-Converged-HPC-and-AI-Infrastructure/default.aspx",
+            "timestamp": 1782117012000,
+            "date": "2026-06-22"
+        },
+        {
+            "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A - blog.google",
+            "summary_en": "Google has launched the Agent Development Kit and the open Agent-to-Agent (A2A) protocol to allow multi-agent systems to interoperate across different programming languages like Python and Go. This architecture enables developers to decompose complex AI monoliths into specialized microservices that communicate via a shared session state and HTTP-based standard.",
+            "link": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a",
+            "timestamp": 1782147892000,
+            "date": "2026-06-22"
+        },
+        {
+            "title": "ICON Selects Microsoft to Power AI-enabled Clinical Development - Contract Pharma",
+            "summary_en": "ICON plc has partnered with Microsoft to integrate AI across its clinical trial operations through an enterprise-wide deployment of Microsoft 365 Copilot. The collaboration focuses on scaling 'Orbis,' ICON’s agentic AI platform, to digitize study protocols and optimize operational execution throughout the pharmaceutical research lifecycle.",
+            "link": "https://www.contractpharma.com/breaking-news/icon-selects-microsoft-to-power-ai-enabled-clinical-development",
+            "timestamp": 1782142612000,
+            "date": "2026-06-22"
+        },
         {
             "title": "Google Invests in A24 to Develop AI-Powered Filmmaking Tools - Variety",
             "summary_en": "A24 has partnered with Google DeepMind in a $75 million deal to develop AI-powered filmmaking tools that prioritize creative control over automation. The collaboration focuses on building workflows for storyboarding and production rather than generating content, distinguishing it from other industry efforts to replace human input.",
@@ -679,27 +700,6 @@
             "link": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills",
             "timestamp": 1780499168000,
             "date": "2026-06-03"
-        },
-        {
-            "title": "Anthropic warns AI could soon help build its own successors - Axios",
-            "summary_en": "Anthropic warns that AI systems are approaching a stage of 'recursive self-improvement,' where they may soon be capable of autonomously designing and building their own successors. The company is actively engaging lawmakers to prepare for the societal impacts of AI-driven development and the critical need for alignment verification.",
-            "link": "https://www.axios.com/2026/06/04/anthropic-warns-ai-build-successors",
-            "timestamp": 1780590471000,
-            "date": "2026-06-04"
-        },
-        {
-            "title": "NVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk - NVIDIA Newsroom",
-            "summary_en": "NVIDIA is launching the DGX Station for Windows, a deskside supercomputer powered by the GB300 Grace Blackwell chip capable of running trillion-parameter AI models locally. This system enables enterprise users to integrate powerful, always-on AI agents directly into existing Windows applications and workflows.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-dgx-station-for-windows-puts-a-trillion-parameter-ai-supercomputer-on-every-enterprise-desk",
-            "timestamp": 1780288847000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "Pinterest signs $4 billion AWS deal to scale AI for 600 million users - About Amazon",
-            "summary_en": "Pinterest has committed $4 billion through 2031 to expand its cloud infrastructure with AWS, marking its largest investment to date. The partnership leverages Amazon’s custom Trainium and Graviton silicon to scale generative AI models for personalized visual search across its 600 million monthly users.",
-            "link": "https://www.aboutamazon.com/news/aws/pinterest-aws-4-billion-ai-infrastructure-deal",
-            "timestamp": 1780578379000,
-            "date": "2026-06-04"
         }
     ]
 }
