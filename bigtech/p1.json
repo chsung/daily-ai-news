@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-11 16:39:39",
+    "last_update": "2026-07-12 16:41:42",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783818497000,
+            "date": "2026-07-12",
+            "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
+            "summary_kr": "기존 로봇 벤치마크의 평가 방식은 데이터 편향, 벤치마크 포화, 통계적 불확실성 등의 한계가 있어, 이를 극복하기 위해 객관적이고 심층적인 진단 도구를 갖춘 시뮬레이션 플랫폼 'RoboLab'이 제안되었습니다.",
+            "summary_en": "To address the limitations of existing robotic benchmarks—such as data bias, saturation, and lack of statistical rigor—the article introduces 'RoboLab,' a simulation platform designed to provide scalable, objective, and diagnostic evaluations.",
+            "link": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1783707460000,
@@ -891,15 +900,6 @@
             "summary_kr": "앤스로픽은 슬랙에서 팀원처럼 협업하며 실시간으로 업무를 수행하고 문맥을 공유하는 AI 에이전트 서비스 'Claude Tag'를 출시했습니다. 이 기능은 팀 단위의 생산성을 극대화하기 위해 설계되었으며, 자율적인 작업 처리와 지속적인 맥락 학습을 지원합니다.",
             "summary_en": "Anthropic has launched 'Claude Tag,' an AI agent service for Slack that functions as a collaborative team member capable of managing tasks, building context, and working asynchronously. This tool enhances team productivity by enabling shared AI interactions and proactive, autonomous workflow execution.",
             "link": "https://www.anthropic.com/news/introducing-claude-tag"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782172800000,
-            "date": "2026-06-23",
-            "title": "How Omio is building the future of conversational travel",
-            "summary_kr": "오미오(Omio)는 오픈AI와의 협력을 통해 실시간 데이터를 기반으로 한 대화형 여행 검색·예약 서비스를 구축하고, 사내 개발 워크플로우 전반에 AI를 통합하여 기업 운영의 AI 네이티브 전환을 가속화하고 있습니다.",
-            "summary_en": "Omio is leveraging OpenAI to revolutionize travel through real-time conversational booking experiences while simultaneously accelerating its internal transformation into an AI-native organization by embedding AI across all software development and operational workflows.",
-            "link": "https://openai.com/index/omio"
         }
     ]
 }

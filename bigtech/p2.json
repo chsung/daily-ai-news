@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-11 16:39:39",
+    "last_update": "2026-07-12 16:41:42",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1782172800000,
+            "date": "2026-06-23",
+            "title": "How Omio is building the future of conversational travel",
+            "summary_kr": "오미오(Omio)는 오픈AI와의 협력을 통해 실시간 데이터를 기반으로 한 대화형 여행 검색·예약 서비스를 구축하고, 사내 개발 워크플로우 전반에 AI를 통합하여 기업 운영의 AI 네이티브 전환을 가속화하고 있습니다.",
+            "summary_en": "Omio is leveraging OpenAI to revolutionize travel through real-time conversational booking experiences while simultaneously accelerating its internal transformation into an AI-native organization by embedding AI across all software development and operational workflows.",
+            "link": "https://openai.com/index/omio"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1782144000000,
@@ -891,15 +900,6 @@
             "summary_kr": "엔다바(Endava)는 AI 에이전트를 소프트웨어 개발 생명주기 전반에 내재화한 'DavaFlow' 방법론을 통해 개발은 물론 비즈니스 운영 전반의 효율성을 혁신하고 있습니다.",
             "summary_en": "Endava is transforming its enterprise workflows by embedding AI agents throughout the software delivery lifecycle via its 'DavaFlow' methodology, effectively integrating AI into all aspects of business operations.",
             "link": "https://openai.com/index/endava-frontiers"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780563600000,
-            "date": "2026-06-04",
-            "title": "Dreaming: Better memory for a more helpful ChatGPT",
-            "summary_kr": "OpenAI는 기존 '기억(Memory)' 기능의 한계를 극복하기 위해 대화 맥락을 자동 생성하는 '드리밍(Dreaming)' 기술을 고도화하여, 사용자의 선호와 정보를 실시간으로 최신화하고 기억의 정확도를 높인 차세대 메모리 아키텍처를 도입했습니다.",
-            "summary_en": "OpenAI has introduced an advanced memory architecture built on 'Dreaming' technology, which automatically synthesizes chat context to ensure ChatGPT’s memory remains accurate, relevant, and personalized over time.",
-            "link": "https://openai.com/index/chatgpt-memory-dreaming"
         }
     ]
 }

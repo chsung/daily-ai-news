@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-11 16:39:39",
+    "last_update": "2026-07-12 16:41:42",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1780563600000,
+            "date": "2026-06-04",
+            "title": "Dreaming: Better memory for a more helpful ChatGPT",
+            "summary_kr": "OpenAI는 기존 '기억(Memory)' 기능의 한계를 극복하기 위해 대화 맥락을 자동 생성하는 '드리밍(Dreaming)' 기술을 고도화하여, 사용자의 선호와 정보를 실시간으로 최신화하고 기억의 정확도를 높인 차세대 메모리 아키텍처를 도입했습니다.",
+            "summary_en": "OpenAI has introduced an advanced memory architecture built on 'Dreaming' technology, which automatically synthesizes chat context to ensure ChatGPT’s memory remains accurate, relevant, and personalized over time.",
+            "link": "https://openai.com/index/chatgpt-memory-dreaming"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1780492500000,
@@ -876,15 +885,6 @@
             "summary_kr": "통신사들은 단순히 GPU 인프라를 대여하는 단계를 넘어, 기업 고객이 요구하는 성능과 SLA를 보장하는 '토큰 기반 AI 서비스(TaaS)' 제공자로 진화함으로써 수익성을 극대화해야 합니다.",
             "summary_en": "Telcos must evolve from mere infrastructure providers into 'token-metered AI service' providers to maximize profitability by delivering high-margin, production-ready AI services that meet enterprise demands for performance and SLAs.",
             "link": "https://developer.nvidia.com/blog/building-token-metered-ai-services-on-telco-ai-factories"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779375600000,
-            "title": "How Virgin Atlantic ships faster with Codex",
-            "summary_kr": "버진 애틀랜틱 항공은 코덱스를 도입하여 레거시 코드 리팩토링 시간을 2주에서 30분으로 단축하고, 모바일 앱 출시 시 결함 제로를 달성하는 성과를 거두었습니다.",
-            "summary_en": "Virgin Atlantic successfully utilized Codex to reduce legacy code refactoring time from two weeks to under 30 minutes, achieving near-perfect unit test coverage and zero P1 defects for its mobile app launch.",
-            "link": "https://openai.com/index/virgin-atlantic",
-            "date": "2026-05-22"
         }
     ]
 }
