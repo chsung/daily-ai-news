@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-11 16:01:08",
+    "last_update": "2026-07-12 06:09:26",
     "articles": [
+        {
+            "title": "StartupHub.ai primary navigation - StartupHub.ai",
+            "summary_en": "Meta is shifting its AI strategy toward aggressive monetization and widespread adoption by introducing a paid developer tier for its new Muse Spark 1.1 model. This move acknowledges Meta's position as a challenger to leaders like OpenAI and Anthropic, aiming to leverage improved performance benchmarks to close the competitive gap.",
+            "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/zuckerberg-on-meta-s-ai-strategy-aggressive-pricing-and-openness",
+            "timestamp": 1783793913000,
+            "date": "2026-07-11"
+        },
+        {
+            "title": "OpenAI’s Head of Safety Is Leaving the Company - WIRED",
+            "summary_en": "OpenAI’s head of safety systems, Johannes Heidecke, has resigned amid a broader reorganization that merges safety and research teams under VP Mia Glaese. The departure follows concerns regarding misaligned behavior in the newly released GPT-5.6 and a series of high-level exits across the organization.",
+            "link": "https://www.wired.com/story/openai-head-of-safety-leaving",
+            "timestamp": 1783732020000,
+            "date": "2026-07-11"
+        },
+        {
+            "title": "Apple sues OpenAI, its employees claiming theft of trade secrets - BBC",
+            "summary_en": "Apple has filed a federal lawsuit against OpenAI and its hardware division, alleging a coordinated theft of confidential trade secrets via the poaching of key executives and engineers. The lawsuit claims OpenAI improperly acquired proprietary manufacturing and product development data to accelerate its upcoming entry into the consumer hardware market.",
+            "link": "https://www.bbc.com/news/articles/cy8w379e091o",
+            "timestamp": 1783724056000,
+            "date": "2026-07-10"
+        },
         {
             "title": "Anthropic says it can read Claude's 'thoughts,' as detailed in new research paper — models observed to have a global workspace, revealing more of what makes LLMs tick - Tom's Hardware",
             "summary_en": "Anthropic researchers have identified a 'J-Space' within Claude's internal processing that functions similarly to a 'global workspace,' allowing the model to analyze concepts before they appear in final outputs. This discovery, made using the 'J-Lens' technique, provides a new window into how LLMs reason, though Anthropic cautions that the process remains heavily token-restricted.",
@@ -678,27 +699,6 @@
             "summary_en": "Reflection AI has secured a $6.3 billion, three-year compute deal with SpaceX to access Nvidia GB300 chips at the Colossus 2 data center. This move underscores a growing market trend toward open-weight models, fueled by enterprise and government concerns over the reliability of closed-source AI systems following recent regulatory bans.",
             "link": "https://theaiinsider.tech/2026/06/23/reflection-ai-signs-6-3b-spacex-compute-deal-as-open-source-model-strategy-gains-momentum-after-anthropic-ban",
             "timestamp": 1782236559000,
-            "date": "2026-06-23"
-        },
-        {
-            "title": "AI companies should release environmental impact, commit to clean energy, says UN chief - Boston Herald",
-            "summary_en": "UN Secretary-General António Guterres has launched the AI Environmental Transparency Initiative, urging companies to disclose their carbon, water, and land usage while committing to 100% renewable energy by 2030. This push comes as data center energy consumption is projected to double to 3% of global electricity by 2030, currently relying heavily on coal and gas.",
-            "link": "https://www.bostonherald.com/2026/06/23/climate-guterres-ai-impact",
-            "timestamp": 1782231099000,
-            "date": "2026-06-23"
-        },
-        {
-            "title": "Nvidia launches BioNeMo agent toolkit for AI-driven life sciences research - Yahoo News Canada",
-            "summary_en": "Nvidia has launched the BioNeMo Agent Toolkit, a specialized software suite enabling AI agents to automate complex scientific workflows in biology, genomics, and drug discovery. The toolkit is already being utilized by over 50 organizations, including major pharmaceutical companies and research institutions, to accelerate computational design and analysis.",
-            "link": "https://ca.news.yahoo.com/nvidia-launches-bionemo-agent-toolkit-150000875.html",
-            "timestamp": 1782226800000,
-            "date": "2026-06-23"
-        },
-        {
-            "title": "OpenAI's New Research: Reinforcement Learning for Broadly and Persistently Beneficial AI Models - quasa.io",
-            "summary_en": "OpenAI's new research demonstrates that reinforcement learning can instill deep, transferable behavioral traits like epistemic humility and corrigibility, rather than relying on static safety rules. In testing, models trained with this approach showed persistent, generalized improvements across 44 out of 53 safety benchmarks, even when facing adversarial prompts.",
-            "link": "https://quasa.io/media/openai-s-new-research-reinforcement-learning-for-broadly-and-persistently-beneficial-ai-models",
-            "timestamp": 1782197280000,
             "date": "2026-06-23"
         }
     ]
