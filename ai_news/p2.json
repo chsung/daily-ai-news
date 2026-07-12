@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-12 06:09:26",
+    "last_update": "2026-07-12 16:04:34",
     "articles": [
+        {
+            "title": "European AI factories everywhere, still Nvidia - Jon Peddie Research",
+            "summary_en": "Nvidia is solidifying its dominance in Europe’s sovereign AI sector by powering over 90% of the continent's new AI factory build-outs, totaling 800 AI EFLOPS. The company is simultaneously integrating GPU-accelerated classical computing with quantum hardware through its CUDA-Q platform to facilitate essential calibration and error-correction workflows.",
+            "link": "https://www.jonpeddie.com/news/european-ai-factories-everywhere-still-nvidia",
+            "timestamp": 1782252680000,
+            "date": "2026-06-23"
+        },
+        {
+            "title": "Anthropic Launches An Always-On AI Coworker - NDTV",
+            "summary_en": "Anthropic has released an 'always-on' AI coworker designed to function as a persistent digital assistant for professional workflows. This launch reflects a broader industry shift toward AI agents that maintain long-term operational context rather than providing single-turn responses.",
+            "link": "https://www.ndtv.com/artificial-intelligence/anthropic-launches-claude-tag-in-research-preview-for-slack-users-11679483",
+            "timestamp": 1782276973000,
+            "date": "2026-06-24"
+        },
+        {
+            "title": "Reflection AI Signs $6.3B SpaceX Compute Deal as Open-source Model Strategy Gains Momentum After Anthropic Ban - AI Insider",
+            "summary_en": "Reflection AI has secured a $6.3 billion, three-year compute deal with SpaceX to access Nvidia GB300 chips at the Colossus 2 data center. This move underscores a growing market trend toward open-weight models, fueled by enterprise and government concerns over the reliability of closed-source AI systems following recent regulatory bans.",
+            "link": "https://theaiinsider.tech/2026/06/23/reflection-ai-signs-6-3b-spacex-compute-deal-as-open-source-model-strategy-gains-momentum-after-anthropic-ban",
+            "timestamp": 1782236559000,
+            "date": "2026-06-23"
+        },
         {
             "title": "AI companies should release environmental impact, commit to clean energy, says UN chief - Boston Herald",
             "summary_en": "UN Secretary-General António Guterres has launched the AI Environmental Transparency Initiative, urging companies to disclose their carbon, water, and land usage while committing to 100% renewable energy by 2030. This push comes as data center energy consumption is projected to double to 3% of global electricity by 2030, currently relying heavily on coal and gas.",
@@ -678,27 +699,6 @@
             "summary_en": "OpenAI has confirmed its commitment to abide by the U.S. government's executive order requiring developers to submit safety test results for large-scale AI models prior to public release.",
             "link": "https://qz.com/openai-trump-ai-model-review-order-060526",
             "timestamp": 1780667620000,
-            "date": "2026-06-05"
-        },
-        {
-            "title": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI - NVIDIA Newsroom",
-            "summary_en": "NVIDIA has launched a comprehensive open-source collection of physical AI tools and agent skills, enabling developers to automate complex robotics, autonomous vehicle, and industrial digital twin workflows.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-releases-major-collection-of-open-source-agent-tools-and-skills-for-physical-ai",
-            "timestamp": 1780289749000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "AI is designing OpenAI's next model in a sign of 'superintelligence': SoftBank's Masayoshi Son to CNBC - CNBC",
-            "summary_en": "SoftBank CEO Masayoshi Son claims that OpenAI is using current models to design future ones, a development he identifies as an early marker of artificial superintelligence arriving within the next two years.",
-            "link": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html",
-            "timestamp": 1780665350000,
-            "date": "2026-06-05"
-        },
-        {
-            "title": "Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development — 'recursive self improvement' increases risk humans lose control of AI - Tom's Hardware",
-            "summary_en": "Anthropic has warned that its Claude AI now authors over 80% of its own code and demonstrates rapid recursive self-improvement, potentially outpacing human oversight. The company suggests maintaining the option to pause frontier development to prevent losing control as model misalignment becomes increasingly difficult to manage.",
-            "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-now-writes-more-than-80-percent-of-its-merged-code",
-            "timestamp": 1780658975000,
             "date": "2026-06-05"
         }
     ]
