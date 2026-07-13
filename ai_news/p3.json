@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-13 06:27:11",
+    "last_update": "2026-07-13 17:18:58",
     "articles": [
+        {
+            "title": "China poaches more AI talent from the U.S. as it eyes the next 'super-app' - CNBC",
+            "summary_en": "Major Chinese tech firms like Tencent and Alibaba are aggressively recruiting top-tier AI talent from Silicon Valley to accelerate the development of Artificial General Intelligence (AGI) in China. This talent migration signals a strategic shift as Chinese companies aim to bypass U.S. chip restrictions by focusing on high-performance, cost-effective AI models and super-app integration.",
+            "link": "https://www.cnbc.com/2026/06/05/china-may-move-toward-us-path-on-ai-as-firms-poach-employees.html",
+            "timestamp": 1780638364000,
+            "date": "2026-06-05"
+        },
+        {
+            "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG - Research at Google",
+            "summary_en": "Google has unveiled an 'agentic RAG' framework for its Gemini Enterprise Agent Platform, which improves response accuracy by up to 34% by iteratively searching multiple data sources. Unlike traditional RAG systems that often fail on complex, multi-hop queries, this multi-agent workflow uses a 'Sufficient Context Agent' to ensure information is complete before generating an answer.",
+            "link": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag",
+            "timestamp": 1780686876000,
+            "date": "2026-06-05"
+        },
+        {
+            "title": "Anthropic urges AI labs to pause development, warns humans risk losing control - Reuters",
+            "summary_en": "Anthropic has formally urged leading AI laboratories to pause development, citing growing concerns that the rapid advancement of artificial intelligence risks human loss of control.",
+            "link": "https://www.reuters.com/business/anthropic-says-ai-labs-need-coordinated-plan-halt-development-if-risks-rise-2026-06-04",
+            "timestamp": 1780615680000,
+            "date": "2026-06-04"
+        },
         {
             "title": "SpaceX: Reported $920 Million-Per-Month Google Deal Highlights AI Infrastructure Strategy Ahead Of IPO - Pulse 2.0",
             "summary_en": "SpaceX has entered a $920 million-per-month infrastructure deal with Google to provide compute capacity for 110,000 Nvidia GPUs, bolstering Google's Gemini Enterprise platform ahead of SpaceX's planned IPO.",
@@ -636,24 +657,6 @@
             "link": "https://www.anthropic.com/news/anthropic-kpmg?ref=zef.plus",
             "summary_en": "KPMG has formed a strategic alliance with Anthropic to integrate Claude into its 'Digital Gateway' platform, providing its global workforce of over 276,000 employees with AI-powered tools for tax, audit, and cybersecurity services.",
             "timestamp": 1779270975000
-        },
-        {
-            "title": "OpenAI expands verification tools as AI slop blurs digital trust - Digital Watch Observatory",
-            "link": "https://dig.watch/updates/openai-verification-tools-ai-slop-blurs-trust",
-            "summary_en": "OpenAI is strengthening digital trust by adopting a multi-layered provenance approach that combines C2PA metadata, invisible SynthID watermarks, and a public verification tool to help users identify AI-generated content.",
-            "timestamp": 1779270109000
-        },
-        {
-            "title": "Anthropic hires OpenAI co-founder Andrej Karpathy, former Tesla AI leader - CNBC",
-            "link": "https://www.cnbc.com/2026/05/19/anthropic-hires-openai-cofounder-andrej-karpathy-former-tesla-ai-lead.html",
-            "summary_en": "Anthropic has hired OpenAI co-founder and former Tesla AI director Andrej Karpathy to lead a research team focused on using Claude to accelerate the pretraining of large language models.",
-            "timestamp": 1779208268000
-        },
-        {
-            "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
-            "link": "https://www.cnbc.com/2026/05/19/blackstone-google-ai-data-center-joint-venture-tpu.html",
-            "summary_en": "Blackstone is partnering with Google to invest $5 billion into a new AI infrastructure venture that will utilize Google's proprietary TPU chips to meet the surging global demand for compute capacity, with the first 500 megawatts expected to be online by 2027.",
-            "timestamp": 1779180816000
         }
     ]
 }
