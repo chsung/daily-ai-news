@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-12 16:04:34",
+    "last_update": "2026-07-13 06:27:11",
     "articles": [
+        {
+            "title": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle - Tom's Hardware",
+            "summary_en": "OpenAI and Broadcom have developed Jalapeño, a custom-built, reticle-sized ASIC optimized specifically for large language model inference to address bottlenecks in memory and data movement. Built during a rapid nine-month cycle, the processor is currently undergoing internal testing to achieve higher performance-per-watt than existing state-of-the-art accelerators.",
+            "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
+            "timestamp": 1782327056000,
+            "date": "2026-06-24"
+        },
+        {
+            "title": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models - Venturebeat",
+            "summary_en": "OpenAI and Broadcom have developed 'Jalapeño,' a custom AI accelerator chip designed to reduce LLM inference costs by approximately 50%. The chip’s design phase was completed in a record nine-month period, assisted by OpenAI’s own models to optimize hardware-software co-development.",
+            "link": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
+            "timestamp": 1782314040000,
+            "date": "2026-06-24"
+        },
+        {
+            "title": "IBM and OpenAI Bring Frontier AI to Cyber Defense—Helping Enterprises Keep Pace with Machine-Speed Threats - IBM Newsroom",
+            "summary_en": "IBM has joined OpenAI's Daybreak Cyber Partner Program to launch a new security service that utilizes frontier AI to detect and validate software vulnerabilities at machine speed. This collaboration, integrated with IBM's Consulting Advantage platform, is part of a broader $5 billion initiative to strengthen enterprise cyber defense.",
+            "link": "https://newsroom.ibm.com/2026-06-22-ibm-and-openai-bring-frontier-ai-to-cyber-defense-helping-enterprises-keep-pace-with-machine-speed-threats",
+            "timestamp": 1782160493000,
+            "date": "2026-06-22"
+        },
         {
             "title": "European AI factories everywhere, still Nvidia - Jon Peddie Research",
             "summary_en": "Nvidia is solidifying its dominance in Europe’s sovereign AI sector by powering over 90% of the continent's new AI factory build-outs, totaling 800 AI EFLOPS. The company is simultaneously integrating GPU-accelerated classical computing with quantum hardware through its CUDA-Q platform to facilitate essential calibration and error-correction workflows.",
@@ -679,27 +700,6 @@
             "link": "https://www.reuters.com/business/anthropic-says-ai-labs-need-coordinated-plan-halt-development-if-risks-rise-2026-06-04",
             "timestamp": 1780615680000,
             "date": "2026-06-04"
-        },
-        {
-            "title": "SpaceX: Reported $920 Million-Per-Month Google Deal Highlights AI Infrastructure Strategy Ahead Of IPO - Pulse 2.0",
-            "summary_en": "SpaceX has entered a $920 million-per-month infrastructure deal with Google to provide compute capacity for 110,000 Nvidia GPUs, bolstering Google's Gemini Enterprise platform ahead of SpaceX's planned IPO.",
-            "link": "https://pulse2.com/spacex-reported-920-million-per-month-google-deal-highlights-ai-infrastructure-strategy-ahead-of-ipo",
-            "timestamp": 1780702640000,
-            "date": "2026-06-05"
-        },
-        {
-            "title": "Nvidia Unveils New Physical AI Research and Agent Workflows - AI Business",
-            "summary_en": "Nvidia introduced a suite of physical AI tools and the Alpamayo 2 Super model to help researchers automate simulation and training workflows for robots and autonomous vehicles. These updates aim to solve industry fragmentation by providing scalable, virtualized environments for testing AI agents before real-world deployment.",
-            "link": "https://aibusiness.com/generative-ai/nvidia-unveils-physical-ai-research-agent-workflows",
-            "timestamp": 1780587777000,
-            "date": "2026-06-04"
-        },
-        {
-            "title": "OpenAI to comply with Trump AI model pre-release review order - qz.com",
-            "summary_en": "OpenAI has confirmed its commitment to abide by the U.S. government's executive order requiring developers to submit safety test results for large-scale AI models prior to public release.",
-            "link": "https://qz.com/openai-trump-ai-model-review-order-060526",
-            "timestamp": 1780667620000,
-            "date": "2026-06-05"
         }
     ]
 }
