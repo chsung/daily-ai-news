@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-07-13 17:47:38",
+    "last_update": "2026-07-14 16:59:16",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784044800000,
+            "date": "2026-07-14",
+            "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+            "summary_kr": "본 기사는 NVIDIA NeMo 프레임워크와 자율 AI 에이전트를 결합하여 반복적인 실험 인프라 구축부터 고도화된 RL 학습까지 전 과정을 자동화하는 차세대 연구 워크플로우를 제시합니다.",
+            "summary_en": "This article presents a next-generation research workflow that integrates the NVIDIA NeMo framework with autonomous AI agents to automate the entire lifecycle of RL research, from infrastructure setup to complex model training.",
+            "link": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784044800000,
+            "date": "2026-07-14",
+            "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
+            "summary_kr": "엔비디아 Cosmos 3 모델에 TAO 에이전트 기술과 LoRA 미세조정을 결합하면, 수일이 소요되던 비전 추론 모델의 도메인 특화 과정을 단 하루 만에 자동화하여 정확도를 93% 이상으로 대폭 향상할 수 있습니다.",
+            "summary_en": "By combining NVIDIA Cosmos 3 with TAO agentic fine-tuning and LoRA, developers can automate the domain-specific post-training of vision reasoning models, boosting accuracy to over 93% in just one day.",
+            "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1784034000000,
+            "date": "2026-07-14",
+            "title": "Reconstructing Pelé’s “lost” goal",
+            "summary_kr": "구글 딥마인드는 수천 개의 역사적 자료와 첨단 AI 기술을 결합하여, 기록으로 남지 않았던 펠레의 전설적인 1959년 '잃어버린 골'을 성공적으로 재현했습니다.",
+            "summary_en": "Google DeepMind has successfully reconstructed Pelé's legendary 'lost' goal from 1959 by synthesizing thousands of historical records with advanced AI technologies.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783987200000,
+            "date": "2026-07-14",
+            "title": "Introducing Claude for Teachers",
+            "summary_kr": "앤스로픽은 미국 K-12 교사들에게 표준 교육 과정과 연동된 프리미엄 AI 도구와 리소스를 무료로 제공하여 수업 설계 및 맞춤형 학습 지원을 강화합니다.",
+            "summary_en": "Anthropic is launching 'Claude for Teachers' to provide US K-12 educators with free access to premium AI tools, evidence-based curricula, and ecosystem integrations to streamline lesson planning and personalized instruction.",
+            "link": "https://www.anthropic.com/news/claude-for-teachers"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783987200000,
+            "date": "2026-07-14",
+            "title": "Anthropic commits $10 million to Canadian AI research",
+            "summary_kr": "앤스로픽(Anthropic)이 캐나다의 AI 연구 생태계 강화를 위해 주요 연구 기관 및 대학에 1,000만 캐나다 달러를 투자하고 협력을 확대합니다.",
+            "summary_en": "Anthropic is investing $10 million CAD to support Canadian research institutions and universities, aiming to advance the development of beneficial and responsible AI.",
+            "link": "https://www.anthropic.com/news/canadian-ai-research"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783987200000,
+            "date": "2026-07-14",
+            "title": "How Canada uses Claude",
+            "summary_kr": "캐나다는 인구 대비 클로드(Claude) 활용도가 세계 2위 수준으로 높으며, 특히 고숙련 기술 서비스 산업 비중이 높은 지역을 중심으로 업무 및 학업 분야에서 활발한 도입이 이루어지고 있습니다.",
+            "summary_en": "Canada exhibits the world's second-highest per capita adoption of Claude, with usage patterns strongly driven by professional service sectors, academic needs, and document translation requirements.",
+            "link": "https://www.anthropic.com/research/how-canada-uses-claude"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783987200000,
+            "date": "2026-07-14",
+            "title": "How sales teams use ChatGPT Work",
+            "summary_kr": "ChatGPT Work는 다양한 고객 데이터를 통합하여 세일즈 팀이 회의 준비, 전략 수립 및 거래 관리를 효율적으로 수행할 수 있도록 돕는 실무 자동화 도구입니다.",
+            "summary_en": "ChatGPT Work acts as a productivity engine for sales teams, synthesizing fragmented customer data into actionable outputs like meeting briefs, account strategies, and risk assessments to accelerate deal velocity.",
+            "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783987200000,
+            "date": "2026-07-14",
+            "title": "How data science teams use ChatGPT Work",
+            "summary_kr": "ChatGPT Work는 데이터 과학 팀이 파편화된 데이터와 정보를 활용하여 분석 초안을 신속하게 생성하고 검증함으로써 업무 효율성을 극대화하도록 돕습니다.",
+            "summary_en": "ChatGPT Work enables data science teams to rapidly synthesize scattered data and insights into validated, review-ready analysis assets, significantly enhancing operational efficiency.",
+            "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783969200000,
+            "date": "2026-07-13",
+            "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
+            "summary_kr": "엔비디아의 'Ising Decoder ColorCode 1'은 고성능 AI 기반 디코딩 기술을 통해 컬러 코드의 논리 오류율을 300배 이상 낮추고 처리 속도를 7배 향상하며, 실용적인 양자 컴퓨터 구현 가능성을 높였습니다.",
+            "summary_en": "NVIDIA's 'Ising Decoder ColorCode 1' leverages AI-driven decoding to reduce logical error rates by over 300x and improve runtime speed by 7x, revitalizing color codes for practical, fault-tolerant quantum computing.",
+            "link": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1783954800000,
@@ -819,87 +900,6 @@
             "summary_kr": "자율주행 및 로보틱스의 핵심인 BEV 풀링 연산의 병목 현상을 해결하기 위해, NVIDIA GPU 아키텍처에 최적화된 BEVPoolV3 기술과 성능 최적화 워크플로우를 소개합니다.",
             "summary_en": "This article introduces BEVPoolV3 and a systematic optimization workflow to overcome latency bottlenecks in BEV pooling, a critical operation for autonomous and physical AI applications on NVIDIA GPUs.",
             "link": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782318067000,
-            "date": "2026-06-24",
-            "title": "How AI is finding more answers about rare diseases",
-            "summary_kr": "오픈소스 도구인 Talos는 최신 유전체 지식을 바탕으로 저장된 데이터를 자동 재분석하여 희귀 질환의 진단 효율성을 지속 가능하게 높여줍니다.",
-            "summary_en": "Talos, an open-source tool, enables sustainable and scalable rare disease diagnosis by automating the iterative reanalysis of genomic data against the latest scientific evidence.",
-            "link": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1782316800000,
-            "date": "2026-06-24",
-            "title": "Introducing computer use in Gemini 3.5 Flash",
-            "summary_kr": "구글은 제미나이 3.5 플래시에 컴퓨터 사용 기능을 내장하여 개발자들이 브라우저, 데스크톱 등 다양한 환경에서 복잡한 작업을 자율적으로 수행하는 에이전트를 구축할 수 있게 했습니다.",
-            "summary_en": "Google has integrated computer use capabilities directly into Gemini 3.5 Flash, enabling developers to build autonomous agents that can see, reason, and execute tasks across browser, desktop, and mobile environments.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782299700000,
-            "date": "2026-06-24",
-            "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 혁신적인 냉각 기술 도입과 효율적인 인프라 설계를 통해 AI 데이터센터 확장과 수자원 사용량 감소를 동시에 달성하며, 2030년까지 '워터 포지티브(Water Positive)' 기업이 되겠다는 목표를 향해 순항하고 있습니다.",
-            "summary_en": "Microsoft is successfully decoupling AI datacenter growth from water consumption by deploying innovative cooling technologies and efficient designs, marking significant progress toward its 2030 'water positive' commitment.",
-            "link": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782280800000,
-            "date": "2026-06-24",
-            "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-            "summary_kr": "OpenAI가 브로드컴과 협력하여 LLM 추론에 최적화된 맞춤형 AI 가속기 '할라피뇨(Jalapeño)'를 공개하며, 인프라 풀스택 전략을 통해 차세대 AI 성능과 효율성을 극대화합니다.",
-            "summary_en": "OpenAI has partnered with Broadcom to unveil 'Jalapeño,' a custom inference chip optimized for LLMs, marking a strategic move to vertically integrate its infrastructure and deliver superior performance and energy efficiency.",
-            "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1782243600000,
-            "date": "2026-06-23",
-            "title": "Towards a world where no one is surprised by a natural disaster",
-            "summary_kr": "구글은 AI 기반의 예측 모델과 위성 기술을 활용해 홍수, 산불, 태풍 등 자연재해에 대한 조기 탐지 및 대응 역량을 강화하여 재난으로부터 인명을 보호하는 것을 목표로 합니다.",
-            "summary_en": "Google is leveraging AI-powered forecasting models and satellite technology to enhance early detection and response to natural disasters like floods, wildfires, and cyclones, aiming to ensure no one is taken by surprise during crises.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782219600000,
-            "date": "2026-06-23",
-            "title": "Helping build shared standards for advanced AI",
-            "summary_kr": "OpenAI는 첨단 AI의 안전한 개발과 규제를 위해 리눅스 재단과 함께 'Appia 재단'을 설립하여 국제 표준을 실무적인 평가 기준으로 체계화하고 국가 간 협력을 촉진하는 기술적 토대를 마련합니다.",
-            "summary_en": "OpenAI has co-founded the Appia Foundation with the Linux Foundation to translate international AI standards into practical assessment criteria, creating a unified framework for interoperability and global governance of advanced AI systems.",
-            "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782235801000,
-            "date": "2026-06-23",
-            "title": "Rethinking cloud operations with agentic observability - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 복잡하고 자율적인 클라우드 환경에서 발생하는 문제를 실시간으로 분석하고 해결책을 제시하는 'Azure Copilot Observability Agent'를 출시하여 운영 효율성을 극대화합니다.",
-            "summary_en": "Microsoft has launched the Azure Copilot Observability Agent to streamline cloud operations by providing real-time, AI-driven insights that help organizations diagnose and resolve complex, interdependent system issues more efficiently.",
-            "link": "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782234000000,
-            "date": "2026-06-23",
-            "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-            "summary_kr": "면역학자 데리아 우누트마즈는 GPT-5 Pro를 활용하여 포도당 대사가 T세포 분화에 미치는 영향을 분석함으로써 3년간 풀리지 않았던 난제를 성공적으로 해결했습니다. 이번 사례는 AI가 복잡한 생물학적 데이터를 해석하고 인간 전문가의 직관을 확장함으로써 질병 연구를 가속화하는 핵심 도구가 될 수 있음을 입증합니다.",
-            "summary_en": "Immunologist Derya Unutmaz successfully resolved a three-year-old research mystery regarding T cell differentiation by utilizing GPT-5 Pro to analyze complex metabolic data. This case demonstrates that AI acts as a vital tool in accelerating medical research by augmenting human expertise and uncovering insights beyond traditional cognitive boundaries.",
-            "link": "https://openai.com/index/gpt-5-immunology-mystery"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782232200000,
-            "date": "2026-06-23",
-            "title": "Maximize AI Factory Energy Efficiency Through Full-Stack Inference and Training Optimizations",
-            "summary_kr": "AI 공장의 운영 비용 절감을 위해 전력 효율성(성능/와트) 개선이 필수적이며, NVIDIA는 풀스택 최적화와 시스템 통합 설계를 통해 이를 극대화하고 있습니다.",
-            "summary_en": "Improving power efficiency (performance per watt) is critical for reducing AI factory operating costs, and NVIDIA is maximizing this through full-stack optimizations and integrated system design.",
-            "link": "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations"
         }
     ]
 }
