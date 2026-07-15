@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-07-14 16:59:16",
+    "last_update": "2026-07-15 17:01:20",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1782345600000,
+            "date": "2026-06-25",
+            "title": "Explore the markets with Interactive Brokers and Grok",
+            "summary_kr": "인터랙티브 브로커스가 그록(Grok) AI를 통합하여 고객들에게 포트폴리오 분석, 시장 조사, 주문 실행 등 실시간 투자 지원 기능을 제공합니다.",
+            "summary_en": "Interactive Brokers has integrated Grok AI to provide clients with real-time portfolio analysis, market research, and seamless order execution capabilities.",
+            "link": "https://x.ai/news/grok-interactive-brokers"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782334464000,
+            "date": "2026-06-24",
+            "title": "Scaling cybercrime disruption through innovation and AI",
+            "summary_kr": "마이크로소프트는 AI를 활용해 범죄 인프라의 연관성을 분석함으로써 개별 악성코드가 아닌 사이버 범죄 공급망 전체를 효율적으로 차단하는 전략을 도입했습니다.",
+            "summary_en": "Microsoft is pivoting to a supply-chain disruption strategy, utilizing AI to analyze and dismantle interconnected cybercrime infrastructures rather than targeting individual threats in isolation.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/06/24/scaling-cybercrime-disruption-through-innovation-and-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782318600000,
+            "date": "2026-06-24",
+            "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
+            "summary_kr": "자율주행 및 로보틱스의 핵심인 BEV 풀링 연산의 병목 현상을 해결하기 위해, NVIDIA GPU 아키텍처에 최적화된 BEVPoolV3 기술과 성능 최적화 워크플로우를 소개합니다.",
+            "summary_en": "This article introduces BEVPoolV3 and a systematic optimization workflow to overcome latency bottlenecks in BEV pooling, a critical operation for autonomous and physical AI applications on NVIDIA GPUs.",
+            "link": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1782318067000,
@@ -873,33 +900,6 @@
             "summary_kr": "앤스로픽은 역대 최고 성능을 갖춘 AI 모델 'Claude Fable 5'를 출시하고, 보안이 강화된 'Mythos 5'를 사이버 보안 전문가 및 인프라 제공업체에 공개했습니다.",
             "summary_en": "Anthropic has launched 'Claude Fable 5,' its most capable AI model to date, alongside 'Mythos 5,' a specialized version for cyberdefenders with fewer usage restrictions.",
             "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1780963200000,
-            "date": "2026-06-09",
-            "title": "Powering Gopuff's Go agent",
-            "summary_kr": "고퍼프(Gopuff)가 스페이스X AI(xAI)의 그록(Grok) 모델을 탑재한 쇼핑 어시스턴트 'Go'를 출시하여, 개인화된 데이터와 실시간 정보를 바탕으로 고객의 수요를 예측하고 즉각적인 배송을 지원합니다.",
-            "summary_en": "Gopuff has launched 'Go,' an AI-powered shopping assistant integrated with xAI's Grok models, which leverages personalized demand intelligence and real-time data to anticipate customer needs and streamline rapid delivery.",
-            "link": "https://x.ai/news/grok-gopuff"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1780945697000,
-            "date": "2026-06-08",
-            "title": "AI brands as bait: How threat actors are using the AI hype in social engineering | Microsoft Security Blog",
-            "summary_kr": "사이버 범죄자들이 유명 AI 브랜드의 인지도를 악용하여 피싱, 악성 광고 등 다양한 사회 공학적 공격을 감행하고 있으므로 기업과 사용자의 각별한 주의와 AI 기반 보안 솔루션 도입이 필요합니다.",
-            "summary_en": "Threat actors are increasingly exploiting popular AI brands as lures for phishing and malvertising campaigns, necessitating heightened user vigilance and the adoption of AI-powered security solutions to mitigate these evolving social engineering risks.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780942686000,
-            "date": "2026-06-08",
-            "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
-            "summary_kr": "NVIDIA Blackwell의 NVFP4 기술은 4비트 혼합 정밀도와 고도화된 스케일링 기법을 통해 정확도 손실 없이 학습 처리량을 획기적으로 높였습니다.",
-            "summary_en": "NVIDIA’s NVFP4 technology leverages 4-bit mixed-precision and advanced scaling techniques to significantly boost training throughput on Blackwell architectures without sacrificing accuracy.",
-            "link": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell"
         }
     ]
 }

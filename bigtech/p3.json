@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-07-14 16:59:16",
+    "last_update": "2026-07-15 17:01:20",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1780963200000,
+            "date": "2026-06-09",
+            "title": "Powering Gopuff's Go agent",
+            "summary_kr": "고퍼프(Gopuff)가 스페이스X AI(xAI)의 그록(Grok) 모델을 탑재한 쇼핑 어시스턴트 'Go'를 출시하여, 개인화된 데이터와 실시간 정보를 바탕으로 고객의 수요를 예측하고 즉각적인 배송을 지원합니다.",
+            "summary_en": "Gopuff has launched 'Go,' an AI-powered shopping assistant integrated with xAI's Grok models, which leverages personalized demand intelligence and real-time data to anticipate customer needs and streamline rapid delivery.",
+            "link": "https://x.ai/news/grok-gopuff"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1780945697000,
+            "date": "2026-06-08",
+            "title": "AI brands as bait: How threat actors are using the AI hype in social engineering | Microsoft Security Blog",
+            "summary_kr": "사이버 범죄자들이 유명 AI 브랜드의 인지도를 악용하여 피싱, 악성 광고 등 다양한 사회 공학적 공격을 감행하고 있으므로 기업과 사용자의 각별한 주의와 AI 기반 보안 솔루션 도입이 필요합니다.",
+            "summary_en": "Threat actors are increasingly exploiting popular AI brands as lures for phishing and malvertising campaigns, necessitating heightened user vigilance and the adoption of AI-powered security solutions to mitigate these evolving social engineering risks.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1780942686000,
+            "date": "2026-06-08",
+            "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
+            "summary_kr": "NVIDIA Blackwell의 NVFP4 기술은 4비트 혼합 정밀도와 고도화된 스케일링 기법을 통해 정확도 손실 없이 학습 처리량을 획기적으로 높였습니다.",
+            "summary_en": "NVIDIA’s NVFP4 technology leverages 4-bit mixed-precision and advanced scaling techniques to significantly boost training throughput on Blackwell architectures without sacrificing accuracy.",
+            "link": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1780927200000,
@@ -872,32 +899,6 @@
             "summary_kr": "앤스로픽은 'Code w/ Claude' 런던 행사에서 AI 에이전트를 통해 개발의 복잡성을 줄이고, 기업 보안 환경 내에서 활용 가능한 'Claude Managed Agents'와 MCP 통합 기능을 발표했습니다.",
             "summary_en": "Anthropic's 'Code w/ Claude' London event highlighted how AI agents simplify development, introducing 'Claude Managed Agents' and MCP integration to enable secure, enterprise-grade AI execution.",
             "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779667200000,
-            "date": "2026-05-25",
-            "title": "OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnership",
-            "summary_kr": "OpenAI가 브라질 최대 언론사인 Grupo Folha 및 UOL과 전략적 파트너십을 체결하여 ChatGPT 내 신뢰할 수 있는 뉴스 접근성을 높이고, 언론사는 AI 기술을 활용해 디지털 혁신을 도모합니다.",
-            "summary_en": "OpenAI has formed a strategic partnership with Brazil's Grupo Folha and UOL to integrate high-quality journalism into ChatGPT while providing the publishers with access to advanced AI tools for innovation.",
-            "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779634800000,
-            "date": "2026-05-25",
-            "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-            "summary_kr": "앤스로픽 공동 창업자 크리스 올라(Chris Olah)는 교황 레오 14세의 AI 회칙 발표에 참석해, AI는 공학적 산물을 넘어 인문학적 성찰이 필요한 영역임을 강조하며 외부 사회와의 긴밀한 소통과 안전한 개발을 위한 협력을 촉구했습니다.",
-            "summary_en": "Anthropic co-founder Chris Olah addressed Pope Leo XIV's AI encyclical, asserting that AI development transcends technical engineering and requires deep collaboration with humanities and society to ensure ethical and safe outcomes.",
-            "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779472812585,
-            "title": "Project Glasswing: An initial update",
-            "summary_kr": "앤스로픽의 프로젝트 글래스윙(Project Glasswing)은 클로드 미토스(Claude Mythos) 모델을 활용해 한 달 만에 핵심 소프트웨어에서 1만 개 이상의 취약점을 발견하며 사이버 보안 역량을 입증했습니다.",
-            "summary_en": "Anthropic's 'Project Glasswing' has utilized the Claude Mythos Preview model to identify over 10,000 critical vulnerabilities in essential software within just one month, demonstrating a significant advancement in AI-driven cybersecurity.",
-            "link": "https://www.anthropic.com/research/glasswing-initial-update"
         }
     ]
 }
