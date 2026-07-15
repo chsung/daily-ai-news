@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-14 16:20:57",
+    "last_update": "2026-07-15 05:38:32",
     "articles": [
+        {
+            "title": "Naver, Nvidia Agree to Joint Development of Hyperscale AI Factories - thelec.net",
+            "summary_en": "Naver and Nvidia have partnered to develop gigawatt-scale hyperscale AI factories, beginning with the expansion of Naver's 'Gak Sejong' data center. The collaboration aims to build sovereign AI infrastructure globally while jointly developing spatial intelligence technologies, including a 'Seoul World Model' based on Nvidia's Cosmos.",
+            "link": "https://www.thelec.net/news/articleView.html?idxno=11102",
+            "timestamp": 1780967094000,
+            "date": "2026-06-09"
+        },
+        {
+            "title": "Tim Cook expected to unveil all-new Siri at WWDC in major Apple update on AI strategy - ABC7 Chicago",
+            "summary_en": "Apple is set to reveal a revamped version of Siri at its Worldwide Developers Conference, aiming to bridge the performance gap with rivals like ChatGPT and Gemini through a potential partnership with Google. This strategic update seeks to revitalize Apple's AI presence, addressing investor concerns as the company prepares for a leadership transition under incoming CEO John Ternus.",
+            "link": "https://abc7chicago.com/post/apple-ceo-tim-cook-expected-unveil-new-siri-wwdc-ai-strategy-update-catch-competitors-chatgpt-gemini/19257048",
+            "timestamp": 1780931432000,
+            "date": "2026-06-08"
+        },
+        {
+            "title": "Introducing Majorana 2 - Microsoft Source",
+            "summary_en": "Microsoft has unveiled its Majorana 2 topological quantum chip, which utilizes agentic AI to achieve a 1,000-fold increase in qubit reliability. This breakthrough has allowed the company to accelerate its timeline for a scalable, commercially valuable quantum computer to 2029.",
+            "link": "https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai",
+            "timestamp": 1780424572000,
+            "date": "2026-06-02"
+        },
         {
             "title": "NVIDIA Accelerates Physical AI Strategy: Deepens Collaboration with Hyundai Motor to Advance Robot Industrialization into Practical Implementation Phase - 富途牛牛",
             "summary_en": "NVIDIA is deepening its collaboration with Hyundai Motor to push 'Physical AI' from conceptual development into the practical implementation phase of industrial robotics. This partnership aims to leverage NVIDIA's AI infrastructure to advance the real-world application of intelligent machines within manufacturing environments.",
@@ -646,24 +667,6 @@
             "link": "https://www.fastcompany.com/91546771/trump-ai-executive-order",
             "summary_en": "Donald Trump has canceled an executive order regarding AI, citing concerns that such regulations could hinder American technological innovation.",
             "timestamp": 1779419190000
-        },
-        {
-            "title": "Nvidia’s Two-Track Data Center Strategy Targets Hyperscalers, Enterprise AI Factories - crn.com",
-            "link": "https://www.crn.com/news/ai/2026/nvidia-s-two-track-data-center-strategy-targets-hyperscalers-enterprise-ai-factories",
-            "summary_en": "Nvidia CEO Jensen Huang is splitting the company's data center strategy into two segments: high-spending hyperscalers and a vast, growing network of diverse enterprise 'AI factories' that require localized, reliable computing.",
-            "timestamp": 1779397860000
-        },
-        {
-            "title": "Nvidia posts record profit of $58.3bn amid AI chip boom - Al Jazeera",
-            "link": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom",
-            "summary_en": "Nvidia reported record quarterly profits of $58.3 billion, driven by a 92% surge in data-center revenue from AI demand, leading the company to announce an $80 billion share buyback and a significant dividend increase as it shifts into a more mature phase of hypergrowth.",
-            "timestamp": 1779375334000
-        },
-        {
-            "title": "Anthropic Is in Talks to Use Microsoft’s AI Chips - The Information",
-            "link": "https://www.theinformation.com/articles/anthropic-talks-use-microsofts-ai-chips",
-            "summary_en": "Anthropic is currently in negotiations to incorporate Microsoft’s proprietary AI chips into its infrastructure, reflecting a strategic move to diversify its hardware supply for advanced model development.",
-            "timestamp": 1779368651000
         }
     ]
 }

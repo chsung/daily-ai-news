@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-14 16:20:57",
+    "last_update": "2026-07-15 05:38:32",
     "articles": [
+        {
+            "title": "Apple in talks with startup that shrinks AI models to run on an iPhone - CNBC",
+            "summary_en": "Apple is evaluating technology from the startup PrismML, which specializes in compressing massive AI models to run locally on mobile hardware without cloud reliance. This breakthrough could allow resource-heavy AI features to function on iPhones with significantly reduced latency, memory usage, and energy consumption.",
+            "link": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+            "timestamp": 1784048420000,
+            "date": "2026-07-14"
+        },
+        {
+            "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI | TechCrunch - TechCrunch",
+            "summary_en": "Google DeepMind CEO Demis Hassabis has proposed an independent, industry-funded regulatory body, modeled after FINRA, to test and oversee frontier AI models before their release. This initiative aims to establish technical standards and address safety concerns while avoiding the bureaucratic hurdles of traditional government agency oversight.",
+            "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai",
+            "timestamp": 1784051155000,
+            "date": "2026-07-14"
+        },
+        {
+            "title": "OpenAI Will Release a Smart Speaker—A “Humanlike AI Companion” for the Home - SFG Media",
+            "summary_en": "OpenAI is developing a portable, screenless AI smart speaker designed to act as a proactive, humanlike companion that learns from user data. Despite a legal challenge from Apple alleging the theft of trade secrets and employee poaching, OpenAI is moving forward with the project, which leverages hardware expertise from former Apple designers like Jony Ive.",
+            "link": "https://sfg.media/en/a/openai-smart-speaker-ai-home-companion",
+            "timestamp": 1784052155000,
+            "date": "2026-07-14"
+        },
         {
             "title": "With its latest layoffs, Microsoft goes all in on AI - Computerworld",
             "summary_en": "Microsoft is aggressively prioritizing AI infrastructure, committing $190 billion to data centers while executing significant layoffs that impact nearly 5,000 employees, particularly within its gaming division. This shift is accompanied by a new $2.5 billion 'Frontier Company' initiative designed to embed 6,000 engineers into client businesses to accelerate AI deployment.",
@@ -678,27 +699,6 @@
             "summary_en": "Apple reportedly plans to skip high-end versions of its M6 chip, opting to fast-track the AI-optimized M7 generation by 2027 to significantly increase memory bandwidth for on-device AI performance.",
             "link": "https://www.tomshardware.com/tech-industry/apple-will-skip-its-high-end-m6-mac-chips-and-fast-track-an-ai-focused-m7-generation-for-2027",
             "timestamp": 1782481886000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "Exclusive: US releases powerful Anthropic model Mythos to some US companies - Semafor",
-            "summary_en": "The US government has lifted export restrictions on Anthropic’s Claude Mythos 5 model, granting over 100 trusted institutions access following the implementation of new safety protocols. This move establishes a precedent for a federal regulatory regime that balances national security concerns with the competitive pace of AI development.",
-            "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-            "timestamp": 1782513000000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "A24 Defends $75M AI Research Partnership With Google DeepMind - Let's Data Science",
-            "summary_en": "A24 has entered a $75 million research partnership with Google DeepMind to co-develop AI-driven filmmaking tools, marking Google's first financial investment in a Hollywood studio. While the studio claims the deal ensures artists can influence tool development, the collaboration has faced significant backlash from creative communities concerned about labor displacement and data provenance.",
-            "link": "https://letsdatascience.com/news/a24-defends-75m-ai-research-partnership-with-google-deepmind-6133fe72",
-            "timestamp": 1782502716000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations - Reuters",
-            "summary_en": "The United States government has authorized Anthropic to provide its Mythos AI model to specific, vetted domestic organizations. This move aims to balance the rapid advancement of generative AI with strict security and oversight protocols.",
-            "link": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-            "timestamp": 1782513420000,
             "date": "2026-06-26"
         }
     ]
