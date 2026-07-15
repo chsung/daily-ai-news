@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-15 05:38:32",
+    "last_update": "2026-07-15 16:29:52",
     "articles": [
+        {
+            "title": "Inside Anthropic’s state-by-state plan to ratchet up AI rules - Politico",
+            "summary_en": "Anthropic is actively engaging in a state-by-state strategy to influence and strengthen legislative frameworks governing artificial intelligence development and deployment.",
+            "link": "https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415",
+            "timestamp": 1784105100000,
+            "date": "2026-07-15"
+        },
+        {
+            "title": "Where authorities are restricting data centres amid AI boom - Reuters",
+            "summary_en": "Global authorities are increasingly imposing restrictions on the construction and operation of data centers as they struggle to manage the infrastructure pressures caused by the AI industry boom.",
+            "link": "https://www.reuters.com/legal/litigation/where-authorities-are-restricting-data-centres-amid-ai-boom-2026-07-14",
+            "timestamp": 1784034480000,
+            "date": "2026-07-14"
+        },
         {
             "title": "Apple in talks with startup that shrinks AI models to run on an iPhone - CNBC",
             "summary_en": "Apple is evaluating technology from the startup PrismML, which specializes in compressing massive AI models to run locally on mobile hardware without cloud reliance. This breakthrough could allow resource-heavy AI features to function on iPhones with significantly reduced latency, memory usage, and energy consumption.",
@@ -686,20 +700,6 @@
             "link": "https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862",
             "timestamp": 1782568800000,
             "date": "2026-06-27"
-        },
-        {
-            "title": "A24 Defends AI Deal With Google: We'd Rather Have a Seat at the Table - Variety",
-            "summary_en": "A24 is defending its new research partnership with Google’s DeepMind, asserting that the collaboration allows the studio to actively influence the development of AI tools rather than remaining on the sidelines.",
-            "link": "https://variety.com/2026/film/news/a24-defends-ai-deal-google-1236791441",
-            "timestamp": 1782500580000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "Apple will skip its high-end M6 Mac chips and fast-track an AI-focused M7 generation for 2027, report claims — may release a base M6 chip for entry-level Macs this year - Tom's Hardware",
-            "summary_en": "Apple reportedly plans to skip high-end versions of its M6 chip, opting to fast-track the AI-optimized M7 generation by 2027 to significantly increase memory bandwidth for on-device AI performance.",
-            "link": "https://www.tomshardware.com/tech-industry/apple-will-skip-its-high-end-m6-mac-chips-and-fast-track-an-ai-focused-m7-generation-for-2027",
-            "timestamp": 1782481886000,
-            "date": "2026-06-26"
         }
     ]
 }
