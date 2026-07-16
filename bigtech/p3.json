@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-07-15 17:01:20",
+    "last_update": "2026-07-16 16:59:51",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1781028148000,
+            "date": "2026-06-09",
+            "title": "How Microsoft Discovery is speeding BHP's copper innovation — critical to the energy transition",
+            "summary_kr": "세계 최대 광업 기업 BHP는 마이크로소프트의 AI 플랫폼 'Microsoft Discovery'를 도입하여 구리 추출 효율을 높이는 신물질 탐색 기간을 획기적으로 단축하고 에너지 전환에 필수적인 구리 공급망 혁신을 가속화하고 있습니다.",
+            "summary_en": "BHP is leveraging Microsoft Discovery to drastically accelerate the R&D process for efficient copper extraction, utilizing AI agents to enhance innovation in a critical mineral essential for the global energy transition.",
+            "link": "https://news.microsoft.com/signal/articles/microsoft-discovery-bhp-copper"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1781020800000,
+            "date": "2026-06-09",
+            "title": "4 ways researchers are collaborating with Co-Scientist to solve big problems",
+            "summary_kr": "구글의 '코-사이언티스트(Co-Scientist)'는 전문 에이전트들의 협업을 통해 가설 생성부터 검증, 고도화까지 과학적 연구 과정을 자동화하고 가속화하는 AI 시스템입니다.",
+            "summary_en": "Google's Co-Scientist is an AI system that leverages a coalition of specialized agents to automate and accelerate scientific research, from hypothesis generation and peer review to refinement.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781006400000,
+            "date": "2026-06-09",
+            "title": "How engineers at Nextdoor use Codex to build without limits",
+            "summary_kr": "Nextdoor는 엔지니어링 도구인 Codex를 도입하여 엔지니어가 기술적 구현 방식보다 제품의 결과물과 가치에 집중하도록 업무 패러다임을 전환했으며, 이를 통해 부서 간 협업 없이도 엔지니어가 제품 전체를 단독으로 개발할 수 있는 환경을 구축했습니다.",
+            "summary_en": "By integrating Codex, Nextdoor has shifted its engineering paradigm from technical implementation to outcome-driven development, enabling individual engineers to own full-stack product delivery and accelerate innovation without traditional cross-team bottlenecks.",
+            "link": "https://openai.com/index/nextdoor"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780999200000,
+            "date": "2026-06-09",
+            "title": "What Codex unlocks for Notion",
+            "summary_kr": "노션은 코덱스(Codex)를 도입해 개발 시간을 2주에서 3시간으로 단축하며 생산성을 극대화했고, 엔지니어들이 코드 작성보다 설계와 고차원적 문제 해결에 집중하는 새로운 업무 방식을 구축했습니다.",
+            "summary_en": "Notion has revolutionized its engineering workflow by leveraging Codex to reduce development time from two weeks to three hours, enabling engineers to shift their focus from manual coding to high-level architectural design and parallel task execution.",
+            "link": "https://openai.com/index/notion"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1780963200000,
+            "date": "2026-06-09",
+            "title": "Industrial policy for the Intelligence Age",
+            "summary_kr": "OpenAI는 초지능 시대를 대비해 AI가 모두에게 혜택을 줄 수 있도록 기회 확대와 번영 공유를 위한 새로운 산업 정책 아이디어를 제시하고, 이를 논의하기 위한 연구 지원 및 협력 체계를 구축했습니다.",
+            "summary_en": "OpenAI has introduced people-first industrial policy ideas to ensure equitable AI benefits in the age of superintelligence and is actively fostering public discourse through research grants and collaborative workshops.",
+            "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781022908000,
+            "date": "2026-06-09",
+            "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
+            "summary_kr": "NVIDIA FLARE의 Auto-FL은 AI 에이전트를 활용해 연합 학습 전략의 실험과 최적화를 자동화하고, 구조화된 워크플로우를 통해 연구의 재현성과 효율성을 높입니다.",
+            "summary_en": "NVIDIA FLARE Auto-FL leverages AI agents to automate the testing and optimization of federated learning strategies, enhancing research reproducibility and efficiency through a structured, benchmark-driven workflow.",
+            "link": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1781017200000,
+            "date": "2026-06-09",
+            "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+            "summary_kr": "구글이 발표한 'Gemini 3.5 Live Translate'는 70개 이상의 언어를 실시간 음성 대 음성으로 번역하며, 화자의 어조와 속도를 유지한 자연스러운 동시통역을 제공합니다. 이 기술은 구글 미트와 번역 앱은 물론 개발자 API를 통해 다양한 플랫폼에서 원활한 다국어 소통 환경을 지원합니다.",
+            "summary_en": "Google’s 'Gemini 3.5 Live Translate' delivers fluid, natural speech-to-speech translation across 70+ languages by preserving speaker intonation in near real-time. The model is now rolling out across Google products and developer APIs, enabling seamless multilingual communication for global users and enterprises.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781017200000,
+            "date": "2026-06-09",
+            "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
+            "summary_kr": "NVIDIA는 임상 분야의 전문 용어 인식 정확도를 높이기 위해 AI 에이전트 기술과 Nemotron Speech를 활용한 고품질 합성 데이터 생성 및 반복적인 평가 워크플로우를 제시합니다. 이는 개인정보 보호 문제를 해결함과 동시에 임상 ASR 모델의 성능을 빠르고 효율적으로 개선할 수 있는 혁신적인 방안입니다.",
+            "summary_en": "NVIDIA introduces a workflow leveraging AI agent skills and Nemotron Speech to generate high-quality synthetic data for clinical ASR, enabling rapid and repeatable model evaluation while overcoming privacy and data scarcity constraints.",
+            "link": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1780963200000,
+            "date": "2026-06-09",
+            "title": "Claude Fable 5 and Claude Mythos 5",
+            "summary_kr": "앤스로픽은 역대 최고 성능을 갖춘 AI 모델 'Claude Fable 5'를 출시하고, 보안이 강화된 'Mythos 5'를 사이버 보안 전문가 및 인프라 제공업체에 공개했습니다.",
+            "summary_en": "Anthropic has launched 'Claude Fable 5,' its most capable AI model to date, alongside 'Mythos 5,' a specialized version for cyberdefenders with fewer usage restrictions.",
+            "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+        },
         {
             "company": "xAI",
             "timestamp": 1780963200000,
@@ -818,87 +899,6 @@
             "summary_kr": "NVIDIA가 CUDA 13.3을 통해 C++ 기반의 'CUDA Tile' 프로그래밍을 지원하며, 복잡한 저수준 최적화 없이도 타일 단위의 추상화를 통해 효율적인 GPU 커널 개발이 가능해졌습니다.",
             "summary_en": "NVIDIA has introduced C++ support for 'CUDA Tile' in CUDA 13.3, enabling developers to build highly optimized GPU kernels through tile-based abstractions without manual low-level hardware management.",
             "link": "https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779831557000,
-            "date": "2026-05-27",
-            "title": "NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++, Compiler Autotuning, and Python",
-            "summary_kr": "NVIDIA CUDA 13.3은 C++ 타일 프로그래밍과 CUDA Python 1.0 정식 출시를 통해 개발 편의성과 호환성을 대폭 강화했으며, CompileIQ를 통한 자동 튜닝으로 연산 성능을 최대 15% 향상시켰습니다.",
-            "summary_en": "NVIDIA CUDA 13.3 enhances development efficiency and portability with the introduction of C++ Tile programming and the official CUDA Python 1.0 release, while delivering up to a 15% performance boost through the CompileIQ auto-tuning framework.",
-            "link": "https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1779811200000,
-            "date": "2026-05-27",
-            "title": "Run Key Genomics and Protein Folding Workloads Faster with NVIDIA RTX PRO 4500 Blackwell",
-            "summary_kr": "엔비디아는 고성능 GPU와 BioNeMo 플랫폼을 통해 유전체 분석 및 신약 개발의 병목 현상을 해결하며 정밀 의료의 속도와 효율성을 획기적으로 높이고 있습니다.",
-            "summary_en": "NVIDIA is significantly accelerating precision medicine by leveraging its GPU-accelerated platforms, such as BioNeMo and Parabricks, to overcome critical bottlenecks in genomic analysis and drug discovery.",
-            "link": "https://developer.nvidia.com/blog/run-key-genomics-and-protein-folding-workloads-faster-with-nvidia-rtx-pro-4500-blackwell"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-            "summary_kr": "앤스로픽이 이탈리아 밀라노에 신규 사무소를 개설하며 현지 기업 및 연구 생태계와의 협력을 강화하고, 안전한 AI 도입을 지원하는 유럽 내 입지를 확대합니다.",
-            "summary_en": "Anthropic has opened a new office in Milan to accelerate AI adoption across Italian industries, research, and developer communities while fostering responsible AI development.",
-            "link": "https://www.anthropic.com/news/milan-office-opening"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "Using LLMs to secure source code",
-            "summary_kr": "이 기사는 Claude Opus를 활용하여 소스 코드의 위협 모델을 구축하고 취약점을 탐지, 검증, 패치하는 체계적인 보안 워크플로우를 제시합니다. 특히 모델이 정확한 판단을 내리기 위해서는 잘 정의된 위협 모델과 시스템 컨텍스트 제공이 성공의 핵심임을 강조합니다.",
-            "summary_en": "This article outlines a systematic workflow for leveraging Claude Opus to build threat models and automate the discovery, verification, and patching of source code vulnerabilities. It highlights that providing a well-defined threat model and system context is critical for ensuring the model's accuracy and actionable output.",
-            "link": "https://claude.com/blog/using-llms-to-secure-source-code"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "How CodeRabbit used Claude to build an agent orchestration system",
-            "summary_kr": "CodeRabbit은 Claude를 활용해 코딩 전 단계에서 구조화된 계획을 수립하는 오케스트레이션 레이어를 도입함으로써, AI가 맥락을 오해해 발생하는 불필요한 재작업을 방지하고 코드 품질을 높였습니다.",
-            "summary_en": "CodeRabbit implemented an orchestration layer using Claude to generate structured plans before coding, effectively bridging context gaps and reducing costly rework caused by AI hallucinations or misaligned intent.",
-            "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "Zero Trust for AI agents",
-            "summary_kr": "본 가이드는 자율형 AI 에이전트 도입에 따른 보안 위협을 방어하기 위해 제로 트러스트 원칙을 적용한 새로운 엔터프라이즈 보안 프레임워크를 제시합니다.",
-            "summary_en": "This guide introduces a Zero Trust security framework designed to address the unique threat landscape and operational risks associated with deploying autonomous AI agents in the enterprise.",
-            "link": "https://claude.com/blog/zero-trust-for-ai-agents"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779807600000,
-            "date": "2026-05-27",
-            "title": "Economic Research Coding agents in the social sciences",
-            "summary_kr": "사회과학 분야에서 AI 코딩 에이전트의 활용은 초기 단계에 머물러 있으며, 성별과 소속 기관에 따른 사용 격차가 뚜렷하게 나타나고 있습니다. 이러한 도구는 연구 생산성을 혁신할 잠재력이 있으나, 동시에 학계 내 자원 불균형과 편향된 연구 결과에 대한 우려도 제기됩니다.",
-            "summary_en": "The adoption of AI coding agents in social sciences remains in its early stages with significant disparities based on gender and institutional prestige. While these tools hold the potential to revolutionize research productivity, they also risk amplifying resource inequality and introducing systemic biases into scholarly outcomes.",
-            "link": "https://www.anthropic.com/research/coding-agents-social-sciences"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779721200000,
-            "date": "2026-05-26",
-            "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-            "summary_kr": "앤스로픽이 한국 시장의 높은 수요를 대응하고 현지 전략을 강화하기 위해 전 스노우플레이크 한국 지사장 최기영을 한국 대표로 선임하고 서울 사무소를 개소합니다.",
-            "summary_en": "Anthropic has appointed former Snowflake Korea GM KiYoung Choi as its Representative Director for Korea and is opening a Seoul office to strengthen its market presence and support growing demand for Claude.",
-            "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779721200000,
-            "date": "2026-05-26",
-            "title": "Code w/ Claude London 2026: Rethinking how we build",
-            "summary_kr": "앤스로픽은 'Code w/ Claude' 런던 행사에서 AI 에이전트를 통해 개발의 복잡성을 줄이고, 기업 보안 환경 내에서 활용 가능한 'Claude Managed Agents'와 MCP 통합 기능을 발표했습니다.",
-            "summary_en": "Anthropic's 'Code w/ Claude' London event highlighted how AI agents simplify development, introducing 'Claude Managed Agents' and MCP integration to enable secure, enterprise-grade AI execution.",
-            "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build"
         }
     ]
 }
