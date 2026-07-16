@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-15 16:29:52",
+    "last_update": "2026-07-16 05:47:04",
     "articles": [
+        {
+            "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies - CNBC",
+            "summary_en": "The U.S. government has granted Anthropic limited permission to deploy its Mythos 5 model to approximately 100 federal agencies and corporate partners. This decision marks a partial breakthrough in the ongoing standoff between Anthropic and the administration, although access to the company's Fable 5 model remains suspended due to national security concerns.",
+            "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+            "timestamp": 1782514752000,
+            "date": "2026-06-26"
+        },
+        {
+            "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them - WIRED",
+            "summary_en": "OpenAI is delaying the public release of its new GPT-5.6 models—Sol, Terra, and Luna—to comply with a Trump administration mandate requiring government pre-approval of initial users. While OpenAI views this as a temporary measure to ensure future availability, the lack of an established regulatory framework has created significant uncertainty regarding the government's role in AI product launches.",
+            "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval",
+            "timestamp": 1782493500000,
+            "date": "2026-06-26"
+        },
+        {
+            "title": "Tech industry grapples with Trump’s AI about-faces - Politico",
+            "summary_en": "The technology industry is currently navigating significant uncertainty as it anticipates potential shifts in artificial intelligence policy under a Trump administration.",
+            "link": "https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862",
+            "timestamp": 1782568800000,
+            "date": "2026-06-27"
+        },
         {
             "title": "A24 Defends AI Deal With Google: We'd Rather Have a Seat at the Table - Variety",
             "summary_en": "A24 is defending its new research partnership with Google’s DeepMind, asserting that the collaboration allows the studio to actively influence the development of AI tools rather than remaining on the sidelines.",
@@ -679,27 +700,6 @@
             "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate",
             "timestamp": 1781018110000,
             "date": "2026-06-09"
-        },
-        {
-            "title": "OpenAI Joins Anthropic in Call for International AI Watchdog - Gizmodo",
-            "summary_en": "OpenAI has officially joined Anthropic in advocating for the establishment of an international AI regulatory body. This move reflects a growing industry consensus among leading AI labs on the necessity for global oversight to address the safety and societal risks of advanced artificial intelligence.",
-            "link": "https://gizmodo.com/openai-joins-anthropic-in-call-for-international-ai-watchdog-2000769442",
-            "timestamp": 1781019629000,
-            "date": "2026-06-09"
-        },
-        {
-            "title": "Claude Fable 5 and Claude Mythos 5 - Anthropic",
-            "summary_en": "Anthropic has launched Claude Fable 5, a state-of-the-art model offering superior performance in software engineering and scientific research at half the cost of its predecessor. Alongside it, the company introduced Mythos 5, a version with reduced safeguards available to select cyberdefenders and infrastructure providers via Project Glasswing.",
-            "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-            "timestamp": 1781024922000,
-            "date": "2026-06-09"
-        },
-        {
-            "title": "Confidential submission of draft S-1 to the SEC - OpenAI",
-            "summary_en": "OpenAI has confidentially submitted a draft S-1 registration statement to the SEC, marking an initial step toward a potential public offering. While the company has not finalized its IPO timeline, it stated that filing now provides the flexibility to transition to public markets when deemed strategically advantageous.",
-            "link": "https://openai.com/index/openai-submits-confidential-s-1",
-            "timestamp": 1780953598000,
-            "date": "2026-06-08"
         }
     ]
 }
