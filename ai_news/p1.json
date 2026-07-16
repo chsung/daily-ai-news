@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-16 05:47:04",
+    "last_update": "2026-07-16 16:21:43",
     "articles": [
+        {
+            "title": "Fujitsu to explore physical AI development and implementation across industries with FANUC, Yaskawa Electric, and Kawasaki Heavy Industries integrating NVIDIA technology - Fujitsu Global",
+            "summary_en": "Fujitsu is partnering with robotics leaders FANUC, Yaskawa Electric, and Kawasaki Heavy Industries to develop a sovereign collaborative platform that integrates NVIDIA’s physical AI technologies. This initiative aims to address Japan's labor shortages by enabling robots to autonomously execute tasks across manufacturing, logistics, and healthcare.",
+            "link": "https://global.fujitsu/en-global/pr/news/2026/07/16-01",
+            "timestamp": 1784172813000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "AWS Unveils AI Development Tool 'Kiro' — \"Spec-First Design Cuts Trial-and-Error and Costs\" - finance.biggo.com",
+            "summary_en": "AWS has launched 'Kiro,' an AI development tool that utilizes a 'spec-first' design methodology to automate the entire development lifecycle through 11 specialized AI agents. By prioritizing requirements and design documentation before coding, Kiro reportedly achieves 6 to 10 times higher cost efficiency than standard AI coding tools.",
+            "link": "https://finance.biggo.com/news/329e4fa2-253f-4878-8ed5-cc3644282a1f",
+            "timestamp": 1784192220000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch - TechCrunch",
+            "summary_en": "Thinking Machines has released 'Inkling,' an open-weight mixture-of-experts model designed for enterprises to fine-tune according to their specific needs. The startup positions this model as a departure from one-size-fits-all proprietary systems, arguing that organization-specific AI offers better performance and avoids the data privacy risks associated with closed models.",
+            "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling",
+            "timestamp": 1784138646000,
+            "date": "2026-07-15"
+        },
         {
             "title": "Nvidia partners with Japan robotics firms on AI development - Yahoo Finance",
             "summary_en": "Nvidia is strengthening its foothold in the robotics sector through new partnerships with Japanese industrial giants Fanuc and Yaskawa Electric. CEO Jensen Huang emphasizes that these collaborations aim to make robots smarter and more adaptable by integrating advanced AI technology.",
@@ -679,27 +700,6 @@
             "link": "https://www.channele2e.com/news/aws-builds-new-partner-strategy-around-agentic-ai-outcomes",
             "timestamp": 1782747545000,
             "date": "2026-06-29"
-        },
-        {
-            "title": "AI agents that provide ‘economic value’ are next frontier, says Meta AI research chief - South China Morning Post",
-            "summary_en": "Meta’s new AI research lead, Dawn Song, aims to shift the industry focus toward building AI agents capable of performing economically valuable, real-world tasks. This effort is supported by UC Berkeley’s new ‘Agents’ Last Exam’ benchmark, which evaluates agent performance across over 1,500 complex tasks in 55 different industries.",
-            "link": "https://www.scmp.com/tech/tech-trends/article/3358639/ai-agents-provide-economic-value-are-next-frontier-says-meta-ai-research-chief",
-            "timestamp": 1782702005000,
-            "date": "2026-06-29"
-        },
-        {
-            "title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
-            "summary_en": "The U.S. government has partially lifted its ban on Anthropic's Claude Mythos 5 model, granting access to select cybersecurity firms tasked with protecting critical infrastructure. This decision follows weeks of tension over the administration's strict oversight and concerns regarding potential misuse of frontier AI models by foreign military intelligence.",
-            "link": "https://www.dw.com/en/us-allows-partial-release-of-anthropics-mythos-ai-model/a-77732252",
-            "timestamp": 1782646650000,
-            "date": "2026-06-28"
-        },
-        {
-            "title": "Google DeepMind strikes AI research deal with A24 - IBC.org",
-            "summary_en": "Google DeepMind has entered into a strategic research partnership with independent film studio A24, involving a reported $75 million investment. The collaboration aims to co-develop AI-driven creative workflows and production tools, reflecting a broader industry trend of Hollywood studios integrating generative AI to streamline filmmaking processes.",
-            "link": "https://www.ibc.org/artificial-intelligence/news/google-deepmind-strikes-ai-research-deal-with-a24/22794",
-            "timestamp": 1782637297000,
-            "date": "2026-06-28"
         }
     ]
 }
