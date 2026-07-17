@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-07-16 16:59:51",
+    "last_update": "2026-07-17 16:55:57",
     "articles": [
+        {
+            "company": "Meta",
+            "timestamp": 1782691200000,
+            "date": "2026-06-29",
+            "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+            "summary_kr": "Brain2Qwerty v2는 비침습적 뇌 신호를 실시간 문장으로 해독하는 AI 기술로, 수술 없이도 기존 침습적 방식에 근접한 높은 정확도를 구현하며 뇌 과학 연구를 위한 오픈 소스로 공개되었습니다.",
+            "summary_en": "Brain2Qwerty v2 is an AI-powered, non-invasive system that decodes real-time brain signals into text with accuracy levels approaching surgical methods, now available as open-source to accelerate neuroscience innovation.",
+            "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782666000000,
+            "date": "2026-06-28",
+            "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+            "summary_kr": "HP는 OpenAI와의 'Frontier' 전략적 파트너십을 전사적으로 확대하여 고객 경험 개선, 업무 생산성 향상 및 소프트웨어 개발 가속화를 위한 AI 통합 운영 모델을 구축합니다.",
+            "summary_en": "HP is scaling its 'Frontier' strategic partnership with OpenAI to integrate AI across its enterprise, aiming to enhance customer experiences, boost employee productivity, and accelerate operational transformation.",
+            "link": "https://openai.com/index/hp-frontier-partnership"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782500445000,
+            "date": "2026-06-26",
+            "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+            "summary_kr": "본 기사는 NVIDIA NeMo Agent Toolkit 기반의 멀티 에이전트 시스템인 'AI-Q 2.0'을 Oracle Cloud Infrastructure(OCI) 환경에 배포하는 실용적인 가이드를 제공합니다. 테라폼과 헬름을 활용해 프로덕션 수준의 확장 가능한 AI 에이전트 인프라를 효율적으로 구축하는 방법을 설명합니다.",
+            "summary_en": "This article provides a practical guide for deploying the NVIDIA NeMo Agent Toolkit-based 'AI-Q 2.0' multi-agent system on Oracle Cloud Infrastructure (OCI). It demonstrates how to leverage Terraform and Helm to efficiently provision a production-ready and scalable AI agent infrastructure.",
+            "link": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1782489635000,
@@ -873,33 +900,6 @@
             "summary_kr": "런던증권거래소그룹(LSEG)은 오픈AI와의 협력을 통해 자사의 신뢰도 높은 금융 데이터를 생성형 AI와 결합함으로써, 제품 출시 주기를 대폭 단축하고 전사적 운영 효율성을 혁신했습니다.",
             "summary_en": "LSEG has transformed its operations by integrating OpenAI’s generative AI with its trusted financial data, significantly accelerating product release cycles and enhancing enterprise-wide productivity.",
             "link": "https://openai.com/index/lseg"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781049600000,
-            "date": "2026-06-10",
-            "title": "Bringing real-time market sentiment to Tori, from eToro",
-            "summary_kr": "이토로(eToro)가 자사의 AI 에이전트 '토리'에 xAI의 실시간 모델을 통합하여, 사용자가 X(구 트위터)의 시장 심리를 즉각적으로 분석하고 투자에 활용할 수 있게 했습니다.",
-            "summary_en": "eToro has integrated xAI’s real-time models into its AI agent, Tori, enabling users to analyze live market sentiment from X directly within their investment workflow.",
-            "link": "https://x.ai/news/grok-etoro"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781031600000,
-            "date": "2026-06-09",
-            "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
-            "summary_kr": "NVIDIA DGX Spark의 엔터프라이즈 관리 기능은 표준 IT 도구와 원활하게 통합되는 에이전트리스 프레임워크를 통해 AI 인프라의 도입부터 폐기까지 전 과정에 걸친 효율적인 운영 관리와 보안을 지원합니다.",
-            "summary_en": "NVIDIA DGX Spark’s Enterprise Manageability provides a modular, agentless framework that integrates with standard IT tools to enable end-to-end lifecycle management, secure provisioning, and observability for AI infrastructure at scale.",
-            "link": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781029672000,
-            "date": "2026-06-09",
-            "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT",
-            "summary_kr": "본 기사는 FP8로 양자화된 CLIP 모델을 ONNX로 변환하고 NVIDIA TensorRT 엔진으로 컴파일하여 추론 성능과 효율성을 극대화하는 실무 과정을 설명합니다.",
-            "summary_en": "This article outlines the practical workflow for converting FP8-quantized CLIP checkpoints into NVIDIA TensorRT engines, enabling significant improvements in inference speed and GPU utilization.",
-            "link": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt"
         }
     ]
 }

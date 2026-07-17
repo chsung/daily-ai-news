@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-07-16 16:59:51",
+    "last_update": "2026-07-17 16:55:57",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1784282400000,
+            "date": "2026-07-17",
+            "title": "A scorecard for the AI age",
+            "summary_kr": "AI 투자 가치를 측정하기 위해 단순히 토큰당 비용을 따지기보다, 실제 업무가 완료된 성과를 기준으로 한 '달러당 유용한 지능(Useful Intelligence per Dollar)'을 핵심 지표로 삼아야 합니다.",
+            "summary_en": "To measure the true value of AI investments, businesses should shift from tracking token costs to evaluating 'Useful Intelligence per Dollar' based on successful task completion.",
+            "link": "https://openai.com/index/a-scorecard-for-the-ai-age"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784242749000,
+            "date": "2026-07-16",
+            "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
+            "summary_kr": "캡콤은 RE 엔진에 패스 트레이싱 기술을 도입하여 차세대 실시간 렌더링 수준을 구현했으며, 이를 통해 '바이오하자드 레퀴엠'과 '프라그마타'의 조명 품질과 시각적 몰입감을 획기적으로 개선했습니다.",
+            "summary_en": "Capcom has integrated path tracing into its RE ENGINE to achieve next-generation real-time rendering, significantly enhancing lighting quality and visual immersion for 'Resident Evil Requiem' and 'PRAGMATA'.",
+            "link": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1784160000000,
+            "date": "2026-07-16",
+            "title": "Automations in Grok",
+            "summary_kr": "xAI는 사용자가 정의한 작업을 설정된 시간이나 이메일 수신 시 자동으로 실행하는 'Grok Automations' 기능을 출시했습니다.",
+            "summary_en": "xAI has launched 'Grok Automations,' a feature that allows users to set up tasks that run autonomously based on specific schedules or incoming email triggers.",
+            "link": "https://x.ai/news/grok-automations"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1784217815000,
@@ -873,33 +900,6 @@
             "summary_kr": "OpenAI의 새로운 보고서는 유럽의 고용 구조가 미국보다 자동화 영향에 덜 민감하다는 점을 지적하며, AI 도입에 따른 노동 시장의 변화와 기회를 예측하기 위한 직무 전환 프레임워크를 제시합니다.",
             "summary_en": "OpenAI’s new report introduces an AI Jobs Transition Framework for the EU, highlighting that Europe’s occupational structure is less susceptible to immediate automation than the U.S. and providing a strategic map for navigating AI-driven labor market shifts.",
             "link": "https://openai.com/index/mapping-ai-jobs-transition-eu"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1782691200000,
-            "date": "2026-06-29",
-            "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-            "summary_kr": "Brain2Qwerty v2는 비침습적 뇌 신호를 실시간 문장으로 해독하는 AI 기술로, 수술 없이도 기존 침습적 방식에 근접한 높은 정확도를 구현하며 뇌 과학 연구를 위한 오픈 소스로 공개되었습니다.",
-            "summary_en": "Brain2Qwerty v2 is an AI-powered, non-invasive system that decodes real-time brain signals into text with accuracy levels approaching surgical methods, now available as open-source to accelerate neuroscience innovation.",
-            "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782666000000,
-            "date": "2026-06-28",
-            "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-            "summary_kr": "HP는 OpenAI와의 'Frontier' 전략적 파트너십을 전사적으로 확대하여 고객 경험 개선, 업무 생산성 향상 및 소프트웨어 개발 가속화를 위한 AI 통합 운영 모델을 구축합니다.",
-            "summary_en": "HP is scaling its 'Frontier' strategic partnership with OpenAI to integrate AI across its enterprise, aiming to enhance customer experiences, boost employee productivity, and accelerate operational transformation.",
-            "link": "https://openai.com/index/hp-frontier-partnership"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782500445000,
-            "date": "2026-06-26",
-            "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-            "summary_kr": "본 기사는 NVIDIA NeMo Agent Toolkit 기반의 멀티 에이전트 시스템인 'AI-Q 2.0'을 Oracle Cloud Infrastructure(OCI) 환경에 배포하는 실용적인 가이드를 제공합니다. 테라폼과 헬름을 활용해 프로덕션 수준의 확장 가능한 AI 에이전트 인프라를 효율적으로 구축하는 방법을 설명합니다.",
-            "summary_en": "This article provides a practical guide for deploying the NVIDIA NeMo Agent Toolkit-based 'AI-Q 2.0' multi-agent system on Oracle Cloud Infrastructure (OCI). It demonstrates how to leverage Terraform and Helm to efficiently provision a production-ready and scalable AI agent infrastructure.",
-            "link": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure"
         }
     ]
 }
