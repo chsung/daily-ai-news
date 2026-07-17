@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-17 05:47:22",
+    "last_update": "2026-07-17 16:22:45",
     "articles": [
+        {
+            "title": "Anthropic unveils 'Claude Science' AI platform for scientific research - Yahoo News Canada",
+            "summary_en": "Anthropic has introduced 'Claude Science,' a dedicated platform integrating over 60 scientific databases and specialized visualization tools to streamline complex research and data analysis. The platform aims to accelerate scientific workflows by enabling researchers to manage coding, literature review, and 3D protein rendering within a unified, secure workspace.",
+            "link": "https://ca.news.yahoo.com/anthropic-unveils-claude-science-ai-170242515.html",
+            "timestamp": 1782838962000,
+            "date": "2026-06-30"
+        },
+        {
+            "title": "SandboxAQ to bring scientific AI models to Google Cloud Marketplace - MobiHealthNews",
+            "summary_en": "SandboxAQ is integrating its Large Quantitative Models, including AQCat and AQPotency, into the Google Cloud Marketplace to streamline materials science and drug discovery. By combining these models with Google’s Gemini, researchers can perform complex scientific calculations directly within their existing workflows.",
+            "link": "https://www.mobihealthnews.com/news/sandboxaq-bring-scientific-ai-models-google-cloud-marketplace",
+            "timestamp": 1782761208000,
+            "date": "2026-06-29"
+        },
+        {
+            "title": "Google is launching AI models for science that could cut research time by years - Mezha",
+            "summary_en": "Google is introducing new AI models specifically engineered for scientific research, with the objective of significantly accelerating discovery timelines by years.",
+            "link": "https://mezha.ua/en/news/google-vidkrivaye-dostup-do-shi-yakiy-mozhe-priskoriti-rozrobku-likiv-i-napivprovidnikiv-312755",
+            "timestamp": 1782744360000,
+            "date": "2026-06-29"
+        },
         {
             "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - Egypt Independent",
             "summary_en": "The US government has authorized Anthropic to provide select cybersecurity partners with access to its 'Mythos 5' model after implementing safety safeguards to mitigate national security risks. This decision partially reverses a recent export ban that had restricted the model due to concerns over its potential to rapidly identify and exploit software vulnerabilities.",
@@ -678,27 +699,6 @@
             "summary_en": "Google DeepMind has launched a $10 million global research funding initiative to address the unpredictable and emergent safety risks associated with large-scale, interacting multi-agent AI systems. The program focuses on developing testbeds, infrastructure, and oversight protocols to ensure stability as autonomous agents begin to negotiate and transact across digital networks.",
             "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research",
             "timestamp": 1781176648000,
-            "date": "2026-06-11"
-        },
-        {
-            "title": "IBM, Google Cloud plan to release industry-specific AI agents - No Jitter",
-            "summary_en": "IBM and Google Cloud have partnered to deploy industry-specific AI agents that integrate Google's Gemini models with IBM’s watsonx platform to improve enterprise interoperability and governance. By embedding domain-specific logic into these agents, the companies aim to reduce vendor lock-in and accelerate automation, though success remains dependent on overcoming legacy system limitations and data quality challenges.",
-            "link": "https://www.nojitter.com/data-management/ibm-google-cloud-plan-to-release-industry-specific-ai-agents",
-            "timestamp": 1781196977000,
-            "date": "2026-06-11"
-        },
-        {
-            "title": "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling - Tata Consultancy Services",
-            "summary_en": "Tata Consultancy Services (TCS) and Anthropic have established a Global Premier Partnership designed to help enterprises scale the deployment of generative AI technologies. This collaboration leverages Anthropic's Claude models alongside TCS's industry expertise to facilitate large-scale AI implementation within corporate environments.",
-            "link": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-anthropic-launch-global-premier-partnership-drive-enterprise-ai-scaling",
-            "timestamp": 1781173378000,
-            "date": "2026-06-11"
-        },
-        {
-            "title": "How frontier teams are reinventing AI-native development | Amazon Web Services - Amazon Web Services (AWS)",
-            "summary_en": "Amazon Web Services reports that 'frontier teams' integrating AI as a foundational engineering workflow rather than a simple tool achieved up to 20x increases in developer productivity. By redesigning processes to support autonomous agents, these teams delivered complex projects in months that previously required years of development.",
-            "link": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development",
-            "timestamp": 1781139282000,
             "date": "2026-06-11"
         }
     ]

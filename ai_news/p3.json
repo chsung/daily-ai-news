@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-17 05:47:22",
+    "last_update": "2026-07-17 16:22:45",
     "articles": [
+        {
+            "title": "IBM, Google Cloud plan to release industry-specific AI agents - No Jitter",
+            "summary_en": "IBM and Google Cloud have partnered to deploy industry-specific AI agents that integrate Google's Gemini models with IBM’s watsonx platform to improve enterprise interoperability and governance. By embedding domain-specific logic into these agents, the companies aim to reduce vendor lock-in and accelerate automation, though success remains dependent on overcoming legacy system limitations and data quality challenges.",
+            "link": "https://www.nojitter.com/data-management/ibm-google-cloud-plan-to-release-industry-specific-ai-agents",
+            "timestamp": 1781196977000,
+            "date": "2026-06-11"
+        },
+        {
+            "title": "TCS and Anthropic launch Global Premier Partnership to drive Enterprise AI scaling - Tata Consultancy Services",
+            "summary_en": "Tata Consultancy Services (TCS) and Anthropic have established a Global Premier Partnership designed to help enterprises scale the deployment of generative AI technologies. This collaboration leverages Anthropic's Claude models alongside TCS's industry expertise to facilitate large-scale AI implementation within corporate environments.",
+            "link": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-anthropic-launch-global-premier-partnership-drive-enterprise-ai-scaling",
+            "timestamp": 1781173378000,
+            "date": "2026-06-11"
+        },
+        {
+            "title": "How frontier teams are reinventing AI-native development | Amazon Web Services - Amazon Web Services (AWS)",
+            "summary_en": "Amazon Web Services reports that 'frontier teams' integrating AI as a foundational engineering workflow rather than a simple tool achieved up to 20x increases in developer productivity. By redesigning processes to support autonomous agents, these teams delivered complex projects in months that previously required years of development.",
+            "link": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development",
+            "timestamp": 1781139282000,
+            "date": "2026-06-11"
+        },
         {
             "title": "Amazon partnership establishes Cornell AI security initiative - Cornell Chronicle",
             "summary_en": "Amazon has partnered with Cornell University to launch the AI4AI initiative, which aims to develop security protocols and verification frameworks for agentic AI. This project addresses the critical risk of AI agents generating malicious or vulnerable code, ensuring developers can safely leverage automated software generation.",
@@ -660,24 +681,6 @@
             "summary_en": "Microsoft has open-sourced two security tools, Clarity and RAMPART, developed by its internal AI Red Team to standardize the design and testing of AI agents. These tools enable developers to automate adversarial testing and conduct structured design reviews, reducing security remediation time from weeks to hours.",
             "link": "https://www.helpnetsecurity.com/2026/05/21/microsoft-open-sources-tools-for-designing-and-testing-ai-agents/",
             "timestamp": 1779379858000
-        },
-        {
-            "title": "Howard University Launches Howard AI Network powered by AWS to Accelerate AI Research, Infrastructure, and Workforce Readiness - The Dig at Howard University",
-            "summary_en": "Howard University has established the Howard AI Network in partnership with AWS to serve as a regional hub for AI infrastructure, faculty development, and workforce training. The initiative will offer intensive bootcamps and grant-writing resources to prepare students and educators for an AI-driven economy by 2026.",
-            "link": "https://thedig.howard.edu/all-stories/howard-university-launches-howard-ai-network-powered-aws-accelerate-ai-research-infrastructure-and",
-            "timestamp": 1779385145000
-        },
-        {
-            "title": "Project Glasswing: An initial update - Anthropic",
-            "summary_en": "Anthropic’s 'Project Glasswing' has utilized its Claude Mythos Preview model to identify over 10,000 high-severity software vulnerabilities in partnership with 50 organizations. Early results show significant performance gains in bug detection, with some partners reporting a ten-fold increase in finding critical security flaws.",
-            "link": "https://www.anthropic.com/research/glasswing-initial-update",
-            "timestamp": 1779478536000
-        },
-        {
-            "title": "Europe needs a strategy to close the artificial intelligence compute gap - Bruegel",
-            "summary_en": "The European Union is facing an urgent need for a cohesive strategy to address its widening artificial intelligence compute gap relative to global leaders. Developing domestic infrastructure is considered vital for the region to maintain competitiveness and autonomy in the AI sector.",
-            "link": "https://www.bruegel.org/analysis/europe-needs-strategy-close-artificial-intelligence-compute-gap",
-            "timestamp": 1779205866000
         }
     ]
 }
