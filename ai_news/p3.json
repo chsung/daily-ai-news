@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-16 16:21:43",
+    "last_update": "2026-07-17 05:47:22",
     "articles": [
+        {
+            "title": "Amazon partnership establishes Cornell AI security initiative - Cornell Chronicle",
+            "summary_en": "Amazon has partnered with Cornell University to launch the AI4AI initiative, which aims to develop security protocols and verification frameworks for agentic AI. This project addresses the critical risk of AI agents generating malicious or vulnerable code, ensuring developers can safely leverage automated software generation.",
+            "link": "https://news.cornell.edu/stories/2026/06/amazon-partnership-establishes-cornell-ai-security-initiative",
+            "timestamp": 1781103963000,
+            "date": "2026-06-10"
+        },
+        {
+            "title": "Microsoft Hardware Pushes More AI Development and Execution to the Edge - Cloud Wars",
+            "summary_en": "Microsoft is advancing 'unmetered intelligence' by launching purpose-built hardware like the Surface RTX Spark Dev Box and Project Solara reference designs. These initiatives enable developers to run powerful agentic AI models locally at the edge, reducing cloud dependency and enabling seamless AI workflows across multiple devices.",
+            "link": "https://cloudwars.com/ai/microsoft-hardware-pushes-more-ai-development-and-execution-to-the-edge",
+            "timestamp": 1781018611000,
+            "date": "2026-06-09"
+        },
+        {
+            "title": "SK Telecom and NVIDIA Build AI Infrastructure to Power Korea’s AI Innovation - NVIDIA Newsroom",
+            "summary_en": "SK Telecom plans to build a gigawatt-scale AI Cloud in South Korea by 2027 using NVIDIA’s DSX platform to advance sovereign, agentic, and physical AI infrastructure. This collaboration aims to optimize AI manufacturing efficiency, positioning SK Group as a key player in the Asian AI factory ecosystem.",
+            "link": "https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure",
+            "timestamp": 1780873463000,
+            "date": "2026-06-07"
+        },
         {
             "title": "Nebius launches Physical AI Living Lab for UK and European robotics startups built with NVIDIA technologies - Nebius",
             "summary_en": "Nebius has launched a six-month 'Physical AI Living Lab' to provide European and British robotics startups with direct access to NVIDIA’s simulation tools and high-performance cloud compute. By removing infrastructure barriers, the program enables founders to transition faster from prototype development to real-world deployment using NVIDIA RTX PRO Blackwell GPUs.",
@@ -657,24 +678,6 @@
             "summary_en": "The European Union is facing an urgent need for a cohesive strategy to address its widening artificial intelligence compute gap relative to global leaders. Developing domestic infrastructure is considered vital for the region to maintain competitiveness and autonomy in the AI sector.",
             "link": "https://www.bruegel.org/analysis/europe-needs-strategy-close-artificial-intelligence-compute-gap",
             "timestamp": 1779205866000
-        },
-        {
-            "title": "Google's AI is being manipulated. The search giant is quietly fighting back - BBC",
-            "summary_en": "Google is intensifying efforts to combat 'data poisoning' after investigations revealed that AI chatbots can be easily manipulated to spread misinformation via simple, well-crafted web content. Experts warn that current systems remain vulnerable, necessitating continued policy updates and more robust anti-spam protections.",
-            "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-            "timestamp": 1779366600000
-        },
-        {
-            "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web - Decrypt",
-            "summary_en": "Microsoft’s new open-weight model family, Fara1.5, outperformed OpenAI’s Operator and Google’s Gemini 2.5 on key web-browsing benchmarks, scoring 72% on the Online-Mind2Web test. Developed using OpenAI’s GPT-5.4 as a 'teacher' to generate training data, the model demonstrates high proficiency in autonomous agentic tasks.",
-            "link": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
-            "timestamp": 1779481863000
-        },
-        {
-            "title": "Co-Scientist: A multi-agent AI partner to accelerate research - Google DeepMind",
-            "summary_en": "Google DeepMind has introduced Co-Scientist, a multi-agent AI framework designed to accelerate scientific research and innovation. The project features a broad, multidisciplinary team of researchers and technical contributors aimed at leveraging AI to advance experimental discovery.",
-            "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-            "timestamp": 1779213866000
         }
     ]
 }

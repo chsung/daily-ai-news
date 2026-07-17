@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-16 16:21:43",
+    "last_update": "2026-07-17 05:47:22",
     "articles": [
+        {
+            "title": "Nvidia partners with Japan robotics firms on AI development - Reuters",
+            "summary_en": "Nvidia has entered into a strategic partnership with Japanese robotics firms to accelerate the development and integration of advanced AI technologies into industrial robotics.",
+            "link": "https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16",
+            "timestamp": 1784214448000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI | TechCrunch - TechCrunch",
+            "summary_en": "Microsoft released a record 570 security patches this month, including two zero-day fixes, attributing the high volume to the use of AI tools in identifying long-dormant code vulnerabilities.",
+            "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai",
+            "timestamp": 1784132418000,
+            "date": "2026-07-15"
+        },
+        {
+            "title": "Apple's AI Chip Ambitions Hit a Wall: Reportedly Seeking Semiconductor Startup Acquisitions to Accelerate In-House Server Development - finance.biggo.com",
+            "summary_en": "Facing performance bottlenecks with its M2 Ultra chip and delays in its 'Baltra' server project, Apple is actively seeking semiconductor startup acquisitions to accelerate its in-house AI server chip development.",
+            "link": "https://finance.biggo.com/news/dfa85d1d-b800-4ef7-a37e-7f140ed0ad1c",
+            "timestamp": 1784244360000,
+            "date": "2026-07-16"
+        },
         {
             "title": "Fujitsu to explore physical AI development and implementation across industries with FANUC, Yaskawa Electric, and Kawasaki Heavy Industries integrating NVIDIA technology - Fujitsu Global",
             "summary_en": "Fujitsu is partnering with robotics leaders FANUC, Yaskawa Electric, and Kawasaki Heavy Industries to develop a sovereign collaborative platform that integrates NVIDIA’s physical AI technologies. This initiative aims to address Japan's labor shortages by enabling robots to autonomously execute tasks across manufacturing, logistics, and healthcare.",
@@ -678,27 +699,6 @@
             "summary_en": "Google is introducing new AI models specifically engineered for scientific research, with the objective of significantly accelerating discovery timelines by years.",
             "link": "https://mezha.ua/en/news/google-vidkrivaye-dostup-do-shi-yakiy-mozhe-priskoriti-rozrobku-likiv-i-napivprovidnikiv-312755",
             "timestamp": 1782744360000,
-            "date": "2026-06-29"
-        },
-        {
-            "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - Egypt Independent",
-            "summary_en": "The US government has authorized Anthropic to provide select cybersecurity partners with access to its 'Mythos 5' model after implementing safety safeguards to mitigate national security risks. This decision partially reverses a recent export ban that had restricted the model due to concerns over its potential to rapidly identify and exploit software vulnerabilities.",
-            "link": "https://www.egyptindependent.com/us-government-allows-anthropic-limited-release-of-ai-model-that-sparked-cybersecurity-concerns",
-            "timestamp": 1782649129000,
-            "date": "2026-06-28"
-        },
-        {
-            "title": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians | Governor of California - California State Portal | CA.gov",
-            "summary_en": "California has partnered with Anthropic to provide state agencies, cities, and counties with access to the Claude AI assistant at a 50% discount. The initiative includes free workforce training and technical support to improve government efficiency in areas like document analysis, cyber defense, and customer service.",
-            "link": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians",
-            "timestamp": 1782741697000,
-            "date": "2026-06-29"
-        },
-        {
-            "title": "AWS builds new partner strategy around agentic AI outcomes - ChannelE2E",
-            "summary_en": "AWS has launched a 'Business Value Realization' (BVR) program that ties partner incentives and funding to verified customer outcomes rather than project completion milestones. This strategy reflects a broader market shift where 80% of customers now demand outcome-based commercial models to ensure AI investments deliver measurable business results.",
-            "link": "https://www.channele2e.com/news/aws-builds-new-partner-strategy-around-agentic-ai-outcomes",
-            "timestamp": 1782747545000,
             "date": "2026-06-29"
         }
     ]
