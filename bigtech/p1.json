@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-17 16:55:57",
+    "last_update": "2026-07-18 16:41:13",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1784311279000,
+            "date": "2026-07-17",
+            "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI - Source Asia",
+            "summary_kr": "tiket.com은 마이크로소프트 Azure와 협력하여 AI 어시스턴트 'CRATER'를 도입, 고객 경험을 고도화하고 서비스 처리량을 650% 증대시키며 AI 기반 OTA로 성공적으로 전환했습니다.",
+            "summary_en": "tiket.com has successfully transformed into an AI-powered OTA by leveraging Microsoft Azure to launch 'CRATER,' an intelligent agent that has scaled customer service interactions by 650% while providing a seamless, integrated travel experience.",
+            "link": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1784282400000,
@@ -891,15 +900,6 @@
             "summary_kr": "엔비디아는 기업 환경에서 자율형 AI 에이전트를 안전하게 운영하기 위해 실행 환경을 중앙 관리형 워크스페이스로 분리하고, 네트워크 통제와 실시간 런타임 보안을 적용하는 표준 아키텍처를 제시합니다.",
             "summary_en": "NVIDIA introduces a secure reference design that shifts autonomous agent execution into managed, isolated workspaces, enforcing robust network controls and runtime governance to enable safe, scalable enterprise AI operations.",
             "link": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782716400000,
-            "date": "2026-06-29",
-            "title": "Mapping Europe’s AI Workforce Opportunity",
-            "summary_kr": "OpenAI의 새로운 보고서는 유럽의 고용 구조가 미국보다 자동화 영향에 덜 민감하다는 점을 지적하며, AI 도입에 따른 노동 시장의 변화와 기회를 예측하기 위한 직무 전환 프레임워크를 제시합니다.",
-            "summary_en": "OpenAI’s new report introduces an AI Jobs Transition Framework for the EU, highlighting that Europe’s occupational structure is less susceptible to immediate automation than the U.S. and providing a strategic map for navigating AI-driven labor market shifts.",
-            "link": "https://openai.com/index/mapping-ai-jobs-transition-eu"
         }
     ]
 }

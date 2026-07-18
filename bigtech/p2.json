@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-17 16:55:57",
+    "last_update": "2026-07-18 16:41:13",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1782716400000,
+            "date": "2026-06-29",
+            "title": "Mapping Europe’s AI Workforce Opportunity",
+            "summary_kr": "OpenAI의 새로운 보고서는 유럽의 고용 구조가 미국보다 자동화 영향에 덜 민감하다는 점을 지적하며, AI 도입에 따른 노동 시장의 변화와 기회를 예측하기 위한 직무 전환 프레임워크를 제시합니다.",
+            "summary_en": "OpenAI’s new report introduces an AI Jobs Transition Framework for the EU, highlighting that Europe’s occupational structure is less susceptible to immediate automation than the U.S. and providing a strategic map for navigating AI-driven labor market shifts.",
+            "link": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+        },
         {
             "company": "Meta",
             "timestamp": 1782691200000,
@@ -891,15 +900,6 @@
             "summary_kr": "최근 대학 졸업생들의 AI에 대한 반감은 기술 효율성보다 인간의 주체성과 노동의 가치를 중시하는 차세대 노동력의 의지를 보여줍니다. 기술 업계는 혁신을 추진함에 있어 인간의 선택권과 사회적 합의를 우선시해야 한다는 강력한 경고를 직시해야 합니다.",
             "summary_en": "The recent backlash against AI among college graduates highlights that the next generation prioritizes human agency and the dignity of work over mere technological efficiency. Tech leaders must heed this signal, ensuring that human choice and broad social consensus remain central to the future of AI development.",
             "link": "https://blogs.microsoft.com/on-the-issues/2026/06/10/ai-jobs-and-the-next-generation"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781049600000,
-            "date": "2026-06-10",
-            "title": "From data to decisions: how LSEG is scaling trusted AI",
-            "summary_kr": "런던증권거래소그룹(LSEG)은 오픈AI와의 협력을 통해 자사의 신뢰도 높은 금융 데이터를 생성형 AI와 결합함으로써, 제품 출시 주기를 대폭 단축하고 전사적 운영 효율성을 혁신했습니다.",
-            "summary_en": "LSEG has transformed its operations by integrating OpenAI’s generative AI with its trusted financial data, significantly accelerating product release cycles and enhancing enterprise-wide productivity.",
-            "link": "https://openai.com/index/lseg"
         }
     ]
 }

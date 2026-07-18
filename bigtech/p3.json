@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-17 16:55:57",
+    "last_update": "2026-07-18 16:41:13",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1781049600000,
+            "date": "2026-06-10",
+            "title": "From data to decisions: how LSEG is scaling trusted AI",
+            "summary_kr": "런던증권거래소그룹(LSEG)은 오픈AI와의 협력을 통해 자사의 신뢰도 높은 금융 데이터를 생성형 AI와 결합함으로써, 제품 출시 주기를 대폭 단축하고 전사적 운영 효율성을 혁신했습니다.",
+            "summary_en": "LSEG has transformed its operations by integrating OpenAI’s generative AI with its trusted financial data, significantly accelerating product release cycles and enhancing enterprise-wide productivity.",
+            "link": "https://openai.com/index/lseg"
+        },
         {
             "company": "xAI",
             "timestamp": 1781049600000,
@@ -890,15 +899,6 @@
             "summary_kr": "Thrive Holdings와 OpenAI는 Codex의 자율 개선 루프를 활용하여 세무 전문가의 피드백을 시스템이 자동으로 학습하는 'Tax AI'를 개발, 세금 신고 업무의 효율성과 정확성을 크게 향상했습니다.",
             "summary_en": "Thrive Holdings and OpenAI have co-developed a self-improving 'Tax AI' agent that leverages Codex and practitioner feedback to autonomously refine its performance, significantly increasing efficiency and accuracy in tax return preparation.",
             "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779840000000,
-            "date": "2026-05-27",
-            "title": "Election information and safeguards in 2026",
-            "summary_kr": "OpenAI는 2026년 글로벌 선거를 대비하여 신뢰할 수 있는 투표 정보 제공, 사이버 보안 강화, AI 생성 콘텐츠에 대한 투명성 확보를 골자로 하는 선거 보호 전략을 발표했습니다.",
-            "summary_en": "OpenAI has unveiled its 2026 election protection strategy, focusing on providing reliable voting information, strengthening cyber infrastructure, and enhancing transparency for AI-generated content.",
-            "link": "https://openai.com/index/election-safeguards-2026"
         }
     ]
 }
