@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-17 16:22:45",
+    "last_update": "2026-07-18 05:33:02",
     "articles": [
+        {
+            "title": "Intel and Google Cloud Announce Collaboration to Accelerate Intel’s AI-Enabled Enterprise Transformation - Intel Newsroom",
+            "summary_en": "Intel is deepening its partnership with Google Cloud to integrate Gemini Enterprise AI and agentic workflows across its engineering and corporate operations. This collaboration leverages Google's infrastructure and C4/N4 cloud instances to automate semiconductor design cycles and scale high-performance computing simulations.",
+            "link": "https://newsroom.intel.com/artificial-intelligence/intel-google-cloud-announce-collaboration-to-accelerate-intel-ai-enabled-enterprise-transformation",
+            "timestamp": 1784217670000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "MHI Advances AI Infrastructure Commercialization with U.S. Deployment of 10MW-Class Chiller and MCP Development-- Supporting AI Infrastructure Through Modular Cooling and NVIDIA Ecosystem Collaboration -- | Mitsubishi Heavy Industries - Mitsubishi Heavy Industries, Ltd.",
+            "summary_en": "Mitsubishi Heavy Industries (MHI) has shipped a 10MW-class centrifugal chiller to the U.S. as part of its strategy to support high-density AI factory cooling requirements. The company is developing a Modular Chiller Plant (MCP) aligned with NVIDIA DSX architectures to improve power and water usage efficiency in industrial-scale data centers.",
+            "link": "https://www.mhi.com/news/260716.html",
+            "timestamp": 1784188800000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals - Reuters",
+            "summary_en": "Chinese AI startup Moonshot AI has reportedly unveiled the world's largest open-source AI model, marking a significant advancement as the company aims to narrow the competitive gap with leading U.S. AI firms.",
+            "link": "https://www.reuters.com/world/china/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17",
+            "timestamp": 1784253960000,
+            "date": "2026-07-17"
+        },
         {
             "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
             "summary_en": "Moonshot AI has launched Kimi K3, a 2.8-trillion parameter model that significantly closes the performance gap with U.S. leaders by excelling in coding and general agent benchmarks. Despite China's compute constraints, this flagship model's release has intensified domestic competition and sparked concerns among Western lawmakers regarding the global adoption of Chinese AI technologies.",
@@ -678,27 +699,6 @@
             "summary_en": "Nissan and Applied Intuition demonstrated an AI-native development environment that consolidates the software lifecycle into a single, unified workflow. By replacing fragmented manual processes with this integrated toolchain, automakers can reduce vehicle development timelines by up to 50%.",
             "link": "https://www.appliedintuition.com/blog/nissan-applied-intuition-aws-summit-japan",
             "timestamp": 1782825585000,
-            "date": "2026-06-30"
-        },
-        {
-            "title": "CIQ Turns NVIDIA DGX Spark Into A Ready-To-Run AI Development And Inference Environment At Any Scale - marketscreener.com",
-            "summary_en": "CIQ has integrated NVIDIA DGX Spark into its infrastructure to provide a ready-to-run AI development and inference environment capable of scaling across various enterprise workloads.",
-            "link": "https://www.marketscreener.com/news/ciq-turns-nvidia-dgx-spark-into-a-ready-to-run-ai-development-and-inference-environment-at-any-scale-ce7f5fdddd8df526",
-            "timestamp": 1782844200000,
-            "date": "2026-06-30"
-        },
-        {
-            "title": "Microsoft MCP server gives AI assistants access to MSBuild logs - InfoWorld",
-            "summary_en": "Microsoft launched the Binlog Model Context Protocol (MCP) server, allowing AI assistants like GitHub Copilot to analyze MSBuild log files through natural language queries. This tool enables developers to instantly diagnose build failures, trace properties, and identify performance bottlenecks without manual log review.",
-            "link": "https://www.infoworld.com/article/4191163/microsoft-mcp-server-gives-ai-assistants-access-to-msbuild-logs.html",
-            "timestamp": 1782832177000,
-            "date": "2026-06-30"
-        },
-        {
-            "title": "AWS invests $1 billion in forward deployed AI engineers - About Amazon",
-            "summary_en": "AWS has launched a $1 billion Forward Deployed Engineering organization that embeds expert AI engineers directly into client teams to build agentic, production-ready systems. The initiative focuses on compressing deployment timelines from months to days while ensuring long-term customer self-sufficiency through proprietary knowledge graphs and AI-driven development.",
-            "link": "https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers",
-            "timestamp": 1782831764000,
             "date": "2026-06-30"
         }
     ]
