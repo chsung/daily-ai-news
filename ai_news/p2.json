@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-07-19 06:01:48",
+    "last_update": "2026-07-19 16:03:03",
     "articles": [
+        {
+            "title": "Microsoft launches AI engineering company - InfoWorld",
+            "summary_en": "Microsoft’s new Frontier Company aims to facilitate 'frontier transformation' by embedding specialized engineering teams within client organizations. The initiative focuses on building continuous improvement loops for AI systems while protecting a company’s unique proprietary data and workflows.",
+            "link": "https://www.infoworld.com/article/4192524/microsoft-launches-ai-engineering-company.html",
+            "timestamp": 1783041902000,
+            "date": "2026-07-03"
+        },
         {
             "title": "After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica",
             "summary_en": "The US government has lifted export restrictions on Anthropic’s Claude Fable 5 and Mythos 5 models after the company implemented enhanced safety measures and red-teaming protocols. Anthropic will now provide broader access to these models through the Glasswing program while remaining under federal oversight.",
@@ -693,13 +700,6 @@
             "link": "https://www.cnbc.com/2026/06/12/chatgpt-a-billion-monthly-app-users-despite-souring-public-ai-sentiment.html",
             "timestamp": 1781244336000,
             "date": "2026-06-12"
-        },
-        {
-            "title": "Coinbase’s new tool can help agents trade and pay for premium research | TechCrunch - TechCrunch",
-            "summary_en": "Coinbase has launched an AI agent tool that allows users to automate crypto trades and pay for premium research data using the open x402 payment protocol. By integrating exchange access with native payment capabilities, the platform aims to empower agents to transact independently within a growing 'agentic economy' while providing users with sandbox-controlled security options.",
-            "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading",
-            "timestamp": 1781197200000,
-            "date": "2026-06-11"
         }
     ]
 }

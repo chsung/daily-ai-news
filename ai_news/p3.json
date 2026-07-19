@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-07-19 06:01:48",
+    "last_update": "2026-07-19 16:03:03",
     "articles": [
+        {
+            "title": "Coinbase’s new tool can help agents trade and pay for premium research | TechCrunch - TechCrunch",
+            "summary_en": "Coinbase has launched an AI agent tool that allows users to automate crypto trades and pay for premium research data using the open x402 payment protocol. By integrating exchange access with native payment capabilities, the platform aims to empower agents to transact independently within a growing 'agentic economy' while providing users with sandbox-controlled security options.",
+            "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading",
+            "timestamp": 1781197200000,
+            "date": "2026-06-11"
+        },
         {
             "title": "OpenAI buys Ona to help rein in AI agents - InfoWorld",
             "summary_en": "OpenAI has acquired cloud development environment provider Ona for an estimated $450-500 million to provide secure, persistent sandboxes for enterprise AI agents. This strategic move aims to address organizational security concerns and counter competition from Anthropic’s managed agent offerings.",
@@ -685,12 +692,6 @@
             "summary_en": "Anthropic plans to release its Mythos-class AI, which has already identified over 23,000 software vulnerabilities, to the public once sufficient safeguards are established. The model currently operates under Project Glasswing, where its high-volume bug reporting has pressured security maintainers to request slower disclosure rates.",
             "link": "https://www.ghacks.net/2026/05/26/anthropic-plans-public-release-of-mythos-class-ai-bug-finder-once-safeguards-are-ready/",
             "timestamp": 1779779661000
-        },
-        {
-            "title": "Google Unveils ERA AI To Accelerate Expert-level Scientific Research - Dataconomy",
-            "summary_en": "Google has introduced Empirical Research Assistance (ERA), an AI tool powered by Gemini that utilizes tree-search methods to automate coding and testing for scientific research. Published in the journal Nature, the tool is now available via a trusted tester program to assist in complex fields like genomics and neuroscience.",
-            "link": "https://dataconomy.com/2026/05/26/google-era-ai-expert-level-scientific-research/",
-            "timestamp": 1779768040000
         }
     ]
 }

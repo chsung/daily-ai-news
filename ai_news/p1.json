@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-07-19 06:01:48",
+    "last_update": "2026-07-19 16:03:03",
     "articles": [
+        {
+            "title": "You can now design your next BMW using ChatGPT AI - Motoring Research",
+            "summary_en": "BMW has integrated a custom ChatGPT plugin that allows users to identify and specify their ideal vehicle through natural language text or voice prompts. The AI streamlines the selection process by scanning BMW's model range and dealership inventory, eventually syncing the results with the brand's traditional online configurator.",
+            "link": "https://www.motoringresearch.com/car-news/bmw-chatgpt-ai-configurator",
+            "timestamp": 1784450113000,
+            "date": "2026-07-19"
+        },
         {
             "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT - Broadband Breakfast",
             "summary_en": "Beijing-based Moonshot AI has launched its Kimi K3 model, which analysts report is rivaling top U.S. AI systems in coding capability despite ongoing accusations of illicit model distillation. The release highlights China's aggressive push for domestic AI self-sufficiency through local hardware like Huawei's Atlas 950 SuperPoD.",
@@ -693,13 +700,6 @@
             "link": "https://www.mediapost.com/publications/article/416262/microsoft-furthers-trend-invests-25b-in-ai-cons.html",
             "timestamp": 1783021018000,
             "date": "2026-07-02"
-        },
-        {
-            "title": "Microsoft launches AI engineering company - InfoWorld",
-            "summary_en": "Microsoft’s new Frontier Company aims to facilitate 'frontier transformation' by embedding specialized engineering teams within client organizations. The initiative focuses on building continuous improvement loops for AI systems while protecting a company’s unique proprietary data and workflows.",
-            "link": "https://www.infoworld.com/article/4192524/microsoft-launches-ai-engineering-company.html",
-            "timestamp": 1783041902000,
-            "date": "2026-07-03"
         }
     ]
 }
