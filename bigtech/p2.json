@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-07-18 16:41:13",
+    "last_update": "2026-07-20 17:15:46",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1782777600000,
+            "date": "2026-06-30",
+            "title": "Core dump epidemiology: fixing an 18-year-old bug",
+            "summary_kr": "OpenAI는 대규모 데이터 인프라에서 발생한 원인 불명의 C++ 충돌 문제를 해결하기 위해, 방대한 코어 덤프 데이터를 역학 조사 방식으로 분석하여 하드웨어 결함과 18년 묵은 오픈소스 라이브러리의 버그를 찾아냈습니다.",
+            "summary_en": "OpenAI resolved inexplicable C++ infrastructure crashes by applying epidemiological analysis to large-scale core dump data, ultimately identifying a silent hardware failure and an 18-year-old race condition in the GNU libunwind library.",
+            "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782777600000,
+            "date": "2026-06-30",
+            "title": "Inside Genebench-Pro",
+            "summary_kr": "Genebench-Pro는 임상 데이터, 유전체 정보 및 복합적인 생물학적 변수를 종합적으로 분석하여 AI의 전문적인 추론 및 의사결정 능력을 평가하는 정밀 의료 특화 벤치마크입니다.",
+            "summary_en": "Genebench-Pro is a specialized benchmark for precision medicine that evaluates an AI's professional reasoning and decision-making capabilities by requiring the integration of clinical data, genomic information, and complex biological variables.",
+            "link": "https://openai.com/index/genebench-pro/case-studies"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782757602000,
+            "date": "2026-06-29",
+            "title": "Small and medium businesses aren't waiting for an AI invitation—they're already leading | The Microsoft Cloud Blog",
+            "summary_kr": "전 세계 경제의 중추인 중소기업(SMB)들이 AI를 단순 생산성 도구를 넘어 업무 프로세스 전반에 내재화하며 혁신적인 운영 모델을 구축하고 경쟁 우위를 선점하고 있습니다.",
+            "summary_en": "Small and medium businesses are driving a structural shift by embedding AI into their core workflows, transforming it from a productivity tool into a catalyst for innovation and sustainable competitive advantage.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782757230000,
+            "date": "2026-06-29",
+            "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum | The Microsoft Cloud Blog",
+            "summary_kr": "AI 에이전트의 발전은 단순한 속도 경쟁을 넘어 인간의 신뢰를 확보하는 것이 핵심이며, 2026 에이전트 신뢰 지수는 실무 전문가들이 반복적이고 소모적인 업무를 자동화하는 과정에서 에이전트의 실질적인 가치를 어떻게 검증하고 있는지 보여줍니다.",
+            "summary_en": "The future of AI agents hinges on establishing trust to enable effective delegation, as evidenced by the 2026 Agent Confidence Index which highlights how technical leaders are successfully offloading repetitive, high-toil tasks to intelligent systems.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782748213000,
+            "date": "2026-06-29",
+            "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+            "summary_kr": "엔비디아는 기업 환경에서 자율형 AI 에이전트를 안전하게 운영하기 위해 실행 환경을 중앙 관리형 워크스페이스로 분리하고, 네트워크 통제와 실시간 런타임 보안을 적용하는 표준 아키텍처를 제시합니다.",
+            "summary_en": "NVIDIA introduces a secure reference design that shifts autonomous agent execution into managed, isolated workspaces, enforcing robust network controls and runtime governance to enable safe, scalable enterprise AI operations.",
+            "link": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1782716400000,
@@ -855,51 +900,6 @@
             "summary_kr": "AI 산업 전문가 앨리 K. 밀러는 조직이 혁신을 이루기 위해서는 정형화된 틀을 벗어난 사고를 장려하고, 완벽함보다는 빠른 반복을 통해 에이전트 워크플로우와 같은 파격적인 아이디어를 실질적인 비즈니스 성과로 연결해야 한다고 강조합니다.",
             "summary_en": "AI expert Allie K. Miller argues that organizations can drive innovation by empowering unconventional thinkers and prioritizing rapid iteration over perfection to turn edge ideas into tangible business impact.",
             "link": "https://www.microsoft.com/en-us/worklab/podcast/allie-k-miller-find-your-weirdos-and-let-them-lead"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781117595000,
-            "date": "2026-06-10",
-            "title": "Reconstructing AI activity in investigations  | Microsoft Security Blog",
-            "summary_kr": "마이크로소프트는 기업 내 AI 활동을 체계적으로 추적하고 조사할 수 있는 'AI 조사 플레이북'을 공개하여, 분산된 원격 측정 데이터를 통합해 보안 사고를 효과적으로 분석할 수 있게 했습니다.",
-            "summary_en": "Microsoft has released an AI investigation playbook that provides a structured methodology to reconstruct AI activities, enabling security teams to transform scattered telemetry into coherent incident analysis.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781092800000,
-            "date": "2026-06-10",
-            "title": "PRC-linked influence operations are targeting AI debates in the US",
-            "summary_kr": "오픈AI는 중국과 연계된 세력이 자사의 모델을 악용하여 미국 내 AI 인프라 및 기술 정책에 대한 여론 조작을 시도한 정황을 포착하고 해당 계정들을 차단했습니다.",
-            "summary_en": "OpenAI has identified and banned China-linked influence operations that attempted to manipulate US debates on AI infrastructure and technology policy using its models.",
-            "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781108190000,
-            "date": "2026-06-10",
-            "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
-            "summary_kr": "구글 딥마인드의 DiffusionGemma는 NVIDIA GPU 환경에서 토큰을 병렬 생성하여 기존 대비 획기적인 처리량과 저지연 성능을 제공함으로써 실시간 AI 서비스의 효율성을 극대화합니다.",
-            "summary_en": "Google DeepMind's DiffusionGemma leverages parallel token generation on NVIDIA platforms to deliver high-throughput, low-latency performance, significantly optimizing real-time AI applications.",
-            "link": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781103600000,
-            "date": "2026-06-10",
-            "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories",
-            "summary_kr": "AI 공장의 전력 수요가 급증함에 따라, 배터리 에너지 저장 시스템(BESS)은 단순한 예비 전원을 넘어 전력 품질을 제어하고 계통 연결을 최적화하는 핵심적인 생산 인프라로 자리 잡고 있습니다.",
-            "summary_en": "As AI factories scale, Battery Energy Storage Systems (BESS) are evolving from simple backups into essential infrastructure that ensures power stability, optimizes grid interconnection, and manages high-density, rapidly fluctuating compute loads.",
-            "link": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781100476000,
-            "date": "2026-06-10",
-            "title": "AI, jobs, and the next generation",
-            "summary_kr": "최근 대학 졸업생들의 AI에 대한 반감은 기술 효율성보다 인간의 주체성과 노동의 가치를 중시하는 차세대 노동력의 의지를 보여줍니다. 기술 업계는 혁신을 추진함에 있어 인간의 선택권과 사회적 합의를 우선시해야 한다는 강력한 경고를 직시해야 합니다.",
-            "summary_en": "The recent backlash against AI among college graduates highlights that the next generation prioritizes human agency and the dignity of work over mere technological efficiency. Tech leaders must heed this signal, ensuring that human choice and broad social consensus remain central to the future of AI development.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/06/10/ai-jobs-and-the-next-generation"
         }
     ]
 }

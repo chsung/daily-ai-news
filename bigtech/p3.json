@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-07-18 16:41:13",
+    "last_update": "2026-07-20 17:15:46",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1781117595000,
+            "date": "2026-06-10",
+            "title": "Reconstructing AI activity in investigations  | Microsoft Security Blog",
+            "summary_kr": "마이크로소프트는 기업 내 AI 활동을 체계적으로 추적하고 조사할 수 있는 'AI 조사 플레이북'을 공개하여, 분산된 원격 측정 데이터를 통합해 보안 사고를 효과적으로 분석할 수 있게 했습니다.",
+            "summary_en": "Microsoft has released an AI investigation playbook that provides a structured methodology to reconstruct AI activities, enabling security teams to transform scattered telemetry into coherent incident analysis.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781092800000,
+            "date": "2026-06-10",
+            "title": "PRC-linked influence operations are targeting AI debates in the US",
+            "summary_kr": "오픈AI는 중국과 연계된 세력이 자사의 모델을 악용하여 미국 내 AI 인프라 및 기술 정책에 대한 여론 조작을 시도한 정황을 포착하고 해당 계정들을 차단했습니다.",
+            "summary_en": "OpenAI has identified and banned China-linked influence operations that attempted to manipulate US debates on AI infrastructure and technology policy using its models.",
+            "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781108190000,
+            "date": "2026-06-10",
+            "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+            "summary_kr": "구글 딥마인드의 DiffusionGemma는 NVIDIA GPU 환경에서 토큰을 병렬 생성하여 기존 대비 획기적인 처리량과 저지연 성능을 제공함으로써 실시간 AI 서비스의 효율성을 극대화합니다.",
+            "summary_en": "Google DeepMind's DiffusionGemma leverages parallel token generation on NVIDIA platforms to deliver high-throughput, low-latency performance, significantly optimizing real-time AI applications.",
+            "link": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781103600000,
+            "date": "2026-06-10",
+            "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories",
+            "summary_kr": "AI 공장의 전력 수요가 급증함에 따라, 배터리 에너지 저장 시스템(BESS)은 단순한 예비 전원을 넘어 전력 품질을 제어하고 계통 연결을 최적화하는 핵심적인 생산 인프라로 자리 잡고 있습니다.",
+            "summary_en": "As AI factories scale, Battery Energy Storage Systems (BESS) are evolving from simple backups into essential infrastructure that ensures power stability, optimizes grid interconnection, and manages high-density, rapidly fluctuating compute loads.",
+            "link": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781100476000,
+            "date": "2026-06-10",
+            "title": "AI, jobs, and the next generation",
+            "summary_kr": "최근 대학 졸업생들의 AI에 대한 반감은 기술 효율성보다 인간의 주체성과 노동의 가치를 중시하는 차세대 노동력의 의지를 보여줍니다. 기술 업계는 혁신을 추진함에 있어 인간의 선택권과 사회적 합의를 우선시해야 한다는 강력한 경고를 직시해야 합니다.",
+            "summary_en": "The recent backlash against AI among college graduates highlights that the next generation prioritizes human agency and the dignity of work over mere technological efficiency. Tech leaders must heed this signal, ensuring that human choice and broad social consensus remain central to the future of AI development.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/06/10/ai-jobs-and-the-next-generation"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1781049600000,
@@ -854,51 +899,6 @@
             "summary_kr": "엔비디아는 다국어 AI NPC 구현을 위한 ACE 업데이트와 DLSS 4.5 플러그인, 언리얼 엔진용 NvRTX 5.7.4를 공개하며 개발자들의 몰입형 게임 제작 환경을 대폭 강화했습니다.",
             "summary_en": "NVIDIA has enhanced its developer ecosystem with the new multi-lingual NVIDIA ACE models, the DLSS 4.5 Unreal Engine plugin, and the stable NvRTX 5.7.4 release, advancing AI-driven character interaction and rendering performance.",
             "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779894000000,
-            "date": "2026-05-28",
-            "title": "Introducing Claude Opus 4.8",
-            "summary_kr": "앤스로픽은 벤치마크 성능과 에이전트 작업 능력을 대폭 개선하고, 비용 효율성과 처리 속도를 높인 차세대 모델 'Claude Opus 4.8'을 출시했습니다.",
-            "summary_en": "Anthropic has launched Claude Opus 4.8, featuring significant improvements in benchmark performance and agentic capabilities alongside enhanced cost-efficiency and faster processing speeds.",
-            "link": "https://www.anthropic.com/news/claude-opus-4-8"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779894000000,
-            "date": "2026-05-28",
-            "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-            "summary_kr": "앤스로픽(Anthropic)이 시리즈 H 투자를 통해 650억 달러를 조달하며 기업가치 9,650억 달러를 기록했습니다. 이번 대규모 자금은 클로드(Claude)의 연구 개발 가속화와 인프라 확장을 통해 AI 산업 리더십을 공고히 하는 데 사용될 예정입니다.",
-            "summary_en": "Anthropic has raised $65 billion in Series H funding, achieving a post-money valuation of $965 billion. The capital will accelerate R&D for Claude and expand computational infrastructure to meet surging global enterprise demand.",
-            "link": "https://www.anthropic.com/news/series-h"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1779894000000,
-            "date": "2026-05-28",
-            "title": "Introducing dynamic workflows in Claude Code",
-            "summary_kr": "Anthropic의 'Claude Code'에 도입된 다이내믹 워크플로우는 복잡한 대규모 엔지니어링 작업을 수백 개의 병렬 에이전트가 협력해 엔드투엔드로 자동 수행함으로써 개발 효율을 획기적으로 높여줍니다.",
-            "summary_en": "Anthropic's new 'dynamic workflows' in Claude Code enable the execution of complex, large-scale engineering tasks end-to-end by orchestrating hundreds of parallel subagents, drastically accelerating development cycles.",
-            "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779879600000,
-            "date": "2026-05-27",
-            "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-            "summary_kr": "시스코는 OpenAI의 Codex를 엔터프라이즈 개발 워크플로우에 깊숙이 통합하여 복잡한 소프트웨어 엔지니어링의 효율성을 극대화하고 개발 주기를 획기적으로 단축했습니다.",
-            "summary_en": "Cisco has integrated OpenAI’s Codex into its core enterprise workflows, significantly accelerating software development cycles and maximizing engineering productivity at scale.",
-            "link": "https://openai.com/index/cisco"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1779865200000,
-            "date": "2026-05-27",
-            "title": "Building self-improving tax agents with Codex",
-            "summary_kr": "Thrive Holdings와 OpenAI는 Codex의 자율 개선 루프를 활용하여 세무 전문가의 피드백을 시스템이 자동으로 학습하는 'Tax AI'를 개발, 세금 신고 업무의 효율성과 정확성을 크게 향상했습니다.",
-            "summary_en": "Thrive Holdings and OpenAI have co-developed a self-improving 'Tax AI' agent that leverages Codex and practitioner feedback to autonomously refine its performance, significantly increasing efficiency and accuracy in tax return preparation.",
-            "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
         }
     ]
 }

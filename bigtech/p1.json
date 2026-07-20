@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-07-18 16:41:13",
+    "last_update": "2026-07-20 17:15:46",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784562388000,
+            "date": "2026-07-20",
+            "title": "NVIDIA NVLink: The Scale-Up Network for AI Factories",
+            "summary_kr": "엔비디아 NVLink는 복잡한 AI 모델 처리를 위해 GPU 간 초고속·저지연 통신을 지원하는 필수적인 스케일업 네트워킹 기술로, 현대 AI 팩토리의 성능과 효율성을 결정짓는 핵심 아키텍처입니다.",
+            "summary_en": "NVIDIA NVLink serves as the essential scale-up networking fabric that enables high-bandwidth, low-latency GPU-to-GPU communication, acting as the critical backbone for modern AI factory performance and efficiency.",
+            "link": "https://developer.nvidia.com/blog/nvidia-nvlink-the-scale-up-network-for-ai-factories"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784559600000,
+            "date": "2026-07-20",
+            "title": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
+            "summary_kr": "엔비디아는 개발자가 기존 3D 애플리케이션 및 워크플로우 내에서 RTX 센서 시뮬레이션 기능을 직접 구현할 수 있도록 지원하는 'ovrtx' 라이브러리를 공개했습니다.",
+            "summary_en": "NVIDIA has released the 'ovrtx' library, enabling developers to integrate RTX sensor simulation capabilities directly into their existing 3D applications and workflows.",
+            "link": "https://developer.nvidia.com/blog/integrate-nvidia-omniverse-rtx-sensor-simulation-into-existing-apps"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784541600000,
+            "date": "2026-07-20",
+            "title": "Safety and alignment in an era of long-horizon models",
+            "summary_kr": "장기 실행 AI 모델은 복잡한 과업 수행이 가능하지만 예기치 못한 위험을 초래할 수 있으므로, 사전 평가와 더불어 배포 후 지속적인 모니터링 및 즉각적 개입 체계가 필수적입니다.",
+            "summary_en": "Long-horizon AI models offer powerful problem-solving capabilities but pose unique risks, necessitating a shift from static pre-deployment testing to a strategy of iterative deployment combined with rigorous, trajectory-level monitoring and safety interventions.",
+            "link": "https://openai.com/index/safety-alignment-long-horizon-models"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1784505600000,
+            "date": "2026-07-20",
+            "title": "Grok for Excel",
+            "summary_kr": "xAI의 Grok이 엑셀 추가 기능으로 출시되어, 자연어 명령만으로 데이터 분석, 수식 작성, 시나리오 시뮬레이션 및 외부 문서 연동을 간편하게 수행할 수 있게 되었습니다.",
+            "summary_en": "xAI has launched a Grok add-in for Excel, enabling users to perform data analysis, generate formulas, run scenarios, and integrate external documents using simple natural language commands.",
+            "link": "https://x.ai/news/introducing-excel-addin"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1784160000000,
+            "date": "2026-07-16",
+            "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+            "summary_kr": "앤스로픽은 희귀 유전 질환 연구를 가속화하기 위해 최대 5만 달러의 클로드 크레딧을 지원하는 'AI for Science' 연구 보조금 프로그램을 시작합니다.",
+            "summary_en": "Anthropic has launched an 'AI for Science' research grant program offering up to $50,000 in Claude credits to accelerate the study and treatment of rare genetic diseases.",
+            "link": "https://www.anthropic.com/news/rare-disease-research-grants"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1784311279000,
@@ -855,51 +900,6 @@
             "summary_kr": "GeneBench-Pro는 AI 모델이 계산 생물학 분야에서 데이터의 모호성을 해결하고 복잡한 분석 과정을 거쳐 올바른 판단을 내리는 능력을 측정하기 위한 고난도 벤치마크입니다. 합성 데이터를 기반으로 설계되어 단순한 사실 암기가 아닌 실제 연구 수준의 분석적 사고와 의사결정 역량을 정밀하게 평가합니다.",
             "summary_en": "GeneBench-Pro is a research-level benchmark designed to evaluate an AI's ability to navigate ambiguity and make consequential judgments in computational biology. By utilizing synthetic datasets with known causal structures, it rigorously assesses high-level analytical reasoning and iterative decision-making rather than simple fact retrieval.",
             "link": "https://openai.com/index/introducing-genebench-pro"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782777600000,
-            "date": "2026-06-30",
-            "title": "Core dump epidemiology: fixing an 18-year-old bug",
-            "summary_kr": "OpenAI는 대규모 데이터 인프라에서 발생한 원인 불명의 C++ 충돌 문제를 해결하기 위해, 방대한 코어 덤프 데이터를 역학 조사 방식으로 분석하여 하드웨어 결함과 18년 묵은 오픈소스 라이브러리의 버그를 찾아냈습니다.",
-            "summary_en": "OpenAI resolved inexplicable C++ infrastructure crashes by applying epidemiological analysis to large-scale core dump data, ultimately identifying a silent hardware failure and an 18-year-old race condition in the GNU libunwind library.",
-            "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782777600000,
-            "date": "2026-06-30",
-            "title": "Inside Genebench-Pro",
-            "summary_kr": "Genebench-Pro는 임상 데이터, 유전체 정보 및 복합적인 생물학적 변수를 종합적으로 분석하여 AI의 전문적인 추론 및 의사결정 능력을 평가하는 정밀 의료 특화 벤치마크입니다.",
-            "summary_en": "Genebench-Pro is a specialized benchmark for precision medicine that evaluates an AI's professional reasoning and decision-making capabilities by requiring the integration of clinical data, genomic information, and complex biological variables.",
-            "link": "https://openai.com/index/genebench-pro/case-studies"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782757602000,
-            "date": "2026-06-29",
-            "title": "Small and medium businesses aren't waiting for an AI invitation—they're already leading | The Microsoft Cloud Blog",
-            "summary_kr": "전 세계 경제의 중추인 중소기업(SMB)들이 AI를 단순 생산성 도구를 넘어 업무 프로세스 전반에 내재화하며 혁신적인 운영 모델을 구축하고 경쟁 우위를 선점하고 있습니다.",
-            "summary_en": "Small and medium businesses are driving a structural shift by embedding AI into their core workflows, transforming it from a productivity tool into a catalyst for innovation and sustainable competitive advantage.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782757230000,
-            "date": "2026-06-29",
-            "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum | The Microsoft Cloud Blog",
-            "summary_kr": "AI 에이전트의 발전은 단순한 속도 경쟁을 넘어 인간의 신뢰를 확보하는 것이 핵심이며, 2026 에이전트 신뢰 지수는 실무 전문가들이 반복적이고 소모적인 업무를 자동화하는 과정에서 에이전트의 실질적인 가치를 어떻게 검증하고 있는지 보여줍니다.",
-            "summary_en": "The future of AI agents hinges on establishing trust to enable effective delegation, as evidenced by the 2026 Agent Confidence Index which highlights how technical leaders are successfully offloading repetitive, high-toil tasks to intelligent systems.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782748213000,
-            "date": "2026-06-29",
-            "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
-            "summary_kr": "엔비디아는 기업 환경에서 자율형 AI 에이전트를 안전하게 운영하기 위해 실행 환경을 중앙 관리형 워크스페이스로 분리하고, 네트워크 통제와 실시간 런타임 보안을 적용하는 표준 아키텍처를 제시합니다.",
-            "summary_en": "NVIDIA introduces a secure reference design that shifts autonomous agent execution into managed, isolated workspaces, enforcing robust network controls and runtime governance to enable safe, scalable enterprise AI operations.",
-            "link": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories"
         }
     ]
 }
