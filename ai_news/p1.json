@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-20 06:22:50",
+    "last_update": "2026-07-20 16:28:41",
     "articles": [
+        {
+            "title": "Bristol Myers buys Nvidia's latest AI computing system for drug research - Reuters",
+            "summary_en": "Bristol Myers Squibb has acquired Nvidia's advanced AI computing systems to accelerate its drug discovery and pharmaceutical research capabilities.",
+            "link": "https://www.reuters.com/legal/litigation/bristol-myers-buys-nvidias-latest-ai-computing-system-drug-research-2026-07-20",
+            "timestamp": 1784558298000,
+            "date": "2026-07-20"
+        },
+        {
+            "title": "Xpeng loses AI infrastructure chief to OpenAI's robotics push, report says - CnEVPost",
+            "summary_en": "Lu Siyuan, Xpeng's AI infrastructure chief, is departing to join OpenAI's embodied AI robotics division, prompting Xpeng to restructure its 200-person AI team. This transition marks a significant personnel shift as Xpeng prepares for the large-scale production of its humanoid robots by late 2026.",
+            "link": "https://cnevpost.com/2026/07/20/xpeng-loses-ai-infra-chief-to-openai",
+            "timestamp": 1784557883000,
+            "date": "2026-07-20"
+        },
+        {
+            "title": "Nvidia brings graphics research breakthroughs to simulation and physical AI - GamesBeat",
+            "summary_en": "Nvidia unveiled 21 research papers at Siggraph focusing on real-time simulation and physical AI, including 'MotionBricks,' a foundation model that generates lifelike motion for both virtual characters and physical humanoid robots. These breakthroughs utilize generative controllers and physics-based solvers to bridge the gap between virtual world creation and real-world machine training.",
+            "link": "https://gamesbeat.com/nvidia-brings-graphics-research-breakthroughs-to-simulation-and-physical-ai",
+            "timestamp": 1784559632000,
+            "date": "2026-07-20"
+        },
         {
             "title": "Americans are freaking out over China's open-source AI strategy - Business Insider",
             "summary_en": "The emergence of high-performing Chinese models like Moonshot AI’s Kimi K3 has ignited a debate over the US AI industry’s strategy of keeping models closed. Critics warn that leading US labs are leveraging regulatory influence to suppress open-source competition, which they claim is essential for future innovation.",
@@ -679,27 +700,6 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
             "timestamp": 1783087012000,
             "date": "2026-07-03"
-        },
-        {
-            "title": "Anthropic is discussing a new custom chip with Samsung | TechCrunch - TechCrunch",
-            "summary_en": "Anthropic is in discussions with Samsung to explore the development of custom AI chips, seeking to reduce its reliance on Nvidia’s hardware. This move follows similar industry trends, such as OpenAI's recent partnership with Broadcom to build its own 'Jalapeño' inference processor.",
-            "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung",
-            "timestamp": 1783017069000,
-            "date": "2026-07-02"
-        },
-        {
-            "title": "Anthropic Discusses AI Chips With Samsung Electronics - 조선일보",
-            "summary_en": "Anthropic is in discussions with Samsung Electronics to potentially utilize its 2-nanometer foundry process for custom AI chip development. This initiative aims to reduce reliance on NVIDIA GPUs by leveraging internal expertise and strategic partnerships with major memory providers.",
-            "link": "https://www.chosun.com/english/industry-en/2026/07/03/K7GWIZR2RRBIXFH7WWHMIDOCY4",
-            "timestamp": 1783093465000,
-            "date": "2026-07-03"
-        },
-        {
-            "title": "Nvidia's Bold New Bet on AI Neoclouds: Brilliant Platform Strategy or Latest Sign of an AI Bubble? - 24/7 Wall St.",
-            "summary_en": "Nvidia is launching an AI Compute Partnership program that shifts from traditional hardware sales to a revenue-sharing model with neocloud providers like SharonAI and Firmus. By financing infrastructure and earning income based on AI compute consumption, Nvidia aims to bypass capital bottlenecks and secure a recurring revenue stream amidst growing competition from custom hyperscaler chips.",
-            "link": "https://247wallst.com/investing/2026/07/02/nvidias-bold-new-bet-on-ai-neoclouds-brilliant-platform-strategy-or-latest-sign-of-an-ai-bubble",
-            "timestamp": 1783004177000,
-            "date": "2026-07-02"
         }
     ]
 }
