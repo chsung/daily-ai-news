@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-21 05:56:44",
+    "last_update": "2026-07-21 16:27:18",
     "articles": [
+        {
+            "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban - The Verge",
+            "summary_en": "A White House export control directive blocking Anthropic’s Fable and Mythos models was reportedly triggered by Amazon's security research, which claimed the models could be exploited for cyberattacks. Anthropic has disputed the findings, arguing that the models were not compromised by a true 'jailbreak' and that similar vulnerabilities exist in other industry models.",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+            "timestamp": 1781386766000,
+            "date": "2026-06-13"
+        },
+        {
+            "title": "IMDA and Microsoft sign AI safety MOU - Let's Data Science",
+            "summary_en": "Singapore's IMDA and Microsoft have signed an MOU to collaborate on AI safety, focusing on research into agentic AI and multilingual safety standards. The partnership will produce shared evaluation benchmarks and a joint white paper on policy frameworks for trusted access to frontier AI models.",
+            "link": "https://letsdatascience.com/news/imda-and-microsoft-sign-ai-safety-mou-50801559",
+            "timestamp": 1781460158000,
+            "date": "2026-06-14"
+        },
+        {
+            "title": "Why the US government shut down Anthropic’s latest Claude AI model - The Conversation",
+            "summary_en": "Anthropic suspended its latest Claude models after the US government issued an export control directive, citing concerns that safety guardrails could be bypassed to facilitate cyberattacks. The directive follows a period of escalating friction between the administration and Anthropic regarding national security, autonomous weaponry, and AI regulation.",
+            "link": "https://theconversation.com/why-the-us-government-shut-down-anthropics-latest-claude-ai-model-285223",
+            "timestamp": 1781496514000,
+            "date": "2026-06-15"
+        },
         {
             "title": "Google DeepMind and partners put $10M behind multi-agent AI safety research - EdTech Innovation Hub",
             "summary_en": "A coalition including Google DeepMind and Schmidt Sciences has launched a $10 million funding initiative to research the safety risks inherent in multi-agent AI systems. The program targets the unpredictable behaviors that emerge when autonomous agents from different organizations interact within shared digital infrastructures.",
@@ -677,27 +698,6 @@
             "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - NVIDIA Newsroom",
             "summary_en": "NVIDIA has unveiled its Rubin platform, an AI supercomputer architecture comprising six new chips, including the Vera CPU and Rubin GPU, designed to lower inference costs by 10x compared to Blackwell. The platform aims to accelerate the adoption of large-scale agentic AI and mixture-of-experts models with support from major cloud providers and research labs.",
             "link": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
-            "timestamp": 1767600000000,
-            "date": "2026-01-05"
-        },
-        {
-            "title": "NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development - NVIDIA Newsroom",
-            "summary_en": "NVIDIA has introduced the Alpamayo family, an open-source ecosystem featuring reasoning-based vision-language-action (VLA) models and high-fidelity simulation tools for autonomous vehicle development. The platform allows developers to train vehicles on rare 'long-tail' edge cases, enabling safer, more reliable decision-making in complex driving scenarios.",
-            "link": "https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development",
-            "timestamp": 1767600000000,
-            "date": "2026-01-05"
-        },
-        {
-            "title": "Intuit and Anthropic Partner to Bring Trusted Financial Intelligence and Custom AI Agents to Consumers and Businesses - Intuit",
-            "summary_en": "Intuit and Anthropic are partnering to integrate Claude into the Intuit platform, allowing mid-market businesses to build custom AI agents that utilize proprietary financial data for compliant workflows. Additionally, Intuit’s financial tools will be embedded directly into Claude to provide personalized accounting and tax expertise to users.",
-            "link": "https://investors.intuit.com/news-events/press-releases/detail/1305/intuit-and-anthropic-partner-to-bring-trusted-financial-intelligence-and-custom-ai-agents-to-consumers-and-businesses",
-            "timestamp": 1771920000000,
-            "date": "2026-02-24"
-        },
-        {
-            "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots - NVIDIA Newsroom",
-            "summary_en": "NVIDIA has launched new open-source models including Cosmos and GR00T to simplify the training of generalist-specialist robots and physical AI. These tools, paired with the Isaac Lab-Arena framework, enable global partners like Boston Dynamics and LG to accelerate the development of autonomous machines that can reason and navigate the physical world.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
             "timestamp": 1767600000000,
             "date": "2026-01-05"
         }
