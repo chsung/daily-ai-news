@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-07-20 17:15:46",
+    "last_update": "2026-07-21 17:04:57",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1784646000000,
+            "date": "2026-07-21",
+            "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+            "summary_kr": "구글은 효율성과 성능을 극대화한 Gemini 3.6 Flash, 3.5 Flash-Lite, 그리고 사이버 보안 특화 모델을 출시하여 AI 에이전트 개발을 가속화합니다. 특히 3.6 Flash는 토큰 효율성과 비용 절감 측면에서 이전 세대 대비 획기적인 개선을 이루었습니다.",
+            "summary_en": "Google has launched the Gemini 3.6 Flash, 3.5 Flash-Lite, and a cyber-specialized model to accelerate AI agent development by optimizing efficiency and performance. Gemini 3.6 Flash, in particular, delivers significant improvements in token efficiency and cost-effectiveness compared to its predecessors.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784646000000,
+            "date": "2026-07-21",
+            "title": "Inside NVIDIA Rubin GPU Architecture: Powering the Era of Agentic AI",
+            "summary_kr": "엔비디아의 차세대 루빈(Rubin) GPU는 에이전트형 AI의 복잡한 추론 작업을 처리하기 위해 블랙웰 대비 에너지 효율을 10배 높이고, HBM4 메모리와 고대역폭 인터커넥트를 결합하여 대규모 데이터 처리 성능을 극대화했습니다.",
+            "summary_en": "NVIDIA's next-generation Rubin GPU architecture is designed to power agentic AI by delivering 10x higher energy efficiency than Blackwell, integrating HBM4 memory, and enhancing high-bandwidth interconnects to optimize complex, multi-step reasoning workloads.",
+            "link": "https://developer.nvidia.com/blog/inside-nvidia-rubin-gpu-architecture-powering-the-era-of-agentic-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784646000000,
+            "date": "2026-07-21",
+            "title": "NVIDIA Vera CPU: Olympus Cores Built for Maximum Single-Thread Performance in Agentic AI",
+            "summary_kr": "엔비디아의 베라(Vera) CPU와 올림푸스(Olympus) 코어는 에이전트 AI 워크로드의 특성인 복잡한 제어 흐름과 높은 지연 시간에 대응하여, 단일 스레드 성능과 데이터 처리 효율을 극대화하도록 설계되었습니다.",
+            "summary_en": "NVIDIA's Vera CPU and Olympus core are designed to maximize single-thread performance and data throughput to address the complex, latency-sensitive, and branch-heavy demands of agentic AI workloads.",
+            "link": "https://developer.nvidia.com/blog/inside-nvidia-vera-cpu-olympus-cores-built-for-maximum-single-threaded-performance-in-agentic-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784646000000,
+            "date": "2026-07-21",
+            "title": "Setting a World Record for MoE Pre-Training on NVIDIA GB300 NVL72",
+            "summary_kr": "NVIDIA GB300 NVL72는 최첨단 소프트웨어 및 네트워킹 기술을 통합한 고도화된 하드웨어 설계를 통해 MoE 모델 학습의 핵심인 통신 병목 현상을 해결하며 세계적인 훈련 성능 기록을 달성했습니다.",
+            "summary_en": "NVIDIA GB300 NVL72 achieves world-record MoE pre-training performance by integrating advanced hardware, software, and networking to overcome critical communication bottlenecks inherent in large-scale AI training.",
+            "link": "https://developer.nvidia.com/blog/setting-a-world-record-for-moe-pre-training-on-nvidia-gb300-nvl72"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1784592000000,
+            "date": "2026-07-21",
+            "title": "How Meta’s AI Models are Powering the First Wave of Genesis Mission Projects",
+            "summary_kr": "미국 에너지부의 제네시스 미션은 메타의 SAM 3와 DINOv3 모델을 활용해 방대한 과학 데이터를 실시간으로 분석하고 고도화된 이미지 세그멘테이션을 자동화하여 연구 효율성을 획기적으로 높이고 있습니다.",
+            "summary_en": "The DOE's Genesis Mission is leveraging Meta's SAM 3 and DINOv3 models to automate complex image segmentation, transforming the processing of massive scientific data from a bottleneck into a real-time discovery engine.",
+            "link": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1784592000000,
+            "date": "2026-07-21",
+            "title": "Grok for Outlook",
+            "summary_kr": "xAI는 마이크로소프트 아웃룩용 Grok 추가 기능을 출시하여 이메일 요약, 답장 작성, 받은 편지함 정리 및 실시간 정보 검색 기능을 제공합니다.",
+            "summary_en": "xAI has launched a Grok add-in for Microsoft Outlook that enables email summarization, automated reply drafting, inbox management, and real-time information retrieval.",
+            "link": "https://x.ai/news/introducing-outlook-addin"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1784571647000,
+            "date": "2026-07-20",
+            "title": "Microsoft expands Azure AI and HPC infrastructure with AMD - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트가 AMD의 최신 6세대 EPYC 프로세서와 헬리오스 AI 플랫폼을 도입하여, AI 데이터 처리, 칩 설계, 추론 워크로드를 위한 차세대 Azure 인프라를 대폭 확장합니다.",
+            "summary_en": "Microsoft is expanding its Azure infrastructure by integrating AMD's latest 6th Gen EPYC processors and Helios AI platform to optimize performance for AI data systems, chip design, and inference workloads.",
+            "link": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1784562388000,
@@ -837,69 +900,6 @@
             "summary_kr": "NVIDIA GQE는 HBM, NVLink-C2C 등 최신 하드웨어 가속 기술을 활용하여 GPU 쿼리 엔진의 메모리 및 I/O 병목 현상을 해소하고 데이터 처리 성능을 극대화합니다.",
             "summary_en": "NVIDIA GQE leverages advanced hardware technologies like HBM and NVLink-C2C to eliminate memory and I/O bottlenecks, significantly boosting query engine performance.",
             "link": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782840708000,
-            "date": "2026-06-30",
-            "title": "Securing AI agents: When AI tools move from reading to acting | Microsoft Security Blog",
-            "summary_kr": "기업용 AI 에이전트가 단순 정보 분석에서 실행 단계로 진화함에 따라, 모델 컨텍스트 프로토콜(MCP) 도구의 메타데이터를 악용한 새로운 공급망 공격 패턴이 등장하고 있어 철저한 보안 통제가 필수적입니다.",
-            "summary_en": "As enterprise AI agents evolve from passive analysis to active execution, the emergence of supply chain attacks targeting poisoned Model Context Protocol (MCP) metadata necessitates robust security detection and containment measures.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782838202000,
-            "date": "2026-06-30",
-            "title": "SkillOpt turns AI agent skills into trainable assets",
-            "summary_kr": "SkillOpt는 AI 에이전트의 기술(Skill)을 모델 가중치 수정 없이 학습 가능한 매개변수로 전환하여, 검증 가능한 방식으로 성능을 안정적으로 최적화하는 새로운 프레임워크입니다.",
-            "summary_en": "SkillOpt is a novel framework that optimizes AI agent performance by treating skills as trainable parameters, enabling reliable and auditable improvements without modifying model weights.",
-            "link": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1782835200000,
-            "date": "2026-06-30",
-            "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-            "summary_kr": "구글이 고속·저비용 이미지 생성을 지원하는 'Nano Banana 2 Lite'와 고성능 비디오 편집 및 생성 모델인 'Gemini Omni Flash'를 개발자 플랫폼에 출시했습니다.",
-            "summary_en": "Google has launched 'Nano Banana 2 Lite' for high-speed, cost-efficient image generation and 'Gemini Omni Flash' for advanced video creation and editing across its developer platforms.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782835200000,
-            "date": "2026-06-30",
-            "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
-            "summary_kr": "NVIDIA Omniverse NuRec은 자율주행 및 로봇 공학을 위한 고충실도 3D 환경 재구성 파이프라인으로, NVIDIA Nsight 툴킷을 활용해 병목 현상을 식별하고 최적화함으로써 성능을 극대화합니다.",
-            "summary_en": "NVIDIA Omniverse NuRec is a high-fidelity 3D reconstruction pipeline for autonomous systems that leverages NVIDIA Nsight Developer Tools to identify bottlenecks and optimize performance for faster, more efficient simulations.",
-            "link": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782810000000,
-            "date": "2026-06-30",
-            "title": "How ChatGPT adoption has expanded",
-            "summary_kr": "ChatGPT는 전 세계적으로 사용자 기반이 다변화되고 사용 빈도와 활용 범위가 심화되면서, 업무와 일상의 핵심 도구로 빠르게 자리 잡고 있습니다.",
-            "summary_en": "ChatGPT is rapidly becoming an essential tool for work and daily life as its global user base diversifies and usage deepens in frequency and functional scope.",
-            "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1782777600000,
-            "date": "2026-06-30",
-            "title": "Claude Science, an AI workbench for scientists",
-            "summary_kr": "Claude Science는 파편화된 과학 연구 도구들을 통합하여 데이터 분석부터 논문 작성까지 전 과정을 지원하고, 검증 가능한 연구 결과를 생성하는 AI 연구 워크벤치입니다.",
-            "summary_en": "Claude Science is an AI workbench that integrates fragmented research tools into a unified environment, enabling scientists to conduct, validate, and scale their work from data analysis to publication-ready manuscripts.",
-            "link": "https://www.anthropic.com/news/claude-science-ai-workbench"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782777600000,
-            "date": "2026-06-30",
-            "title": "Introducing GeneBench-Pro",
-            "summary_kr": "GeneBench-Pro는 AI 모델이 계산 생물학 분야에서 데이터의 모호성을 해결하고 복잡한 분석 과정을 거쳐 올바른 판단을 내리는 능력을 측정하기 위한 고난도 벤치마크입니다. 합성 데이터를 기반으로 설계되어 단순한 사실 암기가 아닌 실제 연구 수준의 분석적 사고와 의사결정 역량을 정밀하게 평가합니다.",
-            "summary_en": "GeneBench-Pro is a research-level benchmark designed to evaluate an AI's ability to navigate ambiguity and make consequential judgments in computational biology. By utilizing synthetic datasets with known causal structures, it rigorously assesses high-level analytical reasoning and iterative decision-making rather than simple fact retrieval.",
-            "link": "https://openai.com/index/introducing-genebench-pro"
         }
     ]
 }
