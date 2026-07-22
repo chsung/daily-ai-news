@@ -1,6 +1,105 @@
 {
-    "last_update": "2026-07-21 17:04:57",
+    "last_update": "2026-07-22 17:05:18",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1783296000000,
+            "date": "2026-07-06",
+            "title": "A global workspace in language models",
+            "summary_kr": "앤스로픽은 언어 모델 Claude 내부에서 인간의 의식적 사고와 유사하게 고차원적 추론과 정보 공유를 담당하는 신경 패턴인 'J-스페이스(J-space)'가 자발적으로 형성되었음을 발견했습니다.",
+            "summary_en": "Anthropic has discovered the 'J-space' within Claude, a set of spontaneously emerged neural patterns that function similarly to a human 'global workspace,' enabling the model to perform higher-order reasoning and flexible information processing.",
+            "link": "https://www.anthropic.com/research/global-workspace"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783027542000,
+            "date": "2026-07-02",
+            "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
+            "summary_kr": "NVIDIA의 컨피덴셜 컴퓨팅(CC)은 하드웨어 기반의 강력한 보안을 제공하면서도 최적화 기술을 통해 비보안 모드 대비 98% 수준의 고성능 추론을 구현합니다.",
+            "summary_en": "NVIDIA Confidential Computing provides robust, hardware-rooted AI security while maintaining up to 98% of standard inference performance through advanced optimization techniques.",
+            "link": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1782950400000,
+            "date": "2026-07-02",
+            "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+            "summary_kr": "앤스로픽은 모델 'Fable 5'의 사이버 보안 안전 분류기 작동 원리를 공개하고, AI 탈옥 위험을 평가할 표준 프레임워크를 제안하며 생태계 전반의 논의를 촉구했습니다.",
+            "summary_en": "Anthropic has released details on the cybersecurity safety classifiers for its Fable 5 model and proposed a standardized framework to assess AI jailbreak severity, aiming to foster broader industry-wide cooperation.",
+            "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782998986000,
+            "date": "2026-07-02",
+            "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 기업의 AI 도입을 가속화하고 성과를 극대화하기 위해 25억 달러를 투자하여 6,000명의 전문가로 구성된 '마이크로소프트 프론티어 컴퍼니(Microsoft Frontier Company)'를 출범했습니다. 이 조직은 기업 고유의 지식 재산권과 데이터를 보호하면서 AI를 통한 실질적인 비즈니스 혁신과 수익 창출을 지원하는 데 집중합니다.",
+            "summary_en": "Microsoft has launched 'Microsoft Frontier Company,' a $2.5B investment initiative featuring 6,000 experts dedicated to driving measurable business transformation through AI. The organization focuses on scaling enterprise AI solutions while strictly protecting proprietary data and intellectual property to ensure sustainable competitive advantage.",
+            "link": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1782929700000,
+            "date": "2026-07-01",
+            "title": "The latest AI news we announced in June 2026",
+            "summary_kr": "구글은 2026년 6월, 온디바이스 AI 모델인 Gemma 4 12B와 고도화된 Gemini 모델, 그리고 생산성을 극대화한 Android 17 등을 발표하며 AI가 일상의 직관적인 파트너로 기능하는 통합 생태계를 강화했습니다.",
+            "summary_en": "Google's June 2026 updates, including the on-device Gemma 4 12B, advanced Gemini models, and Android 17, focus on creating a unified AI ecosystem that acts as an intuitive partner for personal and enterprise productivity.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782925442000,
+            "date": "2026-07-01",
+            "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
+            "summary_kr": "강화학습(RL)은 검증 가능한 보상 체계를 활용해 기업용 AI 에이전트의 복잡한 추론 및 도구 활용 능력을 최적화하는 핵심 기술로 부상하고 있습니다. 특히 데이터와 보안 통제권이 중요한 환경에서 RL은 명확한 성공 기준을 학습 신호로 변환하여 모델의 성능을 정교하게 개선합니다.",
+            "summary_en": "Reinforcement learning (RL) is emerging as a critical technique for optimizing AI agents by leveraging verifiable rewards to improve complex reasoning and tool execution. For enterprises prioritizing data control, RL enables the transformation of domain-specific success criteria into training signals for superior model performance.",
+            "link": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1782920136000,
+            "date": "2026-07-01",
+            "title": "New AI-powered library lets people meet Theodore Roosevelt in a whole new way",
+            "summary_kr": "7월 4일 개관하는 시어도어 루스벨트 대통령 기념관은 마이크로소프트의 AI 기술을 활용해 방대한 역사 기록을 디지털화하고, 방문객이 루스벨트 대통령의 AI 아바타와 대화할 수 있는 혁신적인 체험형 '살아있는 도서관'을 구현했습니다.",
+            "summary_en": "Opening on July 4, the Theodore Roosevelt Presidential Library utilizes Microsoft's AI to digitize vast historical archives, creating an immersive 'living library' that allows visitors to interact with a lifelike AI avatar of the former president.",
+            "link": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1782864000000,
+            "date": "2026-07-01",
+            "title": "Introducing the Voice Agent Builder",
+            "summary_kr": "Grok Voice 기반의 'Voice Agent Builder'는 코드 없이 2분 만에 복잡한 기업용 음성 에이전트를 구축할 수 있는 노코드 플랫폼으로, 음성-대-음성 최적화를 통해 비용과 지연 시간을 획기적으로 줄였습니다.",
+            "summary_en": "The new 'Voice Agent Builder' on Grok Voice is a no-code platform that enables users to deploy production-ready voice agents in under two minutes, leveraging a speech-to-speech model architecture to minimize latency and operational complexity.",
+            "link": "https://x.ai/news/grok-voice-agent-builder"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1782777600000,
+            "date": "2026-06-30",
+            "title": "Redeploying Claude Fable 5",
+            "summary_kr": "미국 정부의 수출 통제 조치가 해제됨에 따라 Claude Fable 5의 글로벌 서비스가 재개되며, 향후 업계는 AI 모델의 취약점 및 '탈옥' 평가를 위한 표준화된 프레임워크 구축에 협력할 예정입니다.",
+            "summary_en": "Claude Fable 5's global availability has been restored following the lifting of US export controls, as the industry moves to collaborate on a standardized framework for assessing and mitigating AI model 'jailbreaks'.",
+            "link": "https://www.anthropic.com/news/redeploying-fable-5"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1782777600000,
+            "date": "2026-06-30",
+            "title": "Introducing Claude Sonnet 5",
+            "summary_kr": "앤스로픽이 공개한 Claude Sonnet 5는 향상된 자율 에이전트 성능과 도구 사용 능력을 갖추면서도 Opus급 성능을 합리적인 비용으로 제공하는 효율적인 AI 모델입니다.",
+            "summary_en": "Anthropic's newly released Claude Sonnet 5 delivers superior agentic capabilities and tool-use performance, offering near-Opus level intelligence at a significantly more cost-efficient price point.",
+            "link": "https://www.anthropic.com/news/claude-sonnet-5"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1782841003000,
+            "date": "2026-06-30",
+            "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+            "summary_kr": "NVIDIA GQE는 HBM, NVLink-C2C 등 최신 하드웨어 가속 기술을 활용하여 GPU 쿼리 엔진의 메모리 및 I/O 병목 현상을 해소하고 데이터 처리 성능을 극대화합니다.",
+            "summary_en": "NVIDIA GQE leverages advanced hardware technologies like HBM and NVLink-C2C to eliminate memory and I/O bottlenecks, significantly boosting query engine performance.",
+            "link": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1782840708000,
@@ -801,105 +900,6 @@
             "summary_kr": "xAI는 복잡한 다단계 워크플로우를 실시간으로 처리하며 높은 정확도와 저지연성을 갖춘 차세대 음성 모델 'grok-voice-think-fast-1.0'을 API로 출시했습니다.",
             "summary_en": "xAI has launched 'grok-voice-think-fast-1.0', a flagship voice model designed for high-stakes, real-time multi-step workflows that balances low latency with superior reasoning and accuracy.",
             "link": "https://x.ai/news/grok-voice-think-fast-1"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781285601000,
-            "date": "2026-06-12",
-            "title": "5 foundations for reshaping the future of education and AI | Microsoft Education Blog",
-            "summary_kr": "AI 시대의 교육은 단순히 기술 습득을 넘어 인간 고유의 역량과 윤리적 판단력을 함양하여 학생들의 전인적 성장과 미래 노동 시장의 변화에 유연하게 대응하는 데 집중해야 합니다.",
-            "summary_en": "Education in the AI era must transcend technical skill acquisition by prioritizing uniquely human capabilities and ethical judgment, ensuring students achieve both personal flourishing and adaptability in a shifting labor market.",
-            "link": "https://www.microsoft.com/en-us/education/blog/2026/06/5-foundations-for-reshaping-the-future-of-education-and-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781275397000,
-            "date": "2026-06-12",
-            "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
-            "summary_kr": "MiniMax M3는 엔비디아 인프라에 최적화된 428B 파라미터의 멀티모달 모델로, 독자적인 고속 어텐션 기술을 통해 긴 컨텍스트 추론과 에이전트 워크플로우를 효율적으로 구현합니다.",
-            "summary_en": "MiniMax M3 is a 428B-parameter multimodal model optimized for NVIDIA infrastructure that leverages proprietary sparse attention to enable high-performance long-context reasoning and agentic workflows.",
-            "link": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781258400000,
-            "date": "2026-06-12",
-            "title": "New OpenAI Academy courses for the next era of work",
-            "summary_kr": "OpenAI는 조직의 실질적인 AI 활용 능력을 높이기 위해 기초부터 에이전트 워크플로우까지 단계별 교육 과정을 제공하는 'OpenAI Academy' 신규 코스를 출시했습니다.",
-            "summary_en": "OpenAI has launched new 'OpenAI Academy' courses to help organizations build practical AI fluency, ranging from foundational concepts to advanced agent-assisted workflows.",
-            "link": "https://openai.com/index/academy-courses-applying-ai-at-work"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781222400000,
-            "date": "2026-06-12",
-            "title": "Results from first Anthropic Public Record",
-            "summary_kr": "앤스로픽의 첫 번째 설문 조사 결과, 미국인들은 AI의 질병 치료 잠재력을 기대하면서도 일자리 상실을 크게 우려하며 기업의 책임 강화와 정부 규제를 강력히 지지하는 것으로 나타났습니다.",
-            "summary_en": "Anthropic's inaugural public survey reveals that while Americans are optimistic about AI's potential to cure diseases, they are deeply concerned about job displacement and show broad bipartisan support for government regulation and corporate accountability.",
-            "link": "https://www.anthropic.com/news/anthropic-public-record"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781222400000,
-            "date": "2026-06-12",
-            "title": "How Preply combines AI and human tutors to personalize learning",
-            "summary_kr": "어학 학습 플랫폼 Preply는 OpenAI API를 활용한 '레슨 인사이트' 기능을 통해 튜터의 반복 업무는 줄이고, 학습자에게는 개인화된 피드백과 맞춤형 연습 문제를 제공하여 학습 효율을 극대화하고 있습니다.",
-            "summary_en": "Preply enhances language learning by integrating OpenAI’s technology into its 'Lesson Insights' feature, which automates administrative tasks for tutors while delivering personalized feedback and adaptive practice for students.",
-            "link": "https://openai.com/index/preply"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781207557000,
-            "date": "2026-06-11",
-            "title": "One-Click Multi-Tenant Security with NVIDIA Quantum InfiniBand",
-            "summary_kr": "NVIDIA는 UFM(Unified Fabric Manager)의 의도 기반 보안 프로파일을 통해 복잡한 InfiniBand 보안 설정을 클릭 한 번으로 자동화하여, 클라우드 환경의 구축 시간을 단축하고 하드웨어 수준의 멀티테넌트 격리를 강화했습니다.",
-            "summary_en": "NVIDIA has introduced intent-based security profiles in its Unified Fabric Manager to automate complex InfiniBand configurations with a single click, significantly reducing deployment time while ensuring robust, hardware-enforced multi-tenant isolation.",
-            "link": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1780417545000,
-            "date": "2026-06-02",
-            "title": "AI alone won't change your business. The system running it will. - The Official Microsoft Blog",
-            "summary_kr": "기업의 AI 경쟁력은 단순한 모델 도입이 아닌, 개발부터 운영·거버넌스까지 통합 관리하는 시스템적 인프라를 구축하는 데 달려 있습니다.",
-            "summary_en": "Success in enterprise AI depends not on individual models, but on building a comprehensive, governed, and continuously improving system that integrates agents into core business operations.",
-            "link": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1780416773000,
-            "date": "2026-06-02",
-            "title": "Microsoft Build 2026: Be yourself at work - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 개발자가 보안과 거버넌스를 유지하면서도 자신만의 데이터와 모델을 선택해 맞춤형 에이전트를 구축할 수 있는 개방적이고 유연한 개발 플랫폼을 제시했습니다.",
-            "summary_en": "Microsoft has introduced an open and flexible platform that empowers developers to build custom agents using their own data and preferred models while maintaining enterprise-grade security and governance.",
-            "link": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1776384000000,
-            "date": "2026-04-17",
-            "title": "Grok Speech to Text and Text to Speech APIs",
-            "summary_kr": "xAI가 테슬라와 그록 보이스에 활용된 검증된 기술 기반의 고성능 STT 및 TTS API를 출시하며, 경쟁력 있는 가격과 뛰어난 정확도를 바탕으로 개발자 생태계 확장에 나섭니다.",
-            "summary_en": "xAI has launched high-performance, cost-effective STT and TTS APIs built on the technology powering Grok Voice and Tesla, offering industry-leading accuracy and developer-friendly features.",
-            "link": "https://x.ai/news/grok-stt-and-tts-apis"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781136000000,
-            "date": "2026-06-11",
-            "title": "Introducing Claude Corps",
-            "summary_kr": "앤스로픽은 1억 5천만 달러를 투자해 1,000명의 청년 인재가 비영리 단체에서 AI 실무를 수행하며 기술을 전파하는 '클로드 코어(Claude Corps)' 펠로우십 프로그램을 출범합니다.",
-            "summary_en": "Anthropic is launching 'Claude Corps,' a $150 million fellowship program that trains 1,000 young professionals to deploy AI solutions within US nonprofits, bridging the gap between technological advancement and social impact.",
-            "link": "https://www.anthropic.com/news/claude-corps"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781136000000,
-            "date": "2026-06-11",
-            "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-            "summary_kr": "DXC 테크놀로지는 앤스로픽과 협력하여 자사 AI 플랫폼 'OASIS' 및 핵심 IT 서비스에 클로드(Claude)를 도입하고, 규제 산업 고객을 위한 전문 엔지니어링 생태계를 구축합니다.",
-            "summary_en": "DXC Technology is partnering with Anthropic to integrate Claude into its AI-native platform 'OASIS' and core IT services, while deploying a specialized team of certified engineers to drive AI transformation for highly regulated industries.",
-            "link": "https://www.anthropic.com/news/dxc-anthropic-alliance"
         }
     ]
 }
