@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-23 06:06:49",
+    "last_update": "2026-07-23 16:40:34",
     "articles": [
+        {
+            "title": "Microsoft Shifts Its Enterprise AI Strategy from Building Models to Deployment -- Redmond Channel Partner - Redmond Channel Partner",
+            "summary_en": "Microsoft has launched the 'Frontier Company' initiative, allocating approximately 6,000 AI engineers and industry specialists to help enterprise customers transition AI projects from experimentation to production. This strategy shifts the company's focus from model performance to outcome-driven engineering, addressing the operational, governance, and workflow challenges of large-scale AI deployment.",
+            "link": "https://rcpmag.com/articles/2026/07/07/microsoft-shifts-its-enterprise-ai-strategy.aspx",
+            "timestamp": 1783429865000,
+            "date": "2026-07-07"
+        },
+        {
+            "title": "Certara Accelerates Drug Discovery and Development with NVIDIA BioNeMo Agent Toolkit FAQs - Stock Titan",
+            "summary_en": "Certara is partnering with NVIDIA to integrate the BioNeMo Agent Toolkit into its drug discovery platform to create autonomous AI agents for biosimulation. These agents will assist scientists by automating complex tasks such as dosage optimization, clinical trial simulation, and regulatory documentation while maintaining a human-in-the-loop decision-making process.",
+            "link": "https://www.stocktitan.net/news/CERT/certara-accelerates-drug-discovery-and-development-with-nvidia-bio-xvymzo9l011a.html",
+            "timestamp": 1783425600000,
+            "date": "2026-07-07"
+        },
+        {
+            "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research - MarkTechPost",
+            "summary_en": "Synthetic Sciences has introduced OpenScience, an open-source, model-agnostic AI workbench designed to support interdisciplinary research in machine learning, biology, physics, and chemistry. This platform aims to provide researchers with a unified environment for developing and deploying AI-driven scientific workflows.",
+            "link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
+            "timestamp": 1783314432000,
+            "date": "2026-07-06"
+        },
         {
             "title": "DeepSeek Ventures into AI Chip Development, Challenging Nvidia and Huawei | Technology - Devdiscourse",
             "summary_en": "Chinese startup DeepSeek is entering the proprietary AI chip market in an effort to reduce its dependency on Nvidia and Huawei hardware. Despite facing significant hurdles from U.S. export restrictions, the move represents a strategic effort to secure China's technological independence in the AI sector.",
@@ -679,27 +700,6 @@
             "link": "https://indianexpress.com/article/technology/artificial-intelligence/openai-adds-gemini-co-lead-noam-shazeer-to-growing-talent-roster-10745345",
             "timestamp": 1781749686000,
             "date": "2026-06-18"
-        },
-        {
-            "title": "AWS Summit New York 2026: New AI agent innovations - About Amazon",
-            "summary_en": "AWS has unveiled several new AI-native tools, including the 'AWS Continuum' security service and 'AWS Context' knowledge graph, to help organizations accelerate the deployment and autonomy of AI agents. These innovations aim to help businesses move beyond conceptual stages by providing agents with the necessary telemetry and contextual data to perform complex tasks at machine speed.",
-            "link": "https://www.aboutamazon.com/news/aws/aws-summit-nyc-2026-ai-agents",
-            "timestamp": 1781708605000,
-            "date": "2026-06-17"
-        },
-        {
-            "title": "Nvidia research shows robots that train themselves through AI coding agents - the-decoder.com",
-            "summary_en": "Nvidia, Carnegie Mellon, and UC Berkeley researchers developed the ENPIRE project, which uses AI coding agents to autonomously train robots in dexterous manipulation tasks like pin insertion and cable tie cutting. By coordinating a fleet of eight robots via Git, the agents achieved up to 99% success rates while significantly reducing training time compared to human-in-the-loop methods.",
-            "link": "https://the-decoder.com/nvidia-research-shows-robots-that-train-themselves-through-ai-coding-agents",
-            "timestamp": 1781708287000,
-            "date": "2026-06-17"
-        },
-        {
-            "title": "From pixels to planning: Earth AI for nature restoration - Research at Google",
-            "summary_en": "Google Research has released a high-resolution, vectorized dataset that identifies fine-scale ecological features like hedgerows and copses which are typically invisible to standard satellite imagery. This AI-powered tool enables landowners and conservationists to precisely measure and expand biodiversity-rich habitats without displacing essential agricultural land.",
-            "link": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration",
-            "timestamp": 1781631289000,
-            "date": "2026-06-16"
         }
     ]
 }
