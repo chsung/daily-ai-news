@@ -1,6 +1,96 @@
 {
-    "last_update": "2026-07-22 17:05:18",
+    "last_update": "2026-07-23 17:08:56",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783443600000,
+            "date": "2026-07-07",
+            "title": "Maximize Spectral Efficiency with AI-Native RAN and NVIDIA AI Aerial",
+            "summary_kr": "NVIDIA AI Aerial은 GPU 가속과 AI 네이티브 아키텍처를 도입하여 기존 RAN의 연산 한계를 극복하고, Massive MIMO의 잠재력을 극대화하여 무선 통신 주파수 효율성을 획기적으로 개선합니다.",
+            "summary_en": "NVIDIA AI Aerial overcomes existing RAN compute constraints through GPU acceleration and AI-native architecture, maximizing Massive MIMO performance to significantly enhance spectral efficiency in wireless networks.",
+            "link": "https://developer.nvidia.com/blog/maximize-spectral-efficiency-with-ai-native-ran-and-nvidia-ai-aerial"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1783440900000,
+            "date": "2026-07-07",
+            "title": "Three new satellites join the fight against wildfires.",
+            "summary_kr": "구글과 파트너사들이 협력해 개발한 FireSat 위성 3기가 추가 발사되었으며, 이는 고성능 센서와 AI 기술을 통해 초기 단계의 산불을 조기에 탐지하고 예방하는 글로벌 감시망을 확장합니다.",
+            "summary_en": "Three new FireSat satellites, developed through a partnership between Google and industry leaders, have launched to expand a global monitoring network that utilizes advanced sensors and AI for early wildfire detection.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783437010000,
+            "date": "2026-07-07",
+            "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
+            "summary_kr": "NVIDIA Vera CPU는 고성능 단일 코어 처리를 통해 강화학습과 에이전트 워크로드의 CPU 병목 현상을 해결함으로써, 전체 AI 팩토리의 처리량을 극대화하고 모델 학습 속도를 획기적으로 개선합니다.",
+            "summary_en": "NVIDIA Vera CPU maximizes AI factory throughput and accelerates model convergence by optimizing sustained per-core performance to resolve CPU bottlenecks in reinforcement learning and agentic workflows.",
+            "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783382400000,
+            "date": "2026-07-07",
+            "title": "Claude Code Category | Claude",
+            "summary_kr": "앤스로픽은 개발자가 클로드 코드를 워크플로우에 효과적으로 통합하고 최적화할 수 있도록 다양한 실전 사례와 가이드를 제공합니다.",
+            "summary_en": "Anthropic provides comprehensive guides and real-world use cases to help developers effectively integrate and optimize Claude Code within their engineering workflows.",
+            "link": "https://claude.com/blog-category/claude-code"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783382400000,
+            "date": "2026-07-07",
+            "title": "Enterprise AI Category | Claude",
+            "summary_kr": "앤스로픽은 보안, 규정 준수 및 실무 적용 사례를 바탕으로 기업이 클로드(Claude)를 활용해 AI를 안전하고 효율적으로 확장할 수 있는 포괄적인 엔터프라이즈 도입 전략을 제시합니다.",
+            "summary_en": "Anthropic provides comprehensive enterprise strategies and real-world use cases to help organizations securely adopt, scale, and integrate Claude into their operations with a focus on security and compliance.",
+            "link": "https://claude.com/blog-category/enterprise-ai"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783382400000,
+            "date": "2026-07-07",
+            "title": "Product announcements Category | Claude",
+            "summary_kr": "앤스로픽은 클로드의 기업용 제어 기능 강화, 멀티 에이전트 오케스트레이션, 개발자 도구 및 플랫폼 연동성을 대폭 확장하며 엔터프라이즈 AI 생태계 내 영향력을 공고히 하고 있습니다.",
+            "summary_en": "Anthropic is solidifying its position in the enterprise AI ecosystem by significantly expanding Claude's administrative controls, multi-agent orchestration, and seamless integration with major developer platforms and cloud providers.",
+            "link": "https://claude.com/blog-category/announcements"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783374263000,
+            "date": "2026-07-06",
+            "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
+            "summary_kr": "본 기사는 대규모 LLM 학습 중 발생하는 하드웨어 불안정성에 대응하여, 비균일 텐서 병렬화(NTP)를 통해 데이터 재분할을 최적화하고 가동 중단을 최소화함으로써 전체 학습 효율(Goodput)을 극대화하는 방안을 제시합니다.",
+            "summary_en": "This article presents Nonuniform Tensor Parallelism (NTP) as a solution to enhance training Goodput by dynamically adjusting tensor parallelism and optimizing data resharding to mitigate the impact of hardware fluctuations in large-scale LLM training.",
+            "link": "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783296000000,
+            "date": "2026-07-06",
+            "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
+            "summary_kr": "캐나다 앨버타주 정부가 클로드(Claude)를 활용해 4억 6,600만 줄의 방대한 코드를 단 20시간 만에 분석 및 보안 취약점을 해결하며 시스템 현대화를 획기적으로 가속화했습니다.",
+            "summary_en": "The Government of Alberta significantly accelerated system modernization by leveraging Claude to scan 466 million lines of code and remediate security vulnerabilities in just 20 hours.",
+            "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1783296000000,
+            "date": "2026-07-06",
+            "title": "21 New Flagship Grok Voices",
+            "summary_kr": "xAI는 21개의 다국어 지원 음성을 새롭게 출시하고 기존 음성의 자연스러움을 개선하여, Grok Voice API 및 에이전트 빌더의 활용도를 대폭 확장했습니다.",
+            "summary_en": "xAI has launched 21 new multilingual flagship voices with improved naturalness for existing ones, significantly expanding the capabilities of its Grok Voice APIs and Agent Builder.",
+            "link": "https://x.ai/news/new-flagship-voices"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1781049600000,
+            "date": "2026-06-10",
+            "title": "Agents Category | Claude",
+            "summary_kr": "앤스로픽은 클로드(Claude)를 활용하여 기업 환경에서 자율 AI 에이전트를 구축, 확장 및 관리하기 위한 포괄적인 프레임워크와 기술 가이드를 제공합니다.",
+            "summary_en": "Anthropic provides a comprehensive framework and technical guide for building, scaling, and managing autonomous AI agents within enterprise environments using Claude.",
+            "link": "https://claude.com/blog-category/agents"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1783296000000,
@@ -810,96 +900,6 @@
             "summary_kr": "xAI의 Grok이 마이크로소프트 파워포인트 애드인으로 출시되어, 실시간 웹 검색과 데이터 연결을 통해 프레젠테이션 제작 및 편집 과정을 자동화합니다.",
             "summary_en": "xAI has launched Grok as a Microsoft PowerPoint add-in, enabling users to automate slide creation and refinement through real-time web research and integrated data connectivity.",
             "link": "https://x.ai/news/introducing-powerpoint-addin"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781546851000,
-            "date": "2026-06-15",
-            "title": "Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes",
-            "summary_kr": "엔비디아 BioNeMo 레시피는 LoRA 기술을 통합하여 방대한 생물학적 파운데이션 모델을 단일 워크스테이션 GPU에서도 효율적으로 미세 조정할 수 있는 최적화된 경로를 제공합니다.",
-            "summary_en": "NVIDIA BioNeMo Recipes leverage LoRA to enable efficient fine-tuning of massive biological foundation models on a single workstation GPU, significantly reducing computational and storage overhead.",
-            "link": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781541941000,
-            "date": "2026-06-15",
-            "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
-            "summary_kr": "CuTe DSL 기반의 고급 융합 커널을 도입하여 MoE 모델의 메모리 및 동기화 병목 현상을 해결함으로써, 훈련 처리량을 최대 2배 향상하고 전체 성능을 크게 개선했습니다.",
-            "summary_en": "The introduction of advanced fused kernels based on CuTe DSL resolves memory and synchronization bottlenecks in MoE models, delivering up to 2x kernel-level speedups and significant end-to-end performance gains.",
-            "link": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781524800000,
-            "date": "2026-06-15",
-            "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
-            "summary_kr": "로봇 학습 분야에서 기존 VLA(비전-언어-행동) 모델의 한계를 극복하기 위해, 사전 학습된 비디오 모델을 활용하는 '월드-액션 모델(WAM)'이 새로운 핵심 패러다임으로 부상하고 있습니다.",
-            "summary_en": "World-Action Models (WAMs), which leverage pretrained video backbones, are emerging as a major paradigm shift in robot foundation models to overcome the grounding limitations of traditional VLM-based VLAs.",
-            "link": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781481600000,
-            "date": "2026-06-15",
-            "title": "Agent Dashboard in Grok Build",
-            "summary_kr": "Grok Build의 새로운 에이전트 대시보드는 여러 코딩 세션을 한 화면에서 동시에 관리하고, 실시간으로 병렬 작업을 수행하며 필요한 경우에만 개입할 수 있도록 최적화된 워크플로우를 제공합니다.",
-            "summary_en": "The new Agent Dashboard in Grok Build enables users to manage multiple coding sessions simultaneously from a single screen, streamlining parallel task execution and intervention through a centralized, status-driven interface.",
-            "link": "https://x.ai/news/agent-dashboard"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781481600000,
-            "date": "2026-06-15",
-            "title": "Use Grok in Warp",
-            "summary_kr": "개발자를 위한 터미널 환경인 'Warp'에 X 프리미엄 구독자용 Grok 모델이 통합되어 터미널 내에서 직접 AI 기능을 활용할 수 있게 되었습니다.",
-            "summary_en": "The agentic terminal environment Warp has integrated X Premium's Grok models, enabling developers to leverage advanced AI capabilities directly within their workflow.",
-            "link": "https://x.ai/news/grok-warp"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781456400000,
-            "date": "2026-06-14",
-            "title": "Introducing the OpenAI Partner Network",
-            "summary_kr": "OpenAI는 기업의 AI 도입과 실행을 가속화하기 위해 1억 5천만 달러를 투자하여 글로벌 파트너 네트워크를 구축하고, 전문 컨설턴트 30만 명 양성을 목표로 생태계를 확장합니다.",
-            "summary_en": "OpenAI is launching a $150 million partner network to accelerate enterprise AI adoption by leveraging global partners to deliver tailored solutions and scaling its ecosystem to train 300,000 certified consultants by 2026.",
-            "link": "https://openai.com/index/introducing-openai-partner-network"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781298760000,
-            "date": "2026-06-12",
-            "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
-            "summary_kr": "엔비디아는 업계 최초의 에이전트 AI 벤치마크인 'AA-AgentPerf'를 통해 에이전트형 코딩 작업에서 이전 세대 대비 최대 20배 향상된 성능을 입증했습니다.",
-            "summary_en": "NVIDIA has achieved up to 20x better performance in agentic coding tasks compared to previous generations, as validated by the new industry-standard 'AA-AgentPerf' benchmark.",
-            "link": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781222400000,
-            "date": "2026-06-12",
-            "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-            "summary_kr": "미국 정부가 보안 우려를 이유로 앤스로픽의 Fable 5와 Mythos 5 모델에 대한 외국인의 접근 차단을 명령함에 따라 앤스로픽은 해당 모델 서비스를 중단했습니다. 앤스로픽은 해당 모델의 보안 체계가 업계 최고 수준이며 정부가 제기한 탈옥 가능성은 타 모델에서도 공통적으로 나타나는 수준이라고 반박했습니다.",
-            "summary_en": "The US government has ordered Anthropic to suspend access to Fable 5 and Mythos 5 for all foreign nationals due to unspecified national security concerns, leading to an immediate service halt. Anthropic disputes the necessity of this action, maintaining that its models have industry-leading safeguards and that the identified vulnerabilities are common across other public AI models.",
-            "link": "https://www.anthropic.com/news/fable-mythos-access"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781222400000,
-            "date": "2026-06-12",
-            "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-            "summary_kr": "앤스로픽이 타타 컨설턴시 서비스(TCS)와 파트너십을 체결하여 금융, 의료 등 규제가 엄격한 산업 분야에 클로드(Claude) 기반의 엔터프라이즈 AI 솔루션을 본격적으로 도입합니다.",
-            "summary_en": "Anthropic has partnered with Tata Consultancy Services (TCS) to deploy Claude-powered enterprise AI solutions tailored for highly regulated sectors such as finance, healthcare, and the public sector.",
-            "link": "https://www.anthropic.com/news/tcs-anthropic-partnership"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1776902400000,
-            "date": "2026-04-23",
-            "title": "Grok Voice Think Fast 1.0",
-            "summary_kr": "xAI는 복잡한 다단계 워크플로우를 실시간으로 처리하며 높은 정확도와 저지연성을 갖춘 차세대 음성 모델 'grok-voice-think-fast-1.0'을 API로 출시했습니다.",
-            "summary_en": "xAI has launched 'grok-voice-think-fast-1.0', a flagship voice model designed for high-stakes, real-time multi-step workflows that balances low latency with superior reasoning and accuracy.",
-            "link": "https://x.ai/news/grok-voice-think-fast-1"
         }
     ]
 }
