@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-07-23 17:08:56",
+    "last_update": "2026-07-24 17:18:23",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1783468800000,
+            "date": "2026-07-08",
+            "title": "Introducing GPT-Live",
+            "summary_kr": "OpenAI가 공개한 'GPT-Live'는 풀듀플렉스 아키텍처를 통해 실시간 대화 흐름을 유지하며, 복잡한 추론 작업은 백엔드 모델(GPT-5.5)에 위임하여 자연스럽고 지능적인 인간-AI 상호작용을 구현합니다.",
+            "summary_en": "OpenAI's 'GPT-Live' utilizes a full-duplex architecture for seamless, continuous conversation while delegating complex reasoning tasks to frontier models like GPT-5.5, enabling a more natural and intelligent human-AI interaction.",
+            "link": "https://openai.com/index/introducing-gpt-live"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1783446600000,
+            "date": "2026-07-07",
+            "title": "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience",
+            "summary_kr": "구글은 UN 및 각국 정부와 협력하여 AI 기반의 고도화된 기상 예측 모델과 실시간 경보 시스템을 제공함으로써 전 세계적인 재난 대응 역량을 강화하고 있습니다.",
+            "summary_en": "Google is strengthening global crisis resilience by collaborating with the UN and governments to deploy advanced AI-driven weather forecasting and real-time alert systems.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783382400000,
+            "date": "2026-07-07",
+            "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+            "summary_kr": "Australian Payments Plus(AP+)는 ChatGPT Enterprise와 Codex를 도입하여 복잡한 결제 시스템 분석 및 업무 효율성을 획기적으로 개선하며 생산성을 높이고 있습니다.",
+            "summary_en": "Australian Payments Plus (AP+) has significantly enhanced operational efficiency and complex payment system analysis by integrating ChatGPT Enterprise and Codex into its workflows.",
+            "link": "https://openai.com/index/australian-payments-plus"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1783382400000,
+            "date": "2026-07-07",
+            "title": "Introducing Muse Image and Muse Video",
+            "summary_kr": "메타는 검색, 코딩, 자기 성찰 기능을 갖춘 에이전트형 이미지 생성 모델 'Muse Image'를 출시하고, 고품질 비디오 모델 'Muse Video'를 공개하며 생성형 미디어 기술의 패러다임을 확장했습니다.",
+            "summary_en": "Meta has launched 'Muse Image,' an agentic model that utilizes search, coding, and self-refinement to enhance generation, while also previewing 'Muse Video' to advance the frontier of high-fidelity media creation.",
+            "link": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1783445658000,
+            "date": "2026-07-07",
+            "title": "New cohort of AI Economy Institute Fellows to examine frontier AI firms and the transformation of work",
+            "summary_kr": "AI 경제 연구소(AIEI)가 3기 연구원들을 선발하여 선도적 기업들의 AI 도입이 업무 환경, 생산성 및 거시 경제 전반에 미치는 영향을 심층 분석합니다.",
+            "summary_en": "The AI Economy Institute has launched its third research cohort to analyze how frontier firms are reshaping work, organizational productivity, and the broader economic landscape through AI adoption.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/07/07/new-cohort-of-ai-economy-institute-fellows-to-examine-frontier-ai-firms-and-the-transformation-of-work"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783443942000,
+            "date": "2026-07-07",
+            "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
+            "summary_kr": "엔비디아는 파편화된 로봇 개발 파이프라인을 통합하고 가속화하는 'Isaac GR00T' 플랫폼을 통해 휴머노이드 로봇의 데이터 수집부터 배포까지 전 과정을 간소화했습니다. 특히 오픈소스 VLA 모델인 GR00T 1.7을 공개하여 개발자들이 휴머노이드의 추론 능력과 범용적 작업 수행 역량을 신속하게 구축할 수 있도록 지원합니다.",
+            "summary_en": "NVIDIA has launched the Isaac GR00T platform to unify and accelerate fragmented humanoid development pipelines, covering everything from data collection to deployment. With the release of the open-source GR00T 1.7 VLA model, developers can now efficiently build advanced robot reasoning and generalized task capabilities.",
+            "link": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783443600000,
+            "date": "2026-07-07",
+            "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
+            "summary_kr": "NVIDIA Nemotron 모델을 활용한 산업용 AI 에이전트는 방대한 설비 알람을 분석하여 데이터 수집부터 조치 권고안 도출까지의 과정을 자동화함으로써 기술자의 업무 효율을 획기적으로 높여줍니다.",
+            "summary_en": "NVIDIA Nemotron-powered AI agents streamline industrial alarm management by automating context gathering, root-cause analysis, and recommendation drafting, significantly reducing technician workload.",
+            "link": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1783443600000,
@@ -837,69 +900,6 @@
             "summary_kr": "xAI가 공개한 Grok Imagine Video 1.5는 향상된 물리 효과와 오디오 동기화 및 2배 빠른 생성 속도를 갖추었으며, 워크플로우 효율을 위한 새로운 프로젝트 관리 기능을 제공합니다.",
             "summary_en": "xAI has launched Grok Imagine Video 1.5, featuring superior motion, physics, and audio synchronization alongside doubled generation speeds and new workflow-enhancing project management tools.",
             "link": "https://x.ai/news/grok-imagine-video-1-5"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781654400000,
-            "date": "2026-06-17",
-            "title": "Agentic coding and persistent returns to expertise",
-            "summary_kr": "에이전트 코딩 환경에서는 도메인 전문성이 코딩 기술보다 작업 성공의 핵심 동력이 되며, 사용자의 기획 능력과 AI의 실행력이 결합하여 업무의 복잡도와 가치를 높이고 있습니다.",
-            "summary_en": "Domain expertise serves as a key driver of success in agentic coding, where human strategic planning and AI execution combine to significantly enhance the complexity and value of knowledge work.",
-            "link": "https://www.anthropic.com/research/claude-code-expertise"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781629479000,
-            "date": "2026-06-16",
-            "title": "Copilot Cowork is now generally available | Microsoft 365 Blog",
-            "summary_kr": "마이크로소프트가 복잡하고 긴 호흡의 업무를 엔드투엔드로 자동화하는 'Copilot Cowork'를 정식 출시했습니다. 이 서비스는 엔터프라이즈급 보안과 효율적인 비용 구조를 바탕으로 기업의 생산성을 획기적으로 개선합니다.",
-            "summary_en": "Microsoft has officially launched 'Copilot Cowork,' an agentic system designed to automate complex, long-running tasks from end to end with enterprise-grade security and a cost-efficient, usage-based pricing model.",
-            "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781629200000,
-            "date": "2026-06-16",
-            "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
-            "summary_kr": "엔비디아는 언리얼 엔진 5를 위한 'ACE 게임 에이전트 SDK'와 신규 플러그인을 공개하여, 개발자들이 고성능 온디바이스 AI NPC를 더 쉽고 효율적으로 구축할 수 있도록 지원합니다.",
-            "summary_en": "NVIDIA has introduced the ACE Game Agent SDK and new Unreal Engine 5 plugins, enabling developers to more easily build and deploy high-performance, on-device AI companions.",
-            "link": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781625600000,
-            "date": "2026-06-16",
-            "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
-            "summary_kr": "NVIDIA Transformer Engine을 활용해 모델의 행렬 연산(GEMM) 형태를 정밀하게 분석하고 저정밀도(FP8, FP4) 최적화를 수행함으로써 트랜스포머 모델의 학습 속도를 효과적으로 가속화하는 방법을 제시합니다.",
-            "summary_en": "This article explains how to accelerate transformer training by analyzing GEMM shapes and leveraging NVIDIA Transformer Engine to optimize performance through low-precision formats like FP8 and FP4.",
-            "link": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781622673000,
-            "date": "2026-06-16",
-            "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
-            "summary_kr": "NVIDIA의 Blackwell 플랫폼은 MLPerf Training v6.0에서 최첨단 소프트웨어 스택과 고도화된 네트워크 기술을 통해 모든 벤치마크 항목에서 업계 최고의 성능과 확장성을 입증했습니다.",
-            "summary_en": "NVIDIA's Blackwell platform swept the MLPerf Training v6.0 benchmarks, demonstrating industry-leading performance and scalability through optimized software stacks and advanced network fabric technology.",
-            "link": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781568000000,
-            "date": "2026-06-16",
-            "title": "Predicting model behavior before release by simulating deployment",
-            "summary_kr": "OpenAI는 실제 과거 대화 데이터를 재현하여 출시 전 모델의 행동을 미리 시뮬레이션함으로써, 기존 평가 방식의 한계를 극복하고 모델의 부적절한 행동을 더욱 정확하게 예측하는 새로운 안전 검증 기법을 도입했습니다.",
-            "summary_en": "OpenAI has introduced a 'Deployment Simulation' method that replays realistic past conversations to predict model behavior before release, effectively overcoming the limitations of traditional evaluation methods in identifying safety risks.",
-            "link": "https://openai.com/index/deployment-simulation"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781568000000,
-            "date": "2026-06-16",
-            "title": "Grok for PowerPoint",
-            "summary_kr": "xAI의 Grok이 마이크로소프트 파워포인트 애드인으로 출시되어, 실시간 웹 검색과 데이터 연결을 통해 프레젠테이션 제작 및 편집 과정을 자동화합니다.",
-            "summary_en": "xAI has launched Grok as a Microsoft PowerPoint add-in, enabling users to automate slide creation and refinement through real-time web research and integrated data connectivity.",
-            "link": "https://x.ai/news/introducing-powerpoint-addin"
         }
     ]
 }

@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-07-23 17:08:56",
+    "last_update": "2026-07-24 17:18:23",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784911500000,
+            "date": "2026-07-24",
+            "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
+            "summary_kr": "NVIDIA의 ModelExpress는 대규모 모델 가중치를 P2P RDMA를 통해 GPU 간 직접 전송하고 스토리지 스트리밍을 최적화하여 모델 배포 및 업데이트 속도를 획기적으로 개선합니다.",
+            "summary_en": "NVIDIA ModelExpress significantly accelerates model deployment and updates by leveraging P2P RDMA for direct GPU-to-GPU weight transfers and optimizing streaming from remote storage.",
+            "link": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1784851200000,
+            "date": "2026-07-24",
+            "title": "Introducing Claude Opus 5",
+            "summary_kr": "Claude Opus 5는 이전 모델 대비 압도적인 가성비와 성능 향상을 통해 코딩, 지식 작업 및 문제 해결 분야에서 새로운 업계 표준을 제시했습니다.",
+            "summary_en": "Claude Opus 5 sets a new industry benchmark by delivering significantly improved performance and superior cost-efficiency across coding, knowledge work, and complex problem-solving tasks.",
+            "link": "https://www.anthropic.com/news/claude-opus-5"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1784851200000,
+            "date": "2026-07-24",
+            "title": "Project Pilot: Can AI models fly drones?",
+            "summary_kr": "앤스로픽은 'Drone-Bench'를 통해 AI 모델이 드론을 자율적으로 조종해 감시 임무를 수행하는 능력을 평가했으며, 이는 AI의 물리적 세계 제어 능력이 향상됨에 따라 동반되는 기술적 기회와 잠재적 위험을 조명합니다.",
+            "summary_en": "Anthropic introduced 'Drone-Bench' to evaluate AI models' ability to autonomously pilot drones for surveillance tasks, highlighting both the practical opportunities and the dual-use risks associated with AI's growing capacity to control physical hardware.",
+            "link": "https://www.anthropic.com/research/project-pilot"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1784836905000,
+            "date": "2026-07-23",
+            "title": "Introducing MAI-Image-2.5-Pro and MAI-Voice-2-Flash | Microsoft AI",
+            "summary_kr": "마이크로소프트가 고품질 이미지 생성의 'MAI-Image-2.5-Pro'와 고속 음성 처리에 최적화된 'MAI-Voice-2-Flash'를 공개하며 자사 서비스 전반에 자체 개발 모델 도입을 가속화합니다.",
+            "summary_en": "Microsoft has introduced 'MAI-Image-2.5-Pro' for high-fidelity image generation and 'MAI-Voice-2-Flash' for efficient, high-speed voice processing, further integrating its proprietary models across its product ecosystem.",
+            "link": "https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1784832982000,
+            "date": "2026-07-23",
+            "title": "From Signal magazine: Meet the team at Land O’Lakes who are seeking to use AI to help farmers protect their crops, optimize yield potentials and respond quickly to threats",
+            "summary_kr": "마이크로소프트와 브로드 연구소의 'Project Ex Vivo'는 AI와 3D 세포 모델링을 결합하여 암을 단순한 유전자 돌연변이가 아닌 역동적인 생태계로 이해함으로써 정밀 암 치료의 새로운 패러다임을 제시합니다.",
+            "summary_en": "Microsoft and the Broad Institute’s 'Project Ex Vivo' utilizes AI and 3D cell modeling to treat cancer as a dynamic system rather than a result of simple mutations, driving a new paradigm in precision oncology.",
+            "link": "https://news.microsoft.com/microsoft-signal/magazine/issue/issue-05/#growth-industries"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1784826046000,
+            "date": "2026-07-23",
+            "title": "Inside nonprofits using AI to extend their impact | The Microsoft Cloud Blog",
+            "summary_kr": "비영리 단체들이 마이크로소프트의 AI 기술을 도입하여 데이터 통합과 효율적인 자원 관리를 통해 사회적 난제를 해결하고 그 영향력을 극대화하고 있습니다.",
+            "summary_en": "Nonprofit organizations are leveraging Microsoft's AI technologies to streamline operations and derive actionable insights, significantly amplifying their capacity to address critical social challenges.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/23/ai-appreciation-day-impact-through-action"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1784764800000,
+            "date": "2026-07-23",
+            "title": "Workflows in Grok Build",
+            "summary_kr": "Grok Build가 복잡한 대규모 작업을 수백 개의 AI 에이전트로 자동 분산 처리하고 검증하는 '워크플로우' 기능을 도입하여, 사용자가 직접 스크립트를 작성하지 않고도 체계적인 결과물을 얻을 수 있게 되었습니다.",
+            "summary_en": "Grok Build has introduced 'workflows' that automatically distribute complex, large-scale tasks across hundreds of parallel AI agents for execution and verification, enabling users to generate comprehensive reports without writing manual scripts.",
+            "link": "https://x.ai/news/workflows"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1784822823000,
@@ -837,69 +900,6 @@
             "summary_kr": "OpenAI는 월튼 패밀리 재단과 협력하여 K-12 교육자들이 AI를 실무에 효과적으로 활용하고 업무 효율을 높일 수 있도록 지원하는 'AI 스킬 잼(AI Skills Jam)' 워크숍을 개최합니다.",
             "summary_en": "OpenAI is partnering with the Walton Family Foundation to host 'AI Skills Jam' workshops, providing K-12 educators with hands-on training to effectively integrate AI into their daily professional tasks.",
             "link": "https://openai.com/index/k-12-educators-practical-skills"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783468800000,
-            "date": "2026-07-08",
-            "title": "Introducing GPT-Live",
-            "summary_kr": "OpenAI가 공개한 'GPT-Live'는 풀듀플렉스 아키텍처를 통해 실시간 대화 흐름을 유지하며, 복잡한 추론 작업은 백엔드 모델(GPT-5.5)에 위임하여 자연스럽고 지능적인 인간-AI 상호작용을 구현합니다.",
-            "summary_en": "OpenAI's 'GPT-Live' utilizes a full-duplex architecture for seamless, continuous conversation while delegating complex reasoning tasks to frontier models like GPT-5.5, enabling a more natural and intelligent human-AI interaction.",
-            "link": "https://openai.com/index/introducing-gpt-live"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1783446600000,
-            "date": "2026-07-07",
-            "title": "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience",
-            "summary_kr": "구글은 UN 및 각국 정부와 협력하여 AI 기반의 고도화된 기상 예측 모델과 실시간 경보 시스템을 제공함으로써 전 세계적인 재난 대응 역량을 강화하고 있습니다.",
-            "summary_en": "Google is strengthening global crisis resilience by collaborating with the UN and governments to deploy advanced AI-driven weather forecasting and real-time alert systems.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783382400000,
-            "date": "2026-07-07",
-            "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-            "summary_kr": "Australian Payments Plus(AP+)는 ChatGPT Enterprise와 Codex를 도입하여 복잡한 결제 시스템 분석 및 업무 효율성을 획기적으로 개선하며 생산성을 높이고 있습니다.",
-            "summary_en": "Australian Payments Plus (AP+) has significantly enhanced operational efficiency and complex payment system analysis by integrating ChatGPT Enterprise and Codex into its workflows.",
-            "link": "https://openai.com/index/australian-payments-plus"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1783382400000,
-            "date": "2026-07-07",
-            "title": "Introducing Muse Image and Muse Video",
-            "summary_kr": "메타는 검색, 코딩, 자기 성찰 기능을 갖춘 에이전트형 이미지 생성 모델 'Muse Image'를 출시하고, 고품질 비디오 모델 'Muse Video'를 공개하며 생성형 미디어 기술의 패러다임을 확장했습니다.",
-            "summary_en": "Meta has launched 'Muse Image,' an agentic model that utilizes search, coding, and self-refinement to enhance generation, while also previewing 'Muse Video' to advance the frontier of high-fidelity media creation.",
-            "link": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783445658000,
-            "date": "2026-07-07",
-            "title": "New cohort of AI Economy Institute Fellows to examine frontier AI firms and the transformation of work",
-            "summary_kr": "AI 경제 연구소(AIEI)가 3기 연구원들을 선발하여 선도적 기업들의 AI 도입이 업무 환경, 생산성 및 거시 경제 전반에 미치는 영향을 심층 분석합니다.",
-            "summary_en": "The AI Economy Institute has launched its third research cohort to analyze how frontier firms are reshaping work, organizational productivity, and the broader economic landscape through AI adoption.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/07/07/new-cohort-of-ai-economy-institute-fellows-to-examine-frontier-ai-firms-and-the-transformation-of-work"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783443942000,
-            "date": "2026-07-07",
-            "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
-            "summary_kr": "엔비디아는 파편화된 로봇 개발 파이프라인을 통합하고 가속화하는 'Isaac GR00T' 플랫폼을 통해 휴머노이드 로봇의 데이터 수집부터 배포까지 전 과정을 간소화했습니다. 특히 오픈소스 VLA 모델인 GR00T 1.7을 공개하여 개발자들이 휴머노이드의 추론 능력과 범용적 작업 수행 역량을 신속하게 구축할 수 있도록 지원합니다.",
-            "summary_en": "NVIDIA has launched the Isaac GR00T platform to unify and accelerate fragmented humanoid development pipelines, covering everything from data collection to deployment. With the release of the open-source GR00T 1.7 VLA model, developers can now efficiently build advanced robot reasoning and generalized task capabilities.",
-            "link": "https://developer.nvidia.com/blog/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783443600000,
-            "date": "2026-07-07",
-            "title": "Building an Analysis AI Agent for Industrial Alarm Management with NVIDIA Nemotron",
-            "summary_kr": "NVIDIA Nemotron 모델을 활용한 산업용 AI 에이전트는 방대한 설비 알람을 분석하여 데이터 수집부터 조치 권고안 도출까지의 과정을 자동화함으로써 기술자의 업무 효율을 획기적으로 높여줍니다.",
-            "summary_en": "NVIDIA Nemotron-powered AI agents streamline industrial alarm management by automating context gathering, root-cause analysis, and recommendation drafting, significantly reducing technician workload.",
-            "link": "https://developer.nvidia.com/blog/building-an-analysis-ai-agent-for-industrial-alarm-management-with-nvidia-nemotron"
         }
     ]
 }

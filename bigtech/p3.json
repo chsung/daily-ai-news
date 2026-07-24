@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-07-23 17:08:56",
+    "last_update": "2026-07-24 17:18:23",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1781654400000,
+            "date": "2026-06-17",
+            "title": "Agentic coding and persistent returns to expertise",
+            "summary_kr": "에이전트 코딩 환경에서는 도메인 전문성이 코딩 기술보다 작업 성공의 핵심 동력이 되며, 사용자의 기획 능력과 AI의 실행력이 결합하여 업무의 복잡도와 가치를 높이고 있습니다.",
+            "summary_en": "Domain expertise serves as a key driver of success in agentic coding, where human strategic planning and AI execution combine to significantly enhance the complexity and value of knowledge work.",
+            "link": "https://www.anthropic.com/research/claude-code-expertise"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781629479000,
+            "date": "2026-06-16",
+            "title": "Copilot Cowork is now generally available | Microsoft 365 Blog",
+            "summary_kr": "마이크로소프트가 복잡하고 긴 호흡의 업무를 엔드투엔드로 자동화하는 'Copilot Cowork'를 정식 출시했습니다. 이 서비스는 엔터프라이즈급 보안과 효율적인 비용 구조를 바탕으로 기업의 생산성을 획기적으로 개선합니다.",
+            "summary_en": "Microsoft has officially launched 'Copilot Cowork,' an agentic system designed to automate complex, long-running tasks from end to end with enterprise-grade security and a cost-efficient, usage-based pricing model.",
+            "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781629200000,
+            "date": "2026-06-16",
+            "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+            "summary_kr": "엔비디아는 언리얼 엔진 5를 위한 'ACE 게임 에이전트 SDK'와 신규 플러그인을 공개하여, 개발자들이 고성능 온디바이스 AI NPC를 더 쉽고 효율적으로 구축할 수 있도록 지원합니다.",
+            "summary_en": "NVIDIA has introduced the ACE Game Agent SDK and new Unreal Engine 5 plugins, enabling developers to more easily build and deploy high-performance, on-device AI companions.",
+            "link": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781625600000,
+            "date": "2026-06-16",
+            "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
+            "summary_kr": "NVIDIA Transformer Engine을 활용해 모델의 행렬 연산(GEMM) 형태를 정밀하게 분석하고 저정밀도(FP8, FP4) 최적화를 수행함으로써 트랜스포머 모델의 학습 속도를 효과적으로 가속화하는 방법을 제시합니다.",
+            "summary_en": "This article explains how to accelerate transformer training by analyzing GEMM shapes and leveraging NVIDIA Transformer Engine to optimize performance through low-precision formats like FP8 and FP4.",
+            "link": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1781622673000,
+            "date": "2026-06-16",
+            "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+            "summary_kr": "NVIDIA의 Blackwell 플랫폼은 MLPerf Training v6.0에서 최첨단 소프트웨어 스택과 고도화된 네트워크 기술을 통해 모든 벤치마크 항목에서 업계 최고의 성능과 확장성을 입증했습니다.",
+            "summary_en": "NVIDIA's Blackwell platform swept the MLPerf Training v6.0 benchmarks, demonstrating industry-leading performance and scalability through optimized software stacks and advanced network fabric technology.",
+            "link": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781568000000,
+            "date": "2026-06-16",
+            "title": "Predicting model behavior before release by simulating deployment",
+            "summary_kr": "OpenAI는 실제 과거 대화 데이터를 재현하여 출시 전 모델의 행동을 미리 시뮬레이션함으로써, 기존 평가 방식의 한계를 극복하고 모델의 부적절한 행동을 더욱 정확하게 예측하는 새로운 안전 검증 기법을 도입했습니다.",
+            "summary_en": "OpenAI has introduced a 'Deployment Simulation' method that replays realistic past conversations to predict model behavior before release, effectively overcoming the limitations of traditional evaluation methods in identifying safety risks.",
+            "link": "https://openai.com/index/deployment-simulation"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1781568000000,
+            "date": "2026-06-16",
+            "title": "Grok for PowerPoint",
+            "summary_kr": "xAI의 Grok이 마이크로소프트 파워포인트 애드인으로 출시되어, 실시간 웹 검색과 데이터 연결을 통해 프레젠테이션 제작 및 편집 과정을 자동화합니다.",
+            "summary_en": "xAI has launched Grok as a Microsoft PowerPoint add-in, enabling users to automate slide creation and refinement through real-time web research and integrated data connectivity.",
+            "link": "https://x.ai/news/introducing-powerpoint-addin"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1781546851000,
@@ -837,69 +900,6 @@
             "summary_kr": "마이크로소프트와 엔비디아가 협력하여 1페타플롭 규모의 AI 성능과 고효율을 갖춘 차세대 윈도우 PC용 'NVIDIA RTX Spark'를 공개하며, 온디바이스 AI 에이전트 시대를 본격화합니다.",
             "summary_en": "Microsoft and NVIDIA have partnered to introduce 'NVIDIA RTX Spark,' a powerful, high-efficiency platform designed to accelerate local AI agents and demanding workloads on the next generation of Windows PCs.",
             "link": "https://blogs.windows.com/windowsexperience/2026/05/31/introducing-a-powerful-new-chapter-for-windows-pcs-accelerated-by-nvidia-rtx-spark"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780289355000,
-            "date": "2026-06-01",
-            "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
-            "summary_kr": "NVIDIA Alpamayo의 AlpaGym은 자율주행 모델 학습 시 시뮬레이터 피드백을 직접 반영하는 폐루프(closed-loop) 강화학습을 통해, 오픈루프 방식의 한계를 극복하고 모델의 실전 대응력을 향상시키는 확장 가능한 학습 파이프라인을 제공합니다.",
-            "summary_en": "NVIDIA Alpamayo’s AlpaGym provides a scalable closed-loop reinforcement learning pipeline that integrates simulator feedback directly into model training, overcoming the limitations of open-loop methods to improve real-world autonomous driving performance.",
-            "link": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780289038000,
-            "date": "2026-06-01",
-            "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
-            "summary_kr": "엔비디아가 물리적 AI의 추론, 세계 모델링, 행동 생성 기능을 통합한 'Cosmos 3' 파운데이션 모델을 오픈소스로 공개하여 로봇 및 자율주행 기술 개발을 가속화합니다.",
-            "summary_en": "NVIDIA has open-sourced 'Cosmos 3,' a unified foundation model that integrates physical reasoning, world modeling, and action generation to accelerate development in robotics and autonomous systems.",
-            "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780287702000,
-            "date": "2026-06-01",
-            "title": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
-            "summary_kr": "NVIDIA BlueField DPU와 DOCA 기술은 호스트 시스템과 분리된 하드웨어 기반 보안을 통해 AI 팩토리의 인프라, 데이터, 자율형 AI 에이전트를 고성능으로 보호합니다.",
-            "summary_en": "NVIDIA BlueField DPUs and DOCA provide hardware-enforced, full-stack security that protects AI infrastructure, data, and autonomous agents by isolating security services from host systems to maintain performance at AI scale.",
-            "link": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780286355000,
-            "date": "2026-06-01",
-            "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
-            "summary_kr": "NVIDIA Vera CPU는 에이전트형 AI와 강화학습 시대에 발맞춰, 높은 코어 성능과 효율적인 메모리 대역폭을 통해 AI 팩토리의 병목 현상을 해결하고 작업 처리량을 극대화하도록 설계되었습니다.",
-            "summary_en": "NVIDIA Vera CPU is designed to overcome bottlenecks in AI factories by delivering high per-core performance and efficient memory bandwidth, specifically optimized to scale agentic AI and reinforcement learning workloads.",
-            "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780285012000,
-            "date": "2026-06-01",
-            "title": "NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale",
-            "summary_kr": "엔비디아(NVIDIA)가 공개한 DSX OS는 AI 팩토리의 구축과 운영을 최적화하는 개방형 모듈식 소프트웨어로, 에너지 효율 향상과 운영 자동화를 통해 기가와트 규모의 AI 인프라 확장을 가속화합니다.",
-            "summary_en": "NVIDIA's DSX OS provides an open, modular software platform that optimizes AI factory operations, enhancing energy efficiency and scalability to accelerate the deployment of gigawatt-scale AI infrastructure.",
-            "link": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1780075800000,
-            "date": "2026-05-30",
-            "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-            "summary_kr": "구글은 멀티모달 영상 생성 및 편집에 특화된 '제미나이 옴니'와 복잡한 에이전트 작업과 코딩에 최적화된 '제미나이 3.5 플래시'를 공개하며 AI 모델의 지능적 활용 범위를 대폭 확장했습니다.",
-            "summary_en": "Google has unveiled 'Gemini Omni,' specialized in multimodal video generation and editing, and 'Gemini 3.5 Flash,' optimized for complex agentic tasks and coding, significantly expanding the practical applications of AI.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1780012800000,
-            "date": "2026-05-29",
-            "title": "Grok Build 0.1 on API",
-            "summary_kr": "xAI가 웹 개발과 디버깅 등 에이전트형 코딩 작업에 최적화된 고속·저비용 모델 'Grok Build 0.1'을 API로 공개했습니다.",
-            "summary_en": "xAI has launched 'Grok Build 0.1' via API, a high-speed, cost-effective model specifically optimized for agentic coding tasks and tool calling.",
-            "link": "https://x.ai/news/grok-build-0-1"
         }
     ]
 }
