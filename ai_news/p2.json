@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-24 16:47:27",
+    "last_update": "2026-07-25 05:47:53",
     "articles": [
+        {
+            "title": "Microsoft Cuts 4,800 Jobs as AI Strategy Evolves - Techerati",
+            "summary_en": "Microsoft is cutting 4,800 jobs, or 2.1% of its workforce, as part of a strategic organizational shift to prioritize AI infrastructure investments while adapting to evolving customer needs.",
+            "link": "https://www.techerati.com/news-hub/microsoft-cuts-4800-jobs-as-ai-reshapes-its-business-strategy",
+            "timestamp": 1783564185000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
+            "summary_en": "Chinese AI company DeepSeek is reportedly developing its own proprietary AI chips to reduce dependency on external hardware suppliers.",
+            "link": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07",
+            "timestamp": 1783460454000,
+            "date": "2026-07-07"
+        },
+        {
+            "title": "A Circuit Board Problem Just Delayed Nvidia's Next AI System to 2028 And Chip Stocks Are Already Feeling the Fallout - 24/7 Wall St.",
+            "summary_en": "Nvidia’s next-generation Kyber AI system is reportedly delayed to 2028 due to manufacturing difficulties with complex 78-layer circuit boards, though the company maintains its current roadmap is intact.",
+            "link": "https://247wallst.com/investing/2026/07/07/a-circuit-board-problem-just-delayed-nvidias-next-ai-system-to-2028-and-chip-stocks-are-already-feeling-the-fallout",
+            "timestamp": 1783459111000,
+            "date": "2026-07-07"
+        },
         {
             "title": "AI Chips Today - Certara-NVIDIA Partnership Revolutionizes AI in Drug Development - Yahoo Finance",
             "summary_en": "Certara is partnering with NVIDIA to integrate the BioNeMo Agent Toolkit into its biosimulation software to automate drug discovery processes. This collaboration uses AI-driven agents to computationally simulate human biology, aiming to accelerate the development of new medicines.",
@@ -678,27 +699,6 @@
             "summary_en": "Anthropic is advocating for an international AI arms control regime, warning that the rapid advent of 'recursive self-improvement' could soon create models capable of operating beyond human control. The company reports that its latest systems are now generating 80% of their own code and evolving at a speed 52 times faster than they were just last year.",
             "link": "https://www.cfr.org/articles/why-anthropic-is-sounding-the-alarm-on-the-next-generation-of-ai",
             "timestamp": 1781809661000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "The fight to keep AI research in the open - Sources | Alex Heath",
-            "summary_en": "Databricks co-founder Andy Konwinski has launched the $100 million Laude Institute to combat the 'feudal' centralization of AI power by Big Tech and frontier labs. By funding open research, the institute aims to counter the industry's exodus of academic talent and ensure that foundational AI capabilities remain accessible to the broader research community.",
-            "link": "https://sources.news/p/fight-to-keep-ai-research-open",
-            "timestamp": 1781831706000,
-            "date": "2026-06-19"
-        },
-        {
-            "title": "OpenAI Taps Trump's Former AI Adviser For New Strategy Role - Benzinga",
-            "summary_en": "OpenAI has hired Dean Ball, a former White House AI adviser and architect of the AI Action Plan, to spearhead a new strategy team focusing on public policy and internal governance. This hire reflects OpenAI's efforts to integrate high-level policy expertise alongside other strategic leadership additions, including former Salesforce and Ironclad executives.",
-            "link": "https://www.benzinga.com/markets/private-markets/26/06/53288065/openai-taps-trumps-former-ai-adviser-for-new-strategy-role",
-            "timestamp": 1781807603000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "Amazon SVP on AI strategy: Aim to compete with Anthropic in coming year - CNBC",
-            "summary_en": "Amazon's SVP of foundational AI, Peter DeSantis, expects the company's internal AI models to reach competitive parity with frontier models from Anthropic and OpenAI within the next year. This strategy is central to Amazon's ongoing efforts to transform the online shopping experience.",
-            "link": "https://www.cnbc.com/video/2026/06/18/amazon-svp-on-ai-strategy-aim-to-compete-with-anthropic-in-coming-year.html",
-            "timestamp": 1781782713000,
             "date": "2026-06-18"
         }
     ]

@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-24 16:47:27",
+    "last_update": "2026-07-25 05:47:53",
     "articles": [
+        {
+            "title": "Press Release: SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory - Moomoo",
+            "summary_en": "SK Group and NVIDIA have strengthened their strategic partnership to collaborate on the development of AI factories and advanced, next-generation memory technologies.",
+            "link": "https://www.moomoo.com/news/post/73526086/press-release-sk-group-and-nvidia-expand-strategic-partnership-across",
+            "timestamp": 1784956200000,
+            "date": "2026-07-25"
+        },
+        {
+            "title": "AMD takes on Nvidia with its Helios AI rack-scale system | TechCrunch - TechCrunch",
+            "summary_en": "AMD launched its Helios rack-scale system to compete with NVIDIA in the data center market, projecting that the AI accelerator industry will grow to $1.4 trillion by 2030. Major tech firms including Microsoft, OpenAI, and Anthropic have already committed to deploying the system, which is optimized for high-performance frontier model training.",
+            "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system",
+            "timestamp": 1784838782000,
+            "date": "2026-07-23"
+        },
+        {
+            "title": "Meta AI gets smarter: It can now plan your day, do research, and create presentations - The Indian Express",
+            "summary_en": "Meta has upgraded its AI assistant with the Muse Spark 1.1 model, enabling it to perform autonomous, multi-step tasks such as calendar management, research, and presentation creation. This update shifts Meta AI from a simple chatbot to a proactive agent capable of executing complex workflows across user applications.",
+            "link": "https://indianexpress.com/article/technology/artificial-intelligence/meta-ai-muse-spark-1-1-new-features-10802642",
+            "timestamp": 1784948732000,
+            "date": "2026-07-25"
+        },
         {
             "title": "White House draws new AI line on China - Axios",
             "summary_en": "The White House has introduced new, more stringent AI-related restrictions aimed at limiting China's access to advanced artificial intelligence technologies.",
@@ -679,27 +700,6 @@
             "link": "https://www.politico.com/news/2026/07/08/open-ai-models-release-sol-00989959",
             "timestamp": 1783544580000,
             "date": "2026-07-08"
-        },
-        {
-            "title": "Microsoft Cuts 4,800 Jobs as AI Strategy Evolves - Techerati",
-            "summary_en": "Microsoft is cutting 4,800 jobs, or 2.1% of its workforce, as part of a strategic organizational shift to prioritize AI infrastructure investments while adapting to evolving customer needs.",
-            "link": "https://www.techerati.com/news-hub/microsoft-cuts-4800-jobs-as-ai-reshapes-its-business-strategy",
-            "timestamp": 1783564185000,
-            "date": "2026-07-09"
-        },
-        {
-            "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
-            "summary_en": "Chinese AI company DeepSeek is reportedly developing its own proprietary AI chips to reduce dependency on external hardware suppliers.",
-            "link": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07",
-            "timestamp": 1783460454000,
-            "date": "2026-07-07"
-        },
-        {
-            "title": "A Circuit Board Problem Just Delayed Nvidia's Next AI System to 2028 And Chip Stocks Are Already Feeling the Fallout - 24/7 Wall St.",
-            "summary_en": "Nvidia’s next-generation Kyber AI system is reportedly delayed to 2028 due to manufacturing difficulties with complex 78-layer circuit boards, though the company maintains its current roadmap is intact.",
-            "link": "https://247wallst.com/investing/2026/07/07/a-circuit-board-problem-just-delayed-nvidias-next-ai-system-to-2028-and-chip-stocks-are-already-feeling-the-fallout",
-            "timestamp": 1783459111000,
-            "date": "2026-07-07"
         }
     ]
 }

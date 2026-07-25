@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-24 16:47:27",
+    "last_update": "2026-07-25 05:47:53",
     "articles": [
+        {
+            "title": "The fight to keep AI research in the open - Sources | Alex Heath",
+            "summary_en": "Databricks co-founder Andy Konwinski has launched the $100 million Laude Institute to combat the 'feudal' centralization of AI power by Big Tech and frontier labs. By funding open research, the institute aims to counter the industry's exodus of academic talent and ensure that foundational AI capabilities remain accessible to the broader research community.",
+            "link": "https://sources.news/p/fight-to-keep-ai-research-open",
+            "timestamp": 1781831706000,
+            "date": "2026-06-19"
+        },
+        {
+            "title": "OpenAI Taps Trump's Former AI Adviser For New Strategy Role - Benzinga",
+            "summary_en": "OpenAI has hired Dean Ball, a former White House AI adviser and architect of the AI Action Plan, to spearhead a new strategy team focusing on public policy and internal governance. This hire reflects OpenAI's efforts to integrate high-level policy expertise alongside other strategic leadership additions, including former Salesforce and Ironclad executives.",
+            "link": "https://www.benzinga.com/markets/private-markets/26/06/53288065/openai-taps-trumps-former-ai-adviser-for-new-strategy-role",
+            "timestamp": 1781807603000,
+            "date": "2026-06-18"
+        },
+        {
+            "title": "Amazon SVP on AI strategy: Aim to compete with Anthropic in coming year - CNBC",
+            "summary_en": "Amazon's SVP of foundational AI, Peter DeSantis, expects the company's internal AI models to reach competitive parity with frontier models from Anthropic and OpenAI within the next year. This strategy is central to Amazon's ongoing efforts to transform the online shopping experience.",
+            "link": "https://www.cnbc.com/video/2026/06/18/amazon-svp-on-ai-strategy-aim-to-compete-with-anthropic-in-coming-year.html",
+            "timestamp": 1781782713000,
+            "date": "2026-06-18"
+        },
         {
             "title": "Amazon Expands Trainium AI Chip Strategy Beyond AWS - Amazon.com (NASDAQ:AMZN) - Benzinga",
             "summary_en": "Amazon is exploring the sale of its Trainium AI chips to external customers beyond AWS to address the global underconsumption of AI hardware. While third-generation chips are currently sold out, the company is already experiencing significant demand for its upcoming fourth-generation chips.",
@@ -679,27 +700,6 @@
             "link": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
             "timestamp": 1778050800000,
             "date": "2026-05-06"
-        },
-        {
-            "title": "Deep Research Max: a step change for autonomous research agents",
-            "summary_en": "Google has expanded its autonomous research agent capabilities with the release of 'Deep Research' and 'Deep Research Max,' designed for complex enterprise workflows. These agents now support Model Context Protocol (MCP) for proprietary data access and can natively generate infographics to visualize analytical reports.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research",
-            "timestamp": 1776754800000,
-            "date": "2026-04-21"
-        },
-        {
-            "title": "Amazon announces $5B Anthropic investment, up to $20B more",
-            "summary_en": "Amazon is deepening its commitment to Anthropic with a $5 billion investment, with the potential for an additional $20 billion tied to commercial milestones. As part of the deal, Anthropic has committed to spending over $100 billion on AWS infrastructure and custom Trainium silicon over the next decade.",
-            "link": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
-            "timestamp": 1776668400000,
-            "date": "2026-04-20"
-        },
-        {
-            "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
-            "summary_en": "NVIDIA has launched Cosmos 3, an open-source omnimodel architecture capable of integrated vision reasoning and physical action generation to accelerate robotics and autonomous system development. The company also formed the Cosmos Coalition, partnering with industry leaders like Runway and Skild AI to advance next-generation world models.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
-            "timestamp": 1780289449000,
-            "date": "2026-06-01"
         }
     ]
 }
