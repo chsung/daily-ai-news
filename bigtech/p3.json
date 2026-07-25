@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-24 17:18:23",
+    "last_update": "2026-07-25 16:41:26",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1781568000000,
+            "date": "2026-06-16",
+            "title": "Grok Imagine Video 1.5",
+            "summary_kr": "xAI가 공개한 Grok Imagine Video 1.5는 향상된 물리 효과와 오디오 동기화 및 2배 빠른 생성 속도를 갖추었으며, 워크플로우 효율을 위한 새로운 프로젝트 관리 기능을 제공합니다.",
+            "summary_en": "xAI has launched Grok Imagine Video 1.5, featuring superior motion, physics, and audio synchronization alongside doubled generation speeds and new workflow-enhancing project management tools.",
+            "link": "https://x.ai/news/grok-imagine-video-1-5"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1781654400000,
@@ -891,15 +900,6 @@
             "summary_kr": "X의 Grok 빌드에 복잡한 지시 사항과 긴 작업 처리에 최적화된 최신 AI 모델 'Composer 2.5'가 출시되었습니다.",
             "summary_en": "Composer 2.5 has been released on Grok Build, offering state-of-the-art performance for complex, long-running tasks.",
             "link": "https://x.ai/news/composer-2-5"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1780323255000,
-            "date": "2026-06-01",
-            "title": "Introducing a powerful new chapter for Windows PCs, accelerated by NVIDIA RTX Spark",
-            "summary_kr": "마이크로소프트와 엔비디아가 협력하여 1페타플롭 규모의 AI 성능과 고효율을 갖춘 차세대 윈도우 PC용 'NVIDIA RTX Spark'를 공개하며, 온디바이스 AI 에이전트 시대를 본격화합니다.",
-            "summary_en": "Microsoft and NVIDIA have partnered to introduce 'NVIDIA RTX Spark,' a powerful, high-efficiency platform designed to accelerate local AI agents and demanding workloads on the next generation of Windows PCs.",
-            "link": "https://blogs.windows.com/windowsexperience/2026/05/31/introducing-a-powerful-new-chapter-for-windows-pcs-accelerated-by-nvidia-rtx-spark"
         }
     ]
 }

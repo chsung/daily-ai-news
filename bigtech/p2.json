@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-24 17:18:23",
+    "last_update": "2026-07-25 16:41:26",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1783504800000,
+            "date": "2026-07-08",
+            "title": "Helping K–12 educators build practical AI skills",
+            "summary_kr": "OpenAI는 월튼 패밀리 재단과 협력하여 K-12 교육자들이 AI를 실무에 효과적으로 활용하고 업무 효율을 높일 수 있도록 지원하는 'AI 스킬 잼(AI Skills Jam)' 워크숍을 개최합니다.",
+            "summary_en": "OpenAI is partnering with the Walton Family Foundation to host 'AI Skills Jam' workshops, providing K-12 educators with hands-on training to effectively integrate AI into their daily professional tasks.",
+            "link": "https://openai.com/index/k-12-educators-practical-skills"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1783468800000,
@@ -891,15 +900,6 @@
             "summary_kr": "마이크로소프트는 기업이 독자적인 경쟁력을 강화하려면 특정 모델에 종속되지 않는 개방형 플랫폼 환경과 함께, 비용 효율성 및 보안을 보장하는 신뢰 기반의 AI 전략이 필수적이라고 강조합니다.",
             "summary_en": "Microsoft emphasizes that for organizations to thrive, they must adopt an open, model-diverse platform that prioritizes 'Intelligence + Trust' to ensure strategic autonomy, cost optimization, and secure governance.",
             "link": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781568000000,
-            "date": "2026-06-16",
-            "title": "Grok Imagine Video 1.5",
-            "summary_kr": "xAI가 공개한 Grok Imagine Video 1.5는 향상된 물리 효과와 오디오 동기화 및 2배 빠른 생성 속도를 갖추었으며, 워크플로우 효율을 위한 새로운 프로젝트 관리 기능을 제공합니다.",
-            "summary_en": "xAI has launched Grok Imagine Video 1.5, featuring superior motion, physics, and audio synchronization alongside doubled generation speeds and new workflow-enhancing project management tools.",
-            "link": "https://x.ai/news/grok-imagine-video-1-5"
         }
     ]
 }

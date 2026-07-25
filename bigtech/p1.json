@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-07-24 17:18:23",
+    "last_update": "2026-07-25 16:41:26",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1784851200000,
+            "date": "2026-07-24",
+            "title": "Grok in Google Workspace",
+            "summary_kr": "Grok이 구글 워크스페이스용 애드온으로 출시되어 스프레드시트, 슬라이드, 문서 내에서 실시간 데이터 분석, 콘텐츠 생성 및 문서 편집을 지원합니다.",
+            "summary_en": "Grok has launched as a Google Workspace add-on, enabling real-time data analysis, content creation, and document editing directly within Sheets, Slides, and Docs.",
+            "link": "https://x.ai/news/introducing-google-workspace-addon"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1784911500000,
@@ -891,15 +900,6 @@
             "summary_kr": "LangChain Deep Agents 하네스 프로파일을 활용해 NVIDIA Nemotron 3 Ultra 모델의 성능을 최적화함으로써, 비용 효율적으로 고성능 모델에 준하는 에이전트 작업 수행 능력을 확보하는 방법을 제시합니다.",
             "summary_en": "This guide demonstrates how to optimize NVIDIA Nemotron 3 Ultra performance using LangChain Deep Agents harness profiles, enabling cost-effective, high-accuracy agent workflows that rival frontier models.",
             "link": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783504800000,
-            "date": "2026-07-08",
-            "title": "Helping K–12 educators build practical AI skills",
-            "summary_kr": "OpenAI는 월튼 패밀리 재단과 협력하여 K-12 교육자들이 AI를 실무에 효과적으로 활용하고 업무 효율을 높일 수 있도록 지원하는 'AI 스킬 잼(AI Skills Jam)' 워크숍을 개최합니다.",
-            "summary_en": "OpenAI is partnering with the Walton Family Foundation to host 'AI Skills Jam' workshops, providing K-12 educators with hands-on training to effectively integrate AI into their daily professional tasks.",
-            "link": "https://openai.com/index/k-12-educators-practical-skills"
         }
     ]
 }
