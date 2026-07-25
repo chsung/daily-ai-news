@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-25 05:47:53",
+    "last_update": "2026-07-25 16:08:49",
     "articles": [
+        {
+            "title": "Inference Costs Plummet 90%. Nvidia Partners With LangChain to Define Agent Standards, Seizing the New Entry Point for AI Applications - TradingKey",
+            "summary_en": "NVIDIA has partnered with LangChain to release the NeMoClaw Deep Agents blueprint, a framework that establishes enterprise-grade standards for AI agent governance and controllability. By leveraging Blackwell architecture, the initiative aims to reduce inference costs by approximately 90%, marking a strategic shift for NVIDIA toward a software-centric AI ecosystem.",
+            "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262019693-nvidia-langchain-define-agent-standards-to-seize-ai-app-gateway-tradingkey",
+            "timestamp": 1783614005000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "OpenAI to release its most powerful model after weekslong hold - Politico",
+            "summary_en": "OpenAI is preparing to launch its most powerful artificial intelligence model following a delay of several weeks.",
+            "link": "https://www.politico.com/news/2026/07/08/open-ai-models-release-sol-00989959",
+            "timestamp": 1783544580000,
+            "date": "2026-07-08"
+        },
         {
             "title": "Microsoft Cuts 4,800 Jobs as AI Strategy Evolves - Techerati",
             "summary_en": "Microsoft is cutting 4,800 jobs, or 2.1% of its workforce, as part of a strategic organizational shift to prioritize AI infrastructure investments while adapting to evolving customer needs.",
@@ -685,20 +699,6 @@
             "summary_en": "Researchers have developed Arbor, an optimization framework that organizes AI experiments into a tree structure to enable cumulative learning rather than isolated trial-and-error. By maintaining state and historical data, the system delivers verifiable performance gains 2.5 times higher than standard coding agents.",
             "link": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
             "timestamp": 1781806434000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "AI agents take over robot training at Nvidia - Techzine Global",
-            "summary_en": "NVIDIA's new ENPIRE framework leverages collaborative AI coding agents to autonomously train robots for complex tasks, achieving a 99% success rate in experiments. By enabling agents to independently design, execute, and refine training protocols, the system allows researchers to automate much of the robot development lifecycle.",
-            "link": "https://www.techzine.eu/news/infrastructure/142271/ai-agents-take-over-robot-training-at-nvidia",
-            "timestamp": 1781776340000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "Why Anthropic Is Sounding the Alarm on the Next Generation of AI - Council on Foreign Relations",
-            "summary_en": "Anthropic is advocating for an international AI arms control regime, warning that the rapid advent of 'recursive self-improvement' could soon create models capable of operating beyond human control. The company reports that its latest systems are now generating 80% of their own code and evolving at a speed 52 times faster than they were just last year.",
-            "link": "https://www.cfr.org/articles/why-anthropic-is-sounding-the-alarm-on-the-next-generation-of-ai",
-            "timestamp": 1781809661000,
             "date": "2026-06-18"
         }
     ]

@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-25 05:47:53",
+    "last_update": "2026-07-25 16:08:49",
     "articles": [
+        {
+            "title": "AI agents take over robot training at Nvidia - Techzine Global",
+            "summary_en": "NVIDIA's new ENPIRE framework leverages collaborative AI coding agents to autonomously train robots for complex tasks, achieving a 99% success rate in experiments. By enabling agents to independently design, execute, and refine training protocols, the system allows researchers to automate much of the robot development lifecycle.",
+            "link": "https://www.techzine.eu/news/infrastructure/142271/ai-agents-take-over-robot-training-at-nvidia",
+            "timestamp": 1781776340000,
+            "date": "2026-06-18"
+        },
+        {
+            "title": "Why Anthropic Is Sounding the Alarm on the Next Generation of AI - Council on Foreign Relations",
+            "summary_en": "Anthropic is advocating for an international AI arms control regime, warning that the rapid advent of 'recursive self-improvement' could soon create models capable of operating beyond human control. The company reports that its latest systems are now generating 80% of their own code and evolving at a speed 52 times faster than they were just last year.",
+            "link": "https://www.cfr.org/articles/why-anthropic-is-sounding-the-alarm-on-the-next-generation-of-ai",
+            "timestamp": 1781809661000,
+            "date": "2026-06-18"
+        },
         {
             "title": "The fight to keep AI research in the open - Sources | Alex Heath",
             "summary_en": "Databricks co-founder Andy Konwinski has launched the $100 million Laude Institute to combat the 'feudal' centralization of AI power by Big Tech and frontier labs. By funding open research, the institute aims to counter the industry's exodus of academic talent and ensure that foundational AI capabilities remain accessible to the broader research community.",
@@ -686,20 +700,6 @@
             "link": "https://au.investing.com/news/stock-market-news/mayo-clinic-microsoft-partner-on-healthcare-ai-model-development-93CH-4468224",
             "timestamp": 1780430233000,
             "date": "2026-06-03"
-        },
-        {
-            "title": "Microsoft Rayfin Debuts as a New Backend Platform for AI Agent Development and App Creation",
-            "summary_en": "Microsoft launched Rayfin, an open-source backend platform integrated with Microsoft Fabric that automates infrastructure management for AI agents. The tool enables developers and agents to generate complete application backends, such as databases and APIs, through simple code definitions or natural language prompts.",
-            "link": "http://www.techtimes.com/articles/317651/20260602/microsoft-rayfin-debuts-new-backend-platform-ai-agent-development-app-creation.htm",
-            "timestamp": 1780459207000,
-            "date": "2026-06-03"
-        },
-        {
-            "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure",
-            "summary_en": "NVIDIA and Corning have established a long-term partnership to advance optical technologies for AI infrastructure. The collaboration focuses on strengthening US manufacturing and supply chains to support the massive infrastructure buildout required for next-generation AI systems.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
-            "timestamp": 1778050800000,
-            "date": "2026-05-06"
         }
     ]
 }
