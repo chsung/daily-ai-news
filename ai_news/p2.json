@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-25 16:08:49",
+    "last_update": "2026-07-26 06:11:23",
     "articles": [
+        {
+            "title": "OpenAI to publicly release GPT-5.6, rolls out conversational AI models - CNBC",
+            "summary_en": "OpenAI is publicly releasing its GPT-5.6 series, including the 'Sol,' 'Terra,' and 'Luna' models, following a brief period of restricted access requested by the U.S. government. Concurrently, the company launched GPT-Live, a new voice model series designed to enable real-time, conversational interaction for ChatGPT users globally.",
+            "link": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+            "timestamp": 1783514897000,
+            "date": "2026-07-08"
+        },
+        {
+            "title": "Microsoft (MSFT) Unifies Copilot Strategy to Challenge ChatGPT and Claude - Yahoo Finance",
+            "summary_en": "Microsoft plans to consolidate its consumer and enterprise Copilot chatbots into a single platform to compete more effectively against rivals like ChatGPT and Claude. Despite facing increased capital expenditure forecasts related to memory costs, the company remains focused on scaling its 100 million-user base through unified AI agents and coding tools.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-unifies-copilot-strategy-153524054.html",
+            "timestamp": 1783524924000,
+            "date": "2026-07-08"
+        },
         {
             "title": "Inference Costs Plummet 90%. Nvidia Partners With LangChain to Define Agent Standards, Seizing the New Entry Point for AI Applications - TradingKey",
             "summary_en": "NVIDIA has partnered with LangChain to release the NeMoClaw Deep Agents blueprint, a framework that establishes enterprise-grade standards for AI agent governance and controllability. By leveraging Blackwell architecture, the initiative aims to reduce inference costs by approximately 90%, marking a strategic shift for NVIDIA toward a software-centric AI ecosystem.",
@@ -686,20 +700,6 @@
             "link": "https://www.kucoin.com/news/flash/openai-unveils-2028-ai-research-goals-aims-to-automate-ai-development",
             "timestamp": 1781947107000,
             "date": "2026-06-20"
-        },
-        {
-            "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning - MarkTechPost",
-            "summary_en": "NVIDIA Research introduced SpatialClaw, a training-free framework that enhances spatial reasoning in vision-language models by using code as an action interface. This approach allows agents to dynamically chain perception tools and geometry primitives, achieving a 59.9% average accuracy across 20 benchmarks.",
-            "link": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
-            "timestamp": 1781909519000,
-            "date": "2026-06-19"
-        },
-        {
-            "title": "AI optimizer beats Claude Code, Codex by 2.5x - VentureBeat",
-            "summary_en": "Researchers have developed Arbor, an optimization framework that organizes AI experiments into a tree structure to enable cumulative learning rather than isolated trial-and-error. By maintaining state and historical data, the system delivers verifiable performance gains 2.5 times higher than standard coding agents.",
-            "link": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
-            "timestamp": 1781806434000,
-            "date": "2026-06-18"
         }
     ]
 }
