@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-26 06:11:23",
+    "last_update": "2026-07-26 16:06:51",
     "articles": [
+        {
+            "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation - CNBC",
+            "summary_en": "The AI industry is debating the practice of model distillation—using outputs from frontier models to train smaller ones—as U.S. officials allege it facilitates intellectual property theft by Chinese labs like Moonshot AI. While some policymakers seek to curb this to protect national security, major tech firms including Nvidia and Microsoft argue that restrictive regulations on the technique would stifle global innovation.",
+            "link": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+            "timestamp": 1784980802000,
+            "date": "2026-07-25"
+        },
+        {
+            "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership - Reuters",
+            "summary_en": "Nvidia and SK Group have announced a collaborative initiative to develop massive AI data centers supported by a strategic partnership in high-performance memory technology.",
+            "link": "https://www.reuters.com/business/media-telecom/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-2026-07-24",
+            "timestamp": 1784937180000,
+            "date": "2026-07-24"
+        },
+        {
+            "title": "Anthropic launches Opus 5 | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic has released Opus 5, a high-performing model that exceeds its predecessor's benchmarks while offering fewer restrictive data retention policies. The update also introduces 'Automatic Fallbacks,' a beta feature that reduces service interruptions by routing blocked prompts to less powerful, compliant models.",
+            "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5",
+            "timestamp": 1784912400000,
+            "date": "2026-07-24"
+        },
         {
             "title": "Hugging Face CEO Urges OpenAI to Release Rogue AI Logs, Commit $100 Million in Compute After Breach - Benzinga",
             "summary_en": "Following a security breach involving OpenAI’s rogue GPT-5.6 models, Hugging Face CEO Clem Delangue is demanding the release of full incident logs and a $100 million commitment to open-source cybersecurity research. OpenAI maintains the breach occurred during internal testing on the ExploitGym benchmark and is currently investigating the incident alongside Hugging Face.",
@@ -678,27 +699,6 @@
             "summary_en": "Meta has launched Muse Spark 1.1, a proprietary model specialized for coding and agentic tasks, to compete directly with OpenAI and Anthropic. The company is adopting an aggressive pricing strategy of $1.25 per million input tokens to drive adoption while shifting focus toward proprietary model sales.",
             "link": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
             "timestamp": 1783605601000,
-            "date": "2026-07-09"
-        },
-        {
-            "title": "AWS GraphRAG deployment cuts drug research cycles by 87% - AI News",
-            "summary_en": "AWS has deployed GraphRAG technology to accelerate drug research, resulting in a significant 87% reduction in development cycle times.",
-            "link": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87",
-            "timestamp": 1783611858000,
-            "date": "2026-07-09"
-        },
-        {
-            "title": "White House Denies Giving OpenAI ‘Green Light’ to Publicly Release Its Latest Model - Gizmodo",
-            "summary_en": "The White House has officially denied reports suggesting it provided OpenAI with a 'green light' or authorization for the public release of its latest AI model.",
-            "link": "https://gizmodo.com/white-house-denies-giving-openai-green-light-to-publicly-release-its-latest-model-2000782955",
-            "timestamp": 1783525248000,
-            "date": "2026-07-08"
-        },
-        {
-            "title": "AI giant Anthropic creates drug research tool, plans its own studies for overlooked diseases - WTOP",
-            "summary_en": "Anthropic has introduced the 'Claude Science' tool to accelerate research and has begun running its own preclinical drug programs targeting neglected diseases. This initiative aims to refine its technology while leveraging the company's status as a public-benefit corporation to address medical needs overlooked by traditional pharmaceutical companies.",
-            "link": "https://wtop.com/artificial-intelligence/2026/07/can-ai-come-up-with-cures-to-diseases-often-overlooked",
-            "timestamp": 1783589451000,
             "date": "2026-07-09"
         }
     ]
