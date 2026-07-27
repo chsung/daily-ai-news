@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-26 16:06:51",
+    "last_update": "2026-07-27 06:35:57",
     "articles": [
+        {
+            "title": "Microsoft is Accelerating its AI-First Strategy. From Infrastructure to Frontier Models, Here’s What Investors Need to Know - Barchart.com",
+            "summary_en": "Microsoft is aggressively investing $190 billion into data center infrastructure and an agent-centric computing vision to secure a leading position in the AI economy. By building a comprehensive, proprietary tech stack, the company aims to transition from app-based software to intelligent, autonomous agents that drive long-term monetization.",
+            "link": "https://www.barchart.com/story/news/2569048/microsoft-is-accelerating-its-ai-first-strategy-from-infrastructure-to-frontier-models-heres-what-investors-need-to-know",
+            "timestamp": 1781999600000,
+            "date": "2026-06-20"
+        },
+        {
+            "title": "US scientist John Jumper to leave Google DeepMind for Anthropic - Reuters",
+            "summary_en": "Prominent US scientist John Jumper is reportedly set to depart Google DeepMind to join its rival, Anthropic.",
+            "link": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
+            "timestamp": 1781907158000,
+            "date": "2026-06-19"
+        },
+        {
+            "title": "Google's AI Chip Strategy Gets More Ambitious - GuruFocus",
+            "summary_en": "Google is significantly escalating its internal AI chip strategy as part of a broader push to reduce reliance on third-party hardware.",
+            "link": "https://www.gurufocus.com/news/8924225/googles-ai-chip-strategy-gets-more-ambitious",
+            "timestamp": 1781870097000,
+            "date": "2026-06-19"
+        },
         {
             "title": "Microsoft’s AI strategy feels like a beta test — at the expense of Windows and Office - Windows Central",
             "summary_en": "Microsoft is prioritizing AI integration over its core Windows and Office business, leading to criticism that its operating system development feels like a 'beta test.' This strategic shift has caused friction, as reflected in low Windows 11 adoption rates and concerns over the company's handling of Windows 10 support.",
@@ -679,27 +700,6 @@
             "link": "https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis",
             "timestamp": 1780300632000,
             "date": "2026-06-01"
-        },
-        {
-            "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
-            "summary_en": "NVIDIA launched Cosmos 3, a unified foundation model for physical AI that integrates physical reasoning, world generation, and action generation using a Mixture-of-Transformers architecture. Available in 16B and 64B parameter versions, the model is open-sourced alongside datasets and deployment tools to accelerate development in robotics and autonomous driving.",
-            "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3",
-            "timestamp": 1780289894000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "Trump signs AI safety order seeking voluntary review of new models",
-            "summary_en": "President Trump signed an executive order requiring AI companies to voluntarily submit powerful new models for government security testing at least 30 days before public release. While avoiding mandatory licensing, the order directs agencies to develop cybersecurity benchmarks to address national security concerns regarding advanced AI.",
-            "link": "https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order",
-            "timestamp": 1780422107000,
-            "date": "2026-06-03"
-        },
-        {
-            "title": "Snowflake and Anthropic Accelerate Enterprise AI Adoption Driven by Rising Demand for Governed AI",
-            "summary_en": "Snowflake and Anthropic are deepening their strategic partnership to accelerate enterprise AI adoption by integrating Claude models directly into Snowflake Cortex AI. This collaboration allows businesses to deploy governed, production-ready AI agents on their own data without moving sensitive information outside of Snowflake's secure environment.",
-            "link": "https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai",
-            "timestamp": 1780359147000,
-            "date": "2026-06-02"
         }
     ]
 }

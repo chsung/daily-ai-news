@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-26 16:06:51",
+    "last_update": "2026-07-27 06:35:57",
     "articles": [
+        {
+            "title": "SensorFM: Towards a general intelligence and interface for wearable health data - Google Research",
+            "summary_en": "Google Research has unveiled SensorFM, a large foundation model trained on over one trillion minutes of wearable sensor data from five million participants. By utilizing a self-supervised learning framework, the model can generalize across diverse physiological conditions to support personalized, preventive health insights.",
+            "link": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+            "timestamp": 1783620011000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "Microsoft Expands AI Vulnerability Detection Across Windows - Petri IT Knowledgebase",
+            "summary_en": "Microsoft is integrating AI-powered tools, such as the MDASH scanning system, directly into the Windows security lifecycle to detect and remediate vulnerabilities more proactively. While AI accelerates the identification of flaws and suggest fixes, human experts remain responsible for final code reviews and risk assessment.",
+            "link": "https://petri.com/microsoft-ai-vulnerability-detection-windows",
+            "timestamp": 1783616423000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI - CNBC",
+            "summary_en": "Meta has launched Muse Spark 1.1, a proprietary model specialized for coding and agentic tasks, to compete directly with OpenAI and Anthropic. The company is adopting an aggressive pricing strategy of $1.25 per million input tokens to drive adoption while shifting focus toward proprietary model sales.",
+            "link": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+            "timestamp": 1783605601000,
+            "date": "2026-07-09"
+        },
         {
             "title": "AWS GraphRAG deployment cuts drug research cycles by 87% - AI News",
             "summary_en": "AWS has deployed GraphRAG technology to accelerate drug research, resulting in a significant 87% reduction in development cycle times.",
@@ -679,27 +700,6 @@
             "link": "https://www.channelnewsasia.com/commentary/anthropic-pause-ai-development-governance-adoption-6189656",
             "timestamp": 1782079200000,
             "date": "2026-06-21"
-        },
-        {
-            "title": "Microsoft is Accelerating its AI-First Strategy. From Infrastructure to Frontier Models, Here’s What Investors Need to Know - Barchart.com",
-            "summary_en": "Microsoft is aggressively investing $190 billion into data center infrastructure and an agent-centric computing vision to secure a leading position in the AI economy. By building a comprehensive, proprietary tech stack, the company aims to transition from app-based software to intelligent, autonomous agents that drive long-term monetization.",
-            "link": "https://www.barchart.com/story/news/2569048/microsoft-is-accelerating-its-ai-first-strategy-from-infrastructure-to-frontier-models-heres-what-investors-need-to-know",
-            "timestamp": 1781999600000,
-            "date": "2026-06-20"
-        },
-        {
-            "title": "US scientist John Jumper to leave Google DeepMind for Anthropic - Reuters",
-            "summary_en": "Prominent US scientist John Jumper is reportedly set to depart Google DeepMind to join its rival, Anthropic.",
-            "link": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
-            "timestamp": 1781907158000,
-            "date": "2026-06-19"
-        },
-        {
-            "title": "Google's AI Chip Strategy Gets More Ambitious - GuruFocus",
-            "summary_en": "Google is significantly escalating its internal AI chip strategy as part of a broader push to reduce reliance on third-party hardware.",
-            "link": "https://www.gurufocus.com/news/8924225/googles-ai-chip-strategy-gets-more-ambitious",
-            "timestamp": 1781870097000,
-            "date": "2026-06-19"
         }
     ]
 }
