@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-07-25 16:41:26",
+    "last_update": "2026-07-27 17:26:29",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1785171242000,
+            "date": "2026-07-27",
+            "title": "Rethinking security for the age of AI - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 AI 기반의 고속 공격에 대응하기 위해 실시간으로 위험을 인지, 추론 및 대응하는 자율형 보안 시스템 '프로젝트 퍼셉션(Project Perception)'을 공개했습니다. 이 시스템은 다중 모델 아키텍처를 통해 보안 효율성을 극대화하고 인간 전문가를 지원하는 새로운 차원의 방어 체계를 지향합니다.",
+            "summary_en": "Microsoft has introduced 'Project Perception,' an agentic security system designed to defend against AI-driven threats by continuously perceiving, reasoning, and acting at machine speed. By leveraging a multi-model architecture, it enhances defensive efficiency while empowering human security teams with proactive, automated workflows.",
+            "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785168000000,
+            "date": "2026-07-27",
+            "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+            "summary_kr": "NVIDIA가 공개한 'Ising Calibration 1.5'는 양자 프로세서 진단 데이터를 스스로 해석해 보정하는 최신 비전 언어 모델로, 효율적인 경량화와 향상된 학습 성능을 통해 양자 컴퓨팅의 자동화 운영을 가속화합니다.",
+            "summary_en": "NVIDIA's 'Ising Calibration 1.5' is an advanced vision language model that automates quantum processor calibration by interpreting diagnostic outputs, offering superior efficiency and performance on both edge and data center hardware.",
+            "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785164169000,
+            "date": "2026-07-27",
+            "title": "Fantasy Premier League Companion gives managers a new tool for success - Source EMEA",
+            "summary_kr": "프리미어리그는 Azure OpenAI와 Copilot을 활용한 'FPL 컴패니언'을 출시하여, 사용자가 공식 데이터를 바탕으로 더 나은 의사결정을 내릴 수 있도록 지원하는 AI 기반 조력자 역할을 제공합니다.",
+            "summary_en": "The Premier League has introduced the 'FPL Companion,' an AI-powered tool leveraging Azure OpenAI and Copilot to provide managers with data-driven insights and guidance for informed decision-making.",
+            "link": "https://news.microsoft.com/source/emea/features/fantasy-premier-league-companion-gives-managers-a-new-tool-for-success"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785142800000,
+            "date": "2026-07-27",
+            "title": "Six Agent Harness Capabilities for Higher Model Performance",
+            "summary_kr": "엔비디아의 NOOA 프레임워크는 AI 에이전트를 객체 지향 프로그래밍 방식으로 설계하여, 모델 성능을 최적화하고 에이전트 개발을 표준 소프트웨어 공학의 영역으로 통합합니다.",
+            "summary_en": "NVIDIA’s NOOA framework treats AI agents as objects, enabling optimized performance through architectural design and integrating agent development into standard, testable software engineering practices.",
+            "link": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785123000000,
+            "date": "2026-07-27",
+            "title": "How AI is expanding what people do at work",
+            "summary_kr": "OpenAI의 연구 결과, AI는 사용자가 자신의 직무 범위를 넘어 타 직종의 업무를 직접 수행하게 함으로써 전통적인 업무 분장을 재편하고 있습니다.",
+            "summary_en": "OpenAI's research reveals that AI is reshaping traditional work boundaries by enabling employees to perform tasks typically associated with other occupations, effectively expanding their functional roles.",
+            "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785113100000,
+            "date": "2026-07-27",
+            "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
+            "summary_kr": "NVIDIA Nemotron 3 Ultra는 ACE-RTL 에이전트와 결합하여 하드웨어 설계의 복잡한 반복 작업을 완벽하게 수행하며, 업계 표준인 CVDP 벤치마크에서 최고 수준의 정확도와 효율성을 입증했습니다.",
+            "summary_en": "NVIDIA Nemotron 3 Ultra, when integrated with the ACE-RTL agent, achieves industry-leading accuracy and efficiency in complex hardware design tasks, demonstrating a 100% success rate on the CVDP benchmark.",
+            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785113100000,
+            "date": "2026-07-27",
+            "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
+            "summary_kr": "어플라이드 머티어리얼즈와 엔비디아는 AI 워크로드 급증에 대응해 원자 단위 시뮬레이션부터 공정 최적화까지 아우르는 디지털 개발 모델을 구축, 반도체 혁신 속도를 획기적으로 가속화하고 있습니다.",
+            "summary_en": "Applied Materials and NVIDIA are accelerating semiconductor innovation by integrating materials engineering with AI-driven digital twins and GPU-accelerated simulations, enabling faster atomic-scale discovery and fab optimization.",
+            "link": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1785110400000,
+            "date": "2026-07-27",
+            "title": "Expanding our partnership with Cognizant | Anthropic",
+            "summary_kr": "앤스로픽과 코그니전트가 파트너십을 확장하여 코그니전트의 엔터프라이즈 플랫폼에 클로드(Claude)를 내재화하고, 전문 인력을 양성하여 전 세계 기업 고객의 실질적인 AI 도입과 생산성 혁신을 가속화합니다.",
+            "summary_en": "Anthropic and Cognizant have expanded their partnership to integrate Claude into Cognizant’s enterprise platforms and scale a certified workforce, accelerating practical AI deployment and productivity for global enterprise clients.",
+            "link": "https://www.anthropic.com/news/cognizant-anthropic"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1785110400000,
+            "date": "2026-07-27",
+            "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+            "summary_kr": "피츠버그 대학의 HERL은 메타의 오픈소스 AI 모델(DINO, SAM)을 통합한 차세대 로봇 플랫폼 RAMMP를 통해 장애인을 위한 더욱 안전하고 직관적인 보조 공학 기술을 개발하고 있습니다.",
+            "summary_en": "The University of Pittsburgh's HERL is developing RAMMP, a next-generation robotic platform that integrates Meta’s open-source AI models to provide safer and more intuitive assistive technology for individuals with disabilities.",
+            "link": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino"
+        },
         {
             "company": "xAI",
             "timestamp": 1784851200000,
@@ -819,87 +900,6 @@
             "summary_kr": "앤스로픽은 사용자가 클로드(Claude) 활용 패턴을 분석하고 AI와 인간의 업무 경계를 정립하도록 돕는 '리플렉션(Reflection)' 대시보드 기능을 베타 출시했습니다.",
             "summary_en": "Anthropic has launched a beta 'Reflection' dashboard that helps users analyze their interaction patterns with Claude to optimize AI usage and define clear boundaries between human and AI tasks.",
             "link": "https://www.anthropic.com/news/reflect-with-claude"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "Introducing Muse Spark 1.1",
-            "summary_kr": "메타가 공개한 'Muse Spark 1.1'은 에이전트 작업, 컴퓨터 제어, 코딩 성능을 대폭 강화한 멀티모달 추론 모델로, 복잡한 업무를 스스로 계획하고 실행하는 개인용 초지능 구현에 한 걸음 다가섰습니다.",
-            "summary_en": "Meta's new 'Muse Spark 1.1' is a multimodal reasoning model that significantly enhances agentic tasks, computer use, and coding capabilities, advancing the vision of personal superintelligence by efficiently orchestrating complex workflows.",
-            "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783533693000,
-            "date": "2026-07-08",
-            "title": "6 key takeaways from ISTE 2026: How educators are applying AI in the classroom | Microsoft Education Blog",
-            "summary_kr": "ISTELive 2026에서 마이크로소프트는 교육 현장의 AI 활용이 단순한 실험 단계를 넘어, 실질적인 학습 효과와 교육적 성과를 도출하는 체계적이고 책임 있는 단계로 진화하고 있음을 강조했습니다.",
-            "summary_en": "At ISTELive 2026, Microsoft emphasized that AI in education is shifting from early experimentation to measurable, system-wide practical application, supported by research-backed tools and a strong focus on educator community and AI literacy.",
-            "link": "https://www.microsoft.com/en-us/education/blog/2026/07/6-key-takeaways-from-iste-2026-how-educators-are-applying-ai-in-the-classroom"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783517400000,
-            "date": "2026-07-08",
-            "title": "Our approach to government and national security partnerships",
-            "summary_kr": "OpenAI는 민주적 가치와 책임성을 준수하며 국가 안보와 공공 안전에 AI를 활용하기 위한 공식적인 '국가 안보 원칙'을 발표했습니다. 이 원칙은 향후 동맹국과의 사이버 및 생물 보안 협력을 강화하는 가이드라인 역할을 할 것입니다.",
-            "summary_en": "OpenAI has introduced its 'National Security Principles' to ensure the responsible use of AI in national security while upholding democratic accountability. These principles serve as a framework for expanding collaborations with government and allied partners in areas such as cyber and biosecurity.",
-            "link": "https://openai.com/index/government-national-security-partnerships"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783515600000,
-            "date": "2026-07-08",
-            "title": "Separating signal from noise in coding evaluations",
-            "summary_kr": "SWE-Bench Pro에 대한 정밀 조사 결과, 약 30%의 작업이 불완전한 테스트와 모호한 요구사항 등 설계상의 결함을 안고 있는 것으로 나타났습니다. 이번 연구는 AI 성능 평가 지표의 신뢰성을 확보하기 위해 엄격한 데이터 품질 검증과 인간-AI 협업 기반의 분석이 필수적임을 시사합니다.",
-            "summary_en": "An audit of SWE-Bench Pro revealed that approximately 30% of its tasks are flawed due to faulty test designs and underspecified prompts, misrepresenting actual model capabilities. This highlights the urgent need for rigorous, AI-assisted data quality assurance to ensure reliable benchmarking in AI development.",
-            "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783468800000,
-            "date": "2026-07-08",
-            "title": "An off switch for dual use knowledge in AI models",
-            "summary_kr": "앤스로픽과 AE 스튜디오가 개발한 'GRAM' 기술은 AI 모델의 이중 용도 지식을 별도의 탈착식 모듈에 격리하여, 전체 모델 재학습 없이도 특정 기능을 정밀하게 제어할 수 있는 효율적인 안전장치를 제공합니다.",
-            "summary_en": "Anthropic and AE Studio's 'GRAM' technology isolates dual-use knowledge into removable, modular compartments, enabling precise control over specific model capabilities without the need for costly full-model retraining.",
-            "link": "https://www.anthropic.com/research/off-switch-dual-use"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1783468800000,
-            "date": "2026-07-08",
-            "title": "Introducing Grok 4.5",
-            "summary_kr": "SpaceXAI가 출시한 Grok 4.5는 코딩, 에이전트 작업, 지식 업무에 최적화된 고효율 모델로, 경쟁 모델 대비 두 배 높은 토큰 효율성과 합리적인 가격을 통해 압도적인 성능을 제공합니다.",
-            "summary_en": "SpaceXAI's new Grok 4.5 is a highly efficient model optimized for coding, agentic tasks, and knowledge work, delivering superior reasoning performance at half the cost and double the token efficiency of leading competitors.",
-            "link": "https://x.ai/news/grok-4-5"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783526725000,
-            "date": "2026-07-08",
-            "title": "Running Low-Latency Analytical Workloads with GPU-Accelerated Presto on NVIDIA GB200 NVL72",
-            "summary_kr": "NVIDIA GB200 NVL72 환경에서 GPU 가속 Presto는 cuDF와 NVLink를 활용해 CPU 기반 클러스터 대비 최대 8배 이상 빠른 분석 쿼리 성능을 구현합니다.",
-            "summary_en": "GPU-accelerated Presto on NVIDIA GB200 NVL72 leverages cuDF and NVLink to deliver up to 8x faster analytical query performance compared to traditional CPU-based clusters.",
-            "link": "https://developer.nvidia.com/blog/running-low-latency-analytical-workloads-with-gpu-accelerated-presto-on-nvidia-gb200-nvl72"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783526400000,
-            "date": "2026-07-08",
-            "title": "AI can generate Charts. Flint helps generate better ones.",
-            "summary_kr": "Flint는 데이터의 의미론적 유형을 활용해 AI가 간결한 명세만으로도 시각적으로 완성도 높은 차트를 생성할 수 있게 돕는 중간 언어이자 프레임워크입니다.",
-            "summary_en": "Flint is an intermediate language and framework that leverages semantic data types to enable AI agents to reliably generate polished, expressive charts from compact specifications.",
-            "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783522800000,
-            "date": "2026-07-08",
-            "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
-            "summary_kr": "LangChain Deep Agents 하네스 프로파일을 활용해 NVIDIA Nemotron 3 Ultra 모델의 성능을 최적화함으로써, 비용 효율적으로 고성능 모델에 준하는 에이전트 작업 수행 능력을 확보하는 방법을 제시합니다.",
-            "summary_en": "This guide demonstrates how to optimize NVIDIA Nemotron 3 Ultra performance using LangChain Deep Agents harness profiles, enabling cost-effective, high-accuracy agent workflows that rival frontier models.",
-            "link": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance"
         }
     ]
 }
