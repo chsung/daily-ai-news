@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-27 06:35:57",
+    "last_update": "2026-07-27 17:03:37",
     "articles": [
+        {
+            "title": "Alibaba Scientific AI Model Beats Microsoft at Science Using One Grammar - Tech Times",
+            "summary_en": "Alibaba’s new open-source scientific model, LOGOS, uses a unified vocabulary to process proteins, molecules, and materials as a single language. Its smallest 1-billion parameter variant outperformed Microsoft’s much larger NatureLM model by eliminating the need for complex fine-tuning across various scientific tasks.",
+            "link": "https://www.techtimes.com/articles/318814/20260621/alibaba-scientific-ai-model-beats-microsoft-science-using-one-grammar.htm",
+            "timestamp": 1782100695000,
+            "date": "2026-06-22"
+        },
+        {
+            "title": "DICT and Google Cloud Partner on Multi-Year AI and Cybersecurity Initiatives to Deliver Next-Generation Citizen Services - Google Cloud Press Corner",
+            "summary_en": "The Philippines' Department of Information and Communications Technology has partnered with Google Cloud to integrate Gemini Enterprise and AI agents into public sector workflows. This multi-year initiative aims to streamline citizen services and increase productivity for over 50,000 public servants by automating bureaucratic tasks through secure, government-wide platforms.",
+            "link": "https://www.googlecloudpresscorner.com/2026-06-21-DICT-and-Google-Cloud-Partner-on-Multi-Year-AI-and-Cybersecurity-Initiatives-to-Deliver-Next-Generation-Citizen-Services",
+            "timestamp": 1782097456000,
+            "date": "2026-06-22"
+        },
+        {
+            "title": "Commentary: Anthropic’s call for AI development pause deserves attention. It also raises questions - CNA",
+            "summary_en": "Anthropic has urged a global pause on frontier AI development to prevent the risks of autonomous recursive self-improvement outpacing human oversight. However, critics argue the proposal lacks concrete exit criteria and faces significant enforcement hurdles due to intense geopolitical competition and the difficulty of verifying compliance in AI research.",
+            "link": "https://www.channelnewsasia.com/commentary/anthropic-pause-ai-development-governance-adoption-6189656",
+            "timestamp": 1782079200000,
+            "date": "2026-06-21"
+        },
         {
             "title": "Microsoft is Accelerating its AI-First Strategy. From Infrastructure to Frontier Models, Here’s What Investors Need to Know - Barchart.com",
             "summary_en": "Microsoft is aggressively investing $190 billion into data center infrastructure and an agent-centric computing vision to secure a leading position in the AI economy. By building a comprehensive, proprietary tech stack, the company aims to transition from app-based software to intelligent, autonomous agents that drive long-term monetization.",
@@ -679,27 +700,6 @@
             "link": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices",
             "timestamp": 1780427255000,
             "date": "2026-06-02"
-        },
-        {
-            "title": "OpenAI Models on Amazon Bedrock: OpenAI models GPT-5.5 and GPT-5.4—and Codex—now on Amazon Bedrock",
-            "summary_en": "Amazon has officially integrated OpenAI's GPT-5.5, GPT-5.4, and Codex models into Amazon Bedrock, providing enterprise users with unified security, governance, and consistent pricing. Customers can now apply their usage of these models directly toward existing AWS cloud commitments.",
-            "link": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
-            "timestamp": 1780297200000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "OpenAI models and Codex on Amazon Bedrock are now generally available | Amazon Web Services",
-            "summary_en": "Amazon Bedrock now provides general availability of OpenAI's GPT-5.5, GPT-5.4, and Codex models, allowing enterprises to utilize these frontier tools with the same pricing as direct OpenAI rates. The integration leverages Bedrock’s secure inference engine to provide isolated, high-performance environments with built-in data governance and audit logging.",
-            "link": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available",
-            "timestamp": 1780349472000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
-            "summary_en": "NVIDIA has introduced Alpamayo 2 Super, a 32-billion-parameter reasoning model designed to enhance level 4 autonomous vehicle development by enabling humanlike perception and 360-degree situational awareness. The release includes a suite of new simulation and training tools, such as AlpaGym and OmniDreams, to facilitate safer, closed-loop testing for robotaxis.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis",
-            "timestamp": 1780300632000,
-            "date": "2026-06-01"
         }
     ]
 }
