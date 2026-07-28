@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-07-27 17:26:29",
+    "last_update": "2026-07-28 17:15:16",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1781740800000,
+            "date": "2026-06-18",
+            "title": "Grok for Word",
+            "summary_kr": "마이크로소프트 워드용 'Grok' 애드인이 출시되어, 웹 검색과 문서 자동 작성 및 편집 기능을 통해 문서 작업의 생산성을 획기적으로 향상시킵니다.",
+            "summary_en": "The new Grok add-in for Microsoft Word boosts productivity by enabling seamless web research, automated drafting, and intelligent document editing.",
+            "link": "https://x.ai/news/introducing-word-addin"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781780400000,
+            "date": "2026-06-18",
+            "title": "Improving health intelligence in ChatGPT",
+            "summary_kr": "OpenAI는 의사들의 전문적인 평가와 피드백을 통해 헬스케어 인텔리전스를 대폭 강화한 'GPT-5.5 Instant'를 공개했으며, 이를 통해 의료 정보의 정확성과 안전성을 높여 무료 사용자들에게 제공합니다.",
+            "summary_en": "OpenAI has unveiled 'GPT-5.5 Instant,' which significantly enhances health intelligence through physician-led evaluations, offering improved accuracy and safety for medical guidance to all free users.",
+            "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781769600000,
+            "date": "2026-06-18",
+            "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+            "summary_kr": "OpenAI의 추론 모델을 활용해 미진단 희귀 질환 사례 376건을 재분석한 결과, 전문의 검토를 거쳐 18건의 새로운 진단을 이끌어내며 AI 기반 재분석의 임상적 유효성을 입증했습니다.",
+            "summary_en": "Researchers utilized OpenAI’s reasoning model to reanalyze 376 previously unsolved rare disease cases, successfully identifying 18 new diagnoses and demonstrating the potential for AI-assisted clinical workflows to enhance diagnostic yields.",
+            "link": "https://openai.com/index/diagnose-rare-childhood-diseases"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1781740800000,
+            "date": "2026-06-18",
+            "title": "Claude Code now supports artifacts",
+            "summary_kr": "Claude Code가 작업 세션을 실시간으로 업데이트되는 대화형 웹 페이지 형태의 '아티팩트'로 시각화하여 팀 간 공유 및 협업 효율을 대폭 개선합니다.",
+            "summary_en": "Claude Code now supports 'Artifacts,' allowing developers to visualize and share live, interactive work sessions as web pages to streamline team collaboration and status updates.",
+            "link": "https://claude.com/blog/artifacts-in-claude-code"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1781740800000,
+            "date": "2026-06-18",
+            "title": "Project Fetch: Phase two",
+            "summary_kr": "앤스로픽의 최신 모델인 Claude Opus 4.7은 로봇 제어 실험에서 인간 팀보다 최대 20배 이상 빠르게 작업을 수행하며, AI가 물리적 세계의 복잡한 과제를 자율적으로 해결하는 역량이 급격히 발전했음을 입증했습니다.",
+            "summary_en": "Anthropic's latest model, Claude Opus 4.7, outperformed human teams by over 20 times in robotic control tasks, demonstrating that AI is rapidly advancing in its ability to autonomously execute complex physical-world operations.",
+            "link": "https://www.anthropic.com/research/project-fetch-phase-two"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1781740800000,
+            "date": "2026-06-18",
+            "title": "Grok on Databricks",
+            "summary_kr": "데이터브릭스가 '에이전트 브릭스(Agent Bricks)' 플랫폼에 그록(Grok) 모델을 통합하여, 기업들이 대규모 데이터 환경에서 최첨단 AI 에이전트를 더욱 효율적으로 구축할 수 있게 되었습니다.",
+            "summary_en": "Databricks has integrated Grok models into its Agent Bricks platform, enabling enterprises to build sophisticated AI agents directly where their data resides.",
+            "link": "https://x.ai/news/grok-databricks"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781721373000,
+            "date": "2026-06-17",
+            "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
+            "summary_kr": "AI로 인해 사이버 공격의 속도와 규모가 정교해짐에 따라, 마이크로소프트는 파편화된 보안 체계를 통합하여 ID 위협에 실시간으로 대응하는 통합 보안 전략을 강조하고 있습니다.",
+            "summary_en": "As AI accelerates the scale and speed of cyberattacks, Microsoft is emphasizing the need for unified identity security to provide real-time, integrated responses to threats across fragmented operational silos.",
+            "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781654400000,
+            "date": "2026-06-17",
+            "title": "Introducing LifeSciBench",
+            "summary_kr": "LifeSciBench는 실제 생명과학 연구 현장의 복잡성을 반영하기 위해 박사급 전문가들이 설계한 벤치마크로, AI 모델의 실질적인 연구 지원 능력을 평가합니다.",
+            "summary_en": "LifeSciBench is an expert-designed benchmark that evaluates the ability of AI systems to handle the complexities of real-world life science research by utilizing tasks crafted by Ph.D.-level scientists.",
+            "link": "https://openai.com/index/introducing-life-sci-bench"
+        },
         {
             "company": "xAI",
             "timestamp": 1781654400000,
@@ -828,78 +900,6 @@
             "summary_kr": "앤스로픽의 Claude Cowork은 단순 질의응답을 넘어 파일과 앱을 연동해 복합적인 업무를 자동 수행하는 에이전트 환경으로, 사용자가 결과물을 정의하고 위임하는 방식의 업무 최적화를 지원합니다.",
             "summary_en": "Claude Cowork moves beyond simple chat-based Q&A by acting as an agent that integrates with files and apps to automate multi-step workflows, allowing users to delegate entire tasks and deliver finished results.",
             "link": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Running an AI-native engineering org",
-            "summary_kr": "AI 에이전트 기반 코딩이 주류가 된 엔지니어링 조직에서는 기존의 비효율적인 계획과 프로세스를 탈피하고, 인간의 역할을 단순 코딩에서 검증·보안·의사결정 등 고차원적 전문성 중심으로 재편해야 합니다.",
-            "summary_en": "As agentic coding becomes the standard, engineering organizations must move away from legacy planning and manual processes, shifting human focus from routine coding to high-level expertise in verification, security, and strategic decision-making.",
-            "link": "https://claude.com/blog/running-an-ai-native-engineering-org"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780426800000,
-            "date": "2026-06-02",
-            "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
-            "summary_kr": "마이크로소프트와 엔비디아는 윈도우 환경에서 안전하고 강력한 개인용 AI 에이전트를 개발 및 실행할 수 있도록 보안 프레임워크와 전용 하드웨어, 최적화된 도구들을 통합 발표했습니다.",
-            "summary_en": "Microsoft and NVIDIA have partnered to accelerate personal AI agent development by introducing robust security frameworks, dedicated hardware, and optimized tools for the Windows platform.",
-            "link": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780416000000,
-            "date": "2026-06-02",
-            "title": "Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA NemoClaw",
-            "summary_kr": "NVIDIA NemoClaw와 Hermes Agent는 안전한 샌드박스 환경에서 내부 및 외부 데이터를 통합하여 자가 학습하고 효율적으로 연구를 수행하는 AI 에이전트 구축 솔루션을 제공합니다.",
-            "summary_en": "NVIDIA NemoClaw and Hermes Agent provide a secure, sandbox-based solution for deploying self-evolving AI agents that synthesize internal and public data to accelerate research.",
-            "link": "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780401600000,
-            "date": "2026-06-02",
-            "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-            "summary_kr": "보험사 트래블러스(Travelers)는 오픈AI의 실시간 음성 API를 활용한 'AI 클레임 어시스턴트'를 전국에 도입해, 고객의 보험금 청구 완료율을 90%까지 끌어올리며 운영 효율성을 대폭 개선했습니다.",
-            "summary_en": "Travelers has successfully deployed an AI Claim Assistant powered by OpenAI’s real-time models nationwide, achieving a 90% claim completion rate and significantly improving operational scalability.",
-            "link": "https://openai.com/index/travelers"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780390800000,
-            "date": "2026-06-02",
-            "title": "Codex for every role, tool, and workflow",
-            "summary_kr": "Codex는 소프트웨어 개발을 넘어 비개발 직군으로 사용자가 급증함에 따라, 업무 도구와 연동되는 맞춤형 플러그인과 인터랙티브 기능 등을 도입하여 업무 생산성 플랫폼으로 진화하고 있습니다.",
-            "summary_en": "Codex is evolving into a comprehensive productivity platform by introducing role-specific plugins and interactive tools that integrate seamlessly with various workflows, catering to its rapidly growing non-developer user base.",
-            "link": "https://openai.com/index/codex-for-every-role-tool-workflow"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780383600000,
-            "date": "2026-06-02",
-            "title": "Advancing youth safety and opportunity through global leadership",
-            "summary_kr": "OpenAI는 청소년을 위한 안전한 AI 환경 조성을 위해 G7 정상회의에서 국제 청소년 AI 안전 연구소 설립을 제안하며, 기업의 책임 있는 안전 가이드라인 준수를 촉구했습니다.",
-            "summary_en": "OpenAI is advocating for the establishment of an international youth AI safety institute at the G7 Summit to foster a secure digital environment and is calling for industry-wide adoption of robust, age-appropriate safety standards.",
-            "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1780365600000,
-            "date": "2026-06-02",
-            "title": "Codex is becoming a productivity tool for everyone",
-            "summary_kr": "OpenAI의 Codex가 단순한 코딩 도구를 넘어 지식 노동자의 업무 자동화와 효율성을 극대화하는 범용 생산성 도구로 진화하며 업무 방식의 근본적인 변화를 주도하고 있습니다.",
-            "summary_en": "OpenAI's Codex is evolving from a specialized coding tool into a universal productivity platform, significantly boosting efficiency and automating routine tasks for knowledge workers across diverse industries.",
-            "link": "https://openai.com/index/codex-for-knowledge-work"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1780365600000,
-            "date": "2026-06-02",
-            "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
-            "summary_kr": "엔비디아 JetPack 7.2는 NemoClaw를 통한 에이전트형 AI 배포와 맞춤형 'Jetson 에이전트 스킬'을 도입하여, 엣지 환경에서 개발 효율성을 극대화하고 하드웨어 성능을 최적화합니다.",
-            "summary_en": "NVIDIA JetPack 7.2 enables agentic AI deployment via NemoClaw and introduces 'Jetson agent skills' to automate development workflows, significantly boosting efficiency and performance for edge AI applications.",
-            "link": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2"
         }
     ]
 }

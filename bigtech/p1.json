@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-07-27 17:26:29",
+    "last_update": "2026-07-28 17:15:16",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1785258000000,
+            "date": "2026-07-28",
+            "title": "Scientific computing in the age of agentic AI",
+            "summary_kr": "AI 코딩 에이전트는 과학적 소프트웨어의 개발과 유지보수 효율을 획기적으로 높여 연구자들이 기술적 구현보다 과학적 발견에 집중할 수 있는 환경을 조성하고 있습니다. 다만, 에이전트 결과물의 과학적 타당성을 검증하는 인간의 전문적 판단과 정교한 피드백 루프는 여전히 필수적인 성공 요소입니다.",
+            "summary_en": "AI coding agents are revolutionizing scientific computing by accelerating software development and maintenance, allowing researchers to shift their focus from implementation to scientific discovery. While these agents boost velocity, rigorous human validation and iterative feedback remain critical to ensuring the scientific integrity of the outputs.",
+            "link": "https://openai.com/index/scientific-computing-agentic-ai"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785256277000,
+            "date": "2026-07-28",
+            "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 기업들이 AI 실험 단계를 넘어, 자체 데이터와 에이전트 워크플로우를 활용해 비즈니스 핵심에 AI를 내재화하는 '프런티어 트랜스포메이션(Frontier Transformation)' 시대로 진입했다고 평가했습니다.",
+            "summary_en": "Microsoft highlights the shift to 'Frontier Transformation,' where businesses are moving beyond AI experimentation to embed agentic workflows and secure intelligence platforms into their core operations for measurable outcomes.",
+            "link": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1785255300000,
+            "date": "2026-07-28",
+            "title": "How Gemini Flash agents are helping a Michigan dairy farmer",
+            "summary_kr": "미시간주의 낙농가는 Gemini 3.6 Flash 기반의 멀티 에이전트 시스템을 도입하여 파편화된 농장 데이터를 자동 통합하고 분석함으로써, 운영 효율성을 높이고 데이터 관리 비용을 획기적으로 절감했습니다.",
+            "summary_en": "A Michigan dairy farmer implemented a multi-agent system powered by Gemini 3.6 Flash to automate the integration and analysis of siloed farm data, significantly improving operational efficiency and reducing costs.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1785200400000,
+            "date": "2026-07-28",
+            "title": "Google and KDDI are ready to back Japanese startups.",
+            "summary_kr": "구글과 KDDI가 일본의 AI 스타트업 육성을 위해 자본 투자, 최신 AI 모델 접근 권한, 클라우드 컴퓨팅 및 기술 지원을 제공하는 파트너십 프로그램을 출범합니다.",
+            "summary_en": "Google and KDDI have launched a joint support program to accelerate Japanese AI startups through equity funding, early access to advanced AI models, and specialized technical infrastructure.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1785196800000,
+            "date": "2026-07-28",
+            "title": "Cryptanalysis with language models",
+            "summary_kr": "앤스로픽의 AI 모델인 Claude Mythos가 HAWK 디지털 서명 및 AES 암호 알고리즘의 취약점을 발견하며, AI가 인간 전문가의 검증을 넘어 암호학 연구를 가속화할 잠재력을 입증했습니다.",
+            "summary_en": "Anthropic's Claude Mythos model has identified vulnerabilities in the HAWK digital signature scheme and AES cipher, demonstrating AI's potential to surpass human expert review and advance cryptographic research.",
+            "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1785196800000,
+            "date": "2026-07-28",
+            "title": "Introducing Build Mode",
+            "summary_kr": "Grok이 코드 작성 없이 대화만으로 웹사이트, 앱, 게임 등을 즉시 구축하고 공유할 수 있는 '빌드 모드(Build Mode)'를 슈퍼그록 헤비 구독자 대상 얼리 베타로 출시했습니다.",
+            "summary_en": "Grok has launched 'Build Mode' in early beta for SuperGrok Heavy subscribers, enabling users to create and publish functional websites, apps, and games directly through conversational prompts without manual coding.",
+            "link": "https://x.ai/news/grok-build-mode"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785169977000,
+            "date": "2026-07-27",
+            "title": "Introducing MAI-Cyber-1-Flash inside MDASH | Microsoft AI",
+            "summary_kr": "마이크로소프트는 고성능 보안 모델 'MAI-Cyber-1-Flash'를 자사 멀티 에이전트 플랫폼 MDASH에 통합하여, 기존 대비 비용을 50% 절감하면서도 업계 최고 수준의 취약점 탐지 및 해결 성능을 구현했습니다.",
+            "summary_en": "Microsoft has integrated its high-performance 'MAI-Cyber-1-Flash' model into the MDASH platform, delivering industry-leading vulnerability detection and remediation at 50% of the cost of previous solutions.",
+            "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1785110400000,
+            "date": "2026-07-27",
+            "title": "Our position on open-weights models",
+            "summary_kr": "앤스로픽의 CEO 다리오 아모데이는 오픈 웨이트 모델 자체에 대한 금지보다는 첨단 칩 수출 통제와 기술 유출 방지가 국가 안보를 위한 가장 효과적인 대응책이라고 강조했습니다.",
+            "summary_en": "Anthropic CEO Dario Amodei clarifies that he does not support banning open-weights models, arguing instead that restricting high-end chip access and preventing industrial-scale distillation are the most effective strategies for national security.",
+            "link": "https://www.anthropic.com/news/position-open-weights-models"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1785171242000,
@@ -828,78 +900,6 @@
             "summary_kr": "GROMACS에서 CPU 중심의 MPI 통신으로 인해 발생하는 GPU 병목 현상을 NVSHMEM 기반의 GPU 직접 통신으로 대체하여 연산과 통신을 최적화하고 확장성을 극대화하는 방안을 제시합니다.",
             "summary_en": "This article presents a strategy to enhance GROMACS scalability by replacing CPU-orchestrated MPI with NVSHMEM-based GPU-native communication, effectively eliminating bottlenecks and enabling seamless overlap of computation and communication.",
             "link": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783615582000,
-            "date": "2026-07-09",
-            "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications - Microsoft Research",
-            "summary_kr": "마이크로소프트가 공개한 'Aurora 1.5'는 22개의 기상 변수 추가와 시간별 예측, 확률적 앙상블 기능을 도입하여 기상 및 지구 시스템 예측의 실용성과 정밀도를 대폭 향상한 개방형 파운데이션 모델입니다.",
-            "summary_en": "Microsoft's Aurora 1.5 is an enhanced open foundation model for Earth-system forecasting that introduces 22 new variables, hourly temporal resolution, and probabilistic ensemble capabilities to support practical, enterprise-grade weather intelligence.",
-            "link": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783606227000,
-            "date": "2026-07-09",
-            "title": "How Commonwealth Bank and Microsoft are reimagining the future of customer service - Source Asia",
-            "summary_kr": "커먼웰스 은행은 마이크로소프트와 협력하여 여러 레거시 시스템을 통합한 AI 오케스트레이션 플랫폼을 구축, 고객 의도를 분석해 AI와 상담원을 최적으로 연결하는 옴니채널 고객 서비스를 구현했습니다.",
-            "summary_en": "Commonwealth Bank partnered with Microsoft to build an AI-powered orchestration platform that integrates legacy systems and dynamically routes customer inquiries to the most appropriate AI or human resource, enhancing service efficiency and personalization.",
-            "link": "https://news.microsoft.com/source/asia/features/how-commonwealth-bank-and-microsoft-are-reimagining-the-future-of-customer-service"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783591200000,
-            "date": "2026-07-09",
-            "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-            "summary_kr": "GPT-5.6 시리즈는 독보적인 추론 능력과 비용 효율성을 바탕으로 코딩 및 에이전트 작업에서 업계 최고 수준의 성능을 구현하며 AI의 실용적 활용 범위를 대폭 확장했습니다.",
-            "summary_en": "The GPT-5.6 series sets a new industry benchmark for intelligence and cost-efficiency, significantly expanding the practical utility of AI in complex coding and agentic workflows.",
-            "link": "https://openai.com/index/gpt-5-6"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783591200000,
-            "date": "2026-07-09",
-            "title": "ChatGPT is now a partner for your most ambitious work",
-            "summary_kr": "OpenAI는 최신 모델 GPT-5.6과 코덱스(Codex) 기술을 기반으로, 앱과 파일을 연동하여 복잡한 업무를 독립적으로 완수하는 AI 에이전트 'ChatGPT Work'를 출시했습니다.",
-            "summary_en": "OpenAI has launched 'ChatGPT Work,' an AI agent powered by GPT-5.6 and Codex that autonomously executes complex, multi-step workflows across various apps and files.",
-            "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783591200000,
-            "date": "2026-07-09",
-            "title": "OpenAI Bio Bug Bounty",
-            "summary_kr": "OpenAI는 생물학적 위험 방지를 강화하기 위해 'Bio Bounty Program'을 상설화하고, GPT-5.6 및 GPT-5.5의 범용 탈옥 취약점 신고 보상금을 최대 5만 달러로 인상했습니다.",
-            "summary_en": "OpenAI is transitioning its bio-risk bug bounty into an ongoing program, doubling the rewards for universal jailbreak discoveries in GPT-5.5 and GPT-5.6 to $50,000.",
-            "link": "https://openai.com/index/bio-bug-bounty"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "Inviting hard questions",
-            "summary_kr": "앤스로픽은 AI 기술에 대한 대중의 기대와 우려를 적극적으로 수용하고 투명하게 소통하기 위해 '난제 제안(Hard Questions)' 이니셔티브를 시작하며, 이를 통해 공익을 위한 AI 개발의 책임과 실천 의지를 강화하고 있습니다.",
-            "summary_en": "Anthropic is launching a 'Hard Questions' initiative to actively address public hopes and concerns about AI, reaffirming its commitment to transparent, responsible, and public-benefit-driven AI development.",
-            "link": "https://www.anthropic.com/news/hard-questions"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-            "summary_kr": "전 연준 의장이자 노벨 경제학상 수상자인 벤 버냉키가 앤스로픽의 장기적 혜택 신탁(LTBT) 위원으로 합류하여, AI가 경제와 노동 시장에 미칠 영향을 관리하고 기업의 책임 있는 AI 개발을 감독하게 됩니다.",
-            "summary_en": "Former Fed Chair and Nobel laureate Ben Bernanke has joined Anthropic’s Long-Term Benefit Trust to provide oversight on the societal and economic impacts of AI, ensuring the company’s development remains aligned with its mission for long-term human benefit.",
-            "link": "https://www.anthropic.com/news/ben-bernanke"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "A new way to reflect on how you use Claude",
-            "summary_kr": "앤스로픽은 사용자가 클로드(Claude) 활용 패턴을 분석하고 AI와 인간의 업무 경계를 정립하도록 돕는 '리플렉션(Reflection)' 대시보드 기능을 베타 출시했습니다.",
-            "summary_en": "Anthropic has launched a beta 'Reflection' dashboard that helps users analyze their interaction patterns with Claude to optimize AI usage and define clear boundaries between human and AI tasks.",
-            "link": "https://www.anthropic.com/news/reflect-with-claude"
         }
     ]
 }
