@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-27 17:03:37",
+    "last_update": "2026-07-28 05:53:03",
     "articles": [
+        {
+            "title": "Google Invests in A24 to Develop AI-Powered Filmmaking Tools - Variety",
+            "summary_en": "A24 has partnered with Google DeepMind in a $75 million deal to develop AI-powered filmmaking tools that prioritize creative control over automation. The collaboration focuses on building workflows for storyboarding and production rather than generating content, distinguishing it from other industry efforts to replace human input.",
+            "link": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297",
+            "timestamp": 1782142020000,
+            "date": "2026-06-22"
+        },
+        {
+            "title": "Nvidia gets all agentic about supercomputing for scientific research - The Register",
+            "summary_en": "The provided article text focuses on industry commentary regarding AI governance and various cybersecurity reports rather than outlining specific news about Nvidia's supercomputing projects. It highlights diverse issues ranging from database management trends to security vulnerabilities in third-party software platforms.",
+            "link": "https://www.theregister.com/systems/2026/06/22/nvidia-gets-all-agentic-about-supercomputing-for-scientific-research/5259553",
+            "timestamp": 1782152100000,
+            "date": "2026-06-22"
+        },
+        {
+            "title": "Fervo, NVIDIA and PNNL back AI twin for geothermal wells - Stock Titan",
+            "summary_en": "Fervo Energy, NVIDIA, and the Pacific Northwest National Laboratory are collaborating to build EGS-Twin, a digital twin platform for Enhanced Geothermal Systems. Scheduled for implementation by 2029, the system will use real-time data and AI-driven forecasting to optimize subsurface energy production.",
+            "link": "https://www.stocktitan.net/news/FRVO/fervo-energy-and-pnnl-leverage-ai-and-nvidia-accelerated-computing-77gfhu4njuk7.html",
+            "timestamp": 1782122700000,
+            "date": "2026-06-22"
+        },
         {
             "title": "Alibaba Scientific AI Model Beats Microsoft at Science Using One Grammar - Tech Times",
             "summary_en": "Alibaba’s new open-source scientific model, LOGOS, uses a unified vocabulary to process proteins, molecules, and materials as a single language. Its smallest 1-billion parameter variant outperformed Microsoft’s much larger NatureLM model by eliminating the need for complex fine-tuning across various scientific tasks.",
@@ -679,27 +700,6 @@
             "link": "https://www.aboutamazon.com/news/aws/pinterest-aws-4-billion-ai-infrastructure-deal",
             "timestamp": 1780578379000,
             "date": "2026-06-04"
-        },
-        {
-            "title": "IBM and Google Cloud Announce Strategic Partnership to Scale AI with Human Expertise and AI‑Powered Delivery - IBM Newsroom",
-            "summary_en": "IBM and Google Cloud have launched a strategic partnership to accelerate enterprise AI adoption by integrating IBM’s consulting expertise with Google’s Gemini Enterprise Agent Platform. This collaboration focuses on deploying industry-specific AI agents and modernizing legacy systems across sectors like finance, telecommunications, and healthcare.",
-            "link": "https://newsroom.ibm.com/2026-06-04-ibm-and-google-cloud-announce-strategic-partnership-to-scale-ai-with-human-expertise-and-ai-powered-delivery",
-            "timestamp": 1780567297000,
-            "date": "2026-06-04"
-        },
-        {
-            "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-            "summary_en": "Google has launched Gemma 4 12B, a mid-sized, encoder-free multimodal model designed to run locally on laptops with 16GB of VRAM. It features a unified architecture that integrates vision and audio inputs directly into the LLM backbone, rivaling the performance of larger 26B models.",
-            "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b",
-            "timestamp": 1780503037000,
-            "date": "2026-06-03"
-        },
-        {
-            "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
-            "summary_en": "NVIDIA and Microsoft have partnered to provide a full-stack infrastructure for agentic AI, introducing hardware like the RTX Spark laptop and DGX Station for Windows. The collaboration also brings NVIDIA's open models, including the Nemotron 3 Ultra, to Microsoft's Azure-based Foundry platform.",
-            "link": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices",
-            "timestamp": 1780427255000,
-            "date": "2026-06-02"
         }
     ]
 }

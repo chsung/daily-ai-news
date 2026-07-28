@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-27 17:03:37",
+    "last_update": "2026-07-28 05:53:03",
     "articles": [
+        {
+            "title": "Meta pulls new AI image feature after days of backlash - BBC",
+            "summary_en": "Meta has withdrawn its 'Muse Image' tool after facing significant backlash regarding privacy, as the feature automatically used public Instagram user content to train or generate AI images without explicit consent.",
+            "link": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+            "timestamp": 1783734359000,
+            "date": "2026-07-11"
+        },
+        {
+            "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
+            "summary_en": "OpenAI has officially released GPT-5.6 along with a new productivity-focused 'ChatGPT Work' tool designed for enterprise users.",
+            "link": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+            "timestamp": 1783616414000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "AAPL & Broadcom's $30B Deal Boosts AI Chip Strategy: What's Ahead? - TradingView",
+            "summary_en": "Apple has entered a multiyear, $30 billion agreement with Broadcom to develop custom silicon components in the U.S., a strategic move to secure its hardware supply chain and bolster its on-device AI capabilities.",
+            "link": "https://www.tradingview.com/news/zacks:baa75a0e6094b:0-aapl-broadcom-s-30b-deal-boosts-ai-chip-strategy-what-s-ahead",
+            "timestamp": 1783694220000,
+            "date": "2026-07-10"
+        },
         {
             "title": "How did the government decide OpenAI's frontier model was safe to release? | TechCrunch - TechCrunch",
             "summary_en": "The process for government approval of advanced AI models like OpenAI’s 'Sol' remains opaque and ad-hoc, with critics raising concerns about a lack of clear regulatory standards and potential conflicts of interest.",
@@ -678,27 +699,6 @@
             "summary_en": "ICON plc has partnered with Microsoft to integrate AI across its clinical trial operations through an enterprise-wide deployment of Microsoft 365 Copilot. The collaboration focuses on scaling 'Orbis,' ICON’s agentic AI platform, to digitize study protocols and optimize operational execution throughout the pharmaceutical research lifecycle.",
             "link": "https://www.contractpharma.com/breaking-news/icon-selects-microsoft-to-power-ai-enabled-clinical-development",
             "timestamp": 1782142612000,
-            "date": "2026-06-22"
-        },
-        {
-            "title": "Google Invests in A24 to Develop AI-Powered Filmmaking Tools - Variety",
-            "summary_en": "A24 has partnered with Google DeepMind in a $75 million deal to develop AI-powered filmmaking tools that prioritize creative control over automation. The collaboration focuses on building workflows for storyboarding and production rather than generating content, distinguishing it from other industry efforts to replace human input.",
-            "link": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297",
-            "timestamp": 1782142020000,
-            "date": "2026-06-22"
-        },
-        {
-            "title": "Nvidia gets all agentic about supercomputing for scientific research - The Register",
-            "summary_en": "The provided article text focuses on industry commentary regarding AI governance and various cybersecurity reports rather than outlining specific news about Nvidia's supercomputing projects. It highlights diverse issues ranging from database management trends to security vulnerabilities in third-party software platforms.",
-            "link": "https://www.theregister.com/systems/2026/06/22/nvidia-gets-all-agentic-about-supercomputing-for-scientific-research/5259553",
-            "timestamp": 1782152100000,
-            "date": "2026-06-22"
-        },
-        {
-            "title": "Fervo, NVIDIA and PNNL back AI twin for geothermal wells - Stock Titan",
-            "summary_en": "Fervo Energy, NVIDIA, and the Pacific Northwest National Laboratory are collaborating to build EGS-Twin, a digital twin platform for Enhanced Geothermal Systems. Scheduled for implementation by 2029, the system will use real-time data and AI-driven forecasting to optimize subsurface energy production.",
-            "link": "https://www.stocktitan.net/news/FRVO/fervo-energy-and-pnnl-leverage-ai-and-nvidia-accelerated-computing-77gfhu4njuk7.html",
-            "timestamp": 1782122700000,
             "date": "2026-06-22"
         }
     ]
