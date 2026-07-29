@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-28 16:44:57",
+    "last_update": "2026-07-29 05:57:59",
     "articles": [
+        {
+            "title": "Top AI officials want the US to back process that could slow AI - Business Insider",
+            "summary_en": "Over 1,100 AI industry professionals, including key figures from OpenAI and Anthropic, have signed an open letter urging the U.S. government to establish governance tools to pace 'recursive self-improvement' in AI development. The call highlights the urgent need for safety coordination as frontier models approach levels of capability that may exceed human control.",
+            "link": "https://www.businessinsider.com/ai-open-letter-automated-development-2026-7",
+            "timestamp": 1785273960000,
+            "date": "2026-07-28"
+        },
+        {
+            "title": "Recursive Superintelligence signs $410M compute deal with Amazon | TechCrunch - TechCrunch",
+            "summary_en": "Recursive Superintelligence has secured a $410 million multiyear compute deal with Amazon Web Services to fuel its focus on autonomous, self-improving AI systems. CEO Richard Socher plans to prioritize compute resources over headcount to accelerate the release of functional AI-driven products by late 2026.",
+            "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
+            "timestamp": 1785244757000,
+            "date": "2026-07-28"
+        },
+        {
+            "title": "Anthropic says Claude uncovers cryptographic weaknesses, advances AI-assisted security research - BusinessLine",
+            "summary_en": "Anthropic’s latest research demonstrates that its Claude models can identify previously unknown vulnerabilities in cryptographic algorithms, potentially revolutionizing security research. To support this, the company launched 'CryptanalysisBench' to track AI progress in cryptanalysis while managing the dual-use risks of such advanced capabilities.",
+            "link": "https://www.thehindubusinessline.com/info-tech/anthropic-says-claude-uncovers-cryptographic-weaknesses-advances-ai-assisted-security-research/article71279748.ece",
+            "timestamp": 1785302659000,
+            "date": "2026-07-29"
+        },
         {
             "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
             "summary_en": "Amazon is reportedly scaling back its flagship AI model initiatives as part of a significant strategic reorganization of its artificial intelligence division.",
@@ -679,27 +700,6 @@
             "link": "https://www.ibtimes.com/deep-skepticism-about-ai-companies-national-mood-us-respondents-favor-strict-federal-oversight-3805210",
             "timestamp": 1783871840000,
             "date": "2026-07-12"
-        },
-        {
-            "title": "Nvidia Korea, SK Hynix Gather 800 Experts to Share AI Semiconductor Research - finance.biggo.com",
-            "summary_en": "South Korea’s Ministry of Science and ICT is hosting a major R&D exchange in Busan, bringing together 800 experts from firms like Nvidia Korea and SK Hynix to advance next-generation semiconductor technologies. The event focuses on the 'AI factory' era, featuring 13 key research breakthroughs including advanced packaging and memory-in-sensor computing.",
-            "link": "https://finance.biggo.com/news/d5469ba4-383c-4cd0-b29e-355fa59ab64e",
-            "timestamp": 1783830900000,
-            "date": "2026-07-12"
-        },
-        {
-            "title": "StartupHub.ai primary navigation - StartupHub.ai",
-            "summary_en": "Meta is shifting its AI strategy toward aggressive monetization and widespread adoption by introducing a paid developer tier for its new Muse Spark 1.1 model. This move acknowledges Meta's position as a challenger to leaders like OpenAI and Anthropic, aiming to leverage improved performance benchmarks to close the competitive gap.",
-            "link": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/zuckerberg-on-meta-s-ai-strategy-aggressive-pricing-and-openness",
-            "timestamp": 1783793913000,
-            "date": "2026-07-11"
-        },
-        {
-            "title": "OpenAI’s Head of Safety Is Leaving the Company - WIRED",
-            "summary_en": "OpenAI’s head of safety systems, Johannes Heidecke, has resigned amid a broader reorganization that merges safety and research teams under VP Mia Glaese. The departure follows concerns regarding misaligned behavior in the newly released GPT-5.6 and a series of high-level exits across the organization.",
-            "link": "https://www.wired.com/story/openai-head-of-safety-leaving",
-            "timestamp": 1783732020000,
-            "date": "2026-07-11"
         }
     ]
 }
