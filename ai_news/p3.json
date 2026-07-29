@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-29 05:57:59",
+    "last_update": "2026-07-29 16:26:18",
     "articles": [
+        {
+            "title": "IBM and OpenAI Bring Frontier AI to Cyber Defense—Helping Enterprises Keep Pace with Machine-Speed Threats - IBM Newsroom",
+            "summary_en": "IBM has joined OpenAI's Daybreak Cyber Partner Program to launch a new security service that utilizes frontier AI to detect and validate software vulnerabilities at machine speed. This collaboration, integrated with IBM's Consulting Advantage platform, is part of a broader $5 billion initiative to strengthen enterprise cyber defense.",
+            "link": "https://newsroom.ibm.com/2026-06-22-ibm-and-openai-bring-frontier-ai-to-cyber-defense-helping-enterprises-keep-pace-with-machine-speed-threats",
+            "timestamp": 1782160493000,
+            "date": "2026-06-22"
+        },
+        {
+            "title": "European AI factories everywhere, still Nvidia - Jon Peddie Research",
+            "summary_en": "Nvidia is solidifying its dominance in Europe’s sovereign AI sector by powering over 90% of the continent's new AI factory build-outs, totaling 800 AI EFLOPS. The company is simultaneously integrating GPU-accelerated classical computing with quantum hardware through its CUDA-Q platform to facilitate essential calibration and error-correction workflows.",
+            "link": "https://www.jonpeddie.com/news/european-ai-factories-everywhere-still-nvidia",
+            "timestamp": 1782252680000,
+            "date": "2026-06-23"
+        },
+        {
+            "title": "Anthropic Launches An Always-On AI Coworker - NDTV",
+            "summary_en": "Anthropic has released an 'always-on' AI coworker designed to function as a persistent digital assistant for professional workflows. This launch reflects a broader industry shift toward AI agents that maintain long-term operational context rather than providing single-turn responses.",
+            "link": "https://www.ndtv.com/artificial-intelligence/anthropic-launches-claude-tag-in-research-preview-for-slack-users-11679483",
+            "timestamp": 1782276973000,
+            "date": "2026-06-24"
+        },
         {
             "title": "Reflection AI Signs $6.3B SpaceX Compute Deal as Open-source Model Strategy Gains Momentum After Anthropic Ban - AI Insider",
             "summary_en": "Reflection AI has secured a $6.3 billion, three-year compute deal with SpaceX to access Nvidia GB300 chips at the Colossus 2 data center. This move underscores a growing market trend toward open-weight models, fueled by enterprise and government concerns over the reliability of closed-source AI systems following recent regulatory bans.",
@@ -679,27 +700,6 @@
             "link": "https://aibusiness.com/generative-ai/nvidia-unveils-physical-ai-research-agent-workflows",
             "timestamp": 1780587777000,
             "date": "2026-06-04"
-        },
-        {
-            "title": "OpenAI to comply with Trump AI model pre-release review order - qz.com",
-            "summary_en": "OpenAI has confirmed its commitment to abide by the U.S. government's executive order requiring developers to submit safety test results for large-scale AI models prior to public release.",
-            "link": "https://qz.com/openai-trump-ai-model-review-order-060526",
-            "timestamp": 1780667620000,
-            "date": "2026-06-05"
-        },
-        {
-            "title": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI - NVIDIA Newsroom",
-            "summary_en": "NVIDIA has launched a comprehensive open-source collection of physical AI tools and agent skills, enabling developers to automate complex robotics, autonomous vehicle, and industrial digital twin workflows.",
-            "link": "https://nvidianews.nvidia.com/news/nvidia-releases-major-collection-of-open-source-agent-tools-and-skills-for-physical-ai",
-            "timestamp": 1780289749000,
-            "date": "2026-06-01"
-        },
-        {
-            "title": "AI is designing OpenAI's next model in a sign of 'superintelligence': SoftBank's Masayoshi Son to CNBC - CNBC",
-            "summary_en": "SoftBank CEO Masayoshi Son claims that OpenAI is using current models to design future ones, a development he identifies as an early marker of artificial superintelligence arriving within the next two years.",
-            "link": "https://www.cnbc.com/2026/06/05/softbank-masayoshi-son-openai-model-super-intelligence.html",
-            "timestamp": 1780665350000,
-            "date": "2026-06-05"
         }
     ]
 }

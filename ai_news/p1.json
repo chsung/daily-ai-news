@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-29 05:57:59",
+    "last_update": "2026-07-29 16:26:18",
     "articles": [
+        {
+            "title": "Update: Market Chatter: Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini - Yahoo Finance",
+            "summary_en": "Alphabet's Google DeepMind is reportedly disbanding its AlphaFold team as part of a strategic pivot to concentrate resources on its Gemini AI models. This move reflects a broader corporate shift toward prioritizing primary generative AI products over specialized scientific research teams.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-alphabet-apos-google-142344114.html",
+            "timestamp": 1785335024000,
+            "date": "2026-07-29"
+        },
+        {
+            "title": "Amazon rethinks its AI strategy and winds down many in-house models - Business Insider",
+            "summary_en": "Amazon is overhauling its AI strategy by deprecating most of its in-house 'Nova' flagship models to focus engineering talent on a new 'Frontier Model Research' initiative led by Pieter Abbeel. The reorganization includes shutting down its AGI Lab and prioritizing the development of a high-priority foundation model set to debut at this year's re:Invent.",
+            "link": "https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7",
+            "timestamp": 1785229201000,
+            "date": "2026-07-28"
+        },
+        {
+            "title": "SSI and NVIDIA partner to accelerate AI research with Vera Rubin - eeNews Europe",
+            "summary_en": "Ilya Sutskever’s Safe Superintelligence (SSI) has entered a long-term strategic partnership with NVIDIA, securing both an investment and early access to the upcoming Vera Rubin computing platform. This collaboration aims to provide SSI with an order-of-magnitude increase in compute capacity to scale its proprietary research while influencing future NVIDIA hardware designs.",
+            "link": "https://www.eenewseurope.com/en/ssi-and-nvidia-partner-to-accelerate-ai-research-with-vera-rubin",
+            "timestamp": 1785308343000,
+            "date": "2026-07-29"
+        },
         {
             "title": "Top AI officials want the US to back process that could slow AI - Business Insider",
             "summary_en": "Over 1,100 AI industry professionals, including key figures from OpenAI and Anthropic, have signed an open letter urging the U.S. government to establish governance tools to pace 'recursive self-improvement' in AI development. The call highlights the urgent need for safety coordination as frontier models approach levels of capability that may exceed human control.",
@@ -678,27 +699,6 @@
             "summary_en": "Apple’s discontinued self-driving car initiative unintentionally birthed the Neural Engine, now a core component for on-device AI across its product lineup. The company is currently accelerating development of the M7 chip, which is expected to support 1.5TB of RAM and serve as the foundation for future server-grade hardware.",
             "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
             "timestamp": 1783873626000,
-            "date": "2026-07-12"
-        },
-        {
-            "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy - Yahoo Finance",
-            "summary_en": "Meta is shifting its AI strategy by potentially launching a cloud computing business to lease out its excess data center capacity to external clients. This marks a significant policy change for the company, as it previously utilized all its computing power exclusively for internal workloads.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-unveiled-shocking-035000596.html",
-            "timestamp": 1783828200000,
-            "date": "2026-07-12"
-        },
-        {
-            "title": "Meta launches aggressive AI pricing strategy to lure developers from OpenAI and Anthropic - Crypto Briefing",
-            "summary_en": "Meta has launched its Muse Spark 1.1 model and a new paid API, undercutting rivals OpenAI and Anthropic by approximately 25% to capture market share. The platform features agentic workflow capabilities and is SDK-compatible, allowing developers to switch platforms without a full technical overhaul.",
-            "link": "https://cryptobriefing.com/meta-ai-pricing-strategy-developers",
-            "timestamp": 1783865063000,
-            "date": "2026-07-12"
-        },
-        {
-            "title": "Deep Skepticism About AI Companies Is The National Mood: US Respondents Favor Strict Federal Oversight - International Business Times",
-            "summary_en": "A 2026 Verasight survey reveals that a majority of US respondents support strict federal oversight of AI firms and proposals to transfer 50% of company stock to a public wealth fund. This public skepticism is fueled by concerns over national security and data from Challenger, Gray & Christmas indicating that AI-related layoffs have already surged to 87,714 in early 2026.",
-            "link": "https://www.ibtimes.com/deep-skepticism-about-ai-companies-national-mood-us-respondents-favor-strict-federal-oversight-3805210",
-            "timestamp": 1783871840000,
             "date": "2026-07-12"
         }
     ]

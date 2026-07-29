@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-29 05:57:59",
+    "last_update": "2026-07-29 16:26:18",
     "articles": [
+        {
+            "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy - Yahoo Finance",
+            "summary_en": "Meta is shifting its AI strategy by potentially launching a cloud computing business to lease out its excess data center capacity to external clients. This marks a significant policy change for the company, as it previously utilized all its computing power exclusively for internal workloads.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-unveiled-shocking-035000596.html",
+            "timestamp": 1783828200000,
+            "date": "2026-07-12"
+        },
+        {
+            "title": "Meta launches aggressive AI pricing strategy to lure developers from OpenAI and Anthropic - Crypto Briefing",
+            "summary_en": "Meta has launched its Muse Spark 1.1 model and a new paid API, undercutting rivals OpenAI and Anthropic by approximately 25% to capture market share. The platform features agentic workflow capabilities and is SDK-compatible, allowing developers to switch platforms without a full technical overhaul.",
+            "link": "https://cryptobriefing.com/meta-ai-pricing-strategy-developers",
+            "timestamp": 1783865063000,
+            "date": "2026-07-12"
+        },
+        {
+            "title": "Deep Skepticism About AI Companies Is The National Mood: US Respondents Favor Strict Federal Oversight - International Business Times",
+            "summary_en": "A 2026 Verasight survey reveals that a majority of US respondents support strict federal oversight of AI firms and proposals to transfer 50% of company stock to a public wealth fund. This public skepticism is fueled by concerns over national security and data from Challenger, Gray & Christmas indicating that AI-related layoffs have already surged to 87,714 in early 2026.",
+            "link": "https://www.ibtimes.com/deep-skepticism-about-ai-companies-national-mood-us-respondents-favor-strict-federal-oversight-3805210",
+            "timestamp": 1783871840000,
+            "date": "2026-07-12"
+        },
         {
             "title": "Nvidia Korea, SK Hynix Gather 800 Experts to Share AI Semiconductor Research - finance.biggo.com",
             "summary_en": "South Korea’s Ministry of Science and ICT is hosting a major R&D exchange in Busan, bringing together 800 experts from firms like Nvidia Korea and SK Hynix to advance next-generation semiconductor technologies. The event focuses on the 'AI factory' era, featuring 13 key research breakthroughs including advanced packaging and memory-in-sensor computing.",
@@ -678,27 +699,6 @@
             "summary_en": "OpenAI and Broadcom have developed 'Jalapeño,' a custom AI accelerator chip designed to reduce LLM inference costs by approximately 50%. The chip’s design phase was completed in a record nine-month period, assisted by OpenAI’s own models to optimize hardware-software co-development.",
             "link": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
             "timestamp": 1782314040000,
-            "date": "2026-06-24"
-        },
-        {
-            "title": "IBM and OpenAI Bring Frontier AI to Cyber Defense—Helping Enterprises Keep Pace with Machine-Speed Threats - IBM Newsroom",
-            "summary_en": "IBM has joined OpenAI's Daybreak Cyber Partner Program to launch a new security service that utilizes frontier AI to detect and validate software vulnerabilities at machine speed. This collaboration, integrated with IBM's Consulting Advantage platform, is part of a broader $5 billion initiative to strengthen enterprise cyber defense.",
-            "link": "https://newsroom.ibm.com/2026-06-22-ibm-and-openai-bring-frontier-ai-to-cyber-defense-helping-enterprises-keep-pace-with-machine-speed-threats",
-            "timestamp": 1782160493000,
-            "date": "2026-06-22"
-        },
-        {
-            "title": "European AI factories everywhere, still Nvidia - Jon Peddie Research",
-            "summary_en": "Nvidia is solidifying its dominance in Europe’s sovereign AI sector by powering over 90% of the continent's new AI factory build-outs, totaling 800 AI EFLOPS. The company is simultaneously integrating GPU-accelerated classical computing with quantum hardware through its CUDA-Q platform to facilitate essential calibration and error-correction workflows.",
-            "link": "https://www.jonpeddie.com/news/european-ai-factories-everywhere-still-nvidia",
-            "timestamp": 1782252680000,
-            "date": "2026-06-23"
-        },
-        {
-            "title": "Anthropic Launches An Always-On AI Coworker - NDTV",
-            "summary_en": "Anthropic has released an 'always-on' AI coworker designed to function as a persistent digital assistant for professional workflows. This launch reflects a broader industry shift toward AI agents that maintain long-term operational context rather than providing single-turn responses.",
-            "link": "https://www.ndtv.com/artificial-intelligence/anthropic-launches-claude-tag-in-research-preview-for-slack-users-11679483",
-            "timestamp": 1782276973000,
             "date": "2026-06-24"
         }
     ]
