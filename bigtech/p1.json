@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-07-28 17:15:16",
+    "last_update": "2026-07-29 17:01:09",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785343605000,
+            "date": "2026-07-29",
+            "title": "How to Self-Host a Validated AI Coding Assistant with NVIDIA NeMo Guardrails",
+            "summary_kr": "본 기사는 기업이 보안과 컴플라이언스를 유지하면서 자체 인프라에 AI 코딩 어시스턴트를 구축하는 방법으로, NVIDIA NIM과 NeMo Guardrails를 결합하여 소스 유출 방지, 환각 차단 및 품질 추적성을 확보하는 아키텍처를 제시합니다.",
+            "summary_en": "This article provides a blueprint for deploying a secure, self-hosted AI coding assistant using NVIDIA NIM and NeMo Guardrails, ensuring data sovereignty, supply-chain protection, and rigorous auditability within enterprise environments.",
+            "link": "https://developer.nvidia.com/blog/how-to-self-host-a-validated-ai-coding-assistant-with-nvidia-nemo-guardrails"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1785340800000,
+            "date": "2026-07-29",
+            "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.",
+            "summary_kr": "구글이 음악 생성 모델 'Lyria 3.5'를 Flow Music에 도입하며 멜로디, 가사, 보컬 품질 및 창작 제어 기능을 대폭 강화했습니다.",
+            "summary_en": "Google has launched 'Lyria 3.5' in Flow Music, delivering significant improvements in musicality, lyrical quality, vocal realism, and creative user control.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785271761000,
+            "date": "2026-07-28",
+            "title": "Developing Healthcare Robotics with GPU-Native Medical Physics Simulation",
+            "summary_kr": "의료 로봇 개발의 핵심 난제인 데이터 부족과 긴 개발 주기를 해결하기 위해, NVIDIA는 GPU 기반의 의료 물리 시뮬레이션 프레임워크를 도입하여 고정밀 학습과 가상 환경에서의 훈련을 가속화합니다.",
+            "summary_en": "To overcome the challenges of data scarcity and slow development cycles in healthcare robotics, NVIDIA introduces a GPU-native medical physics simulation framework that accelerates high-fidelity training and policy development.",
+            "link": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1785196800000,
+            "date": "2026-07-28",
+            "title": "Grok 4.5 in GitHub Copilot",
+            "summary_kr": "xAI의 최신 코딩 모델인 Grok 4.5가 GitHub Copilot에 통합되어 전 세계 개발자들이 VSCode와 GitHub 환경에서 이를 직접 활용할 수 있게 되었습니다.",
+            "summary_en": "xAI's latest coding model, Grok 4.5, is now integrated into GitHub Copilot, allowing developers to utilize its advanced capabilities directly within VSCode and GitHub environments.",
+            "link": "https://x.ai/news/grok-github-copilot"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785174120000,
+            "date": "2026-07-27",
+            "title": "Enhancing AI security through global AI red teaming | Microsoft Security Blog",
+            "summary_kr": "마이크로소프트는 AI 시스템의 복잡한 보안 위협을 해결하고자 전 세계 전문가 및 학계와 협력하는 '외부 레드팀 연합(EXTRA)'을 출범했습니다. 이는 외부 전문성을 통합하여 AI 안전성 평가 연구와 글로벌 보안 대응 체계를 고도화하기 위함입니다.",
+            "summary_en": "Microsoft has launched the External Red Team Alliance (EXTRA) to bridge the gap in AI safety by fostering global collaboration with academic researchers and domain experts. This initiative aims to strengthen AI security and evaluation methodologies through a diverse, international network of specialists.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1785258000000,
@@ -855,51 +900,6 @@
             "summary_kr": "NVIDIA NeMo를 활용한 반복적 합성 데이터 생성 파이프라인은 금융 데이터의 불균형 문제를 해결하고, 전역 중복 제거와 전략적 샘플링을 통해 50만 개의 고유하고 다양한 금융 뉴스 헤드라인을 효율적으로 구축합니다.",
             "summary_en": "NVIDIA NeMo's iterative synthetic data pipeline resolves financial data imbalances by leveraging global deduplication and strategic sampling to efficiently generate 500,000 unique and diverse financial news headlines.",
             "link": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783602000000,
-            "date": "2026-07-09",
-            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-            "summary_kr": "마이크로소프트 365 Copilot에 OpenAI의 최신 플래그십 모델인 GPT-5.6이 도입되어 워드, 엑셀, 파워포인트 등 주요 업무 도구의 생산성과 작업 효율성이 크게 향상되었습니다.",
-            "summary_en": "OpenAI's latest flagship model, GPT-5.6, has been integrated into Microsoft 365 Copilot, significantly enhancing productivity and performance across key tools like Word, Excel, and PowerPoint.",
-            "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "UST is bringing Claude to physical AI",
-            "summary_kr": "UST는 앤스로픽의 클로드(Claude)를 자사의 엔지니어링 파이프라인에 통합하여 반도체 검증 및 제조 공정의 효율성을 극대화하고, 설계 결함을 조기에 발견하여 생산 시간을 50~70% 단축하고 있습니다.",
-            "summary_en": "UST is integrating Anthropic's Claude into its engineering pipelines to automate design validation and manufacturing processes, achieving a 50-70% reduction in cycle times through early fault detection.",
-            "link": "https://www.anthropic.com/news/ust-claude"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783617866000,
-            "date": "2026-07-09",
-            "title": "Responsibly building the AI future",
-            "summary_kr": "마이크로소프트는 AI 인프라 확장에 따른 환경적 요구와 책임 있는 성장을 통합하여, 지속 가능한 기술 생태계를 구축하기 위한 전략적 전환을 추진하고 있습니다.",
-            "summary_en": "Microsoft is strategically pivoting its operations to balance the resource-intensive demands of AI infrastructure with its commitment to environmental sustainability and responsible community-focused growth.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783617414000,
-            "date": "2026-07-09",
-            "title": "Bringing Ode Poetry to life with MAI’s audio models | Microsoft AI",
-            "summary_kr": "마이크로소프트의 MAI 오디오 모델을 활용한 'Ode Poetry'는 정교한 음성 인식과 고품질 음성 합성 기술을 통해 윌리엄 시거트의 시 낭독 경험을 전 세계 사용자에게 개인화된 서비스로 구현합니다.",
-            "summary_en": "Microsoft’s 'Ode Poetry' project leverages advanced MAI audio models for real-time speech understanding and high-fidelity voice synthesis to scale William Sieghart’s personalized poetry consultations to a global audience.",
-            "link": "https://microsoft.ai/news/ode-poetry-mai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783617304000,
-            "date": "2026-07-09",
-            "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
-            "summary_kr": "GROMACS에서 CPU 중심의 MPI 통신으로 인해 발생하는 GPU 병목 현상을 NVSHMEM 기반의 GPU 직접 통신으로 대체하여 연산과 통신을 최적화하고 확장성을 극대화하는 방안을 제시합니다.",
-            "summary_en": "This article presents a strategy to enhance GROMACS scalability by replacing CPU-orchestrated MPI with NVSHMEM-based GPU-native communication, effectively eliminating bottlenecks and enabling seamless overlap of computation and communication.",
-            "link": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale"
         }
     ]
 }

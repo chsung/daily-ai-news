@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-07-28 17:15:16",
+    "last_update": "2026-07-29 17:01:09",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1783602000000,
+            "date": "2026-07-09",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+            "summary_kr": "마이크로소프트 365 Copilot에 OpenAI의 최신 플래그십 모델인 GPT-5.6이 도입되어 워드, 엑셀, 파워포인트 등 주요 업무 도구의 생산성과 작업 효율성이 크게 향상되었습니다.",
+            "summary_en": "OpenAI's latest flagship model, GPT-5.6, has been integrated into Microsoft 365 Copilot, significantly enhancing productivity and performance across key tools like Word, Excel, and PowerPoint.",
+            "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "UST is bringing Claude to physical AI",
+            "summary_kr": "UST는 앤스로픽의 클로드(Claude)를 자사의 엔지니어링 파이프라인에 통합하여 반도체 검증 및 제조 공정의 효율성을 극대화하고, 설계 결함을 조기에 발견하여 생산 시간을 50~70% 단축하고 있습니다.",
+            "summary_en": "UST is integrating Anthropic's Claude into its engineering pipelines to automate design validation and manufacturing processes, achieving a 50-70% reduction in cycle times through early fault detection.",
+            "link": "https://www.anthropic.com/news/ust-claude"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1783617866000,
+            "date": "2026-07-09",
+            "title": "Responsibly building the AI future",
+            "summary_kr": "마이크로소프트는 AI 인프라 확장에 따른 환경적 요구와 책임 있는 성장을 통합하여, 지속 가능한 기술 생태계를 구축하기 위한 전략적 전환을 추진하고 있습니다.",
+            "summary_en": "Microsoft is strategically pivoting its operations to balance the resource-intensive demands of AI infrastructure with its commitment to environmental sustainability and responsible community-focused growth.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/07/09/responsibly-building-the-ai-future"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1783617414000,
+            "date": "2026-07-09",
+            "title": "Bringing Ode Poetry to life with MAI’s audio models | Microsoft AI",
+            "summary_kr": "마이크로소프트의 MAI 오디오 모델을 활용한 'Ode Poetry'는 정교한 음성 인식과 고품질 음성 합성 기술을 통해 윌리엄 시거트의 시 낭독 경험을 전 세계 사용자에게 개인화된 서비스로 구현합니다.",
+            "summary_en": "Microsoft’s 'Ode Poetry' project leverages advanced MAI audio models for real-time speech understanding and high-fidelity voice synthesis to scale William Sieghart’s personalized poetry consultations to a global audience.",
+            "link": "https://microsoft.ai/news/ode-poetry-mai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783617304000,
+            "date": "2026-07-09",
+            "title": "A Practical Guide to GPU-Initiated Communication for Molecular Dynamics at Scale",
+            "summary_kr": "GROMACS에서 CPU 중심의 MPI 통신으로 인해 발생하는 GPU 병목 현상을 NVSHMEM 기반의 GPU 직접 통신으로 대체하여 연산과 통신을 최적화하고 확장성을 극대화하는 방안을 제시합니다.",
+            "summary_en": "This article presents a strategy to enhance GROMACS scalability by replacing CPU-orchestrated MPI with NVSHMEM-based GPU-native communication, effectively eliminating bottlenecks and enabling seamless overlap of computation and communication.",
+            "link": "https://developer.nvidia.com/blog/a-practical-guide-to-gpu-initiated-communication-for-molecular-dynamics-at-scale"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1783615582000,
@@ -855,51 +900,6 @@
             "summary_kr": "Daybreak 프로젝트는 보안 분야의 핵심 과제인 취약점 탐지를 넘어 자동화된 패치 생성 및 배포를 지원하여 전 세계 조직의 사이버 방어 역량을 민주화하는 데 중점을 둡니다.",
             "summary_en": "The Daybreak initiative focuses on democratizing global cyber defense by shifting the focus from vulnerability discovery to accelerating automated patching through frontier AI models and collaborative ecosystem partnerships.",
             "link": "https://openai.com/index/daybreak-securing-the-world"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782086400000,
-            "date": "2026-06-22",
-            "title": "Codex-maxxing for long-running work",
-            "summary_kr": "본 가이드는 OpenAI의 Codex를 단일 프롬프트 활용을 넘어 복잡한 프로젝트의 맥락을 유지하고 지속적인 워크플로우를 관리하는 생산적 도구로 활용하는 전략을 제시합니다.",
-            "summary_en": "This guide explores strategies for leveraging OpenAI's Codex as a persistent workspace to maintain context and manage complex, long-running projects beyond single-prompt interactions.",
-            "link": "https://openai.com/index/codex-maxxing-long-running-work"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1782086400000,
-            "date": "2026-06-22",
-            "title": "Introducing /goal",
-            "summary_kr": "Grok Build에 도입된 '/goal' 기능은 AI 에이전트가 복잡한 코딩 작업을 자율적으로 계획하고 검증까지 완료하여 실행할 수 있도록 지원합니다.",
-            "summary_en": "The new '/goal' feature in Grok Build enables autonomous execution of long-running coding tasks, allowing agents to independently plan, implement, and verify complex objectives.",
-            "link": "https://x.ai/news/introducing-goal"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782082800000,
-            "date": "2026-06-21",
-            "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-            "summary_kr": "삼성전자가 OpenAI의 ChatGPT Enterprise와 Codex를 전사적으로 도입하여 R&D, 제조, 마케팅 등 업무 전반의 생산성 및 혁신 가속화에 나섰습니다.",
-            "summary_en": "Samsung Electronics is deploying ChatGPT Enterprise and Codex across its global operations to boost workforce productivity and accelerate innovation in R&D, manufacturing, and business processes.",
-            "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781807954000,
-            "date": "2026-06-18",
-            "title": "Beyond the benchmark: Advancing security at AI speed  | Microsoft Security Blog",
-            "summary_kr": "마이크로소프트는 독자적인 다중 모델 AI 에이전트 시스템인 'MDASH'를 개발해 소프트웨어 취약점 탐지부터 해결까지 전 과정을 자동화하고, 이를 실제 운영 환경에 통합하여 기업 수준의 보안을 강화하고 있습니다.",
-            "summary_en": "Microsoft has deployed 'MDASH,' an orchestrating multi-model AI agent system, to automate end-to-end vulnerability discovery and remediation, successfully integrating research-grade AI into production workflows to enhance enterprise-scale security.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781802000000,
-            "date": "2026-06-18",
-            "title": "New usage analytics and updated spend controls for enterprises",
-            "summary_kr": "OpenAI는 ChatGPT Enterprise 관리자가 AI 도입 현황을 가시적으로 파악하고 비용을 정밀하게 관리할 수 있도록 새로운 사용량 분석 도구와 유연한 지출 통제 기능을 도입했습니다.",
-            "summary_en": "OpenAI has introduced new usage analytics and enhanced spend controls for ChatGPT Enterprise, enabling administrators to gain granular visibility into AI deployment and effectively manage costs at scale.",
-            "link": "https://openai.com/index/chatgpt-enterprise-spend-controls"
         }
     ]
 }

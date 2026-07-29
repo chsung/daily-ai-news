@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-07-28 17:15:16",
+    "last_update": "2026-07-29 17:01:09",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1782086400000,
+            "date": "2026-06-22",
+            "title": "Codex-maxxing for long-running work",
+            "summary_kr": "본 가이드는 OpenAI의 Codex를 단일 프롬프트 활용을 넘어 복잡한 프로젝트의 맥락을 유지하고 지속적인 워크플로우를 관리하는 생산적 도구로 활용하는 전략을 제시합니다.",
+            "summary_en": "This guide explores strategies for leveraging OpenAI's Codex as a persistent workspace to maintain context and manage complex, long-running projects beyond single-prompt interactions.",
+            "link": "https://openai.com/index/codex-maxxing-long-running-work"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1782086400000,
+            "date": "2026-06-22",
+            "title": "Introducing /goal",
+            "summary_kr": "Grok Build에 도입된 '/goal' 기능은 AI 에이전트가 복잡한 코딩 작업을 자율적으로 계획하고 검증까지 완료하여 실행할 수 있도록 지원합니다.",
+            "summary_en": "The new '/goal' feature in Grok Build enables autonomous execution of long-running coding tasks, allowing agents to independently plan, implement, and verify complex objectives.",
+            "link": "https://x.ai/news/introducing-goal"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1782082800000,
+            "date": "2026-06-21",
+            "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+            "summary_kr": "삼성전자가 OpenAI의 ChatGPT Enterprise와 Codex를 전사적으로 도입하여 R&D, 제조, 마케팅 등 업무 전반의 생산성 및 혁신 가속화에 나섰습니다.",
+            "summary_en": "Samsung Electronics is deploying ChatGPT Enterprise and Codex across its global operations to boost workforce productivity and accelerate innovation in R&D, manufacturing, and business processes.",
+            "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1781807954000,
+            "date": "2026-06-18",
+            "title": "Beyond the benchmark: Advancing security at AI speed  | Microsoft Security Blog",
+            "summary_kr": "마이크로소프트는 독자적인 다중 모델 AI 에이전트 시스템인 'MDASH'를 개발해 소프트웨어 취약점 탐지부터 해결까지 전 과정을 자동화하고, 이를 실제 운영 환경에 통합하여 기업 수준의 보안을 강화하고 있습니다.",
+            "summary_en": "Microsoft has deployed 'MDASH,' an orchestrating multi-model AI agent system, to automate end-to-end vulnerability discovery and remediation, successfully integrating research-grade AI into production workflows to enhance enterprise-scale security.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1781802000000,
+            "date": "2026-06-18",
+            "title": "New usage analytics and updated spend controls for enterprises",
+            "summary_kr": "OpenAI는 ChatGPT Enterprise 관리자가 AI 도입 현황을 가시적으로 파악하고 비용을 정밀하게 관리할 수 있도록 새로운 사용량 분석 도구와 유연한 지출 통제 기능을 도입했습니다.",
+            "summary_en": "OpenAI has introduced new usage analytics and enhanced spend controls for ChatGPT Enterprise, enabling administrators to gain granular visibility into AI deployment and effectively manage costs at scale.",
+            "link": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+        },
         {
             "company": "xAI",
             "timestamp": 1781740800000,
@@ -855,51 +900,6 @@
             "summary_kr": "미국 정부가 첨단 AI의 안전성을 보장하기 위해 주 정부 법안과 연계한 국가적 관리 체계를 구축하고, CAISI를 핵심 기관으로 강화하며 범정부 차원의 대응 전략을 마련해야 한다는 청사진을 제시했습니다.",
             "summary_en": "The blueprint proposes a U.S. federal framework for frontier AI governance by leveraging state-level consensus, strengthening CAISI as a primary safety institution, and implementing a comprehensive national resilience strategy.",
             "link": "https://openai.com/index/frontier-safety-blueprint"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-            "summary_kr": "AI 기반 사이버 위협 분석 결과, 공격자들이 AI를 활용해 초기 침투보다 고난도인 내부망 이동 및 권한 상승 등 '침투 후 단계'의 작업을 자동화하며 위협 수준을 높이고 있습니다. 이로 인해 기존의 보안 위협 평가 방식은 유효성을 잃고 있으며, AI가 숙련도가 낮은 공격자조차 고위험군으로 격상시키는 핵심 동인이 되고 있습니다.",
-            "summary_en": "Analysis of AI-enabled cyber threats reveals that attackers are increasingly using AI to automate complex post-compromise tasks like lateral movement and privilege escalation, effectively closing the capability gap between amateur and sophisticated actors. This shift renders traditional risk assessment metrics obsolete as AI empowers low-skill actors to execute high-stakes operations.",
-            "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-            "summary_kr": "앤스로픽은 기업의 성공적인 AI 도입을 지원하기 위해 파트너사의 전문성을 검증하는 '서비스 트랙'과 고객과 파트너를 연결하는 '클로드 파트너 허브'를 도입했습니다.",
-            "summary_en": "Anthropic has launched the 'Services Track' to categorize partner expertise and the 'Claude Partner Hub' to connect enterprises with qualified firms, ensuring successful, large-scale AI deployment.",
-            "link": "https://www.anthropic.com/news/services-track-partner-hub"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "How Anthropic enables self-service data analytics with Claude",
-            "summary_kr": "앤스로픽은 LLM의 할루시네이션을 제어하기 위한 전문적인 에이전트 데이터 스택을 구축하여, 비즈니스 분석의 95%를 자동화하고 데이터 팀의 전략적 역량을 극대화했습니다.",
-            "summary_en": "Anthropic has optimized self-service analytics by deploying an agentic data stack that mitigates LLM hallucination, successfully automating 95% of business queries while enabling its data team to focus on high-impact strategic work.",
-            "link": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Lessons from building Claude Code: How we use skills",
-            "summary_kr": "앤스로픽은 클로드 코드(Claude Code) 내 수백 개의 '스킬'을 운영하며 얻은 경험을 바탕으로, 효율적인 에이전트 활용을 위해 스킬을 명확한 역할별로 구조화하고 검증 프로세스를 강화할 것을 권장합니다.",
-            "summary_en": "Anthropic shares lessons from scaling hundreds of 'skills' in Claude Code, emphasizing the importance of structuring skills into clear, purpose-driven categories and prioritizing verification to improve agent performance.",
-            "link": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1780444800000,
-            "date": "2026-06-03",
-            "title": "Best practices for getting started with Claude Cowork",
-            "summary_kr": "앤스로픽의 Claude Cowork은 단순 질의응답을 넘어 파일과 앱을 연동해 복합적인 업무를 자동 수행하는 에이전트 환경으로, 사용자가 결과물을 정의하고 위임하는 방식의 업무 최적화를 지원합니다.",
-            "summary_en": "Claude Cowork moves beyond simple chat-based Q&A by acting as an agent that integrates with files and apps to automate multi-step workflows, allowing users to delegate entire tasks and deliver finished results.",
-            "link": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork"
         }
     ]
 }
