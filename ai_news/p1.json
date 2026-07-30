@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-30 05:47:18",
+    "last_update": "2026-07-30 16:40:15",
     "articles": [
+        {
+            "title": "OpenAI's Sam Altman meets with key White House advisers to discuss AI development - CBS News",
+            "summary_en": "OpenAI CEO Sam Altman is engaging with senior Trump administration advisers to discuss AI development amid growing internal and external pressure for the government to implement stricter AI safety regulations.",
+            "link": "https://www.cbsnews.com/video/openais-sam-altman-meets-with-key-white-house-advisers-to-discuss-ai-development",
+            "timestamp": 1785419100000,
+            "date": "2026-07-30"
+        },
+        {
+            "title": "Microsoft ponders open-weight AI as China models gain ground - Nikkei Asia",
+            "summary_en": "Microsoft is evaluating the release of open-weight versions of its proprietary MAI models to provide a trusted domestic alternative to the rising popularity of Chinese AI models like DeepSeek.",
+            "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-ponders-open-weight-ai-as-china-models-gain-ground",
+            "timestamp": 1785414840000,
+            "date": "2026-07-30"
+        },
+        {
+            "title": "Amazon Overhauls AI Strategy as Flagship Nova Models Wind Down - Yahoo Finance",
+            "summary_en": "Amazon is reportedly deprecating several Nova models to consolidate resources for a new flagship project led by Pieter Abbeel, aiming to improve its competitiveness against industry leaders like OpenAI and Google.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/amazon-overhauls-ai-strategy-flagship-174413868.html",
+            "timestamp": 1785260653000,
+            "date": "2026-07-28"
+        },
         {
             "title": "OpenAI launches free AI access program for academic researchers - Axios",
             "summary_en": "OpenAI has introduced a new initiative to provide academic researchers with free access to its advanced artificial intelligence technologies to foster scientific innovation.",
@@ -678,27 +699,6 @@
             "summary_en": "OpenAI has outlined a timeline to achieve intern-level AI research capabilities by September 2026, aiming for fully autonomous research systems by March 2028. To support these goals, the company is planning a massive $1.4 trillion investment in computational infrastructure.",
             "link": "https://cryptobriefing.com/openai-intern-level-ai-research-september",
             "timestamp": 1783961129000,
-            "date": "2026-07-13"
-        },
-        {
-            "title": "Google's In-House AI Chip Strategy Could Be a Bigger Threat to Nvidia Than Investors Think. Here's Why. - The Motley Fool",
-            "summary_en": "Google is increasingly deploying its proprietary Tensor Processing Units (TPUs) to achieve 30% cost savings and improved efficiency for its Gemini models. By scaling this infrastructure through a 'neocloud' model, Google poses a significant threat to Nvidia’s 86% market share and high profit margins.",
-            "link": "https://www.fool.com/investing/2026/07/12/googles-in-house-ai-chip-strategy-could-be-a-bigge",
-            "timestamp": 1783868700000,
-            "date": "2026-07-12"
-        },
-        {
-            "title": "OpenAI research chief says AI could make Nobel-worthy discoveries within two years - VnExpress International",
-            "summary_en": "OpenAI research chief Mark Chen predicts that AI will produce Nobel-worthy scientific breakthroughs within the next two years. Following recent AI successes in protein folding and long-standing mathematical problems, Chen notes that the technology is rapidly evolving to perform independent high-level research.",
-            "link": "https://e.vnexpress.net/news/tech/personalities/openai-research-chief-says-ai-could-make-nobel-worthy-discoveries-within-two-years-5096650.html",
-            "timestamp": 1783912147000,
-            "date": "2026-07-13"
-        },
-        {
-            "title": "SoftBank, Yaskawa Electric trial physical AI platform using GPU cloud - Telecompaper",
-            "summary_en": "SoftBank and Yaskawa Electric have initiated trials for a physical AI platform that leverages GPU cloud computing. This collaboration aims to integrate advanced AI capabilities into industrial robotics and hardware systems.",
-            "link": "https://www.telecompaper.com/news/softbank-yaskawa-electric-trial-physical-ai-platform-using-gpu-cloud--1576828",
-            "timestamp": 1783922814000,
             "date": "2026-07-13"
         }
     ]
