@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-29 16:26:18",
+    "last_update": "2026-07-30 05:47:18",
     "articles": [
+        {
+            "title": "OpenAI launches free AI access program for academic researchers - Axios",
+            "summary_en": "OpenAI has introduced a new initiative to provide academic researchers with free access to its advanced artificial intelligence technologies to foster scientific innovation.",
+            "link": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol",
+            "timestamp": 1785364534000,
+            "date": "2026-07-29"
+        },
+        {
+            "title": "AI giants back employee-led push asking US government to ‘deliberately pace’ development - The Hill",
+            "summary_en": "Employees from major AI corporations are petitioning the U.S. government to implement a more deliberate, paced development strategy for artificial intelligence technologies.",
+            "link": "https://thehill.com/policy/technology/5996344-ai-development-anthropic-claude-openai-deepmind",
+            "timestamp": 1785333720000,
+            "date": "2026-07-29"
+        },
         {
             "title": "Update: Market Chatter: Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini - Yahoo Finance",
             "summary_en": "Alphabet's Google DeepMind is reportedly disbanding its AlphaFold team as part of a strategic pivot to concentrate resources on its Gemini AI models. This move reflects a broader corporate shift toward prioritizing primary generative AI products over specialized scientific research teams.",
@@ -686,20 +700,6 @@
             "link": "https://www.telecompaper.com/news/softbank-yaskawa-electric-trial-physical-ai-platform-using-gpu-cloud--1576828",
             "timestamp": 1783922814000,
             "date": "2026-07-13"
-        },
-        {
-            "title": "Google's In-House AI Chip Strategy Could Be a Bigger Threat to Nvidia Than Investors Think. Here's Why. - Yahoo Finance",
-            "summary_en": "Google is increasingly prioritizing its custom Tensor Processing Units (TPUs) to achieve up to 30% lower AI compute costs compared to hyperscaler alternatives. By scaling its TPU capacity and potentially leasing it, Google poses a significant long-term threat to Nvidia’s dominance in the AI hardware market.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/googles-house-ai-chip-strategy-142500134.html",
-            "timestamp": 1783866300000,
-            "date": "2026-07-12"
-        },
-        {
-            "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips - The Verge",
-            "summary_en": "Apple’s discontinued self-driving car initiative unintentionally birthed the Neural Engine, now a core component for on-device AI across its product lineup. The company is currently accelerating development of the M7 chip, which is expected to support 1.5TB of RAM and serve as the foundation for future server-grade hardware.",
-            "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-            "timestamp": 1783873626000,
-            "date": "2026-07-12"
         }
     ]
 }
