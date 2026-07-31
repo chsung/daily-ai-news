@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-30 16:40:15",
+    "last_update": "2026-07-31 06:18:27",
     "articles": [
+        {
+            "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns | TechCrunch - TechCrunch",
+            "summary_en": "The Trump administration is pressuring OpenAI to limit the public release of its upcoming model, GPT 5.6, by mandating government-approved, customer-by-customer access. This policy aligns with recent executive orders requiring federal oversight for frontier AI models to mitigate cybersecurity risks.",
+            "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns",
+            "timestamp": 1782430479000,
+            "date": "2026-06-25"
+        },
+        {
+            "title": "Meta plans to release AI-powered prediction market app, documents show - KPBS",
+            "summary_en": "Meta is developing a standalone prediction market app codenamed 'Antwerp' that leverages its Llama AI model to automatically generate questions and resolve outcomes in near real-time. By using virtual 'play money' instead of real currency, the company aims to bypass current legal complexities while testing the platform as a successor to its defunct 2020 app, Forecast.",
+            "link": "https://www.kpbs.org/news/science-technology/2026/06/24/meta-plans-to-release-ai-powered-prediction-market-app-documents-show",
+            "timestamp": 1782326340000,
+            "date": "2026-06-24"
+        },
+        {
+            "title": "Google DeepMind signs AI research deal with film studio A24 - Interaksyon",
+            "summary_en": "Google DeepMind has partnered with independent studio A24 to develop AI-driven creative workflows, backed by a reported $75 million investment from Google. The collaboration focuses on research and infrastructure to support filmmakers while ensuring they maintain full creative control and ownership of their work.",
+            "link": "https://interaksyon.philstar.com/trends-spotlights/2026/06/26/315364/google-deepmind-signs-ai-research-deal-with-film-studio-a24",
+            "timestamp": 1782449423000,
+            "date": "2026-06-26"
+        },
         {
             "title": "Google's Gemini 3.5 Pro release slips to July - Business Insider",
             "summary_en": "Google has delayed the release of its Gemini 3.5 Pro model to July to incorporate feedback from early testers and improve performance in long-horizon tasks. The move comes as Google seeks to better compete with OpenAI and Anthropic, particularly in coding capabilities.",
@@ -678,27 +699,6 @@
             "summary_en": "Anthropic is advancing AI applications in chemistry by training Claude to interpret complex scientific data like NMR spectra and chemical structures directly from research documents. This initiative aims to assist chemists with labor-intensive translation and integration tasks, effectively addressing the data-processing bottleneck in a field where new substances grow by 15,000 daily.",
             "link": "https://www.anthropic.com/research/making-claude-a-chemist",
             "timestamp": 1780687660000,
-            "date": "2026-06-05"
-        },
-        {
-            "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI - NVIDIA Blog",
-            "summary_en": "NVIDIA CEO Jensen Huang visited South Korea to strengthen the AI supply chain and highlight the country's potential as a future leader in robotics and physical AI. During the trip, he confirmed that NVIDIA's Grace Blackwell and Vera Rubin systems are in full production to support an intensive infrastructure buildout scheduled for the second half of the year.",
-            "link": "https://blogs.nvidia.com/blog/korea-ecosystem-2026",
-            "timestamp": 1780638254000,
-            "date": "2026-06-05"
-        },
-        {
-            "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents - NVIDIA Developer",
-            "summary_en": "NVIDIA released the Nemotron 3 Ultra, a 550B-parameter model designed to enhance the reasoning and efficiency of long-running AI agents. Featuring architectural innovations like LatentMoE and hybrid Mamba-Transformer layers, the model reduces task costs by up to 30% and offers 5x higher throughput compared to its peers.",
-            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents",
-            "timestamp": 1780578694000,
-            "date": "2026-06-04"
-        },
-        {
-            "title": "Anthropic warns AI may soon begin recursive self-improvement - Scientific American",
-            "summary_en": "Anthropic has called for a global mechanism to slow frontier AI development, warning that models are nearing a point of 'recursive self-improvement' where human oversight becomes minimal. The company, which reports that Claude now generates over 80% of its internal code, suggests this pause is necessary to allow societal structures to keep pace with rapid technological advancement.",
-            "link": "https://www.scientificamerican.com/article/anthropic-warns-ai-may-soon-begin-recursive-self-improvement",
-            "timestamp": 1780682811000,
             "date": "2026-06-05"
         }
     ]

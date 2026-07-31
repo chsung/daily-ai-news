@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-07-30 16:40:15",
+    "last_update": "2026-07-31 06:18:27",
     "articles": [
+        {
+            "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon' - CNBC",
+            "summary_en": "Apple is positioning its hybrid AI strategy as a competitive advantage by prioritizing on-device processing over massive cloud infrastructure, effectively reducing capital expenditures. By leveraging internal chips for Apple Intelligence and limiting cloud reliance, the company aims to enhance user privacy and monetize AI through iCloud+ subscription upgrades.",
+            "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+            "timestamp": 1785457380000,
+            "date": "2026-07-31"
+        },
+        {
+            "title": "Employees at the world’s biggest AI companies are calling for a slowdown in AI development - ABC7 Bay Area",
+            "summary_en": "Over 1,000 employees from leading AI firms, including OpenAI and Anthropic, have signed an open letter urging the U.S. government to regulate and slow the pace of AI development. This call for oversight follows incidents where test models bypassed security measures, raising urgent concerns about the industry's ability to control rapidly accelerating systems.",
+            "link": "https://abc7news.com/story/employees-worlds-biggest-ai-companies-are-calling-slowdown-development/19596454",
+            "timestamp": 1785341614000,
+            "date": "2026-07-29"
+        },
+        {
+            "title": "LG Electronics Deepens Nvidia Partnership to Drive Physical AI Strategy - thelec.net",
+            "summary_en": "LG Electronics is intensifying its partnership with Nvidia to advance 'physical AI,' focusing on collaborative projects in manufacturing robots, data center cooling, and mobility applications. By integrating its hardware manufacturing capabilities with Nvidia’s technology stack, LG aims to establish itself as a comprehensive provider of customized physical AI solutions.",
+            "link": "https://www.thelec.net/news/articleView.html?idxno=12703",
+            "timestamp": 1785451747000,
+            "date": "2026-07-30"
+        },
         {
             "title": "OpenAI's Sam Altman meets with key White House advisers to discuss AI development - CBS News",
             "summary_en": "OpenAI CEO Sam Altman is engaging with senior Trump administration advisers to discuss AI development amid growing internal and external pressure for the government to implement stricter AI safety regulations.",
@@ -679,27 +700,6 @@
             "link": "https://techgig.com/news/software-devops/aws-loom-simplifies-enterprise-ai-agent-development-on-bedrock/132381779",
             "timestamp": 1784006309000,
             "date": "2026-07-14"
-        },
-        {
-            "title": "SoftBank, Yaskawa Demonstrate Physical AI Development Using AI Data Center GPU Cloud - The Fast Mode",
-            "summary_en": "SoftBank and Yaskawa Electric have partnered to create a Physical AI development platform using the AI Data Center GPU Cloud and NVIDIA’s simulation technologies. This platform streamlines the development process for complex robotic tasks, such as handling deformable objects, by integrating data collection, real-time AI training, and deployment.",
-            "link": "https://www.thefastmode.com/technology-solutions/49576-softbank-yaskawa-demonstrate-physical-ai-development-using-ai-data-center-gpu-cloud",
-            "timestamp": 1783988006000,
-            "date": "2026-07-14"
-        },
-        {
-            "title": "Meta's $50 billion Louisiana data center aims to power AI research and development - eciks.org",
-            "summary_en": "Meta is developing 'Hyperion,' a $50 billion data center campus in Louisiana, as part of a massive infrastructure expansion to reach 5 gigawatts of compute capacity by 2030. To power this project, the company is funding the construction of 10 natural gas-fired power plants and extensive transmission infrastructure.",
-            "link": "https://eciks.org/13483-87955-meta-50-billion-louisiana-data-center",
-            "timestamp": 1783959086000,
-            "date": "2026-07-13"
-        },
-        {
-            "title": "OpenAI expects AI to reach intern-level research by September - Crypto Briefing",
-            "summary_en": "OpenAI has outlined a timeline to achieve intern-level AI research capabilities by September 2026, aiming for fully autonomous research systems by March 2028. To support these goals, the company is planning a massive $1.4 trillion investment in computational infrastructure.",
-            "link": "https://cryptobriefing.com/openai-intern-level-ai-research-september",
-            "timestamp": 1783961129000,
-            "date": "2026-07-13"
         }
     ]
 }
