@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-31 06:18:27",
+    "last_update": "2026-07-31 16:49:47",
     "articles": [
+        {
+            "title": "Google DeepMind CEO Demis Hassabis calls for US-led AI watchdog with power to pause development - Crypto Briefing",
+            "summary_en": "Google DeepMind CEO Demis Hassabis is proposing a US-led, industry-funded regulatory body with the authority to screen powerful AI models and pause development if safety standards are not met. The plan aims to mitigate risks associated with the rapid 'race conditions' in the industry, though critics suggest it may create high barriers to entry for smaller competitors.",
+            "link": "https://cryptobriefing.com/google-deepmind-hassabis-us-ai-watchdog",
+            "timestamp": 1784021955000,
+            "date": "2026-07-14"
+        },
+        {
+            "title": "AWS Loom Simplifies Enterprise AI Agent Development on Bedrock - TechGig",
+            "summary_en": "AWS has launched Loom, an open-source, enterprise-grade platform designed to streamline the lifecycle management, deployment, and observability of AI agents on Amazon Bedrock. The tool simplifies complex tasks like IAM role management and authentication, allowing teams to progress from local testing to production-ready deployments on AWS ECS Fargate.",
+            "link": "https://techgig.com/news/software-devops/aws-loom-simplifies-enterprise-ai-agent-development-on-bedrock/132381779",
+            "timestamp": 1784006309000,
+            "date": "2026-07-14"
+        },
         {
             "title": "SoftBank, Yaskawa Demonstrate Physical AI Development Using AI Data Center GPU Cloud - The Fast Mode",
             "summary_en": "SoftBank and Yaskawa Electric have partnered to create a Physical AI development platform using the AI Data Center GPU Cloud and NVIDIA’s simulation technologies. This platform streamlines the development process for complex robotic tasks, such as handling deformable objects, by integrating data collection, real-time AI training, and deployment.",
@@ -686,20 +700,6 @@
             "link": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
             "timestamp": 1782484140000,
             "date": "2026-06-26"
-        },
-        {
-            "title": "Apple skips high-end M6 Chips, jumps straight to AI-focused M7 Pro, Max, and Ultra in major Apple Silicon strategy shift - MacDailyNews",
-            "summary_en": "Apple is bypassing high-end M6 chip variants to fast-track its M7 series, prioritizing advanced on-device AI capabilities and increased memory bandwidth for its professional Mac lineup starting in 2027. This strategy marks a major departure from Apple's traditional release cycle, reflecting a deeper commitment to localized AI processing.",
-            "link": "https://macdailynews.com/2026/06/26/apple-skips-high-end-m6-chips-jumps-straight-to-ai-focused-m7-pro-max-and-ultra-in-major-apple-silicon-strategy-shift",
-            "timestamp": 1782482447000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "A Berkeley AI professor makes a provocative argument for decelerating AI research - Fast Company",
-            "summary_en": "A UC Berkeley professor has sparked debate within the industry by formally advocating for a deceleration in AI research. The argument suggests that slowing development is necessary to address the profound safety, ethical, and societal risks posed by rapidly accelerating artificial intelligence capabilities.",
-            "link": "https://www.fastcompany.com/91564629/a-berkeley-ai-professor-makes-a-provocative-argument-for-decelerating-ai-research",
-            "timestamp": 1782403559000,
-            "date": "2026-06-25"
         }
     ]
 }

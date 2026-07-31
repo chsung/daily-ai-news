@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-07-31 06:18:27",
+    "last_update": "2026-07-31 16:49:47",
     "articles": [
+        {
+            "title": "Apple skips high-end M6 Chips, jumps straight to AI-focused M7 Pro, Max, and Ultra in major Apple Silicon strategy shift - MacDailyNews",
+            "summary_en": "Apple is bypassing high-end M6 chip variants to fast-track its M7 series, prioritizing advanced on-device AI capabilities and increased memory bandwidth for its professional Mac lineup starting in 2027. This strategy marks a major departure from Apple's traditional release cycle, reflecting a deeper commitment to localized AI processing.",
+            "link": "https://macdailynews.com/2026/06/26/apple-skips-high-end-m6-chips-jumps-straight-to-ai-focused-m7-pro-max-and-ultra-in-major-apple-silicon-strategy-shift",
+            "timestamp": 1782482447000,
+            "date": "2026-06-26"
+        },
+        {
+            "title": "A Berkeley AI professor makes a provocative argument for decelerating AI research - Fast Company",
+            "summary_en": "A UC Berkeley professor has sparked debate within the industry by formally advocating for a deceleration in AI research. The argument suggests that slowing development is necessary to address the profound safety, ethical, and societal risks posed by rapidly accelerating artificial intelligence capabilities.",
+            "link": "https://www.fastcompany.com/91564629/a-berkeley-ai-professor-makes-a-provocative-argument-for-decelerating-ai-research",
+            "timestamp": 1782403559000,
+            "date": "2026-06-25"
+        },
         {
             "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns | TechCrunch - TechCrunch",
             "summary_en": "The Trump administration is pressuring OpenAI to limit the public release of its upcoming model, GPT 5.6, by mandating government-approved, customer-by-customer access. This policy aligns with recent executive orders requiring federal oversight for frontier AI models to mitigate cybersecurity risks.",
@@ -686,20 +700,6 @@
             "link": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory",
             "timestamp": 1780887870000,
             "date": "2026-06-08"
-        },
-        {
-            "title": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories - NVIDIA Newsroom",
-            "summary_en": "NVIDIA and SK hynix have entered a multiyear partnership to co-develop next-generation memory for AI supercomputers and robotic platforms like NVIDIA Vera Rubin and Jetson Thor. The collaboration also focuses on leveraging NVIDIA’s CUDA-X and Omniverse platforms to drive autonomous semiconductor manufacturing through AI-accelerated chip design and digital twin factory operations.",
-            "link": "https://nvidianews.nvidia.com/news/sk-hynix-ai-factory",
-            "timestamp": 1780873864000,
-            "date": "2026-06-07"
-        },
-        {
-            "title": "Making Claude a chemist - Anthropic",
-            "summary_en": "Anthropic is advancing AI applications in chemistry by training Claude to interpret complex scientific data like NMR spectra and chemical structures directly from research documents. This initiative aims to assist chemists with labor-intensive translation and integration tasks, effectively addressing the data-processing bottleneck in a field where new substances grow by 15,000 daily.",
-            "link": "https://www.anthropic.com/research/making-claude-a-chemist",
-            "timestamp": 1780687660000,
-            "date": "2026-06-05"
         }
     ]
 }
