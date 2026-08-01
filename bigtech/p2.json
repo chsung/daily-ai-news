@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-07-31 17:16:10",
+    "last_update": "2026-08-01 16:43:44",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1784109600000,
+            "date": "2026-07-15",
+            "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+            "summary_kr": "OpenAI는 자동화된 레드팀 모델인 'GPT-Red'를 개발하여 모델의 취약점을 선제적으로 탐지하고, 적대적 학습을 통해 차세대 모델의 보안성을 비약적으로 향상시켰습니다.",
+            "summary_en": "OpenAI has developed 'GPT-Red,' an automated red-teaming model that scales vulnerability detection and utilizes adversarial training to significantly improve the robustness of future models against prompt injection attacks.",
+            "link": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1784073600000,
+            "date": "2026-07-15",
+            "title": "Grok Build is Now Open Source",
+            "summary_kr": "xAI는 코딩 에이전트 및 TUI인 'Grok Build'를 오픈소스로 공개하여 투명성을 높이고 로컬 환경에서의 개발 및 확장을 지원합니다.",
+            "summary_en": "xAI has open-sourced its coding agent and TUI, 'Grok Build,' to enable greater transparency, community-driven development, and fully local operations.",
+            "link": "https://x.ai/news/grok-build-open-source"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784116800000,
+            "date": "2026-07-15",
+            "title": "The US is advancing AI safety through state and federal action",
+            "summary_kr": "미국은 주 정부들의 입법 노력을 통해 사실상의 국가 표준을 확립하고 있으며, 이를 기반으로 민주적 가치를 투영한 AI 안전 글로벌 프레임워크를 구축하고자 합니다.",
+            "summary_en": "The U.S. is leveraging 'reverse federalism' through aligned state-level legislation to establish a de facto national standard, aiming to anchor a democratic global framework for AI safety.",
+            "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784053232000,
+            "date": "2026-07-14",
+            "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
+            "summary_kr": "NVIDIA Nemotron 챌린지는 AI 추론 성능 향상의 핵심이 단순한 데이터 양보다 검증 가능한 'Chain-of-Thought' 데이터 구축과 토큰 효율성을 고려한 체계적인 엔지니어링 워크플로우에 있음을 입증했습니다.",
+            "summary_en": "The NVIDIA Nemotron challenge demonstrated that superior AI reasoning performance stems from systematic engineering workflows, specifically emphasizing verifiable chain-of-thought data and token-efficient design over mere data scaling.",
+            "link": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1784023200000,
@@ -864,42 +900,6 @@
             "summary_kr": "크래프톤은 엔비디아 ACE와 소형 언어 모델을 활용해 플레이어와 실시간으로 소통하고 협력하는 지능형 '공동 플레이 캐릭터(CPC)'인 'PUBG Ally'를 선보였습니다.",
             "summary_en": "KRAFTON has introduced 'PUBG Ally,' an intelligent co-playable character (CPC) powered by NVIDIA ACE and small language models, capable of real-time communication and dynamic cooperation with players.",
             "link": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782403200000,
-            "date": "2026-06-25",
-            "title": "Turning brain prediction models into testable explanations",
-            "summary_kr": "생성적 인과 검사(GCT)는 블랙박스인 뇌 예측 모델을 LLM을 활용해 검증 가능한 과학적 가설로 변환함으로써, 특정 뇌 영역의 반응 원리를 명확히 규명하는 새로운 분석 프레임워크입니다.",
-            "summary_en": "Generative Causal Testing (GCT) is a new framework that translates opaque brain-prediction models into testable scientific hypotheses using LLMs, effectively closing the gap between computational prediction and neurological understanding.",
-            "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782352800000,
-            "date": "2026-06-25",
-            "title": "How agents are transforming work",
-            "summary_kr": "에이전트형 AI는 단발성 질문을 넘어 장시간 독립적으로 복잡한 업무를 수행하며 지식 노동의 패러다임을 변화시키고 있습니다. 특히 비개발 직군을 포함한 전 영역에서 에이전트 도구의 활용이 급증하며 생산성의 혁신을 이끌고 있습니다.",
-            "summary_en": "Agentic AI is transforming knowledge work by shifting from short, single-task interactions to the independent execution of complex, long-horizon projects. This evolution has driven widespread adoption across all departments, including non-technical roles, fundamentally reshaping productivity.",
-            "link": "https://openai.com/index/how-agents-are-transforming-work"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1782345600000,
-            "date": "2026-06-25",
-            "title": "Explore the markets with Interactive Brokers and Grok",
-            "summary_kr": "인터랙티브 브로커스가 그록(Grok) AI를 통합하여 고객들에게 포트폴리오 분석, 시장 조사, 주문 실행 등 실시간 투자 지원 기능을 제공합니다.",
-            "summary_en": "Interactive Brokers has integrated Grok AI to provide clients with real-time portfolio analysis, market research, and seamless order execution capabilities.",
-            "link": "https://x.ai/news/grok-interactive-brokers"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782334464000,
-            "date": "2026-06-24",
-            "title": "Scaling cybercrime disruption through innovation and AI",
-            "summary_kr": "마이크로소프트는 AI를 활용해 범죄 인프라의 연관성을 분석함으로써 개별 악성코드가 아닌 사이버 범죄 공급망 전체를 효율적으로 차단하는 전략을 도입했습니다.",
-            "summary_en": "Microsoft is pivoting to a supply-chain disruption strategy, utilizing AI to analyze and dismantle interconnected cybercrime infrastructures rather than targeting individual threats in isolation.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/06/24/scaling-cybercrime-disruption-through-innovation-and-ai"
         }
     ]
 }
