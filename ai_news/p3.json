@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-01 16:05:39",
+    "last_update": "2026-08-02 06:08:15",
     "articles": [
+        {
+            "title": "A24 Defends AI Deal With Google: We'd Rather Have a Seat at the Table - Variety",
+            "summary_en": "A24 is defending its new research partnership with Google’s DeepMind, asserting that the collaboration allows the studio to actively influence the development of AI tools rather than remaining on the sidelines.",
+            "link": "https://variety.com/2026/film/news/a24-defends-ai-deal-google-1236791441",
+            "timestamp": 1782500580000,
+            "date": "2026-06-26"
+        },
         {
             "title": "Apple will skip its high-end M6 Mac chips and fast-track an AI-focused M7 generation for 2027, report claims — may release a base M6 chip for entry-level Macs this year - Tom's Hardware",
             "summary_en": "Apple reportedly plans to skip high-end versions of its M6 chip, opting to fast-track the AI-optimized M7 generation by 2027 to significantly increase memory bandwidth for on-device AI performance.",
@@ -692,13 +699,6 @@
             "summary_en": "OpenAI has confidentially submitted a draft S-1 registration statement to the SEC, marking an initial step toward a potential public offering. While the company has not finalized its IPO timeline, it stated that filing now provides the flexibility to transition to public markets when deemed strategically advantageous.",
             "link": "https://openai.com/index/openai-submits-confidential-s-1",
             "timestamp": 1780953598000,
-            "date": "2026-06-08"
-        },
-        {
-            "title": "WWDC26: Apple unveils next generation of Apple Intelligence, Siri AI, powerful parental controls, and an expansive set of software improvements - Apple",
-            "summary_en": "At WWDC26, Apple introduced the next generation of Apple Intelligence and a significantly upgraded Siri AI capable of cross-app actions and deep personal context understanding. The release also debuts enhanced parental controls, allowing for granular digital safety management and age-appropriate app restrictions across the Apple ecosystem.",
-            "link": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
-            "timestamp": 1780942967000,
             "date": "2026-06-08"
         }
     ]

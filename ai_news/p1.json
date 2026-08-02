@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-01 16:05:39",
+    "last_update": "2026-08-02 06:08:15",
     "articles": [
+        {
+            "title": "AI coding agents can modernize research software but can't judge if the science is right - the-decoder.com",
+            "summary_en": "A report from OpenAI and academic partners demonstrates that AI coding agents can drastically modernize fragile research software, achieving performance speedups of over 60 times in some cases. However, researchers warn that these agents are prone to 'confidently wrong' outputs, necessitating independent human verification to ensure scientific accuracy.",
+            "link": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right",
+            "timestamp": 1785594587000,
+            "date": "2026-08-01"
+        },
         {
             "title": "How Amazon's AI chip business reached a $25B revenue run rate - About Amazon",
             "summary_en": "Amazon’s custom-designed chip business, featuring the Trainium and Graviton lines, has surpassed a $25 billion annual revenue run rate. This growth is driven by massive infrastructure commitments from major AI labs, including Anthropic and OpenAI, seeking better price-performance efficiency.",
@@ -693,13 +700,6 @@
             "link": "https://finance.biggo.com/news/be970c58-eaa5-44eb-bd8d-1266575a0f59",
             "timestamp": 1784167560000,
             "date": "2026-07-16"
-        },
-        {
-            "title": "Inside Anthropic’s state-by-state plan to ratchet up AI rules - Politico",
-            "summary_en": "Anthropic is actively engaging in a state-by-state strategy to influence and strengthen legislative frameworks governing artificial intelligence development and deployment.",
-            "link": "https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415",
-            "timestamp": 1784105100000,
-            "date": "2026-07-15"
         }
     ]
 }
