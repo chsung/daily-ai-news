@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-02 06:08:15",
+    "last_update": "2026-08-02 16:06:12",
     "articles": [
+        {
+            "title": "Tech industry grapples with Trump’s AI about-faces - Politico",
+            "summary_en": "The technology industry is currently navigating significant uncertainty as it anticipates potential shifts in artificial intelligence policy under a Trump administration.",
+            "link": "https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862",
+            "timestamp": 1782568800000,
+            "date": "2026-06-27"
+        },
         {
             "title": "A24 Defends AI Deal With Google: We'd Rather Have a Seat at the Table - Variety",
             "summary_en": "A24 is defending its new research partnership with Google’s DeepMind, asserting that the collaboration allows the studio to actively influence the development of AI tools rather than remaining on the sidelines.",
@@ -693,13 +700,6 @@
             "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
             "timestamp": 1781024922000,
             "date": "2026-06-09"
-        },
-        {
-            "title": "Confidential submission of draft S-1 to the SEC - OpenAI",
-            "summary_en": "OpenAI has confidentially submitted a draft S-1 registration statement to the SEC, marking an initial step toward a potential public offering. While the company has not finalized its IPO timeline, it stated that filing now provides the flexibility to transition to public markets when deemed strategically advantageous.",
-            "link": "https://openai.com/index/openai-submits-confidential-s-1",
-            "timestamp": 1780953598000,
-            "date": "2026-06-08"
         }
     ]
 }

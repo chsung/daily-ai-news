@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-02 06:08:15",
+    "last_update": "2026-08-02 16:06:12",
     "articles": [
+        {
+            "title": "NVIDIA Unveils Edge AI Products Jetson T3000 and T2000; CEO Jensen Huang Accelerates Robotics Strategy in Japan - finance.biggo.com",
+            "summary_en": "Nvidia has introduced the new Jetson T3000 and T2000 Edge AI products as part of CEO Jensen Huang's broader push to expand the company's robotics strategy in the Japanese market. These hardware releases signify Nvidia's commitment to delivering specialized AI computing power for decentralized industrial and robotic applications.",
+            "link": "https://finance.biggo.com/news/be970c58-eaa5-44eb-bd8d-1266575a0f59",
+            "timestamp": 1784167560000,
+            "date": "2026-07-16"
+        },
         {
             "title": "Inside Anthropic’s state-by-state plan to ratchet up AI rules - Politico",
             "summary_en": "Anthropic is actively engaging in a state-by-state strategy to influence and strengthen legislative frameworks governing artificial intelligence development and deployment.",
@@ -693,13 +700,6 @@
             "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval",
             "timestamp": 1782493500000,
             "date": "2026-06-26"
-        },
-        {
-            "title": "Tech industry grapples with Trump’s AI about-faces - Politico",
-            "summary_en": "The technology industry is currently navigating significant uncertainty as it anticipates potential shifts in artificial intelligence policy under a Trump administration.",
-            "link": "https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862",
-            "timestamp": 1782568800000,
-            "date": "2026-06-27"
         }
     ]
 }
