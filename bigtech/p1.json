@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-08-01 16:43:44",
+    "last_update": "2026-08-03 17:38:22",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785772800000,
+            "date": "2026-08-03",
+            "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+            "summary_kr": "본 기사는 KAI Scheduler와 vCluster를 활용하여 단일 하드웨어 인프라에서 각 팀별로 격리된 제어 평면을 제공함으로써, GPU 리소스 공유와 팀 자율성을 동시에 확보하는 방법을 제시합니다.",
+            "summary_en": "This article introduces a pattern for maintaining team autonomy on shared GPU infrastructure by using KAI Scheduler and vCluster to provide isolated control planes for each tenant.",
+            "link": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785772800000,
+            "date": "2026-08-03",
+            "title": "Orchard: An open framework for scalable agentic AI",
+            "summary_kr": "Orchard는 재사용 가능한 환경 서비스인 'Orchard Env'를 통해 연구자가 다양한 도메인의 자율 에이전트를 효율적으로 학습하고 평가할 수 있도록 지원하는 오픈소스 프레임워크입니다.",
+            "summary_en": "Orchard is an open-source framework that leverages 'Orchard Env,' a reusable environment service, to enable researchers to scalably train and evaluate agentic AI across diverse, complex real-world tasks.",
+            "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1785542400000,
@@ -882,24 +900,6 @@
             "summary_kr": "NVIDIA DeepStream 9.1은 자동 카메라 보정(AMC)과 다중 시점 3D 추적(MV3DT) 기능을 통해 복잡한 설정 없이도 대규모 공간에서 정확하고 일관된 객체 추적을 구현합니다.",
             "summary_en": "NVIDIA DeepStream 9.1 simplifies complex vision AI deployments by introducing AutoMagicCalib (AMC) and Multi-View 3D Tracking (MV3DT) for seamless, cross-camera object tracking in large-scale environments.",
             "link": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784152643000,
-            "date": "2026-07-15",
-            "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
-            "summary_kr": "엔비디아의 nanousd-labs는 AI 에이전트를 활용해 OpenUSD 표준 사양으로부터 특정 워크로드에 최적화된 경량화 USD 런타임을 자동으로 생성하는 새로운 개발 방식을 제시합니다.",
-            "summary_en": "NVIDIA's nanousd-labs introduces a new development methodology that utilizes AI agents to automatically generate lightweight, workload-optimized USD runtimes directly from the official OpenUSD core specification.",
-            "link": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784137032000,
-            "date": "2026-07-15",
-            "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
-            "summary_kr": "NVIDIA CUDA 13.3에 도입된 새로운 'clmad' 하드웨어 명령어를 통해 암호화 및 영지식 증명 작업의 핵심인 캐리리스 곱셈(carryless multiplication) 속도가 비약적으로 향상되었습니다.",
-            "summary_en": "NVIDIA CUDA 13.3 introduces the 'clmad' hardware instruction, providing native acceleration for carryless multiplication and delivering massive performance gains for cryptographic workloads and zero-knowledge proof systems.",
-            "link": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3"
         }
     ]
 }
