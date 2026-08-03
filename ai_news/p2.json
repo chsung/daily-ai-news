@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-03 06:29:47",
+    "last_update": "2026-08-03 17:12:47",
     "articles": [
+        {
+            "title": "AWS Unveils AI Development Tool 'Kiro' — \"Spec-First Design Cuts Trial-and-Error and Costs\" - finance.biggo.com",
+            "summary_en": "AWS has launched 'Kiro,' an AI development tool that utilizes a 'spec-first' design methodology to automate the entire development lifecycle through 11 specialized AI agents. By prioritizing requirements and design documentation before coding, Kiro reportedly achieves 6 to 10 times higher cost efficiency than standard AI coding tools.",
+            "link": "https://finance.biggo.com/news/329e4fa2-253f-4878-8ed5-cc3644282a1f",
+            "timestamp": 1784192220000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch - TechCrunch",
+            "summary_en": "Thinking Machines has released 'Inkling,' an open-weight mixture-of-experts model designed for enterprises to fine-tune according to their specific needs. The startup positions this model as a departure from one-size-fits-all proprietary systems, arguing that organization-specific AI offers better performance and avoids the data privacy risks associated with closed models.",
+            "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling",
+            "timestamp": 1784138646000,
+            "date": "2026-07-15"
+        },
+        {
+            "title": "Nvidia partners with Japan robotics firms on AI development - Yahoo Finance",
+            "summary_en": "Nvidia is strengthening its foothold in the robotics sector through new partnerships with Japanese industrial giants Fanuc and Yaskawa Electric. CEO Jensen Huang emphasizes that these collaborations aim to make robots smarter and more adaptable by integrating advanced AI technology.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partners-japan-robotics-firms-045556438.html",
+            "timestamp": 1784177700000,
+            "date": "2026-07-16"
+        },
         {
             "title": "Toyota expands Nvidia collaboration for AI-powered vehicle development - Telecompaper",
             "summary_en": "Toyota is expanding its strategic collaboration with Nvidia to accelerate the development of AI-powered vehicle technologies. This partnership builds on their existing relationship to further integrate high-performance computing into the next generation of automotive systems.",
@@ -679,27 +700,6 @@
             "link": "https://www.scmp.com/tech/tech-trends/article/3358639/ai-agents-provide-economic-value-are-next-frontier-says-meta-ai-research-chief",
             "timestamp": 1782702005000,
             "date": "2026-06-29"
-        },
-        {
-            "title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
-            "summary_en": "The U.S. government has partially lifted its ban on Anthropic's Claude Mythos 5 model, granting access to select cybersecurity firms tasked with protecting critical infrastructure. This decision follows weeks of tension over the administration's strict oversight and concerns regarding potential misuse of frontier AI models by foreign military intelligence.",
-            "link": "https://www.dw.com/en/us-allows-partial-release-of-anthropics-mythos-ai-model/a-77732252",
-            "timestamp": 1782646650000,
-            "date": "2026-06-28"
-        },
-        {
-            "title": "Google DeepMind strikes AI research deal with A24 - IBC.org",
-            "summary_en": "Google DeepMind has entered into a strategic research partnership with independent film studio A24, involving a reported $75 million investment. The collaboration aims to co-develop AI-driven creative workflows and production tools, reflecting a broader industry trend of Hollywood studios integrating generative AI to streamline filmmaking processes.",
-            "link": "https://www.ibc.org/artificial-intelligence/news/google-deepmind-strikes-ai-research-deal-with-a24/22794",
-            "timestamp": 1782637297000,
-            "date": "2026-06-28"
-        },
-        {
-            "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies - CNBC",
-            "summary_en": "The U.S. government has granted Anthropic limited permission to deploy its Mythos 5 model to approximately 100 federal agencies and corporate partners. This decision marks a partial breakthrough in the ongoing standoff between Anthropic and the administration, although access to the company's Fable 5 model remains suspended due to national security concerns.",
-            "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
-            "timestamp": 1782514752000,
-            "date": "2026-06-26"
         }
     ]
 }

@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-03 06:29:47",
+    "last_update": "2026-08-03 17:12:47",
     "articles": [
+        {
+            "title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
+            "summary_en": "The U.S. government has partially lifted its ban on Anthropic's Claude Mythos 5 model, granting access to select cybersecurity firms tasked with protecting critical infrastructure. This decision follows weeks of tension over the administration's strict oversight and concerns regarding potential misuse of frontier AI models by foreign military intelligence.",
+            "link": "https://www.dw.com/en/us-allows-partial-release-of-anthropics-mythos-ai-model/a-77732252",
+            "timestamp": 1782646650000,
+            "date": "2026-06-28"
+        },
+        {
+            "title": "Google DeepMind strikes AI research deal with A24 - IBC.org",
+            "summary_en": "Google DeepMind has entered into a strategic research partnership with independent film studio A24, involving a reported $75 million investment. The collaboration aims to co-develop AI-driven creative workflows and production tools, reflecting a broader industry trend of Hollywood studios integrating generative AI to streamline filmmaking processes.",
+            "link": "https://www.ibc.org/artificial-intelligence/news/google-deepmind-strikes-ai-research-deal-with-a24/22794",
+            "timestamp": 1782637297000,
+            "date": "2026-06-28"
+        },
+        {
+            "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies - CNBC",
+            "summary_en": "The U.S. government has granted Anthropic limited permission to deploy its Mythos 5 model to approximately 100 federal agencies and corporate partners. This decision marks a partial breakthrough in the ongoing standoff between Anthropic and the administration, although access to the company's Fable 5 model remains suspended due to national security concerns.",
+            "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+            "timestamp": 1782514752000,
+            "date": "2026-06-26"
+        },
         {
             "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them - WIRED",
             "summary_en": "OpenAI is delaying the public release of its new GPT-5.6 models—Sol, Terra, and Luna—to comply with a Trump administration mandate requiring government pre-approval of initial users. While OpenAI views this as a temporary measure to ensure future availability, the lack of an established regulatory framework has created significant uncertainty regarding the government's role in AI product launches.",
@@ -678,27 +699,6 @@
             "summary_en": "Nebius has launched a six-month 'Physical AI Living Lab' to provide European and British robotics startups with direct access to NVIDIA’s simulation tools and high-performance cloud compute. By removing infrastructure barriers, the program enables founders to transition faster from prototype development to real-world deployment using NVIDIA RTX PRO Blackwell GPUs.",
             "link": "https://nebius.com/newsroom/nebius-launches-physical-ai-living-lab-for-uk-and-european-robotics-startups-built-with-nvidia-technologies",
             "timestamp": 1780987592000,
-            "date": "2026-06-09"
-        },
-        {
-            "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant - Apple",
-            "summary_en": "Apple has introduced Siri AI, a major evolution of its assistant powered by Apple Intelligence that features deep onscreen awareness and the ability to retrieve context from personal apps. The system leverages a new privacy-focused architecture to provide conversational responses and perform systemwide actions across messages, emails, and third-party integrations.",
-            "link": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant",
-            "timestamp": 1780976987000,
-            "date": "2026-06-09"
-        },
-        {
-            "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate - blog.google",
-            "summary_en": "Google has launched Gemini 3.5 Live Translate, an audio model capable of continuous, real-time speech-to-speech translation across more than 70 languages. By processing streaming audio to mimic the speaker's original intonation and pacing, the model aims to eliminate latency in multilingual meetings and consumer-facing applications.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate",
-            "timestamp": 1781018110000,
-            "date": "2026-06-09"
-        },
-        {
-            "title": "OpenAI Joins Anthropic in Call for International AI Watchdog - Gizmodo",
-            "summary_en": "OpenAI has officially joined Anthropic in advocating for the establishment of an international AI regulatory body. This move reflects a growing industry consensus among leading AI labs on the necessity for global oversight to address the safety and societal risks of advanced artificial intelligence.",
-            "link": "https://gizmodo.com/openai-joins-anthropic-in-call-for-international-ai-watchdog-2000769442",
-            "timestamp": 1781019629000,
             "date": "2026-06-09"
         }
     ]
