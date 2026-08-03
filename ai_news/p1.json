@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-02 16:06:12",
+    "last_update": "2026-08-03 06:29:47",
     "articles": [
+        {
+            "title": "Alibaba’s AI model Qwen3.8-Max made widely accessible ahead of open-weights release - South China Morning Post",
+            "summary_en": "Alibaba has unveiled its 2.4-trillion-parameter Qwen3.8-Max model, which features advanced native multimodal capabilities and specialized agentic task execution. Simultaneously, the company launched the QwenWork productivity platform to compete with international enterprise tools like ChatGPT Work and Claude Cowork.",
+            "link": "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release",
+            "timestamp": 1785726099000,
+            "date": "2026-08-03"
+        },
         {
             "title": "TEKsystems Joins Claude Partner Network to Enhance AI Solutions for Enterprises - The Futurum Group",
             "summary_en": "TEKsystems has joined Anthropic's Claude Partner Network to offer specialized enterprise AI solutions, capitalizing on a market where over 84% of channel partners anticipate significant growth from AI software by 2026. This strategic alliance grants the firm access to essential technical resources and co-selling infrastructure within an ecosystem projected to reach $41.8 billion by 2029.",
@@ -692,13 +699,6 @@
             "summary_en": "Nvidia is strengthening its foothold in the robotics sector through new partnerships with Japanese industrial giants Fanuc and Yaskawa Electric. CEO Jensen Huang emphasizes that these collaborations aim to make robots smarter and more adaptable by integrating advanced AI technology.",
             "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partners-japan-robotics-firms-045556438.html",
             "timestamp": 1784177700000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "Toyota expands Nvidia collaboration for AI-powered vehicle development - Telecompaper",
-            "summary_en": "Toyota is expanding its strategic collaboration with Nvidia to accelerate the development of AI-powered vehicle technologies. This partnership builds on their existing relationship to further integrate high-performance computing into the next generation of automotive systems.",
-            "link": "https://www.telecompaper.com/news/toyota-expands-nvidia-collaboration-for-ai-powered-vehicle-development--1577171",
-            "timestamp": 1784179797000,
             "date": "2026-07-16"
         }
     ]
