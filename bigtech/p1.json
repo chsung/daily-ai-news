@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-08-03 17:38:22",
+    "last_update": "2026-08-04 17:27:13",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785859200000,
+            "date": "2026-08-04",
+            "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+            "summary_kr": "로봇 정책의 핵심을 VLM 기반 VLA에서 물리 역학을 이해하는 비디오 월드 모델(WAM)로 전환함으로써, 로봇의 물리적 일반화 능력과 학습 효율성을 획기적으로 개선하고 있습니다.",
+            "summary_en": "The paradigm of robot policy is shifting from VLM-based VLAs to World Action Models (WAMs), which leverage video world models to inherently understand physics, significantly enhancing physical generalization and learning efficiency.",
+            "link": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785855600000,
+            "date": "2026-08-04",
+            "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super",
+            "summary_kr": "엔비디아의 Alpamayo 2 Super는 자율주행 개발의 파편화된 워크플로우를 통합한 340억 파라미터 규모의 VLA 모델로, 경로 생성부터 추론, 데이터 라벨링까지 단일 모델로 수행하여 개발 효율성을 극대화합니다.",
+            "summary_en": "NVIDIA's Alpamayo 2 Super is a 34-billion-parameter VLA model that unifies autonomous vehicle development workflows by providing a single foundation for trajectory generation, reasoning, and data labeling to maximize efficiency.",
+            "link": "https://developer.nvidia.com/blog/generate-trajectories-reasoning-traces-and-auto-labels-with-nvidia-alpamayo-2-super"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1785848400000,
+            "date": "2026-08-04",
+            "title": "The latest AI news we announced in July 2026",
+            "summary_kr": "구글은 2026년 7월 업데이트를 통해 효율성이 극대화된 새로운 Gemini 모델과 로봇공학 모델, 그리고 실생활 및 산업 현장에 최적화된 AI 솔루션을 대거 공개하며 AI 생태계의 실용성을 한층 강화했습니다.",
+            "summary_en": "Google's July 2026 updates introduced highly efficient Gemini models, advanced robotics, and practical AI tools, significantly enhancing the utility of its AI ecosystem across daily life and industrial applications.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1785801600000,
+            "date": "2026-08-04",
+            "title": "Tino Cuellar joins Anthropic as Chief Global Affairs Officer",
+            "summary_kr": "앤스로픽은 카네기 국제평화재단 회장이자 전 캘리포니아 대법관인 티노 쿠엘라를 첫 최고 대외협력 책임자(CGAO)로 영입하여 글로벌 정책 및 정부 관계 강화에 나섭니다.",
+            "summary_en": "Anthropic has appointed former California Supreme Court Justice and Carnegie Endowment President Tino Cuéllar as its first Chief Global Affairs Officer to lead the company's global policy and government relations strategy.",
+            "link": "https://www.anthropic.com/news/tino-cuellar"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785801600000,
+            "date": "2026-08-04",
+            "title": "New ways to learn and teach with ChatGPT Work and Codex",
+            "summary_kr": "OpenAI가 교육 현장의 생산성 향상을 위해 K-12 및 대학 교육자와 학생을 위한 맞춤형 ChatGPT 플러그인을 출시하며 AI를 통한 학습 경험의 고도화를 지원합니다.",
+            "summary_en": "OpenAI has introduced specialized ChatGPT plugins for K-12 and college educators and students to enhance educational productivity and enable personalized, AI-driven learning experiences within secure institutional environments.",
+            "link": "https://openai.com/index/learn-teach-chatgpt-work-codex"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785794400000,
+            "date": "2026-08-03",
+            "title": "Apple is getting this wrong",
+            "summary_kr": "OpenAI는 Apple이 제기한 기밀 유출 소송이 허위 정보와 행정적 실수에 기반하고 있다고 반박하며, 자사는 Apple의 영업 비밀을 원하지 않으며 불필요한 소송 대신 혁신에 집중하겠다는 입장을 밝혔습니다.",
+            "summary_en": "OpenAI refutes Apple's trade secret theft lawsuit as being based on misinformation and procedural errors, asserting that they do not possess or seek Apple's confidential data and prefer focusing on innovation over litigation.",
+            "link": "https://openai.com/index/apple-is-getting-this-wrong"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785772800000,
+            "date": "2026-08-03",
+            "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-",
+            "summary_kr": "NVIDIA의 Vera CPU 아키텍처를 탑재한 BlueField-4 STX는 암호화, 압축, 데이터 무결성 검사 등 스토리지 처리 성능을 대폭 향상시켜 에이전트 AI 워크로드의 병목 현상을 해소합니다.",
+            "summary_en": "NVIDIA's Vera CPU-powered BlueField-4 STX significantly boosts storage processing performance—including encryption, compression, and integrity checks—to eliminate bottlenecks in agentic AI workloads.",
+            "link": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785740400000,
+            "date": "2026-08-03",
+            "title": "How we built a realtime system for responsive voice AI in six months",
+            "summary_kr": "GPT-Live는 턴 감지기를 제거하고 음성을 실시간으로 처리하는 풀듀플렉스 아키텍처를 도입하여 인간과 유사한 즉각적이고 자연스러운 대화형 음성 AI를 구현했습니다.",
+            "summary_en": "GPT-Live achieves human-like responsiveness by eliminating turn detectors and implementing a full-duplex architecture that processes audio in real-time.",
+            "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785715200000,
+            "date": "2026-08-03",
+            "title": "Circles powers telco personalization with OpenAI technology",
+            "summary_kr": "Circles는 OpenAI 기술을 기반으로 고객 지원과 개인화 경험을 자동화하는 'CareX'를 통해 통신사의 ARPU를 22% 증대하고 고객 유지율을 개선하는 등 운영 효율성을 대폭 강화했습니다.",
+            "summary_en": "Circles has leveraged OpenAI technology to launch 'CareX', an AI-native platform that automates customer support and personalization, resulting in a 22% increase in ARPU and significantly improved operational efficiency for telco operators.",
+            "link": "https://openai.com/index/circles"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1785772800000,
@@ -819,87 +900,6 @@
             "summary_kr": "앤스로픽은 희귀 유전 질환 연구를 가속화하기 위해 최대 5만 달러의 클로드 크레딧을 지원하는 'AI for Science' 연구 보조금 프로그램을 시작합니다.",
             "summary_en": "Anthropic has launched an 'AI for Science' research grant program offering up to $50,000 in Claude credits to accelerate the study and treatment of rare genetic diseases.",
             "link": "https://www.anthropic.com/news/rare-disease-research-grants"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1784311279000,
-            "date": "2026-07-17",
-            "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI - Source Asia",
-            "summary_kr": "tiket.com은 마이크로소프트 Azure와 협력하여 AI 어시스턴트 'CRATER'를 도입, 고객 경험을 고도화하고 서비스 처리량을 650% 증대시키며 AI 기반 OTA로 성공적으로 전환했습니다.",
-            "summary_en": "tiket.com has successfully transformed into an AI-powered OTA by leveraging Microsoft Azure to launch 'CRATER,' an intelligent agent that has scaled customer service interactions by 650% while providing a seamless, integrated travel experience.",
-            "link": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784282400000,
-            "date": "2026-07-17",
-            "title": "A scorecard for the AI age",
-            "summary_kr": "AI 투자 가치를 측정하기 위해 단순히 토큰당 비용을 따지기보다, 실제 업무가 완료된 성과를 기준으로 한 '달러당 유용한 지능(Useful Intelligence per Dollar)'을 핵심 지표로 삼아야 합니다.",
-            "summary_en": "To measure the true value of AI investments, businesses should shift from tracking token costs to evaluating 'Useful Intelligence per Dollar' based on successful task completion.",
-            "link": "https://openai.com/index/a-scorecard-for-the-ai-age"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784242749000,
-            "date": "2026-07-16",
-            "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
-            "summary_kr": "캡콤은 RE 엔진에 패스 트레이싱 기술을 도입하여 차세대 실시간 렌더링 수준을 구현했으며, 이를 통해 '바이오하자드 레퀴엠'과 '프라그마타'의 조명 품질과 시각적 몰입감을 획기적으로 개선했습니다.",
-            "summary_en": "Capcom has integrated path tracing into its RE ENGINE to achieve next-generation real-time rendering, significantly enhancing lighting quality and visual immersion for 'Resident Evil Requiem' and 'PRAGMATA'.",
-            "link": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1784160000000,
-            "date": "2026-07-16",
-            "title": "Automations in Grok",
-            "summary_kr": "xAI는 사용자가 정의한 작업을 설정된 시간이나 이메일 수신 시 자동으로 실행하는 'Grok Automations' 기능을 출시했습니다.",
-            "summary_en": "xAI has launched 'Grok Automations,' a feature that allows users to set up tasks that run autonomously based on specific schedules or incoming email triggers.",
-            "link": "https://x.ai/news/grok-automations"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784217815000,
-            "date": "2026-07-16",
-            "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
-            "summary_kr": "NVIDIA NemoClaw와 AI 청사진을 통합하면 단순한 영상 분석을 넘어, 조직의 지식과 연동된 자율형 에이전트가 기업 워크플로우 내에서 실질적인 대응 조치를 수행할 수 있습니다.",
-            "summary_en": "Integrating NVIDIA NemoClaw with AI blueprints enables autonomous agents to move beyond simple video analysis by orchestrating organizational context to execute actionable workflows across enterprise systems.",
-            "link": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784217600000,
-            "date": "2026-07-16",
-            "title": "Why teens deserve access to safe AI",
-            "summary_kr": "OpenAI는 청소년들이 AI를 학습 및 성장의 도구로 활용할 수 있도록 보장하는 한편, 연령에 적합한 보호 장치와 교육적 기능을 통해 안전하고 책임감 있는 사용 환경을 조성하고 있습니다.",
-            "summary_en": "OpenAI emphasizes providing teens with access to AI for learning and development while implementing age-appropriate safeguards and educational tools to ensure safe, responsible engagement.",
-            "link": "https://openai.com/index/why-teens-deserve-access-safe-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784217600000,
-            "date": "2026-07-16",
-            "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
-            "summary_kr": "에이전트 AI의 복잡한 워크플로우를 처리하기 위해 인프라가 추론 파이프라인의 핵심 요소로 진화하고 있으며, NVIDIA BlueField DPU와 DOCA 소프트웨어는 인프라 작업을 분산·가속화하여 AI 팩토리의 효율성과 성능을 극대화합니다.",
-            "summary_en": "As agentic AI makes infrastructure a critical component of the inference pipeline, NVIDIA BlueField DPUs and DOCA software optimize AI factories by offloading, accelerating, and securing data-path services to maximize GPU efficiency.",
-            "link": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784160000000,
-            "date": "2026-07-16",
-            "title": "How Cars24 scales conversations and builds faster with OpenAI",
-            "summary_kr": "Cars24는 OpenAI 기반의 AI 에이전트를 도입하여 고객 응대 효율을 극대화하고, 내부 업무 전반에 생성형 AI를 통합해 운영 비용 절감과 비즈니스 성장을 동시에 달성했습니다.",
-            "summary_en": "Cars24 has scaled its automotive ecosystem by deploying OpenAI-powered agents to enhance customer engagement and integrating generative AI across its internal workflows to drive operational efficiency.",
-            "link": "https://openai.com/index/cars24"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784156400000,
-            "date": "2026-07-15",
-            "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
-            "summary_kr": "NVIDIA DeepStream 9.1은 자동 카메라 보정(AMC)과 다중 시점 3D 추적(MV3DT) 기능을 통해 복잡한 설정 없이도 대규모 공간에서 정확하고 일관된 객체 추적을 구현합니다.",
-            "summary_en": "NVIDIA DeepStream 9.1 simplifies complex vision AI deployments by introducing AutoMagicCalib (AMC) and Multi-View 3D Tracking (MV3DT) for seamless, cross-camera object tracking in large-scale environments.",
-            "link": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills"
         }
     ]
 }
