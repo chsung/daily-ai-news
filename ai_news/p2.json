@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-04 05:54:34",
+    "last_update": "2026-08-04 16:57:27",
     "articles": [
+        {
+            "title": "NVIDIA Showcases Japanese AI Development Built on Nemotron Models - HPCwire",
+            "summary_en": "NVIDIA is partnering with Japanese institutions and enterprises to leverage its Nemotron open-model ecosystem to create AI tailored specifically for the country’s language and industrial needs. By using these specialized models, Japanese firms are addressing workforce challenges and accelerating R&D in sectors ranging from telecommunications to materials science.",
+            "link": "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models",
+            "timestamp": 1784227302000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "Nvidia partners with Japan robotics firms on AI development - Reuters",
+            "summary_en": "Nvidia has entered into a strategic partnership with Japanese robotics firms to accelerate the development and integration of advanced AI technologies into industrial robotics.",
+            "link": "https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16",
+            "timestamp": 1784214448000,
+            "date": "2026-07-16"
+        },
         {
             "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI | TechCrunch - TechCrunch",
             "summary_en": "Microsoft released a record 570 security patches this month, including two zero-day fixes, attributing the high volume to the use of AI tools in identifying long-dormant code vulnerabilities.",
@@ -686,20 +700,6 @@
             "link": "https://www.mobihealthnews.com/news/sandboxaq-bring-scientific-ai-models-google-cloud-marketplace",
             "timestamp": 1782761208000,
             "date": "2026-06-29"
-        },
-        {
-            "title": "Google is launching AI models for science that could cut research time by years - Mezha",
-            "summary_en": "Google is introducing new AI models specifically engineered for scientific research, with the objective of significantly accelerating discovery timelines by years.",
-            "link": "https://mezha.ua/en/news/google-vidkrivaye-dostup-do-shi-yakiy-mozhe-priskoriti-rozrobku-likiv-i-napivprovidnikiv-312755",
-            "timestamp": 1782744360000,
-            "date": "2026-06-29"
-        },
-        {
-            "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - Egypt Independent",
-            "summary_en": "The US government has authorized Anthropic to provide select cybersecurity partners with access to its 'Mythos 5' model after implementing safety safeguards to mitigate national security risks. This decision partially reverses a recent export ban that had restricted the model due to concerns over its potential to rapidly identify and exploit software vulnerabilities.",
-            "link": "https://www.egyptindependent.com/us-government-allows-anthropic-limited-release-of-ai-model-that-sparked-cybersecurity-concerns",
-            "timestamp": 1782649129000,
-            "date": "2026-06-28"
         }
     ]
 }

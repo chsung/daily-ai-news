@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-04 05:54:34",
+    "last_update": "2026-08-04 16:57:27",
     "articles": [
+        {
+            "title": "Google is launching AI models for science that could cut research time by years - Mezha",
+            "summary_en": "Google is introducing new AI models specifically engineered for scientific research, with the objective of significantly accelerating discovery timelines by years.",
+            "link": "https://mezha.ua/en/news/google-vidkrivaye-dostup-do-shi-yakiy-mozhe-priskoriti-rozrobku-likiv-i-napivprovidnikiv-312755",
+            "timestamp": 1782744360000,
+            "date": "2026-06-29"
+        },
+        {
+            "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - Egypt Independent",
+            "summary_en": "The US government has authorized Anthropic to provide select cybersecurity partners with access to its 'Mythos 5' model after implementing safety safeguards to mitigate national security risks. This decision partially reverses a recent export ban that had restricted the model due to concerns over its potential to rapidly identify and exploit software vulnerabilities.",
+            "link": "https://www.egyptindependent.com/us-government-allows-anthropic-limited-release-of-ai-model-that-sparked-cybersecurity-concerns",
+            "timestamp": 1782649129000,
+            "date": "2026-06-28"
+        },
         {
             "title": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians | Governor of California - California State Portal | CA.gov",
             "summary_en": "California has partnered with Anthropic to provide state agencies, cities, and counties with access to the Claude AI assistant at a 50% discount. The initiative includes free workforce training and technical support to improve government efficiency in areas like document analysis, cyber defense, and customer service.",
@@ -686,20 +700,6 @@
             "link": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-anthropic-launch-global-premier-partnership-drive-enterprise-ai-scaling",
             "timestamp": 1781173378000,
             "date": "2026-06-11"
-        },
-        {
-            "title": "How frontier teams are reinventing AI-native development | Amazon Web Services - Amazon Web Services (AWS)",
-            "summary_en": "Amazon Web Services reports that 'frontier teams' integrating AI as a foundational engineering workflow rather than a simple tool achieved up to 20x increases in developer productivity. By redesigning processes to support autonomous agents, these teams delivered complex projects in months that previously required years of development.",
-            "link": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development",
-            "timestamp": 1781139282000,
-            "date": "2026-06-11"
-        },
-        {
-            "title": "Amazon partnership establishes Cornell AI security initiative - Cornell Chronicle",
-            "summary_en": "Amazon has partnered with Cornell University to launch the AI4AI initiative, which aims to develop security protocols and verification frameworks for agentic AI. This project addresses the critical risk of AI agents generating malicious or vulnerable code, ensuring developers can safely leverage automated software generation.",
-            "link": "https://news.cornell.edu/stories/2026/06/amazon-partnership-establishes-cornell-ai-security-initiative",
-            "timestamp": 1781103963000,
-            "date": "2026-06-10"
         }
     ]
 }

@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-04 05:54:34",
+    "last_update": "2026-08-04 16:57:27",
     "articles": [
+        {
+            "title": "AI agents exploit each other in an attack on Google's development platform - Techzine Global",
+            "summary_en": "Security researchers identified a novel 'agent-to-agent' attack within Google’s Agent Development Kit where a low-privilege AI manipulated a more powerful agent into executing unauthorized commands. This vulnerability highlights the systemic risks of implicit trust between collaborating agents in production environments, necessitating stricter, identity-based permission protocols.",
+            "link": "https://www.techzine.eu/news/security/143397/ai-agents-exploit-each-other-in-an-attack-on-googles-development-platform",
+            "timestamp": 1785836798000,
+            "date": "2026-08-04"
+        },
+        {
+            "title": "NVIDIA’s Alpamayo 2 Super Opens Robotaxi Development to Commercial Use - Unite.AI",
+            "summary_en": "NVIDIA has released its 34-billion-parameter Alpamayo 2 Super reasoning model under an open commercial license to accelerate autonomous vehicle training for developers and automakers. Designed as a cloud-based 'teacher model,' it utilizes reinforcement learning to handle complex, rare traffic events while generating explainable data to support safety standards like ISO/PAS 8800.",
+            "link": "https://www.unite.ai/nvidias-alpamayo-2-super-opens-robotaxi-development-to-commercial-use",
+            "timestamp": 1785858535000,
+            "date": "2026-08-04"
+        },
         {
             "title": "White House to host AI companies Tuesday to review new model-testing framework - CNBC",
             "summary_en": "The White House is convening top AI firms to review a new voluntary cybersecurity framework aimed at assessing the risks of frontier models. This initiative allows government agencies, including the NSA, to evaluate high-level models for potential vulnerabilities or cyberattack capabilities before their release.",
@@ -685,20 +699,6 @@
             "summary_en": "OpenAI is developing a mobile, screen-free smart speaker designed to function as an proactive, humanlike home AI companion capable of controlling smart appliances and managing personal tasks. The project, supported by former Apple design talent, utilizes an advanced version of ChatGPT’s voice mode to provide a personalized, physical manifestation of its AI technology.",
             "link": "https://www.latimes.com/business/story/2026-07-16/openai-plans-chatgpt-speaker-as-new-ai-home-companion",
             "timestamp": 1784210760000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "NVIDIA Showcases Japanese AI Development Built on Nemotron Models - HPCwire",
-            "summary_en": "NVIDIA is partnering with Japanese institutions and enterprises to leverage its Nemotron open-model ecosystem to create AI tailored specifically for the country’s language and industrial needs. By using these specialized models, Japanese firms are addressing workforce challenges and accelerating R&D in sectors ranging from telecommunications to materials science.",
-            "link": "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models",
-            "timestamp": 1784227302000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "Nvidia partners with Japan robotics firms on AI development - Reuters",
-            "summary_en": "Nvidia has entered into a strategic partnership with Japanese robotics firms to accelerate the development and integration of advanced AI technologies into industrial robotics.",
-            "link": "https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16",
-            "timestamp": 1784214448000,
             "date": "2026-07-16"
         }
     ]
