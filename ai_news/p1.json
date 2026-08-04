@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-03 17:12:47",
+    "last_update": "2026-08-04 05:54:34",
     "articles": [
+        {
+            "title": "White House to host AI companies Tuesday to review new model-testing framework - CNBC",
+            "summary_en": "The White House is convening top AI firms to review a new voluntary cybersecurity framework aimed at assessing the risks of frontier models. This initiative allows government agencies, including the NSA, to evaluate high-level models for potential vulnerabilities or cyberattack capabilities before their release.",
+            "link": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+            "timestamp": 1785773902000,
+            "date": "2026-08-03"
+        },
+        {
+            "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up - CNBC",
+            "summary_en": "Alibaba has unveiled Qwen3.8-Max, a 2.4-trillion parameter model capable of autonomous long-term coding and processing million-token context windows. The announcement, which highlights performance benchmarks comparable to leading global models, triggered a significant rally in the company's stock price.",
+            "link": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+            "timestamp": 1785753275000,
+            "date": "2026-08-03"
+        },
+        {
+            "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems - BleepingComputer",
+            "summary_en": "OpenAI has begun teasing its upcoming major AI model, Astra, following the system's successful resolution of ten long-standing, complex mathematical problems. Further details on the model's architecture and capabilities remain limited as the company prepares for its official rollout.",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems",
+            "timestamp": 1785709901000,
+            "date": "2026-08-02"
+        },
         {
             "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers - CNBC",
             "summary_en": "The European Union has activated new enforcement powers under the EU AI Act, allowing regulators to audit models, restrict market access, and impose fines of up to 15 million euros or 3% of annual turnover for non-compliance. These regulations apply to all general-purpose AI providers, including U.S.-based firms like OpenAI and Anthropic, regardless of their headquarters' location.",
@@ -678,27 +699,6 @@
             "summary_en": "Nvidia has entered into a strategic partnership with Japanese robotics firms to accelerate the development and integration of advanced AI technologies into industrial robotics.",
             "link": "https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16",
             "timestamp": 1784214448000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI | TechCrunch - TechCrunch",
-            "summary_en": "Microsoft released a record 570 security patches this month, including two zero-day fixes, attributing the high volume to the use of AI tools in identifying long-dormant code vulnerabilities.",
-            "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai",
-            "timestamp": 1784132418000,
-            "date": "2026-07-15"
-        },
-        {
-            "title": "Apple's AI Chip Ambitions Hit a Wall: Reportedly Seeking Semiconductor Startup Acquisitions to Accelerate In-House Server Development - finance.biggo.com",
-            "summary_en": "Facing performance bottlenecks with its M2 Ultra chip and delays in its 'Baltra' server project, Apple is actively seeking semiconductor startup acquisitions to accelerate its in-house AI server chip development.",
-            "link": "https://finance.biggo.com/news/dfa85d1d-b800-4ef7-a37e-7f140ed0ad1c",
-            "timestamp": 1784244360000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "Fujitsu to explore physical AI development and implementation across industries with FANUC, Yaskawa Electric, and Kawasaki Heavy Industries integrating NVIDIA technology - Fujitsu Global",
-            "summary_en": "Fujitsu is partnering with robotics leaders FANUC, Yaskawa Electric, and Kawasaki Heavy Industries to develop a sovereign collaborative platform that integrates NVIDIA’s physical AI technologies. This initiative aims to address Japan's labor shortages by enabling robots to autonomously execute tasks across manufacturing, logistics, and healthcare.",
-            "link": "https://global.fujitsu/en-global/pr/news/2026/07/16-01",
-            "timestamp": 1784172813000,
             "date": "2026-07-16"
         }
     ]
