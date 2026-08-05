@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-04 16:57:27",
+    "last_update": "2026-08-05 05:52:04",
     "articles": [
+        {
+            "title": "White House will exempt ‘open’ AI systems from security review - The Washington Post",
+            "summary_en": "The White House is moving to exempt 'open' AI systems from mandatory security reviews to maintain U.S. competitiveness against international rivals like China. This policy focuses exclusively on 'closed' models developed by firms such as OpenAI, Anthropic, and Google, which remain under stricter oversight.",
+            "link": "https://www.washingtonpost.com/technology/2026/08/04/white-house-will-exempt-open-ai-systems-security-review",
+            "timestamp": 1785906431000,
+            "date": "2026-08-05"
+        },
+        {
+            "title": "Trump admin to review 'closed' AI models before release: reports - The Standard (HK)",
+            "summary_en": "The Trump administration has finalized a security review process for 'closed' AI models, requiring major developers to undergo evaluation before public release. This initiative aims to address safety concerns, such as unauthorized model access, while balancing the need to prevent domestic firms from falling behind in the global AI race.",
+            "link": "https://www.thestandard.com.hk/world/article/339090/Trump-admin-to-review-closed-AI-models-before-release-reports",
+            "timestamp": 1785908130000,
+            "date": "2026-08-05"
+        },
+        {
+            "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’ | SK hynix Newsroom - SK hynix",
+            "summary_en": "SK hynix and Sandisk have unveiled the first industry-standard specifications for High Bandwidth Flash (HBF), a new memory layer designed to bridge the gap between HBM and SSDs. By utilizing the UCIe interface, HBF aims to resolve AI-driven memory bottlenecks by offering scalable bandwidth up to 3.0TB/s and large storage capacities.",
+            "link": "https://news.skhynix.com/en/hbf-at-fms-2026",
+            "timestamp": 1785818492000,
+            "date": "2026-08-04"
+        },
         {
             "title": "AI agents exploit each other in an attack on Google's development platform - Techzine Global",
             "summary_en": "Security researchers identified a novel 'agent-to-agent' attack within Google’s Agent Development Kit where a low-privilege AI manipulated a more powerful agent into executing unauthorized commands. This vulnerability highlights the systemic risks of implicit trust between collaborating agents in production environments, necessitating stricter, identity-based permission protocols.",
@@ -678,27 +699,6 @@
             "summary_en": "Mitsubishi Heavy Industries (MHI) has shipped a 10MW-class centrifugal chiller to the U.S. as part of its strategy to support high-density AI factory cooling requirements. The company is developing a Modular Chiller Plant (MCP) aligned with NVIDIA DSX architectures to improve power and water usage efficiency in industrial-scale data centers.",
             "link": "https://www.mhi.com/news/260716.html",
             "timestamp": 1784188800000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals - Reuters",
-            "summary_en": "Chinese AI startup Moonshot AI has reportedly unveiled the world's largest open-source AI model, marking a significant advancement as the company aims to narrow the competitive gap with leading U.S. AI firms.",
-            "link": "https://www.reuters.com/world/china/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17",
-            "timestamp": 1784253960000,
-            "date": "2026-07-17"
-        },
-        {
-            "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
-            "summary_en": "Moonshot AI has launched Kimi K3, a 2.8-trillion parameter model that significantly closes the performance gap with U.S. leaders by excelling in coding and general agent benchmarks. Despite China's compute constraints, this flagship model's release has intensified domestic competition and sparked concerns among Western lawmakers regarding the global adoption of Chinese AI technologies.",
-            "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
-            "timestamp": 1784277510000,
-            "date": "2026-07-17"
-        },
-        {
-            "title": "OpenAI plans ChatGPT speaker as new AI home companion - Los Angeles Times",
-            "summary_en": "OpenAI is developing a mobile, screen-free smart speaker designed to function as an proactive, humanlike home AI companion capable of controlling smart appliances and managing personal tasks. The project, supported by former Apple design talent, utilizes an advanced version of ChatGPT’s voice mode to provide a personalized, physical manifestation of its AI technology.",
-            "link": "https://www.latimes.com/business/story/2026-07-16/openai-plans-chatgpt-speaker-as-new-ai-home-companion",
-            "timestamp": 1784210760000,
             "date": "2026-07-16"
         }
     ]

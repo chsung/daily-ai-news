@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-04 16:57:27",
+    "last_update": "2026-08-05 05:52:04",
     "articles": [
+        {
+            "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals - Reuters",
+            "summary_en": "Chinese AI startup Moonshot AI has reportedly unveiled the world's largest open-source AI model, marking a significant advancement as the company aims to narrow the competitive gap with leading U.S. AI firms.",
+            "link": "https://www.reuters.com/world/china/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17",
+            "timestamp": 1784253960000,
+            "date": "2026-07-17"
+        },
+        {
+            "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
+            "summary_en": "Moonshot AI has launched Kimi K3, a 2.8-trillion parameter model that significantly closes the performance gap with U.S. leaders by excelling in coding and general agent benchmarks. Despite China's compute constraints, this flagship model's release has intensified domestic competition and sparked concerns among Western lawmakers regarding the global adoption of Chinese AI technologies.",
+            "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+            "timestamp": 1784277510000,
+            "date": "2026-07-17"
+        },
+        {
+            "title": "OpenAI plans ChatGPT speaker as new AI home companion - Los Angeles Times",
+            "summary_en": "OpenAI is developing a mobile, screen-free smart speaker designed to function as an proactive, humanlike home AI companion capable of controlling smart appliances and managing personal tasks. The project, supported by former Apple design talent, utilizes an advanced version of ChatGPT’s voice mode to provide a personalized, physical manifestation of its AI technology.",
+            "link": "https://www.latimes.com/business/story/2026-07-16/openai-plans-chatgpt-speaker-as-new-ai-home-companion",
+            "timestamp": 1784210760000,
+            "date": "2026-07-16"
+        },
         {
             "title": "NVIDIA Showcases Japanese AI Development Built on Nemotron Models - HPCwire",
             "summary_en": "NVIDIA is partnering with Japanese institutions and enterprises to leverage its Nemotron open-model ecosystem to create AI tailored specifically for the country’s language and industrial needs. By using these specialized models, Japanese firms are addressing workforce challenges and accelerating R&D in sectors ranging from telecommunications to materials science.",
@@ -679,27 +700,6 @@
             "link": "https://www.infoworld.com/article/4191163/microsoft-mcp-server-gives-ai-assistants-access-to-msbuild-logs.html",
             "timestamp": 1782832177000,
             "date": "2026-06-30"
-        },
-        {
-            "title": "AWS invests $1 billion in forward deployed AI engineers - About Amazon",
-            "summary_en": "AWS has launched a $1 billion Forward Deployed Engineering organization that embeds expert AI engineers directly into client teams to build agentic, production-ready systems. The initiative focuses on compressing deployment timelines from months to days while ensuring long-term customer self-sufficiency through proprietary knowledge graphs and AI-driven development.",
-            "link": "https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers",
-            "timestamp": 1782831764000,
-            "date": "2026-06-30"
-        },
-        {
-            "title": "Anthropic unveils 'Claude Science' AI platform for scientific research - Yahoo News Canada",
-            "summary_en": "Anthropic has introduced 'Claude Science,' a dedicated platform integrating over 60 scientific databases and specialized visualization tools to streamline complex research and data analysis. The platform aims to accelerate scientific workflows by enabling researchers to manage coding, literature review, and 3D protein rendering within a unified, secure workspace.",
-            "link": "https://ca.news.yahoo.com/anthropic-unveils-claude-science-ai-170242515.html",
-            "timestamp": 1782838962000,
-            "date": "2026-06-30"
-        },
-        {
-            "title": "SandboxAQ to bring scientific AI models to Google Cloud Marketplace - MobiHealthNews",
-            "summary_en": "SandboxAQ is integrating its Large Quantitative Models, including AQCat and AQPotency, into the Google Cloud Marketplace to streamline materials science and drug discovery. By combining these models with Google’s Gemini, researchers can perform complex scientific calculations directly within their existing workflows.",
-            "link": "https://www.mobihealthnews.com/news/sandboxaq-bring-scientific-ai-models-google-cloud-marketplace",
-            "timestamp": 1782761208000,
-            "date": "2026-06-29"
         }
     ]
 }
