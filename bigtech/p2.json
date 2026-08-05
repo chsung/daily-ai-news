@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-08-04 17:27:13",
+    "last_update": "2026-08-05 17:15:21",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1784505600000,
+            "date": "2026-07-20",
+            "title": "Grok for Excel",
+            "summary_kr": "xAI의 Grok이 엑셀 추가 기능으로 출시되어, 자연어 명령만으로 데이터 분석, 수식 작성, 시나리오 시뮬레이션 및 외부 문서 연동을 간편하게 수행할 수 있게 되었습니다.",
+            "summary_en": "xAI has launched a Grok add-in for Excel, enabling users to perform data analysis, generate formulas, run scenarios, and integrate external documents using simple natural language commands.",
+            "link": "https://x.ai/news/introducing-excel-addin"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1784160000000,
+            "date": "2026-07-16",
+            "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+            "summary_kr": "앤스로픽은 희귀 유전 질환 연구를 가속화하기 위해 최대 5만 달러의 클로드 크레딧을 지원하는 'AI for Science' 연구 보조금 프로그램을 시작합니다.",
+            "summary_en": "Anthropic has launched an 'AI for Science' research grant program offering up to $50,000 in Claude credits to accelerate the study and treatment of rare genetic diseases.",
+            "link": "https://www.anthropic.com/news/rare-disease-research-grants"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1784311279000,
@@ -882,24 +900,6 @@
             "summary_kr": "전 세계 경제의 중추인 중소기업(SMB)들이 AI를 단순 생산성 도구를 넘어 업무 프로세스 전반에 내재화하며 혁신적인 운영 모델을 구축하고 경쟁 우위를 선점하고 있습니다.",
             "summary_en": "Small and medium businesses are driving a structural shift by embedding AI into their core workflows, transforming it from a productivity tool into a catalyst for innovation and sustainable competitive advantage.",
             "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782757230000,
-            "date": "2026-06-29",
-            "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum | The Microsoft Cloud Blog",
-            "summary_kr": "AI 에이전트의 발전은 단순한 속도 경쟁을 넘어 인간의 신뢰를 확보하는 것이 핵심이며, 2026 에이전트 신뢰 지수는 실무 전문가들이 반복적이고 소모적인 업무를 자동화하는 과정에서 에이전트의 실질적인 가치를 어떻게 검증하고 있는지 보여줍니다.",
-            "summary_en": "The future of AI agents hinges on establishing trust to enable effective delegation, as evidenced by the 2026 Agent Confidence Index which highlights how technical leaders are successfully offloading repetitive, high-toil tasks to intelligent systems.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782748213000,
-            "date": "2026-06-29",
-            "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
-            "summary_kr": "엔비디아는 기업 환경에서 자율형 AI 에이전트를 안전하게 운영하기 위해 실행 환경을 중앙 관리형 워크스페이스로 분리하고, 네트워크 통제와 실시간 런타임 보안을 적용하는 표준 아키텍처를 제시합니다.",
-            "summary_en": "NVIDIA introduces a secure reference design that shifts autonomous agent execution into managed, isolated workspaces, enforcing robust network controls and runtime governance to enable safe, scalable enterprise AI operations.",
-            "link": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories"
         }
     ]
 }
