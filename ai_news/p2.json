@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-05 16:46:06",
+    "last_update": "2026-08-06 05:55:24",
     "articles": [
+        {
+            "title": "Inside Nvidia’s role in AI factory networking - SiliconANGLE",
+            "summary_en": "Nvidia is shifting the focus of AI infrastructure from raw GPU speed to a systems-level 'extreme co-design' approach where networking, compute, and storage operate as a unified entity. With 95% of organizations now prioritizing network performance, the company's Spectrum-X platform utilizes standard Ethernet to eliminate congestion and maximize AI factory efficiency.",
+            "link": "https://siliconangle.com/2026/07/16/ai-factory-networking-nvidia-analysis-cubeconversations",
+            "timestamp": 1784226614000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers - Dark Reading",
+            "summary_en": "Google Cloud has launched an 'agentic defense' platform by integrating Wiz’s security capabilities with its Gemini AI to automate threat remediation, noting that the average time for attackers to pivot after a breach has plummeted to just 22 seconds. By leveraging a vertical stack from chips to agents, Google aims to replace human-led security with AI-driven, real-time threat response.",
+            "link": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
+            "timestamp": 1784320220000,
+            "date": "2026-07-17"
+        },
+        {
+            "title": "StartupHub.ai primary navigation - StartupHub.ai",
+            "summary_en": "Anthropic is advancing the reliability of AI agents for 'Long-Horizon' tasks—complex, multi-step projects—through the implementation of specialized 'Agent Harnesses.' These frameworks ensure the necessary coherence and security required for AI systems to maintain sustained effort across extended workflows like software development.",
+            "link": "https://www.startuphub.ai/ai-news/ai-research/2026/anthropic-s-claude-tackles-long-horizon-ai-tasks",
+            "timestamp": 1784329330000,
+            "date": "2026-07-17"
+        },
         {
             "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic - BBC",
             "summary_en": "Chinese startup Moonshot AI has unveiled Kimi K3, a 2.8-trillion-parameter model slated for an open-source release on July 27, aiming to challenge top American frontier models in reasoning and coding. Despite US export restrictions, the model reportedly performs on par with GPT and Claude, potentially disrupting Silicon Valley’s proprietary dominance by allowing independent developers to customize large-scale AI.",
@@ -679,27 +700,6 @@
             "link": "https://dig.watch/updates/openai-genebench-pro-ai-biology-research",
             "timestamp": 1782968400000,
             "date": "2026-07-02"
-        },
-        {
-            "title": "Amazon's AWS Bets $1 Billion on New AI Engineering Unit Built Around a Strategy Palantir Pioneered More T - Benzinga",
-            "summary_en": "Amazon Web Services is investing $1 billion into a new Forward Deployed Engineering (FDE) unit that embeds engineers with clients to build autonomous AI systems. Additionally, the company launched the AWS Secret Cloud for Industry, backed by a $20 million accelerator, to support classified workloads for defense contractors.",
-            "link": "https://www.benzinga.com/markets/tech/26/07/60215633/amazons-aws-bets-1-billion-on-new-ai-engineering-unit-built-around-a-strategy-palantir-pioneered-more-than-a-decade-ago",
-            "timestamp": 1782912586000,
-            "date": "2026-07-01"
-        },
-        {
-            "title": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears - The Guardian",
-            "summary_en": "The US government lifted export controls on Anthropic’s Fable and Mythos AI models after the company implemented enhanced safety safeguards to prevent potential exploitation for cyber-attacks. This decision follows a brief restriction imposed after security concerns were raised regarding the models' ability to identify software vulnerabilities.",
-            "link": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
-            "timestamp": 1782870660000,
-            "date": "2026-07-01"
-        },
-        {
-            "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression - MarkTechPost",
-            "summary_en": "Google AI has introduced TabFM, a new foundation model utilizing a hybrid-attention architecture designed to perform zero-shot classification and regression tasks on tabular data.",
-            "link": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression",
-            "timestamp": 1782892139000,
-            "date": "2026-07-01"
         }
     ]
 }
