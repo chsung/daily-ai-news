@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-07 04:59:26",
+    "last_update": "2026-08-07 16:01:35",
     "articles": [
+        {
+            "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
+            "summary_en": "Meta CEO Mark Zuckerberg stated that the development of AI agent technology is progressing at a slower pace than initially anticipated.",
+            "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+            "timestamp": 1783033513000,
+            "date": "2026-07-02"
+        },
+        {
+            "title": "Microsoft Invests $2.5B In AI Consulting Business - MediaPost",
+            "summary_en": "Microsoft has launched the Microsoft Frontier Company with a $2.5 billion investment to provide enterprise-level AI engineering and consulting services. The unit will deploy 6,000 experts to work directly with clients to co-design and secure proprietary enterprise intelligence platforms.",
+            "link": "https://www.mediapost.com/publications/article/416262/microsoft-furthers-trend-invests-25b-in-ai-cons.html",
+            "timestamp": 1783021018000,
+            "date": "2026-07-02"
+        },
+        {
+            "title": "Microsoft launches AI engineering company - InfoWorld",
+            "summary_en": "Microsoft’s new Frontier Company aims to facilitate 'frontier transformation' by embedding specialized engineering teams within client organizations. The initiative focuses on building continuous improvement loops for AI systems while protecting a company’s unique proprietary data and workflows.",
+            "link": "https://www.infoworld.com/article/4192524/microsoft-launches-ai-engineering-company.html",
+            "timestamp": 1783041902000,
+            "date": "2026-07-03"
+        },
         {
             "title": "After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica",
             "summary_en": "The US government has lifted export restrictions on Anthropic’s Claude Fable 5 and Mythos 5 models after the company implemented enhanced safety measures and red-teaming protocols. Anthropic will now provide broader access to these models through the Glasswing program while remaining under federal oversight.",
@@ -679,27 +700,6 @@
             "link": "https://nsjonline.com/article/2026/06/anthropic-urges-industry-coordination-to-allow-pause-in-ai-development-if-risks-grow",
             "timestamp": 1781359234000,
             "date": "2026-06-13"
-        },
-        {
-            "title": "US bans Anthropic from exporting most advanced AI systems to other countries - The Jerusalem Post",
-            "summary_en": "The US government has ordered Anthropic to suspend access to its most advanced AI models, Fable 5 and Mythos 5, for foreign nationals due to national security concerns regarding potential 'jailbreaks' that could identify software vulnerabilities. This directive marks a significant shift in US export policy, moving from restricting physical hardware to directly regulating access to sophisticated AI software.",
-            "link": "https://www.jpost.com/business-and-innovation/all-news/article-899253",
-            "timestamp": 1781355311000,
-            "date": "2026-06-13"
-        },
-        {
-            "title": "ChatGPT hits a billion monthly app users despite souring public AI sentiment - CNBC",
-            "summary_en": "Despite cooling public sentiment and ethical concerns, OpenAI's ChatGPT has become the fastest app in history to reach one billion monthly active users. While ChatGPT remains the market leader, competitors like Anthropic's Claude are experiencing triple-digit growth as users increasingly migrate toward models perceived as having different ethical stances, particularly following OpenAI's partnership with the Pentagon.",
-            "link": "https://www.cnbc.com/2026/06/12/chatgpt-a-billion-monthly-app-users-despite-souring-public-ai-sentiment.html",
-            "timestamp": 1781244336000,
-            "date": "2026-06-12"
-        },
-        {
-            "title": "Coinbase’s new tool can help agents trade and pay for premium research | TechCrunch - TechCrunch",
-            "summary_en": "Coinbase has launched an AI agent tool that allows users to automate crypto trades and pay for premium research data using the open x402 payment protocol. By integrating exchange access with native payment capabilities, the platform aims to empower agents to transact independently within a growing 'agentic economy' while providing users with sandbox-controlled security options.",
-            "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading",
-            "timestamp": 1781197200000,
-            "date": "2026-06-11"
         }
     ]
 }

@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-07 04:59:26",
+    "last_update": "2026-08-07 16:01:35",
     "articles": [
+        {
+            "title": "Americans are freaking out over China's open-source AI strategy - Business Insider",
+            "summary_en": "The emergence of high-performing Chinese models like Moonshot AI’s Kimi K3 has ignited a debate over the US AI industry’s strategy of keeping models closed. Critics warn that leading US labs are leveraging regulatory influence to suppress open-source competition, which they claim is essential for future innovation.",
+            "link": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
+            "timestamp": 1784522400000,
+            "date": "2026-07-20"
+        },
+        {
+            "title": "South Korea's AI Strategy: Gaps to Fill - 조선일보",
+            "summary_en": "South Korea holds a critical advantage in the AI supply chain through its dominance in high-bandwidth memory (HBM) production by Samsung and SK Hynix. Experts argue the nation should shift its strategy from building redundant general-purpose models toward integrating global AI technologies into its industrial sector to maximize competitive impact.",
+            "link": "https://www.chosun.com/english/opinion-en/2026/07/19/A5CUFAQPORANNNCBPZOXEVYA7I",
+            "timestamp": 1784471944000,
+            "date": "2026-07-19"
+        },
+        {
+            "title": "You can now design your next BMW using ChatGPT AI - Motoring Research",
+            "summary_en": "BMW has integrated a custom ChatGPT plugin that allows users to identify and specify their ideal vehicle through natural language text or voice prompts. The AI streamlines the selection process by scanning BMW's model range and dealership inventory, eventually syncing the results with the brand's traditional online configurator.",
+            "link": "https://www.motoringresearch.com/car-news/bmw-chatgpt-ai-configurator",
+            "timestamp": 1784450113000,
+            "date": "2026-07-19"
+        },
         {
             "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT - Broadband Breakfast",
             "summary_en": "Beijing-based Moonshot AI has launched its Kimi K3 model, which analysts report is rivaling top U.S. AI systems in coding capability despite ongoing accusations of illicit model distillation. The release highlights China's aggressive push for domestic AI self-sufficiency through local hardware like Huawei's Atlas 950 SuperPoD.",
@@ -679,27 +700,6 @@
             "link": "https://247wallst.com/investing/2026/07/02/nvidias-bold-new-bet-on-ai-neoclouds-brilliant-platform-strategy-or-latest-sign-of-an-ai-bubble",
             "timestamp": 1783004177000,
             "date": "2026-07-02"
-        },
-        {
-            "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
-            "summary_en": "Meta CEO Mark Zuckerberg stated that the development of AI agent technology is progressing at a slower pace than initially anticipated.",
-            "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-            "timestamp": 1783033513000,
-            "date": "2026-07-02"
-        },
-        {
-            "title": "Microsoft Invests $2.5B In AI Consulting Business - MediaPost",
-            "summary_en": "Microsoft has launched the Microsoft Frontier Company with a $2.5 billion investment to provide enterprise-level AI engineering and consulting services. The unit will deploy 6,000 experts to work directly with clients to co-design and secure proprietary enterprise intelligence platforms.",
-            "link": "https://www.mediapost.com/publications/article/416262/microsoft-furthers-trend-invests-25b-in-ai-cons.html",
-            "timestamp": 1783021018000,
-            "date": "2026-07-02"
-        },
-        {
-            "title": "Microsoft launches AI engineering company - InfoWorld",
-            "summary_en": "Microsoft’s new Frontier Company aims to facilitate 'frontier transformation' by embedding specialized engineering teams within client organizations. The initiative focuses on building continuous improvement loops for AI systems while protecting a company’s unique proprietary data and workflows.",
-            "link": "https://www.infoworld.com/article/4192524/microsoft-launches-ai-engineering-company.html",
-            "timestamp": 1783041902000,
-            "date": "2026-07-03"
         }
     ]
 }
