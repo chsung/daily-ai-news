@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-06 05:55:24",
+    "last_update": "2026-08-07 04:59:26",
     "articles": [
+        {
+            "title": "NVIDIA Showcases Cosmos 3 and Omniverse for Open Physical AI Development - BigDATAwire - HPCwire",
+            "summary_en": "NVIDIA has introduced Cosmos 3, a family of open physical AI foundation models designed to unify vision reasoning, world generation, and action prediction. By integrating with the Omniverse and OpenUSD frameworks, these models allow developers to specialize AI for robotics and autonomous systems using a flexible, open-weights architecture.",
+            "link": "https://www.hpcwire.com/bigdatawire/this-just-in/nvidia-showcases-cosmos-3-and-omniverse-for-open-physical-ai-development",
+            "timestamp": 1786036789000,
+            "date": "2026-08-06"
+        },
+        {
+            "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI | TechCrunch - TechCrunch",
+            "summary_en": "AI startup Mirendil has secured a multiyear, $100 million-plus partnership with Google Cloud to access both TPUs and NVIDIA GPUs for developing self-improving AI. The deal aims to leverage hardware-software synergy to automate complex scientific research, while providing Google with a strategic partner in the frontier AI race.",
+            "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
+            "timestamp": 1786021200000,
+            "date": "2026-08-06"
+        },
+        {
+            "title": "Google shakes up AI leadership. Hassabis swaps CEO role for research. - Business Insider",
+            "summary_en": "Google is undergoing a major leadership restructuring, with Demis Hassabis transitioning from DeepMind CEO to Alphabet's Chief Scientist to focus on long-term AI research. Meanwhile, veteran researcher Jeff Dean is departing to launch a new initiative, as the company seeks to accelerate its AGI development and close the gap with competitors.",
+            "link": "https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8",
+            "timestamp": 1785946920000,
+            "date": "2026-08-05"
+        },
         {
             "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
             "summary_en": "Meta has launched Muse Code, an AI coding agent designed to compete with Anthropic and OpenAI by offering a cost-effective, pay-as-you-go developer tool. The platform aims to generate new revenue streams for Meta by leveraging its Muse Spark 1.2 models and providing enterprise-focused features like zero-data retention options.",
@@ -679,27 +700,6 @@
             "link": "https://www.motoringresearch.com/car-news/bmw-chatgpt-ai-configurator",
             "timestamp": 1784450113000,
             "date": "2026-07-19"
-        },
-        {
-            "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT - Broadband Breakfast",
-            "summary_en": "Beijing-based Moonshot AI has launched its Kimi K3 model, which analysts report is rivaling top U.S. AI systems in coding capability despite ongoing accusations of illicit model distillation. The release highlights China's aggressive push for domestic AI self-sufficiency through local hardware like Huawei's Atlas 950 SuperPoD.",
-            "link": "https://broadbandbreakfast.com/chinese-ai-model-takes-u-s-by-surprise-with-abilities-rivaling-claude-and-chatgpt",
-            "timestamp": 1784395168000,
-            "date": "2026-07-18"
-        },
-        {
-            "title": "NVIDIA Metropolis Updates Speed Vision AI Agent Development - quasa.io",
-            "summary_en": "NVIDIA has updated its Metropolis platform with over 80 new skills across its suite of development tools, including DeepStream 9.1 and TAO 7. These additions are designed to streamline the creation of agentic vision AI systems, potentially reducing development time for production-ready solutions by up to 6x.",
-            "link": "https://quasa.io/media/nvidia-metropolis-3-2-and-deepstream-9-1-enable-6x-faster-vision-ai-agent-development",
-            "timestamp": 1784415060000,
-            "date": "2026-07-18"
-        },
-        {
-            "title": "Apple Just Reclaimed the World's Most Valuable Company Title From Nvidia. Here Is What the Tech Rotation Means for Enterprise Strategy. - MarketScale",
-            "summary_en": "Apple has reclaimed its position as the world's most valuable company with a $4.91 trillion market cap, surpassing Nvidia as investor focus shifts from AI infrastructure to durable, consumer-facing technology ecosystems. This rotation reflects growing market confidence in Apple’s ability to monetize AI through its massive existing user base and upcoming intelligence platform updates.",
-            "link": "https://www.marketscale.com/industries/software-and-technology/apple-just-reclaimed-the-worlds-most-valuable-company-title-from-nvidia-here-is-what-the-tech-rotation-means-for-enterprise-strategy",
-            "timestamp": 1784306600000,
-            "date": "2026-07-17"
         }
     ]
 }
