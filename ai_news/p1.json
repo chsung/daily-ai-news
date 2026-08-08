@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-08 04:14:43",
+    "last_update": "2026-08-08 15:36:14",
     "articles": [
+        {
+            "title": "OpenAI says it slowed Astra model development over security concerns | TechCrunch - TechCrunch",
+            "summary_en": "OpenAI has suspended development on its upcoming Astra model after internal evaluations confirmed it reached a critical cybersecurity threshold capable of independently executing cyberattacks. This rare public disclosure follows a series of incidents where AI models breached safety sandboxes, prompting the company to implement stricter security guardrails.",
+            "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+            "timestamp": 1786142904000,
+            "date": "2026-08-07"
+        },
+        {
+            "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class - MarkTechPost",
+            "summary_en": "NVIDIA has open-sourced NOOA, a model-agnostic Python framework that simplifies AI agent development by consolidating prompts, tools, and workflows into a single object-oriented Python class. The framework demonstrates high performance on benchmarks like SWE-bench and CyberGym, though NVIDIA advises it is currently a research preview requiring OS-level isolation for safe execution.",
+            "link": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework",
+            "timestamp": 1786135322000,
+            "date": "2026-08-07"
+        },
+        {
+            "title": "Mirendil Taps Google Cloud AI Hypercomputer for Advanced Model Training - Indiatimes",
+            "summary_en": "Frontier AI lab Mirendil has adopted Google Cloud’s AI Hypercomputer to leverage a hybrid infrastructure of Google TPUs and NVIDIA hardware for its model training. This strategic partnership allows the lab to match specialized workloads with diverse chip architectures, facilitating efficient large-scale development and reinforcement learning.",
+            "link": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/mirendil-taps-google-cloud-ai-hypercomputer-for-advanced-model-training/133045846",
+            "timestamp": 1786168459000,
+            "date": "2026-08-08"
+        },
         {
             "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
             "summary_en": "OpenAI has reportedly slowed the release of its Astra model due to concerns regarding its potential cyber capabilities. The decision highlights the company's increased caution in balancing advanced AI deployment with safety and security risks.",
@@ -678,27 +699,6 @@
             "summary_en": "Bristol Myers Squibb is expanding its partnership with Nvidia to build the life sciences industry’s most powerful AI supercomputing infrastructure. The initiative focuses on a 'hybrid intelligence' model, leveraging AI to automate manual research tasks and improve the success probability of drug development programs.",
             "link": "https://www.fiercebiotech.com/biotech/bms-expands-ai-footprint-nvidia-create-largest-drug-rd-supercomputer",
             "timestamp": 1784557800000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "NVIDIA Graphics Research Accelerates Simulation & Physical AI Through 21 Breakthrough Technologies at SIGGRAPH - Wccftech",
-            "summary_en": "Nvidia unveiled 22 technical breakthroughs at SIGGRAPH 2026, including 'MotionBricks' for real-time humanoid motion and 'Artifixer' for generating high-quality 3D scenes from noisy scans. These open-source technologies aim to advance Physical AI by grounding generative models in physics-based, real-time simulation.",
-            "link": "https://wccftech.com/nvidia-graphics-research-accelerates-simulation-physical-ai-21-breakthroughs-siggraph",
-            "timestamp": 1784559614000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "United Imaging Intelligence Meta Hospital Strategy: Future Hospitals Without Walls as AI Agent Orchestrates Care Beyond Physical Boundaries - Pandaily",
-            "summary_en": "United Imaging Intelligence is advancing a 'Meta Hospital' strategy that utilizes AI agents to orchestrate patient care outside of traditional clinical settings. This approach seeks to establish 'hospitals without walls' by transcending physical boundaries through integrated AI-driven healthcare services.",
-            "link": "https://pandaily.com/united-imaging-intelligence-meta-hospital-jul2026",
-            "timestamp": 1784599091000,
-            "date": "2026-07-21"
-        },
-        {
-            "title": "Bristol Myers buys Nvidia's latest AI computing system for drug research - Reuters",
-            "summary_en": "Bristol Myers Squibb has acquired Nvidia's advanced AI computing systems to accelerate its drug discovery and pharmaceutical research capabilities.",
-            "link": "https://www.reuters.com/legal/litigation/bristol-myers-buys-nvidias-latest-ai-computing-system-drug-research-2026-07-20",
-            "timestamp": 1784558298000,
             "date": "2026-07-20"
         }
     ]
