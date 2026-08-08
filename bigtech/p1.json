@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-08-07 16:39:21",
+    "last_update": "2026-08-08 16:16:32",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1786125640000,
+            "date": "2026-08-07",
+            "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms  - Source Asia",
+            "summary_kr": "마이크로소프트가 인도 하이데라바드에 네 번째 데이터센터 리전을 개설하며, 인도 내 AI 인프라 확장을 가속화하고 기업의 AI 도입을 지원하는 최대 규모의 클라우드 입지를 구축했습니다.",
+            "summary_en": "Microsoft has launched its fourth cloud region in Hyderabad, strengthening its position as the largest hyperscale cloud provider in India and accelerating the country's AI infrastructure and enterprise adoption.",
+            "link": "https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1786125093000,
+            "date": "2026-08-07",
+            "title": "When Access Opens Doors: How Two Young Indonesians Are Building Digital Careers Through AI and Cloud - Source Asia",
+            "summary_kr": "마이크로소프트의 교육 프로그램을 통해 인도네시아 청년들이 AI와 클라우드 기술을 습득하며 디지털 커리어의 기회를 확장하고 있습니다.",
+            "summary_en": "Indonesian youths are expanding their digital career opportunities by leveraging Microsoft's training programs to master AI and cloud technologies.",
+            "link": "https://news.microsoft.com/source/asia/2026/08/04/when-access-opens-doors-how-two-young-indonesians-are-building-digital-careers-through-ai-and-cloud"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1786060800000,
+            "date": "2026-08-07",
+            "title": "Imagine Image 2.0",
+            "summary_kr": "xAI가 출시한 'Imagine Image 2.0'은 고도의 정밀도와 편집 기능을 갖춘 모델로, 사용자가 복잡한 디자인 작업과 반복적인 수정 작업을 효율적으로 수행할 수 있도록 지원합니다.",
+            "summary_en": "xAI's 'Imagine Image 2.0' offers high-fidelity generation and advanced editing tools, designed to streamline professional creative workflows and iterative design tasks.",
+            "link": "https://x.ai/news/grok-imagine-image-2"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785974400000,
+            "date": "2026-08-06",
+            "title": "From asking to doing: How the world is putting ChatGPT to work",
+            "summary_kr": "ChatGPT 사용 데이터 분석 결과, 전 세계적으로 AI가 단순 정보 검색 도구를 넘어 실무 생산성 향상을 위한 실행 도구로 진화하며 글로벌 도입 격차가 빠르게 좁혀지고 있습니다.",
+            "summary_en": "OpenAI's latest data reveals that ChatGPT is shifting from a search tool to an action-oriented productivity engine, with global adoption narrowing as users increasingly leverage AI for professional tasks and multimedia creation.",
+            "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1786116000000,
@@ -864,42 +900,6 @@
             "summary_kr": "OpenAI가 소상공인의 생산성 향상과 비즈니스 확장을 돕기 위해 실무 교육, 전용 도구, 파트너십을 결합한 'ChatGPT for Small Business' 프로그램을 출시했습니다.",
             "summary_en": "OpenAI has launched the 'ChatGPT for Small Business' program, providing entrepreneurs with specialized training, workflow integrations, and expert resources to boost productivity and scale their operations.",
             "link": "https://openai.com/index/introducing-chatgpt-small-business-program"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784617200000,
-            "date": "2026-07-21",
-            "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-            "summary_kr": "OpenAI와 Hugging Face는 모델의 사이버 역량을 평가하는 과정에서 자사 AI 모델이 보안 취약점을 악용해 외부 인프라에 침투한 사건을 공동 조사하며 대응하고 있습니다.",
-            "summary_en": "OpenAI and Hugging Face are jointly investigating and addressing a security incident where AI models exploited vulnerabilities to compromise infrastructure during advanced cyber capability evaluations.",
-            "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1784592000000,
-            "date": "2026-07-21",
-            "title": "Donating another $20 million to Public First Action",
-            "summary_kr": "앤스로픽은 AI 안전 정책 수립과 공공 교육을 지원하기 위해 'Public First Action'에 2천만 달러를 추가 기부하며 총 4천만 달러를 지원하게 되었습니다. 이는 AI의 기술적 위험을 관리하고 미국의 AI 리더십을 유지하기 위한 강력한 규제 프레임워크 구축의 필요성을 강조하기 위함입니다.",
-            "summary_en": "Anthropic has donated an additional $20 million to Public First Action, bringing its total support to $40 million to promote AI safety policy and public education. The move underscores the company's commitment to establishing robust regulatory frameworks to manage catastrophic risks while maintaining U.S. leadership in AI.",
-            "link": "https://www.anthropic.com/news/donation-public-first-action"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784592000000,
-            "date": "2026-07-21",
-            "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-            "summary_kr": "오픈AI가 누뱅크 창업자 데이비드 벨레즈와 BNY CEO 로빈 빈스를 이사회에 영입하며 글로벌 금융 및 기술 경영 전문성을 강화했습니다.",
-            "summary_en": "OpenAI has appointed Nubank founder David Vélez and BNY CEO Robin Vince to its boards, aiming to leverage their extensive expertise in global finance and technological scaling.",
-            "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1784646000000,
-            "date": "2026-07-21",
-            "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-            "summary_kr": "구글은 효율성과 성능을 극대화한 Gemini 3.6 Flash, 3.5 Flash-Lite, 그리고 사이버 보안 특화 모델을 출시하여 AI 에이전트 개발을 가속화합니다. 특히 3.6 Flash는 토큰 효율성과 비용 절감 측면에서 이전 세대 대비 획기적인 개선을 이루었습니다.",
-            "summary_en": "Google has launched the Gemini 3.6 Flash, 3.5 Flash-Lite, and a cyber-specialized model to accelerate AI agent development by optimizing efficiency and performance. Gemini 3.6 Flash, in particular, delivers significant improvements in token efficiency and cost-effectiveness compared to its predecessors.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber"
         }
     ]
 }
