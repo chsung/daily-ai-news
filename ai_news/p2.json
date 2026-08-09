@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-09 04:22:14",
+    "last_update": "2026-08-09 15:37:37",
     "articles": [
+        {
+            "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
+            "summary_en": "AMD is challenging Nvidia's market dominance by launching Helios, a rack-scale AI system integrating CPUs, GPUs, and networking, with Microsoft confirmed as a key early adopter. Designed to optimize inference and memory bandwidth, the system aims to provide a lower total cost of ownership for data center operators.",
+            "link": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+            "timestamp": 1784552401000,
+            "date": "2026-07-20"
+        },
         {
             "title": "Kimi K3: The open-weights escalation - Interconnects AI",
             "summary_en": "Moonshot AI has unveiled Kimi K3, a 2.8T parameter Mixture-of-Experts model that stands as the most capable open-weights model to date while narrowing the performance gap between Chinese and American AI labs to roughly 3-5 months. The model’s high performance across major benchmarks signals that Chinese labs are effectively mastering frontier-level scaling laws independently of U.S. intellectual property.",
@@ -693,13 +700,6 @@
             "link": "https://www.infoworld.com/article/4192724/metas-ai-chief-says-new-muse-spark-update-will-sharpen-coding-agentic-ai.html",
             "timestamp": 1783078238000,
             "date": "2026-07-03"
-        },
-        {
-            "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
-            "summary_en": "Google Research has introduced TabFM, a foundation model that utilizes in-context learning to perform tabular classification and regression without manual hyperparameter tuning or feature engineering. By training on hundreds of millions of synthetic datasets, the model overcomes the scarcity of open-source industrial data and allows for zero-shot predictions via a single forward pass.",
-            "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
-            "timestamp": 1783178586000,
-            "date": "2026-07-04"
         }
     ]
 }

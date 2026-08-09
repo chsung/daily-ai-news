@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-09 04:22:14",
+    "last_update": "2026-08-09 15:37:37",
     "articles": [
+        {
+            "title": "Introducing TabFM: A zero-shot foundation model for tabular data - Google Research",
+            "summary_en": "Google Research has introduced TabFM, a foundation model that utilizes in-context learning to perform tabular classification and regression without manual hyperparameter tuning or feature engineering. By training on hundreds of millions of synthetic datasets, the model overcomes the scarcity of open-source industrial data and allows for zero-shot predictions via a single forward pass.",
+            "link": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
+            "timestamp": 1783178586000,
+            "date": "2026-07-04"
+        },
         {
             "title": "Anthropic launches Claude Science AI workbench for researchers - qz.com",
             "summary_en": "Anthropic has launched a new AI-powered workspace specifically designed to assist researchers in conducting scientific analysis and experimentation.",
@@ -693,13 +700,6 @@
             "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
             "timestamp": 1781386766000,
             "date": "2026-06-13"
-        },
-        {
-            "title": "IMDA and Microsoft sign AI safety MOU - Let's Data Science",
-            "summary_en": "Singapore's IMDA and Microsoft have signed an MOU to collaborate on AI safety, focusing on research into agentic AI and multilingual safety standards. The partnership will produce shared evaluation benchmarks and a joint white paper on policy frameworks for trusted access to frontier AI models.",
-            "link": "https://letsdatascience.com/news/imda-and-microsoft-sign-ai-safety-mou-50801559",
-            "timestamp": 1781460158000,
-            "date": "2026-06-14"
         }
     ]
 }

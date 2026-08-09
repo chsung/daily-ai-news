@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-09 04:22:14",
+    "last_update": "2026-08-09 15:37:37",
     "articles": [
+        {
+            "title": "HCLTech's Partnership with OpenAI: A Strategic Move for Enterprise AI Scaling - futurumgroup.com",
+            "summary_en": "HCLTech has been named an OpenAI Advanced Partner, securing a strategic role in OpenAI’s 'Everywhere Ecosystem' to help enterprises scale AI deployment. This partnership targets a rapidly growing channel AI market, projected to reach $25.7 billion by 2026, as HCLTech aims to differentiate itself amid rising demand for specialized AI consulting.",
+            "link": "https://futurumgroup.com/insights/hcltechs-partnership-with-openai-a-strategic-move-for-enterprise-ai-scaling",
+            "timestamp": 1786198801000,
+            "date": "2026-08-08"
+        },
         {
             "title": "NVIDIA AI Storage Goes Open at FMS 2026. Is Open Source the New Moat? - futurumgroup.com",
             "summary_en": "NVIDIA is open-sourcing its cuFile APIs and launching the 'Storage-Next' coalition with over 40 vendors to standardize GPU-to-storage data paths. By moving these interfaces to a neutral GitHub organization, NVIDIA aims to solve storage throughput bottlenecks while reinforcing its hardware dominance through its Vera CPU and BlueField-4 architectures.",
@@ -693,13 +700,6 @@
             "link": "https://www.scmp.com/news/china/science/article/3361370/chinese-ai-agent-outperforms-anthropics-claude-code-autonomous-research",
             "timestamp": 1784636252000,
             "date": "2026-07-21"
-        },
-        {
-            "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
-            "summary_en": "AMD is challenging Nvidia's market dominance by launching Helios, a rack-scale AI system integrating CPUs, GPUs, and networking, with Microsoft confirmed as a key early adopter. Designed to optimize inference and memory bandwidth, the system aims to provide a lower total cost of ownership for data center operators.",
-            "link": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
-            "timestamp": 1784552401000,
-            "date": "2026-07-20"
         }
     ]
 }
