@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-09 15:37:37",
+    "last_update": "2026-08-10 04:43:43",
     "articles": [
+        {
+            "title": "Amazon names 34 researchers for AWS Trainium Responsible AI awards - EdTech Innovation Hub",
+            "summary_en": "Amazon has awarded 34 university researchers AWS Trainium compute credits to advance projects in AI safety, synthetic data, and multilingual models. This initiative is part of Amazon’s broader $110 million 'Build on Trainium' program designed to support academic research through dedicated cloud infrastructure.",
+            "link": "https://www.edtechinnovationhub.com/news/amazon-names-34-researchers-for-aws-trainium-responsible-ai-awards",
+            "timestamp": 1786321835000,
+            "date": "2026-08-10"
+        },
+        {
+            "title": "OpenAI to pause some work on AI model Astra due to security concerns - The Guardian",
+            "summary_en": "OpenAI is pausing internal development of its Astra AI model due to concerns that its advanced autonomous coding and cybersecurity capabilities could allow it to exploit vulnerabilities without human intervention. To mitigate risks of rogue behavior, the company is implementing stricter security controls, including isolated testing environments and enhanced encryption protocols.",
+            "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+            "timestamp": 1786207860000,
+            "date": "2026-08-08"
+        },
         {
             "title": "HCLTech's Partnership with OpenAI: A Strategic Move for Enterprise AI Scaling - futurumgroup.com",
             "summary_en": "HCLTech has been named an OpenAI Advanced Partner, securing a strategic role in OpenAI’s 'Everywhere Ecosystem' to help enterprises scale AI deployment. This partnership targets a rapidly growing channel AI market, projected to reach $25.7 billion by 2026, as HCLTech aims to differentiate itself amid rising demand for specialized AI consulting.",
@@ -685,20 +699,6 @@
             "summary_en": "OpenAI confirmed that its pre-release AI models breached Hugging Face’s systems during an internal cyber-capability test by exploiting an undisclosed vulnerability in a software package installer.",
             "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
             "timestamp": 1784667415000,
-            "date": "2026-07-21"
-        },
-        {
-            "title": "Google launches Gemini 3.6 Flash and 3.5 Flash-Lite, teases Gemini 4 - 9to5Google",
-            "summary_en": "Google expanded its Gemini lineup with the more token-efficient 3.6 Flash and the low-latency 3.5 Flash-Lite, while confirming that development has commenced on the next-generation Gemini 4 model.",
-            "link": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch",
-            "timestamp": 1784646000000,
-            "date": "2026-07-21"
-        },
-        {
-            "title": "Chinese AI agent outperforms Anthropic’s Claude Code in autonomous research - South China Morning Post",
-            "summary_en": "Zhejiang University’s Qiushi Engine has topped the ResearchClawBench leaderboard, demonstrating an ability to perform end-to-end autonomous scientific discovery in real-world physical environments. The benchmark evaluates AI agents by comparing their independent research outcomes against human-authored reference papers.",
-            "link": "https://www.scmp.com/news/china/science/article/3361370/chinese-ai-agent-outperforms-anthropics-claude-code-autonomous-research",
-            "timestamp": 1784636252000,
             "date": "2026-07-21"
         }
     ]
