@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-08-08 16:16:32",
+    "last_update": "2026-08-10 16:39:41",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1786381200000,
+            "date": "2026-08-10",
+            "title": "What building an AI-native finance function taught me",
+            "summary_kr": "AI 네이티브 재무 부서는 실시간 데이터와 자동화를 통해 정적인 업무 환경을 탈피하고, 의사결정을 지원하는 전략적 파트너로 진화해야 합니다. 이를 위해 리더는 상향식 실험과 하향식 전략을 결합하여 실무자가 직접 AI 도구를 개발하도록 장려해야 합니다.",
+            "summary_en": "Building an AI-native finance function requires moving beyond manual workflows toward real-time insights and automated forecasting to act as a strategic business partner. CFOs should foster this transformation by combining top-down strategy with bottom-up experimentation, empowering teams to build AI tools that address critical business decisions.",
+            "link": "https://openai.com/index/building-an-ai-native-finance-function"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786370400000,
+            "date": "2026-08-10",
+            "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+            "summary_kr": "OpenAI는 그렉 애벗 텍사스 주지사에게 서한을 보내 텍사스 내 책임감 있는 AI 인프라 구축을 위한 협력 의지를 표명했습니다.",
+            "summary_en": "OpenAI sent a letter to Texas Governor Greg Abbott expressing its commitment to collaborating on the development of responsible AI infrastructure in the state.",
+            "link": "https://openai.com/index/responsible-ai-infrastructure-texas"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1786368439000,
+            "date": "2026-08-10",
+            "title": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA",
+            "summary_kr": "메타가 공개한 30B 규모의 에이전트 특화 모델 'Muse Glimmer'는 NVIDIA GPU에 최적화되어, 고도의 복잡한 워크플로우를 로컬 환경에서 개인정보 보호와 함께 고성능으로 처리합니다.",
+            "summary_en": "Meta's new 30B agentic model, Muse Glimmer, is optimized for NVIDIA hardware to deliver high-performance, private, and reliable local execution for complex, multi-step AI workflows.",
+            "link": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786363200000,
+            "date": "2026-08-10",
+            "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+            "summary_kr": "Model ML은 GPT-5.6 Sol을 도입하여 금융 업무 자동화 효율을 극대화했으며, 특히 보고서 작성 시간을 1시간에서 5분으로 단축하고 리소스 사용량을 대폭 절감했습니다.",
+            "summary_en": "Model ML has integrated GPT-5.6 Sol to optimize financial workflow automation, significantly reducing report generation time from one hour to five minutes while improving resource efficiency.",
+            "link": "https://openai.com/index/model-ml"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1786125640000,
@@ -864,42 +900,6 @@
             "summary_kr": "마이크로소프트가 미국 에너지부의 '제네시스 미션'에 6천만 달러를 투자하고 전담 조직 SPARK를 신설하여, AI 기반의 과학 연구 가속화와 국가적 혁신 생산성 향상을 지원합니다.",
             "summary_en": "Microsoft is investing $60 million and launching the SPARK hub to support the U.S. Department of Energy’s 'Genesis Mission,' aiming to accelerate AI-driven scientific discovery and double national research productivity.",
             "link": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784721600000,
-            "date": "2026-07-22",
-            "title": "Advancing the next era of national science",
-            "summary_kr": "OpenAI는 미국 에너지부의 '제네시스 미션'과 협력하여 최첨단 AI 모델을 국가 과학 연구 인프라에 통합함으로써 연구 생산성을 극대화하고 과학적 난제 해결을 가속화하고자 합니다.",
-            "summary_en": "OpenAI is partnering with the U.S. Department of Energy’s Genesis Mission to integrate frontier AI models into national scientific infrastructure, aiming to accelerate innovation and double research productivity.",
-            "link": "https://openai.com/index/advancing-the-next-era-of-national-science"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784698200000,
-            "date": "2026-07-22",
-            "title": "Introducing OpenAI Presence",
-            "summary_kr": "OpenAI는 기업이 신뢰할 수 있는 AI 에이전트를 안전하게 구축, 배포 및 최적화할 수 있도록 정책, 가드레일, 지속적인 개선 루프를 결합한 엔터프라이즈 솔루션 'OpenAI Presence'를 출시했습니다.",
-            "summary_en": "OpenAI has introduced 'OpenAI Presence,' an enterprise solution that combines model reasoning with policies, guardrails, and a continuous improvement loop to help businesses deploy reliable, high-value AI agents in production.",
-            "link": "https://openai.com/index/introducing-openai-presence"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1784656821000,
-            "date": "2026-07-21",
-            "title": "The AI Strategy Roadmap: Five drivers of successful AI transformation | The Microsoft Cloud Blog",
-            "summary_kr": "마이크로소프트의 'AI 전략 로드맵'은 조직이 단순한 AI 파일럿을 넘어 지속 가능한 비즈니스 가치를 창출할 수 있도록 비즈니스 전략, 데이터, 조직 문화 등 5가지 핵심 동인을 기반으로 한 체계적인 변화 지침을 제시합니다.",
-            "summary_en": "Microsoft’s 'AI Strategy Roadmap' provides a structured framework for organizations to move beyond isolated pilot projects toward scalable, governed business transformation, guided by five key drivers including business strategy, data foundations, and organizational readiness.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/21/the-ai-strategy-roadmap-five-drivers-of-successful-ai-transformation"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784653200000,
-            "date": "2026-07-21",
-            "title": "Introducing the ChatGPT for small business program",
-            "summary_kr": "OpenAI가 소상공인의 생산성 향상과 비즈니스 확장을 돕기 위해 실무 교육, 전용 도구, 파트너십을 결합한 'ChatGPT for Small Business' 프로그램을 출시했습니다.",
-            "summary_en": "OpenAI has launched the 'ChatGPT for Small Business' program, providing entrepreneurs with specialized training, workflow integrations, and expert resources to boost productivity and scale their operations.",
-            "link": "https://openai.com/index/introducing-chatgpt-small-business-program"
         }
     ]
 }

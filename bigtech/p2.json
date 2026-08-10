@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-08-08 16:16:32",
+    "last_update": "2026-08-10 16:39:41",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1784721600000,
+            "date": "2026-07-22",
+            "title": "Advancing the next era of national science",
+            "summary_kr": "OpenAI는 미국 에너지부의 '제네시스 미션'과 협력하여 최첨단 AI 모델을 국가 과학 연구 인프라에 통합함으로써 연구 생산성을 극대화하고 과학적 난제 해결을 가속화하고자 합니다.",
+            "summary_en": "OpenAI is partnering with the U.S. Department of Energy’s Genesis Mission to integrate frontier AI models into national scientific infrastructure, aiming to accelerate innovation and double research productivity.",
+            "link": "https://openai.com/index/advancing-the-next-era-of-national-science"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784698200000,
+            "date": "2026-07-22",
+            "title": "Introducing OpenAI Presence",
+            "summary_kr": "OpenAI는 기업이 신뢰할 수 있는 AI 에이전트를 안전하게 구축, 배포 및 최적화할 수 있도록 정책, 가드레일, 지속적인 개선 루프를 결합한 엔터프라이즈 솔루션 'OpenAI Presence'를 출시했습니다.",
+            "summary_en": "OpenAI has introduced 'OpenAI Presence,' an enterprise solution that combines model reasoning with policies, guardrails, and a continuous improvement loop to help businesses deploy reliable, high-value AI agents in production.",
+            "link": "https://openai.com/index/introducing-openai-presence"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1784656821000,
+            "date": "2026-07-21",
+            "title": "The AI Strategy Roadmap: Five drivers of successful AI transformation | The Microsoft Cloud Blog",
+            "summary_kr": "마이크로소프트의 'AI 전략 로드맵'은 조직이 단순한 AI 파일럿을 넘어 지속 가능한 비즈니스 가치를 창출할 수 있도록 비즈니스 전략, 데이터, 조직 문화 등 5가지 핵심 동인을 기반으로 한 체계적인 변화 지침을 제시합니다.",
+            "summary_en": "Microsoft’s 'AI Strategy Roadmap' provides a structured framework for organizations to move beyond isolated pilot projects toward scalable, governed business transformation, guided by five key drivers including business strategy, data foundations, and organizational readiness.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/21/the-ai-strategy-roadmap-five-drivers-of-successful-ai-transformation"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784653200000,
+            "date": "2026-07-21",
+            "title": "Introducing the ChatGPT for small business program",
+            "summary_kr": "OpenAI가 소상공인의 생산성 향상과 비즈니스 확장을 돕기 위해 실무 교육, 전용 도구, 파트너십을 결합한 'ChatGPT for Small Business' 프로그램을 출시했습니다.",
+            "summary_en": "OpenAI has launched the 'ChatGPT for Small Business' program, providing entrepreneurs with specialized training, workflow integrations, and expert resources to boost productivity and scale their operations.",
+            "link": "https://openai.com/index/introducing-chatgpt-small-business-program"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1784617200000,
@@ -864,42 +900,6 @@
             "summary_kr": "마이크로소프트는 기업의 AI 도입을 가속화하고 성과를 극대화하기 위해 25억 달러를 투자하여 6,000명의 전문가로 구성된 '마이크로소프트 프론티어 컴퍼니(Microsoft Frontier Company)'를 출범했습니다. 이 조직은 기업 고유의 지식 재산권과 데이터를 보호하면서 AI를 통한 실질적인 비즈니스 혁신과 수익 창출을 지원하는 데 집중합니다.",
             "summary_en": "Microsoft has launched 'Microsoft Frontier Company,' a $2.5B investment initiative featuring 6,000 experts dedicated to driving measurable business transformation through AI. The organization focuses on scaling enterprise AI solutions while strictly protecting proprietary data and intellectual property to ensure sustainable competitive advantage.",
             "link": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1782929700000,
-            "date": "2026-07-01",
-            "title": "The latest AI news we announced in June 2026",
-            "summary_kr": "구글은 2026년 6월, 온디바이스 AI 모델인 Gemma 4 12B와 고도화된 Gemini 모델, 그리고 생산성을 극대화한 Android 17 등을 발표하며 AI가 일상의 직관적인 파트너로 기능하는 통합 생태계를 강화했습니다.",
-            "summary_en": "Google's June 2026 updates, including the on-device Gemma 4 12B, advanced Gemini models, and Android 17, focus on creating a unified AI ecosystem that acts as an intuitive partner for personal and enterprise productivity.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782925442000,
-            "date": "2026-07-01",
-            "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning",
-            "summary_kr": "강화학습(RL)은 검증 가능한 보상 체계를 활용해 기업용 AI 에이전트의 복잡한 추론 및 도구 활용 능력을 최적화하는 핵심 기술로 부상하고 있습니다. 특히 데이터와 보안 통제권이 중요한 환경에서 RL은 명확한 성공 기준을 학습 신호로 변환하여 모델의 성능을 정교하게 개선합니다.",
-            "summary_en": "Reinforcement learning (RL) is emerging as a critical technique for optimizing AI agents by leveraging verifiable rewards to improve complex reasoning and tool execution. For enterprises prioritizing data control, RL enables the transformation of domain-specific success criteria into training signals for superior model performance.",
-            "link": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782920136000,
-            "date": "2026-07-01",
-            "title": "New AI-powered library lets people meet Theodore Roosevelt in a whole new way",
-            "summary_kr": "7월 4일 개관하는 시어도어 루스벨트 대통령 기념관은 마이크로소프트의 AI 기술을 활용해 방대한 역사 기록을 디지털화하고, 방문객이 루스벨트 대통령의 AI 아바타와 대화할 수 있는 혁신적인 체험형 '살아있는 도서관'을 구현했습니다.",
-            "summary_en": "Opening on July 4, the Theodore Roosevelt Presidential Library utilizes Microsoft's AI to digitize vast historical archives, creating an immersive 'living library' that allows visitors to interact with a lifelike AI avatar of the former president.",
-            "link": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1782864000000,
-            "date": "2026-07-01",
-            "title": "Introducing the Voice Agent Builder",
-            "summary_kr": "Grok Voice 기반의 'Voice Agent Builder'는 코드 없이 2분 만에 복잡한 기업용 음성 에이전트를 구축할 수 있는 노코드 플랫폼으로, 음성-대-음성 최적화를 통해 비용과 지연 시간을 획기적으로 줄였습니다.",
-            "summary_en": "The new 'Voice Agent Builder' on Grok Voice is a no-code platform that enables users to deploy production-ready voice agents in under two minutes, leveraging a speech-to-speech model architecture to minimize latency and operational complexity.",
-            "link": "https://x.ai/news/grok-voice-agent-builder"
         }
     ]
 }
