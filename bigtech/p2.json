@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-08-10 16:39:41",
+    "last_update": "2026-08-11 16:44:09",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1784725200000,
+            "date": "2026-07-22",
+            "title": "How news organizations are using AI to advance their vital missions",
+            "summary_kr": "뉴스 매체들은 AI를 활용해 취재 효율성을 높이고 독자 경험을 개선하며 비즈니스 지속 가능성을 강화하고 있습니다. 다만, 모든 과정에서 인간 언론인의 편집권과 주도적 판단이 핵심적인 역할을 유지하고 있습니다.",
+            "summary_en": "News organizations are leveraging AI to enhance reporting efficiency, personalize reader experiences, and drive business sustainability, while keeping human journalists at the core of all editorial and strategic decision-making.",
+            "link": "https://openai.com/index/how-news-organizations-are-using-ai"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1784678400000,
+            "date": "2026-07-22",
+            "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
+            "summary_kr": "앤스로픽은 AI가 경제에 미칠 영향을 대비하기 위해 2억 달러 규모의 '경제 미래 연구 기금'을 조성하고, 노동 시장 변화와 정책적 대응 방안을 모색하는 대규모 외부 연구 프로젝트를 지원합니다.",
+            "summary_en": "Anthropic has launched a $200 million 'Economic Futures Research Fund' to support ambitious external research and pilot programs aimed at ensuring economic resilience and social stability in the face of AI-driven disruption.",
+            "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1784678400000,
+            "date": "2026-07-22",
+            "title": "The Anthropic Economic Index connector",
+            "summary_kr": "앤스로픽은 사용자가 AI의 경제적 활용 현황을 쉽게 파악할 수 있도록 Claude에 '앤스로픽 경제 지수(Anthropic Economic Index) 커넥터'를 출시했습니다.",
+            "summary_en": "Anthropic has launched the Anthropic Economic Index connector for Claude, allowing users to easily query and explore data on how AI is being utilized in the economy.",
+            "link": "https://www.anthropic.com/news/anthropic-economic-index-connector"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784678400000,
+            "date": "2026-07-22",
+            "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+            "summary_kr": "NTT DATA Group은 9,000명의 직원에게 OpenAI의 Codex를 도입하여 기존에 3일이 소요되던 복잡한 장애 분석 작업을 30분 만에 처리하는 등 업무 생산성을 비약적으로 향상했습니다.",
+            "summary_en": "NTT DATA Group has deployed OpenAI's Codex to 9,000 employees, significantly boosting productivity by automating complex incident analysis tasks that previously took three days down to just 30 minutes.",
+            "link": "https://openai.com/index/ntt-data"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1784678400000,
+            "date": "2026-07-22",
+            "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
+            "summary_kr": "xAI의 최신 AI 모델인 Grok 4.5가 웹, X, 그리고 모바일 앱 전반에 정식 출시되어 향상된 추론 능력과 복합적인 작업 수행 기능을 제공합니다.",
+            "summary_en": "xAI has launched Grok 4.5 across web, X, and mobile platforms, delivering enhanced reasoning capabilities and advanced task-completion features.",
+            "link": "https://x.ai/news/grok-4-5-everywhere"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784738104000,
+            "date": "2026-07-22",
+            "title": "Make Long-Running NVIDIA TensorRT Engine Builds Observable and Cancelable in Python or C++",
+            "summary_kr": "NVIDIA TensorRT는 IProgressMonitor API를 통해 긴 빌드 과정의 진행 상황을 가시화하고 실시간으로 작업을 취소할 수 있는 기능을 제공합니다. 이를 통해 개발자와 AI 에이전트는 GPU 자원 낭비를 방지하고 빌드 과정을 더욱 효율적으로 제어할 수 있습니다.",
+            "summary_en": "NVIDIA TensorRT's IProgressMonitor API enables developers and AI agents to monitor progress and abort long-running engine builds in real-time. This implementation optimizes GPU resource usage by preventing stuck sessions and providing better control over the build lifecycle.",
+            "link": "https://developer.nvidia.com/blog/make-long-running-nvidia-tensorrt-engine-builds-observable-and-cancelable-in-python-or-c"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1784733122000,
+            "date": "2026-07-22",
+            "title": "A new approach to AI data puts communities in charge",
+            "summary_kr": "마이크로소프트의 '커뮤니티 라이브러리 크리에이터'는 특정 집단이 직접 데이터와 묘사 방식을 정의하게 함으로써 AI가 편향되지 않고 정확하게 이들을 표현하도록 돕는 새로운 플랫폼입니다.",
+            "summary_en": "Microsoft's 'Community Library Creator' platform empowers diverse groups to curate their own datasets and descriptions, ensuring AI systems learn to represent them accurately and fairly rather than relying on biased internet data.",
+            "link": "https://news.microsoft.com/signal/articles/a-new-approach-to-ai-data-puts-communities-in-charge"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784725200000,
+            "date": "2026-07-22",
+            "title": "Building AI infrastructure with the Effingham County community",
+            "summary_kr": "OpenAI는 조지아주 에핑엄 카운티에 3.2기가와트 규모의 데이터센터 '프로젝트 카멜리아'를 구축하며, 지역사회 전기료 인상 방지와 8천만 달러 규모의 혜택 및 교육 지원을 약속했습니다.",
+            "summary_en": "OpenAI is launching 'Project Camellia' in Effingham County, Georgia, committing to a 3.2-gigawatt data center infrastructure while ensuring no residential rate hikes, providing $80 million in community benefits, and supporting local education.",
+            "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1784722124000,
+            "date": "2026-07-22",
+            "title": "Powering America's Genesis Mission: Microsoft's commitment to scientific discovery - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트가 미국 에너지부의 '제네시스 미션'에 6천만 달러를 투자하고 전담 조직 SPARK를 신설하여, AI 기반의 과학 연구 가속화와 국가적 혁신 생산성 향상을 지원합니다.",
+            "summary_en": "Microsoft is investing $60 million and launching the SPARK hub to support the U.S. Department of Energy’s 'Genesis Mission,' aiming to accelerate AI-driven scientific discovery and double national research productivity.",
+            "link": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1784721600000,
@@ -819,87 +900,6 @@
             "summary_kr": "앤스로픽은 보안, 규정 준수 및 실무 적용 사례를 바탕으로 기업이 클로드(Claude)를 활용해 AI를 안전하고 효율적으로 확장할 수 있는 포괄적인 엔터프라이즈 도입 전략을 제시합니다.",
             "summary_en": "Anthropic provides comprehensive enterprise strategies and real-world use cases to help organizations securely adopt, scale, and integrate Claude into their operations with a focus on security and compliance.",
             "link": "https://claude.com/blog-category/enterprise-ai"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783382400000,
-            "date": "2026-07-07",
-            "title": "Product announcements Category | Claude",
-            "summary_kr": "앤스로픽은 클로드의 기업용 제어 기능 강화, 멀티 에이전트 오케스트레이션, 개발자 도구 및 플랫폼 연동성을 대폭 확장하며 엔터프라이즈 AI 생태계 내 영향력을 공고히 하고 있습니다.",
-            "summary_en": "Anthropic is solidifying its position in the enterprise AI ecosystem by significantly expanding Claude's administrative controls, multi-agent orchestration, and seamless integration with major developer platforms and cloud providers.",
-            "link": "https://claude.com/blog-category/announcements"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783374263000,
-            "date": "2026-07-06",
-            "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
-            "summary_kr": "본 기사는 대규모 LLM 학습 중 발생하는 하드웨어 불안정성에 대응하여, 비균일 텐서 병렬화(NTP)를 통해 데이터 재분할을 최적화하고 가동 중단을 최소화함으로써 전체 학습 효율(Goodput)을 극대화하는 방안을 제시합니다.",
-            "summary_en": "This article presents Nonuniform Tensor Parallelism (NTP) as a solution to enhance training Goodput by dynamically adjusting tensor parallelism and optimizing data resharding to mitigate the impact of hardware fluctuations in large-scale LLM training.",
-            "link": "https://developer.nvidia.com/blog/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783296000000,
-            "date": "2026-07-06",
-            "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities",
-            "summary_kr": "캐나다 앨버타주 정부가 클로드(Claude)를 활용해 4억 6,600만 줄의 방대한 코드를 단 20시간 만에 분석 및 보안 취약점을 해결하며 시스템 현대화를 획기적으로 가속화했습니다.",
-            "summary_en": "The Government of Alberta significantly accelerated system modernization by leveraging Claude to scan 466 million lines of code and remediate security vulnerabilities in just 20 hours.",
-            "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1783296000000,
-            "date": "2026-07-06",
-            "title": "21 New Flagship Grok Voices",
-            "summary_kr": "xAI는 21개의 다국어 지원 음성을 새롭게 출시하고 기존 음성의 자연스러움을 개선하여, Grok Voice API 및 에이전트 빌더의 활용도를 대폭 확장했습니다.",
-            "summary_en": "xAI has launched 21 new multilingual flagship voices with improved naturalness for existing ones, significantly expanding the capabilities of its Grok Voice APIs and Agent Builder.",
-            "link": "https://x.ai/news/new-flagship-voices"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781049600000,
-            "date": "2026-06-10",
-            "title": "Agents Category | Claude",
-            "summary_kr": "앤스로픽은 클로드(Claude)를 활용하여 기업 환경에서 자율 AI 에이전트를 구축, 확장 및 관리하기 위한 포괄적인 프레임워크와 기술 가이드를 제공합니다.",
-            "summary_en": "Anthropic provides a comprehensive framework and technical guide for building, scaling, and managing autonomous AI agents within enterprise environments using Claude.",
-            "link": "https://claude.com/blog-category/agents"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783296000000,
-            "date": "2026-07-06",
-            "title": "A global workspace in language models",
-            "summary_kr": "앤스로픽은 언어 모델 Claude 내부에서 인간의 의식적 사고와 유사하게 고차원적 추론과 정보 공유를 담당하는 신경 패턴인 'J-스페이스(J-space)'가 자발적으로 형성되었음을 발견했습니다.",
-            "summary_en": "Anthropic has discovered the 'J-space' within Claude, a set of spontaneously emerged neural patterns that function similarly to a human 'global workspace,' enabling the model to perform higher-order reasoning and flexible information processing.",
-            "link": "https://www.anthropic.com/research/global-workspace"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783027542000,
-            "date": "2026-07-02",
-            "title": "Hardware-Rooted AI Security That Won’t Slow You Down",
-            "summary_kr": "NVIDIA의 컨피덴셜 컴퓨팅(CC)은 하드웨어 기반의 강력한 보안을 제공하면서도 최적화 기술을 통해 비보안 모드 대비 98% 수준의 고성능 추론을 구현합니다.",
-            "summary_en": "NVIDIA Confidential Computing provides robust, hardware-rooted AI security while maintaining up to 98% of standard inference performance through advanced optimization techniques.",
-            "link": "https://developer.nvidia.com/blog/hardware-rooted-ai-security-that-wont-slow-you-down"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1782950400000,
-            "date": "2026-07-02",
-            "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-            "summary_kr": "앤스로픽은 모델 'Fable 5'의 사이버 보안 안전 분류기 작동 원리를 공개하고, AI 탈옥 위험을 평가할 표준 프레임워크를 제안하며 생태계 전반의 논의를 촉구했습니다.",
-            "summary_en": "Anthropic has released details on the cybersecurity safety classifiers for its Fable 5 model and proposed a standardized framework to assess AI jailbreak severity, aiming to foster broader industry-wide cooperation.",
-            "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782998986000,
-            "date": "2026-07-02",
-            "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 기업의 AI 도입을 가속화하고 성과를 극대화하기 위해 25억 달러를 투자하여 6,000명의 전문가로 구성된 '마이크로소프트 프론티어 컴퍼니(Microsoft Frontier Company)'를 출범했습니다. 이 조직은 기업 고유의 지식 재산권과 데이터를 보호하면서 AI를 통한 실질적인 비즈니스 혁신과 수익 창출을 지원하는 데 집중합니다.",
-            "summary_en": "Microsoft has launched 'Microsoft Frontier Company,' a $2.5B investment initiative featuring 6,000 experts dedicated to driving measurable business transformation through AI. The organization focuses on scaling enterprise AI solutions while strictly protecting proprietary data and intellectual property to ensure sustainable competitive advantage.",
-            "link": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence"
         }
     ]
 }
