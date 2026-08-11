@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-11 04:24:45",
+    "last_update": "2026-08-11 16:04:53",
     "articles": [
+        {
+            "title": "DeepSeek Ventures into AI Chip Development, Challenging Nvidia and Huawei | Technology - Devdiscourse",
+            "summary_en": "Chinese startup DeepSeek is entering the proprietary AI chip market in an effort to reduce its dependency on Nvidia and Huawei hardware. Despite facing significant hurdles from U.S. export restrictions, the move represents a strategic effort to secure China's technological independence in the AI sector.",
+            "link": "https://www.devdiscourse.com/article/technology/3946531-deepseek-ventures-into-ai-chip-development-challenging-nvidia-and-huawei",
+            "timestamp": 1783428706000,
+            "date": "2026-07-07"
+        },
+        {
+            "title": "Google launches Genkit Agents preview to simplify full-stack AI app development- Moneycontrol.com - Moneycontrol.com",
+            "summary_en": "Google has launched a preview of Genkit Agents, a new API for TypeScript and Go that simplifies full-stack AI development by automating conversation state management and tool execution. The framework allows developers to build complex, multi-agent applications with features like human-approval workflows, persistence, and support for detached long-running tasks.",
+            "link": "https://www.moneycontrol.com/technology/google-launches-genkit-agents-preview-to-simplify-full-stack-ai-app-development-article-13968013.html",
+            "timestamp": 1783416006000,
+            "date": "2026-07-07"
+        },
+        {
+            "title": "Amazon seeks robotics scientist to build autonomous lab for materials research - EdTech Innovation Hub",
+            "summary_en": "Amazon is recruiting a robotics scientist to develop an autonomous laboratory aimed at accelerating sustainability research through physical AI and foundation models. The role focuses on integrating robotic platforms with machine learning pipelines to automate materials discovery for packaging and alternative fuels.",
+            "link": "https://www.edtechinnovationhub.com/news/amazon-seeks-robotics-scientist-to-build-autonomous-lab-for-materials-research",
+            "timestamp": 1783378911000,
+            "date": "2026-07-06"
+        },
         {
             "title": "AMD Ryzen AI Halo Launches at $3,999, Undercutting Nvidia DGX Spark for Local AI Development - finance.biggo.com",
             "summary_en": "AMD has released its Ryzen AI Halo mini workstation at $3,999, providing developers with 128 GB of unified memory for running large language models on-device. While it serves as a more affordable alternative to Nvidia’s DGX Spark, the system lacks the high-speed networking capabilities required for advanced multi-node clustering.",
@@ -679,27 +700,6 @@
             "link": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration",
             "timestamp": 1781631289000,
             "date": "2026-06-16"
-        },
-        {
-            "title": "Database market shifts as MongoDB Atlas powers AI apps - SiliconANGLE",
-            "summary_en": "MongoDB is positioning its Atlas platform as the 'active memory layer' for AI applications by integrating directly with AWS services like Amazon Bedrock and Amazon Q Developer. This unified approach allows enterprises to streamline their AI stack and consolidate procurement costs, as demonstrated by firms like Novo Nordisk, which significantly reduced clinical reporting times.",
-            "link": "https://siliconangle.com/2026/06/16/database-market-mongodb-atlas-aws-marketplace-awsmarketplaceseries",
-            "timestamp": 1781620891000,
-            "date": "2026-06-16"
-        },
-        {
-            "title": "OpenAI's Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls - MarkTechPost",
-            "summary_en": "OpenAI has introduced 'Deployment Simulation,' a safety method that evaluates new models by replaying actual user traffic to estimate failure rates. This approach complements traditional testing by providing representative data on how models perform in real-world contexts, though it is limited to risks appearing in at least 1 in 200,000 messages.",
-            "link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation",
-            "timestamp": 1781675394000,
-            "date": "2026-06-17"
-        },
-        {
-            "title": "Anthropic to meet White House officials over AI tool suspension - BBC",
-            "summary_en": "Anthropic executives are set to meet with U.S. Commerce Department officials to address a government-mandated suspension of its 'Fable 5' and 'Mythos 5' AI tools. The government blocked public access due to national security concerns regarding potential jailbreak vulnerabilities in these highly capable models.",
-            "link": "https://www.bbc.com/news/articles/c9w2p7ykp8yo",
-            "timestamp": 1781549066000,
-            "date": "2026-06-15"
         }
     ]
 }

@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-11 04:24:45",
+    "last_update": "2026-08-11 16:04:53",
     "articles": [
+        {
+            "title": "Exclusive: Sanders calls for AI development pause - Axios",
+            "summary_en": "U.S. Senator Bernie Sanders has officially called for a pause in the development of artificial intelligence technologies.",
+            "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
+            "timestamp": 1786352421000,
+            "date": "2026-08-10"
+        },
+        {
+            "title": "Novo Nordisk selects AWS as strategic partner to accelerate drug discovery with AI | Amazon Web Services - Amazon Web Services (AWS)",
+            "summary_en": "Novo Nordisk has partnered with AWS to utilize cloud and AI services, such as Amazon Bio Discovery, to accelerate drug development through a dedicated co-innovation hub in London. This collaboration aims to bridge the gap between scientific research and technical execution, effectively shortening the timeline from initial drug discovery to clinical trials.",
+            "link": "https://aws.amazon.com/blogs/industries/novo-nordisk-selects-aws-as-strategic-partner-to-accelerate-drug-discovery-with-ai",
+            "timestamp": 1786363642000,
+            "date": "2026-08-10"
+        },
+        {
+            "title": "OpenAI introduces a new cyber model amid fears of AI cyberattacks - Axios",
+            "summary_en": "OpenAI has launched a new cyber-focused AI model in response to growing global concerns regarding the potential for AI-powered cyberattacks.",
+            "link": "https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders",
+            "timestamp": 1786380273000,
+            "date": "2026-08-10"
+        },
         {
             "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic - CNBC",
             "summary_en": "Meta is shifting toward an open-source strategy by releasing its powerful Muse Spark 1.2 and device-ready Muse Glimmer models to challenge the closed-model dominance of OpenAI and Anthropic. CEO Mark Zuckerberg argues that open-source AI is critical for U.S. competitiveness and urges policymakers to reduce regulatory friction regarding training data and model distillation.",
@@ -679,27 +700,6 @@
             "link": "https://www.upi.com/Top_News/US/2026/07/22/microsoft-genesis-mission-investment-spark/5671784728042",
             "timestamp": 1784729280000,
             "date": "2026-07-22"
-        },
-        {
-            "title": "NPS Launches First NVIDIA DGX GB300 AI Supercomputer in U.S. Military to Advance Leadership Through Education and Research - DVIDS",
-            "summary_en": "The Naval Postgraduate School has installed the first NVIDIA DGX GB300 supercomputer within the U.S. military to bolster defense-focused research in artificial intelligence, autonomy, and cybersecurity. This deployment aims to enhance leadership and technical capabilities through advanced academic and operational analysis.",
-            "link": "https://www.dvidshub.net/image/9826294/nps-launches-first-nvidia-dgx-gb300-ai-supercomputer-us-military-advance-leadership-through-education-and-research",
-            "timestamp": 1784776920000,
-            "date": "2026-07-23"
-        },
-        {
-            "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
-            "summary_en": "A White House adviser has accused China’s Moonshot AI of intellectual property theft, alleging the company used 'distillation' attacks to extract capabilities from Anthropic’s models for its new K3 AI. U.S. officials are now considering sanctions, claiming Moonshot also utilized restricted, high-end Nvidia hardware to accelerate its development.",
-            "link": "https://www.bbc.com/news/articles/c5ye2gyz0x4o",
-            "timestamp": 1784771530000,
-            "date": "2026-07-23"
-        },
-        {
-            "title": "Amazon cuts jobs in AGI unit amid AI strategy realignment | Communications Today - Communications Today",
-            "summary_en": "Amazon is cutting an undisclosed number of jobs within its Artificial General Intelligence (AGI) unit to streamline operations and prioritize core AI initiatives. Despite these layoffs, the company continues to heavily invest in its Nova foundation models and expand its strategic partnership with Anthropic.",
-            "link": "https://www.communicationstoday.co.in/amazon-cuts-jobs-in-agi-unit-amid-ai-strategy-realignment",
-            "timestamp": 1784781522000,
-            "date": "2026-07-23"
         }
     ]
 }
