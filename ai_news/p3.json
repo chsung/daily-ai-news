@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-10 16:04:26",
+    "last_update": "2026-08-11 04:24:45",
     "articles": [
+        {
+            "title": "AMD Ryzen AI Halo Launches at $3,999, Undercutting Nvidia DGX Spark for Local AI Development - finance.biggo.com",
+            "summary_en": "AMD has released its Ryzen AI Halo mini workstation at $3,999, providing developers with 128 GB of unified memory for running large language models on-device. While it serves as a more affordable alternative to Nvidia’s DGX Spark, the system lacks the high-speed networking capabilities required for advanced multi-node clustering.",
+            "link": "https://finance.biggo.com/news/629271c3-c7cb-4a9a-b43a-068d34de6ecc",
+            "timestamp": 1783364760000,
+            "date": "2026-07-06"
+        },
+        {
+            "title": "Urgent Boost for Self-Developed AI Chips: Amazon AWS Raises Q3 ASIC Server Shipment Targets by Up to 30%. - TradingKey",
+            "summary_en": "Amazon AWS has raised its Q3 2026 ASIC server shipment targets by up to 30% to meet soaring demand from major partners like Anthropic, OpenAI, and its own Bedrock platform. The move centers on the 3nm Trainium 3 chip, which offers double the computing performance of its predecessor and represents a strategic shift toward self-developed hardware to maintain cloud dominance.",
+            "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262013038-amazon-aws-hiking-q3-asic-server-shipment-targets-up-30-tradingkey",
+            "timestamp": 1783337451000,
+            "date": "2026-07-06"
+        },
+        {
+            "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says - CNBC",
+            "summary_en": "Nvidia’s flagship Kyber rack-scale architecture has been delayed until 2028 due to manufacturing challenges involving a complex multi-layer printed circuit board. This setback complicates Nvidia's product roadmap and may provide a competitive opening for rivals like AMD and Google as cloud providers reject alternative stopgap hardware designs.",
+            "link": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+            "timestamp": 1783308060000,
+            "date": "2026-07-06"
+        },
         {
             "title": "Anthropic exploring custom AI chip development with Samsung, according to reports - New Electronics",
             "summary_en": "Anthropic is reportedly in discussions with Samsung Electronics to develop custom artificial intelligence chips. This strategic move highlights the company's intent to reduce its reliance on third-party silicon providers and secure its own AI hardware supply chain.",
@@ -678,27 +699,6 @@
             "summary_en": "Anthropic executives are set to meet with U.S. Commerce Department officials to address a government-mandated suspension of its 'Fable 5' and 'Mythos 5' AI tools. The government blocked public access due to national security concerns regarding potential jailbreak vulnerabilities in these highly capable models.",
             "link": "https://www.bbc.com/news/articles/c9w2p7ykp8yo",
             "timestamp": 1781549066000,
-            "date": "2026-06-15"
-        },
-        {
-            "title": "North Korea Advances AI Research Using Aging Nvidia Chips Despite Sanctions - Koreabizwire",
-            "summary_en": "Despite stringent international sanctions, North Korea continues to advance its artificial intelligence research efforts by utilizing aging Nvidia hardware. The state’s ability to conduct AI development despite restricted access to modern semiconductor technology underscores ongoing challenges in enforcing global tech export controls.",
-            "link": "http://koreabizwire.com/north-korea-advances-ai-research-using-aging-nvidia-chips-despite-sanctions/353309",
-            "timestamp": 1781658223000,
-            "date": "2026-06-17"
-        },
-        {
-            "title": "HPE tightens Nvidia ties in AI stack, integrates Juniper - Constellation Research",
-            "summary_en": "HPE has expanded its enterprise AI infrastructure by integrating Nvidia’s latest server technologies and Juniper’s networking portfolio to create a self-driving, high-efficiency data center stack. The update features advanced observability tools and metadata optimization that HPE claims can reduce AI token response times by 20x.",
-            "link": "https://www.constellationr.com/insights/news/hpe-tightens-nvidia-ties-ai-stack-integrates-juniper",
-            "timestamp": 1781627871000,
-            "date": "2026-06-16"
-        },
-        {
-            "title": "ASUS Launches ExpertCenter Pro ET900N G3 Built on NVIDIA DGX Station Architecture - ASUS Pressroom",
-            "summary_en": "ASUS has released the ExpertCenter Pro ET900N G3, a deskside supercomputer utilizing the NVIDIA GB300 Grace Blackwell Ultra chip to provide data-center-level AI performance locally. With 748GB of coherent memory and 20 PFLOPS of performance, it is designed to support the training of models with up to 1 trillion parameters without relying on cloud infrastructure.",
-            "link": "https://press.asus.com/news/press-releases/asus-expertcenter-pro-et900n-g3-nvidia-gb300-blackwell",
-            "timestamp": 1781515825000,
             "date": "2026-06-15"
         }
     ]
