@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-11 16:04:53",
+    "last_update": "2026-08-12 04:54:28",
     "articles": [
+        {
+            "title": "Abbott Laboratories - Abbott MediaRoom",
+            "summary_en": "Abbott and Google Health have launched a multi-year partnership integrating glucose data from Abbott’s Lingo biowearable into Google’s AI-powered health coaching to provide personalized metabolic insights. The collaboration also includes a large-scale real-world study to better understand how daily habits influence long-term metabolic health and prevent chronic conditions.",
+            "link": "https://abbott.mediaroom.com/2026-08-11-Abbott-and-Google-launch-first-of-its-kind-partnership-to-transform-everyday-health-through-glucose-insights-and-AI",
+            "timestamp": 1786453385000,
+            "date": "2026-08-11"
+        },
+        {
+            "title": "Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire",
+            "summary_en": "Former Meta AI research director Kevin Carlberg has raised $10.25 million for his startup, Noosphere Labs, which aims to develop human-centered physical intelligence for real-world interactions. The venture is backed by Trilogy Equity Partners and Madrona and focuses on bridging the gap in AI's current inability to effectively interpret human intent in physical environments.",
+            "link": "https://www.geekwire.com/2026/ex-meta-ai-research-director-raises-10-25m-from-trilogy-and-madrona-for-stealth-physical-ai-startup",
+            "timestamp": 1786463941000,
+            "date": "2026-08-11"
+        },
         {
             "title": "Exclusive: Sanders calls for AI development pause - Axios",
             "summary_en": "U.S. Senator Bernie Sanders has officially called for a pause in the development of artificial intelligence technologies.",
@@ -686,20 +700,6 @@
             "link": "https://www.citybiz.co/article/878114/brown-brown-launches-ai-first-strategy-with-anthropic-mckinsey-and-accenture",
             "timestamp": 1784805265000,
             "date": "2026-07-23"
-        },
-        {
-            "title": "US officials threaten to sanction Chinese AI startups after Moonshot release - Nikkei Asia",
-            "summary_en": "U.S. officials are threatening sanctions against Chinese startups like Moonshot AI, alleging the theft of intellectual property from American frontier laboratories. The scrutiny follows the rapid rise of Moonshot’s Kimi K3 model, which now rivals top-tier AI performance globally.",
-            "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-officials-threaten-to-sanction-chinese-ai-startups-after-moonshot-release",
-            "timestamp": 1784775600000,
-            "date": "2026-07-23"
-        },
-        {
-            "title": "Microsoft invests $60 million to AI in Energy Department program - UPI.com - upi.com",
-            "summary_en": "Microsoft is investing $60 million into the U.S. Department of Energy’s 'Genesis Mission' to accelerate AI-enabled scientific research across 17 national laboratories. The package includes $40 million in Azure cloud credits and $20 million in dedicated engineering support to drive breakthroughs in energy and national security.",
-            "link": "https://www.upi.com/Top_News/US/2026/07/22/microsoft-genesis-mission-investment-spark/5671784728042",
-            "timestamp": 1784729280000,
-            "date": "2026-07-22"
         }
     ]
 }

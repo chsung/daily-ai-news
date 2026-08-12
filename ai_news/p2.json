@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-11 16:04:53",
+    "last_update": "2026-08-12 04:54:28",
     "articles": [
+        {
+            "title": "US officials threaten to sanction Chinese AI startups after Moonshot release - Nikkei Asia",
+            "summary_en": "U.S. officials are threatening sanctions against Chinese startups like Moonshot AI, alleging the theft of intellectual property from American frontier laboratories. The scrutiny follows the rapid rise of Moonshot’s Kimi K3 model, which now rivals top-tier AI performance globally.",
+            "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-officials-threaten-to-sanction-chinese-ai-startups-after-moonshot-release",
+            "timestamp": 1784775600000,
+            "date": "2026-07-23"
+        },
+        {
+            "title": "Microsoft invests $60 million to AI in Energy Department program - UPI.com - upi.com",
+            "summary_en": "Microsoft is investing $60 million into the U.S. Department of Energy’s 'Genesis Mission' to accelerate AI-enabled scientific research across 17 national laboratories. The package includes $40 million in Azure cloud credits and $20 million in dedicated engineering support to drive breakthroughs in energy and national security.",
+            "link": "https://www.upi.com/Top_News/US/2026/07/22/microsoft-genesis-mission-investment-spark/5671784728042",
+            "timestamp": 1784729280000,
+            "date": "2026-07-22"
+        },
         {
             "title": "NPS Launches First NVIDIA DGX GB300 AI Supercomputer in U.S. Military to Advance Leadership Through Education and Research - DVIDS",
             "summary_en": "The Naval Postgraduate School has installed the first NVIDIA DGX GB300 supercomputer within the U.S. military to bolster defense-focused research in artificial intelligence, autonomy, and cybersecurity. This deployment aims to enhance leadership and technical capabilities through advanced academic and operational analysis.",
@@ -686,20 +700,6 @@
             "link": "https://rcpmag.com/articles/2026/07/07/microsoft-shifts-its-enterprise-ai-strategy.aspx",
             "timestamp": 1783429865000,
             "date": "2026-07-07"
-        },
-        {
-            "title": "Certara Accelerates Drug Discovery and Development with NVIDIA BioNeMo Agent Toolkit FAQs - Stock Titan",
-            "summary_en": "Certara is partnering with NVIDIA to integrate the BioNeMo Agent Toolkit into its drug discovery platform to create autonomous AI agents for biosimulation. These agents will assist scientists by automating complex tasks such as dosage optimization, clinical trial simulation, and regulatory documentation while maintaining a human-in-the-loop decision-making process.",
-            "link": "https://www.stocktitan.net/news/CERT/certara-accelerates-drug-discovery-and-development-with-nvidia-bio-xvymzo9l011a.html",
-            "timestamp": 1783425600000,
-            "date": "2026-07-07"
-        },
-        {
-            "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research - MarkTechPost",
-            "summary_en": "Synthetic Sciences has introduced OpenScience, an open-source, model-agnostic AI workbench designed to support interdisciplinary research in machine learning, biology, physics, and chemistry. This platform aims to provide researchers with a unified environment for developing and deploying AI-driven scientific workflows.",
-            "link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-            "timestamp": 1783314432000,
-            "date": "2026-07-06"
         }
     ]
 }
