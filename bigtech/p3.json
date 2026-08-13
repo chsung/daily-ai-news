@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-08-12 16:43:21",
+    "last_update": "2026-08-13 16:41:59",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1783526400000,
+            "date": "2026-07-08",
+            "title": "AI can generate Charts. Flint helps generate better ones.",
+            "summary_kr": "Flint는 데이터의 의미론적 유형을 활용해 AI가 간결한 명세만으로도 시각적으로 완성도 높은 차트를 생성할 수 있게 돕는 중간 언어이자 프레임워크입니다.",
+            "summary_en": "Flint is an intermediate language and framework that leverages semantic data types to enable AI agents to reliably generate polished, expressive charts from compact specifications.",
+            "link": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1783522800000,
+            "date": "2026-07-08",
+            "title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance",
+            "summary_kr": "LangChain Deep Agents 하네스 프로파일을 활용해 NVIDIA Nemotron 3 Ultra 모델의 성능을 최적화함으로써, 비용 효율적으로 고성능 모델에 준하는 에이전트 작업 수행 능력을 확보하는 방법을 제시합니다.",
+            "summary_en": "This guide demonstrates how to optimize NVIDIA Nemotron 3 Ultra performance using LangChain Deep Agents harness profiles, enabling cost-effective, high-accuracy agent workflows that rival frontier models.",
+            "link": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783504800000,
+            "date": "2026-07-08",
+            "title": "Helping K–12 educators build practical AI skills",
+            "summary_kr": "OpenAI는 월튼 패밀리 재단과 협력하여 K-12 교육자들이 AI를 실무에 효과적으로 활용하고 업무 효율을 높일 수 있도록 지원하는 'AI 스킬 잼(AI Skills Jam)' 워크숍을 개최합니다.",
+            "summary_en": "OpenAI is partnering with the Walton Family Foundation to host 'AI Skills Jam' workshops, providing K-12 educators with hands-on training to effectively integrate AI into their daily professional tasks.",
+            "link": "https://openai.com/index/k-12-educators-practical-skills"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783468800000,
+            "date": "2026-07-08",
+            "title": "Introducing GPT-Live",
+            "summary_kr": "OpenAI가 공개한 'GPT-Live'는 풀듀플렉스 아키텍처를 통해 실시간 대화 흐름을 유지하며, 복잡한 추론 작업은 백엔드 모델(GPT-5.5)에 위임하여 자연스럽고 지능적인 인간-AI 상호작용을 구현합니다.",
+            "summary_en": "OpenAI's 'GPT-Live' utilizes a full-duplex architecture for seamless, continuous conversation while delegating complex reasoning tasks to frontier models like GPT-5.5, enabling a more natural and intelligent human-AI interaction.",
+            "link": "https://openai.com/index/introducing-gpt-live"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1783446600000,
+            "date": "2026-07-07",
+            "title": "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience",
+            "summary_kr": "구글은 UN 및 각국 정부와 협력하여 AI 기반의 고도화된 기상 예측 모델과 실시간 경보 시스템을 제공함으로써 전 세계적인 재난 대응 역량을 강화하고 있습니다.",
+            "summary_en": "Google is strengthening global crisis resilience by collaborating with the UN and governments to deploy advanced AI-driven weather forecasting and real-time alert systems.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783382400000,
+            "date": "2026-07-07",
+            "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+            "summary_kr": "Australian Payments Plus(AP+)는 ChatGPT Enterprise와 Codex를 도입하여 복잡한 결제 시스템 분석 및 업무 효율성을 획기적으로 개선하며 생산성을 높이고 있습니다.",
+            "summary_en": "Australian Payments Plus (AP+) has significantly enhanced operational efficiency and complex payment system analysis by integrating ChatGPT Enterprise and Codex into its workflows.",
+            "link": "https://openai.com/index/australian-payments-plus"
+        },
+        {
+            "company": "Meta",
+            "timestamp": 1783382400000,
+            "date": "2026-07-07",
+            "title": "Introducing Muse Image and Muse Video",
+            "summary_kr": "메타는 검색, 코딩, 자기 성찰 기능을 갖춘 에이전트형 이미지 생성 모델 'Muse Image'를 출시하고, 고품질 비디오 모델 'Muse Video'를 공개하며 생성형 미디어 기술의 패러다임을 확장했습니다.",
+            "summary_en": "Meta has launched 'Muse Image,' an agentic model that utilizes search, coding, and self-refinement to enhance generation, while also previewing 'Muse Video' to advance the frontier of high-fidelity media creation.",
+            "link": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1783445658000,
@@ -837,69 +900,6 @@
             "summary_kr": "NVIDIA가 공개한 XR AI는 AR 글래스 및 XR 기기에서 실시간 시각·음성 정보를 처리하고 엔터프라이즈 데이터와 연동되는 지능형 에이전트 개발을 위한 오픈소스 인프라를 제공합니다.",
             "summary_en": "NVIDIA XR AI provides an open-source infrastructure that enables developers to build intelligent agents capable of processing real-time multimodal inputs and integrating enterprise data for AR and XR devices.",
             "link": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781641808000,
-            "date": "2026-06-16",
-            "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
-            "summary_kr": "금융 거래 데이터의 순차적 패턴을 학습하는 트랜스포머 기반 파운데이션 모델이 기존의 수동 피처 엔지니어링을 대체하며 사기 탐지 및 신용 평가 등 다양한 금융 업무에서 성능을 혁신하고 있습니다.",
-            "summary_en": "Transformer-based foundation models are revolutionizing financial intelligence by learning sequential transaction patterns, replacing brittle manual feature engineering to significantly enhance performance in tasks like fraud detection and credit scoring.",
-            "link": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781639985000,
-            "date": "2026-06-16",
-            "title": "Achieving success with AI - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 기업이 독자적인 경쟁력을 강화하려면 특정 모델에 종속되지 않는 개방형 플랫폼 환경과 함께, 비용 효율성 및 보안을 보장하는 신뢰 기반의 AI 전략이 필수적이라고 강조합니다.",
-            "summary_en": "Microsoft emphasizes that for organizations to thrive, they must adopt an open, model-diverse platform that prioritizes 'Intelligence + Trust' to ensure strategic autonomy, cost optimization, and secure governance.",
-            "link": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781568000000,
-            "date": "2026-06-16",
-            "title": "Grok Imagine Video 1.5",
-            "summary_kr": "xAI가 공개한 Grok Imagine Video 1.5는 향상된 물리 효과와 오디오 동기화 및 2배 빠른 생성 속도를 갖추었으며, 워크플로우 효율을 위한 새로운 프로젝트 관리 기능을 제공합니다.",
-            "summary_en": "xAI has launched Grok Imagine Video 1.5, featuring superior motion, physics, and audio synchronization alongside doubled generation speeds and new workflow-enhancing project management tools.",
-            "link": "https://x.ai/news/grok-imagine-video-1-5"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781654400000,
-            "date": "2026-06-17",
-            "title": "Agentic coding and persistent returns to expertise",
-            "summary_kr": "에이전트 코딩 환경에서는 도메인 전문성이 코딩 기술보다 작업 성공의 핵심 동력이 되며, 사용자의 기획 능력과 AI의 실행력이 결합하여 업무의 복잡도와 가치를 높이고 있습니다.",
-            "summary_en": "Domain expertise serves as a key driver of success in agentic coding, where human strategic planning and AI execution combine to significantly enhance the complexity and value of knowledge work.",
-            "link": "https://www.anthropic.com/research/claude-code-expertise"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781629479000,
-            "date": "2026-06-16",
-            "title": "Copilot Cowork is now generally available | Microsoft 365 Blog",
-            "summary_kr": "마이크로소프트가 복잡하고 긴 호흡의 업무를 엔드투엔드로 자동화하는 'Copilot Cowork'를 정식 출시했습니다. 이 서비스는 엔터프라이즈급 보안과 효율적인 비용 구조를 바탕으로 기업의 생산성을 획기적으로 개선합니다.",
-            "summary_en": "Microsoft has officially launched 'Copilot Cowork,' an agentic system designed to automate complex, long-running tasks from end to end with enterprise-grade security and a cost-efficient, usage-based pricing model.",
-            "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781629200000,
-            "date": "2026-06-16",
-            "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
-            "summary_kr": "엔비디아는 언리얼 엔진 5를 위한 'ACE 게임 에이전트 SDK'와 신규 플러그인을 공개하여, 개발자들이 고성능 온디바이스 AI NPC를 더 쉽고 효율적으로 구축할 수 있도록 지원합니다.",
-            "summary_en": "NVIDIA has introduced the ACE Game Agent SDK and new Unreal Engine 5 plugins, enabling developers to more easily build and deploy high-performance, on-device AI companions.",
-            "link": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1781625600000,
-            "date": "2026-06-16",
-            "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
-            "summary_kr": "NVIDIA Transformer Engine을 활용해 모델의 행렬 연산(GEMM) 형태를 정밀하게 분석하고 저정밀도(FP8, FP4) 최적화를 수행함으로써 트랜스포머 모델의 학습 속도를 효과적으로 가속화하는 방법을 제시합니다.",
-            "summary_en": "This article explains how to accelerate transformer training by analyzing GEMM shapes and leveraging NVIDIA Transformer Engine to optimize performance through low-precision formats like FP8 and FP4.",
-            "link": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training"
         }
     ]
 }
