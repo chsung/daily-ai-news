@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-13 04:56:57",
+    "last_update": "2026-08-13 16:03:44",
     "articles": [
+        {
+            "title": "Meta AI gets smarter: It can now plan your day, do research, and create presentations - The Indian Express",
+            "summary_en": "Meta has upgraded its AI assistant with the Muse Spark 1.1 model, enabling it to perform autonomous, multi-step tasks such as calendar management, research, and presentation creation. This update shifts Meta AI from a simple chatbot to a proactive agent capable of executing complex workflows across user applications.",
+            "link": "https://indianexpress.com/article/technology/artificial-intelligence/meta-ai-muse-spark-1-1-new-features-10802642",
+            "timestamp": 1784948732000,
+            "date": "2026-07-25"
+        },
+        {
+            "title": "White House draws new AI line on China - Axios",
+            "summary_en": "The White House has introduced new, more stringent AI-related restrictions aimed at limiting China's access to advanced artificial intelligence technologies.",
+            "link": "https://www.axios.com/2026/07/24/white-house-ai-line-china",
+            "timestamp": 1784885873000,
+            "date": "2026-07-24"
+        },
         {
             "title": "Towards a quantum computer that learns from its errors - Google Research",
             "summary_en": "Google Research has developed a reinforcement learning framework that allows quantum computers to continuously calibrate control parameters, solving the bottleneck of system drift during long computations. This integration enables the system to stabilize against hardware errors without needing to interrupt the processing of complex algorithms.",
@@ -686,20 +700,6 @@
             "link": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07",
             "timestamp": 1783460454000,
             "date": "2026-07-07"
-        },
-        {
-            "title": "A Circuit Board Problem Just Delayed Nvidia's Next AI System to 2028 And Chip Stocks Are Already Feeling the Fallout - 24/7 Wall St.",
-            "summary_en": "Nvidia’s next-generation Kyber AI system is reportedly delayed to 2028 due to manufacturing difficulties with complex 78-layer circuit boards, though the company maintains its current roadmap is intact.",
-            "link": "https://247wallst.com/investing/2026/07/07/a-circuit-board-problem-just-delayed-nvidias-next-ai-system-to-2028-and-chip-stocks-are-already-feeling-the-fallout",
-            "timestamp": 1783459111000,
-            "date": "2026-07-07"
-        },
-        {
-            "title": "AI Chips Today - Certara-NVIDIA Partnership Revolutionizes AI in Drug Development - Yahoo Finance",
-            "summary_en": "Certara is partnering with NVIDIA to integrate the BioNeMo Agent Toolkit into its biosimulation software to automate drug discovery processes. This collaboration uses AI-driven agents to computationally simulate human biology, aiming to accelerate the development of new medicines.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-certara-nvidia-113752197.html",
-            "timestamp": 1783510672000,
-            "date": "2026-07-08"
         }
     ]
 }

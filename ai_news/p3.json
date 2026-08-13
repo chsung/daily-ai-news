@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-13 04:56:57",
+    "last_update": "2026-08-13 16:03:44",
     "articles": [
+        {
+            "title": "A Circuit Board Problem Just Delayed Nvidia's Next AI System to 2028 And Chip Stocks Are Already Feeling the Fallout - 24/7 Wall St.",
+            "summary_en": "Nvidia’s next-generation Kyber AI system is reportedly delayed to 2028 due to manufacturing difficulties with complex 78-layer circuit boards, though the company maintains its current roadmap is intact.",
+            "link": "https://247wallst.com/investing/2026/07/07/a-circuit-board-problem-just-delayed-nvidias-next-ai-system-to-2028-and-chip-stocks-are-already-feeling-the-fallout",
+            "timestamp": 1783459111000,
+            "date": "2026-07-07"
+        },
+        {
+            "title": "AI Chips Today - Certara-NVIDIA Partnership Revolutionizes AI in Drug Development - Yahoo Finance",
+            "summary_en": "Certara is partnering with NVIDIA to integrate the BioNeMo Agent Toolkit into its biosimulation software to automate drug discovery processes. This collaboration uses AI-driven agents to computationally simulate human biology, aiming to accelerate the development of new medicines.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-certara-nvidia-113752197.html",
+            "timestamp": 1783510672000,
+            "date": "2026-07-08"
+        },
         {
             "title": "Cloudflare, OpenAI launch research pilot on AI search indexing - Investing.com",
             "summary_en": "Cloudflare and OpenAI have entered into a research partnership to pilot new methodologies for AI search indexing. Specific details regarding the scope and technical implementation of this collaboration are limited.",
@@ -685,20 +699,6 @@
             "summary_en": "OpenAI has hired Dean Ball, a former White House AI adviser and architect of the AI Action Plan, to spearhead a new strategy team focusing on public policy and internal governance. This hire reflects OpenAI's efforts to integrate high-level policy expertise alongside other strategic leadership additions, including former Salesforce and Ironclad executives.",
             "link": "https://www.benzinga.com/markets/private-markets/26/06/53288065/openai-taps-trumps-former-ai-adviser-for-new-strategy-role",
             "timestamp": 1781807603000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "Amazon SVP on AI strategy: Aim to compete with Anthropic in coming year - CNBC",
-            "summary_en": "Amazon's SVP of foundational AI, Peter DeSantis, expects the company's internal AI models to reach competitive parity with frontier models from Anthropic and OpenAI within the next year. This strategy is central to Amazon's ongoing efforts to transform the online shopping experience.",
-            "link": "https://www.cnbc.com/video/2026/06/18/amazon-svp-on-ai-strategy-aim-to-compete-with-anthropic-in-coming-year.html",
-            "timestamp": 1781782713000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "Amazon Expands Trainium AI Chip Strategy Beyond AWS - Amazon.com (NASDAQ:AMZN) - Benzinga",
-            "summary_en": "Amazon is exploring the sale of its Trainium AI chips to external customers beyond AWS to address the global underconsumption of AI hardware. While third-generation chips are currently sold out, the company is already experiencing significant demand for its upcoming fourth-generation chips.",
-            "link": "https://www.benzinga.com/markets/tech/26/06/53285203/amazon-expands-trainium-ai-chip-strategy-beyond-aws",
-            "timestamp": 1781802520000,
             "date": "2026-06-18"
         }
     ]
