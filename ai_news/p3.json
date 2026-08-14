@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-08-13 16:03:44",
+    "last_update": "2026-08-14 15:58:09",
     "articles": [
+        {
+            "title": "Microsoft (MSFT) Unifies Copilot Strategy to Challenge ChatGPT and Claude - Yahoo Finance",
+            "summary_en": "Microsoft plans to consolidate its consumer and enterprise Copilot chatbots into a single platform to compete more effectively against rivals like ChatGPT and Claude. Despite facing increased capital expenditure forecasts related to memory costs, the company remains focused on scaling its 100 million-user base through unified AI agents and coding tools.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-unifies-copilot-strategy-153524054.html",
+            "timestamp": 1783524924000,
+            "date": "2026-07-08"
+        },
+        {
+            "title": "Inference Costs Plummet 90%. Nvidia Partners With LangChain to Define Agent Standards, Seizing the New Entry Point for AI Applications - TradingKey",
+            "summary_en": "NVIDIA has partnered with LangChain to release the NeMoClaw Deep Agents blueprint, a framework that establishes enterprise-grade standards for AI agent governance and controllability. By leveraging Blackwell architecture, the initiative aims to reduce inference costs by approximately 90%, marking a strategic shift for NVIDIA toward a software-centric AI ecosystem.",
+            "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262019693-nvidia-langchain-define-agent-standards-to-seize-ai-app-gateway-tradingkey",
+            "timestamp": 1783614005000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "OpenAI to release its most powerful model after weekslong hold - Politico",
+            "summary_en": "OpenAI is preparing to launch its most powerful artificial intelligence model following a delay of several weeks.",
+            "link": "https://www.politico.com/news/2026/07/08/open-ai-models-release-sol-00989959",
+            "timestamp": 1783544580000,
+            "date": "2026-07-08"
+        },
+        {
+            "title": "Microsoft Cuts 4,800 Jobs as AI Strategy Evolves - Techerati",
+            "summary_en": "Microsoft is cutting 4,800 jobs, or 2.1% of its workforce, as part of a strategic organizational shift to prioritize AI infrastructure investments while adapting to evolving customer needs.",
+            "link": "https://www.techerati.com/news-hub/microsoft-cuts-4800-jobs-as-ai-reshapes-its-business-strategy",
+            "timestamp": 1783564185000,
+            "date": "2026-07-09"
+        },
+        {
+            "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
+            "summary_en": "Chinese AI company DeepSeek is reportedly developing its own proprietary AI chips to reduce dependency on external hardware suppliers.",
+            "link": "https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07",
+            "timestamp": 1783460454000,
+            "date": "2026-07-07"
+        },
         {
             "title": "A Circuit Board Problem Just Delayed Nvidia's Next AI System to 2028 And Chip Stocks Are Already Feeling the Fallout - 24/7 Wall St.",
             "summary_en": "Nvidia’s next-generation Kyber AI system is reportedly delayed to 2028 due to manufacturing difficulties with complex 78-layer circuit boards, though the company maintains its current roadmap is intact.",
@@ -665,41 +700,6 @@
             "link": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
             "timestamp": 1781909519000,
             "date": "2026-06-19"
-        },
-        {
-            "title": "AI optimizer beats Claude Code, Codex by 2.5x - VentureBeat",
-            "summary_en": "Researchers have developed Arbor, an optimization framework that organizes AI experiments into a tree structure to enable cumulative learning rather than isolated trial-and-error. By maintaining state and historical data, the system delivers verifiable performance gains 2.5 times higher than standard coding agents.",
-            "link": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
-            "timestamp": 1781806434000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "AI agents take over robot training at Nvidia - Techzine Global",
-            "summary_en": "NVIDIA's new ENPIRE framework leverages collaborative AI coding agents to autonomously train robots for complex tasks, achieving a 99% success rate in experiments. By enabling agents to independently design, execute, and refine training protocols, the system allows researchers to automate much of the robot development lifecycle.",
-            "link": "https://www.techzine.eu/news/infrastructure/142271/ai-agents-take-over-robot-training-at-nvidia",
-            "timestamp": 1781776340000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "Why Anthropic Is Sounding the Alarm on the Next Generation of AI - Council on Foreign Relations",
-            "summary_en": "Anthropic is advocating for an international AI arms control regime, warning that the rapid advent of 'recursive self-improvement' could soon create models capable of operating beyond human control. The company reports that its latest systems are now generating 80% of their own code and evolving at a speed 52 times faster than they were just last year.",
-            "link": "https://www.cfr.org/articles/why-anthropic-is-sounding-the-alarm-on-the-next-generation-of-ai",
-            "timestamp": 1781809661000,
-            "date": "2026-06-18"
-        },
-        {
-            "title": "The fight to keep AI research in the open - Sources | Alex Heath",
-            "summary_en": "Databricks co-founder Andy Konwinski has launched the $100 million Laude Institute to combat the 'feudal' centralization of AI power by Big Tech and frontier labs. By funding open research, the institute aims to counter the industry's exodus of academic talent and ensure that foundational AI capabilities remain accessible to the broader research community.",
-            "link": "https://sources.news/p/fight-to-keep-ai-research-open",
-            "timestamp": 1781831706000,
-            "date": "2026-06-19"
-        },
-        {
-            "title": "OpenAI Taps Trump's Former AI Adviser For New Strategy Role - Benzinga",
-            "summary_en": "OpenAI has hired Dean Ball, a former White House AI adviser and architect of the AI Action Plan, to spearhead a new strategy team focusing on public policy and internal governance. This hire reflects OpenAI's efforts to integrate high-level policy expertise alongside other strategic leadership additions, including former Salesforce and Ironclad executives.",
-            "link": "https://www.benzinga.com/markets/private-markets/26/06/53288065/openai-taps-trumps-former-ai-adviser-for-new-strategy-role",
-            "timestamp": 1781807603000,
-            "date": "2026-06-18"
         }
     ]
 }
