@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-08-14 16:38:07",
+    "last_update": "2026-08-15 16:08:36",
     "articles": [
+        {
+            "company": "Meta",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "Introducing Muse Spark 1.1",
+            "summary_kr": "메타가 공개한 'Muse Spark 1.1'은 에이전트 작업, 컴퓨터 제어, 코딩 성능을 대폭 강화한 멀티모달 추론 모델로, 복잡한 업무를 스스로 계획하고 실행하는 개인용 초지능 구현에 한 걸음 다가섰습니다.",
+            "summary_en": "Meta's new 'Muse Spark 1.1' is a multimodal reasoning model that significantly enhances agentic tasks, computer use, and coding capabilities, advancing the vision of personal superintelligence by efficiently orchestrating complex workflows.",
+            "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1783533693000,
+            "date": "2026-07-08",
+            "title": "6 key takeaways from ISTE 2026: How educators are applying AI in the classroom | Microsoft Education Blog",
+            "summary_kr": "ISTELive 2026에서 마이크로소프트는 교육 현장의 AI 활용이 단순한 실험 단계를 넘어, 실질적인 학습 효과와 교육적 성과를 도출하는 체계적이고 책임 있는 단계로 진화하고 있음을 강조했습니다.",
+            "summary_en": "At ISTELive 2026, Microsoft emphasized that AI in education is shifting from early experimentation to measurable, system-wide practical application, supported by research-backed tools and a strong focus on educator community and AI literacy.",
+            "link": "https://www.microsoft.com/en-us/education/blog/2026/07/6-key-takeaways-from-iste-2026-how-educators-are-applying-ai-in-the-classroom"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1783517400000,
@@ -882,24 +900,6 @@
             "summary_kr": "LifeSciBench는 실제 생명과학 연구 현장의 복잡성을 반영하기 위해 박사급 전문가들이 설계한 벤치마크로, AI 모델의 실질적인 연구 지원 능력을 평가합니다.",
             "summary_en": "LifeSciBench is an expert-designed benchmark that evaluates the ability of AI systems to handle the complexities of real-world life science research by utilizing tasks crafted by Ph.D.-level scientists.",
             "link": "https://openai.com/index/introducing-life-sci-bench"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781654400000,
-            "date": "2026-06-17",
-            "title": "Grok on Amazon Bedrock",
-            "summary_kr": "xAI의 Grok 4.3이 아마존 베드락에 정식 출시되어, 뛰어난 비용 효율성과 100만 토큰 컨텍스트 윈도우, 조절 가능한 추론 기능을 통해 기업용 AI 에이전트 개발을 지원합니다.",
-            "summary_en": "xAI's Grok 4.3 is now available on Amazon Bedrock, offering industry-leading cost efficiency, a 1-million-token context window, and configurable reasoning for enterprise-grade AI agent development.",
-            "link": "https://x.ai/news/grok-amazon-bedrock"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781715638000,
-            "date": "2026-06-17",
-            "title": "Y Combinator and Microsoft partner to support the next generation of AI startups",
-            "summary_kr": "Y Combinator와 마이크로소프트가 파트너십을 확대하여 차세대 AI 스타트업들에게 Azure 기반의 고성능 인프라, 기술 지원 및 기업용 시장 진입 경로를 제공합니다.",
-            "summary_en": "Y Combinator and Microsoft have expanded their partnership to provide next-gen AI startups with access to Azure's high-performance infrastructure, technical expertise, and enterprise-grade go-to-market resources.",
-            "link": "https://www.microsoft.com/en-us/startups/blog/y-combinator-and-microsoft-partner-to-support-the-next-generation-of-ai-startups"
         }
     ]
 }

@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-08-14 16:38:07",
+    "last_update": "2026-08-15 16:08:36",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1786665600000,
+            "date": "2026-08-14",
+            "title": "How Claude's text watermarking works",
+            "summary_kr": "앤스로픽은 EU AI 법을 준수하기 위해 Claude 모델의 출력 품질이나 사용자 경험에 영향을 주지 않는 통계적 패턴 기반의 워터마킹 기술을 도입합니다.",
+            "summary_en": "Anthropic is implementing a statistical pattern-based watermarking method for Claude to comply with the EU AI Act without affecting output quality or user experience.",
+            "link": "https://www.anthropic.com/news/claude-text-watermark"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1786665600000,
+            "date": "2026-08-14",
+            "title": "Grok 4.6 in GitHub Copilot",
+            "summary_kr": "xAI의 최신 코딩 모델인 Grok 4.6이 GitHub Copilot에 통합되어 전 세계 개발자들이 사용할 수 있게 되었습니다.",
+            "summary_en": "xAI's latest coding model, Grok 4.6, is now integrated into GitHub Copilot, providing developers with enhanced coding capabilities.",
+            "link": "https://x.ai/news/grok-4-6-github-copilot"
+        },
         {
             "company": "Google",
             "timestamp": 1786640400000,
@@ -882,24 +900,6 @@
             "summary_kr": "앤스로픽의 CEO 다리오 아모데이는 오픈 웨이트 모델 자체에 대한 금지보다는 첨단 칩 수출 통제와 기술 유출 방지가 국가 안보를 위한 가장 효과적인 대응책이라고 강조했습니다.",
             "summary_en": "Anthropic CEO Dario Amodei clarifies that he does not support banning open-weights models, arguing instead that restricting high-end chip access and preventing industrial-scale distillation are the most effective strategies for national security.",
             "link": "https://www.anthropic.com/news/position-open-weights-models"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785171242000,
-            "date": "2026-07-27",
-            "title": "Rethinking security for the age of AI - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 AI 기반의 고속 공격에 대응하기 위해 실시간으로 위험을 인지, 추론 및 대응하는 자율형 보안 시스템 '프로젝트 퍼셉션(Project Perception)'을 공개했습니다. 이 시스템은 다중 모델 아키텍처를 통해 보안 효율성을 극대화하고 인간 전문가를 지원하는 새로운 차원의 방어 체계를 지향합니다.",
-            "summary_en": "Microsoft has introduced 'Project Perception,' an agentic security system designed to defend against AI-driven threats by continuously perceiving, reasoning, and acting at machine speed. By leveraging a multi-model architecture, it enhances defensive efficiency while empowering human security teams with proactive, automated workflows.",
-            "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785168000000,
-            "date": "2026-07-27",
-            "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
-            "summary_kr": "NVIDIA가 공개한 'Ising Calibration 1.5'는 양자 프로세서 진단 데이터를 스스로 해석해 보정하는 최신 비전 언어 모델로, 효율적인 경량화와 향상된 학습 성능을 통해 양자 컴퓨팅의 자동화 운영을 가속화합니다.",
-            "summary_en": "NVIDIA's 'Ising Calibration 1.5' is an advanced vision language model that automates quantum processor calibration by interpreting diagnostic outputs, offering superior efficiency and performance on both edge and data center hardware.",
-            "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning"
         }
     ]
 }

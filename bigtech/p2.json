@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-08-14 16:38:07",
+    "last_update": "2026-08-15 16:08:36",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1785171242000,
+            "date": "2026-07-27",
+            "title": "Rethinking security for the age of AI - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 AI 기반의 고속 공격에 대응하기 위해 실시간으로 위험을 인지, 추론 및 대응하는 자율형 보안 시스템 '프로젝트 퍼셉션(Project Perception)'을 공개했습니다. 이 시스템은 다중 모델 아키텍처를 통해 보안 효율성을 극대화하고 인간 전문가를 지원하는 새로운 차원의 방어 체계를 지향합니다.",
+            "summary_en": "Microsoft has introduced 'Project Perception,' an agentic security system designed to defend against AI-driven threats by continuously perceiving, reasoning, and acting at machine speed. By leveraging a multi-model architecture, it enhances defensive efficiency while empowering human security teams with proactive, automated workflows.",
+            "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785168000000,
+            "date": "2026-07-27",
+            "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+            "summary_kr": "NVIDIA가 공개한 'Ising Calibration 1.5'는 양자 프로세서 진단 데이터를 스스로 해석해 보정하는 최신 비전 언어 모델로, 효율적인 경량화와 향상된 학습 성능을 통해 양자 컴퓨팅의 자동화 운영을 가속화합니다.",
+            "summary_en": "NVIDIA's 'Ising Calibration 1.5' is an advanced vision language model that automates quantum processor calibration by interpreting diagnostic outputs, offering superior efficiency and performance on both edge and data center hardware.",
+            "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1785164169000,
@@ -882,24 +900,6 @@
             "summary_kr": "앤스로픽은 사용자가 클로드(Claude) 활용 패턴을 분석하고 AI와 인간의 업무 경계를 정립하도록 돕는 '리플렉션(Reflection)' 대시보드 기능을 베타 출시했습니다.",
             "summary_en": "Anthropic has launched a beta 'Reflection' dashboard that helps users analyze their interaction patterns with Claude to optimize AI usage and define clear boundaries between human and AI tasks.",
             "link": "https://www.anthropic.com/news/reflect-with-claude"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "Introducing Muse Spark 1.1",
-            "summary_kr": "메타가 공개한 'Muse Spark 1.1'은 에이전트 작업, 컴퓨터 제어, 코딩 성능을 대폭 강화한 멀티모달 추론 모델로, 복잡한 업무를 스스로 계획하고 실행하는 개인용 초지능 구현에 한 걸음 다가섰습니다.",
-            "summary_en": "Meta's new 'Muse Spark 1.1' is a multimodal reasoning model that significantly enhances agentic tasks, computer use, and coding capabilities, advancing the vision of personal superintelligence by efficiently orchestrating complex workflows.",
-            "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783533693000,
-            "date": "2026-07-08",
-            "title": "6 key takeaways from ISTE 2026: How educators are applying AI in the classroom | Microsoft Education Blog",
-            "summary_kr": "ISTELive 2026에서 마이크로소프트는 교육 현장의 AI 활용이 단순한 실험 단계를 넘어, 실질적인 학습 효과와 교육적 성과를 도출하는 체계적이고 책임 있는 단계로 진화하고 있음을 강조했습니다.",
-            "summary_en": "At ISTELive 2026, Microsoft emphasized that AI in education is shifting from early experimentation to measurable, system-wide practical application, supported by research-backed tools and a strong focus on educator community and AI literacy.",
-            "link": "https://www.microsoft.com/en-us/education/blog/2026/07/6-key-takeaways-from-iste-2026-how-educators-are-applying-ai-in-the-classroom"
         }
     ]
 }
