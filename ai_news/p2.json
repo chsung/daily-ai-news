@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-16 03:52:59",
+    "last_update": "2026-08-16 15:28:11",
     "articles": [
+        {
+            "title": "Anthropic releases ‘more efficient’ Claude Opus 5 - InfoWorld",
+            "summary_en": "Anthropic has released Claude Opus 5, a hybrid reasoning model that doubles the performance of its predecessor, Opus 4.8, while maintaining the same cost structure. The new model offers significant advancements in coding and knowledge tasks, positioning itself as a cost-efficient alternative to the flagship Claude Fable 5.",
+            "link": "https://www.infoworld.com/article/4201551/anthropic-releases-more-efficient-claude-opus-5.html",
+            "timestamp": 1785116262000,
+            "date": "2026-07-27"
+        },
         {
             "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research | TechCrunch - TechCrunch",
             "summary_en": "Ilya Sutskever’s Safe Superintelligence (SSI) has entered a long-term partnership with Nvidia to access its Vera Rubin GPU platform, aiming to scale foundational research for safe artificial superintelligence. The startup, currently valued at $32 billion, is prioritizing alignment and general reasoning over commercial product cycles.",
@@ -693,13 +700,6 @@
             "link": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
             "timestamp": 1783616414000,
             "date": "2026-07-09"
-        },
-        {
-            "title": "AAPL & Broadcom's $30B Deal Boosts AI Chip Strategy: What's Ahead? - TradingView",
-            "summary_en": "Apple has entered a multiyear, $30 billion agreement with Broadcom to develop custom silicon components in the U.S., a strategic move to secure its hardware supply chain and bolster its on-device AI capabilities.",
-            "link": "https://www.tradingview.com/news/zacks:baa75a0e6094b:0-aapl-broadcom-s-30b-deal-boosts-ai-chip-strategy-what-s-ahead",
-            "timestamp": 1783694220000,
-            "date": "2026-07-10"
         }
     ]
 }

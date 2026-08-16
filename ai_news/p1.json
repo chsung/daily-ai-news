@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-16 03:52:59",
+    "last_update": "2026-08-16 15:28:11",
     "articles": [
+        {
+            "title": "Meta promotes open-source AI with Muse Glimmer - Inspenet",
+            "summary_en": "Meta is actively promoting the advancement of open-source artificial intelligence through its Muse Glimmer project. This initiative underscores the company's strategic commitment to expanding accessible AI development frameworks for the broader technology community.",
+            "link": "https://inspenet.com/en/news/meta-promotes-open-source-ai-wit-muse-glimmer",
+            "timestamp": 1786795200000,
+            "date": "2026-08-15"
+        },
         {
             "title": "Microsoft Decouples AI Agents From the VS Code Editor in Latest Release - DevOps.com",
             "summary_en": "Microsoft has updated its latest VS Code release by decoupling AI agents from the primary editor, signaling a shift in how AI-driven development tools are integrated.",
@@ -692,13 +699,6 @@
             "summary_en": "NVIDIA and KAIST have launched a five-year, $300 million joint research lab in Seoul focused on developing agentic AI optimized for the Korean language and local use cases. The initiative provides researchers with dedicated compute infrastructure and includes funding for at least 10 researchers annually.",
             "link": "https://www.engineering.com/nvidia-and-kaist-open-agentic-ai-research-lab-in-seoul",
             "timestamp": 1785141930000,
-            "date": "2026-07-27"
-        },
-        {
-            "title": "Anthropic releases ‘more efficient’ Claude Opus 5 - InfoWorld",
-            "summary_en": "Anthropic has released Claude Opus 5, a hybrid reasoning model that doubles the performance of its predecessor, Opus 4.8, while maintaining the same cost structure. The new model offers significant advancements in coding and knowledge tasks, positioning itself as a cost-efficient alternative to the flagship Claude Fable 5.",
-            "link": "https://www.infoworld.com/article/4201551/anthropic-releases-more-efficient-claude-opus-5.html",
-            "timestamp": 1785116262000,
             "date": "2026-07-27"
         }
     ]
