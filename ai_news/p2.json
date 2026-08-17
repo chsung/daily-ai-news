@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-08-17 03:55:01",
+    "last_update": "2026-08-17 15:32:00",
     "articles": [
+        {
+            "title": "Ilya Sutskever's Safe Superintelligence raises $5 billion from Nvidia despite not yet releasing a product - calcalistech.com",
+            "summary_en": "Ilya Sutskever’s startup, Safe Superintelligence (SSI), has secured a $5 billion investment from Nvidia to scale its computing capacity tenfold. Despite the company lacking a public product or research papers, Nvidia's partnership grants SSI access to advanced Vera Rubin hardware to pursue fundamental breakthroughs in safe AI.",
+            "link": "https://www.calcalistech.com/ctechnews/article/qy9eg5jw4",
+            "timestamp": 1785174120000,
+            "date": "2026-07-27"
+        },
+        {
+            "title": "Microsoft launches AI cybersecurity platform developed in Israel - Israel Business News",
+            "summary_en": "Microsoft has launched Project Perception, an autonomous AI-driven cybersecurity platform centered on the new MAI Cyber 1 Flash model. Developed largely in Israel, the platform shifts defense from a reactive to a proactive model by utilizing AI agents to continuously identify and mitigate vulnerabilities at scale.",
+            "link": "https://en.globes.co.il/en/article-microsoft-launches-ai-cybersecurity-platform-developed-in-israel-1001550627",
+            "timestamp": 1785232836000,
+            "date": "2026-07-28"
+        },
+        {
+            "title": "South Korea, AMD partner on open AI chip ecosystem - UPI.com - upi.com",
+            "summary_en": "South Korea's Ministry of Science and ICT has partnered with AMD to develop a heterogeneous computing ecosystem that integrates AMD processors with domestic neural processing units. This collaboration aims to bolster South Korea’s AI infrastructure and includes establishing a research center to support local technology development.",
+            "link": "https://www.upi.com/Top_News/World-News/2026/07/27/AMD-AI-semiconductors/6751785194443",
+            "timestamp": 1785195282000,
+            "date": "2026-07-27"
+        },
+        {
+            "title": "NVIDIA and KAIST open agentic AI research lab in Seoul - Engineering.com",
+            "summary_en": "NVIDIA and KAIST have launched a five-year, $300 million joint research lab in Seoul focused on developing agentic AI optimized for the Korean language and local use cases. The initiative provides researchers with dedicated compute infrastructure and includes funding for at least 10 researchers annually.",
+            "link": "https://www.engineering.com/nvidia-and-kaist-open-agentic-ai-research-lab-in-seoul",
+            "timestamp": 1785141930000,
+            "date": "2026-07-27"
+        },
         {
             "title": "Anthropic releases ‘more efficient’ Claude Opus 5 - InfoWorld",
             "summary_en": "Anthropic has released Claude Opus 5, a hybrid reasoning model that doubles the performance of its predecessor, Opus 4.8, while maintaining the same cost structure. The new model offers significant advancements in coding and knowledge tasks, positioning itself as a cost-efficient alternative to the flagship Claude Fable 5.",
@@ -672,34 +700,6 @@
             "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-it-can-read-claudes-thoughts-as-detailed-in-new-research-paper-models-observed-to-have-a-global-workspace-revealing-more-of-what-makes-llms-tick",
             "timestamp": 1783701852000,
             "date": "2026-07-10"
-        },
-        {
-            "title": "OpenAI launches its new family of models with GPT-5.6 | TechCrunch - TechCrunch",
-            "summary_en": "OpenAI has introduced the GPT-5.6 family of models, featuring Sol, Terra, and Luna, which are optimized for enhanced enterprise coding and cybersecurity tasks. OpenAI claims the flagship 'Sol' model significantly outperforms competitors like Anthropic's Fable on coding benchmarks while using fewer tokens and maintaining lower operational costs.",
-            "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6",
-            "timestamp": 1783635864000,
-            "date": "2026-07-09"
-        },
-        {
-            "title": "Microsoft goes all in on new AI-powered Windows security strategy - what it means for you - ZDNET",
-            "summary_en": "Microsoft is integrating a multi-model agentic scanning harness (MDASH) into Windows development to accelerate vulnerability discovery and patching. By orchestrating over 100 specialized AI agents, the system identifies and validates security flaws throughout the development cycle to combat the increased speed of AI-powered cyberattacks.",
-            "link": "https://www.zdnet.com/article/microsoft-windows-ai-security-vulnerability-analysis",
-            "timestamp": 1783616400000,
-            "date": "2026-07-09"
-        },
-        {
-            "title": "Meta pulls new AI image feature after days of backlash - BBC",
-            "summary_en": "Meta has withdrawn its 'Muse Image' tool after facing significant backlash regarding privacy, as the feature automatically used public Instagram user content to train or generate AI images without explicit consent.",
-            "link": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-            "timestamp": 1783734359000,
-            "date": "2026-07-11"
-        },
-        {
-            "title": "OpenAI releases GPT-5.6 and ChatGPT Work tool - Axios",
-            "summary_en": "OpenAI has officially released GPT-5.6 along with a new productivity-focused 'ChatGPT Work' tool designed for enterprise users.",
-            "link": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
-            "timestamp": 1783616414000,
-            "date": "2026-07-09"
         }
     ]
 }

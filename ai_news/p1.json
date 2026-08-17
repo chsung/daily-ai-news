@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-08-17 03:55:01",
+    "last_update": "2026-08-17 15:32:00",
     "articles": [
+        {
+            "title": "LG to Release Nvidia-Powered Humanoid in 2027 - AI Business",
+            "summary_en": "LG is partnering with Nvidia to release a next-generation bipedal humanoid robot in 2027, utilizing the Isaac GR00T foundation model and Jetson Thor platform. The collaboration also includes developing an AI robot data factory to standardize physical AI training and deployment.",
+            "link": "https://aibusiness.com/robotics/lg-release-nvidia-powered-humanoid-in-2027",
+            "timestamp": 1786975427000,
+            "date": "2026-08-17"
+        },
+        {
+            "title": "Trane Tech and Eaton Plug Into Nvidia AI Data Center Boom - Trane Technologies (NYSE:TT) - Benzinga",
+            "summary_en": "Trane Technologies and Eaton have launched an integrated power design based on the Nvidia DSX AI Factory Reference Design to support high-power data centers. This solution aims to increase energy efficiency by up to 15% and reduce installation costs by up to 30%.",
+            "link": "https://www.benzinga.com/markets/large-cap/26/08/61247869/trane-tech-and-eaton-plug-into-nvidia-ai-data-center-boom",
+            "timestamp": 1786975186000,
+            "date": "2026-08-17"
+        },
+        {
+            "title": "Unrestricted AI: Meta is pushing for open source AI models with the release of Muse Glimmer - Open Magazine",
+            "summary_en": "Meta has released 'Muse Glimmer,' an open-source version of its Muse Spark model designed to run locally on consumer-grade hardware. This move emphasizes Meta's commitment to open-source development as a counterweight to the closed-model approach favored by competitors like OpenAI.",
+            "link": "https://openthemagazine.com/technology/unrestricted-ai-meta-is-pushing-for-open-source-ai-models-with-the-release-of-muse-glimmer",
+            "timestamp": 1786940134000,
+            "date": "2026-08-17"
+        },
+        {
+            "title": "Indosat, Nvidia and Kemkomdigi launch university-linked AI research centre - Developing Telecoms",
+            "summary_en": "Indosat Ooredoo Hutchison, Nvidia, and the Indonesian government have launched a university-based AI center at Universitas Gadjah Mada to foster local research in areas like disaster prediction and smart agriculture. The facility provides students and researchers access to Nvidia’s full-stack platform and Indosat’s GPU-as-a-Service infrastructure.",
+            "link": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/20687-indosat-nvidia-kemkomdigi-launch-university-linked-ai-research-centre.html",
+            "timestamp": 1786945585000,
+            "date": "2026-08-17"
+        },
         {
             "title": "Meta promotes open-source AI with Muse Glimmer - Inspenet",
             "summary_en": "Meta is actively promoting the advancement of open-source artificial intelligence through its Muse Glimmer project. This initiative underscores the company's strategic commitment to expanding accessible AI development frameworks for the broader technology community.",
@@ -672,34 +700,6 @@
             "link": "https://www.computerworld.com/article/4202178/anthropic-rejects-open-weight-ai-bans-calls-for-china-chip-controls-and-safety-tests.html",
             "timestamp": 1785237428000,
             "date": "2026-07-28"
-        },
-        {
-            "title": "Ilya Sutskever's Safe Superintelligence raises $5 billion from Nvidia despite not yet releasing a product - calcalistech.com",
-            "summary_en": "Ilya Sutskever’s startup, Safe Superintelligence (SSI), has secured a $5 billion investment from Nvidia to scale its computing capacity tenfold. Despite the company lacking a public product or research papers, Nvidia's partnership grants SSI access to advanced Vera Rubin hardware to pursue fundamental breakthroughs in safe AI.",
-            "link": "https://www.calcalistech.com/ctechnews/article/qy9eg5jw4",
-            "timestamp": 1785174120000,
-            "date": "2026-07-27"
-        },
-        {
-            "title": "Microsoft launches AI cybersecurity platform developed in Israel - Israel Business News",
-            "summary_en": "Microsoft has launched Project Perception, an autonomous AI-driven cybersecurity platform centered on the new MAI Cyber 1 Flash model. Developed largely in Israel, the platform shifts defense from a reactive to a proactive model by utilizing AI agents to continuously identify and mitigate vulnerabilities at scale.",
-            "link": "https://en.globes.co.il/en/article-microsoft-launches-ai-cybersecurity-platform-developed-in-israel-1001550627",
-            "timestamp": 1785232836000,
-            "date": "2026-07-28"
-        },
-        {
-            "title": "South Korea, AMD partner on open AI chip ecosystem - UPI.com - upi.com",
-            "summary_en": "South Korea's Ministry of Science and ICT has partnered with AMD to develop a heterogeneous computing ecosystem that integrates AMD processors with domestic neural processing units. This collaboration aims to bolster South Korea’s AI infrastructure and includes establishing a research center to support local technology development.",
-            "link": "https://www.upi.com/Top_News/World-News/2026/07/27/AMD-AI-semiconductors/6751785194443",
-            "timestamp": 1785195282000,
-            "date": "2026-07-27"
-        },
-        {
-            "title": "NVIDIA and KAIST open agentic AI research lab in Seoul - Engineering.com",
-            "summary_en": "NVIDIA and KAIST have launched a five-year, $300 million joint research lab in Seoul focused on developing agentic AI optimized for the Korean language and local use cases. The initiative provides researchers with dedicated compute infrastructure and includes funding for at least 10 researchers annually.",
-            "link": "https://www.engineering.com/nvidia-and-kaist-open-agentic-ai-research-lab-in-seoul",
-            "timestamp": 1785141930000,
-            "date": "2026-07-27"
         }
     ]
 }
