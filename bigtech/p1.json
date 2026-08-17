@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-08-15 16:08:36",
+    "last_update": "2026-08-17 16:12:21",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1786944600000,
+            "date": "2026-08-17",
+            "title": "The Defender’s Window",
+            "summary_kr": "AI가 사이버 공격을 고도화하고 자동화하는 위협이 커지는 가운데, 기업들은 AI를 방어 기제로 활용해 보안 취약점을 선제적으로 탐지하고 해결하는 보안 체계의 근본적 혁신이 필요합니다.",
+            "summary_en": "As AI increasingly empowers cyberattacks through automation, organizations must fundamentally upgrade their security by leveraging AI as a defensive guardian to proactively identify and remediate vulnerabilities.",
+            "link": "https://openai.com/index/the-defenders-window"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786942800000,
+            "date": "2026-08-17",
+            "title": "OpenAI joins PORTS-Pike project",
+            "summary_kr": "OpenAI가 SB Energy, NVIDIA와 협력하여 오하이오주에 8GW 규모의 데이터센터인 PORTS-Pike 프로젝트를 추진하며, 대규모 일자리 창출과 지역 사회 인프라 투자를 통해 차세대 산업화의 거점을 마련합니다.",
+            "summary_en": "OpenAI has partnered with SB Energy and NVIDIA to develop an 8GW data center project in Ohio, aiming to drive regional industrialization through massive job creation and community infrastructure investment.",
+            "link": "https://openai.com/index/openai-joins-ports-pike-project"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786936500000,
+            "date": "2026-08-17",
+            "title": "New policy ideas for the Intelligence Age",
+            "summary_kr": "OpenAI는 AI의 혜택을 전 세계적으로 공유하기 위해 독립적인 정책 연구 프로젝트 14곳에 총 200만 달러 상당의 지원금을 투자하며 사회적 대응 방안 모색에 나섰습니다.",
+            "summary_en": "OpenAI is awarding $2 million in total funding to 14 independent projects to research and develop policy frameworks that ensure the economic and societal benefits of AI are broadly shared.",
+            "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1786665600000,
@@ -873,33 +900,6 @@
             "summary_kr": "앤스로픽의 AI 모델인 Claude Mythos가 HAWK 디지털 서명 및 AES 암호 알고리즘의 취약점을 발견하며, AI가 인간 전문가의 검증을 넘어 암호학 연구를 가속화할 잠재력을 입증했습니다.",
             "summary_en": "Anthropic's Claude Mythos model has identified vulnerabilities in the HAWK digital signature scheme and AES cipher, demonstrating AI's potential to surpass human expert review and advance cryptographic research.",
             "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1785196800000,
-            "date": "2026-07-28",
-            "title": "Introducing Build Mode",
-            "summary_kr": "Grok이 코드 작성 없이 대화만으로 웹사이트, 앱, 게임 등을 즉시 구축하고 공유할 수 있는 '빌드 모드(Build Mode)'를 슈퍼그록 헤비 구독자 대상 얼리 베타로 출시했습니다.",
-            "summary_en": "Grok has launched 'Build Mode' in early beta for SuperGrok Heavy subscribers, enabling users to create and publish functional websites, apps, and games directly through conversational prompts without manual coding.",
-            "link": "https://x.ai/news/grok-build-mode"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785169977000,
-            "date": "2026-07-27",
-            "title": "Introducing MAI-Cyber-1-Flash inside MDASH | Microsoft AI",
-            "summary_kr": "마이크로소프트는 고성능 보안 모델 'MAI-Cyber-1-Flash'를 자사 멀티 에이전트 플랫폼 MDASH에 통합하여, 기존 대비 비용을 50% 절감하면서도 업계 최고 수준의 취약점 탐지 및 해결 성능을 구현했습니다.",
-            "summary_en": "Microsoft has integrated its high-performance 'MAI-Cyber-1-Flash' model into the MDASH platform, delivering industry-leading vulnerability detection and remediation at 50% of the cost of previous solutions.",
-            "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1785110400000,
-            "date": "2026-07-27",
-            "title": "Our position on open-weights models",
-            "summary_kr": "앤스로픽의 CEO 다리오 아모데이는 오픈 웨이트 모델 자체에 대한 금지보다는 첨단 칩 수출 통제와 기술 유출 방지가 국가 안보를 위한 가장 효과적인 대응책이라고 강조했습니다.",
-            "summary_en": "Anthropic CEO Dario Amodei clarifies that he does not support banning open-weights models, arguing instead that restricting high-end chip access and preventing industrial-scale distillation are the most effective strategies for national security.",
-            "link": "https://www.anthropic.com/news/position-open-weights-models"
         }
     ]
 }

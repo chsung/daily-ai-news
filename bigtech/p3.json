@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-08-15 16:08:36",
+    "last_update": "2026-08-17 16:12:21",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "Inviting hard questions",
+            "summary_kr": "앤스로픽은 AI 기술에 대한 대중의 기대와 우려를 적극적으로 수용하고 투명하게 소통하기 위해 '난제 제안(Hard Questions)' 이니셔티브를 시작하며, 이를 통해 공익을 위한 AI 개발의 책임과 실천 의지를 강화하고 있습니다.",
+            "summary_en": "Anthropic is launching a 'Hard Questions' initiative to actively address public hopes and concerns about AI, reaffirming its commitment to transparent, responsible, and public-benefit-driven AI development.",
+            "link": "https://www.anthropic.com/news/hard-questions"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+            "summary_kr": "전 연준 의장이자 노벨 경제학상 수상자인 벤 버냉키가 앤스로픽의 장기적 혜택 신탁(LTBT) 위원으로 합류하여, AI가 경제와 노동 시장에 미칠 영향을 관리하고 기업의 책임 있는 AI 개발을 감독하게 됩니다.",
+            "summary_en": "Former Fed Chair and Nobel laureate Ben Bernanke has joined Anthropic’s Long-Term Benefit Trust to provide oversight on the societal and economic impacts of AI, ensuring the company’s development remains aligned with its mission for long-term human benefit.",
+            "link": "https://www.anthropic.com/news/ben-bernanke"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783555200000,
+            "date": "2026-07-09",
+            "title": "A new way to reflect on how you use Claude",
+            "summary_kr": "앤스로픽은 사용자가 클로드(Claude) 활용 패턴을 분석하고 AI와 인간의 업무 경계를 정립하도록 돕는 '리플렉션(Reflection)' 대시보드 기능을 베타 출시했습니다.",
+            "summary_en": "Anthropic has launched a beta 'Reflection' dashboard that helps users analyze their interaction patterns with Claude to optimize AI usage and define clear boundaries between human and AI tasks.",
+            "link": "https://www.anthropic.com/news/reflect-with-claude"
+        },
         {
             "company": "Meta",
             "timestamp": 1783555200000,
@@ -873,33 +900,6 @@
             "summary_kr": "앤스로픽의 최신 모델인 Claude Opus 4.7은 로봇 제어 실험에서 인간 팀보다 최대 20배 이상 빠르게 작업을 수행하며, AI가 물리적 세계의 복잡한 과제를 자율적으로 해결하는 역량이 급격히 발전했음을 입증했습니다.",
             "summary_en": "Anthropic's latest model, Claude Opus 4.7, outperformed human teams by over 20 times in robotic control tasks, demonstrating that AI is rapidly advancing in its ability to autonomously execute complex physical-world operations.",
             "link": "https://www.anthropic.com/research/project-fetch-phase-two"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1781740800000,
-            "date": "2026-06-18",
-            "title": "Grok on Databricks",
-            "summary_kr": "데이터브릭스가 '에이전트 브릭스(Agent Bricks)' 플랫폼에 그록(Grok) 모델을 통합하여, 기업들이 대규모 데이터 환경에서 최첨단 AI 에이전트를 더욱 효율적으로 구축할 수 있게 되었습니다.",
-            "summary_en": "Databricks has integrated Grok models into its Agent Bricks platform, enabling enterprises to build sophisticated AI agents directly where their data resides.",
-            "link": "https://x.ai/news/grok-databricks"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1781721373000,
-            "date": "2026-06-17",
-            "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
-            "summary_kr": "AI로 인해 사이버 공격의 속도와 규모가 정교해짐에 따라, 마이크로소프트는 파편화된 보안 체계를 통합하여 ID 위협에 실시간으로 대응하는 통합 보안 전략을 강조하고 있습니다.",
-            "summary_en": "As AI accelerates the scale and speed of cyberattacks, Microsoft is emphasizing the need for unified identity security to provide real-time, integrated responses to threats across fragmented operational silos.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781654400000,
-            "date": "2026-06-17",
-            "title": "Introducing LifeSciBench",
-            "summary_kr": "LifeSciBench는 실제 생명과학 연구 현장의 복잡성을 반영하기 위해 박사급 전문가들이 설계한 벤치마크로, AI 모델의 실질적인 연구 지원 능력을 평가합니다.",
-            "summary_en": "LifeSciBench is an expert-designed benchmark that evaluates the ability of AI systems to handle the complexities of real-world life science research by utilizing tasks crafted by Ph.D.-level scientists.",
-            "link": "https://openai.com/index/introducing-life-sci-bench"
         }
     ]
 }
