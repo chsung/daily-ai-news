@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-18 03:50:45",
+    "last_update": "2026-08-18 15:37:16",
     "articles": [
+        {
+            "title": "Meta launches aggressive AI pricing strategy to lure developers from OpenAI and Anthropic - Crypto Briefing",
+            "summary_en": "Meta has launched its Muse Spark 1.1 model and a new paid API, undercutting rivals OpenAI and Anthropic by approximately 25% to capture market share. The platform features agentic workflow capabilities and is SDK-compatible, allowing developers to switch platforms without a full technical overhaul.",
+            "link": "https://cryptobriefing.com/meta-ai-pricing-strategy-developers",
+            "timestamp": 1783865063000,
+            "date": "2026-07-12"
+        },
+        {
+            "title": "Deep Skepticism About AI Companies Is The National Mood: US Respondents Favor Strict Federal Oversight - International Business Times",
+            "summary_en": "A 2026 Verasight survey reveals that a majority of US respondents support strict federal oversight of AI firms and proposals to transfer 50% of company stock to a public wealth fund. This public skepticism is fueled by concerns over national security and data from Challenger, Gray & Christmas indicating that AI-related layoffs have already surged to 87,714 in early 2026.",
+            "link": "https://www.ibtimes.com/deep-skepticism-about-ai-companies-national-mood-us-respondents-favor-strict-federal-oversight-3805210",
+            "timestamp": 1783871840000,
+            "date": "2026-07-12"
+        },
+        {
+            "title": "Nvidia Korea, SK Hynix Gather 800 Experts to Share AI Semiconductor Research - finance.biggo.com",
+            "summary_en": "South Korea’s Ministry of Science and ICT is hosting a major R&D exchange in Busan, bringing together 800 experts from firms like Nvidia Korea and SK Hynix to advance next-generation semiconductor technologies. The event focuses on the 'AI factory' era, featuring 13 key research breakthroughs including advanced packaging and memory-in-sensor computing.",
+            "link": "https://finance.biggo.com/news/d5469ba4-383c-4cd0-b29e-355fa59ab64e",
+            "timestamp": 1783830900000,
+            "date": "2026-07-12"
+        },
         {
             "title": "StartupHub.ai primary navigation - StartupHub.ai",
             "summary_en": "Meta is shifting its AI strategy toward aggressive monetization and widespread adoption by introducing a paid developer tier for its new Muse Spark 1.1 model. This move acknowledges Meta's position as a challenger to leaders like OpenAI and Anthropic, aiming to leverage improved performance benchmarks to close the competitive gap.",
@@ -679,27 +700,6 @@
             "link": "https://newsroom.ibm.com/2026-06-22-ibm-and-openai-bring-frontier-ai-to-cyber-defense-helping-enterprises-keep-pace-with-machine-speed-threats",
             "timestamp": 1782160493000,
             "date": "2026-06-22"
-        },
-        {
-            "title": "European AI factories everywhere, still Nvidia - Jon Peddie Research",
-            "summary_en": "Nvidia is solidifying its dominance in Europe’s sovereign AI sector by powering over 90% of the continent's new AI factory build-outs, totaling 800 AI EFLOPS. The company is simultaneously integrating GPU-accelerated classical computing with quantum hardware through its CUDA-Q platform to facilitate essential calibration and error-correction workflows.",
-            "link": "https://www.jonpeddie.com/news/european-ai-factories-everywhere-still-nvidia",
-            "timestamp": 1782252680000,
-            "date": "2026-06-23"
-        },
-        {
-            "title": "Anthropic Launches An Always-On AI Coworker - NDTV",
-            "summary_en": "Anthropic has released an 'always-on' AI coworker designed to function as a persistent digital assistant for professional workflows. This launch reflects a broader industry shift toward AI agents that maintain long-term operational context rather than providing single-turn responses.",
-            "link": "https://www.ndtv.com/artificial-intelligence/anthropic-launches-claude-tag-in-research-preview-for-slack-users-11679483",
-            "timestamp": 1782276973000,
-            "date": "2026-06-24"
-        },
-        {
-            "title": "Reflection AI Signs $6.3B SpaceX Compute Deal as Open-source Model Strategy Gains Momentum After Anthropic Ban - AI Insider",
-            "summary_en": "Reflection AI has secured a $6.3 billion, three-year compute deal with SpaceX to access Nvidia GB300 chips at the Colossus 2 data center. This move underscores a growing market trend toward open-weight models, fueled by enterprise and government concerns over the reliability of closed-source AI systems following recent regulatory bans.",
-            "link": "https://theaiinsider.tech/2026/06/23/reflection-ai-signs-6-3b-spacex-compute-deal-as-open-source-model-strategy-gains-momentum-after-anthropic-ban",
-            "timestamp": 1782236559000,
-            "date": "2026-06-23"
         }
     ]
 }

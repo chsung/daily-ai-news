@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-18 03:50:45",
+    "last_update": "2026-08-18 15:37:16",
     "articles": [
+        {
+            "title": "Nvidia's AI moat is shifting from chips to capital - CNBC",
+            "summary_en": "Nvidia is leveraging its massive cash reserves, including a $105 billion commitment to an OpenAI data center, to solidify its market dominance and secure long-term demand for its GPU infrastructure. By providing financing and equity investments, the company is effectively extending the AI investment cycle and building a competitive moat beyond its hardware lead.",
+            "link": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
+            "timestamp": 1787050801000,
+            "date": "2026-08-18"
+        },
+        {
+            "title": "Microsoft Research and Paige Unveil PRISM 2 Pathology AI Model - cloudwars.com",
+            "summary_en": "Microsoft Research and Paige have introduced PRISM 2, a pathology foundation model trained on 2.5 million whole-slide tissue images and corresponding clinical reports. Unlike task-specific models, this research-oriented tool can simultaneously handle cancer detection and biomarker prediction by integrating visual data with medical terminology.",
+            "link": "https://cloudwars.com/cloud-wars-minute/microsoft-research-and-paige-unveil-prism-2-pathology-ai-model",
+            "timestamp": 1787052600000,
+            "date": "2026-08-18"
+        },
+        {
+            "title": "Google buys Spirit Airlines data for AI model development - Business Insider",
+            "summary_en": "Google has acquired Spirit Airlines' corporate data and software for $10 million through a bankruptcy auction to enhance its AI model training capabilities. This move reflects a growing industry trend where tech giants target private corporate operational data to overcome the exhaustion of high-quality training materials from the public internet.",
+            "link": "https://www.businessinsider.com/google-buys-spirit-airlines-data-ai-model-development-2026-8",
+            "timestamp": 1786996140000,
+            "date": "2026-08-17"
+        },
         {
             "title": "OpenAI funds research to try to stop AI from being used to make bioweapons - Scientific American",
             "summary_en": "OpenAI is funding research initiatives aimed at developing safety protocols and technical safeguards to prevent the misuse of artificial intelligence in the creation of biological weapons.",
@@ -679,27 +700,6 @@
             "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-alphabet-apos-google-142344114.html",
             "timestamp": 1785335024000,
             "date": "2026-07-29"
-        },
-        {
-            "title": "Amazon rethinks its AI strategy and winds down many in-house models - Business Insider",
-            "summary_en": "Amazon is overhauling its AI strategy by deprecating most of its in-house 'Nova' flagship models to focus engineering talent on a new 'Frontier Model Research' initiative led by Pieter Abbeel. The reorganization includes shutting down its AGI Lab and prioritizing the development of a high-priority foundation model set to debut at this year's re:Invent.",
-            "link": "https://www.businessinsider.com/amazon-overhauls-ai-strategy-phasing-out-most-nova-models-2026-7",
-            "timestamp": 1785229201000,
-            "date": "2026-07-28"
-        },
-        {
-            "title": "SSI and NVIDIA partner to accelerate AI research with Vera Rubin - eeNews Europe",
-            "summary_en": "Ilya Sutskever’s Safe Superintelligence (SSI) has entered a long-term strategic partnership with NVIDIA, securing both an investment and early access to the upcoming Vera Rubin computing platform. This collaboration aims to provide SSI with an order-of-magnitude increase in compute capacity to scale its proprietary research while influencing future NVIDIA hardware designs.",
-            "link": "https://www.eenewseurope.com/en/ssi-and-nvidia-partner-to-accelerate-ai-research-with-vera-rubin",
-            "timestamp": 1785308343000,
-            "date": "2026-07-29"
-        },
-        {
-            "title": "Top AI officials want the US to back process that could slow AI - Business Insider",
-            "summary_en": "Over 1,100 AI industry professionals, including key figures from OpenAI and Anthropic, have signed an open letter urging the U.S. government to establish governance tools to pace 'recursive self-improvement' in AI development. The call highlights the urgent need for safety coordination as frontier models approach levels of capability that may exceed human control.",
-            "link": "https://www.businessinsider.com/ai-open-letter-automated-development-2026-7",
-            "timestamp": 1785273960000,
-            "date": "2026-07-28"
         }
     ]
 }
