@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-08-17 15:32:00",
+    "last_update": "2026-08-18 03:50:45",
     "articles": [
+        {
+            "title": "OpenAI funds research to try to stop AI from being used to make bioweapons - Scientific American",
+            "summary_en": "OpenAI is funding research initiatives aimed at developing safety protocols and technical safeguards to prevent the misuse of artificial intelligence in the creation of biological weapons.",
+            "link": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons",
+            "timestamp": 1786996712000,
+            "date": "2026-08-17"
+        },
+        {
+            "title": "Apple Makes Major AI Strategy Shift in China, Develops Own LLM With Alibaba’s Support in Bid to Counter Huawei: Report - Yahoo Finance",
+            "summary_en": "Apple has partnered with Alibaba to develop a China-specific AI model integrated into Apple Intelligence, aiming to navigate strict local regulations while maintaining its competitive edge against rivals like Huawei.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/apple-makes-major-ai-strategy-183019538.html",
+            "timestamp": 1786991419000,
+            "date": "2026-08-17"
+        },
+        {
+            "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model - CNBC",
+            "summary_en": "Alibaba has intensified the open-source AI race by releasing its Qwen3.8-27B model, designed for on-device performance, and boasting a developer footprint 2.6 times larger than Meta's Llama models on Hugging Face.",
+            "link": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+            "timestamp": 1786965863000,
+            "date": "2026-08-17"
+        },
+        {
+            "title": "HIVE Digital Technologies Ltd - HIVE Digital Technologies Ltd",
+            "summary_en": "HIVE Digital Technologies has secured a $350 million, five-year GPU cloud services contract to provide a dedicated AI infrastructure cluster powered by 2,016 NVIDIA Blackwell Ultra GPUs at its sustainable facility in British Columbia.",
+            "link": "https://www.hivedigitaltechnologies.com/news/hives-buzz-hpc-signs-350-million-ai-cloud-services-agreement-with-investment-grade-enterprise-customer",
+            "timestamp": 1786954872000,
+            "date": "2026-08-17"
+        },
         {
             "title": "LG to Release Nvidia-Powered Humanoid in 2027 - AI Business",
             "summary_en": "LG is partnering with Nvidia to release a next-generation bipedal humanoid robot in 2027, utilizing the Isaac GR00T foundation model and Jetson Thor platform. The collaboration also includes developing an AI robot data factory to standardize physical AI training and deployment.",
@@ -671,34 +699,6 @@
             "summary_en": "Over 1,100 AI industry professionals, including key figures from OpenAI and Anthropic, have signed an open letter urging the U.S. government to establish governance tools to pace 'recursive self-improvement' in AI development. The call highlights the urgent need for safety coordination as frontier models approach levels of capability that may exceed human control.",
             "link": "https://www.businessinsider.com/ai-open-letter-automated-development-2026-7",
             "timestamp": 1785273960000,
-            "date": "2026-07-28"
-        },
-        {
-            "title": "Recursive Superintelligence signs $410M compute deal with Amazon | TechCrunch - TechCrunch",
-            "summary_en": "Recursive Superintelligence has secured a $410 million multiyear compute deal with Amazon Web Services to fuel its focus on autonomous, self-improving AI systems. CEO Richard Socher plans to prioritize compute resources over headcount to accelerate the release of functional AI-driven products by late 2026.",
-            "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
-            "timestamp": 1785244757000,
-            "date": "2026-07-28"
-        },
-        {
-            "title": "Anthropic says Claude uncovers cryptographic weaknesses, advances AI-assisted security research - BusinessLine",
-            "summary_en": "Anthropic’s latest research demonstrates that its Claude models can identify previously unknown vulnerabilities in cryptographic algorithms, potentially revolutionizing security research. To support this, the company launched 'CryptanalysisBench' to track AI progress in cryptanalysis while managing the dual-use risks of such advanced capabilities.",
-            "link": "https://www.thehindubusinessline.com/info-tech/anthropic-says-claude-uncovers-cryptographic-weaknesses-advances-ai-assisted-security-research/article71279748.ece",
-            "timestamp": 1785302659000,
-            "date": "2026-07-29"
-        },
-        {
-            "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
-            "summary_en": "Amazon is reportedly scaling back its flagship AI model initiatives as part of a significant strategic reorganization of its artificial intelligence division.",
-            "link": "https://www.reuters.com/business/retail-consumer/amazon-winds-down-most-flagship-ai-models-strategy-overhaul-business-insider-2026-07-28",
-            "timestamp": 1785249036000,
-            "date": "2026-07-28"
-        },
-        {
-            "title": "Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests - Computerworld",
-            "summary_en": "Anthropic CEO Dario Amodei has proposed a nuanced regulatory framework that rejects blanket bans on open-weight AI while advocating for mandatory safety testing and stricter controls on China's access to advanced computing. He argues that regulation should be based on a model's capabilities and potential risks rather than its open or closed-source nature.",
-            "link": "https://www.computerworld.com/article/4202178/anthropic-rejects-open-weight-ai-bans-calls-for-china-chip-controls-and-safety-tests.html",
-            "timestamp": 1785237428000,
             "date": "2026-07-28"
         }
     ]
