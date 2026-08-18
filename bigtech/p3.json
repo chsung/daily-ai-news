@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-08-17 16:12:21",
+    "last_update": "2026-08-18 16:16:34",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1783606227000,
+            "date": "2026-07-09",
+            "title": "How Commonwealth Bank and Microsoft are reimagining the future of customer service - Source Asia",
+            "summary_kr": "커먼웰스 은행은 마이크로소프트와 협력하여 여러 레거시 시스템을 통합한 AI 오케스트레이션 플랫폼을 구축, 고객 의도를 분석해 AI와 상담원을 최적으로 연결하는 옴니채널 고객 서비스를 구현했습니다.",
+            "summary_en": "Commonwealth Bank partnered with Microsoft to build an AI-powered orchestration platform that integrates legacy systems and dynamically routes customer inquiries to the most appropriate AI or human resource, enhancing service efficiency and personalization.",
+            "link": "https://news.microsoft.com/source/asia/features/how-commonwealth-bank-and-microsoft-are-reimagining-the-future-of-customer-service"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783591200000,
+            "date": "2026-07-09",
+            "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+            "summary_kr": "GPT-5.6 시리즈는 독보적인 추론 능력과 비용 효율성을 바탕으로 코딩 및 에이전트 작업에서 업계 최고 수준의 성능을 구현하며 AI의 실용적 활용 범위를 대폭 확장했습니다.",
+            "summary_en": "The GPT-5.6 series sets a new industry benchmark for intelligence and cost-efficiency, significantly expanding the practical utility of AI in complex coding and agentic workflows.",
+            "link": "https://openai.com/index/gpt-5-6"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783591200000,
+            "date": "2026-07-09",
+            "title": "ChatGPT is now a partner for your most ambitious work",
+            "summary_kr": "OpenAI는 최신 모델 GPT-5.6과 코덱스(Codex) 기술을 기반으로, 앱과 파일을 연동하여 복잡한 업무를 독립적으로 완수하는 AI 에이전트 'ChatGPT Work'를 출시했습니다.",
+            "summary_en": "OpenAI has launched 'ChatGPT Work,' an AI agent powered by GPT-5.6 and Codex that autonomously executes complex, multi-step workflows across various apps and files.",
+            "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1783591200000,
+            "date": "2026-07-09",
+            "title": "OpenAI Bio Bug Bounty",
+            "summary_kr": "OpenAI는 생물학적 위험 방지를 강화하기 위해 'Bio Bounty Program'을 상설화하고, GPT-5.6 및 GPT-5.5의 범용 탈옥 취약점 신고 보상금을 최대 5만 달러로 인상했습니다.",
+            "summary_en": "OpenAI is transitioning its bio-risk bug bounty into an ongoing program, doubling the rewards for universal jailbreak discoveries in GPT-5.5 and GPT-5.6 to $50,000.",
+            "link": "https://openai.com/index/bio-bug-bounty"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1783555200000,
@@ -864,42 +900,6 @@
             "summary_kr": "마이크로소프트 워드용 'Grok' 애드인이 출시되어, 웹 검색과 문서 자동 작성 및 편집 기능을 통해 문서 작업의 생산성을 획기적으로 향상시킵니다.",
             "summary_en": "The new Grok add-in for Microsoft Word boosts productivity by enabling seamless web research, automated drafting, and intelligent document editing.",
             "link": "https://x.ai/news/introducing-word-addin"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781780400000,
-            "date": "2026-06-18",
-            "title": "Improving health intelligence in ChatGPT",
-            "summary_kr": "OpenAI는 의사들의 전문적인 평가와 피드백을 통해 헬스케어 인텔리전스를 대폭 강화한 'GPT-5.5 Instant'를 공개했으며, 이를 통해 의료 정보의 정확성과 안전성을 높여 무료 사용자들에게 제공합니다.",
-            "summary_en": "OpenAI has unveiled 'GPT-5.5 Instant,' which significantly enhances health intelligence through physician-led evaluations, offering improved accuracy and safety for medical guidance to all free users.",
-            "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1781769600000,
-            "date": "2026-06-18",
-            "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-            "summary_kr": "OpenAI의 추론 모델을 활용해 미진단 희귀 질환 사례 376건을 재분석한 결과, 전문의 검토를 거쳐 18건의 새로운 진단을 이끌어내며 AI 기반 재분석의 임상적 유효성을 입증했습니다.",
-            "summary_en": "Researchers utilized OpenAI’s reasoning model to reanalyze 376 previously unsolved rare disease cases, successfully identifying 18 new diagnoses and demonstrating the potential for AI-assisted clinical workflows to enhance diagnostic yields.",
-            "link": "https://openai.com/index/diagnose-rare-childhood-diseases"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781740800000,
-            "date": "2026-06-18",
-            "title": "Claude Code now supports artifacts",
-            "summary_kr": "Claude Code가 작업 세션을 실시간으로 업데이트되는 대화형 웹 페이지 형태의 '아티팩트'로 시각화하여 팀 간 공유 및 협업 효율을 대폭 개선합니다.",
-            "summary_en": "Claude Code now supports 'Artifacts,' allowing developers to visualize and share live, interactive work sessions as web pages to streamline team collaboration and status updates.",
-            "link": "https://claude.com/blog/artifacts-in-claude-code"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1781740800000,
-            "date": "2026-06-18",
-            "title": "Project Fetch: Phase two",
-            "summary_kr": "앤스로픽의 최신 모델인 Claude Opus 4.7은 로봇 제어 실험에서 인간 팀보다 최대 20배 이상 빠르게 작업을 수행하며, AI가 물리적 세계의 복잡한 과제를 자율적으로 해결하는 역량이 급격히 발전했음을 입증했습니다.",
-            "summary_en": "Anthropic's latest model, Claude Opus 4.7, outperformed human teams by over 20 times in robotic control tasks, demonstrating that AI is rapidly advancing in its ability to autonomously execute complex physical-world operations.",
-            "link": "https://www.anthropic.com/research/project-fetch-phase-two"
         }
     ]
 }
