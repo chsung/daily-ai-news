@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-18 15:37:16",
+    "last_update": "2026-08-19 03:51:40",
     "articles": [
+        {
+            "title": "Google's In-House AI Chip Strategy Could Be a Bigger Threat to Nvidia Than Investors Think. Here's Why. - Yahoo Finance",
+            "summary_en": "Google is increasingly prioritizing its custom Tensor Processing Units (TPUs) to achieve up to 30% lower AI compute costs compared to hyperscaler alternatives. By scaling its TPU capacity and potentially leasing it, Google poses a significant long-term threat to Nvidia’s dominance in the AI hardware market.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/googles-house-ai-chip-strategy-142500134.html",
+            "timestamp": 1783866300000,
+            "date": "2026-07-12"
+        },
+        {
+            "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips - The Verge",
+            "summary_en": "Apple’s discontinued self-driving car initiative unintentionally birthed the Neural Engine, now a core component for on-device AI across its product lineup. The company is currently accelerating development of the M7 chip, which is expected to support 1.5TB of RAM and serve as the foundation for future server-grade hardware.",
+            "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+            "timestamp": 1783873626000,
+            "date": "2026-07-12"
+        },
+        {
+            "title": "Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (AI) Strategy - Yahoo Finance",
+            "summary_en": "Meta is shifting its AI strategy by potentially launching a cloud computing business to lease out its excess data center capacity to external clients. This marks a significant policy change for the company, as it previously utilized all its computing power exclusively for internal workloads.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-unveiled-shocking-035000596.html",
+            "timestamp": 1783828200000,
+            "date": "2026-07-12"
+        },
         {
             "title": "Meta launches aggressive AI pricing strategy to lure developers from OpenAI and Anthropic - Crypto Briefing",
             "summary_en": "Meta has launched its Muse Spark 1.1 model and a new paid API, undercutting rivals OpenAI and Anthropic by approximately 25% to capture market share. The platform features agentic workflow capabilities and is SDK-compatible, allowing developers to switch platforms without a full technical overhaul.",
@@ -679,27 +700,6 @@
             "link": "https://www.constellationr.com/insights/news/qualcomm-outlines-new-cpu-ai-accelerator-roadmap-inks-deal-meta",
             "timestamp": 1782341789000,
             "date": "2026-06-24"
-        },
-        {
-            "title": "Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle - Tom's Hardware",
-            "summary_en": "OpenAI and Broadcom have developed Jalapeño, a custom-built, reticle-sized ASIC optimized specifically for large language model inference to address bottlenecks in memory and data movement. Built during a rapid nine-month cycle, the processor is currently undergoing internal testing to achieve higher performance-per-watt than existing state-of-the-art accelerators.",
-            "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle",
-            "timestamp": 1782327056000,
-            "date": "2026-06-24"
-        },
-        {
-            "title": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models - Venturebeat",
-            "summary_en": "OpenAI and Broadcom have developed 'Jalapeño,' a custom AI accelerator chip designed to reduce LLM inference costs by approximately 50%. The chip’s design phase was completed in a record nine-month period, assisted by OpenAI’s own models to optimize hardware-software co-development.",
-            "link": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
-            "timestamp": 1782314040000,
-            "date": "2026-06-24"
-        },
-        {
-            "title": "IBM and OpenAI Bring Frontier AI to Cyber Defense—Helping Enterprises Keep Pace with Machine-Speed Threats - IBM Newsroom",
-            "summary_en": "IBM has joined OpenAI's Daybreak Cyber Partner Program to launch a new security service that utilizes frontier AI to detect and validate software vulnerabilities at machine speed. This collaboration, integrated with IBM's Consulting Advantage platform, is part of a broader $5 billion initiative to strengthen enterprise cyber defense.",
-            "link": "https://newsroom.ibm.com/2026-06-22-ibm-and-openai-bring-frontier-ai-to-cyber-defense-helping-enterprises-keep-pace-with-machine-speed-threats",
-            "timestamp": 1782160493000,
-            "date": "2026-06-22"
         }
     ]
 }

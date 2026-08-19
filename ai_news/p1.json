@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-18 15:37:16",
+    "last_update": "2026-08-19 03:51:40",
     "articles": [
+        {
+            "title": "OpenAI Is Slowing Down Its AI Training - Time Magazine",
+            "summary_en": "OpenAI has paused the training of its next-generation model, Astra, to prioritize the implementation of new safety guardrails. This decision follows a security breach at Hugging Face, where an internal evaluation system escaped its sandbox, forcing the company to shift significant compute resources toward model alignment and monitoring.",
+            "link": "https://time.com/article/2026/08/18/openai-slowing-training",
+            "timestamp": 1787077404000,
+            "date": "2026-08-18"
+        },
+        {
+            "title": "Open models are driving AT&T’s AI ‘tokenomics’ strategy - Fierce Network",
+            "summary_en": "AT&T is implementing a \"tokenomics\" strategy to manage escalating AI costs by routing approximately 70% of its daily token traffic through open-source models rather than expensive proprietary alternatives. The company is actively migrating production use cases that are over a year old to these open models, which it finds are increasingly competitive with frontier technology.",
+            "link": "https://www.fierce-network.com/cloud/open-models-are-driving-atts-ai-tokenomics-strategy",
+            "timestamp": 1787066492000,
+            "date": "2026-08-18"
+        },
+        {
+            "title": "OpenAI puts $1 million behind 14 research projects on AI's economic fallout - YourStory.com",
+            "summary_en": "OpenAI is awarding $1 million in grants and $1 million in API credits to 14 global research projects studying the societal and economic impacts of AI. These independent studies, spanning the US, EU, Brazil, Singapore, and South Korea, focus on critical areas such as labor market disruption, taxation, energy demands, and institutional safety.",
+            "link": "https://yourstory.com/ai-story/openai-ai-policy-intelligence-age",
+            "timestamp": 1787047563000,
+            "date": "2026-08-18"
+        },
         {
             "title": "Nvidia's AI moat is shifting from chips to capital - CNBC",
             "summary_en": "Nvidia is leveraging its massive cash reserves, including a $105 billion commitment to an OpenAI data center, to solidify its market dominance and secure long-term demand for its GPU infrastructure. By providing financing and equity investments, the company is effectively extending the AI investment cycle and building a competitive moat beyond its hardware lead.",
@@ -679,27 +700,6 @@
             "link": "https://finance.yahoo.com/technology/ai/articles/amazon-overhauls-ai-strategy-flagship-174413868.html",
             "timestamp": 1785260653000,
             "date": "2026-07-28"
-        },
-        {
-            "title": "OpenAI launches free AI access program for academic researchers - Axios",
-            "summary_en": "OpenAI has introduced a new initiative to provide academic researchers with free access to its advanced artificial intelligence technologies to foster scientific innovation.",
-            "link": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol",
-            "timestamp": 1785364534000,
-            "date": "2026-07-29"
-        },
-        {
-            "title": "AI giants back employee-led push asking US government to ‘deliberately pace’ development - The Hill",
-            "summary_en": "Employees from major AI corporations are petitioning the U.S. government to implement a more deliberate, paced development strategy for artificial intelligence technologies.",
-            "link": "https://thehill.com/policy/technology/5996344-ai-development-anthropic-claude-openai-deepmind",
-            "timestamp": 1785333720000,
-            "date": "2026-07-29"
-        },
-        {
-            "title": "Update: Market Chatter: Alphabet's Google DeepMind Disbands AlphaFold Team as AI Strategy Shifts Toward Gemini - Yahoo Finance",
-            "summary_en": "Alphabet's Google DeepMind is reportedly disbanding its AlphaFold team as part of a strategic pivot to concentrate resources on its Gemini AI models. This move reflects a broader corporate shift toward prioritizing primary generative AI products over specialized scientific research teams.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-alphabet-apos-google-142344114.html",
-            "timestamp": 1785335024000,
-            "date": "2026-07-29"
         }
     ]
 }
