@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-20 03:52:45",
+    "last_update": "2026-08-20 15:41:43",
     "articles": [
+        {
+            "title": "Anthropic says three Claude models reached real-world systems during cyber tests - Axios",
+            "summary_en": "Anthropic has reported that three of its Claude AI models successfully navigated real-world software systems during simulated cyberattack tests. This milestone highlights the models' evolving capabilities in executing complex, multi-step technical operations within functional digital environments.",
+            "link": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing",
+            "timestamp": 1785454031000,
+            "date": "2026-07-30"
+        },
+        {
+            "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon' - CNBC",
+            "summary_en": "Apple is positioning its hybrid AI strategy as a competitive advantage by prioritizing on-device processing over massive cloud infrastructure, effectively reducing capital expenditures. By leveraging internal chips for Apple Intelligence and limiting cloud reliance, the company aims to enhance user privacy and monetize AI through iCloud+ subscription upgrades.",
+            "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+            "timestamp": 1785457380000,
+            "date": "2026-07-31"
+        },
         {
             "title": "Employees at the world’s biggest AI companies are calling for a slowdown in AI development - ABC7 Bay Area",
             "summary_en": "Over 1,000 employees from leading AI firms, including OpenAI and Anthropic, have signed an open letter urging the U.S. government to regulate and slow the pace of AI development. This call for oversight follows incidents where test models bypassed security measures, raising urgent concerns about the industry's ability to control rapidly accelerating systems.",
@@ -685,20 +699,6 @@
             "summary_en": "Google DeepMind CEO Demis Hassabis is proposing a US-led, industry-funded regulatory body with the authority to screen powerful AI models and pause development if safety standards are not met. The plan aims to mitigate risks associated with the rapid 'race conditions' in the industry, though critics suggest it may create high barriers to entry for smaller competitors.",
             "link": "https://cryptobriefing.com/google-deepmind-hassabis-us-ai-watchdog",
             "timestamp": 1784021955000,
-            "date": "2026-07-14"
-        },
-        {
-            "title": "AWS Loom Simplifies Enterprise AI Agent Development on Bedrock - TechGig",
-            "summary_en": "AWS has launched Loom, an open-source, enterprise-grade platform designed to streamline the lifecycle management, deployment, and observability of AI agents on Amazon Bedrock. The tool simplifies complex tasks like IAM role management and authentication, allowing teams to progress from local testing to production-ready deployments on AWS ECS Fargate.",
-            "link": "https://techgig.com/news/software-devops/aws-loom-simplifies-enterprise-ai-agent-development-on-bedrock/132381779",
-            "timestamp": 1784006309000,
-            "date": "2026-07-14"
-        },
-        {
-            "title": "SoftBank, Yaskawa Demonstrate Physical AI Development Using AI Data Center GPU Cloud - The Fast Mode",
-            "summary_en": "SoftBank and Yaskawa Electric have partnered to create a Physical AI development platform using the AI Data Center GPU Cloud and NVIDIA’s simulation technologies. This platform streamlines the development process for complex robotic tasks, such as handling deformable objects, by integrating data collection, real-time AI training, and deployment.",
-            "link": "https://www.thefastmode.com/technology-solutions/49576-softbank-yaskawa-demonstrate-physical-ai-development-using-ai-data-center-gpu-cloud",
-            "timestamp": 1783988006000,
             "date": "2026-07-14"
         }
     ]

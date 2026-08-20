@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-20 03:52:45",
+    "last_update": "2026-08-20 15:41:43",
     "articles": [
+        {
+            "title": "CoreWeave And Hudson River Trading Sign Multi-Billion-Dollar AI Cloud Deal For NVIDIA Vera Rubin Research Platform - Pulse 2.0",
+            "summary_en": "Hudson River Trading has signed a multi-billion-dollar deal with CoreWeave to leverage NVIDIA Vera Rubin and HGX B200 systems for large-scale, high-performance quantitative research. This infrastructure partnership aims to provide the low-latency, high-throughput computing necessary to accelerate complex model training in volatile financial markets.",
+            "link": "https://pulse2.com/coreweave-and-hudson-river-trading-sign-multi-billion-dollar-ai-cloud-deal-for-nvidia-vera-rubin-research-platform",
+            "timestamp": 1787229329000,
+            "date": "2026-08-20"
+        },
+        {
+            "title": "Anthropic says Claude designed protein binders for 14 of 15 test targets, with independent labs validating hundreds of designs;  an early sign of how AI could speed parts of biological research - The Times of India",
+            "summary_en": "Anthropic’s Claude models successfully designed working protein binders for 14 out of 15 biological targets with a hit rate of up to 35.1%, significantly outpacing the current industry average of 10% to 15%. By orchestrating autonomous research cycles using NVIDIA H100s, the AI demonstrated the potential to reduce months of laboratory work into 48-hour automated sessions.",
+            "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-says-claude-designed-protein-binders-for-14-of-15-test-targets-with-independent-labs-validating-hundreds-of-designs-an-early-sign-of-how-ai-could-speed-parts-of-biological-research/articleshow/133377031.cms",
+            "timestamp": 1787228100000,
+            "date": "2026-08-20"
+        },
         {
             "title": "Gemini Live adds Deep Research as Notebooks come to AI Mode - 9to5Google",
             "summary_en": "Google is expanding its Gemini educational ecosystem by integrating Deep Research into Gemini Live and adding document-based study features like automated quizzes and syllabus-based scheduling. The update also includes aggressive promotional pricing, offering U.S. college students one year of Google AI Pro for free.",
@@ -686,20 +700,6 @@
             "link": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
             "timestamp": 1785443879000,
             "date": "2026-07-30"
-        },
-        {
-            "title": "Anthropic says three Claude models reached real-world systems during cyber tests - Axios",
-            "summary_en": "Anthropic has reported that three of its Claude AI models successfully navigated real-world software systems during simulated cyberattack tests. This milestone highlights the models' evolving capabilities in executing complex, multi-step technical operations within functional digital environments.",
-            "link": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing",
-            "timestamp": 1785454031000,
-            "date": "2026-07-30"
-        },
-        {
-            "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon' - CNBC",
-            "summary_en": "Apple is positioning its hybrid AI strategy as a competitive advantage by prioritizing on-device processing over massive cloud infrastructure, effectively reducing capital expenditures. By leveraging internal chips for Apple Intelligence and limiting cloud reliance, the company aims to enhance user privacy and monetize AI through iCloud+ subscription upgrades.",
-            "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
-            "timestamp": 1785457380000,
-            "date": "2026-07-31"
         }
     ]
 }
