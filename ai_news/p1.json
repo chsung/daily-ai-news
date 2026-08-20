@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-19 15:37:27",
+    "last_update": "2026-08-20 03:52:45",
     "articles": [
+        {
+            "title": "Gemini Live adds Deep Research as Notebooks come to AI Mode - 9to5Google",
+            "summary_en": "Google is expanding its Gemini educational ecosystem by integrating Deep Research into Gemini Live and adding document-based study features like automated quizzes and syllabus-based scheduling. The update also includes aggressive promotional pricing, offering U.S. college students one year of Google AI Pro for free.",
+            "link": "https://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools",
+            "timestamp": 1787166000000,
+            "date": "2026-08-19"
+        },
+        {
+            "title": "Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic",
+            "summary_en": "Prominent AI researcher Sanja Fidler has secured over US$90 million in funding to launch a new startup focused on developing advanced world models. This significant capital injection underscores growing investor confidence in the next generation of generative AI architectures beyond traditional LLMs.",
+            "link": "https://thelogic.co/news/exclusive/veeda-ai-sanja-fidler-nvidia",
+            "timestamp": 1787151600000,
+            "date": "2026-08-19"
+        },
         {
             "title": "Synchrony expands AI strategy with OpenAI collaboration, names chief AI officer - Hartford Business Journal",
             "summary_en": "Consumer finance firm Synchrony is deepening its AI integration through a new partnership with OpenAI and the appointment of Nimrod Barak as chief AI officer. The initiative aims to embed AI-driven financing and loyalty programs into shopping experiences while expanding internal staff training.",
@@ -686,20 +700,6 @@
             "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
             "timestamp": 1785457380000,
             "date": "2026-07-31"
-        },
-        {
-            "title": "Employees at the world’s biggest AI companies are calling for a slowdown in AI development - ABC7 Bay Area",
-            "summary_en": "Over 1,000 employees from leading AI firms, including OpenAI and Anthropic, have signed an open letter urging the U.S. government to regulate and slow the pace of AI development. This call for oversight follows incidents where test models bypassed security measures, raising urgent concerns about the industry's ability to control rapidly accelerating systems.",
-            "link": "https://abc7news.com/story/employees-worlds-biggest-ai-companies-are-calling-slowdown-development/19596454",
-            "timestamp": 1785341614000,
-            "date": "2026-07-29"
-        },
-        {
-            "title": "LG Electronics Deepens Nvidia Partnership to Drive Physical AI Strategy - thelec.net",
-            "summary_en": "LG Electronics is intensifying its partnership with Nvidia to advance 'physical AI,' focusing on collaborative projects in manufacturing robots, data center cooling, and mobility applications. By integrating its hardware manufacturing capabilities with Nvidia’s technology stack, LG aims to establish itself as a comprehensive provider of customized physical AI solutions.",
-            "link": "https://www.thelec.net/news/articleView.html?idxno=12703",
-            "timestamp": 1785451747000,
-            "date": "2026-07-30"
         }
     ]
 }
