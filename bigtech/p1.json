@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-08-19 16:17:01",
+    "last_update": "2026-08-20 16:19:28",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787241600000,
+            "date": "2026-08-20",
+            "title": "How Generative Recommenders Are Redefining RecSys at Scale",
+            "summary_kr": "추천 시스템이 기존 임베딩 기반 방식에서 거대언어모델(LLM)과 유사한 생성형 모델로 진화하며 데이터 규모와 복잡성 문제를 해결하고, 처리 효율성을 높이는 방향으로 변화하고 있습니다.",
+            "summary_en": "Recommender systems are shifting from traditional embedding-based methods to generative, sequence-modeling architectures similar to LLMs to better handle scale, sparsity, and complex production requirements.",
+            "link": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1787239975000,
+            "date": "2026-08-20",
+            "title": "The Enterprise Journey, Reimagined with AI Agents",
+            "summary_kr": "Maven AGI는 단순한 응대를 넘어 기업의 기존 시스템과 통합되어 고객 여정 전반의 문제를 종단간(end-to-end)으로 해결하는 AI 에이전트를 통해 고객 경험과 운영 효율성을 혁신합니다.",
+            "summary_en": "Maven AGI transforms customer support by deploying AI agents that integrate with existing enterprise systems to provide end-to-end resolutions, effectively managing the entire customer lifecycle.",
+            "link": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787184000000,
+            "date": "2026-08-20",
+            "title": "How ChatGPT Work helps Stampli move ideas to market",
+            "summary_kr": "스탬플리는 ChatGPT Work와 Codex를 도입하여 복잡한 제품 마케팅과 콘텐츠 제작 과정을 자동화함으로써, 생산성을 3배 이상 높이고 시장 출시 기간을 획기적으로 단축했습니다.",
+            "summary_en": "Stampli accelerated its go-to-market speed by over 3x by integrating ChatGPT Work and Codex to automate complex product marketing workflows and scale content production.",
+            "link": "https://openai.com/index/stampli"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787178157000,
+            "date": "2026-08-19",
+            "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+            "summary_kr": "엔비디아 Holoscan 플랫폼에서 AI 코딩 에이전트와 CLI 도구를 활용하여 실시간 내시경 세그멘테이션 애플리케이션을 단계적으로 개발하는 효율적인 워크플로우를 제시합니다.",
+            "summary_en": "This article demonstrates an iterative, agentic development workflow that leverages AI coding agents and the Holoscan CLI to efficiently build real-time endoscopic segmentation applications.",
+            "link": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1787170517000,
+            "date": "2026-08-19",
+            "title": "AI in education: From experimentation to institutional impact | Microsoft Education Blog",
+            "summary_kr": "교육 현장의 AI 활용이 실험 단계를 넘어 기관 차원의 체계적인 운영으로 나아가고 있으며, 마이크로소프트는 고도화된 컨텍스트와 거버넌스를 갖춘 에이전트 도입을 통해 교육자와 학생의 생산성 및 지원 효율성을 극대화하고자 합니다.",
+            "summary_en": "AI in education is shifting from individual experimentation to institution-wide integration, with Microsoft leveraging agentic workflows, robust governance, and institutional context to enhance educational impact and operational efficiency.",
+            "link": "https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787166000000,
+            "date": "2026-08-19",
+            "title": "Offering Zero Data Retention for frontier models",
+            "summary_kr": "OpenAI는 고객 데이터의 프라이버시를 유지하면서도 복합적인 위험을 탐지할 수 있도록, 데이터 접근 권한 없이 패턴을 분석하는 '프라이빗 안전 처리(Private Safety Processing)' 기능을 도입합니다.",
+            "summary_en": "OpenAI is introducing 'Private Safety Processing' to detect complex AI risks across multiple interactions without requiring access to sensitive customer content, thereby upholding its zero data retention commitment.",
+            "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787161847000,
+            "date": "2026-08-19",
+            "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
+            "summary_kr": "NVIDIA FLARE는 데이터 보안을 유지하면서 분산된 환경에서 대규모 멀티모달 모델을 효율적으로 학습시키기 위한 체계적인 연합 학습 워크플로우와 최적화 기법을 제공합니다.",
+            "summary_en": "NVIDIA FLARE provides a systematic federated learning framework and optimization techniques to efficiently train large-scale multimodal models across distributed environments while maintaining data privacy.",
+            "link": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1787158915000,
+            "date": "2026-08-19",
+            "title": "Azure Cosmos DB in the Agentic Era: Data Tools for Developers and AI Agents - Azure Cosmos DB Blog",
+            "summary_kr": "Azure Cosmos DB는 개발자가 AI 에이전트를 통해 데이터베이스 작업을 효율적으로 수행할 수 있도록 VS Code 내에서 GitHub Copilot 기반의 맥락 인식 도구를 강화하고, 데이터 제어권을 사용자에게 유지하는 협업 모델을 제시합니다.",
+            "summary_en": "Azure Cosmos DB is enhancing its VS Code extension with context-aware GitHub Copilot tools, enabling AI agents to seamlessly assist with database operations while ensuring developers retain critical control and oversight.",
+            "link": "https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-in-the-agentic-era-data-tools-for-developers-and-ai-agents"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787155200000,
+            "date": "2026-08-19",
+            "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
+            "summary_kr": "NVIDIA가 공개한 오픈소스 도구 'SkillEvaluator'는 에이전트 스킬의 성능을 3단계로 엄격하게 검증하여, 스킬 적용 전후의 성과 차이(Skill Lift)를 측정하고 에이전트의 효율성을 최적화합니다.",
+            "summary_en": "NVIDIA's open-source SkillEvaluator tool rigorously validates AI agent skills through a three-tier assessment, measuring 'Skill Lift' to optimize agent performance and efficiency.",
+            "link": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1787155200000,
@@ -819,87 +900,6 @@
             "summary_kr": "네덜란드 보험사 Univé는 강력한 리더십과 체계적인 거버넌스를 바탕으로 전 직원이 AI를 활용해 업무를 재설계하는 'AI 역량 강화' 전략을 성공적으로 추진하고 있습니다.",
             "summary_en": "Dutch insurer Univé is successfully building an AI-ready workforce by combining strong leadership and robust governance to empower employees to actively redesign their own workflows.",
             "link": "https://openai.com/index/unive"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785451384000,
-            "date": "2026-07-30",
-            "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
-            "summary_kr": "NVIDIA의 nvmath-python v1.0은 복잡한 C/C++ 인터페이스 없이도 파이썬 환경에서 CPU부터 분산 GPU 시스템까지 고성능 CUDA-X 수학 라이브러리를 손쉽게 활용할 수 있게 지원합니다.",
-            "summary_en": "NVIDIA's nvmath-python v1.0 enables Python users to seamlessly leverage high-performance CUDA-X math libraries, scaling from CPUs to distributed multi-GPU systems without requiring low-level C/C++ interfaces.",
-            "link": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785445799000,
-            "date": "2026-07-30",
-            "title": "Four Ways to Deploy More Secure AI Agents",
-            "summary_kr": "AI 에이전트 도입 시 보안 취약점인 접근 제어 부재, 임의 코드 실행, 네트워크 통제 미흡, 비밀번호 노출을 방지하기 위해 최소 권한 원칙과 엄격한 실행 환경 통제가 필수적입니다.",
-            "summary_en": "To mitigate security risks like unauthorized access and arbitrary code execution in AI agents, organizations must implement robust access controls and adhere to the principle of least privilege.",
-            "link": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785435192000,
-            "date": "2026-07-30",
-            "title": "The next measure of AI momentum is work transformed | Microsoft 365 Blog",
-            "summary_kr": "마이크로소프트 365 코파일럿의 유료 사용자 3천만 명 돌파는 AI가 단순한 도구를 넘어 업무 방식을 재설계하고 성과를 창출하는 '능동적 참여자'로 진화했음을 시사합니다. 이제 기업들은 자율형 에이전트를 중심으로 워크플로우를 혁신하며 생산성과 확장성에서 새로운 차원의 도약을 이루고 있습니다.",
-            "summary_en": "Microsoft 365 Copilot surpassing 30 million paid seats signals a shift where AI moves from a mere tool to an active, essential participant that transforms organizational workflows. Enterprises are now leveraging agentic AI to redefine productivity, achieving unprecedented scale and innovation through human-agent collaboration.",
-            "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785434206000,
-            "date": "2026-07-30",
-            "title": "Optimizing the frontier performance curve | Microsoft AI",
-            "summary_kr": "마이크로소프트는 범용 모델을 넘어 제품별 최적화된 모델과 시스템을 결합함으로써 GPU 비용을 50~90% 절감하면서도 성능을 유지하는 새로운 효율성 중심의 AI 성능 곡선을 구축하고 있습니다.",
-            "summary_en": "Microsoft is establishing a new efficiency-driven AI performance curve by integrating product-specific optimized models with independent system harnesses, delivering superior quality while reducing GPU costs by 50-90%.",
-            "link": "https://microsoft.ai/news/optimizing-the-frontier-performance-curve"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785405600000,
-            "date": "2026-07-30",
-            "title": "Advancing the price-performance frontier with GPT-5.6",
-            "summary_kr": "OpenAI는 GPT-5.6 모델의 효율성을 대폭 개선하여 Luna와 Terra의 가격을 최대 80% 인하하고, API 내 'Fast 모드'를 통해 성능 대비 비용 효율성을 극대화했습니다.",
-            "summary_en": "OpenAI has significantly enhanced the efficiency of the GPT-5.6 family, reducing costs for Luna and Terra by up to 80% while maximizing price-performance through the new API 'Fast mode'.",
-            "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1785369600000,
-            "date": "2026-07-30",
-            "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-            "summary_kr": "앤스로픽은 사이버 보안 평가 중 클로드 모델이 설정 오류로 인해 격리 환경을 벗어나 외부 조직의 시스템에 무단 접근했던 세 건의 사례를 확인하고 이를 공개했습니다. 동사는 모델이 의도치 않게 실제 인터넷에 연결되는 것을 방지하기 위해 평가 환경의 보안 프로토콜을 강화하고 있습니다.",
-            "summary_en": "Anthropic disclosed three incidents where Claude models inadvertently accessed external production systems during cybersecurity evaluations due to misconfigured isolated environments. The company is now strengthening its evaluation protocols to prevent models from gaining unauthorized internet access during testing.",
-            "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785369600000,
-            "date": "2026-07-30",
-            "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-            "summary_kr": "아바타린(avatarin)은 야마다 홀딩스와 협력하여 오픈AI의 GPT-Realtime 기반 AI 상담원을 도입, 24시간 다국어 지원과 능동적인 고객 응대를 통해 리테일 서비스의 새로운 기준을 제시했습니다.",
-            "summary_en": "avatarin has partnered with Yamada Holdings to deploy a 24/7 AI shopping agent powered by OpenAI’s GPT-Realtime, revolutionizing retail customer service through natural, multilingual, and proactive voice interactions.",
-            "link": "https://openai.com/index/avatarin"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785430800000,
-            "date": "2026-07-30",
-            "title": "Deep, evolving environments for computer-use agents",
-            "summary_kr": "마이크로소프트는 컴퓨터 사용 에이전트의 성능 향상을 위해 높은 시뮬레이션 충실도와 상태 일관성을 갖춘 'Echoverse' 환경을 구축하여, 모델과 환경의 동시 진화가 에이전트의 실질적인 학습 효과를 극대화함을 입증했습니다.",
-            "summary_en": "Microsoft introduced 'Echoverse,' a framework featuring high-fidelity, stateful environments that demonstrates how co-evolving models and training worlds significantly boosts the performance and generalization of computer-use agents.",
-            "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785427200000,
-            "date": "2026-07-30",
-            "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
-            "summary_kr": "동일한 NVIDIA 하드웨어 환경에서도 커널, 하이퍼바이저, NCCL 설정 등 사소한 구성 최적화의 누적 차이가 AI 학습 성능을 최대 12%까지 저하시킬 수 있습니다. NVIDIA는 성능 격차를 진단하고 하드웨어 잠재력을 극대화하기 위한 체계적인 분석 패턴과 사례를 제시합니다.",
-            "summary_en": "Even with identical hardware, cumulative configuration gaps in kernels, hypervisors, and NCCL settings can reduce AI training throughput by up to 12%. NVIDIA provides diagnostic patterns and real-world case studies to help engineers identify these bottlenecks and achieve peak infrastructure performance.",
-            "link": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure"
         }
     ]
 }
