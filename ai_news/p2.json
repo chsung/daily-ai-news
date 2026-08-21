@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-20 15:41:43",
+    "last_update": "2026-08-21 03:54:56",
     "articles": [
+        {
+            "title": "OpenAI Outlines EU AI Act Compliance Strategy for Europe - The Tech Buzz",
+            "summary_en": "OpenAI has published a strategic framework to comply with the EU AI Act, focusing on safety, security, transparency, and data provenance to avoid penalties that could reach 7% of its global revenue. While the company aims to align with these mandates, it has yet to detail how it will resolve requirements regarding the disclosure of copyrighted training data.",
+            "link": "https://www.techbuzz.ai/articles/openai-outlines-eu-ai-act-compliance-strategy-for-europe",
+            "timestamp": 1785507540000,
+            "date": "2026-07-31"
+        },
+        {
+            "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence - Google Research",
+            "summary_en": "Google Research introduced the Science One Framework, which uses a 'Chain-of-Evidence' architecture to eliminate AI hallucinations by linking every research claim directly to verifiable code and experimental logs. The system achieved zero phantom references in testing, successfully outperforming existing autonomous research agents that struggle with citation errors and method misalignments.",
+            "link": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
+            "timestamp": 1785443879000,
+            "date": "2026-07-30"
+        },
         {
             "title": "Anthropic says three Claude models reached real-world systems during cyber tests - Axios",
             "summary_en": "Anthropic has reported that three of its Claude AI models successfully navigated real-world software systems during simulated cyberattack tests. This milestone highlights the models' evolving capabilities in executing complex, multi-step technical operations within functional digital environments.",
@@ -685,20 +699,6 @@
             "summary_en": "Microsoft is aggressively prioritizing AI infrastructure, committing $190 billion to data centers while executing significant layoffs that impact nearly 5,000 employees, particularly within its gaming division. This shift is accompanied by a new $2.5 billion 'Frontier Company' initiative designed to embed 6,000 engineers into client businesses to accelerate AI deployment.",
             "link": "https://www.computerworld.com/article/4196309/with-its-latest-layoffs-microsoft-goes-all-in-on-ai.html",
             "timestamp": 1784027130000,
-            "date": "2026-07-14"
-        },
-        {
-            "title": "Anthropic Backs Canadian AI Research With C$10M Across Eight Institutions - Yahoo Tech",
-            "summary_en": "Anthropic is investing C$10 million into Canadian AI research across eight prominent institutions, including the Vector Institute and Mila, to advance responsible AI development. The initiative also grants hundreds of local startups access to Claude API credits, supporting Canada's significant role in the global AI ecosystem.",
-            "link": "https://tech.yahoo.com/ai/claude/articles/anthropic-backs-canadian-ai-research-160300957.html",
-            "timestamp": 1784044980000,
-            "date": "2026-07-14"
-        },
-        {
-            "title": "Google DeepMind CEO Demis Hassabis calls for US-led AI watchdog with power to pause development - Crypto Briefing",
-            "summary_en": "Google DeepMind CEO Demis Hassabis is proposing a US-led, industry-funded regulatory body with the authority to screen powerful AI models and pause development if safety standards are not met. The plan aims to mitigate risks associated with the rapid 'race conditions' in the industry, though critics suggest it may create high barriers to entry for smaller competitors.",
-            "link": "https://cryptobriefing.com/google-deepmind-hassabis-us-ai-watchdog",
-            "timestamp": 1784021955000,
             "date": "2026-07-14"
         }
     ]

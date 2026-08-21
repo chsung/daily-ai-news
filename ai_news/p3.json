@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-20 15:41:43",
+    "last_update": "2026-08-21 03:54:56",
     "articles": [
+        {
+            "title": "Anthropic Backs Canadian AI Research With C$10M Across Eight Institutions - Yahoo Tech",
+            "summary_en": "Anthropic is investing C$10 million into Canadian AI research across eight prominent institutions, including the Vector Institute and Mila, to advance responsible AI development. The initiative also grants hundreds of local startups access to Claude API credits, supporting Canada's significant role in the global AI ecosystem.",
+            "link": "https://tech.yahoo.com/ai/claude/articles/anthropic-backs-canadian-ai-research-160300957.html",
+            "timestamp": 1784044980000,
+            "date": "2026-07-14"
+        },
+        {
+            "title": "Google DeepMind CEO Demis Hassabis calls for US-led AI watchdog with power to pause development - Crypto Briefing",
+            "summary_en": "Google DeepMind CEO Demis Hassabis is proposing a US-led, industry-funded regulatory body with the authority to screen powerful AI models and pause development if safety standards are not met. The plan aims to mitigate risks associated with the rapid 'race conditions' in the industry, though critics suggest it may create high barriers to entry for smaller competitors.",
+            "link": "https://cryptobriefing.com/google-deepmind-hassabis-us-ai-watchdog",
+            "timestamp": 1784021955000,
+            "date": "2026-07-14"
+        },
         {
             "title": "AWS Loom Simplifies Enterprise AI Agent Development on Bedrock - TechGig",
             "summary_en": "AWS has launched Loom, an open-source, enterprise-grade platform designed to streamline the lifecycle management, deployment, and observability of AI agents on Amazon Bedrock. The tool simplifies complex tasks like IAM role management and authentication, allowing teams to progress from local testing to production-ready deployments on AWS ECS Fargate.",
@@ -685,20 +699,6 @@
             "summary_en": "OpenAI has partnered with Broadcom to develop 'Jalapeño,' a custom inference-focused AI processor designed to optimize efficiency and reduce reliance on third-party hardware. This move marks OpenAI's transition into a full-stack company, utilizing AI-assisted engineering to shorten development cycles for its multi-generation silicon roadmap.",
             "link": "https://www.jonpeddie.com/news/openai-builds-its-own-ai-silicon",
             "timestamp": 1782506883000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "OpenAI staggers AI model release after Trump administration request - The Guardian",
-            "summary_en": "OpenAI is implementing a staggered, government-vetted preview for its GPT 5.6 model following requests from federal agencies concerned about the security risks of powerful AI. This move signals a significant shift in White House policy toward stricter oversight of cutting-edge models capable of sensitive tasks like cyber-hacking.",
-            "link": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
-            "timestamp": 1782484140000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "Apple skips high-end M6 Chips, jumps straight to AI-focused M7 Pro, Max, and Ultra in major Apple Silicon strategy shift - MacDailyNews",
-            "summary_en": "Apple is bypassing high-end M6 chip variants to fast-track its M7 series, prioritizing advanced on-device AI capabilities and increased memory bandwidth for its professional Mac lineup starting in 2027. This strategy marks a major departure from Apple's traditional release cycle, reflecting a deeper commitment to localized AI processing.",
-            "link": "https://macdailynews.com/2026/06/26/apple-skips-high-end-m6-chips-jumps-straight-to-ai-focused-m7-pro-max-and-ultra-in-major-apple-silicon-strategy-shift",
-            "timestamp": 1782482447000,
             "date": "2026-06-26"
         }
     ]
