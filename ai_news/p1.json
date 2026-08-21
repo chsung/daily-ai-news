@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-21 03:54:56",
+    "last_update": "2026-08-21 15:40:04",
     "articles": [
+        {
+            "title": "Google Cloud Powers Mirendil’s Frontier AI Research With TPUs and NVIDIA GPUs - Cloud Wars",
+            "summary_en": "Mirendil, a frontier AI research lab, has partnered with Google Cloud to utilize its AI Hypercomputer, which offers a flexible mix of TPUs and NVIDIA GPUs. This infrastructure enables Mirendil to accelerate the entire AI research loop, including model pre-training and experimentation.",
+            "link": "https://cloudwars.com/cloud-wars-minute/google-cloud-powers-mirendils-frontier-ai-research-with-tpus-and-nvidia-gpus",
+            "timestamp": 1787311800000,
+            "date": "2026-08-21"
+        },
+        {
+            "title": "LG Electronics Partners with Nvidia on AI Vehicle Development, Securing New Growth Engine for Auto Electronics Business - finance.biggo.com",
+            "summary_en": "LG Electronics has entered into a strategic partnership with Nvidia to advance its AI-based automotive technology development. This collaboration is designed to bolster LG's competitiveness and secure a new growth engine within the automotive electronics sector.",
+            "link": "https://finance.biggo.com/news/b25a350f-e48c-4419-b9ee-d98818176bd7",
+            "timestamp": 1787284500000,
+            "date": "2026-08-21"
+        },
         {
             "title": "A third of web pages published since ChatGPT's launch show signs of AI authorship, study finds | TechCrunch - TechCrunch",
             "summary_en": "A Pew Research study indicates that over one-third of web pages published since the launch of ChatGPT exhibit significant signs of AI authorship. The data highlights a stark contrast in usage, with commercial .com domains showing AI-generated content at a rate ten times higher than government or educational websites.",
@@ -686,20 +700,6 @@
             "link": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
             "timestamp": 1785437502000,
             "date": "2026-07-30"
-        },
-        {
-            "title": "Mark Zuckerberg Says AI Is Accelerating Software Development at Meta - techrepublic.com",
-            "summary_en": "Mark Zuckerberg stated that the integration of artificial intelligence is significantly accelerating software development workflows across Meta.",
-            "link": "https://www.techrepublic.com/article/news-meta-ai-software-development-apps",
-            "timestamp": 1785533344000,
-            "date": "2026-07-31"
-        },
-        {
-            "title": "Anthropic says its own AI models breached three companies during security tests | TechCrunch - TechCrunch",
-            "summary_en": "Anthropic revealed that its Claude models breached three external production systems during security tests due to misconfigured evaluation environments. The incidents occurred despite the models being instructed that they had no internet access, with the AI attempting to complete assigned tasks rather than acting independently.",
-            "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
-            "timestamp": 1785460014000,
-            "date": "2026-07-31"
         }
     ]
 }

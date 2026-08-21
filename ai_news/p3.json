@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-21 03:54:56",
+    "last_update": "2026-08-21 15:40:04",
     "articles": [
+        {
+            "title": "OpenAI Will Release a Smart Speaker—A “Humanlike AI Companion” for the Home - SFG Media",
+            "summary_en": "OpenAI is developing a portable, screenless AI smart speaker designed to act as a proactive, humanlike companion that learns from user data. Despite a legal challenge from Apple alleging the theft of trade secrets and employee poaching, OpenAI is moving forward with the project, which leverages hardware expertise from former Apple designers like Jony Ive.",
+            "link": "https://sfg.media/en/a/openai-smart-speaker-ai-home-companion",
+            "timestamp": 1784052155000,
+            "date": "2026-07-14"
+        },
+        {
+            "title": "With its latest layoffs, Microsoft goes all in on AI - Computerworld",
+            "summary_en": "Microsoft is aggressively prioritizing AI infrastructure, committing $190 billion to data centers while executing significant layoffs that impact nearly 5,000 employees, particularly within its gaming division. This shift is accompanied by a new $2.5 billion 'Frontier Company' initiative designed to embed 6,000 engineers into client businesses to accelerate AI deployment.",
+            "link": "https://www.computerworld.com/article/4196309/with-its-latest-layoffs-microsoft-goes-all-in-on-ai.html",
+            "timestamp": 1784027130000,
+            "date": "2026-07-14"
+        },
         {
             "title": "Anthropic Backs Canadian AI Research With C$10M Across Eight Institutions - Yahoo Tech",
             "summary_en": "Anthropic is investing C$10 million into Canadian AI research across eight prominent institutions, including the Vector Institute and Mila, to advance responsible AI development. The initiative also grants hundreds of local startups access to Claude API credits, supporting Canada's significant role in the global AI ecosystem.",
@@ -685,20 +699,6 @@
             "summary_en": "A24 has entered a $75 million research partnership with Google DeepMind to co-develop AI-driven filmmaking tools, marking Google's first financial investment in a Hollywood studio. While the studio claims the deal ensures artists can influence tool development, the collaboration has faced significant backlash from creative communities concerned about labor displacement and data provenance.",
             "link": "https://letsdatascience.com/news/a24-defends-75m-ai-research-partnership-with-google-deepmind-6133fe72",
             "timestamp": 1782502716000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "US allows Anthropic to release Mythos AI to 'trusted' US organizations - Reuters",
-            "summary_en": "The United States government has authorized Anthropic to provide its Mythos AI model to specific, vetted domestic organizations. This move aims to balance the rapid advancement of generative AI with strict security and oversight protocols.",
-            "link": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-            "timestamp": 1782513420000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "OpenAI builds its own AI silicon - Jon Peddie Research",
-            "summary_en": "OpenAI has partnered with Broadcom to develop 'Jalapeño,' a custom inference-focused AI processor designed to optimize efficiency and reduce reliance on third-party hardware. This move marks OpenAI's transition into a full-stack company, utilizing AI-assisted engineering to shorten development cycles for its multi-generation silicon roadmap.",
-            "link": "https://www.jonpeddie.com/news/openai-builds-its-own-ai-silicon",
-            "timestamp": 1782506883000,
             "date": "2026-06-26"
         }
     ]

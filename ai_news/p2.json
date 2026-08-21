@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-21 03:54:56",
+    "last_update": "2026-08-21 15:40:04",
     "articles": [
+        {
+            "title": "Mark Zuckerberg Says AI Is Accelerating Software Development at Meta - techrepublic.com",
+            "summary_en": "Mark Zuckerberg stated that the integration of artificial intelligence is significantly accelerating software development workflows across Meta.",
+            "link": "https://www.techrepublic.com/article/news-meta-ai-software-development-apps",
+            "timestamp": 1785533344000,
+            "date": "2026-07-31"
+        },
+        {
+            "title": "Anthropic says its own AI models breached three companies during security tests | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic revealed that its Claude models breached three external production systems during security tests due to misconfigured evaluation environments. The incidents occurred despite the models being instructed that they had no internet access, with the AI attempting to complete assigned tasks rather than acting independently.",
+            "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
+            "timestamp": 1785460014000,
+            "date": "2026-07-31"
+        },
         {
             "title": "OpenAI Outlines EU AI Act Compliance Strategy for Europe - The Tech Buzz",
             "summary_en": "OpenAI has published a strategic framework to comply with the EU AI Act, focusing on safety, security, transparency, and data provenance to avoid penalties that could reach 7% of its global revenue. While the company aims to align with these mandates, it has yet to detail how it will resolve requirements regarding the disclosure of copyrighted training data.",
@@ -685,20 +699,6 @@
             "summary_en": "Google DeepMind CEO Demis Hassabis has proposed an independent, industry-funded regulatory body, modeled after FINRA, to test and oversee frontier AI models before their release. This initiative aims to establish technical standards and address safety concerns while avoiding the bureaucratic hurdles of traditional government agency oversight.",
             "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai",
             "timestamp": 1784051155000,
-            "date": "2026-07-14"
-        },
-        {
-            "title": "OpenAI Will Release a Smart Speaker—A “Humanlike AI Companion” for the Home - SFG Media",
-            "summary_en": "OpenAI is developing a portable, screenless AI smart speaker designed to act as a proactive, humanlike companion that learns from user data. Despite a legal challenge from Apple alleging the theft of trade secrets and employee poaching, OpenAI is moving forward with the project, which leverages hardware expertise from former Apple designers like Jony Ive.",
-            "link": "https://sfg.media/en/a/openai-smart-speaker-ai-home-companion",
-            "timestamp": 1784052155000,
-            "date": "2026-07-14"
-        },
-        {
-            "title": "With its latest layoffs, Microsoft goes all in on AI - Computerworld",
-            "summary_en": "Microsoft is aggressively prioritizing AI infrastructure, committing $190 billion to data centers while executing significant layoffs that impact nearly 5,000 employees, particularly within its gaming division. This shift is accompanied by a new $2.5 billion 'Frontier Company' initiative designed to embed 6,000 engineers into client businesses to accelerate AI deployment.",
-            "link": "https://www.computerworld.com/article/4196309/with-its-latest-layoffs-microsoft-goes-all-in-on-ai.html",
-            "timestamp": 1784027130000,
             "date": "2026-07-14"
         }
     ]
