@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-08-20 16:19:28",
+    "last_update": "2026-08-21 16:17:19",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1784023200000,
+            "date": "2026-07-14",
+            "title": "How to manage AI investments in the agentic era",
+            "summary_kr": "기업은 단순히 토큰 비용에 의존하기보다 실제 업무 성과와 가치 창출을 기준으로 AI 투자를 관리하고, 상세한 데이터 분석과 거버넌스를 통해 워크플로우별 비용 효율성을 최적화해야 합니다.",
+            "summary_en": "Enterprises should manage AI investments by focusing on actual business outcomes and value per dollar rather than just token costs, while leveraging granular analytics and governance to optimize workflow efficiency.",
+            "link": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784044800000,
+            "date": "2026-07-14",
+            "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
+            "summary_kr": "본 기사는 NVIDIA NeMo 프레임워크와 자율 AI 에이전트를 결합하여 반복적인 실험 인프라 구축부터 고도화된 RL 학습까지 전 과정을 자동화하는 차세대 연구 워크플로우를 제시합니다.",
+            "summary_en": "This article presents a next-generation research workflow that integrates the NVIDIA NeMo framework with autonomous AI agents to automate the entire lifecycle of RL research, from infrastructure setup to complex model training.",
+            "link": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784044800000,
+            "date": "2026-07-14",
+            "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
+            "summary_kr": "엔비디아 Cosmos 3 모델에 TAO 에이전트 기술과 LoRA 미세조정을 결합하면, 수일이 소요되던 비전 추론 모델의 도메인 특화 과정을 단 하루 만에 자동화하여 정확도를 93% 이상으로 대폭 향상할 수 있습니다.",
+            "summary_en": "By combining NVIDIA Cosmos 3 with TAO agentic fine-tuning and LoRA, developers can automate the domain-specific post-training of vision reasoning models, boosting accuracy to over 93% in just one day.",
+            "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1784034000000,
+            "date": "2026-07-14",
+            "title": "Reconstructing Pelé’s “lost” goal",
+            "summary_kr": "구글 딥마인드는 수천 개의 역사적 자료와 첨단 AI 기술을 결합하여, 기록으로 남지 않았던 펠레의 전설적인 1959년 '잃어버린 골'을 성공적으로 재현했습니다.",
+            "summary_en": "Google DeepMind has successfully reconstructed Pelé's legendary 'lost' goal from 1959 by synthesizing thousands of historical records with advanced AI technologies.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783987200000,
+            "date": "2026-07-14",
+            "title": "Introducing Claude for Teachers",
+            "summary_kr": "앤스로픽은 미국 K-12 교사들에게 표준 교육 과정과 연동된 프리미엄 AI 도구와 리소스를 무료로 제공하여 수업 설계 및 맞춤형 학습 지원을 강화합니다.",
+            "summary_en": "Anthropic is launching 'Claude for Teachers' to provide US K-12 educators with free access to premium AI tools, evidence-based curricula, and ecosystem integrations to streamline lesson planning and personalized instruction.",
+            "link": "https://www.anthropic.com/news/claude-for-teachers"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1783987200000,
+            "date": "2026-07-14",
+            "title": "Anthropic commits $10 million to Canadian AI research",
+            "summary_kr": "앤스로픽(Anthropic)이 캐나다의 AI 연구 생태계 강화를 위해 주요 연구 기관 및 대학에 1,000만 캐나다 달러를 투자하고 협력을 확대합니다.",
+            "summary_en": "Anthropic is investing $10 million CAD to support Canadian research institutions and universities, aiming to advance the development of beneficial and responsible AI.",
+            "link": "https://www.anthropic.com/news/canadian-ai-research"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1783987200000,
@@ -846,60 +900,6 @@
             "summary_kr": "마이크로소프트는 AI를 활용해 범죄 인프라의 연관성을 분석함으로써 개별 악성코드가 아닌 사이버 범죄 공급망 전체를 효율적으로 차단하는 전략을 도입했습니다.",
             "summary_en": "Microsoft is pivoting to a supply-chain disruption strategy, utilizing AI to analyze and dismantle interconnected cybercrime infrastructures rather than targeting individual threats in isolation.",
             "link": "https://blogs.microsoft.com/on-the-issues/2026/06/24/scaling-cybercrime-disruption-through-innovation-and-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782318600000,
-            "date": "2026-06-24",
-            "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
-            "summary_kr": "자율주행 및 로보틱스의 핵심인 BEV 풀링 연산의 병목 현상을 해결하기 위해, NVIDIA GPU 아키텍처에 최적화된 BEVPoolV3 기술과 성능 최적화 워크플로우를 소개합니다.",
-            "summary_en": "This article introduces BEVPoolV3 and a systematic optimization workflow to overcome latency bottlenecks in BEV pooling, a critical operation for autonomous and physical AI applications on NVIDIA GPUs.",
-            "link": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782318067000,
-            "date": "2026-06-24",
-            "title": "How AI is finding more answers about rare diseases",
-            "summary_kr": "오픈소스 도구인 Talos는 최신 유전체 지식을 바탕으로 저장된 데이터를 자동 재분석하여 희귀 질환의 진단 효율성을 지속 가능하게 높여줍니다.",
-            "summary_en": "Talos, an open-source tool, enables sustainable and scalable rare disease diagnosis by automating the iterative reanalysis of genomic data against the latest scientific evidence.",
-            "link": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1782316800000,
-            "date": "2026-06-24",
-            "title": "Introducing computer use in Gemini 3.5 Flash",
-            "summary_kr": "구글은 제미나이 3.5 플래시에 컴퓨터 사용 기능을 내장하여 개발자들이 브라우저, 데스크톱 등 다양한 환경에서 복잡한 작업을 자율적으로 수행하는 에이전트를 구축할 수 있게 했습니다.",
-            "summary_en": "Google has integrated computer use capabilities directly into Gemini 3.5 Flash, enabling developers to build autonomous agents that can see, reason, and execute tasks across browser, desktop, and mobile environments.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782299700000,
-            "date": "2026-06-24",
-            "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 혁신적인 냉각 기술 도입과 효율적인 인프라 설계를 통해 AI 데이터센터 확장과 수자원 사용량 감소를 동시에 달성하며, 2030년까지 '워터 포지티브(Water Positive)' 기업이 되겠다는 목표를 향해 순항하고 있습니다.",
-            "summary_en": "Microsoft is successfully decoupling AI datacenter growth from water consumption by deploying innovative cooling technologies and efficient designs, marking significant progress toward its 2030 'water positive' commitment.",
-            "link": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782280800000,
-            "date": "2026-06-24",
-            "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-            "summary_kr": "OpenAI가 브로드컴과 협력하여 LLM 추론에 최적화된 맞춤형 AI 가속기 '할라피뇨(Jalapeño)'를 공개하며, 인프라 풀스택 전략을 통해 차세대 AI 성능과 효율성을 극대화합니다.",
-            "summary_en": "OpenAI has partnered with Broadcom to unveil 'Jalapeño,' a custom inference chip optimized for LLMs, marking a strategic move to vertically integrate its infrastructure and deliver superior performance and energy efficiency.",
-            "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1782243600000,
-            "date": "2026-06-23",
-            "title": "Towards a world where no one is surprised by a natural disaster",
-            "summary_kr": "구글은 AI 기반의 예측 모델과 위성 기술을 활용해 홍수, 산불, 태풍 등 자연재해에 대한 조기 탐지 및 대응 역량을 강화하여 재난으로부터 인명을 보호하는 것을 목표로 합니다.",
-            "summary_en": "Google is leveraging AI-powered forecasting models and satellite technology to enhance early detection and response to natural disasters like floods, wildfires, and cyclones, aiming to ensure no one is taken by surprise during crises.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters"
         }
     ]
 }

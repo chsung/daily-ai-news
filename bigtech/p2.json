@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-08-20 16:19:28",
+    "last_update": "2026-08-21 16:17:19",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1785801600000,
+            "date": "2026-08-04",
+            "title": "Disrupting a Criminal Scam Operation",
+            "summary_kr": "OpenAI는 캄보디아를 거점으로 투자·로맨스·사칭 등 다각적인 사기 행각을 벌이던 조직의 ChatGPT 계정을 적발하여 차단했습니다. 이번 조치는 범죄 조직이 AI를 악용해 피해자를 기망하는 수법이 점차 정교해지고 있음을 시사합니다.",
+            "summary_en": "OpenAI dismantled a Cambodia-based criminal network that leveraged ChatGPT to facilitate diverse scams, including investment fraud, romance schemes, and impersonation. This operation highlights the evolving tactics of organized groups using AI to execute sophisticated, multi-faceted deception.",
+            "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785514739000,
+            "date": "2026-07-31",
+            "title": "How SNTUC’s Siow Shong Seng is setting the tone for an AI-ready workforce in Singapore with Microsoft 365 Copilot  - Source Asia",
+            "summary_kr": "싱가포르 SNTUC의 Siow Shong Seng은 마이크로소프트 365 Copilot과 AI 에이전트를 도입하여 업무 생산성을 혁신하고, 직원들의 AI 활용 능력을 강화함으로써 미래 노동 시장에 대비하고 있습니다.",
+            "summary_en": "Siow Shong Seng at SNTUC is driving workforce digital transformation by integrating Microsoft 365 Copilot and custom AI agents to automate workflows and prepare employees for an AI-integrated future.",
+            "link": "https://news.microsoft.com/source/asia/features/how-sntucs-siow-shong-seng-is-setting-the-tone-for-an-ai-ready-workforce-in-singapore-with-microsoft-365-copilot"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785510782000,
+            "date": "2026-07-31",
+            "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
+            "summary_kr": "NVIDIA Video Codec SDK 13.1은 AV1 B-프레임 확장 및 반복 인코딩과 UHQ 튜닝의 통합을 통해 비디오 품질과 효율성을 극대화했습니다. 또한 제로 카피 트랜스코딩과 정밀한 디코딩 통계 기능을 추가하여 개발자에게 더욱 최적화된 영상 파이프라인 구축 환경을 제공합니다.",
+            "summary_en": "NVIDIA Video Codec SDK 13.1 enhances video quality and efficiency by introducing AV1 hierarchical B-frames and integrating UHQ tuning with iterative encoding. The update also delivers zero-copy transcoding and detailed per-macroblock decode statistics to streamline high-performance video pipeline development.",
+            "link": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785510000000,
+            "date": "2026-07-31",
+            "title": "Advancing responsible AI across Europe",
+            "summary_kr": "OpenAI는 EU AI 법 준수를 위해 안전성, 투명성, 거버넌스 프레임워크를 강화하며 책임 있는 AI 개발을 위한 유럽의 규제 기준을 적극적으로 지지하고 있습니다.",
+            "summary_en": "OpenAI is strengthening its safety, transparency, and governance frameworks to align with the EU AI Act, actively supporting European regulatory standards to foster responsible AI development.",
+            "link": "https://openai.com/index/advancing-responsible-ai-across-europe"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785510000000,
+            "date": "2026-07-31",
+            "title": "Building abundant intelligence",
+            "summary_kr": "AI 가용성과 경제성을 높이기 위해 인프라, 모델, 시스템 전반의 효율성을 최적화하는 '풍요로운 지능' 전략을 통해 AI 도입의 선순환 구조를 구축하고 있습니다.",
+            "summary_en": "The company is driving a virtuous cycle of AI adoption by optimizing the efficiency of its entire stack—infrastructure, models, and systems—to make intelligence more capable, affordable, and accessible.",
+            "link": "https://openai.com/index/building-abundant-intelligence"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785481200000,
+            "date": "2026-07-31",
+            "title": "Univé builds an AI-ready workforce",
+            "summary_kr": "네덜란드 보험사 Univé는 강력한 리더십과 체계적인 거버넌스를 바탕으로 전 직원이 AI를 활용해 업무를 재설계하는 'AI 역량 강화' 전략을 성공적으로 추진하고 있습니다.",
+            "summary_en": "Dutch insurer Univé is successfully building an AI-ready workforce by combining strong leadership and robust governance to empower employees to actively redesign their own workflows.",
+            "link": "https://openai.com/index/unive"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1785451384000,
@@ -846,60 +900,6 @@
             "summary_kr": "NVIDIA Nemotron 챌린지는 AI 추론 성능 향상의 핵심이 단순한 데이터 양보다 검증 가능한 'Chain-of-Thought' 데이터 구축과 토큰 효율성을 고려한 체계적인 엔지니어링 워크플로우에 있음을 입증했습니다.",
             "summary_en": "The NVIDIA Nemotron challenge demonstrated that superior AI reasoning performance stems from systematic engineering workflows, specifically emphasizing verifiable chain-of-thought data and token-efficient design over mere data scaling.",
             "link": "https://developer.nvidia.com/blog/lessons-from-the-leaderboard-what-5000-kagglers-taught-us-about-improving-ai-reasoning"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784023200000,
-            "date": "2026-07-14",
-            "title": "How to manage AI investments in the agentic era",
-            "summary_kr": "기업은 단순히 토큰 비용에 의존하기보다 실제 업무 성과와 가치 창출을 기준으로 AI 투자를 관리하고, 상세한 데이터 분석과 거버넌스를 통해 워크플로우별 비용 효율성을 최적화해야 합니다.",
-            "summary_en": "Enterprises should manage AI investments by focusing on actual business outcomes and value per dollar rather than just token costs, while leveraging granular analytics and governance to optimize workflow efficiency.",
-            "link": "https://openai.com/index/managing-ai-investments-in-agentic-era"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784044800000,
-            "date": "2026-07-14",
-            "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo",
-            "summary_kr": "본 기사는 NVIDIA NeMo 프레임워크와 자율 AI 에이전트를 결합하여 반복적인 실험 인프라 구축부터 고도화된 RL 학습까지 전 과정을 자동화하는 차세대 연구 워크플로우를 제시합니다.",
-            "summary_en": "This article presents a next-generation research workflow that integrates the NVIDIA NeMo framework with autonomous AI agents to automate the entire lifecycle of RL research, from infrastructure setup to complex model training.",
-            "link": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784044800000,
-            "date": "2026-07-14",
-            "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
-            "summary_kr": "엔비디아 Cosmos 3 모델에 TAO 에이전트 기술과 LoRA 미세조정을 결합하면, 수일이 소요되던 비전 추론 모델의 도메인 특화 과정을 단 하루 만에 자동화하여 정확도를 93% 이상으로 대폭 향상할 수 있습니다.",
-            "summary_en": "By combining NVIDIA Cosmos 3 with TAO agentic fine-tuning and LoRA, developers can automate the domain-specific post-training of vision reasoning models, boosting accuracy to over 93% in just one day.",
-            "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1784034000000,
-            "date": "2026-07-14",
-            "title": "Reconstructing Pelé’s “lost” goal",
-            "summary_kr": "구글 딥마인드는 수천 개의 역사적 자료와 첨단 AI 기술을 결합하여, 기록으로 남지 않았던 펠레의 전설적인 1959년 '잃어버린 골'을 성공적으로 재현했습니다.",
-            "summary_en": "Google DeepMind has successfully reconstructed Pelé's legendary 'lost' goal from 1959 by synthesizing thousands of historical records with advanced AI technologies.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783987200000,
-            "date": "2026-07-14",
-            "title": "Introducing Claude for Teachers",
-            "summary_kr": "앤스로픽은 미국 K-12 교사들에게 표준 교육 과정과 연동된 프리미엄 AI 도구와 리소스를 무료로 제공하여 수업 설계 및 맞춤형 학습 지원을 강화합니다.",
-            "summary_en": "Anthropic is launching 'Claude for Teachers' to provide US K-12 educators with free access to premium AI tools, evidence-based curricula, and ecosystem integrations to streamline lesson planning and personalized instruction.",
-            "link": "https://www.anthropic.com/news/claude-for-teachers"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783987200000,
-            "date": "2026-07-14",
-            "title": "Anthropic commits $10 million to Canadian AI research",
-            "summary_kr": "앤스로픽(Anthropic)이 캐나다의 AI 연구 생태계 강화를 위해 주요 연구 기관 및 대학에 1,000만 캐나다 달러를 투자하고 협력을 확대합니다.",
-            "summary_en": "Anthropic is investing $10 million CAD to support Canadian research institutions and universities, aiming to advance the development of beneficial and responsible AI.",
-            "link": "https://www.anthropic.com/news/canadian-ai-research"
         }
     ]
 }

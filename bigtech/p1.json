@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-08-20 16:19:28",
+    "last_update": "2026-08-21 16:17:19",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1787328000000,
+            "date": "2026-08-21",
+            "title": "What does “full-stack” AI actually mean?",
+            "summary_kr": "구글 딥마인드의 페이지 베일리는 AI의 '풀스택' 개념을 인프라, 보안, 연구, 모델 및 도구, 제품이라는 5가지 핵심 계층의 유기적 결합으로 정의합니다.",
+            "summary_en": "Google DeepMind's Paige Bailey defines 'full-stack' AI as the seamless integration of five critical layers: infrastructure, security, research, models & tooling, and products.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787324400000,
+            "date": "2026-08-21",
+            "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+            "summary_kr": "NVIDIA DSX MaxLPS는 정적인 전력 할당 방식에서 벗어나 동적 전력 관리와 냉각 효율화를 통해 제한된 전력 예산 내에서 AI 공장의 컴퓨팅 성능을 극대화합니다.",
+            "summary_en": "NVIDIA DSX MaxLPS maximizes AI factory throughput within fixed power constraints by replacing static provisioning with dynamic power allocation and enhanced thermal efficiency.",
+            "link": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787317200000,
+            "date": "2026-08-21",
+            "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose",
+            "summary_kr": "NVIDIA가 개발한 범용 AI 에이전트 아키텍처 AVO는 지속적인 자율 운영과 피드백 루프를 통해 복잡한 GPU 커널 최적화 및 ARC-AGI-3 벤치마크에서 뛰어난 성과를 입증했습니다.",
+            "summary_en": "NVIDIA's AVO, a general-purpose agent architecture, demonstrates high-level autonomous performance in complex tasks like GPU-kernel optimization and the ARC-AGI-3 benchmark through sustained, long-running agentic operations.",
+            "link": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787317200000,
+            "date": "2026-08-21",
+            "title": "Where Security Fits in an AI Agent Stack",
+            "summary_kr": "AI 에이전트의 복잡성과 자율성이 증가함에 따라, 행동을 유도하는 '하니스(harness)' 계층과 권한을 제한하는 '인프라' 계층의 다층적 보안 체계 구축이 필수적입니다.",
+            "summary_en": "As AI agents grow more autonomous, establishing a multi-layered security architecture that combines behavioral guidance at the harness level with strict authorization at the infrastructure level is essential.",
+            "link": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787209200000,
+            "date": "2026-08-20",
+            "title": "Introducing AI Futures",
+            "summary_kr": "OpenAI의 전략 미래 팀은 AI 기술 발달로 인해 권력이 인간의 협력 없이도 유지될 수 있는 상황에서, 민주주의 사회의 개인의 자유와 주체성을 어떻게 보존할 것인가라는 구조적 문제를 탐구합니다.",
+            "summary_en": "OpenAI's Strategic Futures team explores how to preserve individual rights and agency in free societies, addressing the structural risk that AI advancements could allow power to be sustained without human cooperation.",
+            "link": "https://openai.com/index/introducing-ai-futures"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1787097600000,
+            "date": "2026-08-19",
+            "title": "Grok Build on web and mobile",
+            "summary_kr": "xAI의 'Grok Build'가 모든 요금제와 기기로 확대되어, 사용자가 대화만으로 웹 및 모바일 앱을 즉시 생성하고 공유하며 API를 연동할 수 있게 되었습니다.",
+            "summary_en": "xAI's 'Grok Build' is now available across all plans and devices, allowing users to instantly create, share, and integrate AI-powered web and mobile apps directly through natural language prompts.",
+            "link": "https://x.ai/news/grok-build-for-everyone"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1787241600000,
@@ -846,60 +900,6 @@
             "summary_kr": "xAI의 'Imagine Video 1.5'는 이미지 및 음성 참조 기능을 통해 캐릭터와 목소리를 일관되게 유지하며, 1080p 해상도의 텍스트 및 이미지 기반 영상 생성을 지원합니다.",
             "summary_en": "xAI's 'Imagine Video 1.5' now supports image and voice referencing for character consistency, alongside native 1080p text-to-video and image-to-video generation capabilities.",
             "link": "https://x.ai/news/grok-imagine-video-1-5-references"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785801600000,
-            "date": "2026-08-04",
-            "title": "Disrupting a Criminal Scam Operation",
-            "summary_kr": "OpenAI는 캄보디아를 거점으로 투자·로맨스·사칭 등 다각적인 사기 행각을 벌이던 조직의 ChatGPT 계정을 적발하여 차단했습니다. 이번 조치는 범죄 조직이 AI를 악용해 피해자를 기망하는 수법이 점차 정교해지고 있음을 시사합니다.",
-            "summary_en": "OpenAI dismantled a Cambodia-based criminal network that leveraged ChatGPT to facilitate diverse scams, including investment fraud, romance schemes, and impersonation. This operation highlights the evolving tactics of organized groups using AI to execute sophisticated, multi-faceted deception.",
-            "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785514739000,
-            "date": "2026-07-31",
-            "title": "How SNTUC’s Siow Shong Seng is setting the tone for an AI-ready workforce in Singapore with Microsoft 365 Copilot  - Source Asia",
-            "summary_kr": "싱가포르 SNTUC의 Siow Shong Seng은 마이크로소프트 365 Copilot과 AI 에이전트를 도입하여 업무 생산성을 혁신하고, 직원들의 AI 활용 능력을 강화함으로써 미래 노동 시장에 대비하고 있습니다.",
-            "summary_en": "Siow Shong Seng at SNTUC is driving workforce digital transformation by integrating Microsoft 365 Copilot and custom AI agents to automate workflows and prepare employees for an AI-integrated future.",
-            "link": "https://news.microsoft.com/source/asia/features/how-sntucs-siow-shong-seng-is-setting-the-tone-for-an-ai-ready-workforce-in-singapore-with-microsoft-365-copilot"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785510782000,
-            "date": "2026-07-31",
-            "title": "NVIDIA Video Codec SDK 13.1: Zero-Copy Transcode, AV1 B-Frames, and Frame-Accurate Seek",
-            "summary_kr": "NVIDIA Video Codec SDK 13.1은 AV1 B-프레임 확장 및 반복 인코딩과 UHQ 튜닝의 통합을 통해 비디오 품질과 효율성을 극대화했습니다. 또한 제로 카피 트랜스코딩과 정밀한 디코딩 통계 기능을 추가하여 개발자에게 더욱 최적화된 영상 파이프라인 구축 환경을 제공합니다.",
-            "summary_en": "NVIDIA Video Codec SDK 13.1 enhances video quality and efficiency by introducing AV1 hierarchical B-frames and integrating UHQ tuning with iterative encoding. The update also delivers zero-copy transcoding and detailed per-macroblock decode statistics to streamline high-performance video pipeline development.",
-            "link": "https://developer.nvidia.com/blog/nvidia-video-codec-sdk-13-1-zero-copy-transcode-av1-b-frames-and-frame-accurate-seek"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785510000000,
-            "date": "2026-07-31",
-            "title": "Advancing responsible AI across Europe",
-            "summary_kr": "OpenAI는 EU AI 법 준수를 위해 안전성, 투명성, 거버넌스 프레임워크를 강화하며 책임 있는 AI 개발을 위한 유럽의 규제 기준을 적극적으로 지지하고 있습니다.",
-            "summary_en": "OpenAI is strengthening its safety, transparency, and governance frameworks to align with the EU AI Act, actively supporting European regulatory standards to foster responsible AI development.",
-            "link": "https://openai.com/index/advancing-responsible-ai-across-europe"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785510000000,
-            "date": "2026-07-31",
-            "title": "Building abundant intelligence",
-            "summary_kr": "AI 가용성과 경제성을 높이기 위해 인프라, 모델, 시스템 전반의 효율성을 최적화하는 '풍요로운 지능' 전략을 통해 AI 도입의 선순환 구조를 구축하고 있습니다.",
-            "summary_en": "The company is driving a virtuous cycle of AI adoption by optimizing the efficiency of its entire stack—infrastructure, models, and systems—to make intelligence more capable, affordable, and accessible.",
-            "link": "https://openai.com/index/building-abundant-intelligence"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785481200000,
-            "date": "2026-07-31",
-            "title": "Univé builds an AI-ready workforce",
-            "summary_kr": "네덜란드 보험사 Univé는 강력한 리더십과 체계적인 거버넌스를 바탕으로 전 직원이 AI를 활용해 업무를 재설계하는 'AI 역량 강화' 전략을 성공적으로 추진하고 있습니다.",
-            "summary_en": "Dutch insurer Univé is successfully building an AI-ready workforce by combining strong leadership and robust governance to empower employees to actively redesign their own workflows.",
-            "link": "https://openai.com/index/unive"
         }
     ]
 }
