@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-22 03:46:53",
+    "last_update": "2026-08-22 15:28:41",
     "articles": [
+        {
+            "title": "How Much of the Internet Is Written With AI? - Pew Research Center",
+            "summary_en": "A Pew Research Center analysis indicates that 10% of internet content now exhibits signs of AI authorship, a figure that jumps to over one-third for pages published since the release of ChatGPT. AI-generated text is increasingly concentrated on .com domains, which show adoption rates ten times higher than .edu or .gov sites.",
+            "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai",
+            "timestamp": 1787241349000,
+            "date": "2026-08-20"
+        },
+        {
+            "title": "Nvidia Research: AI Agent Control Beats Raw Model Power - The Tech Buzz",
+            "summary_en": "New research from Nvidia suggests that for enterprise AI deployment, robust fine-tuning and oversight 'harnesses' are more critical for reliability than the raw power of foundation models. This finding encourages companies to prioritize deployment control mechanisms over simply waiting for more advanced model architectures.",
+            "link": "https://www.techbuzz.ai/articles/nvidia-research-ai-agent-control-beats-raw-model-power",
+            "timestamp": 1787343900000,
+            "date": "2026-08-21"
+        },
         {
             "title": "Nvidia Pays $6 Billion to License Poolside AI Model-Development Software | PYMNTS.com - PYMNTS.com",
             "summary_en": "Nvidia is investing $1 billion into Poolside at a $12 billion valuation and paying $6 billion to license its AI model-development software. This deal allows Poolside to scale its compute capabilities while enabling Nvidia to further expand its ecosystem of AI technology and talent acquisitions.",
@@ -686,20 +700,6 @@
             "link": "https://futurumgroup.com/insights/teksystems-joins-claude-partner-network-to-enhance-ai-solutions-for-enterprises",
             "timestamp": 1785681450000,
             "date": "2026-08-02"
-        },
-        {
-            "title": "AI coding agents can modernize research software but can't judge if the science is right - the-decoder.com",
-            "summary_en": "A report from OpenAI and academic partners demonstrates that AI coding agents can drastically modernize fragile research software, achieving performance speedups of over 60 times in some cases. However, researchers warn that these agents are prone to 'confidently wrong' outputs, necessitating independent human verification to ensure scientific accuracy.",
-            "link": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right",
-            "timestamp": 1785594587000,
-            "date": "2026-08-01"
-        },
-        {
-            "title": "How Amazon's AI chip business reached a $25B revenue run rate - About Amazon",
-            "summary_en": "Amazon’s custom-designed chip business, featuring the Trainium and Graviton lines, has surpassed a $25 billion annual revenue run rate. This growth is driven by massive infrastructure commitments from major AI labs, including Anthropic and OpenAI, seeking better price-performance efficiency.",
-            "link": "https://www.aboutamazon.com/news/aws/amazon-ai-chips-business-history",
-            "timestamp": 1785528433000,
-            "date": "2026-07-31"
         }
     ]
 }
