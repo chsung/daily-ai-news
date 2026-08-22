@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-21 15:40:04",
+    "last_update": "2026-08-22 03:46:53",
     "articles": [
+        {
+            "title": "Nvidia Pays $6 Billion to License Poolside AI Model-Development Software | PYMNTS.com - PYMNTS.com",
+            "summary_en": "Nvidia is investing $1 billion into Poolside at a $12 billion valuation and paying $6 billion to license its AI model-development software. This deal allows Poolside to scale its compute capabilities while enabling Nvidia to further expand its ecosystem of AI technology and talent acquisitions.",
+            "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-pays-6-billion-to-license-poolside-ai-model-development-software",
+            "timestamp": 1787337756000,
+            "date": "2026-08-21"
+        },
+        {
+            "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data - Google Research",
+            "summary_en": "Google Research has developed the Biomarker Discovery Framework, a multi-agent AI system that automates the analysis of wearable sensor data to identify clinically meaningful physiological biomarkers. Tested on over 9,000 participants, the system accelerates discovery by combining iterative hypothesis generation with rigorous statistical validation to surface novel insights for mental health and metabolic conditions.",
+            "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data",
+            "timestamp": 1787332013000,
+            "date": "2026-08-21"
+        },
         {
             "title": "Google Cloud Powers Mirendil’s Frontier AI Research With TPUs and NVIDIA GPUs - Cloud Wars",
             "summary_en": "Mirendil, a frontier AI research lab, has partnered with Google Cloud to utilize its AI Hypercomputer, which offers a flexible mix of TPUs and NVIDIA GPUs. This infrastructure enables Mirendil to accelerate the entire AI research loop, including model pre-training and experimentation.",
@@ -686,20 +700,6 @@
             "link": "https://www.aboutamazon.com/news/aws/amazon-ai-chips-business-history",
             "timestamp": 1785528433000,
             "date": "2026-07-31"
-        },
-        {
-            "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions - the-decoder.com",
-            "summary_en": "OpenAI has introduced 'Astra,' a new model family designed to perform continuous, multi-agent reasoning over extended periods. The model demonstrated its capabilities by solving ten previously unsolved mathematical problems in fields like group theory and high-dimensional geometry.",
-            "link": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions",
-            "timestamp": 1785576801000,
-            "date": "2026-08-01"
-        },
-        {
-            "title": "China’s open-weight model lead exposes America’s AI blind spot - CNBC",
-            "summary_en": "A coalition of major U.S. tech companies is urging the government to prioritize open-weight AI models to counter China’s rapidly expanding lead in the global open-source ecosystem. Proponents argue that open models enhance security transparency and reduce dependency on proprietary closed systems.",
-            "link": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
-            "timestamp": 1785437502000,
-            "date": "2026-07-30"
         }
     ]
 }
