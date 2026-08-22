@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-08-21 16:17:19",
+    "last_update": "2026-08-22 16:08:52",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787329264000,
+            "date": "2026-08-21",
+            "title": "GPU-Accelerated Clustering for Financial Instruments at Scale",
+            "summary_kr": "AdaptGrow는 GPU 가속 SymNMF를 활용하여 대규모 금융 데이터의 클러스터링 및 요인 분석 효율을 극대화하며, 단일 GPU부터 다중 노드까지 확장 가능한 구조적 변화 탐지 파이프라인을 제공합니다.",
+            "summary_en": "AdaptGrow leverages GPU-accelerated SymNMF to maximize the efficiency of clustering and factor analysis for large-scale financial data, providing a scalable pipeline that detects structural breaks from single-GPU to multi-node environments.",
+            "link": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1787270400000,
+            "date": "2026-08-21",
+            "title": "Grok Bot is now included with more plans",
+            "summary_kr": "Grok Bot의 활용성을 높이기 위해 슈퍼그록(SuperGrok) 및 커서(Cursor)의 유료 플랜 전반으로 서비스 범위를 대폭 확장했습니다.",
+            "summary_en": "Access to Grok Bot has been significantly expanded to include all SuperGrok and Cursor paid plans, empowering users with more versatile AI digital teammates.",
+            "link": "https://x.ai/news/grok-bot-more-plans"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1787270400000,
+            "date": "2026-08-21",
+            "title": "Grok 4.6 on Google Enterprise Agent Platform",
+            "summary_kr": "xAI의 최신 플래그십 모델인 Grok 4.6이 구글 엔터프라이즈 에이전트 플랫폼에 탑재되어 모델 가든을 통해 개발자들에게 제공됩니다.",
+            "summary_en": "xAI's flagship model, Grok 4.6, is now available on the Google Enterprise Agent Platform, enabling developers to access it through Model Garden.",
+            "link": "https://x.ai/news/grok-4-6-vertex-ai"
+        },
         {
             "company": "Google",
             "timestamp": 1787328000000,
@@ -873,33 +900,6 @@
             "summary_kr": "OpenAI의 차세대 모델 'Astra'가 수학 및 이론 컴퓨터 과학 분야의 10년 이상 해결되지 않았던 10가지 난제를 성공적으로 해결하며 인공지능이 복잡한 학술 연구를 가속화하는 핵심 도구임을 입증했습니다.",
             "summary_en": "OpenAI's next-generation model, Astra, has successfully solved ten long-standing problems in mathematics and theoretical computer science, demonstrating AI's potential to accelerate complex academic discovery.",
             "link": "https://openai.com/index/ten-advances-in-mathematics"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785536177000,
-            "date": "2026-07-31",
-            "title": "Co-Designing AI Model Attention for Fast, Interactive Long-Context Inference",
-            "summary_kr": "본 기사는 긴 문맥 처리가 중요해진 AI 환경에서 하드웨어 성능을 최적화하기 위해 모델 설계 단계부터 GPU 구조를 고려하는 'AI 모델 공동 설계(Co-design)'의 중요성과 실무 지침을 다룹니다.",
-            "summary_en": "This article explores the importance of AI model co-design, where model architectures are tailored to GPU hardware to optimize inference throughput and interactivity for long-context and agentic workloads.",
-            "link": "https://developer.nvidia.com/blog/co-designing-ai-model-attention-for-fast-interactive-long-context-inference"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1785524400000,
-            "date": "2026-07-31",
-            "title": "Simplify your morning with this vibe-coded schedule app.",
-            "summary_kr": "구글 엔지니어가 개발한 '글랜스보드(Glanceboard)'는 생성형 AI를 활용해 아침 일정과 날씨 정보를 감성적인 일러스트로 e-잉크 디스플레이에 시각화하여 스트레스 없는 일상을 돕습니다.",
-            "summary_en": "Developed by a Google engineer, 'Glanceboard' utilizes generative AI to visualize daily schedules and weather as personalized illustrations on an e-ink display, offering a stress-free, screen-free morning routine.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1785456000000,
-            "date": "2026-07-31",
-            "title": "Imagine Video 1.5 with References",
-            "summary_kr": "xAI의 'Imagine Video 1.5'는 이미지 및 음성 참조 기능을 통해 캐릭터와 목소리를 일관되게 유지하며, 1080p 해상도의 텍스트 및 이미지 기반 영상 생성을 지원합니다.",
-            "summary_en": "xAI's 'Imagine Video 1.5' now supports image and voice referencing for character consistency, alongside native 1080p text-to-video and image-to-video generation capabilities.",
-            "link": "https://x.ai/news/grok-imagine-video-1-5-references"
         }
     ]
 }
