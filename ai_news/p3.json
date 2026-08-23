@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-22 15:28:41",
+    "last_update": "2026-08-23 03:55:58",
     "articles": [
+        {
+            "title": "Toyota expands Nvidia collaboration for AI-powered vehicle development - Telecompaper",
+            "summary_en": "Toyota is expanding its strategic collaboration with Nvidia to accelerate the development of AI-powered vehicle technologies. This partnership builds on their existing relationship to further integrate high-performance computing into the next generation of automotive systems.",
+            "link": "https://www.telecompaper.com/news/toyota-expands-nvidia-collaboration-for-ai-powered-vehicle-development--1577171",
+            "timestamp": 1784179797000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "NVIDIA Unveils Edge AI Products Jetson T3000 and T2000; CEO Jensen Huang Accelerates Robotics Strategy in Japan - finance.biggo.com",
+            "summary_en": "Nvidia has introduced the new Jetson T3000 and T2000 Edge AI products as part of CEO Jensen Huang's broader push to expand the company's robotics strategy in the Japanese market. These hardware releases signify Nvidia's commitment to delivering specialized AI computing power for decentralized industrial and robotic applications.",
+            "link": "https://finance.biggo.com/news/be970c58-eaa5-44eb-bd8d-1266575a0f59",
+            "timestamp": 1784167560000,
+            "date": "2026-07-16"
+        },
         {
             "title": "Inside Anthropic’s state-by-state plan to ratchet up AI rules - Politico",
             "summary_en": "Anthropic is actively engaging in a state-by-state strategy to influence and strengthen legislative frameworks governing artificial intelligence development and deployment.",
@@ -686,20 +700,6 @@
             "link": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
             "timestamp": 1782514752000,
             "date": "2026-06-26"
-        },
-        {
-            "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them - WIRED",
-            "summary_en": "OpenAI is delaying the public release of its new GPT-5.6 models—Sol, Terra, and Luna—to comply with a Trump administration mandate requiring government pre-approval of initial users. While OpenAI views this as a temporary measure to ensure future availability, the lack of an established regulatory framework has created significant uncertainty regarding the government's role in AI product launches.",
-            "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval",
-            "timestamp": 1782493500000,
-            "date": "2026-06-26"
-        },
-        {
-            "title": "Tech industry grapples with Trump’s AI about-faces - Politico",
-            "summary_en": "The technology industry is currently navigating significant uncertainty as it anticipates potential shifts in artificial intelligence policy under a Trump administration.",
-            "link": "https://www.politico.com/news/2026/06/27/tech-trump-ai-silicon-valley-00978862",
-            "timestamp": 1782568800000,
-            "date": "2026-06-27"
         }
     ]
 }

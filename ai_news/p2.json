@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-22 15:28:41",
+    "last_update": "2026-08-23 03:55:58",
     "articles": [
+        {
+            "title": "Alibaba’s AI model Qwen3.8-Max made widely accessible ahead of open-weights release - South China Morning Post",
+            "summary_en": "Alibaba has unveiled its 2.4-trillion-parameter Qwen3.8-Max model, which features advanced native multimodal capabilities and specialized agentic task execution. Simultaneously, the company launched the QwenWork productivity platform to compete with international enterprise tools like ChatGPT Work and Claude Cowork.",
+            "link": "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release",
+            "timestamp": 1785726099000,
+            "date": "2026-08-03"
+        },
+        {
+            "title": "TEKsystems Joins Claude Partner Network to Enhance AI Solutions for Enterprises - The Futurum Group",
+            "summary_en": "TEKsystems has joined Anthropic's Claude Partner Network to offer specialized enterprise AI solutions, capitalizing on a market where over 84% of channel partners anticipate significant growth from AI software by 2026. This strategic alliance grants the firm access to essential technical resources and co-selling infrastructure within an ecosystem projected to reach $41.8 billion by 2029.",
+            "link": "https://futurumgroup.com/insights/teksystems-joins-claude-partner-network-to-enhance-ai-solutions-for-enterprises",
+            "timestamp": 1785681450000,
+            "date": "2026-08-02"
+        },
         {
             "title": "AI coding agents can modernize research software but can't judge if the science is right - the-decoder.com",
             "summary_en": "A report from OpenAI and academic partners demonstrates that AI coding agents can drastically modernize fragile research software, achieving performance speedups of over 60 times in some cases. However, researchers warn that these agents are prone to 'confidently wrong' outputs, necessitating independent human verification to ensure scientific accuracy.",
@@ -685,20 +699,6 @@
             "summary_en": "Nvidia is strengthening its foothold in the robotics sector through new partnerships with Japanese industrial giants Fanuc and Yaskawa Electric. CEO Jensen Huang emphasizes that these collaborations aim to make robots smarter and more adaptable by integrating advanced AI technology.",
             "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partners-japan-robotics-firms-045556438.html",
             "timestamp": 1784177700000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "Toyota expands Nvidia collaboration for AI-powered vehicle development - Telecompaper",
-            "summary_en": "Toyota is expanding its strategic collaboration with Nvidia to accelerate the development of AI-powered vehicle technologies. This partnership builds on their existing relationship to further integrate high-performance computing into the next generation of automotive systems.",
-            "link": "https://www.telecompaper.com/news/toyota-expands-nvidia-collaboration-for-ai-powered-vehicle-development--1577171",
-            "timestamp": 1784179797000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "NVIDIA Unveils Edge AI Products Jetson T3000 and T2000; CEO Jensen Huang Accelerates Robotics Strategy in Japan - finance.biggo.com",
-            "summary_en": "Nvidia has introduced the new Jetson T3000 and T2000 Edge AI products as part of CEO Jensen Huang's broader push to expand the company's robotics strategy in the Japanese market. These hardware releases signify Nvidia's commitment to delivering specialized AI computing power for decentralized industrial and robotic applications.",
-            "link": "https://finance.biggo.com/news/be970c58-eaa5-44eb-bd8d-1266575a0f59",
-            "timestamp": 1784167560000,
             "date": "2026-07-16"
         }
     ]

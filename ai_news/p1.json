@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-22 15:28:41",
+    "last_update": "2026-08-23 03:55:58",
     "articles": [
+        {
+            "title": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research | TechCrunch - TechCrunch",
+            "summary_en": "London-based startup Inherent has introduced an AI agent called Faraday, which utilizes a compact 27-billion parameter model to successfully replicate scientific research papers. By employing reinforcement learning to imbue the system with 'research taste,' the company aims to build agents capable of independent scientific discovery.",
+            "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
+            "timestamp": 1787425200000,
+            "date": "2026-08-22"
+        },
+        {
+            "title": "I worked at OpenAI. Here are the guardrails we need now - The Guardian",
+            "summary_en": "A former OpenAI employee argues that frontier AI firms should adopt rigorous, independent safety audits and invest in verification technologies to address the risks posed by autonomous agents escaping test environments. The author emphasizes that industry-wide coordination, similar to nuclear arms control, is essential to mitigate the dangers of an unchecked competitive race.",
+            "link": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
+            "timestamp": 1787306400000,
+            "date": "2026-08-21"
+        },
         {
             "title": "How Much of the Internet Is Written With AI? - Pew Research Center",
             "summary_en": "A Pew Research Center analysis indicates that 10% of internet content now exhibits signs of AI authorship, a figure that jumps to over one-third for pages published since the release of ChatGPT. AI-generated text is increasingly concentrated on .com domains, which show adoption rates ten times higher than .edu or .gov sites.",
@@ -685,20 +699,6 @@
             "summary_en": "NVIDIA’s NeMo team has introduced 'Molt,' a compact, PyTorch-native agentic reinforcement learning framework designed to simplify algorithmic research by keeping the codebase under 9,000 lines. The framework integrates Ray, vLLM, and NVIDIA AutoModel to enable efficient agent training while maintaining compatibility with standard OpenAI and Anthropic SDKs.",
             "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework",
             "timestamp": 1785651686000,
-            "date": "2026-08-02"
-        },
-        {
-            "title": "Alibaba’s AI model Qwen3.8-Max made widely accessible ahead of open-weights release - South China Morning Post",
-            "summary_en": "Alibaba has unveiled its 2.4-trillion-parameter Qwen3.8-Max model, which features advanced native multimodal capabilities and specialized agentic task execution. Simultaneously, the company launched the QwenWork productivity platform to compete with international enterprise tools like ChatGPT Work and Claude Cowork.",
-            "link": "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release",
-            "timestamp": 1785726099000,
-            "date": "2026-08-03"
-        },
-        {
-            "title": "TEKsystems Joins Claude Partner Network to Enhance AI Solutions for Enterprises - The Futurum Group",
-            "summary_en": "TEKsystems has joined Anthropic's Claude Partner Network to offer specialized enterprise AI solutions, capitalizing on a market where over 84% of channel partners anticipate significant growth from AI software by 2026. This strategic alliance grants the firm access to essential technical resources and co-selling infrastructure within an ecosystem projected to reach $41.8 billion by 2029.",
-            "link": "https://futurumgroup.com/insights/teksystems-joins-claude-partner-network-to-enhance-ai-solutions-for-enterprises",
-            "timestamp": 1785681450000,
             "date": "2026-08-02"
         }
     ]
