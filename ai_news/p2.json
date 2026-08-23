@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-23 03:55:58",
+    "last_update": "2026-08-23 15:28:07",
     "articles": [
+        {
+            "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says - Reuters",
+            "summary_en": "Research indicates that DeepSeek's new AI model has established a significantly lower cost threshold for operations compared to other prominent industry models.",
+            "link": "https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03",
+            "timestamp": 1785735660000,
+            "date": "2026-08-03"
+        },
+        {
+            "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework - MarkTechPost",
+            "summary_en": "NVIDIA’s NeMo team has introduced 'Molt,' a compact, PyTorch-native agentic reinforcement learning framework designed to simplify algorithmic research by keeping the codebase under 9,000 lines. The framework integrates Ray, vLLM, and NVIDIA AutoModel to enable efficient agent training while maintaining compatibility with standard OpenAI and Anthropic SDKs.",
+            "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework",
+            "timestamp": 1785651686000,
+            "date": "2026-08-02"
+        },
         {
             "title": "Alibaba’s AI model Qwen3.8-Max made widely accessible ahead of open-weights release - South China Morning Post",
             "summary_en": "Alibaba has unveiled its 2.4-trillion-parameter Qwen3.8-Max model, which features advanced native multimodal capabilities and specialized agentic task execution. Simultaneously, the company launched the QwenWork productivity platform to compete with international enterprise tools like ChatGPT Work and Claude Cowork.",
@@ -685,20 +699,6 @@
             "summary_en": "AWS has launched 'Kiro,' an AI development tool that utilizes a 'spec-first' design methodology to automate the entire development lifecycle through 11 specialized AI agents. By prioritizing requirements and design documentation before coding, Kiro reportedly achieves 6 to 10 times higher cost efficiency than standard AI coding tools.",
             "link": "https://finance.biggo.com/news/329e4fa2-253f-4878-8ed5-cc3644282a1f",
             "timestamp": 1784192220000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch - TechCrunch",
-            "summary_en": "Thinking Machines has released 'Inkling,' an open-weight mixture-of-experts model designed for enterprises to fine-tune according to their specific needs. The startup positions this model as a departure from one-size-fits-all proprietary systems, arguing that organization-specific AI offers better performance and avoids the data privacy risks associated with closed models.",
-            "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling",
-            "timestamp": 1784138646000,
-            "date": "2026-07-15"
-        },
-        {
-            "title": "Nvidia partners with Japan robotics firms on AI development - Yahoo Finance",
-            "summary_en": "Nvidia is strengthening its foothold in the robotics sector through new partnerships with Japanese industrial giants Fanuc and Yaskawa Electric. CEO Jensen Huang emphasizes that these collaborations aim to make robots smarter and more adaptable by integrating advanced AI technology.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partners-japan-robotics-firms-045556438.html",
-            "timestamp": 1784177700000,
             "date": "2026-07-16"
         }
     ]

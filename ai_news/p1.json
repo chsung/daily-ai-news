@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-08-23 03:55:58",
+    "last_update": "2026-08-23 15:28:07",
     "articles": [
+        {
+            "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS | Amazon Web Services - Amazon Web Services (AWS)",
+            "summary_en": "Panasonic Avionics Corporation partnered with AWS to deploy an agentic AI system that automates the diagnosis of in-flight entertainment and connectivity (IFEC) issues. By using Amazon Bedrock and SageMaker to correlate complex logs across diverse fleet configurations, the company aims to significantly reduce mean time to detect and resolve system faults.",
+            "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws",
+            "timestamp": 1787331421000,
+            "date": "2026-08-21"
+        },
+        {
+            "title": "OpenAI says California should strengthen its AI safety bill | TechCrunch - TechCrunch",
+            "summary_en": "OpenAI is now advocating for stricter safety amendments to California's SB 53, including mandatory monitoring of frontier models and enhanced cybersecurity protocols. This shift in position follows recent internal security incidents and reflects the company's support for state-level regulations that could serve as a blueprint for future federal AI standards.",
+            "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
+            "timestamp": 1787416234000,
+            "date": "2026-08-22"
+        },
         {
             "title": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research | TechCrunch - TechCrunch",
             "summary_en": "London-based startup Inherent has introduced an AI agent called Faraday, which utilizes a compact 27-billion parameter model to successfully replicate scientific research papers. By employing reinforcement learning to imbue the system with 'research taste,' the company aims to build agents capable of independent scientific discovery.",
@@ -686,20 +700,6 @@
             "link": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
             "timestamp": 1785754758000,
             "date": "2026-08-03"
-        },
-        {
-            "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says - Reuters",
-            "summary_en": "Research indicates that DeepSeek's new AI model has established a significantly lower cost threshold for operations compared to other prominent industry models.",
-            "link": "https://www.reuters.com/business/retail-consumer/deepseeks-new-ai-model-is-by-far-cheapest-well-known-models-run-research-firm-2026-08-03",
-            "timestamp": 1785735660000,
-            "date": "2026-08-03"
-        },
-        {
-            "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework - MarkTechPost",
-            "summary_en": "NVIDIA’s NeMo team has introduced 'Molt,' a compact, PyTorch-native agentic reinforcement learning framework designed to simplify algorithmic research by keeping the codebase under 9,000 lines. The framework integrates Ray, vLLM, and NVIDIA AutoModel to enable efficient agent training while maintaining compatibility with standard OpenAI and Anthropic SDKs.",
-            "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework",
-            "timestamp": 1785651686000,
-            "date": "2026-08-02"
         }
     ]
 }
