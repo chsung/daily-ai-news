@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-23 15:28:07",
+    "last_update": "2026-08-24 03:59:04",
     "articles": [
+        {
+            "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up - CNBC",
+            "summary_en": "Alibaba has unveiled Qwen3.8-Max, a 2.4-trillion parameter model capable of autonomous long-term coding and processing million-token context windows. The announcement, which highlights performance benchmarks comparable to leading global models, triggered a significant rally in the company's stock price.",
+            "link": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
+            "timestamp": 1785753275000,
+            "date": "2026-08-03"
+        },
+        {
+            "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems - BleepingComputer",
+            "summary_en": "OpenAI has begun teasing its upcoming major AI model, Astra, following the system's successful resolution of ten long-standing, complex mathematical problems. Further details on the model's architecture and capabilities remain limited as the company prepares for its official rollout.",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems",
+            "timestamp": 1785709901000,
+            "date": "2026-08-02"
+        },
+        {
+            "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers - CNBC",
+            "summary_en": "The European Union has activated new enforcement powers under the EU AI Act, allowing regulators to audit models, restrict market access, and impose fines of up to 15 million euros or 3% of annual turnover for non-compliance. These regulations apply to all general-purpose AI providers, including U.S.-based firms like OpenAI and Anthropic, regardless of their headquarters' location.",
+            "link": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
+            "timestamp": 1785754758000,
+            "date": "2026-08-03"
+        },
         {
             "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says - Reuters",
             "summary_en": "Research indicates that DeepSeek's new AI model has established a significantly lower cost threshold for operations compared to other prominent industry models.",
@@ -679,27 +700,6 @@
             "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai",
             "timestamp": 1784132418000,
             "date": "2026-07-15"
-        },
-        {
-            "title": "Apple's AI Chip Ambitions Hit a Wall: Reportedly Seeking Semiconductor Startup Acquisitions to Accelerate In-House Server Development - finance.biggo.com",
-            "summary_en": "Facing performance bottlenecks with its M2 Ultra chip and delays in its 'Baltra' server project, Apple is actively seeking semiconductor startup acquisitions to accelerate its in-house AI server chip development.",
-            "link": "https://finance.biggo.com/news/dfa85d1d-b800-4ef7-a37e-7f140ed0ad1c",
-            "timestamp": 1784244360000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "Fujitsu to explore physical AI development and implementation across industries with FANUC, Yaskawa Electric, and Kawasaki Heavy Industries integrating NVIDIA technology - Fujitsu Global",
-            "summary_en": "Fujitsu is partnering with robotics leaders FANUC, Yaskawa Electric, and Kawasaki Heavy Industries to develop a sovereign collaborative platform that integrates NVIDIA’s physical AI technologies. This initiative aims to address Japan's labor shortages by enabling robots to autonomously execute tasks across manufacturing, logistics, and healthcare.",
-            "link": "https://global.fujitsu/en-global/pr/news/2026/07/16-01",
-            "timestamp": 1784172813000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "AWS Unveils AI Development Tool 'Kiro' — \"Spec-First Design Cuts Trial-and-Error and Costs\" - finance.biggo.com",
-            "summary_en": "AWS has launched 'Kiro,' an AI development tool that utilizes a 'spec-first' design methodology to automate the entire development lifecycle through 11 specialized AI agents. By prioritizing requirements and design documentation before coding, Kiro reportedly achieves 6 to 10 times higher cost efficiency than standard AI coding tools.",
-            "link": "https://finance.biggo.com/news/329e4fa2-253f-4878-8ed5-cc3644282a1f",
-            "timestamp": 1784192220000,
-            "date": "2026-07-16"
         }
     ]
 }

@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-23 15:28:07",
+    "last_update": "2026-08-24 03:59:04",
     "articles": [
+        {
+            "title": "Apple's AI Chip Ambitions Hit a Wall: Reportedly Seeking Semiconductor Startup Acquisitions to Accelerate In-House Server Development - finance.biggo.com",
+            "summary_en": "Facing performance bottlenecks with its M2 Ultra chip and delays in its 'Baltra' server project, Apple is actively seeking semiconductor startup acquisitions to accelerate its in-house AI server chip development.",
+            "link": "https://finance.biggo.com/news/dfa85d1d-b800-4ef7-a37e-7f140ed0ad1c",
+            "timestamp": 1784244360000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "Fujitsu to explore physical AI development and implementation across industries with FANUC, Yaskawa Electric, and Kawasaki Heavy Industries integrating NVIDIA technology - Fujitsu Global",
+            "summary_en": "Fujitsu is partnering with robotics leaders FANUC, Yaskawa Electric, and Kawasaki Heavy Industries to develop a sovereign collaborative platform that integrates NVIDIA’s physical AI technologies. This initiative aims to address Japan's labor shortages by enabling robots to autonomously execute tasks across manufacturing, logistics, and healthcare.",
+            "link": "https://global.fujitsu/en-global/pr/news/2026/07/16-01",
+            "timestamp": 1784172813000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "AWS Unveils AI Development Tool 'Kiro' — \"Spec-First Design Cuts Trial-and-Error and Costs\" - finance.biggo.com",
+            "summary_en": "AWS has launched 'Kiro,' an AI development tool that utilizes a 'spec-first' design methodology to automate the entire development lifecycle through 11 specialized AI agents. By prioritizing requirements and design documentation before coding, Kiro reportedly achieves 6 to 10 times higher cost efficiency than standard AI coding tools.",
+            "link": "https://finance.biggo.com/news/329e4fa2-253f-4878-8ed5-cc3644282a1f",
+            "timestamp": 1784192220000,
+            "date": "2026-07-16"
+        },
         {
             "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling | TechCrunch - TechCrunch",
             "summary_en": "Thinking Machines has released 'Inkling,' an open-weight mixture-of-experts model designed for enterprises to fine-tune according to their specific needs. The startup positions this model as a departure from one-size-fits-all proprietary systems, arguing that organization-specific AI offers better performance and avoids the data privacy risks associated with closed models.",
@@ -679,27 +700,6 @@
             "link": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians",
             "timestamp": 1782741697000,
             "date": "2026-06-29"
-        },
-        {
-            "title": "AWS builds new partner strategy around agentic AI outcomes - ChannelE2E",
-            "summary_en": "AWS has launched a 'Business Value Realization' (BVR) program that ties partner incentives and funding to verified customer outcomes rather than project completion milestones. This strategy reflects a broader market shift where 80% of customers now demand outcome-based commercial models to ensure AI investments deliver measurable business results.",
-            "link": "https://www.channele2e.com/news/aws-builds-new-partner-strategy-around-agentic-ai-outcomes",
-            "timestamp": 1782747545000,
-            "date": "2026-06-29"
-        },
-        {
-            "title": "AI agents that provide ‘economic value’ are next frontier, says Meta AI research chief - South China Morning Post",
-            "summary_en": "Meta’s new AI research lead, Dawn Song, aims to shift the industry focus toward building AI agents capable of performing economically valuable, real-world tasks. This effort is supported by UC Berkeley’s new ‘Agents’ Last Exam’ benchmark, which evaluates agent performance across over 1,500 complex tasks in 55 different industries.",
-            "link": "https://www.scmp.com/tech/tech-trends/article/3358639/ai-agents-provide-economic-value-are-next-frontier-says-meta-ai-research-chief",
-            "timestamp": 1782702005000,
-            "date": "2026-06-29"
-        },
-        {
-            "title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
-            "summary_en": "The U.S. government has partially lifted its ban on Anthropic's Claude Mythos 5 model, granting access to select cybersecurity firms tasked with protecting critical infrastructure. This decision follows weeks of tension over the administration's strict oversight and concerns regarding potential misuse of frontier AI models by foreign military intelligence.",
-            "link": "https://www.dw.com/en/us-allows-partial-release-of-anthropics-mythos-ai-model/a-77732252",
-            "timestamp": 1782646650000,
-            "date": "2026-06-28"
         }
     ]
 }
