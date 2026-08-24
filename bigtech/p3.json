@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-08-22 16:08:52",
+    "last_update": "2026-08-24 16:20:56",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1784160000000,
+            "date": "2026-07-16",
+            "title": "How Cars24 scales conversations and builds faster with OpenAI",
+            "summary_kr": "Cars24는 OpenAI 기반의 AI 에이전트를 도입하여 고객 응대 효율을 극대화하고, 내부 업무 전반에 생성형 AI를 통합해 운영 비용 절감과 비즈니스 성장을 동시에 달성했습니다.",
+            "summary_en": "Cars24 has scaled its automotive ecosystem by deploying OpenAI-powered agents to enhance customer engagement and integrating generative AI across its internal workflows to drive operational efficiency.",
+            "link": "https://openai.com/index/cars24"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784156400000,
+            "date": "2026-07-15",
+            "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
+            "summary_kr": "NVIDIA DeepStream 9.1은 자동 카메라 보정(AMC)과 다중 시점 3D 추적(MV3DT) 기능을 통해 복잡한 설정 없이도 대규모 공간에서 정확하고 일관된 객체 추적을 구현합니다.",
+            "summary_en": "NVIDIA DeepStream 9.1 simplifies complex vision AI deployments by introducing AutoMagicCalib (AMC) and Multi-View 3D Tracking (MV3DT) for seamless, cross-camera object tracking in large-scale environments.",
+            "link": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784152643000,
+            "date": "2026-07-15",
+            "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
+            "summary_kr": "엔비디아의 nanousd-labs는 AI 에이전트를 활용해 OpenUSD 표준 사양으로부터 특정 워크로드에 최적화된 경량화 USD 런타임을 자동으로 생성하는 새로운 개발 방식을 제시합니다.",
+            "summary_en": "NVIDIA's nanousd-labs introduces a new development methodology that utilizes AI agents to automatically generate lightweight, workload-optimized USD runtimes directly from the official OpenUSD core specification.",
+            "link": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784137032000,
+            "date": "2026-07-15",
+            "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
+            "summary_kr": "NVIDIA CUDA 13.3에 도입된 새로운 'clmad' 하드웨어 명령어를 통해 암호화 및 영지식 증명 작업의 핵심인 캐리리스 곱셈(carryless multiplication) 속도가 비약적으로 향상되었습니다.",
+            "summary_en": "NVIDIA CUDA 13.3 introduces the 'clmad' hardware instruction, providing native acceleration for carryless multiplication and delivering massive performance gains for cryptographic workloads and zero-knowledge proof systems.",
+            "link": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784109600000,
+            "date": "2026-07-15",
+            "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+            "summary_kr": "OpenAI는 자동화된 레드팀 모델인 'GPT-Red'를 개발하여 모델의 취약점을 선제적으로 탐지하고, 적대적 학습을 통해 차세대 모델의 보안성을 비약적으로 향상시켰습니다.",
+            "summary_en": "OpenAI has developed 'GPT-Red,' an automated red-teaming model that scales vulnerability detection and utilizes adversarial training to significantly improve the robustness of future models against prompt injection attacks.",
+            "link": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+        },
         {
             "company": "xAI",
             "timestamp": 1784073600000,
@@ -855,51 +900,6 @@
             "summary_kr": "앤스로픽은 클로드의 사용 패턴이 대화형에서 에이전트형 작업으로 변화함에 따라 데이터를 세분화하여 업무 리듬과 사용자 인식이 AI 경제에 미치는 영향을 분석했습니다. 분석 결과, AI 사용 패턴은 주간 업무 주기와 밀접하게 연동되며, 자동화 도구 활용도가 높은 사용자일수록 AI의 경제적 긍정 효과에 대해 더 낙관적인 것으로 나타났습니다.",
             "summary_en": "Anthropic has refined its economic index methodology to track the shift from conversational AI to agentic tasks, revealing that Claude usage patterns closely mirror real-world work cycles and seasonal demands. The report highlights that high-frequency AI users express greater optimism regarding AI's impact on job security, compensation, and workplace fulfillment.",
             "link": "https://www.anthropic.com/research/economic-index-june-2026-report"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782426351000,
-            "date": "2026-06-25",
-            "title": "Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps",
-            "summary_kr": "Vulkan의 새로운 VK_EXT_descriptor_heap 확장은 기존의 복잡한 리소스 바인딩 방식을 개선하여 개발자가 메모리를 직접 관리하고 성능을 최적화할 수 있도록 지원합니다.",
-            "summary_en": "The new VK_EXT_descriptor_heap extension for Vulkan streamlines resource binding by replacing complex descriptor sets with a simplified, direct memory management model that enhances performance and cross-API parity.",
-            "link": "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782422700000,
-            "date": "2026-06-25",
-            "title": "Copilot in Excel: Built for the era of Frontier Finance | Microsoft 365 Blog",
-            "summary_kr": "마이크로소프트는 재무 전문가를 위해 데이터 추적성과 검증 가능성을 강화하고, 사용자 정의 가능한 '스킬' 기능과 신뢰할 수 있는 외부 데이터 연결을 갖춘 최적화된 Copilot in Excel을 선보였습니다.",
-            "summary_en": "Microsoft has introduced an optimized Copilot in Excel for finance professionals, featuring enhanced data traceability, custom workflow 'skills,' and direct integration with trusted financial data sources.",
-            "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/25/copilot-in-excel-built-for-the-era-of-frontier-finance"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782405828000,
-            "date": "2026-06-25",
-            "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
-            "summary_kr": "NVIDIA TensorRT 11.0은 NCCL과의 통합을 통해 다중 GPU 환경에서 텐서 및 컨텍스트 병렬화를 지원함으로써, 단일 GPU의 메모리 한계를 극복하고 고성능 생성형 AI 추론을 가능하게 합니다.",
-            "summary_en": "NVIDIA TensorRT 11.0 introduces native multi-device inference support via NCCL integration, enabling tensor and context parallelism to overcome single-GPU memory limits for large-scale generative AI deployments.",
-            "link": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782405498000,
-            "date": "2026-06-25",
-            "title": "How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
-            "summary_kr": "크래프톤은 엔비디아 ACE와 소형 언어 모델을 활용해 플레이어와 실시간으로 소통하고 협력하는 지능형 '공동 플레이 캐릭터(CPC)'인 'PUBG Ally'를 선보였습니다.",
-            "summary_en": "KRAFTON has introduced 'PUBG Ally,' an intelligent co-playable character (CPC) powered by NVIDIA ACE and small language models, capable of real-time communication and dynamic cooperation with players.",
-            "link": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1782403200000,
-            "date": "2026-06-25",
-            "title": "Turning brain prediction models into testable explanations",
-            "summary_kr": "생성적 인과 검사(GCT)는 블랙박스인 뇌 예측 모델을 LLM을 활용해 검증 가능한 과학적 가설로 변환함으로써, 특정 뇌 영역의 반응 원리를 명확히 규명하는 새로운 분석 프레임워크입니다.",
-            "summary_en": "Generative Causal Testing (GCT) is a new framework that translates opaque brain-prediction models into testable scientific hypotheses using LLMs, effectively closing the gap between computational prediction and neurological understanding.",
-            "link": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments"
         }
     ]
 }

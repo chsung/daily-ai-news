@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-08-22 16:08:52",
+    "last_update": "2026-08-24 16:20:56",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1785740400000,
+            "date": "2026-08-03",
+            "title": "How we built a realtime system for responsive voice AI in six months",
+            "summary_kr": "GPT-Live는 턴 감지기를 제거하고 음성을 실시간으로 처리하는 풀듀플렉스 아키텍처를 도입하여 인간과 유사한 즉각적이고 자연스러운 대화형 음성 AI를 구현했습니다.",
+            "summary_en": "GPT-Live achieves human-like responsiveness by eliminating turn detectors and implementing a full-duplex architecture that processes audio in real-time.",
+            "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785715200000,
+            "date": "2026-08-03",
+            "title": "Circles powers telco personalization with OpenAI technology",
+            "summary_kr": "Circles는 OpenAI 기술을 기반으로 고객 지원과 개인화 경험을 자동화하는 'CareX'를 통해 통신사의 ARPU를 22% 증대하고 고객 유지율을 개선하는 등 운영 효율성을 대폭 강화했습니다.",
+            "summary_en": "Circles has leveraged OpenAI technology to launch 'CareX', an AI-native platform that automates customer support and personalization, resulting in a 22% increase in ARPU and significantly improved operational efficiency for telco operators.",
+            "link": "https://openai.com/index/circles"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785772800000,
+            "date": "2026-08-03",
+            "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+            "summary_kr": "본 기사는 KAI Scheduler와 vCluster를 활용하여 단일 하드웨어 인프라에서 각 팀별로 격리된 제어 평면을 제공함으로써, GPU 리소스 공유와 팀 자율성을 동시에 확보하는 방법을 제시합니다.",
+            "summary_en": "This article introduces a pattern for maintaining team autonomy on shared GPU infrastructure by using KAI Scheduler and vCluster to provide isolated control planes for each tenant.",
+            "link": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785772800000,
+            "date": "2026-08-03",
+            "title": "Orchard: An open framework for scalable agentic AI",
+            "summary_kr": "Orchard는 재사용 가능한 환경 서비스인 'Orchard Env'를 통해 연구자가 다양한 도메인의 자율 에이전트를 효율적으로 학습하고 평가할 수 있도록 지원하는 오픈소스 프레임워크입니다.",
+            "summary_en": "Orchard is an open-source framework that leverages 'Orchard Env,' a reusable environment service, to enable researchers to scalably train and evaluate agentic AI across diverse, complex real-world tasks.",
+            "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785542400000,
+            "date": "2026-08-01",
+            "title": "Ten advances in mathematics and theoretical computer science",
+            "summary_kr": "OpenAI의 차세대 모델 'Astra'가 수학 및 이론 컴퓨터 과학 분야의 10년 이상 해결되지 않았던 10가지 난제를 성공적으로 해결하며 인공지능이 복잡한 학술 연구를 가속화하는 핵심 도구임을 입증했습니다.",
+            "summary_en": "OpenAI's next-generation model, Astra, has successfully solved ten long-standing problems in mathematics and theoretical computer science, demonstrating AI's potential to accelerate complex academic discovery.",
+            "link": "https://openai.com/index/ten-advances-in-mathematics"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1785536177000,
@@ -855,51 +900,6 @@
             "summary_kr": "에이전트 AI의 복잡한 워크플로우를 처리하기 위해 인프라가 추론 파이프라인의 핵심 요소로 진화하고 있으며, NVIDIA BlueField DPU와 DOCA 소프트웨어는 인프라 작업을 분산·가속화하여 AI 팩토리의 효율성과 성능을 극대화합니다.",
             "summary_en": "As agentic AI makes infrastructure a critical component of the inference pipeline, NVIDIA BlueField DPUs and DOCA software optimize AI factories by offloading, accelerating, and securing data-path services to maximize GPU efficiency.",
             "link": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784160000000,
-            "date": "2026-07-16",
-            "title": "How Cars24 scales conversations and builds faster with OpenAI",
-            "summary_kr": "Cars24는 OpenAI 기반의 AI 에이전트를 도입하여 고객 응대 효율을 극대화하고, 내부 업무 전반에 생성형 AI를 통합해 운영 비용 절감과 비즈니스 성장을 동시에 달성했습니다.",
-            "summary_en": "Cars24 has scaled its automotive ecosystem by deploying OpenAI-powered agents to enhance customer engagement and integrating generative AI across its internal workflows to drive operational efficiency.",
-            "link": "https://openai.com/index/cars24"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784156400000,
-            "date": "2026-07-15",
-            "title": "Build a Multi-Camera 3D Tracking Application with NVIDIA DeepStream 9.1 Skills",
-            "summary_kr": "NVIDIA DeepStream 9.1은 자동 카메라 보정(AMC)과 다중 시점 3D 추적(MV3DT) 기능을 통해 복잡한 설정 없이도 대규모 공간에서 정확하고 일관된 객체 추적을 구현합니다.",
-            "summary_en": "NVIDIA DeepStream 9.1 simplifies complex vision AI deployments by introducing AutoMagicCalib (AMC) and Multi-View 3D Tracking (MV3DT) for seamless, cross-camera object tracking in large-scale environments.",
-            "link": "https://developer.nvidia.com/blog/build-a-multi-camera-3d-tracking-application-with-nvidia-deepstream-9-1-skills"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784152643000,
-            "date": "2026-07-15",
-            "title": "Develop Lightweight USD Runtimes Faster with AI Agents",
-            "summary_kr": "엔비디아의 nanousd-labs는 AI 에이전트를 활용해 OpenUSD 표준 사양으로부터 특정 워크로드에 최적화된 경량화 USD 런타임을 자동으로 생성하는 새로운 개발 방식을 제시합니다.",
-            "summary_en": "NVIDIA's nanousd-labs introduces a new development methodology that utilizes AI agents to automatically generate lightweight, workload-optimized USD runtimes directly from the official OpenUSD core specification.",
-            "link": "https://developer.nvidia.com/blog/develop-lightweight-usd-runtimes-faster-with-ai-agents"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784137032000,
-            "date": "2026-07-15",
-            "title": "Building Faster Cryptography with Carryless Multiplication in NVIDIA CUDA 13.3",
-            "summary_kr": "NVIDIA CUDA 13.3에 도입된 새로운 'clmad' 하드웨어 명령어를 통해 암호화 및 영지식 증명 작업의 핵심인 캐리리스 곱셈(carryless multiplication) 속도가 비약적으로 향상되었습니다.",
-            "summary_en": "NVIDIA CUDA 13.3 introduces the 'clmad' hardware instruction, providing native acceleration for carryless multiplication and delivering massive performance gains for cryptographic workloads and zero-knowledge proof systems.",
-            "link": "https://developer.nvidia.com/blog/building-faster-cryptography-with-carryless-multiplication-in-nvidia-cuda-13-3"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784109600000,
-            "date": "2026-07-15",
-            "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-            "summary_kr": "OpenAI는 자동화된 레드팀 모델인 'GPT-Red'를 개발하여 모델의 취약점을 선제적으로 탐지하고, 적대적 학습을 통해 차세대 모델의 보안성을 비약적으로 향상시켰습니다.",
-            "summary_en": "OpenAI has developed 'GPT-Red,' an automated red-teaming model that scales vulnerability detection and utilizes adversarial training to significantly improve the robustness of future models against prompt injection attacks.",
-            "link": "https://openai.com/index/unlocking-self-improvement-gpt-red"
         }
     ]
 }

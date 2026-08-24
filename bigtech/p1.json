@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-08-22 16:08:52",
+    "last_update": "2026-08-24 16:20:56",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787584119000,
+            "date": "2026-08-24",
+            "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
+            "summary_kr": "기존 이더넷의 구조적 한계를 극복하기 위해 엔비디아는 AI 워크로드에 최적화된 Spectrum-X 아키텍처를 도입하여 고성능 스위치와 NIC를 통합함으로써 AI 학습의 효율성과 속도를 극대화했습니다.",
+            "summary_en": "To overcome the limitations of traditional Ethernet in AI workloads, NVIDIA introduced the Spectrum-X architecture, which optimizes AI training performance by co-designing high-performance switches and NICs to ensure predictable, low-latency communication.",
+            "link": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787583605000,
+            "date": "2026-08-24",
+            "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+            "summary_kr": "NVIDIA의 차세대 Vera Rubin 및 Blackwell 아키텍처는 고도의 에이전트형 AI 작업 환경에서 이전 세대 대비 전력 효율당 처리량을 획기적으로 개선하며 새로운 산업 표준을 제시했습니다.",
+            "summary_en": "NVIDIA's next-generation Vera Rubin and Blackwell architectures set a new industry standard by delivering significant gains in agentic AI throughput per megawatt compared to previous generations.",
+            "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787583600000,
+            "date": "2026-08-24",
+            "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+            "summary_kr": "엔비디아는 에이전트 AI 팩토리의 보안, 데이터 이동 및 인프라 운영을 최적화하기 위해 블루필드-4 DPU 기반의 'Scale-In' 네트워킹 전략을 새롭게 도입했습니다.",
+            "summary_en": "NVIDIA has introduced its 'Scale-In' networking architecture, powered by BlueField-4 DPUs, to provide dedicated acceleration for security, data movement, and infrastructure operations in agentic AI factories.",
+            "link": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787583600000,
+            "date": "2026-08-24",
+            "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
+            "summary_kr": "에이전트 AI의 워크로드는 예측 불가능하고 순차적인 의존성이 강해, 단순히 코어 수를 늘리기보다 단일 스레드 성능과 병렬 처리 능력을 균형 있게 갖춘 NVIDIA Vera CPU와 같은 아키텍처가 필수적입니다.",
+            "summary_en": "Agentic AI workloads are inherently unpredictable and latency-sensitive, requiring a balanced CPU architecture like NVIDIA Vera that prioritizes strong single-thread performance alongside efficient concurrency to optimize overall fleet economics.",
+            "link": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787583600000,
+            "date": "2026-08-24",
+            "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+            "summary_kr": "NVIDIA Groq 3 LPX는 Vera Rubin NVL72 플랫폼과 결합하여 대규모 모델의 긴 문맥 처리에서도 초고속 추론 속도를 구현하며 에이전트형 AI 시스템의 상호작용 성능을 극대화합니다.",
+            "summary_en": "NVIDIA Groq 3 LPX, when integrated with the Vera Rubin NVL72 platform, enables ultra-fast inference and high interactivity for massive models, effectively overcoming the challenges of maintaining long context.",
+            "link": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1787329264000,
@@ -855,51 +900,6 @@
             "summary_kr": "NVIDIA의 Vera CPU 아키텍처를 탑재한 BlueField-4 STX는 암호화, 압축, 데이터 무결성 검사 등 스토리지 처리 성능을 대폭 향상시켜 에이전트 AI 워크로드의 병목 현상을 해소합니다.",
             "summary_en": "NVIDIA's Vera CPU-powered BlueField-4 STX significantly boosts storage processing performance—including encryption, compression, and integrity checks—to eliminate bottlenecks in agentic AI workloads.",
             "link": "https://developer.nvidia.com/blog/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785740400000,
-            "date": "2026-08-03",
-            "title": "How we built a realtime system for responsive voice AI in six months",
-            "summary_kr": "GPT-Live는 턴 감지기를 제거하고 음성을 실시간으로 처리하는 풀듀플렉스 아키텍처를 도입하여 인간과 유사한 즉각적이고 자연스러운 대화형 음성 AI를 구현했습니다.",
-            "summary_en": "GPT-Live achieves human-like responsiveness by eliminating turn detectors and implementing a full-duplex architecture that processes audio in real-time.",
-            "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785715200000,
-            "date": "2026-08-03",
-            "title": "Circles powers telco personalization with OpenAI technology",
-            "summary_kr": "Circles는 OpenAI 기술을 기반으로 고객 지원과 개인화 경험을 자동화하는 'CareX'를 통해 통신사의 ARPU를 22% 증대하고 고객 유지율을 개선하는 등 운영 효율성을 대폭 강화했습니다.",
-            "summary_en": "Circles has leveraged OpenAI technology to launch 'CareX', an AI-native platform that automates customer support and personalization, resulting in a 22% increase in ARPU and significantly improved operational efficiency for telco operators.",
-            "link": "https://openai.com/index/circles"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785772800000,
-            "date": "2026-08-03",
-            "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
-            "summary_kr": "본 기사는 KAI Scheduler와 vCluster를 활용하여 단일 하드웨어 인프라에서 각 팀별로 격리된 제어 평면을 제공함으로써, GPU 리소스 공유와 팀 자율성을 동시에 확보하는 방법을 제시합니다.",
-            "summary_en": "This article introduces a pattern for maintaining team autonomy on shared GPU infrastructure by using KAI Scheduler and vCluster to provide isolated control planes for each tenant.",
-            "link": "https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785772800000,
-            "date": "2026-08-03",
-            "title": "Orchard: An open framework for scalable agentic AI",
-            "summary_kr": "Orchard는 재사용 가능한 환경 서비스인 'Orchard Env'를 통해 연구자가 다양한 도메인의 자율 에이전트를 효율적으로 학습하고 평가할 수 있도록 지원하는 오픈소스 프레임워크입니다.",
-            "summary_en": "Orchard is an open-source framework that leverages 'Orchard Env,' a reusable environment service, to enable researchers to scalably train and evaluate agentic AI across diverse, complex real-world tasks.",
-            "link": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785542400000,
-            "date": "2026-08-01",
-            "title": "Ten advances in mathematics and theoretical computer science",
-            "summary_kr": "OpenAI의 차세대 모델 'Astra'가 수학 및 이론 컴퓨터 과학 분야의 10년 이상 해결되지 않았던 10가지 난제를 성공적으로 해결하며 인공지능이 복잡한 학술 연구를 가속화하는 핵심 도구임을 입증했습니다.",
-            "summary_en": "OpenAI's next-generation model, Astra, has successfully solved ten long-standing problems in mathematics and theoretical computer science, demonstrating AI's potential to accelerate complex academic discovery.",
-            "link": "https://openai.com/index/ten-advances-in-mathematics"
         }
     ]
 }
