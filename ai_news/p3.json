@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-08-24 03:59:04",
+    "last_update": "2026-08-24 15:44:18",
     "articles": [
+        {
+            "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
+            "summary_en": "Moonshot AI has launched Kimi K3, a 2.8-trillion parameter model that significantly closes the performance gap with U.S. leaders by excelling in coding and general agent benchmarks. Despite China's compute constraints, this flagship model's release has intensified domestic competition and sparked concerns among Western lawmakers regarding the global adoption of Chinese AI technologies.",
+            "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+            "timestamp": 1784277510000,
+            "date": "2026-07-17"
+        },
+        {
+            "title": "OpenAI plans ChatGPT speaker as new AI home companion - Los Angeles Times",
+            "summary_en": "OpenAI is developing a mobile, screen-free smart speaker designed to function as an proactive, humanlike home AI companion capable of controlling smart appliances and managing personal tasks. The project, supported by former Apple design talent, utilizes an advanced version of ChatGPT’s voice mode to provide a personalized, physical manifestation of its AI technology.",
+            "link": "https://www.latimes.com/business/story/2026-07-16/openai-plans-chatgpt-speaker-as-new-ai-home-companion",
+            "timestamp": 1784210760000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "NVIDIA Showcases Japanese AI Development Built on Nemotron Models - HPCwire",
+            "summary_en": "NVIDIA is partnering with Japanese institutions and enterprises to leverage its Nemotron open-model ecosystem to create AI tailored specifically for the country’s language and industrial needs. By using these specialized models, Japanese firms are addressing workforce challenges and accelerating R&D in sectors ranging from telecommunications to materials science.",
+            "link": "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models",
+            "timestamp": 1784227302000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "Nvidia partners with Japan robotics firms on AI development - Reuters",
+            "summary_en": "Nvidia has entered into a strategic partnership with Japanese robotics firms to accelerate the development and integration of advanced AI technologies into industrial robotics.",
+            "link": "https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16",
+            "timestamp": 1784214448000,
+            "date": "2026-07-16"
+        },
+        {
+            "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI | TechCrunch - TechCrunch",
+            "summary_en": "Microsoft released a record 570 security patches this month, including two zero-day fixes, attributing the high volume to the use of AI tools in identifying long-dormant code vulnerabilities.",
+            "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai",
+            "timestamp": 1784132418000,
+            "date": "2026-07-15"
+        },
         {
             "title": "Apple's AI Chip Ambitions Hit a Wall: Reportedly Seeking Semiconductor Startup Acquisitions to Accelerate In-House Server Development - finance.biggo.com",
             "summary_en": "Facing performance bottlenecks with its M2 Ultra chip and delays in its 'Baltra' server project, Apple is actively seeking semiconductor startup acquisitions to accelerate its in-house AI server chip development.",
@@ -665,41 +700,6 @@
             "link": "https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers",
             "timestamp": 1782831764000,
             "date": "2026-06-30"
-        },
-        {
-            "title": "Anthropic unveils 'Claude Science' AI platform for scientific research - Yahoo News Canada",
-            "summary_en": "Anthropic has introduced 'Claude Science,' a dedicated platform integrating over 60 scientific databases and specialized visualization tools to streamline complex research and data analysis. The platform aims to accelerate scientific workflows by enabling researchers to manage coding, literature review, and 3D protein rendering within a unified, secure workspace.",
-            "link": "https://ca.news.yahoo.com/anthropic-unveils-claude-science-ai-170242515.html",
-            "timestamp": 1782838962000,
-            "date": "2026-06-30"
-        },
-        {
-            "title": "SandboxAQ to bring scientific AI models to Google Cloud Marketplace - MobiHealthNews",
-            "summary_en": "SandboxAQ is integrating its Large Quantitative Models, including AQCat and AQPotency, into the Google Cloud Marketplace to streamline materials science and drug discovery. By combining these models with Google’s Gemini, researchers can perform complex scientific calculations directly within their existing workflows.",
-            "link": "https://www.mobihealthnews.com/news/sandboxaq-bring-scientific-ai-models-google-cloud-marketplace",
-            "timestamp": 1782761208000,
-            "date": "2026-06-29"
-        },
-        {
-            "title": "Google is launching AI models for science that could cut research time by years - Mezha",
-            "summary_en": "Google is introducing new AI models specifically engineered for scientific research, with the objective of significantly accelerating discovery timelines by years.",
-            "link": "https://mezha.ua/en/news/google-vidkrivaye-dostup-do-shi-yakiy-mozhe-priskoriti-rozrobku-likiv-i-napivprovidnikiv-312755",
-            "timestamp": 1782744360000,
-            "date": "2026-06-29"
-        },
-        {
-            "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - Egypt Independent",
-            "summary_en": "The US government has authorized Anthropic to provide select cybersecurity partners with access to its 'Mythos 5' model after implementing safety safeguards to mitigate national security risks. This decision partially reverses a recent export ban that had restricted the model due to concerns over its potential to rapidly identify and exploit software vulnerabilities.",
-            "link": "https://www.egyptindependent.com/us-government-allows-anthropic-limited-release-of-ai-model-that-sparked-cybersecurity-concerns",
-            "timestamp": 1782649129000,
-            "date": "2026-06-28"
-        },
-        {
-            "title": "Governor Newsom announces a first-of-its-kind partnership, providing Anthropic tools to state agencies and improving services for Californians | Governor of California - California State Portal | CA.gov",
-            "summary_en": "California has partnered with Anthropic to provide state agencies, cities, and counties with access to the Claude AI assistant at a 50% discount. The initiative includes free workforce training and technical support to improve government efficiency in areas like document analysis, cyber defense, and customer service.",
-            "link": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians",
-            "timestamp": 1782741697000,
-            "date": "2026-06-29"
         }
     ]
 }

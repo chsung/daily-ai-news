@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-08-24 03:59:04",
+    "last_update": "2026-08-24 15:44:18",
     "articles": [
+        {
+            "title": "OpenAI is building AI agents for everything. Will everyone use them? | TechCrunch - TechCrunch",
+            "summary_en": "OpenAI is scaling its 'ChatGPT Work' platform to enable non-engineers to utilize autonomous AI agents for complex, multi-step professional tasks. By transitioning from code-centric tools to general-purpose workflows, the company aims to move beyond software development and capture a broader enterprise market.",
+            "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+            "timestamp": 1787583600000,
+            "date": "2026-08-24"
+        },
+        {
+            "title": "Nvidia reportedly weighs Perplexity investment as AI strategy expands beyond chips - digitimes",
+            "summary_en": "Nvidia is in discussions to invest in the AI search startup Perplexity as part of a funding round that would push the company's valuation past $30 billion. This potential move highlights Nvidia's strategy to broaden its influence across the AI ecosystem beyond its core chip manufacturing business.",
+            "link": "https://www.digitimes.com/news/a20260824VL208/nvidia-investment-chips-software-startup.html",
+            "timestamp": 1787551198000,
+            "date": "2026-08-24"
+        },
+        {
+            "title": "AI Building AI: Jeff Dean Leaves Google's Heart to Usher in the Era of 'Unmanned Research' - finance.biggo.com",
+            "summary_en": "Former Google AI chief Jeff Dean has launched 'Discovery Loop' to develop autonomous AI scientists capable of executing research and theories without human intervention. This shift toward 'unmanned research' is part of a broader global trend, with major firms and governments aggressively pursuing AI-driven breakthroughs in scientific discovery.",
+            "link": "https://finance.biggo.com/news/52241352-1d54-4270-a251-8b35477931e8",
+            "timestamp": 1787559960000,
+            "date": "2026-08-24"
+        },
+        {
+            "title": "Google DeepMind to conduct AI research on 'EVE Online,' utilizing the virtual universe, which has been around for over 20 years, as a 'mirror reflecting intelligence.' - GIGAZINE",
+            "summary_en": "Google DeepMind is conducting research using the virtual universe of the long-running game 'EVE Online' as a controlled, sandbox environment to observe and analyze the evolution of artificial intelligence.",
+            "link": "https://gigazine.net/gsc_news/en/20260824-google-deepmind-eve-online-ai",
+            "timestamp": 1787555700000,
+            "date": "2026-08-24"
+        },
+        {
+            "title": "Gemini 4 Could Feature a 10-Million-Token Context Window - Geeky Gadgets",
+            "summary_en": "Google has officially commenced the pre-training phase for Gemini 4, with industry speculation suggesting the model could feature a massive 10-million-token context window. While technical specifics remain undisclosed, the project aims to further integrate multimodal capabilities across Google's Omni product family.",
+            "link": "https://www.geeky-gadgets.com/google-gemini-4-ai-model",
+            "timestamp": 1787577469000,
+            "date": "2026-08-24"
+        },
         {
             "title": "UT Research Foundation files patent infringement lawsuit against AI giant Anthropic - The Daily Beacon",
             "summary_en": "The University of Tennessee Research Foundation has filed a patent infringement lawsuit against Anthropic, alleging the unauthorized use of neural network technologies patented by university faculty in 2014. This marks the first patent-related legal challenge against the AI developer, which is already under scrutiny for its training data practices and cybersecurity standards.",
@@ -665,41 +700,6 @@
             "link": "https://www.washingtonpost.com/technology/2026/08/04/white-house-will-exempt-open-ai-systems-security-review",
             "timestamp": 1785906431000,
             "date": "2026-08-05"
-        },
-        {
-            "title": "Trump admin to review 'closed' AI models before release: reports - The Standard (HK)",
-            "summary_en": "The Trump administration has finalized a security review process for 'closed' AI models, requiring major developers to undergo evaluation before public release. This initiative aims to address safety concerns, such as unauthorized model access, while balancing the need to prevent domestic firms from falling behind in the global AI race.",
-            "link": "https://www.thestandard.com.hk/world/article/339090/Trump-admin-to-review-closed-AI-models-before-release-reports",
-            "timestamp": 1785908130000,
-            "date": "2026-08-05"
-        },
-        {
-            "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’ | SK hynix Newsroom - SK hynix",
-            "summary_en": "SK hynix and Sandisk have unveiled the first industry-standard specifications for High Bandwidth Flash (HBF), a new memory layer designed to bridge the gap between HBM and SSDs. By utilizing the UCIe interface, HBF aims to resolve AI-driven memory bottlenecks by offering scalable bandwidth up to 3.0TB/s and large storage capacities.",
-            "link": "https://news.skhynix.com/en/hbf-at-fms-2026",
-            "timestamp": 1785818492000,
-            "date": "2026-08-04"
-        },
-        {
-            "title": "AI agents exploit each other in an attack on Google's development platform - Techzine Global",
-            "summary_en": "Security researchers identified a novel 'agent-to-agent' attack within Google’s Agent Development Kit where a low-privilege AI manipulated a more powerful agent into executing unauthorized commands. This vulnerability highlights the systemic risks of implicit trust between collaborating agents in production environments, necessitating stricter, identity-based permission protocols.",
-            "link": "https://www.techzine.eu/news/security/143397/ai-agents-exploit-each-other-in-an-attack-on-googles-development-platform",
-            "timestamp": 1785836798000,
-            "date": "2026-08-04"
-        },
-        {
-            "title": "NVIDIA’s Alpamayo 2 Super Opens Robotaxi Development to Commercial Use - Unite.AI",
-            "summary_en": "NVIDIA has released its 34-billion-parameter Alpamayo 2 Super reasoning model under an open commercial license to accelerate autonomous vehicle training for developers and automakers. Designed as a cloud-based 'teacher model,' it utilizes reinforcement learning to handle complex, rare traffic events while generating explainable data to support safety standards like ISO/PAS 8800.",
-            "link": "https://www.unite.ai/nvidias-alpamayo-2-super-opens-robotaxi-development-to-commercial-use",
-            "timestamp": 1785858535000,
-            "date": "2026-08-04"
-        },
-        {
-            "title": "White House to host AI companies Tuesday to review new model-testing framework - CNBC",
-            "summary_en": "The White House is convening top AI firms to review a new voluntary cybersecurity framework aimed at assessing the risks of frontier models. This initiative allows government agencies, including the NSA, to evaluate high-level models for potential vulnerabilities or cyberattack capabilities before their release.",
-            "link": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
-            "timestamp": 1785773902000,
-            "date": "2026-08-03"
         }
     ]
 }

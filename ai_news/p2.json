@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-08-24 03:59:04",
+    "last_update": "2026-08-24 15:44:18",
     "articles": [
+        {
+            "title": "Trump admin to review 'closed' AI models before release: reports - The Standard (HK)",
+            "summary_en": "The Trump administration has finalized a security review process for 'closed' AI models, requiring major developers to undergo evaluation before public release. This initiative aims to address safety concerns, such as unauthorized model access, while balancing the need to prevent domestic firms from falling behind in the global AI race.",
+            "link": "https://www.thestandard.com.hk/world/article/339090/Trump-admin-to-review-closed-AI-models-before-release-reports",
+            "timestamp": 1785908130000,
+            "date": "2026-08-05"
+        },
+        {
+            "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’ | SK hynix Newsroom - SK hynix",
+            "summary_en": "SK hynix and Sandisk have unveiled the first industry-standard specifications for High Bandwidth Flash (HBF), a new memory layer designed to bridge the gap between HBM and SSDs. By utilizing the UCIe interface, HBF aims to resolve AI-driven memory bottlenecks by offering scalable bandwidth up to 3.0TB/s and large storage capacities.",
+            "link": "https://news.skhynix.com/en/hbf-at-fms-2026",
+            "timestamp": 1785818492000,
+            "date": "2026-08-04"
+        },
+        {
+            "title": "AI agents exploit each other in an attack on Google's development platform - Techzine Global",
+            "summary_en": "Security researchers identified a novel 'agent-to-agent' attack within Google’s Agent Development Kit where a low-privilege AI manipulated a more powerful agent into executing unauthorized commands. This vulnerability highlights the systemic risks of implicit trust between collaborating agents in production environments, necessitating stricter, identity-based permission protocols.",
+            "link": "https://www.techzine.eu/news/security/143397/ai-agents-exploit-each-other-in-an-attack-on-googles-development-platform",
+            "timestamp": 1785836798000,
+            "date": "2026-08-04"
+        },
+        {
+            "title": "NVIDIA’s Alpamayo 2 Super Opens Robotaxi Development to Commercial Use - Unite.AI",
+            "summary_en": "NVIDIA has released its 34-billion-parameter Alpamayo 2 Super reasoning model under an open commercial license to accelerate autonomous vehicle training for developers and automakers. Designed as a cloud-based 'teacher model,' it utilizes reinforcement learning to handle complex, rare traffic events while generating explainable data to support safety standards like ISO/PAS 8800.",
+            "link": "https://www.unite.ai/nvidias-alpamayo-2-super-opens-robotaxi-development-to-commercial-use",
+            "timestamp": 1785858535000,
+            "date": "2026-08-04"
+        },
+        {
+            "title": "White House to host AI companies Tuesday to review new model-testing framework - CNBC",
+            "summary_en": "The White House is convening top AI firms to review a new voluntary cybersecurity framework aimed at assessing the risks of frontier models. This initiative allows government agencies, including the NSA, to evaluate high-level models for potential vulnerabilities or cyberattack capabilities before their release.",
+            "link": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+            "timestamp": 1785773902000,
+            "date": "2026-08-03"
+        },
         {
             "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up - CNBC",
             "summary_en": "Alibaba has unveiled Qwen3.8-Max, a 2.4-trillion parameter model capable of autonomous long-term coding and processing million-token context windows. The announcement, which highlights performance benchmarks comparable to leading global models, triggered a significant rally in the company's stock price.",
@@ -665,41 +700,6 @@
             "link": "https://www.reuters.com/world/china/chinas-moonshot-unveils-worlds-largest-open-ai-model-closing-us-rivals-2026-07-17",
             "timestamp": 1784253960000,
             "date": "2026-07-17"
-        },
-        {
-            "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic - CNBC",
-            "summary_en": "Moonshot AI has launched Kimi K3, a 2.8-trillion parameter model that significantly closes the performance gap with U.S. leaders by excelling in coding and general agent benchmarks. Despite China's compute constraints, this flagship model's release has intensified domestic competition and sparked concerns among Western lawmakers regarding the global adoption of Chinese AI technologies.",
-            "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
-            "timestamp": 1784277510000,
-            "date": "2026-07-17"
-        },
-        {
-            "title": "OpenAI plans ChatGPT speaker as new AI home companion - Los Angeles Times",
-            "summary_en": "OpenAI is developing a mobile, screen-free smart speaker designed to function as an proactive, humanlike home AI companion capable of controlling smart appliances and managing personal tasks. The project, supported by former Apple design talent, utilizes an advanced version of ChatGPT’s voice mode to provide a personalized, physical manifestation of its AI technology.",
-            "link": "https://www.latimes.com/business/story/2026-07-16/openai-plans-chatgpt-speaker-as-new-ai-home-companion",
-            "timestamp": 1784210760000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "NVIDIA Showcases Japanese AI Development Built on Nemotron Models - HPCwire",
-            "summary_en": "NVIDIA is partnering with Japanese institutions and enterprises to leverage its Nemotron open-model ecosystem to create AI tailored specifically for the country’s language and industrial needs. By using these specialized models, Japanese firms are addressing workforce challenges and accelerating R&D in sectors ranging from telecommunications to materials science.",
-            "link": "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models",
-            "timestamp": 1784227302000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "Nvidia partners with Japan robotics firms on AI development - Reuters",
-            "summary_en": "Nvidia has entered into a strategic partnership with Japanese robotics firms to accelerate the development and integration of advanced AI technologies into industrial robotics.",
-            "link": "https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16",
-            "timestamp": 1784214448000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI | TechCrunch - TechCrunch",
-            "summary_en": "Microsoft released a record 570 security patches this month, including two zero-day fixes, attributing the high volume to the use of AI tools in identifying long-dormant code vulnerabilities.",
-            "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai",
-            "timestamp": 1784132418000,
-            "date": "2026-07-15"
         }
     ]
 }
