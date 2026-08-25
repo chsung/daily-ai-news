@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-08-24 16:20:56",
+    "last_update": "2026-08-25 16:21:57",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1784311279000,
+            "date": "2026-07-17",
+            "title": "tiket.com and Microsoft Bring Seamless Travel Services to Life with AI - Source Asia",
+            "summary_kr": "tiket.com은 마이크로소프트 Azure와 협력하여 AI 어시스턴트 'CRATER'를 도입, 고객 경험을 고도화하고 서비스 처리량을 650% 증대시키며 AI 기반 OTA로 성공적으로 전환했습니다.",
+            "summary_en": "tiket.com has successfully transformed into an AI-powered OTA by leveraging Microsoft Azure to launch 'CRATER,' an intelligent agent that has scaled customer service interactions by 650% while providing a seamless, integrated travel experience.",
+            "link": "https://news.microsoft.com/source/asia/2026/07/14/tiket-com-and-microsoft-bring-seamless-travel-services-to-life-with-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784282400000,
+            "date": "2026-07-17",
+            "title": "A scorecard for the AI age",
+            "summary_kr": "AI 투자 가치를 측정하기 위해 단순히 토큰당 비용을 따지기보다, 실제 업무가 완료된 성과를 기준으로 한 '달러당 유용한 지능(Useful Intelligence per Dollar)'을 핵심 지표로 삼아야 합니다.",
+            "summary_en": "To measure the true value of AI investments, businesses should shift from tracking token costs to evaluating 'Useful Intelligence per Dollar' based on successful task completion.",
+            "link": "https://openai.com/index/a-scorecard-for-the-ai-age"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784242749000,
+            "date": "2026-07-16",
+            "title": "Q&A: How Capcom Brought Path Tracing to RE ENGINE Across PRAGMATA and Resident Evil Requiem",
+            "summary_kr": "캡콤은 RE 엔진에 패스 트레이싱 기술을 도입하여 차세대 실시간 렌더링 수준을 구현했으며, 이를 통해 '바이오하자드 레퀴엠'과 '프라그마타'의 조명 품질과 시각적 몰입감을 획기적으로 개선했습니다.",
+            "summary_en": "Capcom has integrated path tracing into its RE ENGINE to achieve next-generation real-time rendering, significantly enhancing lighting quality and visual immersion for 'Resident Evil Requiem' and 'PRAGMATA'.",
+            "link": "https://developer.nvidia.com/blog/qa-how-capcom-brought-path-tracing-to-re-engine-across-pragmata-and-resident-evil-requiem"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1784160000000,
+            "date": "2026-07-16",
+            "title": "Automations in Grok",
+            "summary_kr": "xAI는 사용자가 정의한 작업을 설정된 시간이나 이메일 수신 시 자동으로 실행하는 'Grok Automations' 기능을 출시했습니다.",
+            "summary_en": "xAI has launched 'Grok Automations,' a feature that allows users to set up tasks that run autonomously based on specific schedules or incoming email triggers.",
+            "link": "https://x.ai/news/grok-automations"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784217815000,
+            "date": "2026-07-16",
+            "title": "Integrating Context-Aware Video AI Agents Into Enterprise Workflows",
+            "summary_kr": "NVIDIA NemoClaw와 AI 청사진을 통합하면 단순한 영상 분석을 넘어, 조직의 지식과 연동된 자율형 에이전트가 기업 워크플로우 내에서 실질적인 대응 조치를 수행할 수 있습니다.",
+            "summary_en": "Integrating NVIDIA NemoClaw with AI blueprints enables autonomous agents to move beyond simple video analysis by orchestrating organizational context to execute actionable workflows across enterprise systems.",
+            "link": "https://developer.nvidia.com/blog/integrating-context-aware-video-ai-agents-into-enterprise-workflows"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784217600000,
+            "date": "2026-07-16",
+            "title": "Why teens deserve access to safe AI",
+            "summary_kr": "OpenAI는 청소년들이 AI를 학습 및 성장의 도구로 활용할 수 있도록 보장하는 한편, 연령에 적합한 보호 장치와 교육적 기능을 통해 안전하고 책임감 있는 사용 환경을 조성하고 있습니다.",
+            "summary_en": "OpenAI emphasizes providing teens with access to AI for learning and development while implementing age-appropriate safeguards and educational tools to ensure safe, responsible engagement.",
+            "link": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1784217600000,
+            "date": "2026-07-16",
+            "title": "Scaling Agentic AI Factories Through Extreme Co-Design with NVIDIA BlueField",
+            "summary_kr": "에이전트 AI의 복잡한 워크플로우를 처리하기 위해 인프라가 추론 파이프라인의 핵심 요소로 진화하고 있으며, NVIDIA BlueField DPU와 DOCA 소프트웨어는 인프라 작업을 분산·가속화하여 AI 팩토리의 효율성과 성능을 극대화합니다.",
+            "summary_en": "As agentic AI makes infrastructure a critical component of the inference pipeline, NVIDIA BlueField DPUs and DOCA software optimize AI factories by offloading, accelerating, and securing data-path services to maximize GPU efficiency.",
+            "link": "https://developer.nvidia.com/blog/scaling-agentic-ai-factories-through-extreme-co-design-with-nvidia-bluefield"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1784160000000,
@@ -837,69 +900,6 @@
             "summary_kr": "엔비디아는 기업 환경에서 자율형 AI 에이전트를 안전하게 운영하기 위해 실행 환경을 중앙 관리형 워크스페이스로 분리하고, 네트워크 통제와 실시간 런타임 보안을 적용하는 표준 아키텍처를 제시합니다.",
             "summary_en": "NVIDIA introduces a secure reference design that shifts autonomous agent execution into managed, isolated workspaces, enforcing robust network controls and runtime governance to enable safe, scalable enterprise AI operations.",
             "link": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782716400000,
-            "date": "2026-06-29",
-            "title": "Mapping Europe’s AI Workforce Opportunity",
-            "summary_kr": "OpenAI의 새로운 보고서는 유럽의 고용 구조가 미국보다 자동화 영향에 덜 민감하다는 점을 지적하며, AI 도입에 따른 노동 시장의 변화와 기회를 예측하기 위한 직무 전환 프레임워크를 제시합니다.",
-            "summary_en": "OpenAI’s new report introduces an AI Jobs Transition Framework for the EU, highlighting that Europe’s occupational structure is less susceptible to immediate automation than the U.S. and providing a strategic map for navigating AI-driven labor market shifts.",
-            "link": "https://openai.com/index/mapping-ai-jobs-transition-eu"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1782691200000,
-            "date": "2026-06-29",
-            "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-            "summary_kr": "Brain2Qwerty v2는 비침습적 뇌 신호를 실시간 문장으로 해독하는 AI 기술로, 수술 없이도 기존 침습적 방식에 근접한 높은 정확도를 구현하며 뇌 과학 연구를 위한 오픈 소스로 공개되었습니다.",
-            "summary_en": "Brain2Qwerty v2 is an AI-powered, non-invasive system that decodes real-time brain signals into text with accuracy levels approaching surgical methods, now available as open-source to accelerate neuroscience innovation.",
-            "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782666000000,
-            "date": "2026-06-28",
-            "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-            "summary_kr": "HP는 OpenAI와의 'Frontier' 전략적 파트너십을 전사적으로 확대하여 고객 경험 개선, 업무 생산성 향상 및 소프트웨어 개발 가속화를 위한 AI 통합 운영 모델을 구축합니다.",
-            "summary_en": "HP is scaling its 'Frontier' strategic partnership with OpenAI to integrate AI across its enterprise, aiming to enhance customer experiences, boost employee productivity, and accelerate operational transformation.",
-            "link": "https://openai.com/index/hp-frontier-partnership"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782500445000,
-            "date": "2026-06-26",
-            "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
-            "summary_kr": "본 기사는 NVIDIA NeMo Agent Toolkit 기반의 멀티 에이전트 시스템인 'AI-Q 2.0'을 Oracle Cloud Infrastructure(OCI) 환경에 배포하는 실용적인 가이드를 제공합니다. 테라폼과 헬름을 활용해 프로덕션 수준의 확장 가능한 AI 에이전트 인프라를 효율적으로 구축하는 방법을 설명합니다.",
-            "summary_en": "This article provides a practical guide for deploying the NVIDIA NeMo Agent Toolkit-based 'AI-Q 2.0' multi-agent system on Oracle Cloud Infrastructure (OCI). It demonstrates how to leverage Terraform and Helm to efficiently provision a production-ready and scalable AI agent infrastructure.",
-            "link": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1782489635000,
-            "date": "2026-06-26",
-            "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
-            "summary_kr": "엔비디아 모델 옵티마이저를 활용한 Nemotron 3 Ultra의 NVFP4 양자화는 BF16 수준의 정확도를 유지하면서 모델 크기를 3.2배 줄이고 추론 처리량을 최대 5.9배 향상시켰습니다. 또한, 이 모델은 엔비디아 호퍼 및 블랙웰 아키텍처 간의 호환성을 보장하며 효율적인 고성능 AI 배포 표준을 제시합니다.",
-            "summary_en": "NVIDIA Model Optimizer's NVFP4 quantization of Nemotron 3 Ultra achieves up to 5.9x higher inference throughput and a 3.2x reduction in model size while maintaining BF16-level accuracy. The resulting checkpoint ensures cross-architecture compatibility between NVIDIA Hopper and Blackwell, setting a new standard for efficient, high-performance AI deployment.",
-            "link": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1782468000000,
-            "date": "2026-06-26",
-            "title": "Previewing GPT-5.6 Sol: a next-generation model",
-            "summary_kr": "OpenAI는 코딩, 생물학, 사이버 보안 분야에서 추론 능력과 효율성을 극대화한 차세대 모델 시리즈인 'GPT-5.6(Sol, Terra, Luna)'을 공개하며 정부와의 협력을 통해 순차적 출시를 시작했습니다.",
-            "summary_en": "OpenAI has unveiled the GPT-5.6 model series, featuring Sol, Terra, and Luna, which deliver enhanced reasoning and efficiency in coding, biology, and cybersecurity, while initiating a phased rollout in coordination with the U.S. government.",
-            "link": "https://openai.com/index/previewing-gpt-5-6-sol"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1782432000000,
-            "date": "2026-06-26",
-            "title": "Anthropic Economic Index report: Cadences",
-            "summary_kr": "앤스로픽은 클로드의 사용 패턴이 대화형에서 에이전트형 작업으로 변화함에 따라 데이터를 세분화하여 업무 리듬과 사용자 인식이 AI 경제에 미치는 영향을 분석했습니다. 분석 결과, AI 사용 패턴은 주간 업무 주기와 밀접하게 연동되며, 자동화 도구 활용도가 높은 사용자일수록 AI의 경제적 긍정 효과에 대해 더 낙관적인 것으로 나타났습니다.",
-            "summary_en": "Anthropic has refined its economic index methodology to track the shift from conversational AI to agentic tasks, revealing that Claude usage patterns closely mirror real-world work cycles and seasonal demands. The report highlights that high-frequency AI users express greater optimism regarding AI's impact on job security, compensation, and workplace fulfillment.",
-            "link": "https://www.anthropic.com/research/economic-index-june-2026-report"
         }
     ]
 }
