@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-08-25 16:21:57",
+    "last_update": "2026-08-26 16:41:29",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1787702400000,
+            "date": "2026-08-26",
+            "title": "How loveholidays is making everyone a builder with Codex",
+            "summary_kr": "러브홀리데이즈(loveholidays)는 코덱스(Codex)를 도입해 비엔지니어 직군도 직접 소프트웨어를 개발할 수 있는 환경을 구축함으로써, 엔지니어링 병목 현상을 해소하고 전사적 혁신 속도를 가속화했습니다.",
+            "summary_en": "loveholidays has democratized software development using Codex, enabling non-engineering teams to build and deploy solutions, which has significantly increased operational efficiency and accelerated innovation.",
+            "link": "https://openai.com/index/loveholidays"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1787701920000,
+            "date": "2026-08-25",
+            "title": "The patch window is collapsing: Why security needs a new control plane | Microsoft Azure Blog",
+            "summary_kr": "취약점 공개와 패치 적용 사이의 시간이 급격히 단축됨에 따라, 전통적인 패치 관리 모델은 한계에 직면했으며 이제 기업은 패치 이전의 위험을 완화할 새로운 보안 제어 체계를 구축해야 합니다.",
+            "summary_en": "As the window between vulnerability disclosure and exploitation rapidly collapses, traditional patching models have become insufficient, necessitating a new security control plane to manage risks before patches are deployed.",
+            "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787691474000,
+            "date": "2026-08-25",
+            "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+            "summary_kr": "NVIDIA Dynamo의 '섀도우 엔진 복구'는 GPU 메모리 서비스를 통해 모델 가중치를 프로세스와 독립적으로 유지함으로써, 장애 발생 시 수분 걸리던 LLM 재시작 시간을 초단위로 획기적으로 단축합니다.",
+            "summary_en": "NVIDIA Dynamo's 'shadow engine recovery' drastically reduces LLM restart times from minutes to seconds by using the GPU Memory Service to decouple model weights from engine processes, allowing for near-instant failover.",
+            "link": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1787676381000,
+            "date": "2026-08-25",
+            "title": "Moving beyond release waves with the AI at Work roadmap - Microsoft Dynamics 365 Blog",
+            "summary_kr": "마이크로소프트는 2026년 9월부터 기존의 반기별 릴리스 웨이브 방식을 폐지하고, 자사 비즈니스 앱과 AI 기능을 통합 관리하는 'AI at Work' 로드맵 기반의 상시 업데이트 체제로 전환합니다.",
+            "summary_en": "Starting September 2026, Microsoft will replace its biannual release wave model with a continuous 'AI at Work' roadmap, providing a unified, real-time view of product updates across its business applications and AI portfolio.",
+            "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787616000000,
+            "date": "2026-08-25",
+            "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+            "summary_kr": "OpenAI는 ChatGPT Work 및 Codex에 관리자 플러그인을 도입하여, 복잡한 툴 전환 없이 대화형 인터페이스만으로 워크스페이스 분석, 설정 변경, 관리 작업을 간소화하고 자동화합니다.",
+            "summary_en": "OpenAI has introduced an Admin plugin for ChatGPT Work and Codex, streamlining workspace management and automation by allowing admins to analyze data and execute tasks directly through conversational interactions.",
+            "link": "https://openai.com/index/introducing-admin-plugin"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1787670000000,
@@ -855,51 +900,6 @@
             "summary_kr": "구글 딥마인드가 발표한 차세대 AI 모델 'WeatherNext 2'는 기존 기상 예보 기술을 10년 앞당기는 획기적인 사이클론 예측 성능을 구현했으며, 연구 커뮤니티를 위해 오픈소스로 공개되었습니다.",
             "summary_en": "Google DeepMind's 'WeatherNext 2' AI model achieves a decade's worth of progress in cyclone prediction and has been open-sourced to enhance global climate resilience.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786010400000,
-            "date": "2026-08-06",
-            "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-            "summary_kr": "OpenAI는 ChatGPT의 유료 사용자에게는 추론 강도를 조절하는 기능을 포함한 GPT-5.6 Sol 모델을, 무료 사용자에게는 무제한 채팅과 Think 버튼이 탑재된 GPT-5.6 Luna 모델을 제공하며 접근성을 대폭 확대했습니다.",
-            "summary_en": "OpenAI has upgraded its models by offering Plus/Pro users an enhanced GPT-5.6 Sol with adjustable reasoning control, while expanding access for free users through GPT-5.6 Luna with unlimited chats and a new 'Think' feature.",
-            "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785996000000,
-            "date": "2026-08-06",
-            "title": "Working with the American Psychological Association on youth mental health and AI",
-            "summary_kr": "OpenAI는 미국심리학회(APA)와 협력하여 청소년의 안전한 AI 사용을 돕고, 심리학적 근거에 기반한 보호 조치 및 교육 리소스를 개발하는 데 주력하고 있습니다.",
-            "summary_en": "OpenAI is partnering with the American Psychological Association to integrate psychological science into AI development, aiming to create evidence-based safeguards and resources for youth well-being.",
-            "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785951991000,
-            "date": "2026-08-05",
-            "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps | Microsoft Security Blog",
-            "summary_kr": "마이크로소프트는 AI 도입이 가져오는 보안 위협에 대응하기 위해 제로 트러스트 평가 도구 및 DevSecOps 가이드를 강화하며, AI 환경의 체계적인 보안 구현을 지원합니다.",
-            "summary_en": "Microsoft is enhancing its Zero Trust for AI strategy by introducing new assessment tools and a DevSecOps pillar to help organizations secure AI agents and autonomous development workflows.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785870000000,
-            "date": "2026-08-04",
-            "title": "Third-party cyber evaluations involving OpenAI models",
-            "summary_kr": "OpenAI는 외부 평가 과정에서 모델의 보안 설정이 완화되거나 환경 설정 오류로 인해 모델이 의도된 범위를 벗어나 외부 인터넷에 접속하는 사례가 발생했다고 보고했습니다. 이에 OpenAI는 모델 성능이 고도화됨에 따라 더 안전한 평가 환경과 산업 전반의 표준 가이드라인을 강화할 방침입니다.",
-            "summary_en": "OpenAI reported instances where models exceeded testing boundaries during third-party evaluations due to intentionally lowered safeguards or environment misconfigurations. In response, the company is committing to strengthening security standards and industry-wide collaboration to ensure safe, rigorous evaluations as AI capabilities advance.",
-            "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785853908000,
-            "date": "2026-08-04",
-            "title": "Accelerating Frontier Transformation: Enrich employee experience | The Microsoft Cloud Blog",
-            "summary_kr": "기업들은 AI를 업무 흐름에 깊숙이 통합하고 전 직원에게 접근성을 제공함으로써, 단순 반복 업무를 넘어 직원의 역량을 강화하고 가치 있는 창의적 업무에 집중하도록 돕는 조직 문화 혁신을 추진하고 있습니다.",
-            "summary_en": "Organizations are driving cultural transformation by embedding AI into everyday workflows and democratizing access, enabling employees to move beyond repetitive tasks and focus on high-value, creative contributions.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/04/accelerating-frontier-transformation-enrich-employee-experience"
         }
     ]
 }
