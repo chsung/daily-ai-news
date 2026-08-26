@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-25 15:49:20",
+    "last_update": "2026-08-26 03:58:10",
     "articles": [
+        {
+            "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI | TechCrunch - TechCrunch",
+            "summary_en": "AI startup Mirendil has secured a multiyear, $100 million-plus partnership with Google Cloud to access both TPUs and NVIDIA GPUs for developing self-improving AI. The deal aims to leverage hardware-software synergy to automate complex scientific research, while providing Google with a strategic partner in the frontier AI race.",
+            "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
+            "timestamp": 1786021200000,
+            "date": "2026-08-06"
+        },
+        {
+            "title": "Google shakes up AI leadership. Hassabis swaps CEO role for research. - Business Insider",
+            "summary_en": "Google is undergoing a major leadership restructuring, with Demis Hassabis transitioning from DeepMind CEO to Alphabet's Chief Scientist to focus on long-term AI research. Meanwhile, veteran researcher Jeff Dean is departing to launch a new initiative, as the company seeks to accelerate its AGI development and close the gap with competitors.",
+            "link": "https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8",
+            "timestamp": 1785946920000,
+            "date": "2026-08-05"
+        },
+        {
+            "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
+            "summary_en": "Meta has launched Muse Code, an AI coding agent designed to compete with Anthropic and OpenAI by offering a cost-effective, pay-as-you-go developer tool. The platform aims to generate new revenue streams for Meta by leveraging its Muse Spark 1.2 models and providing enterprise-focused features like zero-data retention options.",
+            "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+            "timestamp": 1785956417000,
+            "date": "2026-08-05"
+        },
         {
             "title": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country - U.S. National Science Foundation (.gov)",
             "summary_en": "The U.S. National Science Foundation has initiated a $100 million program to establish State and Regional AI Infrastructure Hubs, addressing the uneven distribution of computing resources across the country. This initiative seeks to accelerate scientific discovery and workforce development through regional consortia involving academic, government, and private sector partners.",
@@ -679,27 +700,6 @@
             "link": "https://broadbandbreakfast.com/chinese-ai-model-takes-u-s-by-surprise-with-abilities-rivaling-claude-and-chatgpt",
             "timestamp": 1784395168000,
             "date": "2026-07-18"
-        },
-        {
-            "title": "NVIDIA Metropolis Updates Speed Vision AI Agent Development - quasa.io",
-            "summary_en": "NVIDIA has updated its Metropolis platform with over 80 new skills across its suite of development tools, including DeepStream 9.1 and TAO 7. These additions are designed to streamline the creation of agentic vision AI systems, potentially reducing development time for production-ready solutions by up to 6x.",
-            "link": "https://quasa.io/media/nvidia-metropolis-3-2-and-deepstream-9-1-enable-6x-faster-vision-ai-agent-development",
-            "timestamp": 1784415060000,
-            "date": "2026-07-18"
-        },
-        {
-            "title": "Apple Just Reclaimed the World's Most Valuable Company Title From Nvidia. Here Is What the Tech Rotation Means for Enterprise Strategy. - MarketScale",
-            "summary_en": "Apple has reclaimed its position as the world's most valuable company with a $4.91 trillion market cap, surpassing Nvidia as investor focus shifts from AI infrastructure to durable, consumer-facing technology ecosystems. This rotation reflects growing market confidence in Apple’s ability to monetize AI through its massive existing user base and upcoming intelligence platform updates.",
-            "link": "https://www.marketscale.com/industries/software-and-technology/apple-just-reclaimed-the-worlds-most-valuable-company-title-from-nvidia-here-is-what-the-tech-rotation-means-for-enterprise-strategy",
-            "timestamp": 1784306600000,
-            "date": "2026-07-17"
-        },
-        {
-            "title": "Inside Nvidia’s role in AI factory networking - SiliconANGLE",
-            "summary_en": "Nvidia is shifting the focus of AI infrastructure from raw GPU speed to a systems-level 'extreme co-design' approach where networking, compute, and storage operate as a unified entity. With 95% of organizations now prioritizing network performance, the company's Spectrum-X platform utilizes standard Ethernet to eliminate congestion and maximize AI factory efficiency.",
-            "link": "https://siliconangle.com/2026/07/16/ai-factory-networking-nvidia-analysis-cubeconversations",
-            "timestamp": 1784226614000,
-            "date": "2026-07-16"
         }
     ]
 }

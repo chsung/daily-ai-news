@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-25 15:49:20",
+    "last_update": "2026-08-26 03:58:10",
     "articles": [
+        {
+            "title": "NVIDIA Metropolis Updates Speed Vision AI Agent Development - quasa.io",
+            "summary_en": "NVIDIA has updated its Metropolis platform with over 80 new skills across its suite of development tools, including DeepStream 9.1 and TAO 7. These additions are designed to streamline the creation of agentic vision AI systems, potentially reducing development time for production-ready solutions by up to 6x.",
+            "link": "https://quasa.io/media/nvidia-metropolis-3-2-and-deepstream-9-1-enable-6x-faster-vision-ai-agent-development",
+            "timestamp": 1784415060000,
+            "date": "2026-07-18"
+        },
+        {
+            "title": "Apple Just Reclaimed the World's Most Valuable Company Title From Nvidia. Here Is What the Tech Rotation Means for Enterprise Strategy. - MarketScale",
+            "summary_en": "Apple has reclaimed its position as the world's most valuable company with a $4.91 trillion market cap, surpassing Nvidia as investor focus shifts from AI infrastructure to durable, consumer-facing technology ecosystems. This rotation reflects growing market confidence in Apple’s ability to monetize AI through its massive existing user base and upcoming intelligence platform updates.",
+            "link": "https://www.marketscale.com/industries/software-and-technology/apple-just-reclaimed-the-worlds-most-valuable-company-title-from-nvidia-here-is-what-the-tech-rotation-means-for-enterprise-strategy",
+            "timestamp": 1784306600000,
+            "date": "2026-07-17"
+        },
+        {
+            "title": "Inside Nvidia’s role in AI factory networking - SiliconANGLE",
+            "summary_en": "Nvidia is shifting the focus of AI infrastructure from raw GPU speed to a systems-level 'extreme co-design' approach where networking, compute, and storage operate as a unified entity. With 95% of organizations now prioritizing network performance, the company's Spectrum-X platform utilizes standard Ethernet to eliminate congestion and maximize AI factory efficiency.",
+            "link": "https://siliconangle.com/2026/07/16/ai-factory-networking-nvidia-analysis-cubeconversations",
+            "timestamp": 1784226614000,
+            "date": "2026-07-16"
+        },
         {
             "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers - Dark Reading",
             "summary_en": "Google Cloud has launched an 'agentic defense' platform by integrating Wiz’s security capabilities with its Gemini AI to automate threat remediation, noting that the average time for attackers to pivot after a breach has plummeted to just 22 seconds. By leveraging a vertical stack from chips to agents, Google aims to replace human-led security with AI-driven, real-time threat response.",
@@ -678,27 +699,6 @@
             "summary_en": "The US government has lifted export restrictions on Anthropic’s Claude Fable 5 and Mythos 5 models after the company implemented enhanced safety measures and red-teaming protocols. Anthropic will now provide broader access to these models through the Glasswing program while remaining under federal oversight.",
             "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release",
             "timestamp": 1782924258000,
-            "date": "2026-07-01"
-        },
-        {
-            "title": "Anthropic unveils 'Claude Science' for scientific research - Reuters",
-            "summary_en": "Anthropic has officially introduced 'Claude Science,' a specialized initiative tailored for scientific research and complex data analysis.",
-            "link": "https://www.reuters.com/science/anthropic-unveils-claude-science-ai-platform-scientific-research-2026-06-30",
-            "timestamp": 1782845867000,
-            "date": "2026-06-30"
-        },
-        {
-            "title": "OpenAI launches GeneBench-Pro for AI biology research | Digital Watch Observatory - Digital Watch Observatory",
-            "summary_en": "OpenAI launched GeneBench-Pro, a benchmark using synthetic datasets to evaluate an AI's 'research taste' and judgment in computational biology. While frontier models like GPT-5.6 Sol currently solve less than one-third of the problems, the tool aims to accelerate research in genomics and drug discovery.",
-            "link": "https://dig.watch/updates/openai-genebench-pro-ai-biology-research",
-            "timestamp": 1782968400000,
-            "date": "2026-07-02"
-        },
-        {
-            "title": "Amazon's AWS Bets $1 Billion on New AI Engineering Unit Built Around a Strategy Palantir Pioneered More T - Benzinga",
-            "summary_en": "Amazon Web Services is investing $1 billion into a new Forward Deployed Engineering (FDE) unit that embeds engineers with clients to build autonomous AI systems. Additionally, the company launched the AWS Secret Cloud for Industry, backed by a $20 million accelerator, to support classified workloads for defense contractors.",
-            "link": "https://www.benzinga.com/markets/tech/26/07/60215633/amazons-aws-bets-1-billion-on-new-ai-engineering-unit-built-around-a-strategy-palantir-pioneered-more-than-a-decade-ago",
-            "timestamp": 1782912586000,
             "date": "2026-07-01"
         }
     ]
