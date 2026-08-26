@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-26 03:58:10",
+    "last_update": "2026-08-26 16:22:48",
     "articles": [
+        {
+            "title": "Meta launches Muse Code, an AI agent for large code bases | TechCrunch - TechCrunch",
+            "summary_en": "Meta has launched Muse Code, a beta terminal coding agent that utilizes parallel sub-agents to manage complex software engineering tasks across large repositories. The tool aims to compete with industry rivals like OpenAI and Anthropic by offering a more cost-effective solution for large-scale development workflows.",
+            "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
+            "timestamp": 1785964888000,
+            "date": "2026-08-05"
+        },
+        {
+            "title": "Microsoft extends zero trust deeper into enterprise AI - Help Net Security",
+            "summary_en": "Microsoft has expanded its Zero Trust framework to include specific pillars for AI security and DevSecOps, helping organizations mitigate risks in AI-assisted development. The update provides actionable roadmaps and technical guidance to secure the AI software supply chain, from source code to cloud deployment.",
+            "link": "https://www.helpnetsecurity.com/2026/08/06/microsoft-zero-trust-for-ai-strategy-updates",
+            "timestamp": 1786007091000,
+            "date": "2026-08-06"
+        },
+        {
+            "title": "NVIDIA Showcases Cosmos 3 and Omniverse for Open Physical AI Development - BigDATAwire - HPCwire",
+            "summary_en": "NVIDIA has introduced Cosmos 3, a family of open physical AI foundation models designed to unify vision reasoning, world generation, and action prediction. By integrating with the Omniverse and OpenUSD frameworks, these models allow developers to specialize AI for robotics and autonomous systems using a flexible, open-weights architecture.",
+            "link": "https://www.hpcwire.com/bigdatawire/this-just-in/nvidia-showcases-cosmos-3-and-omniverse-for-open-physical-ai-development",
+            "timestamp": 1786036789000,
+            "date": "2026-08-06"
+        },
         {
             "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI | TechCrunch - TechCrunch",
             "summary_en": "AI startup Mirendil has secured a multiyear, $100 million-plus partnership with Google Cloud to access both TPUs and NVIDIA GPUs for developing self-improving AI. The deal aims to leverage hardware-software synergy to automate complex scientific research, while providing Google with a strategic partner in the frontier AI race.",
@@ -679,27 +700,6 @@
             "link": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
             "timestamp": 1784522400000,
             "date": "2026-07-20"
-        },
-        {
-            "title": "South Korea's AI Strategy: Gaps to Fill - 조선일보",
-            "summary_en": "South Korea holds a critical advantage in the AI supply chain through its dominance in high-bandwidth memory (HBM) production by Samsung and SK Hynix. Experts argue the nation should shift its strategy from building redundant general-purpose models toward integrating global AI technologies into its industrial sector to maximize competitive impact.",
-            "link": "https://www.chosun.com/english/opinion-en/2026/07/19/A5CUFAQPORANNNCBPZOXEVYA7I",
-            "timestamp": 1784471944000,
-            "date": "2026-07-19"
-        },
-        {
-            "title": "You can now design your next BMW using ChatGPT AI - Motoring Research",
-            "summary_en": "BMW has integrated a custom ChatGPT plugin that allows users to identify and specify their ideal vehicle through natural language text or voice prompts. The AI streamlines the selection process by scanning BMW's model range and dealership inventory, eventually syncing the results with the brand's traditional online configurator.",
-            "link": "https://www.motoringresearch.com/car-news/bmw-chatgpt-ai-configurator",
-            "timestamp": 1784450113000,
-            "date": "2026-07-19"
-        },
-        {
-            "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT - Broadband Breakfast",
-            "summary_en": "Beijing-based Moonshot AI has launched its Kimi K3 model, which analysts report is rivaling top U.S. AI systems in coding capability despite ongoing accusations of illicit model distillation. The release highlights China's aggressive push for domestic AI self-sufficiency through local hardware like Huawei's Atlas 950 SuperPoD.",
-            "link": "https://broadbandbreakfast.com/chinese-ai-model-takes-u-s-by-surprise-with-abilities-rivaling-claude-and-chatgpt",
-            "timestamp": 1784395168000,
-            "date": "2026-07-18"
         }
     ]
 }

@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-26 03:58:10",
+    "last_update": "2026-08-26 16:22:48",
     "articles": [
+        {
+            "title": "South Korea's AI Strategy: Gaps to Fill - 조선일보",
+            "summary_en": "South Korea holds a critical advantage in the AI supply chain through its dominance in high-bandwidth memory (HBM) production by Samsung and SK Hynix. Experts argue the nation should shift its strategy from building redundant general-purpose models toward integrating global AI technologies into its industrial sector to maximize competitive impact.",
+            "link": "https://www.chosun.com/english/opinion-en/2026/07/19/A5CUFAQPORANNNCBPZOXEVYA7I",
+            "timestamp": 1784471944000,
+            "date": "2026-07-19"
+        },
+        {
+            "title": "You can now design your next BMW using ChatGPT AI - Motoring Research",
+            "summary_en": "BMW has integrated a custom ChatGPT plugin that allows users to identify and specify their ideal vehicle through natural language text or voice prompts. The AI streamlines the selection process by scanning BMW's model range and dealership inventory, eventually syncing the results with the brand's traditional online configurator.",
+            "link": "https://www.motoringresearch.com/car-news/bmw-chatgpt-ai-configurator",
+            "timestamp": 1784450113000,
+            "date": "2026-07-19"
+        },
+        {
+            "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT - Broadband Breakfast",
+            "summary_en": "Beijing-based Moonshot AI has launched its Kimi K3 model, which analysts report is rivaling top U.S. AI systems in coding capability despite ongoing accusations of illicit model distillation. The release highlights China's aggressive push for domestic AI self-sufficiency through local hardware like Huawei's Atlas 950 SuperPoD.",
+            "link": "https://broadbandbreakfast.com/chinese-ai-model-takes-u-s-by-surprise-with-abilities-rivaling-claude-and-chatgpt",
+            "timestamp": 1784395168000,
+            "date": "2026-07-18"
+        },
         {
             "title": "NVIDIA Metropolis Updates Speed Vision AI Agent Development - quasa.io",
             "summary_en": "NVIDIA has updated its Metropolis platform with over 80 new skills across its suite of development tools, including DeepStream 9.1 and TAO 7. These additions are designed to streamline the creation of agentic vision AI systems, potentially reducing development time for production-ready solutions by up to 6x.",
@@ -679,27 +700,6 @@
             "link": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
             "timestamp": 1783033513000,
             "date": "2026-07-02"
-        },
-        {
-            "title": "Microsoft Invests $2.5B In AI Consulting Business - MediaPost",
-            "summary_en": "Microsoft has launched the Microsoft Frontier Company with a $2.5 billion investment to provide enterprise-level AI engineering and consulting services. The unit will deploy 6,000 experts to work directly with clients to co-design and secure proprietary enterprise intelligence platforms.",
-            "link": "https://www.mediapost.com/publications/article/416262/microsoft-furthers-trend-invests-25b-in-ai-cons.html",
-            "timestamp": 1783021018000,
-            "date": "2026-07-02"
-        },
-        {
-            "title": "Microsoft launches AI engineering company - InfoWorld",
-            "summary_en": "Microsoft’s new Frontier Company aims to facilitate 'frontier transformation' by embedding specialized engineering teams within client organizations. The initiative focuses on building continuous improvement loops for AI systems while protecting a company’s unique proprietary data and workflows.",
-            "link": "https://www.infoworld.com/article/4192524/microsoft-launches-ai-engineering-company.html",
-            "timestamp": 1783041902000,
-            "date": "2026-07-03"
-        },
-        {
-            "title": "After spooking Trump into safety testing, Anthropic AI models get global release - Ars Technica",
-            "summary_en": "The US government has lifted export restrictions on Anthropic’s Claude Fable 5 and Mythos 5 models after the company implemented enhanced safety measures and red-teaming protocols. Anthropic will now provide broader access to these models through the Glasswing program while remaining under federal oversight.",
-            "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release",
-            "timestamp": 1782924258000,
-            "date": "2026-07-01"
         }
     ]
 }
