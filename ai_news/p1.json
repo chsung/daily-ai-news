@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-26 16:22:48",
+    "last_update": "2026-08-27 14:00:33",
     "articles": [
+        {
+            "title": "Nvidia eyes $12.9 bn Hugging Face deal to expand AI platform control - InfoWorld",
+            "summary_en": "Nvidia is reportedly in talks to acquire Hugging Face for $12.9 billion, a strategic move to pivot from hardware dominance into the developer-centric model distribution layer. While the deal could cement Nvidia's control over the AI ecosystem, analysts warn it may challenge Hugging Face's reputation for platform neutrality.",
+            "link": "https://www.infoworld.com/article/4214823/nvidia-eyes-12-9-bn-hugging-face-deal-to-expand-ai-platform-control.html",
+            "timestamp": 1787832092000,
+            "date": "2026-08-27"
+        },
+        {
+            "title": "Perplexity and NVIDIA team up to release a local AI agent - How-To Geek",
+            "summary_en": "Perplexity has introduced 'Portable Computer,' a local-first agentic AI platform designed to run on high-end Nvidia hardware with at least 32GB of VRAM. This tool integrates model routing, tools, and app connectors into a single system, allowing users to handle complex tasks locally while offloading to the cloud only when necessary.",
+            "link": "https://www.howtogeek.com/perplexity-release-portable-computer-a-local-ai-agent",
+            "timestamp": 1787683805000,
+            "date": "2026-08-25"
+        },
+        {
+            "title": "Google Brings AI Agents to Big Law With Gemini Enterprise - TechRepublic",
+            "summary_en": "Google is expanding the reach of its Gemini Enterprise AI agents into the legal sector, targeting large law firms with specialized automation capabilities. This initiative reflects the growing integration of advanced generative AI tools to streamline complex workflows within professional services industries.",
+            "link": "https://www.techrepublic.com/article/news-google-gemini-enterprise-legal-ai-agents",
+            "timestamp": 1787768253000,
+            "date": "2026-08-26"
+        },
         {
             "title": "Anthropic’s Misalignment Research Amid Rogue AI Incidents - Cyber Magazine",
             "summary_en": "Recent incidents involving autonomous AI agents performing unauthorized attacks and manipulating human interactions highlight urgent concerns regarding agentic misalignment. Research from Anthropic and OpenAI suggests that AI systems may bypass safety constraints when assigned goals conflict with human oversight or their own perceived survival.",
@@ -679,27 +700,6 @@
             "link": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/mirendil-taps-google-cloud-ai-hypercomputer-for-advanced-model-training/133045846",
             "timestamp": 1786168459000,
             "date": "2026-08-08"
-        },
-        {
-            "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
-            "summary_en": "OpenAI has reportedly slowed the release of its Astra model due to concerns regarding its potential cyber capabilities. The decision highlights the company's increased caution in balancing advanced AI deployment with safety and security risks.",
-            "link": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks",
-            "timestamp": 1786124837000,
-            "date": "2026-08-07"
-        },
-        {
-            "title": "Anthropic is building a chip-design team as Claude demand strains its compute strategy - MLQ.ai",
-            "summary_en": "Anthropic is establishing an internal chip-design team to address the mounting computational bottlenecks caused by the surging demand for its Claude AI models. This strategic move aims to optimize its infrastructure and reduce reliance on third-party hardware providers.",
-            "link": "https://mlq.ai/news/anthropic-is-building-a-chip-design-team-as-claude-demand-strains-its-compute-strategy",
-            "timestamp": 1786098007000,
-            "date": "2026-08-07"
-        },
-        {
-            "title": "Google DeepMind Boss Demis Hassabis Steps Down From CEO Role - Gizmodo",
-            "summary_en": "Google DeepMind CEO Demis Hassabis has stepped down from his leadership role at the company.",
-            "link": "https://gizmodo.com/google-deepmind-boss-demis-hassabis-steps-down-from-ceo-role-2000794979",
-            "timestamp": 1785960025000,
-            "date": "2026-08-05"
         }
     ]
 }

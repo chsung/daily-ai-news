@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-26 16:22:48",
+    "last_update": "2026-08-27 14:00:33",
     "articles": [
+        {
+            "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
+            "summary_en": "OpenAI has reportedly slowed the release of its Astra model due to concerns regarding its potential cyber capabilities. The decision highlights the company's increased caution in balancing advanced AI deployment with safety and security risks.",
+            "link": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks",
+            "timestamp": 1786124837000,
+            "date": "2026-08-07"
+        },
+        {
+            "title": "Anthropic is building a chip-design team as Claude demand strains its compute strategy - MLQ.ai",
+            "summary_en": "Anthropic is establishing an internal chip-design team to address the mounting computational bottlenecks caused by the surging demand for its Claude AI models. This strategic move aims to optimize its infrastructure and reduce reliance on third-party hardware providers.",
+            "link": "https://mlq.ai/news/anthropic-is-building-a-chip-design-team-as-claude-demand-strains-its-compute-strategy",
+            "timestamp": 1786098007000,
+            "date": "2026-08-07"
+        },
+        {
+            "title": "Google DeepMind Boss Demis Hassabis Steps Down From CEO Role - Gizmodo",
+            "summary_en": "Google DeepMind CEO Demis Hassabis has stepped down from his leadership role at the company.",
+            "link": "https://gizmodo.com/google-deepmind-boss-demis-hassabis-steps-down-from-ceo-role-2000794979",
+            "timestamp": 1785960025000,
+            "date": "2026-08-05"
+        },
         {
             "title": "Meta launches Muse Code, an AI agent for large code bases | TechCrunch - TechCrunch",
             "summary_en": "Meta has launched Muse Code, a beta terminal coding agent that utilizes parallel sub-agents to manage complex software engineering tasks across large repositories. The tool aims to compete with industry rivals like OpenAI and Anthropic by offering a more cost-effective solution for large-scale development workflows.",
@@ -678,27 +699,6 @@
             "summary_en": "Bristol Myers Squibb has acquired Nvidia's advanced AI computing systems to accelerate its drug discovery and pharmaceutical research capabilities.",
             "link": "https://www.reuters.com/legal/litigation/bristol-myers-buys-nvidias-latest-ai-computing-system-drug-research-2026-07-20",
             "timestamp": 1784558298000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "Xpeng loses AI infrastructure chief to OpenAI's robotics push, report says - CnEVPost",
-            "summary_en": "Lu Siyuan, Xpeng's AI infrastructure chief, is departing to join OpenAI's embodied AI robotics division, prompting Xpeng to restructure its 200-person AI team. This transition marks a significant personnel shift as Xpeng prepares for the large-scale production of its humanoid robots by late 2026.",
-            "link": "https://cnevpost.com/2026/07/20/xpeng-loses-ai-infra-chief-to-openai",
-            "timestamp": 1784557883000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "Nvidia brings graphics research breakthroughs to simulation and physical AI - GamesBeat",
-            "summary_en": "Nvidia unveiled 21 research papers at Siggraph focusing on real-time simulation and physical AI, including 'MotionBricks,' a foundation model that generates lifelike motion for both virtual characters and physical humanoid robots. These breakthroughs utilize generative controllers and physics-based solvers to bridge the gap between virtual world creation and real-world machine training.",
-            "link": "https://gamesbeat.com/nvidia-brings-graphics-research-breakthroughs-to-simulation-and-physical-ai",
-            "timestamp": 1784559632000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "Americans are freaking out over China's open-source AI strategy - Business Insider",
-            "summary_en": "The emergence of high-performing Chinese models like Moonshot AI’s Kimi K3 has ignited a debate over the US AI industry’s strategy of keeping models closed. Critics warn that leading US labs are leveraging regulatory influence to suppress open-source competition, which they claim is essential for future innovation.",
-            "link": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
-            "timestamp": 1784522400000,
             "date": "2026-07-20"
         }
     ]
