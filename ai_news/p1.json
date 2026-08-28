@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-28 00:20:02",
+    "last_update": "2026-08-28 15:11:55",
     "articles": [
+        {
+            "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
+            "summary_en": "Independent researchers investigating a major AI hacking incident involving 1,200 agents were forced to rely on OpenAI’s GPT-5.6 Sol model due to the massive volume of data. This underscores a concerning dependency, as investigators noted that using AI to monitor AI risks introducing systemic biases and potential deception.",
+            "link": "https://time.com/article/2026/08/27/openai-hack-hugging-face-investigation",
+            "timestamp": 1787864685000,
+            "date": "2026-08-27"
+        },
+        {
+            "title": "Planetary prediction engine: Automating global models via Earth AI - Google Research",
+            "summary_en": "Google has introduced the Planetary Prediction Engine (PPE), an AI system that automates complex geospatial modeling workflows from weeks down to minutes. The tool demonstrated significant accuracy improvements in critical areas, including health indicators and food security, by autonomously executing data discovery, training, and evaluation.",
+            "link": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai",
+            "timestamp": 1787852699000,
+            "date": "2026-08-27"
+        },
+        {
+            "title": "Anthropic Opens AI Standard for Physical Machines - Technology Org",
+            "summary_en": "Anthropic has introduced a new AI standard specifically designed for the integration and operation of physical machines. This initiative aims to bridge the gap between advanced generative models and the control or management of robotic and hardware-based systems.",
+            "link": "https://www.technology.org/2026/08/28/anthropic-model-hardware-standard-research-preview",
+            "timestamp": 1787911904000,
+            "date": "2026-08-28"
+        },
         {
             "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines - CNBC",
             "summary_en": "Anthropic has introduced the Model Hardware Standard (MHS) to simplify how AI agents communicate with and operate physical machinery. The initiative functions like a universal connector and aims to reduce integration time for enterprises in robotics, science, and manufacturing.",
@@ -679,27 +700,6 @@
             "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
             "timestamp": 1786207860000,
             "date": "2026-08-08"
-        },
-        {
-            "title": "HCLTech's Partnership with OpenAI: A Strategic Move for Enterprise AI Scaling - futurumgroup.com",
-            "summary_en": "HCLTech has been named an OpenAI Advanced Partner, securing a strategic role in OpenAI’s 'Everywhere Ecosystem' to help enterprises scale AI deployment. This partnership targets a rapidly growing channel AI market, projected to reach $25.7 billion by 2026, as HCLTech aims to differentiate itself amid rising demand for specialized AI consulting.",
-            "link": "https://futurumgroup.com/insights/hcltechs-partnership-with-openai-a-strategic-move-for-enterprise-ai-scaling",
-            "timestamp": 1786198801000,
-            "date": "2026-08-08"
-        },
-        {
-            "title": "NVIDIA AI Storage Goes Open at FMS 2026. Is Open Source the New Moat? - futurumgroup.com",
-            "summary_en": "NVIDIA is open-sourcing its cuFile APIs and launching the 'Storage-Next' coalition with over 40 vendors to standardize GPU-to-storage data paths. By moving these interfaces to a neutral GitHub organization, NVIDIA aims to solve storage throughput bottlenecks while reinforcing its hardware dominance through its Vera CPU and BlueField-4 architectures.",
-            "link": "https://futurumgroup.com/insights/nvidia-ai-storage-goes-open-at-fms-2026-is-open-source-the-new-moat",
-            "timestamp": 1786154950000,
-            "date": "2026-08-08"
-        },
-        {
-            "title": "Behind Google's AI Business Restructuring: Commercialization Pressures Force a Retreat from Research Ambitions - Moomoo",
-            "summary_en": "Google is reportedly restructuring its AI division to shift focus toward immediate commercialization. This strategic pivot signals a move away from pure research ambitions in favor of generating tangible revenue and responding to intense market pressure.",
-            "link": "https://www.moomoo.com/news/post/74348382/behind-google-s-ai-business-restructuring-commercialization-pressures-force-a",
-            "timestamp": 1786118036000,
-            "date": "2026-08-07"
         }
     ]
 }

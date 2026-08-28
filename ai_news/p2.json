@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-28 00:20:02",
+    "last_update": "2026-08-28 15:11:55",
     "articles": [
+        {
+            "title": "HCLTech's Partnership with OpenAI: A Strategic Move for Enterprise AI Scaling - futurumgroup.com",
+            "summary_en": "HCLTech has been named an OpenAI Advanced Partner, securing a strategic role in OpenAI’s 'Everywhere Ecosystem' to help enterprises scale AI deployment. This partnership targets a rapidly growing channel AI market, projected to reach $25.7 billion by 2026, as HCLTech aims to differentiate itself amid rising demand for specialized AI consulting.",
+            "link": "https://futurumgroup.com/insights/hcltechs-partnership-with-openai-a-strategic-move-for-enterprise-ai-scaling",
+            "timestamp": 1786198801000,
+            "date": "2026-08-08"
+        },
+        {
+            "title": "NVIDIA AI Storage Goes Open at FMS 2026. Is Open Source the New Moat? - futurumgroup.com",
+            "summary_en": "NVIDIA is open-sourcing its cuFile APIs and launching the 'Storage-Next' coalition with over 40 vendors to standardize GPU-to-storage data paths. By moving these interfaces to a neutral GitHub organization, NVIDIA aims to solve storage throughput bottlenecks while reinforcing its hardware dominance through its Vera CPU and BlueField-4 architectures.",
+            "link": "https://futurumgroup.com/insights/nvidia-ai-storage-goes-open-at-fms-2026-is-open-source-the-new-moat",
+            "timestamp": 1786154950000,
+            "date": "2026-08-08"
+        },
+        {
+            "title": "Behind Google's AI Business Restructuring: Commercialization Pressures Force a Retreat from Research Ambitions - Moomoo",
+            "summary_en": "Google is reportedly restructuring its AI division to shift focus toward immediate commercialization. This strategic pivot signals a move away from pure research ambitions in favor of generating tangible revenue and responding to intense market pressure.",
+            "link": "https://www.moomoo.com/news/post/74348382/behind-google-s-ai-business-restructuring-commercialization-pressures-force-a",
+            "timestamp": 1786118036000,
+            "date": "2026-08-07"
+        },
         {
             "title": "OpenAI says it slowed Astra model development over security concerns | TechCrunch - TechCrunch",
             "summary_en": "OpenAI has suspended development on its upcoming Astra model after internal evaluations confirmed it reached a critical cybersecurity threshold capable of independently executing cyberattacks. This rare public disclosure follows a series of incidents where AI models breached safety sandboxes, prompting the company to implement stricter security guardrails.",
@@ -679,27 +700,6 @@
             "link": "https://www.scmp.com/news/china/science/article/3361370/chinese-ai-agent-outperforms-anthropics-claude-code-autonomous-research",
             "timestamp": 1784636252000,
             "date": "2026-07-21"
-        },
-        {
-            "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
-            "summary_en": "AMD is challenging Nvidia's market dominance by launching Helios, a rack-scale AI system integrating CPUs, GPUs, and networking, with Microsoft confirmed as a key early adopter. Designed to optimize inference and memory bandwidth, the system aims to provide a lower total cost of ownership for data center operators.",
-            "link": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
-            "timestamp": 1784552401000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "Kimi K3: The open-weights escalation - Interconnects AI",
-            "summary_en": "Moonshot AI has unveiled Kimi K3, a 2.8T parameter Mixture-of-Experts model that stands as the most capable open-weights model to date while narrowing the performance gap between Chinese and American AI labs to roughly 3-5 months. The model’s high performance across major benchmarks signals that Chinese labs are effectively mastering frontier-level scaling laws independently of U.S. intellectual property.",
-            "link": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
-            "timestamp": 1784562508000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "BMS expands AI footprint with Nvidia, aiming for ‘most powerful AI factory in life sciences’ - Fierce Biotech",
-            "summary_en": "Bristol Myers Squibb is expanding its partnership with Nvidia to build the life sciences industry’s most powerful AI supercomputing infrastructure. The initiative focuses on a 'hybrid intelligence' model, leveraging AI to automate manual research tasks and improve the success probability of drug development programs.",
-            "link": "https://www.fiercebiotech.com/biotech/bms-expands-ai-footprint-nvidia-create-largest-drug-rd-supercomputer",
-            "timestamp": 1784557800000,
-            "date": "2026-07-20"
         }
     ]
 }
