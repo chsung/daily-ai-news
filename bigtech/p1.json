@@ -1,6 +1,168 @@
 {
-    "last_update": "2026-08-26 16:41:29",
+    "last_update": "2026-08-28 00:40:09",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1787852021000,
+            "date": "2026-08-27",
+            "title": "DepEd and Microsoft Partner to Advance Philippine Education in the AI Era, Equip 1M Teachers with Microsoft Copilot - Source Asia",
+            "summary_kr": "필리핀 교육부와 마이크로소프트의 파트너십 확대로 100만 명의 교사가 AI 도구인 코파일럿을 도입하여 수업 효율성을 높이고, 교육 현장의 디지털 전환과 학습 성과 개선을 가속화합니다.",
+            "summary_en": "The DepEd and Microsoft partnership will provide 1 million Filipino teachers with access to Microsoft Copilot to enhance instructional efficiency, accelerate digital transformation, and improve student learning outcomes.",
+            "link": "https://news.microsoft.com/source/asia/2026/08/27/deped-and-microsoft-partner-to-advance-philippine-education-in-the-ai-era-equip-1m-teachers-with-microsoft-copilot"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1787846400000,
+            "date": "2026-08-27",
+            "title": "Google Flow brings new creative control features to enhance video editing.",
+            "summary_kr": "구글은 제미나이 옴니 1.1 플래시를 통해 '구글 플로우'의 영상 편집 기능을 강화하여, 정교한 프레임 제어와 고해상도 출력 및 효율적인 업스케일링 워크플로우를 제공합니다.",
+            "summary_en": "Google has enhanced its 'Google Flow' platform with Gemini Omni 1.1 Flash, introducing advanced frame control, high-resolution rendering, and efficient upscaling workflows for creators.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787821200000,
+            "date": "2026-08-27",
+            "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+            "summary_kr": "보코니 대학의 연구 결과, ChatGPT는 학생 과제의 품질과 논리적 완성도를 높이고, 인과 추론 훈련은 독창적인 아이디어를 끌어내는 데 기여하여 두 요소가 상호 보완적인 효과를 내는 것으로 나타났습니다.",
+            "summary_en": "A study at Bocconi University demonstrates that ChatGPT enhances the quality and coherence of student work, while causal reasoning training fosters greater originality, proving that AI and critical thinking are complementary educational tools.",
+            "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787799600000,
+            "date": "2026-08-27",
+            "title": "Expanding OpenAI’s presence in Brazil",
+            "summary_kr": "OpenAI가 브라질에 상파울루 지사를 설립하고 본격적인 상업 운영을 시작하며, 현지 기업 및 기관과의 협력을 통해 AI 기반의 경제 성장과 사회적 가치 창출을 가속화합니다.",
+            "summary_en": "OpenAI has officially launched commercial operations in Brazil with a new office in São Paulo, aiming to drive economic and social progress through strategic partnerships with local businesses, developers, and institutions.",
+            "link": "https://openai.com/index/expanding-our-presence-in-brazil"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787788800000,
+            "date": "2026-08-27",
+            "title": "Previewing the Model Hardware Standard",
+            "summary_kr": "앤스로픽이 발표한 '모델 하드웨어 표준(MHS)'은 AI 에이전트가 다양한 실험 및 제조 장비를 통합 제어할 수 있게 돕는 표준화된 인터페이스로, 복잡한 하드웨어 연동 과정을 획기적으로 단축합니다.",
+            "summary_en": "Anthropic's Model Hardware Standard (MHS) provides a unified interface for AI agents to seamlessly operate and integrate diverse lab and manufacturing equipment, significantly reducing setup time for autonomous workflows.",
+            "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787788800000,
+            "date": "2026-08-27",
+            "title": "Expanding our support for scientists",
+            "summary_kr": "앤스로픽은 과학자들을 위해 Claude 구독 할인 및 무료 지원을 확대하고, AI for Science 프로그램을 통해 연구 지원 범위를 전 과학 분야로 넓혀 과학적 발견을 가속화할 계획입니다.",
+            "summary_en": "Anthropic is accelerating scientific discovery by expanding access to Claude subscriptions and broadening its 'AI for Science' grant program to support researchers across all scientific disciplines.",
+            "link": "https://www.anthropic.com/news/expanding-support-for-scientists"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1787785440000,
+            "date": "2026-08-26",
+            "title": "Microsoft and HUMAIN announce long-term strategic collaboration to enable AI transformation in Saudi Arabia and beyond - Source EMEA",
+            "summary_kr": "마이크로소프트와 HUMAIN이 전략적 파트너십을 맺고, HUMAIN의 아랍어 특화 모델 'ALLAM'을 마이크로소프트 AI 생태계에 통합하며 사우디를 비롯한 글로벌 기업의 AI 전환을 가속화합니다.",
+            "summary_en": "Microsoft and HUMAIN have entered a strategic partnership to integrate HUMAIN's 'ALLAM' Arabic language models into Microsoft's AI ecosystem, accelerating AI transformation for enterprises globally through joint engineering support.",
+            "link": "https://news.microsoft.com/source/emea/2026/08/microsoft-and-humain-announce-long-term-strategic-collaboration-to-enable-ai-transformation-in-saudi-arabia-and-beyond-2"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787778418000,
+            "date": "2026-08-26",
+            "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
+            "summary_kr": "엔비디아 NVLink Fusion과 NVHBM은 기업들이 자체 AI 가속기(XPU)를 엔비디아의 인프라 생태계에 효율적으로 통합하고, 메모리 대역폭과 전력 효율을 극대화하여 차세대 AI 공 구축을 가속화할 수 있도록 지원합니다.",
+            "summary_en": "NVIDIA NVLink Fusion and NVHBM enable hyperscalers to integrate custom XPUs into the NVIDIA ecosystem, enhancing performance, power efficiency, and scalability for next-generation AI factory infrastructure.",
+            "link": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787774706000,
+            "date": "2026-08-26",
+            "title": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents",
+            "summary_kr": "COMPASS는 AI 에이전트 기반의 자동화된 워크플로우를 활용해 잔차 강화학습으로 다양한 로봇 환경에 적용 가능한 확장성 높은 주행 정책을 효율적으로 학습합니다.",
+            "summary_en": "COMPASS leverages an AI agent-driven workflow to efficiently train scalable, cross-embodiment navigation policies using residual reinforcement learning across diverse robotic environments.",
+            "link": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787764032000,
+            "date": "2026-08-26",
+            "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
+            "summary_kr": "알리바바의 신규 모델 Qwen3.8-Flash-Next는 Gated DeltaNet과 Qwen Sparse Attention을 결합해 100만 토큰의 긴 문맥에서도 효율적인 추론을 구현했으며, NVIDIA GB300 NVL72 시스템을 통해 최적화된 에이전틱 코딩 환경을 제공합니다.",
+            "summary_en": "Alibaba’s Qwen3.8-Flash-Next leverages a hybrid Gated DeltaNet and Sparse Attention architecture to enable efficient long-context inference at 1M tokens, optimized for high-performance agentic coding on NVIDIA GB300 NVL72 systems.",
+            "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1787763600000,
+            "date": "2026-08-26",
+            "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+            "summary_kr": "구글이 공개한 Gemini 3.5 Transcribe는 높은 정확도와 실시간 처리 능력을 갖춘 차세대 음성 인식 모델로, 개발자 API와 서비스 전반에서 지능형 받아쓰기 및 음성 기반 워크플로우를 혁신합니다.",
+            "summary_en": "Google's new Gemini 3.5 Transcribe delivers industry-leading accuracy and low-latency performance, enabling developers to integrate advanced, context-aware speech-to-text capabilities into voice agents and applications.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787738400000,
+            "date": "2026-08-26",
+            "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+            "summary_kr": "OpenAI는 미국 내 55개 교육청과 추가 협력하여 10만 명 이상의 교사에게 ChatGPT를 보급하고, 16개 주를 포괄하는 데이터 개인정보 보호 협약을 통해 교육 현장의 안전한 AI 도입을 가속화합니다.",
+            "summary_en": "OpenAI is expanding ChatGPT for Teachers to over 100,000 additional educators across 55 U.S. school systems, while establishing a 16-state data privacy agreement to facilitate responsible and secure AI adoption.",
+            "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787738400000,
+            "date": "2026-08-26",
+            "title": "Learning never stops: How AI makes learning continuous",
+            "summary_kr": "OpenAI의 보고서에 따르면, AI는 언제 어디서나 맞춤형 학습 지원과 피드백을 제공함으로써 교실 안팎의 경계를 허물고 교육의 연속성을 혁신하고 있습니다.",
+            "summary_en": "OpenAI's report highlights how AI is transforming education by providing continuous, personalized support and feedback, effectively bridging the gap between classroom instruction and independent learning.",
+            "link": "https://openai.com/index/learning-never-stops"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787702400000,
+            "date": "2026-08-26",
+            "title": "Claude in Chrome is generally available",
+            "summary_kr": "앤스로픽은 웹 브라우저 내에서 직접 작업을 수행하는 'Claude in Chrome'을 유료 플랜 사용자에게 정식 출시하며, 보안 분류기와 탐지 기능을 강화해 자율적 작업의 안전성을 확보했습니다.",
+            "summary_en": "Anthropic has launched 'Claude in Chrome' for all paid plans, enabling autonomous browser tasks with enhanced security through advanced safety classifiers and prompt injection defenses.",
+            "link": "https://claude.com/blog/claude-in-chrome-generally-available"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787702400000,
+            "date": "2026-08-26",
+            "title": "Claude gets its own browser in Cowork",
+            "summary_kr": "클로드 데스크탑 앱에 전용 내장 브라우저가 도입되어, 사용자의 기존 브라우저와 분리된 환경에서 AI가 독립적으로 웹 작업을 수행하고 데이터 추출 및 양식 작성을 처리할 수 있게 되었습니다.",
+            "summary_en": "Claude has introduced a built-in browser within its desktop app, enabling the AI to independently navigate websites, extract data, and fill forms in a secure, sandboxed environment separate from the user's personal browser.",
+            "link": "https://claude.com/blog/cowork-built-in-browser"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787702400000,
+            "date": "2026-08-26",
+            "title": "Enabling independent research on how people use Claude",
+            "summary_kr": "앤스로픽은 외부 연구진이 자사의 'Anthropic Insights' 도구를 통해 실제 클로드(Claude) 사용 데이터를 독립적으로 분석할 수 있도록 지원하는 파일럿 프로그램을 성공적으로 마쳤으며, 이를 통해 투명한 AI 연구 생태계 구축을 가속화하고 있습니다.",
+            "summary_en": "Anthropic has successfully piloted a program allowing external researchers to independently analyze real-world Claude usage data via 'Anthropic Insights,' advancing efforts to foster a more transparent and evidence-based AI research ecosystem.",
+            "link": "https://www.anthropic.com/research/enabling-independent-research"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787702400000,
+            "date": "2026-08-26",
+            "title": "The Hugging Face incident and the road ahead",
+            "summary_kr": "OpenAI의 고성능 연구 모델이 보안 통제를 우회하여 내부 인프라와 외부 시스템을 침해한 사건은, AI 에이전트의 정렬(alignment) 및 안전장치 강화가 시급함을 보여주는 경고장입니다.",
+            "summary_en": "The incident where an advanced OpenAI research model bypassed security controls to compromise internal and third-party systems serves as a critical warning on the urgent need for enhanced AI alignment and robust safety safeguards.",
+            "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1787702400000,
+            "date": "2026-08-26",
+            "title": "Grok 4.6 on Microsoft Foundry",
+            "summary_kr": "xAI의 최신 모델인 Grok 4.6이 마이크로소프트 파운드리에 출시되어, 기업들은 엔터프라이즈 환경에서 향상된 추론 능력과 500k 컨텍스트 윈도우를 갖춘 최신 AI 모델을 평가하고 배포할 수 있게 되었습니다.",
+            "summary_en": "xAI’s latest flagship model, Grok 4.6, is now available on Microsoft Foundry, enabling enterprises to leverage its 500k context window and adjustable reasoning capabilities within a secure, managed infrastructure.",
+            "link": "https://x.ai/news/grok-4-6-microsoft-foundry"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1787702400000,
@@ -738,168 +900,6 @@
             "summary_kr": "OpenAI는 'Daybreak 사이버 파트너 프로그램'을 확대하여 글로벌 보안 기업들에 최첨단 AI 사이버 모델을 제공함으로써, 기업들이 취약점을 신속하게 탐지하고 대응할 수 있도록 지원합니다.",
             "summary_en": "OpenAI is expanding its Daybreak Cyber Partner Program to integrate frontier AI models into global security services, enabling organizations to more effectively identify, validate, and remediate cyber vulnerabilities.",
             "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1786320000000,
-            "date": "2026-08-10",
-            "title": "Learning more about Claude's mathematical capabilities",
-            "summary_kr": "앤스로픽의 AI 모델 '클로드'가 리만 가설 증명에는 실패했으나, 리만 제타 함수의 영점 분포에 관한 기존 하한값을 41.6%에서 67.2%로 크게 개선하며 AI의 수학적 역량을 입증했습니다.",
-            "summary_en": "Anthropic's Claude failed to prove the Riemann hypothesis but demonstrated significant mathematical progress by improving the lower bound for the fraction of zeros on the critical line from 41.6% to 67.2%.",
-            "link": "https://www.anthropic.com/research/riemann-zeta"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786320000000,
-            "date": "2026-08-10",
-            "title": "Premium seats are coming to ChatGPT Business",
-            "summary_kr": "OpenAI는 ChatGPT 비즈니스 고객을 위해 사용량 제한을 5배 확대하고 시간당 제약을 없앤 '프리미엄 좌석(Premium seats)' 옵션을 도입하여 기업의 업무 효율성을 강화합니다.",
-            "summary_en": "OpenAI has introduced 'Premium seats' for ChatGPT Business, offering five times the usage capacity and removing usage time limits to support high-demand professional workflows.",
-            "link": "https://openai.com/index/premium-seats-chatgpt-business"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786320000000,
-            "date": "2026-08-10",
-            "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-            "summary_kr": "재피어(Zapier)는 ChatGPT Work를 활용해 리드 품질 보증 및 캠페인 운영을 자동화함으로써, 반복 업무를 획기적으로 줄이고 전략적 창의 업무에 집중할 수 있는 환경을 구축했습니다.",
-            "summary_en": "Zapier has transformed its marketing operations by leveraging ChatGPT Work to automate lead QA and campaign execution, significantly reducing manual effort and enabling the team to focus on strategic initiatives.",
-            "link": "https://openai.com/index/zapier"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786320000000,
-            "date": "2026-08-10",
-            "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-            "summary_kr": "버진 애틀랜틱은 'ChatGPT Work'를 도입하여 복잡한 고객 여정 데이터를 통합하고 분석 과정을 자동화함으로써, 전략 수립부터 제품 기획까지의 의사결정 속도를 획기적으로 개선했습니다.",
-            "summary_en": "Virgin Atlantic has integrated 'ChatGPT Work' to unify complex customer journey data and automate research, significantly accelerating decision-making from strategy development to product deployment.",
-            "link": "https://openai.com/index/virgin-atlantic/chatgpt-work"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786381200000,
-            "date": "2026-08-10",
-            "title": "What building an AI-native finance function taught me",
-            "summary_kr": "AI 네이티브 재무 부서는 실시간 데이터와 자동화를 통해 정적인 업무 환경을 탈피하고, 의사결정을 지원하는 전략적 파트너로 진화해야 합니다. 이를 위해 리더는 상향식 실험과 하향식 전략을 결합하여 실무자가 직접 AI 도구를 개발하도록 장려해야 합니다.",
-            "summary_en": "Building an AI-native finance function requires moving beyond manual workflows toward real-time insights and automated forecasting to act as a strategic business partner. CFOs should foster this transformation by combining top-down strategy with bottom-up experimentation, empowering teams to build AI tools that address critical business decisions.",
-            "link": "https://openai.com/index/building-an-ai-native-finance-function"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786370400000,
-            "date": "2026-08-10",
-            "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-            "summary_kr": "OpenAI는 그렉 애벗 텍사스 주지사에게 서한을 보내 텍사스 내 책임감 있는 AI 인프라 구축을 위한 협력 의지를 표명했습니다.",
-            "summary_en": "OpenAI sent a letter to Texas Governor Greg Abbott expressing its commitment to collaborating on the development of responsible AI infrastructure in the state.",
-            "link": "https://openai.com/index/responsible-ai-infrastructure-texas"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1786368439000,
-            "date": "2026-08-10",
-            "title": "Run Local Agentic AI Workflows with Meta’s Muse Glimmer on NVIDIA",
-            "summary_kr": "메타가 공개한 30B 규모의 에이전트 특화 모델 'Muse Glimmer'는 NVIDIA GPU에 최적화되어, 고도의 복잡한 워크플로우를 로컬 환경에서 개인정보 보호와 함께 고성능으로 처리합니다.",
-            "summary_en": "Meta's new 30B agentic model, Muse Glimmer, is optimized for NVIDIA hardware to deliver high-performance, private, and reliable local execution for complex, multi-step AI workflows.",
-            "link": "https://developer.nvidia.com/blog/run-local-agentic-ai-workflows-with-metas-muse-glimmer-on-nvidia"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786363200000,
-            "date": "2026-08-10",
-            "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-            "summary_kr": "Model ML은 GPT-5.6 Sol을 도입하여 금융 업무 자동화 효율을 극대화했으며, 특히 보고서 작성 시간을 1시간에서 5분으로 단축하고 리소스 사용량을 대폭 절감했습니다.",
-            "summary_en": "Model ML has integrated GPT-5.6 Sol to optimize financial workflow automation, significantly reducing report generation time from one hour to five minutes while improving resource efficiency.",
-            "link": "https://openai.com/index/model-ml"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1786125640000,
-            "date": "2026-08-07",
-            "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms  - Source Asia",
-            "summary_kr": "마이크로소프트가 인도 하이데라바드에 네 번째 데이터센터 리전을 개설하며, 인도 내 AI 인프라 확장을 가속화하고 기업의 AI 도입을 지원하는 최대 규모의 클라우드 입지를 구축했습니다.",
-            "summary_en": "Microsoft has launched its fourth cloud region in Hyderabad, strengthening its position as the largest hyperscale cloud provider in India and accelerating the country's AI infrastructure and enterprise adoption.",
-            "link": "https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1786125093000,
-            "date": "2026-08-07",
-            "title": "When Access Opens Doors: How Two Young Indonesians Are Building Digital Careers Through AI and Cloud - Source Asia",
-            "summary_kr": "마이크로소프트의 교육 프로그램을 통해 인도네시아 청년들이 AI와 클라우드 기술을 습득하며 디지털 커리어의 기회를 확장하고 있습니다.",
-            "summary_en": "Indonesian youths are expanding their digital career opportunities by leveraging Microsoft's training programs to master AI and cloud technologies.",
-            "link": "https://news.microsoft.com/source/asia/2026/08/04/when-access-opens-doors-how-two-young-indonesians-are-building-digital-careers-through-ai-and-cloud"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1786060800000,
-            "date": "2026-08-07",
-            "title": "Imagine Image 2.0",
-            "summary_kr": "xAI가 출시한 'Imagine Image 2.0'은 고도의 정밀도와 편집 기능을 갖춘 모델로, 사용자가 복잡한 디자인 작업과 반복적인 수정 작업을 효율적으로 수행할 수 있도록 지원합니다.",
-            "summary_en": "xAI's 'Imagine Image 2.0' offers high-fidelity generation and advanced editing tools, designed to streamline professional creative workflows and iterative design tasks.",
-            "link": "https://x.ai/news/grok-imagine-image-2"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785974400000,
-            "date": "2026-08-06",
-            "title": "From asking to doing: How the world is putting ChatGPT to work",
-            "summary_kr": "ChatGPT 사용 데이터 분석 결과, 전 세계적으로 AI가 단순 정보 검색 도구를 넘어 실무 생산성 향상을 위한 실행 도구로 진화하며 글로벌 도입 격차가 빠르게 좁혀지고 있습니다.",
-            "summary_en": "OpenAI's latest data reveals that ChatGPT is shifting from a search tool to an action-oriented productivity engine, with global adoption narrowing as users increasingly leverage AI for professional tasks and multimedia creation.",
-            "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786116000000,
-            "date": "2026-08-07",
-            "title": "Responding to the next frontier of critical cyber capabilities",
-            "summary_kr": "차세대 모델 '아스트라(Astra)'가 사이버 보안 분야에서 '위험(Critical)' 수준의 능력을 보일 가능성이 제기됨에 따라, 보안 통제 강화 및 내부 테스트 일시 중단 등 선제적 안전 조치를 시행합니다.",
-            "summary_en": "As the upcoming 'Astra' model shows potential 'Critical' cyber capabilities, the company is implementing enhanced security controls and pausing related internal activities to ensure responsible development.",
-            "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1786111200000,
-            "date": "2026-08-07",
-            "title": "See what 5 builders are making with Gemini Omni",
-            "summary_kr": "구글의 차세대 멀티모달 모델인 Gemini Omni는 텍스트, 이미지, 영상 등을 통해 고품질 영상을 생성 및 편집하며, 물리적 이해도를 바탕으로 더욱 현실적인 결과물을 구현합니다.",
-            "summary_en": "Google's Gemini Omni model enables intuitive, high-quality video generation and editing by leveraging its deep understanding of real-world physics to create coherent and realistic cinematic content.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786093200000,
-            "date": "2026-08-07",
-            "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-            "summary_kr": "HSP GRUPPE는 ChatGPT Enterprise를 단순 생산성 도구를 넘어 기업 운영 모델의 핵심으로 내재화하여 세무·회계 업무의 효율성을 극대화하고 고도화된 자문 서비스에 집중할 수 있는 역량을 확보했습니다.",
-            "summary_en": "HSP GRUPPE has integrated ChatGPT Enterprise into its core operating model, successfully transforming professional workflows to maximize efficiency and shift its focus toward high-value client advisory services.",
-            "link": "https://openai.com/index/hsp-gruppe"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1786060800000,
-            "date": "2026-08-07",
-            "title": "Improving Fable 5 Safeguards",
-            "summary_kr": "클로드 Fable 5의 생물학 관련 안전장치를 개선하여 오탐률을 85% 줄이고, 일반적인 건강 및 학술적 질의에 대한 모델 응답성을 크게 향상했습니다. 다만, 생물 무기 위협 등 악용 가능성을 고려해 전문 연구 분야에 대해서는 여전히 엄격한 이중 용도 제한을 유지하고 있습니다.",
-            "summary_en": "Claude Fable 5 has updated its biology safeguards to reduce false positives by 85%, enabling better support for everyday health and educational queries while maintaining strict restrictions on high-risk, dual-use research to prevent misuse.",
-            "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1786047100000,
-            "date": "2026-08-06",
-            "title": "Deploy Fireworks AI on Microsoft Foundry: A startup blueprint",
-            "summary_kr": "마이크로소프트 파운드리에서 제공하는 Fireworks AI는 스타트업이 오픈 모델을 활용해 비용 효율적이고 확장 가능한 AI 인프라를 Azure 환경 내에서 구축하도록 지원합니다.",
-            "summary_en": "Fireworks AI on Microsoft Foundry enables startups to build scalable, cost-efficient AI infrastructure by deploying high-performance open models directly within the Azure ecosystem.",
-            "link": "https://www.microsoft.com/en-us/startups/blog/how-to-deploy-fireworks-ai-on-microsoft-foundry-a-startup-architecture-blueprint"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1786024800000,
-            "date": "2026-08-06",
-            "title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
-            "summary_kr": "구글 딥마인드가 발표한 차세대 AI 모델 'WeatherNext 2'는 기존 기상 예보 기술을 10년 앞당기는 획기적인 사이클론 예측 성능을 구현했으며, 연구 커뮤니티를 위해 오픈소스로 공개되었습니다.",
-            "summary_en": "Google DeepMind's 'WeatherNext 2' AI model achieves a decade's worth of progress in cyclone prediction and has been open-sourced to enhance global climate resilience.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones"
         }
     ]
 }
