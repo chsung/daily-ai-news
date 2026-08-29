@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-08-28 00:40:09",
+    "last_update": "2026-08-29 00:11:23",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1787947078000,
+            "date": "2026-08-28",
+            "title": "How PONS built AI for regulated customers on Microsoft Azure",
+            "summary_kr": "PONS는 법률 AI 플랫폼 개발 시 공공 데이터와 고객 데이터를 엄격히 분리하고, 보안 및 규제 준수를 최우선으로 하는 아키텍처를 구축함으로써 규제 산업 고객을 위한 신뢰성 있는 솔루션을 구현했습니다.",
+            "summary_en": "PONS successfully developed a legal AI platform for regulated industries by architecting a strict separation between public legal knowledge and private customer data while prioritizing robust security and compliance controls on Microsoft Azure.",
+            "link": "https://www.microsoft.com/en-us/startups/blog/three-architecture-decisions-behind-ponss-legal-ai-platform-on-microsoft-azure"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1787946560000,
+            "date": "2026-08-28",
+            "title": "Catching wildfires earlier: AI gives firefighters a head start",
+            "summary_kr": "마이크로소프트의 AI와 ALERTCalifornia가 협력하여 실시간 영상 분석을 통해 산불을 조기에 감지함으로써, 소방대원들이 화재 대응의 골든타임을 확보할 수 있도록 지원합니다.",
+            "summary_en": "Microsoft's AI and ALERTCalifornia are collaborating to enable early wildfire detection through real-time camera analysis, providing firefighters with a critical head start to respond before crises escalate.",
+            "link": "https://unlocked.microsoft.com/alertcalifornia-ai-wildfire-detection"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787936788000,
+            "date": "2026-08-28",
+            "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
+            "summary_kr": "NVIDIA TensorRT Model Connect는 Hugging Face 모델을 단 두 개의 명령어로 네이티브 C++ 추론 환경에 배포할 수 있도록 지원하여, 모델 변환 및 최적화 과정을 획기적으로 간소화합니다.",
+            "summary_en": "NVIDIA TensorRT Model Connect streamlines the deployment of open models by enabling native C++ inference from Hugging Face checkpoints in just two commands, significantly reducing complex development overhead.",
+            "link": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787882400000,
+            "date": "2026-08-28",
+            "title": "Supporting Thailand’s next generation of AI startups",
+            "summary_kr": "OpenAI가 태국 고등교육과학연구혁신부와 협력하여 의료 및 교육 분야의 유망 AI 스타트업 10곳을 육성하는 8주간의 액셀러레이터 프로그램을 출범했습니다.",
+            "summary_en": "OpenAI has partnered with Thailand's Ministry of Higher Education, Science, Research and Innovation to launch an eight-week accelerator program designed to scale ten promising AI startups in the healthcare and education sectors.",
+            "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787875200000,
+            "date": "2026-08-28",
+            "title": "Automated researchers can reliably mitigate alignment failures",
+            "summary_kr": "앤스로픽의 연구 결과, AI 모델 '클로드'가 스스로 정렬 문제를 진단하고 해결책을 개발함으로써 인간 전문가를 능가하는 효율성으로 AI 안전성을 강화할 수 있음이 입증되었습니다.",
+            "summary_en": "Anthropic's research demonstrates that the Claude AI can autonomously develop alignment solutions, effectively mitigating safety failures with greater efficiency and success rates than human researchers.",
+            "link": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1787852021000,
@@ -855,51 +900,6 @@
             "summary_kr": "Grok Bot은 사용자가 사용하는 도구와 앱을 직접 조작하며 업무를 완결하는 자율형 AI 팀원으로, 복잡한 설정 없이 대화만으로 협업하고 스스로 학습하며 성과를 내는 새로운 에이전트 플랫폼입니다.",
             "summary_en": "Grok Bot is an autonomous AI agent platform that operates directly within existing tools and applications to complete end-to-end tasks, functioning like a human teammate that learns workflows through natural collaboration.",
             "link": "https://x.ai/news/introducing-grok-bot"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1786453267000,
-            "date": "2026-08-11",
-            "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
-            "summary_kr": "NVIDIA가 공개한 Nemotron 3.5 Lightning은 자율형 AI 에이전트의 반복적인 실무 처리에 최적화된 고효율 30B MoE 모델로, 비용과 지연 시간을 획기적으로 줄여줍니다.",
-            "summary_en": "NVIDIA’s Nemotron 3.5 Lightning is a highly efficient 30B MoE model designed to minimize cost and latency for the high-volume, routine task execution layer of autonomous AI agents.",
-            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1786453200000,
-            "date": "2026-08-11",
-            "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
-            "summary_kr": "NVIDIA NeMo Switchyard는 AI 에이전트의 워크로드를 각 작업의 특성과 비용, 효율성에 맞춰 최적의 모델로 동적 라우팅함으로써 성능 극대화와 비용 절감을 지원합니다.",
-            "summary_en": "NVIDIA NeMo Switchyard optimizes AI agent performance and cost by dynamically routing workloads to the most suitable models based on task requirements, efficiency, and infrastructure constraints.",
-            "link": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786442400000,
-            "date": "2026-08-11",
-            "title": "Testing ads in ChatGPT",
-            "summary_kr": "OpenAI는 무료 및 Go 구독 티어의 광고 도입을 한국을 포함한 글로벌 시장으로 본격 확대하며, 사용자 경험과 신뢰를 보존하는 광고 모델을 구축하고 있습니다.",
-            "summary_en": "OpenAI is scaling its ChatGPT ad pilot to global markets, including South Korea, while maintaining core principles of user privacy and ad-free experiences for premium subscribers.",
-            "link": "https://openai.com/index/testing-ads-in-chatgpt"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786356000000,
-            "date": "2026-08-10",
-            "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-            "summary_kr": "OpenAI는 사이버 위협에 대응하기 위해 고도화된 보안 작업에 최적화된 'GPT-5.6-Cyber' 모델과 이를 포함한 'Daybreak' 플랫폼의 새로운 접근 계층을 통해 방어자들에게 강력한 인공지능 도구를 제공합니다.",
-            "summary_en": "OpenAI is empowering defenders with advanced AI capabilities through the new 'GPT-5.6-Cyber' model and an expanded 'Daybreak' platform, designed to provide high-performance, specialized tools for cybersecurity operations.",
-            "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786356000000,
-            "date": "2026-08-10",
-            "title": "Putting frontier cyber models in more trusted hands",
-            "summary_kr": "OpenAI는 'Daybreak 사이버 파트너 프로그램'을 확대하여 글로벌 보안 기업들에 최첨단 AI 사이버 모델을 제공함으로써, 기업들이 취약점을 신속하게 탐지하고 대응할 수 있도록 지원합니다.",
-            "summary_en": "OpenAI is expanding its Daybreak Cyber Partner Program to integrate frontier AI models into global security services, enabling organizations to more effectively identify, validate, and remediate cyber vulnerabilities.",
-            "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
         }
     ]
 }

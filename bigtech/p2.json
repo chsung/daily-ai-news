@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-08-28 00:40:09",
+    "last_update": "2026-08-29 00:11:23",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1786453267000,
+            "date": "2026-08-11",
+            "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents",
+            "summary_kr": "NVIDIA가 공개한 Nemotron 3.5 Lightning은 자율형 AI 에이전트의 반복적인 실무 처리에 최적화된 고효율 30B MoE 모델로, 비용과 지연 시간을 획기적으로 줄여줍니다.",
+            "summary_en": "NVIDIA’s Nemotron 3.5 Lightning is a highly efficient 30B MoE model designed to minimize cost and latency for the high-volume, routine task execution layer of autonomous AI agents.",
+            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1786453200000,
+            "date": "2026-08-11",
+            "title": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+            "summary_kr": "NVIDIA NeMo Switchyard는 AI 에이전트의 워크로드를 각 작업의 특성과 비용, 효율성에 맞춰 최적의 모델로 동적 라우팅함으로써 성능 극대화와 비용 절감을 지원합니다.",
+            "summary_en": "NVIDIA NeMo Switchyard optimizes AI agent performance and cost by dynamically routing workloads to the most suitable models based on task requirements, efficiency, and infrastructure constraints.",
+            "link": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786442400000,
+            "date": "2026-08-11",
+            "title": "Testing ads in ChatGPT",
+            "summary_kr": "OpenAI는 무료 및 Go 구독 티어의 광고 도입을 한국을 포함한 글로벌 시장으로 본격 확대하며, 사용자 경험과 신뢰를 보존하는 광고 모델을 구축하고 있습니다.",
+            "summary_en": "OpenAI is scaling its ChatGPT ad pilot to global markets, including South Korea, while maintaining core principles of user privacy and ad-free experiences for premium subscribers.",
+            "link": "https://openai.com/index/testing-ads-in-chatgpt"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786356000000,
+            "date": "2026-08-10",
+            "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+            "summary_kr": "OpenAI는 사이버 위협에 대응하기 위해 고도화된 보안 작업에 최적화된 'GPT-5.6-Cyber' 모델과 이를 포함한 'Daybreak' 플랫폼의 새로운 접근 계층을 통해 방어자들에게 강력한 인공지능 도구를 제공합니다.",
+            "summary_en": "OpenAI is empowering defenders with advanced AI capabilities through the new 'GPT-5.6-Cyber' model and an expanded 'Daybreak' platform, designed to provide high-performance, specialized tools for cybersecurity operations.",
+            "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786356000000,
+            "date": "2026-08-10",
+            "title": "Putting frontier cyber models in more trusted hands",
+            "summary_kr": "OpenAI는 'Daybreak 사이버 파트너 프로그램'을 확대하여 글로벌 보안 기업들에 최첨단 AI 사이버 모델을 제공함으로써, 기업들이 취약점을 신속하게 탐지하고 대응할 수 있도록 지원합니다.",
+            "summary_en": "OpenAI is expanding its Daybreak Cyber Partner Program to integrate frontier AI models into global security services, enabling organizations to more effectively identify, validate, and remediate cyber vulnerabilities.",
+            "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1786320000000,
@@ -855,51 +900,6 @@
             "summary_kr": "마이크로소프트는 AI 확장에 따른 에너지 및 자원 수요 급증에 대응하기 위해, 공급망 전반의 지속가능성을 강화하고 탄소 없는 전력 확보를 위한 협력을 가속화하고 있습니다.",
             "summary_en": "Microsoft is accelerating collaboration across its supply chain to ensure sustainable growth, focusing on securing carbon-free electricity and strengthening infrastructure to meet the rising resource demands of the AI era.",
             "link": "https://news.microsoft.com/source/asia/features/sustainability-for-the-ai-era-en"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784725200000,
-            "date": "2026-07-22",
-            "title": "How news organizations are using AI to advance their vital missions",
-            "summary_kr": "뉴스 매체들은 AI를 활용해 취재 효율성을 높이고 독자 경험을 개선하며 비즈니스 지속 가능성을 강화하고 있습니다. 다만, 모든 과정에서 인간 언론인의 편집권과 주도적 판단이 핵심적인 역할을 유지하고 있습니다.",
-            "summary_en": "News organizations are leveraging AI to enhance reporting efficiency, personalize reader experiences, and drive business sustainability, while keeping human journalists at the core of all editorial and strategic decision-making.",
-            "link": "https://openai.com/index/how-news-organizations-are-using-ai"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1784678400000,
-            "date": "2026-07-22",
-            "title": "Supporting ambitious external research through the Anthropic Economic Futures Research Fund",
-            "summary_kr": "앤스로픽은 AI가 경제에 미칠 영향을 대비하기 위해 2억 달러 규모의 '경제 미래 연구 기금'을 조성하고, 노동 시장 변화와 정책적 대응 방안을 모색하는 대규모 외부 연구 프로젝트를 지원합니다.",
-            "summary_en": "Anthropic has launched a $200 million 'Economic Futures Research Fund' to support ambitious external research and pilot programs aimed at ensuring economic resilience and social stability in the face of AI-driven disruption.",
-            "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1784678400000,
-            "date": "2026-07-22",
-            "title": "The Anthropic Economic Index connector",
-            "summary_kr": "앤스로픽은 사용자가 AI의 경제적 활용 현황을 쉽게 파악할 수 있도록 Claude에 '앤스로픽 경제 지수(Anthropic Economic Index) 커넥터'를 출시했습니다.",
-            "summary_en": "Anthropic has launched the Anthropic Economic Index connector for Claude, allowing users to easily query and explore data on how AI is being utilized in the economy.",
-            "link": "https://www.anthropic.com/news/anthropic-economic-index-connector"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784678400000,
-            "date": "2026-07-22",
-            "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-            "summary_kr": "NTT DATA Group은 9,000명의 직원에게 OpenAI의 Codex를 도입하여 기존에 3일이 소요되던 복잡한 장애 분석 작업을 30분 만에 처리하는 등 업무 생산성을 비약적으로 향상했습니다.",
-            "summary_en": "NTT DATA Group has deployed OpenAI's Codex to 9,000 employees, significantly boosting productivity by automating complex incident analysis tasks that previously took three days down to just 30 minutes.",
-            "link": "https://openai.com/index/ntt-data"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1784678400000,
-            "date": "2026-07-22",
-            "title": "Bringing Grok 4.5 to iOS, Android, Web, and X",
-            "summary_kr": "xAI의 최신 AI 모델인 Grok 4.5가 웹, X, 그리고 모바일 앱 전반에 정식 출시되어 향상된 추론 능력과 복합적인 작업 수행 기능을 제공합니다.",
-            "summary_en": "xAI has launched Grok 4.5 across web, X, and mobile platforms, delivering enhanced reasoning capabilities and advanced task-completion features.",
-            "link": "https://x.ai/news/grok-4-5-everywhere"
         }
     ]
 }
