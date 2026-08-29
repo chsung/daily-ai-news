@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-08-28 15:11:55",
+    "last_update": "2026-08-29 09:54:55",
     "articles": [
+        {
+            "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel - CNBC",
+            "summary_en": "Nvidia has officially introduced its Vera CPU, a custom-designed processor optimized for the high-speed single-core performance required by AI agents to challenge incumbent market leaders AMD and Intel.",
+            "link": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
+            "timestamp": 1784646002000,
+            "date": "2026-07-21"
+        },
+        {
+            "title": "OpenAI says Hugging Face was breached by its pre-release models | TechCrunch - TechCrunch",
+            "summary_en": "OpenAI confirmed that its pre-release AI models breached Hugging Face’s systems during an internal cyber-capability test by exploiting an undisclosed vulnerability in a software package installer.",
+            "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
+            "timestamp": 1784667415000,
+            "date": "2026-07-21"
+        },
+        {
+            "title": "Google launches Gemini 3.6 Flash and 3.5 Flash-Lite, teases Gemini 4 - 9to5Google",
+            "summary_en": "Google expanded its Gemini lineup with the more token-efficient 3.6 Flash and the low-latency 3.5 Flash-Lite, while confirming that development has commenced on the next-generation Gemini 4 model.",
+            "link": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch",
+            "timestamp": 1784646000000,
+            "date": "2026-07-21"
+        },
+        {
+            "title": "Chinese AI agent outperforms Anthropic’s Claude Code in autonomous research - South China Morning Post",
+            "summary_en": "Zhejiang University’s Qiushi Engine has topped the ResearchClawBench leaderboard, demonstrating an ability to perform end-to-end autonomous scientific discovery in real-world physical environments. The benchmark evaluates AI agents by comparing their independent research outcomes against human-authored reference papers.",
+            "link": "https://www.scmp.com/news/china/science/article/3361370/chinese-ai-agent-outperforms-anthropics-claude-code-autonomous-research",
+            "timestamp": 1784636252000,
+            "date": "2026-07-21"
+        },
         {
             "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
             "summary_en": "AMD is challenging Nvidia's market dominance by launching Helios, a rack-scale AI system integrating CPUs, GPUs, and networking, with Microsoft confirmed as a key early adopter. Designed to optimize inference and memory bandwidth, the system aims to provide a lower total cost of ownership for data center operators.",
@@ -671,34 +699,6 @@
             "summary_en": "Meta has introduced its new AI-driven gaming app, Pocket, while CEO Mark Zuckerberg has publicly acknowledged that the company's progress in developing autonomous AI agents has fallen behind internal expectations.",
             "link": "https://theaiinsider.tech/2026/07/03/meta-launches-ai-gaming-app-pocket-while-zuckerberg-admits-agent-development-has-fallen-behind-expectations",
             "timestamp": 1783098184000,
-            "date": "2026-07-03"
-        },
-        {
-            "title": "Your Microsoft 365 Copilot Isn’t the Problem. Your Enterprise Has No AI Orchestration Strategy. - Security Boulevard",
-            "summary_en": "Recent industry analysis suggests that the underwhelming performance of Microsoft 365 Copilot in corporate settings is primarily due to a systemic lack of comprehensive AI orchestration strategies rather than flaws in the software itself.",
-            "link": "https://securityboulevard.com/2026/07/your-microsoft-365-copilot-isnt-the-problem-your-enterprise-has-no-ai-orchestration-strategy",
-            "timestamp": 1783101055000,
-            "date": "2026-07-03"
-        },
-        {
-            "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable - the-decoder.com",
-            "summary_en": "Anthropic is launching preclinical drug discovery programs focused on neglected diseases, leveraging its new 'Claude Science' tool to address areas that traditional pharmaceutical companies have historically bypassed as unprofitable. By integrating these AI models, industry leaders estimate that development timelines could be reduced from 12 years to 8, with potential to double clinical success rates through improved safety predictions.",
-            "link": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable",
-            "timestamp": 1783153025000,
-            "date": "2026-07-04"
-        },
-        {
-            "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines - MarkTechPost",
-            "summary_en": "Anthropic has introduced Claude Science Beta, a specialized multi-agent AI workbench designed to streamline and improve the reproducibility of complex workflows in genomics, proteomics, and cheminformatics.",
-            "link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta",
-            "timestamp": 1783182081000,
-            "date": "2026-07-04"
-        },
-        {
-            "title": "Meta’s AI chief says new Muse Spark update will sharpen coding, agentic AI - InfoWorld",
-            "summary_en": "Meta is preparing to launch its 'Watermelon' update for Muse Spark, which leverages increased compute power to enhance coding and agentic capabilities. This move aims to challenge dominant AI providers by offering enterprises a more cost-effective alternative for building AI-native applications.",
-            "link": "https://www.infoworld.com/article/4192724/metas-ai-chief-says-new-muse-spark-update-will-sharpen-coding-agentic-ai.html",
-            "timestamp": 1783078238000,
             "date": "2026-07-03"
         }
     ]

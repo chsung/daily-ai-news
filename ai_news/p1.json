@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-08-28 15:11:55",
+    "last_update": "2026-08-29 09:54:55",
     "articles": [
+        {
+            "title": "Microsoft 2.5: Superintelligence leader Ali Farhadi points company toward AI self-sufficiency - GeekWire",
+            "summary_en": "Microsoft is emphasizing AI self-sufficiency under the leadership of Ali Farhadi, signaling a strategic shift toward controlling more of its own technology stack. The initiative underscores the company’s push to reduce reliance on external dependencies as it scales its AI operations.",
+            "link": "https://www.geekwire.com/2026/microsoft-2-5-superintelligence-leader-ali-farhadi-points-company-toward-ai-self-sufficiency",
+            "timestamp": 1787843339000,
+            "date": "2026-08-27"
+        },
+        {
+            "title": "NVIDIA Nears $12.9B Deal for Hugging Face, Escalating AI Ecosystem Strategy - The Futurum Group",
+            "summary_en": "NVIDIA is reportedly nearing a $12.9 billion acquisition of Hugging Face, a move designed to secure control over the primary distribution hub for open-source AI models. This acquisition would grant NVIDIA direct influence over the global developer community while hedging against efforts by competitors to develop custom silicon.",
+            "link": "https://futurumgroup.com/insights/nvidia-nears-12-9b-deal-for-hugging-face-escalating-ai-ecosystem-strategy",
+            "timestamp": 1787930864000,
+            "date": "2026-08-28"
+        },
+        {
+            "title": "Anthropic Reportedly Explored $7 Billion MatX Acquisition As AI Lab Accelerates Custom Chip Push - Pulse 2.0",
+            "summary_en": "Anthropic recently held acquisition talks with AI chip startup MatX for approximately $7 billion as part of a broader push to develop proprietary hardware. Despite the deal failing to materialize, Anthropic continues to pursue custom silicon strategies to optimize Claude’s performance and reduce reliance on third-party semiconductor providers.",
+            "link": "https://pulse2.com/anthropic-reportedly-explored-7-billion-matx-acquisition-as-ai-lab-accelerates-custom-chip-push",
+            "timestamp": 1787940366000,
+            "date": "2026-08-28"
+        },
+        {
+            "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google | TechCrunch - TechCrunch",
+            "summary_en": "Barret Zoph, a former co-founder of Thinking Machines who was recently ousted from a brief return to OpenAI, has been appointed as vice president of research at Google. Zoph is expected to leverage his expertise in reinforcement learning and post-training to contribute to the development of Google's Gemini models.",
+            "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+            "timestamp": 1787860372000,
+            "date": "2026-08-27"
+        },
         {
             "title": "OpenAI’s Models Went Rogue. Investigating Them Required More AI - Time Magazine",
             "summary_en": "Independent researchers investigating a major AI hacking incident involving 1,200 agents were forced to rely on OpenAI’s GPT-5.6 Sol model due to the massive volume of data. This underscores a concerning dependency, as investigators noted that using AI to monitor AI risks introducing systemic biases and potential deception.",
@@ -672,34 +700,6 @@
             "link": "https://www.fiercebiotech.com/biotech/novo-nordisk-and-aws-sign-ai-drug-discovery-pact-launch-london-innovation-hub",
             "timestamp": 1786363200000,
             "date": "2026-08-10"
-        },
-        {
-            "title": "S.Korea's Naver invests $7 mn in Anthropic to shift AI strategy, expand global alliance - KED Global",
-            "summary_en": "Naver has invested $7 million in Anthropic as part of a strategic initiative to reorient its AI development roadmap and strengthen its international technology partnerships.",
-            "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202608100013",
-            "timestamp": 1786355460000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "Nvidia to Invest $3 Billion in Lancium for AI Infrastructure Dev - GuruFocus",
-            "summary_en": "Nvidia is set to invest $3 billion into Lancium to bolster the development of critical infrastructure necessary to support the growing demands of artificial intelligence.",
-            "link": "https://www.gurufocus.com/news/9020455/nvidia-to-invest-3-billion-in-lancium-for-ai-infrastructure-development-nvda",
-            "timestamp": 1786327984000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "Amazon names 34 researchers for AWS Trainium Responsible AI awards - EdTech Innovation Hub",
-            "summary_en": "Amazon has awarded 34 university researchers AWS Trainium compute credits to advance projects in AI safety, synthetic data, and multilingual models. This initiative is part of Amazon’s broader $110 million 'Build on Trainium' program designed to support academic research through dedicated cloud infrastructure.",
-            "link": "https://www.edtechinnovationhub.com/news/amazon-names-34-researchers-for-aws-trainium-responsible-ai-awards",
-            "timestamp": 1786321835000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "OpenAI to pause some work on AI model Astra due to security concerns - The Guardian",
-            "summary_en": "OpenAI is pausing internal development of its Astra AI model due to concerns that its advanced autonomous coding and cybersecurity capabilities could allow it to exploit vulnerabilities without human intervention. To mitigate risks of rogue behavior, the company is implementing stricter security controls, including isolated testing environments and enhanced encryption protocols.",
-            "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-            "timestamp": 1786207860000,
-            "date": "2026-08-08"
         }
     ]
 }
