@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-08-29 00:11:23",
+    "last_update": "2026-08-29 18:56:55",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1787896800000,
+            "date": "2026-08-28",
+            "title": "Our decision on Cursor following its acquisition by SpaceX",
+            "summary_kr": "OpenAI는 SpaceX의 Cursor 인수 이후 계약 위반 사례와 서비스 약관 준수 우려를 이유로 Cursor에 대한 자사 모델 제공을 2026년 11월에 종료하기로 결정했습니다.",
+            "summary_en": "OpenAI has decided to terminate its contract providing models to Cursor by November 2026, citing concerns over SpaceX's history of contract violations and potential non-compliance with its terms of service.",
+            "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787875200000,
+            "date": "2026-08-28",
+            "title": "Product announcements Category | Claude",
+            "summary_kr": "앤스로픽은 클로드(Claude)의 브라우저 통합, 메모리 기능 강화, 기업용 보안 및 에이전트 개발 도구 고도화를 통해 제품 생태계를 전방위적으로 확장하고 있습니다.",
+            "summary_en": "Anthropic is aggressively expanding its product ecosystem by enhancing Claude's browser integration, memory capabilities, enterprise security, and agent development tools.",
+            "link": "https://claude.com/blog-category/announcements"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787702400000,
+            "date": "2026-08-26",
+            "title": "Agents Category | Claude",
+            "summary_kr": "Anthropic의 Claude 에이전트 리소스는 기업이 자율형 AI 에이전트를 구축, 확장 및 운영하기 위한 기술 아키텍처와 실무 가이드를 포괄적으로 제공합니다.",
+            "summary_en": "Anthropic’s Claude agent resources provide comprehensive technical architectures and practical guides for enterprises to build, scale, and operate autonomous AI agents.",
+            "link": "https://claude.com/blog-category/agents"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1787947078000,
@@ -873,33 +900,6 @@
             "summary_kr": "NVIDIA JetPack 7.2.1은 파이썬 라이브러리 지원과 에이전트 기반 비디오 기술을 도입하여, Jetson 개발자들이 복잡한 비디오 파이프라인을 효율적으로 설계, 검증 및 최적화할 수 있도록 지원합니다.",
             "summary_en": "NVIDIA JetPack 7.2.1 introduces PyNvVideoCodec support and agentic video skills, enabling developers to efficiently design, verify, and optimize complex video pipelines on Jetson devices.",
             "link": "https://developer.nvidia.com/blog/nvidia-jetpack-7-2-1-adds-agentic-video-skills-and-t3000-emulation"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1786467600000,
-            "date": "2026-08-11",
-            "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-            "summary_kr": "구글의 연구용 의료 AI 'AMIE'는 제미나이 기반 멀티 에이전트 구조를 통해 실시간 영상 상담과 진단이 가능한 전문가 수준의 임상 능력을 입증했습니다.",
-            "summary_en": "Google's research medical AI, AMIE, demonstrates expert-level clinical capabilities, including real-time video consultation and diagnostic reasoning, powered by a Gemini-based multi-agent architecture.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786442400000,
-            "date": "2026-08-11",
-            "title": "Daybreak models are now available on AWS",
-            "summary_kr": "오픈AI의 사이버 보안 특화 AI 모델인 'Daybreak(Blue·Red)'가 아마존 베드록(Amazon Bedrock)을 통해 AWS 환경에 도입되어 기업들의 보안 워크플로우를 혁신합니다.",
-            "summary_en": "OpenAI's cybersecurity-focused 'Daybreak' models are now available on Amazon Bedrock, enabling enterprises to integrate advanced security AI directly into their existing AWS workflows.",
-            "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1786406400000,
-            "date": "2026-08-11",
-            "title": "Introducing Grok Bot",
-            "summary_kr": "Grok Bot은 사용자가 사용하는 도구와 앱을 직접 조작하며 업무를 완결하는 자율형 AI 팀원으로, 복잡한 설정 없이 대화만으로 협업하고 스스로 학습하며 성과를 내는 새로운 에이전트 플랫폼입니다.",
-            "summary_en": "Grok Bot is an autonomous AI agent platform that operates directly within existing tools and applications to complete end-to-end tasks, functioning like a human teammate that learns workflows through natural collaboration.",
-            "link": "https://x.ai/news/introducing-grok-bot"
         }
     ]
 }

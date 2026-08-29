@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-08-29 00:11:23",
+    "last_update": "2026-08-29 18:56:55",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1784800800000,
+            "date": "2026-07-23",
+            "title": "Understanding the AI economy",
+            "summary_kr": "구글은 전 세계 150개국 이상의 데이터를 분석한 'AI & Economy ATLAS'를 통해 AI가 업무와 일상 전반에서 광범위하게 사용되지만, 전면적 자동화보다는 협업과 지원 도구로서 핵심적인 가치를 창출하고 있음을 입증했습니다.",
+            "summary_en": "Google's 'AI & Economy ATLAS' study, analyzing data from over 150 countries, reveals that AI is being widely adopted as a collaborative tool for assistance rather than full automation across both professional and personal spheres.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1784764800000,
+            "date": "2026-07-23",
+            "title": "Launching Health in ChatGPT",
+            "summary_kr": "ChatGPT가 미국 사용자들을 대상으로 건강 정보 연동 기능을 출시하여, 사용자가 앱 내에서 의료 기록과 건강 데이터를 맥락에 맞게 통합 분석하고 맞춤형 건강 관리를 지원받을 수 있게 했습니다.",
+            "summary_en": "ChatGPT has launched a health integration feature in the U.S., allowing users to securely connect medical records and health data to receive personalized, context-aware health insights and analysis.",
+            "link": "https://openai.com/index/health-in-chatgpt"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1784749841000,
+            "date": "2026-07-22",
+            "title": "Sustainability for the AI Era  - Source Asia",
+            "summary_kr": "마이크로소프트는 AI 확장에 따른 에너지 및 자원 수요 급증에 대응하기 위해, 공급망 전반의 지속가능성을 강화하고 탄소 없는 전력 확보를 위한 협력을 가속화하고 있습니다.",
+            "summary_en": "Microsoft is accelerating collaboration across its supply chain to ensure sustainable growth, focusing on securing carbon-free electricity and strengthening infrastructure to meet the rising resource demands of the AI era.",
+            "link": "https://news.microsoft.com/source/asia/features/sustainability-for-the-ai-era-en"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1784725200000,
@@ -873,33 +900,6 @@
             "summary_kr": "구글과 파트너사들이 협력해 개발한 FireSat 위성 3기가 추가 발사되었으며, 이는 고성능 센서와 AI 기술을 통해 초기 단계의 산불을 조기에 탐지하고 예방하는 글로벌 감시망을 확장합니다.",
             "summary_en": "Three new FireSat satellites, developed through a partnership between Google and industry leaders, have launched to expand a global monitoring network that utilizes advanced sensors and AI for early wildfire detection.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783437010000,
-            "date": "2026-07-07",
-            "title": "NVIDIA Vera CPU Boosts AI Factory Throughput to Accelerate Agentic Workloads",
-            "summary_kr": "NVIDIA Vera CPU는 고성능 단일 코어 처리를 통해 강화학습과 에이전트 워크로드의 CPU 병목 현상을 해결함으로써, 전체 AI 팩토리의 처리량을 극대화하고 모델 학습 속도를 획기적으로 개선합니다.",
-            "summary_en": "NVIDIA Vera CPU maximizes AI factory throughput and accelerates model convergence by optimizing sustained per-core performance to resolve CPU bottlenecks in reinforcement learning and agentic workflows.",
-            "link": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783382400000,
-            "date": "2026-07-07",
-            "title": "Claude Code Category | Claude",
-            "summary_kr": "앤스로픽은 개발자가 클로드 코드를 워크플로우에 효과적으로 통합하고 최적화할 수 있도록 다양한 실전 사례와 가이드를 제공합니다.",
-            "summary_en": "Anthropic provides comprehensive guides and real-world use cases to help developers effectively integrate and optimize Claude Code within their engineering workflows.",
-            "link": "https://claude.com/blog-category/claude-code"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783382400000,
-            "date": "2026-07-07",
-            "title": "Enterprise AI Category | Claude",
-            "summary_kr": "앤스로픽은 보안, 규정 준수 및 실무 적용 사례를 바탕으로 기업이 클로드(Claude)를 활용해 AI를 안전하고 효율적으로 확장할 수 있는 포괄적인 엔터프라이즈 도입 전략을 제시합니다.",
-            "summary_en": "Anthropic provides comprehensive enterprise strategies and real-world use cases to help organizations securely adopt, scale, and integrate Claude into their operations with a focus on security and compliance.",
-            "link": "https://claude.com/blog-category/enterprise-ai"
         }
     ]
 }

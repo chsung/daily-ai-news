@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-08-29 00:11:23",
+    "last_update": "2026-08-29 18:56:55",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1786467600000,
+            "date": "2026-08-11",
+            "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+            "summary_kr": "구글의 연구용 의료 AI 'AMIE'는 제미나이 기반 멀티 에이전트 구조를 통해 실시간 영상 상담과 진단이 가능한 전문가 수준의 임상 능력을 입증했습니다.",
+            "summary_en": "Google's research medical AI, AMIE, demonstrates expert-level clinical capabilities, including real-time video consultation and diagnostic reasoning, powered by a Gemini-based multi-agent architecture.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786442400000,
+            "date": "2026-08-11",
+            "title": "Daybreak models are now available on AWS",
+            "summary_kr": "오픈AI의 사이버 보안 특화 AI 모델인 'Daybreak(Blue·Red)'가 아마존 베드록(Amazon Bedrock)을 통해 AWS 환경에 도입되어 기업들의 보안 워크플로우를 혁신합니다.",
+            "summary_en": "OpenAI's cybersecurity-focused 'Daybreak' models are now available on Amazon Bedrock, enabling enterprises to integrate advanced security AI directly into their existing AWS workflows.",
+            "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1786406400000,
+            "date": "2026-08-11",
+            "title": "Introducing Grok Bot",
+            "summary_kr": "Grok Bot은 사용자가 사용하는 도구와 앱을 직접 조작하며 업무를 완결하는 자율형 AI 팀원으로, 복잡한 설정 없이 대화만으로 협업하고 스스로 학습하며 성과를 내는 새로운 에이전트 플랫폼입니다.",
+            "summary_en": "Grok Bot is an autonomous AI agent platform that operates directly within existing tools and applications to complete end-to-end tasks, functioning like a human teammate that learns workflows through natural collaboration.",
+            "link": "https://x.ai/news/introducing-grok-bot"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1786453267000,
@@ -873,33 +900,6 @@
             "summary_kr": "프라임 인텔렉트 랩(Prime Intellect Lab)과 엔비디아 네모트론 3 나노를 활용하면 복잡한 인프라 없이도 단 몇 분 만에 효율적인 모델 커스터마이징이 가능해졌습니다.",
             "summary_en": "Prime Intellect Lab and NVIDIA Nemotron 3 Nano enable accessible, streamlined model customization through hosted reinforcement learning, significantly reducing infrastructure barriers.",
             "link": "https://developer.nvidia.com/blog/start-customizing-nvidia-nemotron-3-nano-with-prime-intellect-lab-in-minutes"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1784800800000,
-            "date": "2026-07-23",
-            "title": "Understanding the AI economy",
-            "summary_kr": "구글은 전 세계 150개국 이상의 데이터를 분석한 'AI & Economy ATLAS'를 통해 AI가 업무와 일상 전반에서 광범위하게 사용되지만, 전면적 자동화보다는 협업과 지원 도구로서 핵심적인 가치를 창출하고 있음을 입증했습니다.",
-            "summary_en": "Google's 'AI & Economy ATLAS' study, analyzing data from over 150 countries, reveals that AI is being widely adopted as a collaborative tool for assistance rather than full automation across both professional and personal spheres.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784764800000,
-            "date": "2026-07-23",
-            "title": "Launching Health in ChatGPT",
-            "summary_kr": "ChatGPT가 미국 사용자들을 대상으로 건강 정보 연동 기능을 출시하여, 사용자가 앱 내에서 의료 기록과 건강 데이터를 맥락에 맞게 통합 분석하고 맞춤형 건강 관리를 지원받을 수 있게 했습니다.",
-            "summary_en": "ChatGPT has launched a health integration feature in the U.S., allowing users to securely connect medical records and health data to receive personalized, context-aware health insights and analysis.",
-            "link": "https://openai.com/index/health-in-chatgpt"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1784749841000,
-            "date": "2026-07-22",
-            "title": "Sustainability for the AI Era  - Source Asia",
-            "summary_kr": "마이크로소프트는 AI 확장에 따른 에너지 및 자원 수요 급증에 대응하기 위해, 공급망 전반의 지속가능성을 강화하고 탄소 없는 전력 확보를 위한 협력을 가속화하고 있습니다.",
-            "summary_en": "Microsoft is accelerating collaboration across its supply chain to ensure sustainable growth, focusing on securing carbon-free electricity and strengthening infrastructure to meet the rising resource demands of the AI era.",
-            "link": "https://news.microsoft.com/source/asia/features/sustainability-for-the-ai-era-en"
         }
     ]
 }
