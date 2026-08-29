@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-29 09:54:55",
+    "last_update": "2026-08-29 18:15:39",
     "articles": [
+        {
+            "title": "Google releases three new Gemini models — but no 3.5 Pro | TechCrunch - TechCrunch",
+            "summary_en": "Google has launched three new Gemini models—3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber—focused on improving efficiency and cybersecurity, while internal performance delays continue to postpone the release of Gemini 3.5 Pro.",
+            "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
+            "timestamp": 1784653910000,
+            "date": "2026-07-21"
+        },
         {
             "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel - CNBC",
             "summary_en": "Nvidia has officially introduced its Vera CPU, a custom-designed processor optimized for the high-speed single-core performance required by AI agents to challenge incumbent market leaders AMD and Intel.",
@@ -693,13 +700,6 @@
             "link": "https://www.newelectronics.co.uk/content/news/anthropic-exploring-custom-ai-chip-development-with-samsung-according-to-reports",
             "timestamp": 1783283175000,
             "date": "2026-07-05"
-        },
-        {
-            "title": "Meta Launches AI Gaming App Pocket While Zuckerberg Admits Agent Development Has Fallen Behind Expectations - AI Insider",
-            "summary_en": "Meta has introduced its new AI-driven gaming app, Pocket, while CEO Mark Zuckerberg has publicly acknowledged that the company's progress in developing autonomous AI agents has fallen behind internal expectations.",
-            "link": "https://theaiinsider.tech/2026/07/03/meta-launches-ai-gaming-app-pocket-while-zuckerberg-admits-agent-development-has-fallen-behind-expectations",
-            "timestamp": 1783098184000,
-            "date": "2026-07-03"
         }
     ]
 }

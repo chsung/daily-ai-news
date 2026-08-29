@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-29 09:54:55",
+    "last_update": "2026-08-29 18:15:39",
     "articles": [
+        {
+            "title": "An Anthropic researcher just gave us a peek at self-improving AI | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic's new research on the Automated Alignment Researcher (AAR) demonstrates that AI models can autonomously improve their own alignment benchmarks, outperforming human-led research in both speed and cost-efficiency. By conducting research at a fraction of the cost—$4 per hour compared to $150 for human labor—the study provides early evidence that AI could soon automate key aspects of its own development and safety training.",
+            "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+            "timestamp": 1787945438000,
+            "date": "2026-08-28"
+        },
         {
             "title": "Microsoft 2.5: Superintelligence leader Ali Farhadi points company toward AI self-sufficiency - GeekWire",
             "summary_en": "Microsoft is emphasizing AI self-sufficiency under the leadership of Ali Farhadi, signaling a strategic shift toward controlling more of its own technology stack. The initiative underscores the company’s push to reduce reliance on external dependencies as it scales its AI operations.",
@@ -692,13 +699,6 @@
             "summary_en": "Meta has released a new AI model, reinforcing Mark Zuckerberg's strategic commitment to the development and promotion of open-weight artificial intelligence technologies.",
             "link": "https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10",
             "timestamp": 1786364781000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "Novo Nordisk and Amazon sign AI drug discovery pact, launch London innovation hub - Fierce Biotech",
-            "summary_en": "Novo Nordisk and AWS have partnered to establish a London-based innovation hub, leveraging Amazon's cloud and AI tools to accelerate drug discovery and clinical operations. This collaboration integrates specialized services like Amazon Bedrock and Bio Discovery to streamline therapeutic research and improve productivity for Novo's 25,000 employees.",
-            "link": "https://www.fiercebiotech.com/biotech/novo-nordisk-and-aws-sign-ai-drug-discovery-pact-launch-london-innovation-hub",
-            "timestamp": 1786363200000,
             "date": "2026-08-10"
         }
     ]

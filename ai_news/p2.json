@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-29 09:54:55",
+    "last_update": "2026-08-29 18:15:39",
     "articles": [
+        {
+            "title": "Novo Nordisk and Amazon sign AI drug discovery pact, launch London innovation hub - Fierce Biotech",
+            "summary_en": "Novo Nordisk and AWS have partnered to establish a London-based innovation hub, leveraging Amazon's cloud and AI tools to accelerate drug discovery and clinical operations. This collaboration integrates specialized services like Amazon Bedrock and Bio Discovery to streamline therapeutic research and improve productivity for Novo's 25,000 employees.",
+            "link": "https://www.fiercebiotech.com/biotech/novo-nordisk-and-aws-sign-ai-drug-discovery-pact-launch-london-innovation-hub",
+            "timestamp": 1786363200000,
+            "date": "2026-08-10"
+        },
         {
             "title": "S.Korea's Naver invests $7 mn in Anthropic to shift AI strategy, expand global alliance - KED Global",
             "summary_en": "Naver has invested $7 million in Anthropic as part of a strategic initiative to reorient its AI development roadmap and strengthen its international technology partnerships.",
@@ -692,13 +699,6 @@
             "summary_en": "Anthropic is currently facing a lawsuit regarding alleged patent infringement related to its neural network technology.",
             "link": "https://www.reuters.com/legal/government/university-tennessee-sues-anthropic-over-neural-network-technology-2026-07-21",
             "timestamp": 1784671184000,
-            "date": "2026-07-21"
-        },
-        {
-            "title": "Google releases three new Gemini models — but no 3.5 Pro | TechCrunch - TechCrunch",
-            "summary_en": "Google has launched three new Gemini models—3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber—focused on improving efficiency and cybersecurity, while internal performance delays continue to postpone the release of Gemini 3.5 Pro.",
-            "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
-            "timestamp": 1784653910000,
             "date": "2026-07-21"
         }
     ]
