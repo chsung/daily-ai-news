@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-29 18:15:39",
+    "last_update": "2026-08-30 09:05:19",
     "articles": [
+        {
+            "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices - MarkTechPost",
+            "summary_en": "Anthropic has introduced the Model Hardware Standard (MHS), a specification that allows AI agents to interface directly with laboratory equipment. This framework significantly reduces integration time from weeks to hours and has demonstrated success in complex tasks, such as increasing laser-relock success rates to 99.3%.",
+            "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices",
+            "timestamp": 1788070341000,
+            "date": "2026-08-30"
+        },
+        {
+            "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance - the-decoder.com",
+            "summary_en": "Google Research has launched WikiSkill, a framework that enables AI agents to maintain a persistent knowledge base of past successes and failures. By storing these insights in a structured wiki, the system allows agents to refine their procedural skills over time, enabling smaller models to perform on par with larger ones.",
+            "link": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes",
+            "timestamp": 1788008093000,
+            "date": "2026-08-29"
+        },
+        {
+            "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers - the-decoder.com",
+            "summary_en": "Google DeepMind has upgraded its Co-Scientist system to a fully autonomous lab partner capable of planning experiments, controlling hardware, and writing research papers. While the system achieved success across materials science, biology, and computer science, researchers noted that its benchmark performance does not yet fully align with expert human clinical evaluations.",
+            "link": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers",
+            "timestamp": 1787943071000,
+            "date": "2026-08-28"
+        },
         {
             "title": "An Anthropic researcher just gave us a peek at self-improving AI | TechCrunch - TechCrunch",
             "summary_en": "Anthropic's new research on the Automated Alignment Researcher (AAR) demonstrates that AI models can autonomously improve their own alignment benchmarks, outperforming human-led research in both speed and cost-efficiency. By conducting research at a fraction of the cost—$4 per hour compared to $150 for human labor—the study provides early evidence that AI could soon automate key aspects of its own development and safety training.",
@@ -678,27 +699,6 @@
             "summary_en": "Meta is shifting toward an open-source strategy by releasing its powerful Muse Spark 1.2 and device-ready Muse Glimmer models to challenge the closed-model dominance of OpenAI and Anthropic. CEO Mark Zuckerberg argues that open-source AI is critical for U.S. competitiveness and urges policymakers to reduce regulatory friction regarding training data and model distillation.",
             "link": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
             "timestamp": 1786364591000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "Nvidia, Wall Street firms partner on US$500 billion AI financing venture, source says - BNN Bloomberg",
-            "summary_en": "Nvidia is reportedly partnering with major financial institutions, including BlackRock and Blackstone, to establish a $500 billion investment vehicle dedicated to AI infrastructure. This initiative aims to secure necessary capital for the massive expansion of data centers and power generation required to support ongoing global AI growth.",
-            "link": "https://www.bnnbloomberg.ca/business/2026/08/10/nvidia-wall-street-firms-partner-on-us500-billion-ai-financing-venture-source-says",
-            "timestamp": 1786382475000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "AI model Claude advances research on the Riemann zeta function, raising the zero point bound to 67.2% - KuCoin",
-            "summary_en": "An advanced research version of Anthropic's Claude model achieved a significant breakthrough in analytic number theory by raising the proven lower bound for zeros on the Riemann zeta function from 41.6% to 67.2%. While the model did not solve the 167-year-old Riemann Hypothesis, the result represents the most significant progress in the field since 2013, demonstrating AI's growing ability to tackle complex, open research problems.",
-            "link": "https://www.kucoin.com/news/flash/ai-model-claude-advances-riemann-zeta-function-research-raises-zero-point-bound-to-67-2",
-            "timestamp": 1786408422000,
-            "date": "2026-08-11"
-        },
-        {
-            "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
-            "summary_en": "Meta has released a new AI model, reinforcing Mark Zuckerberg's strategic commitment to the development and promotion of open-weight artificial intelligence technologies.",
-            "link": "https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10",
-            "timestamp": 1786364781000,
             "date": "2026-08-10"
         }
     ]

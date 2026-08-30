@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-29 18:15:39",
+    "last_update": "2026-08-30 09:05:19",
     "articles": [
+        {
+            "title": "Nvidia, Wall Street firms partner on US$500 billion AI financing venture, source says - BNN Bloomberg",
+            "summary_en": "Nvidia is reportedly partnering with major financial institutions, including BlackRock and Blackstone, to establish a $500 billion investment vehicle dedicated to AI infrastructure. This initiative aims to secure necessary capital for the massive expansion of data centers and power generation required to support ongoing global AI growth.",
+            "link": "https://www.bnnbloomberg.ca/business/2026/08/10/nvidia-wall-street-firms-partner-on-us500-billion-ai-financing-venture-source-says",
+            "timestamp": 1786382475000,
+            "date": "2026-08-10"
+        },
+        {
+            "title": "AI model Claude advances research on the Riemann zeta function, raising the zero point bound to 67.2% - KuCoin",
+            "summary_en": "An advanced research version of Anthropic's Claude model achieved a significant breakthrough in analytic number theory by raising the proven lower bound for zeros on the Riemann zeta function from 41.6% to 67.2%. While the model did not solve the 167-year-old Riemann Hypothesis, the result represents the most significant progress in the field since 2013, demonstrating AI's growing ability to tackle complex, open research problems.",
+            "link": "https://www.kucoin.com/news/flash/ai-model-claude-advances-riemann-zeta-function-research-raises-zero-point-bound-to-67-2",
+            "timestamp": 1786408422000,
+            "date": "2026-08-11"
+        },
+        {
+            "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
+            "summary_en": "Meta has released a new AI model, reinforcing Mark Zuckerberg's strategic commitment to the development and promotion of open-weight artificial intelligence technologies.",
+            "link": "https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10",
+            "timestamp": 1786364781000,
+            "date": "2026-08-10"
+        },
         {
             "title": "Novo Nordisk and Amazon sign AI drug discovery pact, launch London innovation hub - Fierce Biotech",
             "summary_en": "Novo Nordisk and AWS have partnered to establish a London-based innovation hub, leveraging Amazon's cloud and AI tools to accelerate drug discovery and clinical operations. This collaboration integrates specialized services like Amazon Bedrock and Bio Discovery to streamline therapeutic research and improve productivity for Novo's 25,000 employees.",
@@ -679,27 +700,6 @@
             "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
             "timestamp": 1784694061000,
             "date": "2026-07-22"
-        },
-        {
-            "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities - The Hacker News",
-            "summary_en": "Google DeepMind has introduced Gemini 3.5 Flash Cyber, a specialized, cost-efficient model integrated into the CodeMender platform to automate vulnerability discovery and patching. The tool is currently restricted to government agencies and trusted partners to prevent potential dual-use misuse while significantly outperforming larger models in code analysis.",
-            "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-            "timestamp": 1784646540000,
-            "date": "2026-07-21"
-        },
-        {
-            "title": "Nvidia's new Synthetic Video Detector can identify fake AI videos with up to 92% accuracy — microservice based on cutting-edge research looks to combat misinformation in broadcasts with just 22ms processing time - Tom's Hardware",
-            "summary_en": "Nvidia has launched the Synthetic Video Detector (SVD), an inference microservice capable of identifying AI-generated video with 92% accuracy in uncompressed formats. By utilizing Meta's DINOv2 and DINOv3 Vision Transformers, the tool provides broadcasters with a high-speed, low-latency solution to verify content authenticity.",
-            "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-new-synthetic-video-detector-can-identify-fake-ai-videos-with-up-to-92-percent-accuracy-microservice-based-on-cutting-edge-research-looks-to-combat-misinformation-in-broadcasts-with-just-22ms-processing-time",
-            "timestamp": 1784626200000,
-            "date": "2026-07-21"
-        },
-        {
-            "title": "Anthropic sued for infringing neural network technology patents - Reuters",
-            "summary_en": "Anthropic is currently facing a lawsuit regarding alleged patent infringement related to its neural network technology.",
-            "link": "https://www.reuters.com/legal/government/university-tennessee-sues-anthropic-over-neural-network-technology-2026-07-21",
-            "timestamp": 1784671184000,
-            "date": "2026-07-21"
         }
     ]
 }
