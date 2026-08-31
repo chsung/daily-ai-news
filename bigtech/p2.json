@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-08-30 18:52:15",
+    "last_update": "2026-08-31 21:11:08",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1786492800000,
+            "date": "2026-08-12",
+            "title": "How RingCentral builds AI-native work from engineering to ops",
+            "summary_kr": "링센트럴(RingCentral)은 전 직원이 ChatGPT와 Codex를 활용해 AI 네이티브 방식으로 제품 개발 및 운영 효율을 극대화하며, 인간의 통제력을 유지하면서 개발 주기를 혁신적으로 단축하고 있습니다.",
+            "summary_en": "RingCentral is maximizing product development and operational efficiency by empowering all employees to use ChatGPT and Codex for AI-native workflows, significantly accelerating delivery while keeping humans in the loop.",
+            "link": "https://openai.com/index/ringcentral"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1786551227000,
+            "date": "2026-08-12",
+            "title": "How to Choose Full-Stack Observability for NVIDIA AI Factories",
+            "summary_kr": "NVIDIA AI 팩토리의 복잡한 계층적 구조에서 발생하는 성능 저하 문제를 해결하기 위해, 인프라의 각 계층을 포괄하는 통합 관측성(Full-Stack Observability) 프레임워크와 이를 위한 핵심 지표 매핑 전략을 제시합니다.",
+            "summary_en": "This guide introduces a full-stack observability framework for NVIDIA AI factories, providing a strategic approach to map infrastructure components to telemetry tools to proactively detect and resolve complex gray failures.",
+            "link": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786514400000,
+            "date": "2026-08-12",
+            "title": "From assistance to execution: How enterprises put AI to work",
+            "summary_kr": "기업용 AI가 단순 보조 도구에서 실질적인 업무를 수행하는 에이전트 체제로 진화하고 있으며, 상위 10% 기업들은 도구와 워크플로우를 연동하여 생산성 격차를 크게 벌리고 있습니다.",
+            "summary_en": "Enterprise AI is shifting from passive assistance to active execution through autonomous agents, with frontier firms significantly widening the productivity gap by integrating AI into company-specific workflows and tools.",
+            "link": "https://openai.com/index/how-enterprises-put-ai-to-work"
+        },
         {
             "company": "xAI",
             "timestamp": 1786492800000,
@@ -873,33 +900,6 @@
             "summary_kr": "앤스로픽은 'Drone-Bench'를 통해 AI 모델이 드론을 자율적으로 조종해 감시 임무를 수행하는 능력을 평가했으며, 이는 AI의 물리적 세계 제어 능력이 향상됨에 따라 동반되는 기술적 기회와 잠재적 위험을 조명합니다.",
             "summary_en": "Anthropic introduced 'Drone-Bench' to evaluate AI models' ability to autonomously pilot drones for surveillance tasks, highlighting both the practical opportunities and the dual-use risks associated with AI's growing capacity to control physical hardware.",
             "link": "https://www.anthropic.com/research/project-pilot"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1784836905000,
-            "date": "2026-07-23",
-            "title": "Introducing MAI-Image-2.5-Pro and MAI-Voice-2-Flash | Microsoft AI",
-            "summary_kr": "마이크로소프트가 고품질 이미지 생성의 'MAI-Image-2.5-Pro'와 고속 음성 처리에 최적화된 'MAI-Voice-2-Flash'를 공개하며 자사 서비스 전반에 자체 개발 모델 도입을 가속화합니다.",
-            "summary_en": "Microsoft has introduced 'MAI-Image-2.5-Pro' for high-fidelity image generation and 'MAI-Voice-2-Flash' for efficient, high-speed voice processing, further integrating its proprietary models across its product ecosystem.",
-            "link": "https://microsoft.ai/news/introducing-mai-image-2-5-pro-and-mai-voice-2-flash"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1784832982000,
-            "date": "2026-07-23",
-            "title": "From Signal magazine: Meet the team at Land O’Lakes who are seeking to use AI to help farmers protect their crops, optimize yield potentials and respond quickly to threats",
-            "summary_kr": "마이크로소프트와 브로드 연구소의 'Project Ex Vivo'는 AI와 3D 세포 모델링을 결합하여 암을 단순한 유전자 돌연변이가 아닌 역동적인 생태계로 이해함으로써 정밀 암 치료의 새로운 패러다임을 제시합니다.",
-            "summary_en": "Microsoft and the Broad Institute’s 'Project Ex Vivo' utilizes AI and 3D cell modeling to treat cancer as a dynamic system rather than a result of simple mutations, driving a new paradigm in precision oncology.",
-            "link": "https://news.microsoft.com/microsoft-signal/magazine/issue/issue-05/#growth-industries"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1784826046000,
-            "date": "2026-07-23",
-            "title": "Inside nonprofits using AI to extend their impact | The Microsoft Cloud Blog",
-            "summary_kr": "비영리 단체들이 마이크로소프트의 AI 기술을 도입하여 데이터 통합과 효율적인 자원 관리를 통해 사회적 난제를 해결하고 그 영향력을 극대화하고 있습니다.",
-            "summary_en": "Nonprofit organizations are leveraging Microsoft's AI technologies to streamline operations and derive actionable insights, significantly amplifying their capacity to address critical social challenges.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/23/ai-appreciation-day-impact-through-action"
         }
     ]
 }

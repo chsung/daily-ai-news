@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-08-30 18:52:15",
+    "last_update": "2026-08-31 21:11:08",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788193800000,
+            "date": "2026-08-31",
+            "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
+            "summary_kr": "엔비디아의 BioNeMo 에이전트 툴킷이 앤스로픽의 클로드 사이언스와 통합되어, 복잡한 생명과학 연구 워크플로우를 자동화하고 단백질 구조 예측의 정확도를 획기적으로 높였습니다.",
+            "summary_en": "NVIDIA's BioNeMo Agent Toolkit has been integrated into Anthropic's Claude Science, enabling agents to automate complex scientific workflows and significantly improve the accuracy of protein structure predictions.",
+            "link": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788192000000,
+            "date": "2026-08-31",
+            "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+            "summary_kr": "엔비디아의 Omniverse NuRec은 3D 가우시안 스플래팅 기술을 활용해 기존 실주행 데이터를 새로운 차량 환경에 맞게 재구성함으로써, 비용 효율적인 자율주행 인식 모델의 플랫폼 확장을 지원합니다.",
+            "summary_en": "NVIDIA Omniverse NuRec leverages 3D Gaussian splatting to reconstruct real-world driving data for new vehicle sensor configurations, enabling cost-effective scaling of autonomous perception models across diverse platforms.",
+            "link": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1788192000000,
+            "date": "2026-08-31",
+            "title": "Making pathology foundation models practical at scale",
+            "summary_kr": "GigaPath-Flash와 GigaTIME-Flash는 병리 기반 모델의 연산 효율을 획기적으로 개선하여, 대규모 환자 데이터를 활용한 암 연구 및 생물학적 발견의 실용성을 대폭 높였습니다.",
+            "summary_en": "GigaPath-Flash and GigaTIME-Flash significantly improve the computational efficiency of pathology foundation models, making large-scale cancer research and population-level biological discovery more practical.",
+            "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models"
+        },
         {
             "company": "xAI",
             "timestamp": 1787961600000,
@@ -873,33 +900,6 @@
             "summary_kr": "기존 직업 재교육 프로그램은 AI로 인한 대규모 노동 시장 변화를 감당하기에는 효과가 제한적이므로, 더욱 효과적인 모델을 선제적으로 발굴하고 규모를 확대해야 합니다.",
             "summary_en": "Existing retraining programs are insufficient to address large-scale AI-driven labor disruption; therefore, we must proactively identify and scale more effective interventions.",
             "link": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786492800000,
-            "date": "2026-08-12",
-            "title": "How RingCentral builds AI-native work from engineering to ops",
-            "summary_kr": "링센트럴(RingCentral)은 전 직원이 ChatGPT와 Codex를 활용해 AI 네이티브 방식으로 제품 개발 및 운영 효율을 극대화하며, 인간의 통제력을 유지하면서 개발 주기를 혁신적으로 단축하고 있습니다.",
-            "summary_en": "RingCentral is maximizing product development and operational efficiency by empowering all employees to use ChatGPT and Codex for AI-native workflows, significantly accelerating delivery while keeping humans in the loop.",
-            "link": "https://openai.com/index/ringcentral"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1786551227000,
-            "date": "2026-08-12",
-            "title": "How to Choose Full-Stack Observability for NVIDIA AI Factories",
-            "summary_kr": "NVIDIA AI 팩토리의 복잡한 계층적 구조에서 발생하는 성능 저하 문제를 해결하기 위해, 인프라의 각 계층을 포괄하는 통합 관측성(Full-Stack Observability) 프레임워크와 이를 위한 핵심 지표 매핑 전략을 제시합니다.",
-            "summary_en": "This guide introduces a full-stack observability framework for NVIDIA AI factories, providing a strategic approach to map infrastructure components to telemetry tools to proactively detect and resolve complex gray failures.",
-            "link": "https://developer.nvidia.com/blog/how-to-choose-full-stack-observability-for-nvidia-ai-factories"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786514400000,
-            "date": "2026-08-12",
-            "title": "From assistance to execution: How enterprises put AI to work",
-            "summary_kr": "기업용 AI가 단순 보조 도구에서 실질적인 업무를 수행하는 에이전트 체제로 진화하고 있으며, 상위 10% 기업들은 도구와 워크플로우를 연동하여 생산성 격차를 크게 벌리고 있습니다.",
-            "summary_en": "Enterprise AI is shifting from passive assistance to active execution through autonomous agents, with frontier firms significantly widening the productivity gap by integrating AI into company-specific workflows and tools.",
-            "link": "https://openai.com/index/how-enterprises-put-ai-to-work"
         }
     ]
 }
