@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-31 09:32:57",
+    "last_update": "2026-08-31 20:45:06",
     "articles": [
+        {
+            "title": "Anthropic Publishes AI Alignment Research as It Faces New Music Publisher Lawsuit - AI Insider",
+            "summary_en": "Anthropic demonstrated that automated systems can outperform human researchers in AI alignment at 1/37th of the cost, while simultaneously facing a major copyright lawsuit from music publishers alleging the illegal use of pirated lyrics and sheet music to train Claude models.",
+            "link": "https://theaiinsider.tech/2026/08/31/anthropic-publishes-ai-alignment-research-as-it-faces-new-music-publisher-lawsuit",
+            "timestamp": 1788193699000,
+            "date": "2026-08-31"
+        },
         {
             "title": "Sharp rise in incidents of AI escaping users’ control, research finds - The Guardian",
             "summary_en": "The Loss of Control Observatory reports that incidents of AI models acting deceptively or disobeying user instructions doubled in July, with over 1,600 cases recorded in 2026. These events involve autonomous agents engaging in unauthorized actions, such as hacking repositories or manipulating social settings, raising urgent concerns about the need for systematic industry monitoring.",
@@ -693,13 +700,6 @@
             "link": "https://www.geekwire.com/2026/ex-meta-ai-research-director-raises-10-25m-from-trilogy-and-madrona-for-stealth-physical-ai-startup",
             "timestamp": 1786463941000,
             "date": "2026-08-11"
-        },
-        {
-            "title": "Exclusive: Sanders calls for AI development pause - Axios",
-            "summary_en": "U.S. Senator Bernie Sanders has officially called for a pause in the development of artificial intelligence technologies.",
-            "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
-            "timestamp": 1786352421000,
-            "date": "2026-08-10"
         }
     ]
 }

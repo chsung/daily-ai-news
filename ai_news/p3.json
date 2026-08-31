@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-31 09:32:57",
+    "last_update": "2026-08-31 20:45:06",
     "articles": [
+        {
+            "title": "NPS Launches First NVIDIA DGX GB300 AI Supercomputer in U.S. Military to Advance Leadership Through Education and Research - DVIDS",
+            "summary_en": "The Naval Postgraduate School has installed the first NVIDIA DGX GB300 supercomputer within the U.S. military to bolster defense-focused research in artificial intelligence, autonomy, and cybersecurity. This deployment aims to enhance leadership and technical capabilities through advanced academic and operational analysis.",
+            "link": "https://www.dvidshub.net/image/9826294/nps-launches-first-nvidia-dgx-gb300-ai-supercomputer-us-military-advance-leadership-through-education-and-research",
+            "timestamp": 1784776920000,
+            "date": "2026-07-23"
+        },
         {
             "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
             "summary_en": "A White House adviser has accused China’s Moonshot AI of intellectual property theft, alleging the company used 'distillation' attacks to extract capabilities from Anthropic’s models for its new K3 AI. U.S. officials are now considering sanctions, claiming Moonshot also utilized restricted, high-end Nvidia hardware to accelerate its development.",
@@ -693,13 +700,6 @@
             "link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
             "timestamp": 1783314432000,
             "date": "2026-07-06"
-        },
-        {
-            "title": "DeepSeek Ventures into AI Chip Development, Challenging Nvidia and Huawei | Technology - Devdiscourse",
-            "summary_en": "Chinese startup DeepSeek is entering the proprietary AI chip market in an effort to reduce its dependency on Nvidia and Huawei hardware. Despite facing significant hurdles from U.S. export restrictions, the move represents a strategic effort to secure China's technological independence in the AI sector.",
-            "link": "https://www.devdiscourse.com/article/technology/3946531-deepseek-ventures-into-ai-chip-development-challenging-nvidia-and-huawei",
-            "timestamp": 1783428706000,
-            "date": "2026-07-07"
         }
     ]
 }

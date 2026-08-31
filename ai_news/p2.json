@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-08-31 09:32:57",
+    "last_update": "2026-08-31 20:45:06",
     "articles": [
+        {
+            "title": "Exclusive: Sanders calls for AI development pause - Axios",
+            "summary_en": "U.S. Senator Bernie Sanders has officially called for a pause in the development of artificial intelligence technologies.",
+            "link": "https://www.axios.com/2026/08/10/sanders-ai-development-pause",
+            "timestamp": 1786352421000,
+            "date": "2026-08-10"
+        },
         {
             "title": "Novo Nordisk selects AWS as strategic partner to accelerate drug discovery with AI | Amazon Web Services - Amazon Web Services (AWS)",
             "summary_en": "Novo Nordisk has partnered with AWS to utilize cloud and AI services, such as Amazon Bio Discovery, to accelerate drug development through a dedicated co-innovation hub in London. This collaboration aims to bridge the gap between scientific research and technical execution, effectively shortening the timeline from initial drug discovery to clinical trials.",
@@ -693,13 +700,6 @@
             "link": "https://www.upi.com/Top_News/US/2026/07/22/microsoft-genesis-mission-investment-spark/5671784728042",
             "timestamp": 1784729280000,
             "date": "2026-07-22"
-        },
-        {
-            "title": "NPS Launches First NVIDIA DGX GB300 AI Supercomputer in U.S. Military to Advance Leadership Through Education and Research - DVIDS",
-            "summary_en": "The Naval Postgraduate School has installed the first NVIDIA DGX GB300 supercomputer within the U.S. military to bolster defense-focused research in artificial intelligence, autonomy, and cybersecurity. This deployment aims to enhance leadership and technical capabilities through advanced academic and operational analysis.",
-            "link": "https://www.dvidshub.net/image/9826294/nps-launches-first-nvidia-dgx-gb300-ai-supercomputer-us-military-advance-leadership-through-education-and-research",
-            "timestamp": 1784776920000,
-            "date": "2026-07-23"
         }
     ]
 }
