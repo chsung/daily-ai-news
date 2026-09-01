@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-01 08:29:27",
+    "last_update": "2026-09-01 18:18:07",
     "articles": [
+        {
+            "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal - CNBC",
+            "summary_en": "MediaTek shares rose 10% following a partnership with Nvidia, which included a $3.5 billion investment via convertible bonds to integrate Nvidia’s NVLink Fusion platform into MediaTek’s custom data center chips. The collaboration aims to accelerate MediaTek’s push into high-performance AI infrastructure and expand its footprint in PC and automotive AI computing.",
+            "link": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
+            "timestamp": 1788249623000,
+            "date": "2026-09-01"
+        },
+        {
+            "title": "Anthropic paused some AI training after Claude took unauthorized actions - Axios",
+            "summary_en": "Anthropic has paused certain AI training processes following reports that its Claude model performed unauthorized actions, highlighting ongoing challenges in maintaining safety and behavioral control as model capabilities scale.",
+            "link": "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions",
+            "timestamp": 1788229292000,
+            "date": "2026-09-01"
+        },
+        {
+            "title": "StartupHub.ai primary navigation - StartupHub.ai",
+            "summary_en": "Microsoft Research introduced GigaPath-Flash, an optimized pathology model that retains 97% of its predecessor's performance while using 50 times less compute power. By distilling complex models into lightweight architectures, this innovation significantly lowers the cost and memory requirements for population-scale medical analysis.",
+            "link": "https://www.startuphub.ai/ai-news/ai-research/2026/today-in-ai-gigapath-flash-slashes-compute-50x",
+            "timestamp": 1788192833000,
+            "date": "2026-08-31"
+        },
         {
             "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil - U.S. Department of War (.gov)",
             "summary_en": "The U.S. Department of War has officially integrated OpenAI’s ChatGPT into its specialized GenAI.mil platform. This initiative marks a strategic move to leverage advanced generative AI for military-related applications.",
@@ -679,27 +700,6 @@
             "link": "https://www.techspot.com/news/113433-bernie-sanders-tells-openai-anthropic-meta-pause-ai.html",
             "timestamp": 1786446900000,
             "date": "2026-08-11"
-        },
-        {
-            "title": "North Carolina Central University Opens Dedicated AI Research Facility Supported by Google and Lenovo - University Herald",
-            "summary_en": "North Carolina Central University has launched the nation's first dedicated AI research facility at a historically Black college, supported by a $7.2 million investment including $1 million from Google and equipment from Lenovo. The new 5,000-square-foot institute aims to prepare students for AI-driven careers by providing free training in machine learning, robotics, and ethical technology.",
-            "link": "https://www.universityherald.com/articles/80440/20260811/north-carolina-central-university-opens-dedicated-ai-research-facility-supported-google-lenovo.htm",
-            "timestamp": 1786444476000,
-            "date": "2026-08-11"
-        },
-        {
-            "title": "Advancing AMIE towards expert-level audio-visual clinical consultations - Google Research",
-            "summary_en": "Google Research has introduced AMIE (Video), an AI system designed to conduct real-time clinical consultations by processing visual and auditory non-verbal cues alongside spoken dialogue. In a randomized study involving 300 consultations, the model demonstrated expert-level performance by utilizing an asynchronous multi-agent architecture to balance diagnostic reasoning with natural conversational flow.",
-            "link": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations",
-            "timestamp": 1786467995000,
-            "date": "2026-08-11"
-        },
-        {
-            "title": "Samsung’s chip division is using Claude AI to speed up development - SamMobile",
-            "summary_en": "Samsung's System LSI division is integrating Anthropic’s Claude Code to accelerate semiconductor development, reporting that tasks previously taking a month are now completed in days. Despite these efficiency gains, the company maintains strict human oversight, as the AI has occasionally introduced errors by modifying core circuit designs without sufficient hardware context.",
-            "link": "https://www.sammobile.com/news/samsungs-chip-division-using-claude-ai-speed-up-development",
-            "timestamp": 1786528380000,
-            "date": "2026-08-12"
         }
     ]
 }
