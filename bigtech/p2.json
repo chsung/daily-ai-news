@@ -1,6 +1,105 @@
 {
-    "last_update": "2026-08-31 21:11:08",
+    "last_update": "2026-09-01 18:56:06",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1786640400000,
+            "date": "2026-08-13",
+            "title": "Introducing Gemini 3.7 Flash",
+            "summary_kr": "구글이 코딩과 복잡한 업무 처리에 최적화된 차세대 모델 'Gemini 3.7 Flash'를 출시하며, 이전 모델 대비 성능 향상과 더불어 가격을 절반으로 낮춰 개발 효율성을 극대화했습니다.",
+            "summary_en": "Google has launched 'Gemini 3.7 Flash,' an enhanced model optimized for coding and complex agent workflows, delivering superior performance at half the cost of its predecessor.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1786640078000,
+            "date": "2026-08-13",
+            "title": "Building Agents for Teams: Managing the noise of collaboration - Microsoft 365 Developer Blog",
+            "summary_kr": "협업 환경에서 AI 에이전트는 이모지 반응, 스레드 답변, 인용 기능을 활용하여 불필요한 소음을 줄이고 사용자처럼 자연스럽게 대화 흐름을 관리해야 합니다.",
+            "summary_en": "In collaborative environments, AI agents must manage conversation flow by utilizing emoji reactions, threaded replies, and quoted responses to minimize disruption and integrate seamlessly like human team members.",
+            "link": "https://devblogs.microsoft.com/microsoft365dev/building-agents-for-teams-managing-the-noise-of-collaboration"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786618800000,
+            "date": "2026-08-13",
+            "title": "The builder’s guide to GPT‑5.6",
+            "summary_kr": "GPT-5.6 모델군은 향상된 추론 효율성과 새로운 API 기능을 통해 에이전트 작업의 비용을 획기적으로 절감하고 성능을 극대화합니다.",
+            "summary_en": "The GPT-5.6 model family significantly reduces costs while enhancing agent performance through superior reasoning efficiency and new API-driven orchestration tools.",
+            "link": "https://openai.com/index/builders-guide-to-gpt-5-6"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786615200000,
+            "date": "2026-08-13",
+            "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+            "summary_kr": "OpenAI는 세레브라스(Cerebras) 기술을 기반으로 GPT-5.6 Sol 모델의 처리 속도를 최대 14배 향상시킨 '울트라패스트(Ultrafast)' 모드를 공개하며, 실시간 고성능 AI 추론의 새로운 표준을 제시했습니다.",
+            "summary_en": "OpenAI has introduced 'Ultrafast' mode, powered by Cerebras, which accelerates the GPT-5.6 Sol model by up to 14x, setting a new standard for real-time, high-intelligence AI applications.",
+            "link": "https://openai.com/index/previewing-ultrafast"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1786460344000,
+            "date": "2026-08-11",
+            "title": "Building the foundation for agentic AI in healthcare | The Microsoft Cloud Blog",
+            "summary_kr": "마이크로소프트는 신뢰할 수 있는 데이터와 통합 인프라를 바탕으로 의료 현장의 파편화된 시스템을 연결하고, 임상 워크플로우 효율을 극대화하는 에이전트형 AI 생태계를 구축하고 있습니다.",
+            "summary_en": "Microsoft is establishing an agentic AI ecosystem that connects fragmented healthcare systems and optimizes clinical workflows through trusted data, secure infrastructure, and enterprise-grade intelligence.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/08/11/building-the-foundation-for-agentic-ai-in-healthcare"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1786627800000,
+            "date": "2026-08-13",
+            "title": "Omni experts share what excites them most about the model.",
+            "summary_kr": "구글 딥마인드 전문가들은 대화하듯 쉽게 영상 생성 및 편집을 지원하는 차세대 멀티모달 모델 '제미나이 옴니'의 무한한 잠재력과 혁신적 비전을 강조했습니다.",
+            "summary_en": "Google DeepMind experts highlight the innovative potential and vision of Gemini Omni, a next-generation multimodal model that makes video generation and editing as seamless as conversation.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786611600000,
+            "date": "2026-08-13",
+            "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+            "summary_kr": "OpenAI가 전 Wiz 사장 달리 라직(Dali Rajic)을 최고수익책임자(CRO)로 영입하며, 기업용 AI 시장 확장을 위한 본격적인 수익 운영 체계 구축에 나섭니다.",
+            "summary_en": "OpenAI has appointed former Wiz executive Dali Rajic as Chief Revenue Officer to scale its global revenue organization and accelerate the adoption of AI across enterprises.",
+            "link": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1786579200000,
+            "date": "2026-08-13",
+            "title": "Patterns and problems in multiagent systems",
+            "summary_kr": "AI 에이전트 간 상호작용이 급증함에 따라 복잡한 다중 에이전트 시스템에서의 예기치 못한 시스템 오류 위험이 커지고 있으며, 이를 방지하기 위한 효과적인 조정 및 협력 체계 구축이 시급합니다.",
+            "summary_en": "As AI agent interactions proliferate, the risk of systemic failure in complex multi-agent environments grows, necessitating urgent research into effective coordination and cooperation protocols.",
+            "link": "https://www.anthropic.com/research/multiagent-systems"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1786558993000,
+            "date": "2026-08-12",
+            "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300",
+            "summary_kr": "알리바바의 2.4조 파라미터 모델 Qwen3.8-Max는 세밀한 MoE 구조와 하이브리드 어텐션을 통해 고성능 추론을 지원하며, NVIDIA GB300 NVL72 환경에서 최적화된 연산으로 대규모 모델 배포의 새로운 표준을 제시합니다.",
+            "summary_en": "Alibaba's 2.4T-parameter Qwen3.8-Max leverages a fine-grained MoE architecture and hybrid attention to enable high-performance reasoning, achieving optimized, scalable deployment on NVIDIA GB300 NVL72 systems.",
+            "link": "https://developer.nvidia.com/blog/serve-qwen3-8-2-4t-a95b-a-2-4t-parameter-model-with-configurable-reasoning-on-nvidia-gb300-nvl72"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1786555629000,
+            "date": "2026-08-12",
+            "title": "A new approach to radiology AI",
+            "summary_kr": "마이크로소프트의 연구 모델인 CARE-X는 생성형 AI의 유연성과 판별형 AI의 정확성을 결합하여 흉부 X-ray 해석의 임상적 신뢰도를 높인 통합 VLM입니다.",
+            "summary_en": "CARE-X is a unified VLM research model that enhances clinical fidelity in chest X-ray interpretation by combining the flexibility of generative AI with the calibrated accuracy of discriminative models.",
+            "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1786492800000,
+            "date": "2026-08-12",
+            "title": "How well do job retraining programs work?",
+            "summary_kr": "기존 직업 재교육 프로그램은 AI로 인한 대규모 노동 시장 변화를 감당하기에는 효과가 제한적이므로, 더욱 효과적인 모델을 선제적으로 발굴하고 규모를 확대해야 합니다.",
+            "summary_en": "Existing retraining programs are insufficient to address large-scale AI-driven labor disruption; therefore, we must proactively identify and scale more effective interventions.",
+            "link": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1786492800000,
@@ -801,105 +900,6 @@
             "summary_kr": "NVIDIA가 공개한 'Ising Calibration 1.5'는 양자 프로세서 진단 데이터를 스스로 해석해 보정하는 최신 비전 언어 모델로, 효율적인 경량화와 향상된 학습 성능을 통해 양자 컴퓨팅의 자동화 운영을 가속화합니다.",
             "summary_en": "NVIDIA's 'Ising Calibration 1.5' is an advanced vision language model that automates quantum processor calibration by interpreting diagnostic outputs, offering superior efficiency and performance on both edge and data center hardware.",
             "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785164169000,
-            "date": "2026-07-27",
-            "title": "Fantasy Premier League Companion gives managers a new tool for success - Source EMEA",
-            "summary_kr": "프리미어리그는 Azure OpenAI와 Copilot을 활용한 'FPL 컴패니언'을 출시하여, 사용자가 공식 데이터를 바탕으로 더 나은 의사결정을 내릴 수 있도록 지원하는 AI 기반 조력자 역할을 제공합니다.",
-            "summary_en": "The Premier League has introduced the 'FPL Companion,' an AI-powered tool leveraging Azure OpenAI and Copilot to provide managers with data-driven insights and guidance for informed decision-making.",
-            "link": "https://news.microsoft.com/source/emea/features/fantasy-premier-league-companion-gives-managers-a-new-tool-for-success"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785142800000,
-            "date": "2026-07-27",
-            "title": "Six Agent Harness Capabilities for Higher Model Performance",
-            "summary_kr": "엔비디아의 NOOA 프레임워크는 AI 에이전트를 객체 지향 프로그래밍 방식으로 설계하여, 모델 성능을 최적화하고 에이전트 개발을 표준 소프트웨어 공학의 영역으로 통합합니다.",
-            "summary_en": "NVIDIA’s NOOA framework treats AI agents as objects, enabling optimized performance through architectural design and integrating agent development into standard, testable software engineering practices.",
-            "link": "https://developer.nvidia.com/blog/six-agent-harness-capabilities-for-higher-model-performance"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785123000000,
-            "date": "2026-07-27",
-            "title": "How AI is expanding what people do at work",
-            "summary_kr": "OpenAI의 연구 결과, AI는 사용자가 자신의 직무 범위를 넘어 타 직종의 업무를 직접 수행하게 함으로써 전통적인 업무 분장을 재편하고 있습니다.",
-            "summary_en": "OpenAI's research reveals that AI is reshaping traditional work boundaries by enabling employees to perform tasks typically associated with other occupations, effectively expanding their functional roles.",
-            "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785113100000,
-            "date": "2026-07-27",
-            "title": "NVIDIA Nemotron 3 Ultra Leads Open Models on Accuracy and Efficiency in Agentic RTL Coding",
-            "summary_kr": "NVIDIA Nemotron 3 Ultra는 ACE-RTL 에이전트와 결합하여 하드웨어 설계의 복잡한 반복 작업을 완벽하게 수행하며, 업계 표준인 CVDP 벤치마크에서 최고 수준의 정확도와 효율성을 입증했습니다.",
-            "summary_en": "NVIDIA Nemotron 3 Ultra, when integrated with the ACE-RTL agent, achieves industry-leading accuracy and efficiency in complex hardware design tasks, demonstrating a 100% success rate on the CVDP benchmark.",
-            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-leads-open-models-on-accuracy-and-efficiency-in-agentic-rtl-coding"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785113100000,
-            "date": "2026-07-27",
-            "title": "Advancing Semiconductor Innovation Across Materials Engineering and Manufacturing",
-            "summary_kr": "어플라이드 머티어리얼즈와 엔비디아는 AI 워크로드 급증에 대응해 원자 단위 시뮬레이션부터 공정 최적화까지 아우르는 디지털 개발 모델을 구축, 반도체 혁신 속도를 획기적으로 가속화하고 있습니다.",
-            "summary_en": "Applied Materials and NVIDIA are accelerating semiconductor innovation by integrating materials engineering with AI-driven digital twins and GPU-accelerated simulations, enabling faster atomic-scale discovery and fab optimization.",
-            "link": "https://developer.nvidia.com/blog/advancing-semiconductor-innovation-across-materials-engineering-and-manufacturing"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1785110400000,
-            "date": "2026-07-27",
-            "title": "Expanding our partnership with Cognizant | Anthropic",
-            "summary_kr": "앤스로픽과 코그니전트가 파트너십을 확장하여 코그니전트의 엔터프라이즈 플랫폼에 클로드(Claude)를 내재화하고, 전문 인력을 양성하여 전 세계 기업 고객의 실질적인 AI 도입과 생산성 혁신을 가속화합니다.",
-            "summary_en": "Anthropic and Cognizant have expanded their partnership to integrate Claude into Cognizant’s enterprise platforms and scale a certified workforce, accelerating practical AI deployment and productivity for global enterprise clients.",
-            "link": "https://www.anthropic.com/news/cognizant-anthropic"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1785110400000,
-            "date": "2026-07-27",
-            "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
-            "summary_kr": "피츠버그 대학의 HERL은 메타의 오픈소스 AI 모델(DINO, SAM)을 통합한 차세대 로봇 플랫폼 RAMMP를 통해 장애인을 위한 더욱 안전하고 직관적인 보조 공학 기술을 개발하고 있습니다.",
-            "summary_en": "The University of Pittsburgh's HERL is developing RAMMP, a next-generation robotic platform that integrates Meta’s open-source AI models to provide safer and more intuitive assistive technology for individuals with disabilities.",
-            "link": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1784851200000,
-            "date": "2026-07-24",
-            "title": "Grok in Google Workspace",
-            "summary_kr": "Grok이 구글 워크스페이스용 애드온으로 출시되어 스프레드시트, 슬라이드, 문서 내에서 실시간 데이터 분석, 콘텐츠 생성 및 문서 편집을 지원합니다.",
-            "summary_en": "Grok has launched as a Google Workspace add-on, enabling real-time data analysis, content creation, and document editing directly within Sheets, Slides, and Docs.",
-            "link": "https://x.ai/news/introducing-google-workspace-addon"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1784911500000,
-            "date": "2026-07-24",
-            "title": "ModelExpress: Distributing Model Artifacts at the Speed of Light",
-            "summary_kr": "NVIDIA의 ModelExpress는 대규모 모델 가중치를 P2P RDMA를 통해 GPU 간 직접 전송하고 스토리지 스트리밍을 최적화하여 모델 배포 및 업데이트 속도를 획기적으로 개선합니다.",
-            "summary_en": "NVIDIA ModelExpress significantly accelerates model deployment and updates by leveraging P2P RDMA for direct GPU-to-GPU weight transfers and optimizing streaming from remote storage.",
-            "link": "https://developer.nvidia.com/blog/modelexpress-distributing-model-artifacts-at-the-speed-of-light"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1784851200000,
-            "date": "2026-07-24",
-            "title": "Introducing Claude Opus 5",
-            "summary_kr": "Claude Opus 5는 이전 모델 대비 압도적인 가성비와 성능 향상을 통해 코딩, 지식 작업 및 문제 해결 분야에서 새로운 업계 표준을 제시했습니다.",
-            "summary_en": "Claude Opus 5 sets a new industry benchmark by delivering significantly improved performance and superior cost-efficiency across coding, knowledge work, and complex problem-solving tasks.",
-            "link": "https://www.anthropic.com/news/claude-opus-5"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1784851200000,
-            "date": "2026-07-24",
-            "title": "Project Pilot: Can AI models fly drones?",
-            "summary_kr": "앤스로픽은 'Drone-Bench'를 통해 AI 모델이 드론을 자율적으로 조종해 감시 임무를 수행하는 능력을 평가했으며, 이는 AI의 물리적 세계 제어 능력이 향상됨에 따라 동반되는 기술적 기회와 잠재적 위험을 조명합니다.",
-            "summary_en": "Anthropic introduced 'Drone-Bench' to evaluate AI models' ability to autonomously pilot drones for surveillance tasks, highlighting both the practical opportunities and the dual-use risks associated with AI's growing capacity to control physical hardware.",
-            "link": "https://www.anthropic.com/research/project-pilot"
         }
     ]
 }
