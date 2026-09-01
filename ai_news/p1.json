@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-31 20:45:06",
+    "last_update": "2026-09-01 08:29:27",
     "articles": [
+        {
+            "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil - U.S. Department of War (.gov)",
+            "summary_en": "The U.S. Department of War has officially integrated OpenAI’s ChatGPT into its specialized GenAI.mil platform. This initiative marks a strategic move to leverage advanced generative AI for military-related applications.",
+            "link": "https://www.war.gov/News/Releases/Release/Article/4586352/department-of-war-launches-openais-chatgpt-mil-on-genaimil",
+            "timestamp": 1788184903000,
+            "date": "2026-08-31"
+        },
+        {
+            "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting - MarkTechPost",
+            "summary_en": "Google Research introduced TimesFM-3, a 330-million parameter foundation model capable of performing multivariate time series forecasting without task-specific fine-tuning. While it achieves top-tier performance on industry benchmarks, its current release is restricted to non-commercial and non-production use.",
+            "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting",
+            "timestamp": 1788211216000,
+            "date": "2026-08-31"
+        },
+        {
+            "title": "NVIDIA Q2 FY 2027: AI Infrastructure Demand Extends Into FY 2028 - The Futurum Group",
+            "summary_en": "NVIDIA reported a record $96.22 billion in revenue for Q2 FY 2027, driven by massive demand for its new Vera Rubin platform and Blackwell Ultra architecture. The company’s continued growth is supported by significant procurement commitments and a strategic expansion into comprehensive AI factory infrastructure beyond individual GPUs.",
+            "link": "https://futurumgroup.com/insights/nvidia-q2-fy-2027-ai-infrastructure-demand-extends-into-fy-2028",
+            "timestamp": 1788187092000,
+            "date": "2026-08-31"
+        },
         {
             "title": "Anthropic Publishes AI Alignment Research as It Faces New Music Publisher Lawsuit - AI Insider",
             "summary_en": "Anthropic demonstrated that automated systems can outperform human researchers in AI alignment at 1/37th of the cost, while simultaneously facing a major copyright lawsuit from music publishers alleging the illegal use of pirated lyrics and sheet music to train Claude models.",
@@ -679,27 +700,6 @@
             "link": "https://www.sammobile.com/news/samsungs-chip-division-using-claude-ai-speed-up-development",
             "timestamp": 1786528380000,
             "date": "2026-08-12"
-        },
-        {
-            "title": "An unreleased Anthropic model made progress on one of math's biggest unsolved problems | TechCrunch - TechCrunch",
-            "summary_en": "An unreleased Anthropic model has made significant progress on the Riemann hypothesis by testing 650 mathematical ideas across 60 specialized subagents. This achievement, which required 31 million output tokens, further intensifies the debate among mathematicians regarding the role of AI in discovery and the traditional requirement for human-attributable proofs.",
-            "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-            "timestamp": 1786465520000,
-            "date": "2026-08-11"
-        },
-        {
-            "title": "Abbott Laboratories - Abbott MediaRoom",
-            "summary_en": "Abbott and Google Health have launched a multi-year partnership integrating glucose data from Abbott’s Lingo biowearable into Google’s AI-powered health coaching to provide personalized metabolic insights. The collaboration also includes a large-scale real-world study to better understand how daily habits influence long-term metabolic health and prevent chronic conditions.",
-            "link": "https://abbott.mediaroom.com/2026-08-11-Abbott-and-Google-launch-first-of-its-kind-partnership-to-transform-everyday-health-through-glucose-insights-and-AI",
-            "timestamp": 1786453385000,
-            "date": "2026-08-11"
-        },
-        {
-            "title": "Ex-Meta AI research director raises $10.25M from Trilogy and Madrona for stealth physical AI startup - GeekWire",
-            "summary_en": "Former Meta AI research director Kevin Carlberg has raised $10.25 million for his startup, Noosphere Labs, which aims to develop human-centered physical intelligence for real-world interactions. The venture is backed by Trilogy Equity Partners and Madrona and focuses on bridging the gap in AI's current inability to effectively interpret human intent in physical environments.",
-            "link": "https://www.geekwire.com/2026/ex-meta-ai-research-director-raises-10-25m-from-trilogy-and-madrona-for-stealth-physical-ai-startup",
-            "timestamp": 1786463941000,
-            "date": "2026-08-11"
         }
     ]
 }

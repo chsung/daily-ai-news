@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-08-31 20:45:06",
+    "last_update": "2026-09-01 08:29:27",
     "articles": [
+        {
+            "title": "Brown & Brown Launches AI-First Strategy With Anthropic, McKinsey and Accenture - citybiz",
+            "summary_en": "Insurance brokerage firm Brown & Brown is implementing an AI-first corporate strategy by partnering with industry leaders Anthropic, McKinsey, and Accenture.",
+            "link": "https://www.citybiz.co/article/878114/brown-brown-launches-ai-first-strategy-with-anthropic-mckinsey-and-accenture",
+            "timestamp": 1784805265000,
+            "date": "2026-07-23"
+        },
+        {
+            "title": "US officials threaten to sanction Chinese AI startups after Moonshot release - Nikkei Asia",
+            "summary_en": "U.S. officials are threatening sanctions against Chinese startups like Moonshot AI, alleging the theft of intellectual property from American frontier laboratories. The scrutiny follows the rapid rise of Moonshot’s Kimi K3 model, which now rivals top-tier AI performance globally.",
+            "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-officials-threaten-to-sanction-chinese-ai-startups-after-moonshot-release",
+            "timestamp": 1784775600000,
+            "date": "2026-07-23"
+        },
+        {
+            "title": "Microsoft invests $60 million to AI in Energy Department program - UPI.com - upi.com",
+            "summary_en": "Microsoft is investing $60 million into the U.S. Department of Energy’s 'Genesis Mission' to accelerate AI-enabled scientific research across 17 national laboratories. The package includes $40 million in Azure cloud credits and $20 million in dedicated engineering support to drive breakthroughs in energy and national security.",
+            "link": "https://www.upi.com/Top_News/US/2026/07/22/microsoft-genesis-mission-investment-spark/5671784728042",
+            "timestamp": 1784729280000,
+            "date": "2026-07-22"
+        },
         {
             "title": "NPS Launches First NVIDIA DGX GB300 AI Supercomputer in U.S. Military to Advance Leadership Through Education and Research - DVIDS",
             "summary_en": "The Naval Postgraduate School has installed the first NVIDIA DGX GB300 supercomputer within the U.S. military to bolster defense-focused research in artificial intelligence, autonomy, and cybersecurity. This deployment aims to enhance leadership and technical capabilities through advanced academic and operational analysis.",
@@ -678,27 +699,6 @@
             "summary_en": "Anthropic researchers discovered an emergent 'J-space' within Claude's neural network, a workspace where the model holds concepts for reasoning before outputting language. This structure mirrors the 'Global Workspace Theory' of human consciousness, providing a new way for developers to monitor internal model activity for safety.",
             "link": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
             "timestamp": 1783371600000,
-            "date": "2026-07-06"
-        },
-        {
-            "title": "Microsoft Shifts Its Enterprise AI Strategy from Building Models to Deployment -- Redmond Channel Partner - Redmond Channel Partner",
-            "summary_en": "Microsoft has launched the 'Frontier Company' initiative, allocating approximately 6,000 AI engineers and industry specialists to help enterprise customers transition AI projects from experimentation to production. This strategy shifts the company's focus from model performance to outcome-driven engineering, addressing the operational, governance, and workflow challenges of large-scale AI deployment.",
-            "link": "https://rcpmag.com/articles/2026/07/07/microsoft-shifts-its-enterprise-ai-strategy.aspx",
-            "timestamp": 1783429865000,
-            "date": "2026-07-07"
-        },
-        {
-            "title": "Certara Accelerates Drug Discovery and Development with NVIDIA BioNeMo Agent Toolkit FAQs - Stock Titan",
-            "summary_en": "Certara is partnering with NVIDIA to integrate the BioNeMo Agent Toolkit into its drug discovery platform to create autonomous AI agents for biosimulation. These agents will assist scientists by automating complex tasks such as dosage optimization, clinical trial simulation, and regulatory documentation while maintaining a human-in-the-loop decision-making process.",
-            "link": "https://www.stocktitan.net/news/CERT/certara-accelerates-drug-discovery-and-development-with-nvidia-bio-xvymzo9l011a.html",
-            "timestamp": 1783425600000,
-            "date": "2026-07-07"
-        },
-        {
-            "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research - MarkTechPost",
-            "summary_en": "Synthetic Sciences has introduced OpenScience, an open-source, model-agnostic AI workbench designed to support interdisciplinary research in machine learning, biology, physics, and chemistry. This platform aims to provide researchers with a unified environment for developing and deploying AI-driven scientific workflows.",
-            "link": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-            "timestamp": 1783314432000,
             "date": "2026-07-06"
         }
     ]
