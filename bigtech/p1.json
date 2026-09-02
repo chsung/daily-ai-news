@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-09-01 18:56:06",
+    "last_update": "2026-09-02 19:00:58",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788369357000,
+            "date": "2026-09-02",
+            "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+            "summary_kr": "본 기사는 최신 NVIDIA CUDA 툴체인을 활용하여 GPU 가속 코드의 안전성과 성능을 체계적으로 최적화하는 6단계 실무 가이드를 제시합니다.",
+            "summary_en": "This article provides a six-step practical guide to systematically optimizing GPU-accelerated code for safety and performance using the modern NVIDIA CUDA toolchain.",
+            "link": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788365059000,
+            "date": "2026-09-02",
+            "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+            "summary_kr": "본 기사는 정확도를 유지하면서 LLM 추론 속도를 높이기 위한 핵심 기술인 '추론적 디코딩(Speculative Decoding)'의 원리를 설명하고, 최적의 성능을 위한 드래프트 모델 설정 가이드라인을 제시합니다.",
+            "summary_en": "This article explores the principles of speculative decoding to accelerate LLM inference without sacrificing accuracy and provides guidelines for optimizing draft model parameters to achieve peak performance.",
+            "link": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788361200000,
+            "date": "2026-09-02",
+            "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+            "summary_kr": "구글은 추론 및 코딩 성능을 대폭 강화한 'Gemini 3.8 Flash'와 사이버 보안 특화 모델인 'Gemini 3.8 Flash Cyber'를 출시하여 이전 버전과 동일한 비용으로 높은 효율성을 제공합니다.",
+            "summary_en": "Google has introduced Gemini 3.8 Flash and the security-focused Gemini 3.8 Flash Cyber, delivering significant reasoning and coding improvements at the same speed and cost as the previous generation.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1788282000000,
+            "date": "2026-09-01",
+            "title": "From AI readiness to impact: Why a strong data foundation determines success in healthcare | The Microsoft Cloud Blog",
+            "summary_kr": "의료 분야에서 AI의 성공적인 도입과 확장을 위해서는 단순한 모델 도입을 넘어, 파편화된 데이터를 통합하고 인프라를 현대화하는 강력한 데이터 기반 구축이 필수적입니다.",
+            "summary_en": "Successful AI deployment in healthcare requires shifting from isolated pilots to a robust, unified data foundation that bridges fragmented systems and modernizes infrastructure to support enterprise-wide scale.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/01/from-ai-readiness-to-impact-why-a-strong-data-foundation-determines-success-in-healthcare"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788278400000,
+            "date": "2026-09-01",
+            "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+            "summary_kr": "구글 딥마인드는 50년간의 기상 데이터를 학습한 AI 모델 'WeatherNext'를 통해 기존 슈퍼컴퓨터급의 연산 능력을 단일 TPU 환경으로 구현하며 사이클론 예측의 정확도와 효율성을 획기적으로 개선했습니다.",
+            "summary_en": "Google DeepMind has significantly enhanced cyclone forecasting by utilizing the 'WeatherNext' AI model, which leverages decades of historical data to achieve supercomputer-level accuracy on a single TPU.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788267600000,
+            "date": "2026-09-01",
+            "title": "Path to Astra: critical capabilities and frontier safeguards",
+            "summary_kr": "AI 모델 '아스트라(Astra)'가 인간의 개입 없이 제로데이 취약점을 탐지하고 공격 코드를 생성할 수 있는 '임계 수준(Critical)'의 사이버 보안 능력을 입증함에 따라, 더욱 강화된 안전 장치와 제한적 배포 전략을 적용할 예정입니다.",
+            "summary_en": "The 'Astra' model has reached a 'Critical' cybersecurity threshold by demonstrating the ability to independently identify and exploit zero-day vulnerabilities, prompting the implementation of rigorous safety protocols and a phased, restricted release strategy.",
+            "link": "https://openai.com/index/path-to-astra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788224400000,
+            "date": "2026-09-01",
+            "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+            "summary_kr": "길버트 앤 토빈은 CEO의 주도적인 리더십과 철저한 거버넌스, 역할별 맞춤 교육을 통해 ChatGPT Enterprise를 성공적으로 도입하며 운영 효율성을 혁신했습니다. 이들은 전문적 판단을 보완하는 도구로서 AI를 활용하여 법률 업무의 생산성을 극대화하고 있습니다.",
+            "summary_en": "Gilbert + Tobin has successfully revolutionized its operational efficiency by integrating ChatGPT Enterprise through CEO-led commitment, rigorous governance, and role-specific training. By positioning AI as a tool to augment professional judgment, the firm has achieved high adoption rates and significant productivity gains.",
+            "link": "https://openai.com/index/gilbert-tobin"
+        },
         {
             "company": "Google",
             "timestamp": 1788282000000,
@@ -837,69 +900,6 @@
             "summary_kr": "OpenAI가 13~17세 청소년을 위해 안전 보호 기능과 학습 지원 도구를 강화한 'ChatGPT for Teens'를 출시하여 AI의 올바른 활용과 학습 경험 극대화를 지원합니다.",
             "summary_en": "OpenAI has launched 'ChatGPT for Teens,' a dedicated experience featuring enhanced safety protections and specialized learning tools designed to foster critical thinking and responsible AI use among students.",
             "link": "https://openai.com/index/chatgpt-for-teens"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1787043600000,
-            "date": "2026-08-18",
-            "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
-            "summary_kr": "구글은 항공기 비행운(contrail)이 유발하는 온난화 문제를 해결하기 위해 AI를 활용한 대규모 관제 실험인 '오퍼레이션 블루 스카이(Operation Blue Skies)'를 영국 정부 및 주요 기관과 공동으로 추진합니다.",
-            "summary_en": "Google is partnering with the UK government and key industry stakeholders to launch 'Operation Blue Skies,' a large-scale AI-driven initiative designed to mitigate the climate impact of aviation by strategically avoiding the formation of warming contrails.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1786990368000,
-            "date": "2026-08-17",
-            "title": "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer",
-            "summary_kr": "NVIDIA는 모델 최적화 도구를 활용한 '양자화 인식 증류(QAD)' 기술로 Nemotron 3.5 Lightning 모델을 4비트로 압축하여, 정확도 손실을 최소화하면서 처리량을 최대 4배 향상시켰습니다.",
-            "summary_en": "NVIDIA has leveraged Quantization-Aware Distillation (QAD) via the NVIDIA Model Optimizer to compress the Nemotron 3.5 Lightning model to 4-bit, achieving up to 4x higher throughput while effectively preserving baseline accuracy.",
-            "link": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786944600000,
-            "date": "2026-08-17",
-            "title": "The Defender’s Window",
-            "summary_kr": "AI가 사이버 공격을 고도화하고 자동화하는 위협이 커지는 가운데, 기업들은 AI를 방어 기제로 활용해 보안 취약점을 선제적으로 탐지하고 해결하는 보안 체계의 근본적 혁신이 필요합니다.",
-            "summary_en": "As AI increasingly empowers cyberattacks through automation, organizations must fundamentally upgrade their security by leveraging AI as a defensive guardian to proactively identify and remediate vulnerabilities.",
-            "link": "https://openai.com/index/the-defenders-window"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786942800000,
-            "date": "2026-08-17",
-            "title": "OpenAI joins PORTS-Pike project",
-            "summary_kr": "OpenAI가 SB Energy, NVIDIA와 협력하여 오하이오주에 8GW 규모의 데이터센터인 PORTS-Pike 프로젝트를 추진하며, 대규모 일자리 창출과 지역 사회 인프라 투자를 통해 차세대 산업화의 거점을 마련합니다.",
-            "summary_en": "OpenAI has partnered with SB Energy and NVIDIA to develop an 8GW data center project in Ohio, aiming to drive regional industrialization through massive job creation and community infrastructure investment.",
-            "link": "https://openai.com/index/openai-joins-ports-pike-project"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786936500000,
-            "date": "2026-08-17",
-            "title": "New policy ideas for the Intelligence Age",
-            "summary_kr": "OpenAI는 AI의 혜택을 전 세계적으로 공유하기 위해 독립적인 정책 연구 프로젝트 14곳에 총 200만 달러 상당의 지원금을 투자하며 사회적 대응 방안 모색에 나섰습니다.",
-            "summary_en": "OpenAI is awarding $2 million in total funding to 14 independent projects to research and develop policy frameworks that ensure the economic and societal benefits of AI are broadly shared.",
-            "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1786665600000,
-            "date": "2026-08-14",
-            "title": "How Claude's text watermarking works",
-            "summary_kr": "앤스로픽은 EU AI 법을 준수하기 위해 Claude 모델의 출력 품질이나 사용자 경험에 영향을 주지 않는 통계적 패턴 기반의 워터마킹 기술을 도입합니다.",
-            "summary_en": "Anthropic is implementing a statistical pattern-based watermarking method for Claude to comply with the EU AI Act without affecting output quality or user experience.",
-            "link": "https://www.anthropic.com/news/claude-text-watermark"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1786665600000,
-            "date": "2026-08-14",
-            "title": "Grok 4.6 in GitHub Copilot",
-            "summary_kr": "xAI의 최신 코딩 모델인 Grok 4.6이 GitHub Copilot에 통합되어 전 세계 개발자들이 사용할 수 있게 되었습니다.",
-            "summary_en": "xAI's latest coding model, Grok 4.6, is now integrated into GitHub Copilot, providing developers with enhanced coding capabilities.",
-            "link": "https://x.ai/news/grok-4-6-github-copilot"
         }
     ]
 }

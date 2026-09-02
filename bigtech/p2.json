@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-09-01 18:56:06",
+    "last_update": "2026-09-02 19:00:58",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1787043600000,
+            "date": "2026-08-18",
+            "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+            "summary_kr": "구글은 항공기 비행운(contrail)이 유발하는 온난화 문제를 해결하기 위해 AI를 활용한 대규모 관제 실험인 '오퍼레이션 블루 스카이(Operation Blue Skies)'를 영국 정부 및 주요 기관과 공동으로 추진합니다.",
+            "summary_en": "Google is partnering with the UK government and key industry stakeholders to launch 'Operation Blue Skies,' a large-scale AI-driven initiative designed to mitigate the climate impact of aviation by strategically avoiding the formation of warming contrails.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1786990368000,
+            "date": "2026-08-17",
+            "title": "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer",
+            "summary_kr": "NVIDIA는 모델 최적화 도구를 활용한 '양자화 인식 증류(QAD)' 기술로 Nemotron 3.5 Lightning 모델을 4비트로 압축하여, 정확도 손실을 최소화하면서 처리량을 최대 4배 향상시켰습니다.",
+            "summary_en": "NVIDIA has leveraged Quantization-Aware Distillation (QAD) via the NVIDIA Model Optimizer to compress the Nemotron 3.5 Lightning model to 4-bit, achieving up to 4x higher throughput while effectively preserving baseline accuracy.",
+            "link": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786944600000,
+            "date": "2026-08-17",
+            "title": "The Defender’s Window",
+            "summary_kr": "AI가 사이버 공격을 고도화하고 자동화하는 위협이 커지는 가운데, 기업들은 AI를 방어 기제로 활용해 보안 취약점을 선제적으로 탐지하고 해결하는 보안 체계의 근본적 혁신이 필요합니다.",
+            "summary_en": "As AI increasingly empowers cyberattacks through automation, organizations must fundamentally upgrade their security by leveraging AI as a defensive guardian to proactively identify and remediate vulnerabilities.",
+            "link": "https://openai.com/index/the-defenders-window"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786942800000,
+            "date": "2026-08-17",
+            "title": "OpenAI joins PORTS-Pike project",
+            "summary_kr": "OpenAI가 SB Energy, NVIDIA와 협력하여 오하이오주에 8GW 규모의 데이터센터인 PORTS-Pike 프로젝트를 추진하며, 대규모 일자리 창출과 지역 사회 인프라 투자를 통해 차세대 산업화의 거점을 마련합니다.",
+            "summary_en": "OpenAI has partnered with SB Energy and NVIDIA to develop an 8GW data center project in Ohio, aiming to drive regional industrialization through massive job creation and community infrastructure investment.",
+            "link": "https://openai.com/index/openai-joins-ports-pike-project"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786936500000,
+            "date": "2026-08-17",
+            "title": "New policy ideas for the Intelligence Age",
+            "summary_kr": "OpenAI는 AI의 혜택을 전 세계적으로 공유하기 위해 독립적인 정책 연구 프로젝트 14곳에 총 200만 달러 상당의 지원금을 투자하며 사회적 대응 방안 모색에 나섰습니다.",
+            "summary_en": "OpenAI is awarding $2 million in total funding to 14 independent projects to research and develop policy frameworks that ensure the economic and societal benefits of AI are broadly shared.",
+            "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1786665600000,
+            "date": "2026-08-14",
+            "title": "How Claude's text watermarking works",
+            "summary_kr": "앤스로픽은 EU AI 법을 준수하기 위해 Claude 모델의 출력 품질이나 사용자 경험에 영향을 주지 않는 통계적 패턴 기반의 워터마킹 기술을 도입합니다.",
+            "summary_en": "Anthropic is implementing a statistical pattern-based watermarking method for Claude to comply with the EU AI Act without affecting output quality or user experience.",
+            "link": "https://www.anthropic.com/news/claude-text-watermark"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1786665600000,
+            "date": "2026-08-14",
+            "title": "Grok 4.6 in GitHub Copilot",
+            "summary_kr": "xAI의 최신 코딩 모델인 Grok 4.6이 GitHub Copilot에 통합되어 전 세계 개발자들이 사용할 수 있게 되었습니다.",
+            "summary_en": "xAI's latest coding model, Grok 4.6, is now integrated into GitHub Copilot, providing developers with enhanced coding capabilities.",
+            "link": "https://x.ai/news/grok-4-6-github-copilot"
+        },
         {
             "company": "Google",
             "timestamp": 1786640400000,
@@ -837,69 +900,6 @@
             "summary_kr": "미시간주의 낙농가는 Gemini 3.6 Flash 기반의 멀티 에이전트 시스템을 도입하여 파편화된 농장 데이터를 자동 통합하고 분석함으로써, 운영 효율성을 높이고 데이터 관리 비용을 획기적으로 절감했습니다.",
             "summary_en": "A Michigan dairy farmer implemented a multi-agent system powered by Gemini 3.6 Flash to automate the integration and analysis of siloed farm data, significantly improving operational efficiency and reducing costs.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1785200400000,
-            "date": "2026-07-28",
-            "title": "Google and KDDI are ready to back Japanese startups.",
-            "summary_kr": "구글과 KDDI가 일본의 AI 스타트업 육성을 위해 자본 투자, 최신 AI 모델 접근 권한, 클라우드 컴퓨팅 및 기술 지원을 제공하는 파트너십 프로그램을 출범합니다.",
-            "summary_en": "Google and KDDI have launched a joint support program to accelerate Japanese AI startups through equity funding, early access to advanced AI models, and specialized technical infrastructure.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1785196800000,
-            "date": "2026-07-28",
-            "title": "Cryptanalysis with language models",
-            "summary_kr": "앤스로픽의 AI 모델인 Claude Mythos가 HAWK 디지털 서명 및 AES 암호 알고리즘의 취약점을 발견하며, AI가 인간 전문가의 검증을 넘어 암호학 연구를 가속화할 잠재력을 입증했습니다.",
-            "summary_en": "Anthropic's Claude Mythos model has identified vulnerabilities in the HAWK digital signature scheme and AES cipher, demonstrating AI's potential to surpass human expert review and advance cryptographic research.",
-            "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1785196800000,
-            "date": "2026-07-28",
-            "title": "Introducing Build Mode",
-            "summary_kr": "Grok이 코드 작성 없이 대화만으로 웹사이트, 앱, 게임 등을 즉시 구축하고 공유할 수 있는 '빌드 모드(Build Mode)'를 슈퍼그록 헤비 구독자 대상 얼리 베타로 출시했습니다.",
-            "summary_en": "Grok has launched 'Build Mode' in early beta for SuperGrok Heavy subscribers, enabling users to create and publish functional websites, apps, and games directly through conversational prompts without manual coding.",
-            "link": "https://x.ai/news/grok-build-mode"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785169977000,
-            "date": "2026-07-27",
-            "title": "Introducing MAI-Cyber-1-Flash inside MDASH | Microsoft AI",
-            "summary_kr": "마이크로소프트는 고성능 보안 모델 'MAI-Cyber-1-Flash'를 자사 멀티 에이전트 플랫폼 MDASH에 통합하여, 기존 대비 비용을 50% 절감하면서도 업계 최고 수준의 취약점 탐지 및 해결 성능을 구현했습니다.",
-            "summary_en": "Microsoft has integrated its high-performance 'MAI-Cyber-1-Flash' model into the MDASH platform, delivering industry-leading vulnerability detection and remediation at 50% of the cost of previous solutions.",
-            "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1785110400000,
-            "date": "2026-07-27",
-            "title": "Our position on open-weights models",
-            "summary_kr": "앤스로픽의 CEO 다리오 아모데이는 오픈 웨이트 모델 자체에 대한 금지보다는 첨단 칩 수출 통제와 기술 유출 방지가 국가 안보를 위한 가장 효과적인 대응책이라고 강조했습니다.",
-            "summary_en": "Anthropic CEO Dario Amodei clarifies that he does not support banning open-weights models, arguing instead that restricting high-end chip access and preventing industrial-scale distillation are the most effective strategies for national security.",
-            "link": "https://www.anthropic.com/news/position-open-weights-models"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785171242000,
-            "date": "2026-07-27",
-            "title": "Rethinking security for the age of AI - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 AI 기반의 고속 공격에 대응하기 위해 실시간으로 위험을 인지, 추론 및 대응하는 자율형 보안 시스템 '프로젝트 퍼셉션(Project Perception)'을 공개했습니다. 이 시스템은 다중 모델 아키텍처를 통해 보안 효율성을 극대화하고 인간 전문가를 지원하는 새로운 차원의 방어 체계를 지향합니다.",
-            "summary_en": "Microsoft has introduced 'Project Perception,' an agentic security system designed to defend against AI-driven threats by continuously perceiving, reasoning, and acting at machine speed. By leveraging a multi-model architecture, it enhances defensive efficiency while empowering human security teams with proactive, automated workflows.",
-            "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1785168000000,
-            "date": "2026-07-27",
-            "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
-            "summary_kr": "NVIDIA가 공개한 'Ising Calibration 1.5'는 양자 프로세서 진단 데이터를 스스로 해석해 보정하는 최신 비전 언어 모델로, 효율적인 경량화와 향상된 학습 성능을 통해 양자 컴퓨팅의 자동화 운영을 가속화합니다.",
-            "summary_en": "NVIDIA's 'Ising Calibration 1.5' is an advanced vision language model that automates quantum processor calibration by interpreting diagnostic outputs, offering superior efficiency and performance on both edge and data center hardware.",
-            "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning"
         }
     ]
 }

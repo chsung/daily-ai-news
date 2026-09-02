@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-09-01 18:56:06",
+    "last_update": "2026-09-02 19:00:58",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1785200400000,
+            "date": "2026-07-28",
+            "title": "Google and KDDI are ready to back Japanese startups.",
+            "summary_kr": "구글과 KDDI가 일본의 AI 스타트업 육성을 위해 자본 투자, 최신 AI 모델 접근 권한, 클라우드 컴퓨팅 및 기술 지원을 제공하는 파트너십 프로그램을 출범합니다.",
+            "summary_en": "Google and KDDI have launched a joint support program to accelerate Japanese AI startups through equity funding, early access to advanced AI models, and specialized technical infrastructure.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1785196800000,
+            "date": "2026-07-28",
+            "title": "Cryptanalysis with language models",
+            "summary_kr": "앤스로픽의 AI 모델인 Claude Mythos가 HAWK 디지털 서명 및 AES 암호 알고리즘의 취약점을 발견하며, AI가 인간 전문가의 검증을 넘어 암호학 연구를 가속화할 잠재력을 입증했습니다.",
+            "summary_en": "Anthropic's Claude Mythos model has identified vulnerabilities in the HAWK digital signature scheme and AES cipher, demonstrating AI's potential to surpass human expert review and advance cryptographic research.",
+            "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1785196800000,
+            "date": "2026-07-28",
+            "title": "Introducing Build Mode",
+            "summary_kr": "Grok이 코드 작성 없이 대화만으로 웹사이트, 앱, 게임 등을 즉시 구축하고 공유할 수 있는 '빌드 모드(Build Mode)'를 슈퍼그록 헤비 구독자 대상 얼리 베타로 출시했습니다.",
+            "summary_en": "Grok has launched 'Build Mode' in early beta for SuperGrok Heavy subscribers, enabling users to create and publish functional websites, apps, and games directly through conversational prompts without manual coding.",
+            "link": "https://x.ai/news/grok-build-mode"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785169977000,
+            "date": "2026-07-27",
+            "title": "Introducing MAI-Cyber-1-Flash inside MDASH | Microsoft AI",
+            "summary_kr": "마이크로소프트는 고성능 보안 모델 'MAI-Cyber-1-Flash'를 자사 멀티 에이전트 플랫폼 MDASH에 통합하여, 기존 대비 비용을 50% 절감하면서도 업계 최고 수준의 취약점 탐지 및 해결 성능을 구현했습니다.",
+            "summary_en": "Microsoft has integrated its high-performance 'MAI-Cyber-1-Flash' model into the MDASH platform, delivering industry-leading vulnerability detection and remediation at 50% of the cost of previous solutions.",
+            "link": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1785110400000,
+            "date": "2026-07-27",
+            "title": "Our position on open-weights models",
+            "summary_kr": "앤스로픽의 CEO 다리오 아모데이는 오픈 웨이트 모델 자체에 대한 금지보다는 첨단 칩 수출 통제와 기술 유출 방지가 국가 안보를 위한 가장 효과적인 대응책이라고 강조했습니다.",
+            "summary_en": "Anthropic CEO Dario Amodei clarifies that he does not support banning open-weights models, arguing instead that restricting high-end chip access and preventing industrial-scale distillation are the most effective strategies for national security.",
+            "link": "https://www.anthropic.com/news/position-open-weights-models"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785171242000,
+            "date": "2026-07-27",
+            "title": "Rethinking security for the age of AI - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 AI 기반의 고속 공격에 대응하기 위해 실시간으로 위험을 인지, 추론 및 대응하는 자율형 보안 시스템 '프로젝트 퍼셉션(Project Perception)'을 공개했습니다. 이 시스템은 다중 모델 아키텍처를 통해 보안 효율성을 극대화하고 인간 전문가를 지원하는 새로운 차원의 방어 체계를 지향합니다.",
+            "summary_en": "Microsoft has introduced 'Project Perception,' an agentic security system designed to defend against AI-driven threats by continuously perceiving, reasoning, and acting at machine speed. By leveraging a multi-model architecture, it enhances defensive efficiency while empowering human security teams with proactive, automated workflows.",
+            "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785168000000,
+            "date": "2026-07-27",
+            "title": "NVIDIA Ising Enables Fully Automated Quantum Computer Calibration with Enhanced In-Context Learning",
+            "summary_kr": "NVIDIA가 공개한 'Ising Calibration 1.5'는 양자 프로세서 진단 데이터를 스스로 해석해 보정하는 최신 비전 언어 모델로, 효율적인 경량화와 향상된 학습 성능을 통해 양자 컴퓨팅의 자동화 운영을 가속화합니다.",
+            "summary_en": "NVIDIA's 'Ising Calibration 1.5' is an advanced vision language model that automates quantum processor calibration by interpreting diagnostic outputs, offering superior efficiency and performance on both edge and data center hardware.",
+            "link": "https://developer.nvidia.com/blog/nvidia-ising-enables-fully-automated-quantum-computer-calibration-with-enhanced-in-context-learning"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1785164169000,
@@ -837,69 +900,6 @@
             "summary_kr": "GPT-5.6 시리즈는 독보적인 추론 능력과 비용 효율성을 바탕으로 코딩 및 에이전트 작업에서 업계 최고 수준의 성능을 구현하며 AI의 실용적 활용 범위를 대폭 확장했습니다.",
             "summary_en": "The GPT-5.6 series sets a new industry benchmark for intelligence and cost-efficiency, significantly expanding the practical utility of AI in complex coding and agentic workflows.",
             "link": "https://openai.com/index/gpt-5-6"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783591200000,
-            "date": "2026-07-09",
-            "title": "ChatGPT is now a partner for your most ambitious work",
-            "summary_kr": "OpenAI는 최신 모델 GPT-5.6과 코덱스(Codex) 기술을 기반으로, 앱과 파일을 연동하여 복잡한 업무를 독립적으로 완수하는 AI 에이전트 'ChatGPT Work'를 출시했습니다.",
-            "summary_en": "OpenAI has launched 'ChatGPT Work,' an AI agent powered by GPT-5.6 and Codex that autonomously executes complex, multi-step workflows across various apps and files.",
-            "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783591200000,
-            "date": "2026-07-09",
-            "title": "OpenAI Bio Bug Bounty",
-            "summary_kr": "OpenAI는 생물학적 위험 방지를 강화하기 위해 'Bio Bounty Program'을 상설화하고, GPT-5.6 및 GPT-5.5의 범용 탈옥 취약점 신고 보상금을 최대 5만 달러로 인상했습니다.",
-            "summary_en": "OpenAI is transitioning its bio-risk bug bounty into an ongoing program, doubling the rewards for universal jailbreak discoveries in GPT-5.5 and GPT-5.6 to $50,000.",
-            "link": "https://openai.com/index/bio-bug-bounty"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "Inviting hard questions",
-            "summary_kr": "앤스로픽은 AI 기술에 대한 대중의 기대와 우려를 적극적으로 수용하고 투명하게 소통하기 위해 '난제 제안(Hard Questions)' 이니셔티브를 시작하며, 이를 통해 공익을 위한 AI 개발의 책임과 실천 의지를 강화하고 있습니다.",
-            "summary_en": "Anthropic is launching a 'Hard Questions' initiative to actively address public hopes and concerns about AI, reaffirming its commitment to transparent, responsible, and public-benefit-driven AI development.",
-            "link": "https://www.anthropic.com/news/hard-questions"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-            "summary_kr": "전 연준 의장이자 노벨 경제학상 수상자인 벤 버냉키가 앤스로픽의 장기적 혜택 신탁(LTBT) 위원으로 합류하여, AI가 경제와 노동 시장에 미칠 영향을 관리하고 기업의 책임 있는 AI 개발을 감독하게 됩니다.",
-            "summary_en": "Former Fed Chair and Nobel laureate Ben Bernanke has joined Anthropic’s Long-Term Benefit Trust to provide oversight on the societal and economic impacts of AI, ensuring the company’s development remains aligned with its mission for long-term human benefit.",
-            "link": "https://www.anthropic.com/news/ben-bernanke"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "A new way to reflect on how you use Claude",
-            "summary_kr": "앤스로픽은 사용자가 클로드(Claude) 활용 패턴을 분석하고 AI와 인간의 업무 경계를 정립하도록 돕는 '리플렉션(Reflection)' 대시보드 기능을 베타 출시했습니다.",
-            "summary_en": "Anthropic has launched a beta 'Reflection' dashboard that helps users analyze their interaction patterns with Claude to optimize AI usage and define clear boundaries between human and AI tasks.",
-            "link": "https://www.anthropic.com/news/reflect-with-claude"
-        },
-        {
-            "company": "Meta",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "Introducing Muse Spark 1.1",
-            "summary_kr": "메타가 공개한 'Muse Spark 1.1'은 에이전트 작업, 컴퓨터 제어, 코딩 성능을 대폭 강화한 멀티모달 추론 모델로, 복잡한 업무를 스스로 계획하고 실행하는 개인용 초지능 구현에 한 걸음 다가섰습니다.",
-            "summary_en": "Meta's new 'Muse Spark 1.1' is a multimodal reasoning model that significantly enhances agentic tasks, computer use, and coding capabilities, advancing the vision of personal superintelligence by efficiently orchestrating complex workflows.",
-            "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783533693000,
-            "date": "2026-07-08",
-            "title": "6 key takeaways from ISTE 2026: How educators are applying AI in the classroom | Microsoft Education Blog",
-            "summary_kr": "ISTELive 2026에서 마이크로소프트는 교육 현장의 AI 활용이 단순한 실험 단계를 넘어, 실질적인 학습 효과와 교육적 성과를 도출하는 체계적이고 책임 있는 단계로 진화하고 있음을 강조했습니다.",
-            "summary_en": "At ISTELive 2026, Microsoft emphasized that AI in education is shifting from early experimentation to measurable, system-wide practical application, supported by research-backed tools and a strong focus on educator community and AI literacy.",
-            "link": "https://www.microsoft.com/en-us/education/blog/2026/07/6-key-takeaways-from-iste-2026-how-educators-are-applying-ai-in-the-classroom"
         }
     ]
 }
