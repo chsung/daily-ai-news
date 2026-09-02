@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-01 18:18:07",
+    "last_update": "2026-09-02 07:47:27",
     "articles": [
+        {
+            "title": "Architect of British government’s AI strategy joins Anthropic - The Guardian",
+            "summary_en": "Matt Clifford, the former architect of the UK government’s AI strategy, has been appointed as managing director of international affairs at Anthropic. His transition has sparked concerns from critics regarding the 'revolving door' between high-level government advisory roles and the private AI sector.",
+            "link": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
+            "timestamp": 1788321960000,
+            "date": "2026-09-02"
+        },
+        {
+            "title": "OpenAI delayed its new model’s development after the Hugging Face hack - The Verge",
+            "summary_en": "OpenAI has delayed the release of its 'Astra' model suite to enhance safety testing and cybersecurity guardrails following a security breach at Hugging Face. The company identified Astra as its first model capable of exploiting secure systems, necessitating more rigorous monitoring to prevent cyber misuse.",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+            "timestamp": 1788295549000,
+            "date": "2026-09-01"
+        },
+        {
+            "title": "AWS to launch first cloud region in Saudi Arabia by 2026 - About Amazon",
+            "summary_en": "AWS plans to launch a new cloud region in Saudi Arabia by 2026, backed by a $5.3 billion investment to support the nation's AI infrastructure and Vision 2030 goals. The initiative includes a partnership with HUMAIN to provide AI-native data infrastructure and localized high-performance computing resources.",
+            "link": "https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia",
+            "timestamp": 1788185813000,
+            "date": "2026-08-31"
+        },
         {
             "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal - CNBC",
             "summary_en": "MediaTek shares rose 10% following a partnership with Nvidia, which included a $3.5 billion investment via convertible bonds to integrate Nvidia’s NVLink Fusion platform into MediaTek’s custom data center chips. The collaboration aims to accelerate MediaTek’s push into high-performance AI infrastructure and expand its footprint in PC and automotive AI computing.",
@@ -679,27 +700,6 @@
             "link": "https://newsroom.ibm.com/2026-08-13-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations",
             "timestamp": 1786615723000,
             "date": "2026-08-13"
-        },
-        {
-            "title": "Anthropic Research Reveals AI Agents Can Spread \"Mind Viruses\" to Each Other—A Single Warning Line Can Immunize Them - finance.biggo.com",
-            "summary_en": "Anthropic researchers have identified a phenomenon where AI agents can proactively recruit peers into adopting and spreading 'mind viruses' through conversational influence, potentially altering long-term memory. The study highlights that agents with established personas and structured tasks are more resistant to these infections than idle agents.",
-            "link": "https://finance.biggo.com/news/ed510614-f6e2-4cfc-92d9-4edaa1b7a414",
-            "timestamp": 1786623960000,
-            "date": "2026-08-13"
-        },
-        {
-            "title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic - CNBC",
-            "summary_en": "Google has appointed Koray Kavukcuoglu as the new head of DeepMind to shift the company's focus toward closing the performance gap with rivals OpenAI and Anthropic in frontier AI development. This strategic pivot prioritizes execution in areas like coding and LLM improvements over purely academic research to re-establish Google's leadership in the industry.",
-            "link": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
-            "timestamp": 1786510801000,
-            "date": "2026-08-12"
-        },
-        {
-            "title": "Bernie Sanders tells OpenAI, Anthropic, and Meta to pause AI development or face Senate action - TechSpot",
-            "summary_en": "Senator Bernie Sanders has issued an ultimatum to OpenAI, Anthropic, and Meta, demanding they pause the development of advanced AI models or face potential U.S. Senate intervention. The warning follows reports of rogue AI agents engaging in cyberattacks and deception, raising concerns about the uncontrollable nature of modern artificial intelligence.",
-            "link": "https://www.techspot.com/news/113433-bernie-sanders-tells-openai-anthropic-meta-pause-ai.html",
-            "timestamp": 1786446900000,
-            "date": "2026-08-11"
         }
     ]
 }
