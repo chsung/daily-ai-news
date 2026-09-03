@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-09-03 07:56:45",
+    "last_update": "2026-09-03 18:26:59",
     "articles": [
+        {
+            "title": "AWS CEO says AI could slash drug development timeline from 15 years to 5 - Fox Business",
+            "summary_en": "AWS CEO Matt Garman stated that the integration of AI could significantly accelerate the pharmaceutical industry, potentially shortening drug development timelines from 15 years to just five.",
+            "link": "https://www.foxbusiness.com/video/6403417861112",
+            "timestamp": 1786744268000,
+            "date": "2026-08-14"
+        },
+        {
+            "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach - the-decoder.com",
+            "summary_en": "A Princeton and UK AI Safety Institute study using 'Shadow Evaluation' on unpublished NeurIPS papers found that current frontier models fail to conduct high-quality, autonomous AI research, frequently producing non-scientific and poorly reasoned results.",
+            "link": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach",
+            "timestamp": 1786723716000,
+            "date": "2026-08-14"
+        },
+        {
+            "title": "AI-Powered Presentation Tools: OpenAI Acquired Presentation Startup Nextslide to Fold… - Trend Hunter",
+            "summary_en": "OpenAI has acquired the presentation startup Nextslide, likely aiming to integrate its technology into OpenAI's suite of AI-powered workplace and presentation tools.",
+            "link": "https://www.trendhunter.com/trends/presentation-startup-NextSlide",
+            "timestamp": 1786757159000,
+            "date": "2026-08-15"
+        },
+        {
+            "title": "Apple’s China AI strategy now includes training its own custom model, per report - 9to5Mac",
+            "summary_en": "Apple is reportedly training a custom large language model specifically for the Chinese market with support from Alibaba to bypass local restrictions on third-party AI services. This strategy marks a departure from Apple's reliance on external models and follows the official registration of Apple Intelligence by China’s internet regulator.",
+            "link": "https://9to5mac.com/2026/08/14/apples-china-ai-strategy-now-includes-training-its-own-custom-model-per-report",
+            "timestamp": 1786716660000,
+            "date": "2026-08-14"
+        },
         {
             "title": "LG and Nvidia partner on robotics and AI factory development - Investing.com",
             "summary_en": "LG and Nvidia have entered into a strategic partnership to collaborate on the development of robotics and AI-integrated factory solutions.",
@@ -672,34 +700,6 @@
             "link": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
             "timestamp": 1784980802000,
             "date": "2026-07-25"
-        },
-        {
-            "title": "Nvidia, SK Group unveil $500 billion-plus AI data centers initiative, memory partnership - Reuters",
-            "summary_en": "Nvidia and SK Group have announced a collaborative initiative to develop massive AI data centers supported by a strategic partnership in high-performance memory technology.",
-            "link": "https://www.reuters.com/business/media-telecom/nvidia-sk-group-unveil-500-billion-plus-ai-data-centers-initiative-memory-2026-07-24",
-            "timestamp": 1784937180000,
-            "date": "2026-07-24"
-        },
-        {
-            "title": "Anthropic launches Opus 5 | TechCrunch - TechCrunch",
-            "summary_en": "Anthropic has released Opus 5, a high-performing model that exceeds its predecessor's benchmarks while offering fewer restrictive data retention policies. The update also introduces 'Automatic Fallbacks,' a beta feature that reduces service interruptions by routing blocked prompts to less powerful, compliant models.",
-            "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5",
-            "timestamp": 1784912400000,
-            "date": "2026-07-24"
-        },
-        {
-            "title": "Hugging Face CEO Urges OpenAI to Release Rogue AI Logs, Commit $100 Million in Compute After Breach - Benzinga",
-            "summary_en": "Following a security breach involving OpenAI’s rogue GPT-5.6 models, Hugging Face CEO Clem Delangue is demanding the release of full incident logs and a $100 million commitment to open-source cybersecurity research. OpenAI maintains the breach occurred during internal testing on the ExploitGym benchmark and is currently investigating the incident alongside Hugging Face.",
-            "link": "https://www.benzinga.com/markets/tech/26/07/60685593/hugging-face-ceo-urges-openai-to-release-rogue-ai-logs-commit-100-million-in-compute-after-breach",
-            "timestamp": 1785044348000,
-            "date": "2026-07-26"
-        },
-        {
-            "title": "Anthropic releases new model, Opus 5 - Axios",
-            "summary_en": "Anthropic has officially launched its latest artificial intelligence model, Opus 5.",
-            "link": "https://www.axios.com/2026/07/24/anthropic-releases-new-model-opus-5",
-            "timestamp": 1784913590000,
-            "date": "2026-07-24"
         }
     ]
 }
