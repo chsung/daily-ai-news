@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-09-02 19:00:58",
+    "last_update": "2026-09-03 18:56:29",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1788454821000,
+            "date": "2026-09-03",
+            "title": "MAI-Transcribe-2 is the fastest, most accurate and cheapest speech recognition model in the world | Microsoft AI",
+            "summary_kr": "마이크로소프트의 MAI-Transcribe-2는 60개 언어에서 업계 최고 수준의 정확도와 경쟁사 대비 최대 10배 빠른 속도를 구현하며 비용 효율성까지 확보한 차세대 음성 인식 모델입니다.",
+            "summary_en": "Microsoft's MAI-Transcribe-2 is a next-generation speech recognition model that delivers industry-leading accuracy across 60 languages, up to 10x faster performance than competitors, and superior cost-efficiency.",
+            "link": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788451200000,
+            "date": "2026-09-03",
+            "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+            "summary_kr": "엔비디아의 PAIR(Personal AI Router)는 로컬 네트워크 내 여러 기기의 유휴 컴퓨팅 자원을 활용해 AI 에이전트의 다중 추론 요청을 분산 처리함으로써 병목 현상을 해소하고 작업 속도를 최적화합니다.",
+            "summary_en": "NVIDIA’s Personal AI Router (PAIR) optimizes AI agent performance by distributing multi-agent inference workloads across available local hardware, effectively eliminating bottlenecks without requiring changes to existing agent configurations.",
+            "link": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788447900000,
+            "date": "2026-09-03",
+            "title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
+            "summary_kr": "AI 기술을 활용해 초파리 수컷의 뇌 신경망을 세계 최초로 완전히 매핑함으로써, 뇌 기능 연구와 신경과학 발전을 위한 획기적인 토대를 마련했습니다.",
+            "summary_en": "Researchers have leveraged AI to achieve the first complete neural map of an adult male fruit fly, establishing a foundational resource that significantly advances neuroscience and brain function studies.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788447600000,
+            "date": "2026-09-03",
+            "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+            "summary_kr": "구글은 실시간 위성 데이터를 활용해 기존 대비 5배 향상된 해상도와 시간당 업데이트 주기를 갖춘 차세대 기상 AI 모델 'WeatherNext 3'를 공개했습니다.",
+            "summary_en": "Google has introduced 'WeatherNext 3,' an advanced AI weather model that leverages real-time satellite data to deliver five times higher resolution and hourly updates for more precise, localized forecasting.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1788393600000,
+            "date": "2026-09-03",
+            "title": "Designing Grok Bot for a world of persistent agents",
+            "summary_kr": "Grok Bot은 단발성 대화 중심의 기존 AI 인터페이스를 탈피하여, 사용자와 지속적으로 관계를 맺고 스스로 과업을 수행하는 '개별 에이전트' 중심의 사용자 경험을 설계했습니다.",
+            "summary_en": "Grok Bot shifts away from session-based chat interfaces to a persistent, agent-centric design that recognizes bots as autonomous, long-term collaborators capable of independent work.",
+            "link": "https://x.ai/news/designing-grok-bot"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1788391680000,
+            "date": "2026-09-02",
+            "title": "The New Imperative for AI Infrastructure: Useful Yield - Source Asia",
+            "summary_kr": "마이크로소프트는 AI 인프라의 차세대 핵심 지표로 단순한 규모 확장을 넘어 자원을 효율적인 지능으로 전환하는 '유용한 수율(Useful Yield)'을 제시하며, 전 계층을 아우르는 통합 설계와 생태계 협력을 강조했습니다.",
+            "summary_en": "Microsoft emphasizes 'useful yield' as the next benchmark for AI infrastructure, prioritizing the conversion of resources into efficient intelligence through cross-layer system design and global ecosystem collaboration.",
+            "link": "https://news.microsoft.com/source/asia/2026/09/02/the-new-imperative-for-ai-infrastructure-useful-yield"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788350400000,
+            "date": "2026-09-02",
+            "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+            "summary_kr": "ATV Big Air Tour는 2인 운영 체제의 한계를 극복하기 위해 ChatGPT를 도입하여 이벤트 정보 관리 및 재고 처리 업무 시간을 획기적으로 단축하고 AI 검색 가시성을 크게 높였습니다.",
+            "summary_en": "ATV Big Air Tour leveraged ChatGPT to overcome the limitations of its two-person team, drastically reducing time spent on event management and inventory while significantly boosting AI search visibility.",
+            "link": "https://openai.com/index/atv-big-air-tour"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788282004000,
+            "date": "2026-09-01",
+            "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+            "summary_kr": "엔비디아의 네모트론 모델과 크라우드스트라이크의 에이전트 시스템이 결합하여 공격과 방어를 자동화된 루프로 연결함으로써 사이버 보안의 탐지 성능을 획기적으로 개선합니다.",
+            "summary_en": "NVIDIA's Nemotron models and CrowdStrike's agentic system integrate offensive and defensive operations into an automated loop, significantly enhancing cybersecurity detection performance at machine scale.",
+            "link": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1788369357000,
@@ -828,78 +900,6 @@
             "summary_kr": "엔비디아 cuML과 cuVS 25.06은 다중 GPU를 활용해 UMAP의 kNN 그래프 구축 단계를 분산 처리함으로써, 대규모 데이터셋의 분석 시간을 기존 수일에서 수 분 단위로 획기적으로 단축했습니다.",
             "summary_en": "NVIDIA cuML and cuVS 25.06 significantly accelerate massive-scale UMAP processing by distributing kNN graph construction across multiple GPUs, reducing computation time from days to minutes without compromising accuracy.",
             "link": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787070979000,
-            "date": "2026-08-18",
-            "title": "High-stakes network decisions, made in minutes: How EDOTCO Group is transforming network planning with AI - Source Asia",
-            "summary_kr": "EDOTCO 그룹은 마이크로소프트 애저 기반의 AI 도구인 'NaPA GPT'를 도입해, 복잡한 통신망 설계 데이터를 자연어로 즉시 분석함으로써 기지국 최적 입지 선정 업무를 며칠에서 수 분 단위로 단축했습니다.",
-            "summary_en": "EDOTCO Group has transformed network planning by implementing 'NaPA GPT', an AI-powered tool on Microsoft Azure that enables planners to extract actionable insights from complex geospatial data in minutes via natural language queries.",
-            "link": "https://news.microsoft.com/source/asia/features/high-stakes-network-decisions-made-in-minutes-how-edotco-group-is-transforming-network-planning-with-ai"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1787068800000,
-            "date": "2026-08-18",
-            "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
-            "summary_kr": "구글은 AI 모델과 방대한 데이터를 활용해 전 세계 홍수를 예측하는 'Flood Hub'를 운영하며, 특히 데이터가 부족한 도시 지역의 돌발 홍수 예측을 위해 'Groundsource' 기술로 새로운 데이터셋을 구축했습니다.",
-            "summary_en": "Google leverages AI and diverse global data through its 'Flood Hub' to predict riverine floods, and has recently introduced 'Groundsource' to create new datasets for forecasting urban flash floods in data-scarce regions.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787050800000,
-            "date": "2026-08-18",
-            "title": "Pacing model development in an era of cyber-critical capabilities",
-            "summary_kr": "AI 모델의 사이버 보안 위험이 증가함에 따라, 개발사는 안전성 확보를 위해 모델 훈련 속도를 일시적으로 늦추고 모니터링, 정렬, 보안 조치를 대폭 강화하고 있습니다.",
-            "summary_en": "As AI models reach critical cybersecurity capability thresholds, the company has temporarily slowed development to strengthen monitoring, alignment, and security safeguards.",
-            "link": "https://openai.com/index/pacing-model-development-cyber-capabilities"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787036400000,
-            "date": "2026-08-18",
-            "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-            "summary_kr": "아사나(Asana)는 오픈AI의 코덱스(Codex) 기반 AI 에이전트를 활용해 5년이 소요될 것으로 예상되던 레거시 시스템 교체 작업을 단 2주 만에 1만 2천 달러의 비용으로 성공적으로 완료했습니다.",
-            "summary_en": "Asana successfully replaced an outdated testing system in just two weeks at a cost of $12,000 using OpenAI's Codex-powered agents, a task previously estimated to take five years and $6 million.",
-            "link": "https://openai.com/index/asana"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787011200000,
-            "date": "2026-08-18",
-            "title": "How Claude is accelerating protein design and analytical chemistry",
-            "summary_kr": "앤스로픽의 클로드(Claude)는 단백질 설계와 화학 분석 작업에서 전문가 수준 이상의 성과를 보이며 신약 개발의 초기 연구 속도를 획기적으로 단축할 수 있는 가능성을 입증했습니다.",
-            "summary_en": "Anthropic's Claude has demonstrated expert-level performance in protein design and chemical analysis, proving its potential to significantly accelerate early-stage drug discovery workflows.",
-            "link": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787011200000,
-            "date": "2026-08-18",
-            "title": "How NVIDIA scales expertise with ChatGPT Work",
-            "summary_kr": "엔비디아는 'ChatGPT Work'를 도입하여 반복적인 운영 업무를 자동화하고 정보 분석 시간을 단축함으로써, 지식 노동자들이 전략적 의사결정과 신속한 프로토타이핑에 집중할 수 있는 환경을 구축했습니다.",
-            "summary_en": "NVIDIA is leveraging 'ChatGPT Work' to automate operational workflows and streamline information analysis, enabling knowledge workers to shift their focus toward strategic decision-making and rapid prototyping.",
-            "link": "https://openai.com/index/nvidia/chatgpt-work"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787050800000,
-            "date": "2026-08-18",
-            "title": "Partnering with CodeAI to prepare the first AI generation",
-            "summary_kr": "OpenAI는 CodeAI와의 파트너십 및 'ChatGPT for Teens' 출시를 통해 학생들이 AI를 책임감 있게 활용하고 비판적으로 사고할 수 있는 차세대 AI 리터러시 교육 환경을 구축합니다.",
-            "summary_en": "OpenAI is partnering with CodeAI and launching 'ChatGPT for Teens' to equip students with the essential skills to critically evaluate, responsibly use, and shape the future of AI.",
-            "link": "https://openai.com/index/partnering-with-codeai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787050800000,
-            "date": "2026-08-18",
-            "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-            "summary_kr": "OpenAI가 13~17세 청소년을 위해 안전 보호 기능과 학습 지원 도구를 강화한 'ChatGPT for Teens'를 출시하여 AI의 올바른 활용과 학습 경험 극대화를 지원합니다.",
-            "summary_en": "OpenAI has launched 'ChatGPT for Teens,' a dedicated experience featuring enhanced safety protections and specialized learning tools designed to foster critical thinking and responsible AI use among students.",
-            "link": "https://openai.com/index/chatgpt-for-teens"
         }
     ]
 }
