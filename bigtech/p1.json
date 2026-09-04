@@ -1,6 +1,96 @@
 {
-    "last_update": "2026-09-03 18:56:29",
+    "last_update": "2026-09-04 18:37:58",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788545095000,
+            "date": "2026-09-04",
+            "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
+            "summary_kr": "NVIDIA NemoClaw를 활용한 메모리 기반 에이전트는 구조화된 지식 레이어를 통해 기업 환경의 맥락을 지속적으로 유지하며, 데이터 관리와 거버넌스를 결합하여 생산성을 극대화합니다.",
+            "summary_en": "NVIDIA NemoClaw-based memory-driven agents maintain enterprise context through a structured knowledge layer, optimizing productivity by balancing data governance with intelligent, intent-aligned decision-making.",
+            "link": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788538864000,
+            "date": "2026-09-04",
+            "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
+            "summary_kr": "소형화된 고성능 AI 모델의 등장으로 엔비디아 젯슨(Jetson) 엣지 환경에서도 복잡한 추론 및 에이전트 구동이 가능해졌으며, 최적화 기법을 통해 로컬 환경에서의 효율적인 배포가 실현되었습니다.",
+            "summary_en": "The emergence of compact, high-performance models now enables sophisticated reasoning and agentic AI on NVIDIA Jetson, allowing for efficient local deployment through advanced optimization techniques.",
+            "link": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1788488700000,
+            "date": "2026-09-04",
+            "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry| Microsoft Azure Blog",
+            "summary_kr": "마이크로소프트는 기업용 에이전트 모델 'GPT-6 Astra'를 Microsoft Foundry를 통해 공개하며, 단순 대화를 넘어 복잡한 업무를 스스로 계획하고 실행하는 차세대 엔터프라이즈 AI 시대를 열었습니다.",
+            "summary_en": "Microsoft has launched GPT-6 Astra via Microsoft Foundry, introducing an advanced agentic model capable of autonomous reasoning and cross-application execution to transform enterprise workflows.",
+            "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1788480000000,
+            "date": "2026-09-04",
+            "title": "Formalizing Fermat's Last Theorem",
+            "summary_kr": "Anthropic의 AI 모델 'Claude'가 11일 만에 페르마의 마지막 정리를 Lean 언어로 완전히 형식화하여 최초의 컴퓨터 검증 증명을 성공적으로 생성했습니다.",
+            "summary_en": "Anthropic’s AI model 'Claude' has achieved the first computer-checked formalization of Fermat’s Last Theorem in the Lean language, completing the task largely autonomously in just 11 days.",
+            "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788474962000,
+            "date": "2026-09-03",
+            "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+            "summary_kr": "분산된 AI 및 데이터 플랫폼 환경에서 중앙 ID 게이트웨이 패턴을 도입하여 SSO의 한계를 극복하고, 클러스터 전반에 걸쳐 일관되고 안전한 사용자 인증 정보를 전파할 수 있습니다.",
+            "summary_en": "Adopting a central identity gateway pattern overcomes SSO limitations in distributed AI and data platforms by consistently and securely propagating user identity across federated environments.",
+            "link": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788441300000,
+            "date": "2026-09-03",
+            "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+            "summary_kr": "OpenAI는 자원이 부족한 필수 서비스 운영 기관들이 사이버 위협에 대응할 수 있도록 10억 달러 규모의 'Daybreak' AI 모델 및 기술 지원 이니셔티브를 발표했습니다.",
+            "summary_en": "OpenAI has launched a $1 billion 'Daybreak' initiative to provide resource-constrained essential service providers with frontier AI tools and technical support to bolster their cybersecurity defenses.",
+            "link": "https://openai.com/index/daybreak-for-frontline-defenders"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788436800000,
+            "date": "2026-09-03",
+            "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+            "summary_kr": "Legora는 GPT-6 Astra를 활용해 수일이 걸리던 재무제표 대조 작업을 단 몇 분 만에 완료하며 업무 정확도를 40% 향상시켰습니다.",
+            "summary_en": "Legora leveraged GPT-6 Astra to automate complex financial-statement tie-outs, reducing processing time from days to minutes while improving benchmark accuracy by 40%.",
+            "link": "https://openai.com/index/legora-financial-statement-review-with-astra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788436800000,
+            "date": "2026-09-03",
+            "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+            "summary_kr": "게임 개발사 Playco는 GPT-6 Astra를 활용하여 게임 엔진 내 자동화된 프로토타이핑을 구현함으로써 수동 수정 작업을 50% 줄이고 개발 효율성을 혁신했습니다.",
+            "summary_en": "Playco leveraged GPT-6 Astra to automate game prototyping within development engines, achieving a 50% reduction in manual fixes and accelerating the creative iteration process.",
+            "link": "https://openai.com/index/playco-game-prototyping-with-astra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788393600000,
+            "date": "2026-09-03",
+            "title": "Safety overview: GPT-6 Astra",
+            "summary_kr": "GPT-6 Astra는 강력한 사이버 보안 능력을 갖춘 최상위 모델로, 강화된 정렬 기술과 모니터링 체계를 통해 잠재적 위험을 관리하지만 일부 모니터링 우회 가능성도 존재합니다.",
+            "summary_en": "GPT-6 Astra is a highly capable model reaching critical cybersecurity thresholds, featuring advanced alignment and monitoring systems to mitigate risks despite identified challenges in complete monitorability.",
+            "link": "https://openai.com/index/safety-overview-gpt-6-astra"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1788393600000,
+            "date": "2026-09-03",
+            "title": "Grok Bot for Enterprise",
+            "summary_kr": "Grok Bot이 기업용으로 출시되어, 자율적인 AI 에이전트가 업무 흐름을 학습하고 다양한 비즈니스 도구를 활용해 24시간 실무를 처리할 수 있게 되었습니다. 이번 업데이트는 기업 수준의 보안 및 거버넌스 기능을 제공하여 대규모 조직의 생산성을 극대화합니다.",
+            "summary_en": "Grok Bot has launched for enterprises, offering autonomous AI agents that learn workflows to execute end-to-end tasks across existing business tools. The release includes robust enterprise-grade governance and security controls to support large-scale organizational productivity.",
+            "link": "https://x.ai/news/grok-bot-for-enterprise"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1788454821000,
@@ -810,96 +900,6 @@
             "summary_kr": "OpenAI는 고객 데이터의 프라이버시를 유지하면서도 복합적인 위험을 탐지할 수 있도록, 데이터 접근 권한 없이 패턴을 분석하는 '프라이빗 안전 처리(Private Safety Processing)' 기능을 도입합니다.",
             "summary_en": "OpenAI is introducing 'Private Safety Processing' to detect complex AI risks across multiple interactions without requiring access to sensitive customer content, thereby upholding its zero data retention commitment.",
             "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787161847000,
-            "date": "2026-08-19",
-            "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
-            "summary_kr": "NVIDIA FLARE는 데이터 보안을 유지하면서 분산된 환경에서 대규모 멀티모달 모델을 효율적으로 학습시키기 위한 체계적인 연합 학습 워크플로우와 최적화 기법을 제공합니다.",
-            "summary_en": "NVIDIA FLARE provides a systematic federated learning framework and optimization techniques to efficiently train large-scale multimodal models across distributed environments while maintaining data privacy.",
-            "link": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787158915000,
-            "date": "2026-08-19",
-            "title": "Azure Cosmos DB in the Agentic Era: Data Tools for Developers and AI Agents - Azure Cosmos DB Blog",
-            "summary_kr": "Azure Cosmos DB는 개발자가 AI 에이전트를 통해 데이터베이스 작업을 효율적으로 수행할 수 있도록 VS Code 내에서 GitHub Copilot 기반의 맥락 인식 도구를 강화하고, 데이터 제어권을 사용자에게 유지하는 협업 모델을 제시합니다.",
-            "summary_en": "Azure Cosmos DB is enhancing its VS Code extension with context-aware GitHub Copilot tools, enabling AI agents to seamlessly assist with database operations while ensuring developers retain critical control and oversight.",
-            "link": "https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-in-the-agentic-era-data-tools-for-developers-and-ai-agents"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787155200000,
-            "date": "2026-08-19",
-            "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
-            "summary_kr": "NVIDIA가 공개한 오픈소스 도구 'SkillEvaluator'는 에이전트 스킬의 성능을 3단계로 엄격하게 검증하여, 스킬 적용 전후의 성과 차이(Skill Lift)를 측정하고 에이전트의 효율성을 최적화합니다.",
-            "summary_en": "NVIDIA's open-source SkillEvaluator tool rigorously validates AI agent skills through a three-tier assessment, measuring 'Skill Lift' to optimize agent performance and efficiency.",
-            "link": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787155200000,
-            "date": "2026-08-19",
-            "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
-            "summary_kr": "엔비디아의 4B 파라미터 기반 'Cosmos 3 Edge'는 물리적 세계 이해도를 갖춘 초경량 모델로, 제트슨(Jetson) 환경에서 실시간 온디바이스 로봇 제어를 가능하게 합니다.",
-            "summary_en": "NVIDIA's 4B-parameter 'Cosmos 3 Edge' leverages physical-world foundation knowledge to enable real-time, on-device robot control directly on Jetson hardware.",
-            "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787122800000,
-            "date": "2026-08-19",
-            "title": "Replit expands access to software creation with GPT-5.6 Luna",
-            "summary_kr": "Replit은 OpenAI의 고성능 모델인 GPT-5.6 Luna를 기반으로 한 'Free Mode'를 출시하여, 비용 부담 없이 누구나 아이디어를 실제 소프트웨어로 구현할 수 있는 환경을 제공합니다.",
-            "summary_en": "Replit has launched 'Free Mode' powered by GPT-5.6 Luna, democratizing software development by allowing users to build functional applications without cost barriers.",
-            "link": "https://openai.com/index/replit"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1787097600000,
-            "date": "2026-08-19",
-            "title": "Grok 4.6 on Amazon Bedrock",
-            "summary_kr": "xAI의 최신 플래그십 모델인 Grok 4.6이 Amazon Bedrock에 정식 출시되어 50만 토큰의 컨텍스트 윈도우와 조정 가능한 추론 기능을 제공합니다.",
-            "summary_en": "xAI's latest flagship model, Grok 4.6, is now generally available on Amazon Bedrock, featuring a 500k context window and configurable reasoning capabilities.",
-            "link": "https://x.ai/news/grok-4-6-amazon-bedrock"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787090400000,
-            "date": "2026-08-18",
-            "title": "ChatGPT Ads expands across Europe",
-            "summary_kr": "오픈AI가 미국과 주요 시장에 이어 유럽 31개국으로 광고 서비스를 확대하며, 무료 사용자 대상의 광고 플랫폼을 통해 수익 모델 다각화와 AI 접근성 강화에 나섭니다.",
-            "summary_en": "OpenAI is expanding its ChatGPT ad platform to 31 European markets, aiming to support free AI access while providing marketers with new tools to reach users during their decision-making process.",
-            "link": "https://openai.com/index/chatgpt-ads-expands-across-europe"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787079600000,
-            "date": "2026-08-18",
-            "title": "Strengthening democratic oversight in national security",
-            "summary_kr": "OpenAI는 국가 안보 분야에서의 AI 도입이 가속화됨에 따라, 민주적 감시 기관들이 AI를 효과적으로 감독하고 검증할 수 있도록 기술 지원과 자금을 제공하는 새로운 이니셔티브를 시작합니다.",
-            "summary_en": "OpenAI is launching an initiative to provide technical support and funding to democratic oversight bodies, ensuring they have the tools and expertise to effectively oversee AI-driven national security operations.",
-            "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787076000000,
-            "date": "2026-08-18",
-            "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
-            "summary_kr": "NVIDIA ALCHEMI 툴킷은 AI 코딩 에이전트와 결합하여 물질 시뮬레이션의 복잡한 진입 장벽을 낮추고, 연구자가 자연어로 고성능 GPU 기반의 워크플로우를 효율적으로 구축할 수 있도록 지원합니다.",
-            "summary_en": "NVIDIA ALCHEMI Toolkit integrates with AI coding agents to overcome barriers in material simulation, enabling researchers to efficiently build high-performance, GPU-accelerated workflows using natural language prompts.",
-            "link": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787071688000,
-            "date": "2026-08-18",
-            "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy",
-            "summary_kr": "엔비디아 cuML과 cuVS 25.06은 다중 GPU를 활용해 UMAP의 kNN 그래프 구축 단계를 분산 처리함으로써, 대규모 데이터셋의 분석 시간을 기존 수일에서 수 분 단위로 획기적으로 단축했습니다.",
-            "summary_en": "NVIDIA cuML and cuVS 25.06 significantly accelerate massive-scale UMAP processing by distributing kNN graph construction across multiple GPUs, reducing computation time from days to minutes without compromising accuracy.",
-            "link": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy"
         }
     ]
 }

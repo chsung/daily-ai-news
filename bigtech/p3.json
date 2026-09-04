@@ -1,6 +1,96 @@
 {
-    "last_update": "2026-09-03 18:56:29",
+    "last_update": "2026-09-04 18:37:58",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1785369600000,
+            "date": "2026-07-30",
+            "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+            "summary_kr": "아바타린(avatarin)은 야마다 홀딩스와 협력하여 오픈AI의 GPT-Realtime 기반 AI 상담원을 도입, 24시간 다국어 지원과 능동적인 고객 응대를 통해 리테일 서비스의 새로운 기준을 제시했습니다.",
+            "summary_en": "avatarin has partnered with Yamada Holdings to deploy a 24/7 AI shopping agent powered by OpenAI’s GPT-Realtime, revolutionizing retail customer service through natural, multilingual, and proactive voice interactions.",
+            "link": "https://openai.com/index/avatarin"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785430800000,
+            "date": "2026-07-30",
+            "title": "Deep, evolving environments for computer-use agents",
+            "summary_kr": "마이크로소프트는 컴퓨터 사용 에이전트의 성능 향상을 위해 높은 시뮬레이션 충실도와 상태 일관성을 갖춘 'Echoverse' 환경을 구축하여, 모델과 환경의 동시 진화가 에이전트의 실질적인 학습 효과를 극대화함을 입증했습니다.",
+            "summary_en": "Microsoft introduced 'Echoverse,' a framework featuring high-fidelity, stateful environments that demonstrates how co-evolving models and training worlds significantly boosts the performance and generalization of computer-use agents.",
+            "link": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785427200000,
+            "date": "2026-07-30",
+            "title": "NVIDIA Exemplar Cloud: Lessons for Unlocking Full Performance on AI Infrastructure",
+            "summary_kr": "동일한 NVIDIA 하드웨어 환경에서도 커널, 하이퍼바이저, NCCL 설정 등 사소한 구성 최적화의 누적 차이가 AI 학습 성능을 최대 12%까지 저하시킬 수 있습니다. NVIDIA는 성능 격차를 진단하고 하드웨어 잠재력을 극대화하기 위한 체계적인 분석 패턴과 사례를 제시합니다.",
+            "summary_en": "Even with identical hardware, cumulative configuration gaps in kernels, hypervisors, and NCCL settings can reduce AI training throughput by up to 12%. NVIDIA provides diagnostic patterns and real-world case studies to help engineers identify these bottlenecks and achieve peak infrastructure performance.",
+            "link": "https://developer.nvidia.com/blog/nvidia-exemplar-cloud-lessons-for-unlocking-full-performance-on-ai-infrastructure"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785425241000,
+            "date": "2026-07-30",
+            "title": "A new generation of Mexican entrepreneurs is using AI skills to solve local challenges - Source LATAM",
+            "summary_kr": "멕시코의 차세대 창업가들이 마이크로소프트의 AI 교육 프로그램을 통해 습득한 기술로 농업 등 지역 사회의 고질적인 문제들을 해결하고 있습니다.",
+            "summary_en": "A new generation of Mexican entrepreneurs is leveraging AI skills acquired through Microsoft's training initiatives to develop practical solutions for local challenges, such as optimizing agricultural water usage.",
+            "link": "https://news.microsoft.com/source/latam/features/ai/a-new-generation-of-mexican-entrepreneurs-is-using-ai-skills-to-solve-local-challenges/?lang=en"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1785423600000,
+            "date": "2026-07-30",
+            "title": "Introducing Gemini Robotics ER 2",
+            "summary_kr": "구글이 공개한 Gemini Robotics ER 2는 실시간 공간 추론과 다단계 작업 조정 기능을 강화하여 로봇의 자율적 판단과 협업 능력을 획기적으로 개선한 차세대 물리 에이전트 모델입니다.",
+            "summary_en": "Google's Gemini Robotics ER 2 is an advanced physical agent model that significantly enhances autonomous decision-making and collaboration by integrating real-time spatial reasoning with fluid multi-step task orchestration.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1785423600000,
+            "date": "2026-07-30",
+            "title": "Take a look at short films created by our latest group of artists in Google’s Flow Sessions program.",
+            "summary_kr": "구글의 창작 파트너 프로그램인 '플로우 세션(Flow Sessions)'의 네 번째 기수 예술가들이 구글의 생성형 AI 모델을 활용해 제작한 단편 영화들이 공개되었습니다.",
+            "summary_en": "Google has unveiled a series of short films created by the fourth cohort of its 'Flow Sessions' program, which empowers artists to build creative projects using advanced generative AI models.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/google-flow-sessions-short-films"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785337200000,
+            "date": "2026-07-29",
+            "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+            "summary_kr": "AI 모델의 ARC-AGI-3 벤치마크 점수가 낮았던 이유는 모델 자체의 지능 문제가 아니라, 추론 과정 삭제 및 메모리 제한이라는 평가 환경(harness)의 설정 때문이었으며, 이를 개선하자 성능이 3배 향상되었습니다.",
+            "summary_en": "The low ARC-AGI-3 benchmark scores were caused by restrictive harness settings—specifically discarding reasoning and memory truncation—rather than model limitations; enabling retained reasoning and improved context management tripled performance.",
+            "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785319200000,
+            "date": "2026-07-29",
+            "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+            "summary_kr": "OpenAI는 2027년까지 10만 명의 연구자들에게 최첨단 AI 모델을 무료로 제공하여 과학적 발견과 연구 생산성을 가속화하는 프로그램을 시작합니다.",
+            "summary_en": "OpenAI is launching a program to provide 100,000 researchers with free access to frontier AI models by 2027, aiming to accelerate scientific discovery and enhance research productivity.",
+            "link": "https://openai.com/index/chatgpt-for-academic-researchers"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1785283200000,
+            "date": "2026-07-29",
+            "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+            "summary_kr": "GPT-5.6 모델 제품군은 모델 구조, 추론 과정, 에이전트 환경 전반에 걸친 최적화를 통해 비용 대비 성능을 극대화하며 지능과 효율성의 균형을 달성했습니다.",
+            "summary_en": "The GPT-5.6 model family maximizes the balance between intelligence and cost by implementing systemic optimizations across its model architecture, inference stack, and agentic harness.",
+            "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1785283200000,
+            "date": "2026-07-29",
+            "title": "Introducing Grok Voice Think Fast 2.0",
+            "summary_kr": "xAI가 공개한 'Grok Voice Think Fast 2.0'은 추론 능력과 음성 인식 정확도를 획기적으로 개선하고 대화형 상호작용을 최적화한 차세대 음성 모델입니다. 실시간 추론과 낮은 지연 시간을 바탕으로 실제 환경에서의 성능을 극대화하여 복잡한 워크플로우를 효율적으로 처리합니다.",
+            "summary_en": "xAI's 'Grok Voice Think Fast 2.0' is a next-generation voice model featuring significant improvements in reasoning, transcription accuracy, and conversational fluidity. By enabling real-time reasoning with low latency, it delivers superior performance and efficiency in complex real-world agentic tasks.",
+            "link": "https://x.ai/news/grok-voice-think-fast-2"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1785343605000,
@@ -810,96 +900,6 @@
             "summary_kr": "앤스로픽은 클로드의 응답에 담긴 방대한 가치를 4개의 핵심 축으로 정량화하여, 모델별 특성과 언어적 맥락에 따라 AI의 가치관이 어떻게 달라지는지 분석했습니다.",
             "summary_en": "Anthropic has quantified the vast range of values in Claude's responses into four key axes to analyze how the AI's value orientation shifts across different models and linguistic contexts.",
             "link": "https://www.anthropic.com/research/claude-values-models-languages"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783641600000,
-            "date": "2026-07-10",
-            "title": "Getting started with ChatGPT",
-            "summary_kr": "ChatGPT는 단순한 대화형 질의응답부터 복잡한 워크플로우 자동화까지 활용 가능한 AI 도구로, 프롬프트 입력과 음성 기능을 통해 일상적 업무의 효율성과 생산성을 극대화할 수 있습니다.",
-            "summary_en": "ChatGPT is a versatile AI tool that enhances productivity by scaling from simple conversational tasks to complex automated workflows through effective prompting and voice interaction.",
-            "link": "https://openai.com/academy/getting-started"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783555200000,
-            "date": "2026-07-09",
-            "title": "How Claude Performs on Robotics Tasks",
-            "summary_kr": "거대 언어 모델인 클로드(Claude)는 로봇 제어 시 직접적인 물리적 조작보다는 사전 학습된 정책을 감독하거나 추상화된 명령을 내릴 때 훨씬 뛰어난 성능을 보이며, 세대 교체를 거듭할수록 로봇 운영 능력이 빠르게 향상되고 있습니다.",
-            "summary_en": "Claude demonstrates strong robotics capabilities when supervising pretrained policies rather than performing direct motor control, with a rapidly closing reliability gap across various physical embodiments in newer generations.",
-            "link": "https://www.anthropic.com/research/claude-plays-robotics"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783818497000,
-            "date": "2026-07-12",
-            "title": "How to Evaluate General-Purpose Robot Policies for Real-World Deployment",
-            "summary_kr": "기존 로봇 벤치마크의 평가 방식은 데이터 편향, 벤치마크 포화, 통계적 불확실성 등의 한계가 있어, 이를 극복하기 위해 객관적이고 심층적인 진단 도구를 갖춘 시뮬레이션 플랫폼 'RoboLab'이 제안되었습니다.",
-            "summary_en": "To address the limitations of existing robotic benchmarks—such as data bias, saturation, and lack of statistical rigor—the article introduces 'RoboLab,' a simulation platform designed to provide scalable, objective, and diagnostic evaluations.",
-            "link": "https://developer.nvidia.com/blog/how-to-evaluate-general-purpose-robot-policies-for-real-world-deployment"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783707460000,
-            "date": "2026-07-10",
-            "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
-            "summary_kr": "JAX 기반 LLM 학습 시 NVIDIA Blackwell의 초고속 NVLink-C2C 연결을 활용해 활성화 값을 호스트 메모리로 오프로딩함으로써, HBM 병목을 해결하고 학습 처리량을 획기적으로 개선했습니다.",
-            "summary_en": "Leveraging high-speed NVLink-C2C connectivity on NVIDIA Blackwell systems, JAX-based LLM training can now offload activations to host memory, effectively mitigating HBM bottlenecks and significantly boosting training throughput.",
-            "link": "https://developer.nvidia.com/blog/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1783704071000,
-            "date": "2026-07-10",
-            "title": "Moving sales and service organizations forward with agentic CX and Microsoft 365 Copilot - Microsoft Dynamics 365 Blog",
-            "summary_kr": "마이크로소프트는 영업 및 서비스 현장에 에이전트형 AI를 통합하여, 실무자들이 반복적인 행정 업무에서 벗어나 고객 관계 강화에 집중할 수 있도록 업무 효율성과 고객 경험을 혁신합니다.",
-            "summary_en": "Microsoft is revolutionizing sales and service workflows by integrating agentic AI into Microsoft 365 Copilot and Dynamics 365, enabling teams to automate administrative tasks and focus on building deeper customer relationships.",
-            "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/07/07/moving-sales-and-service-organizations-forward-with-agentic-cx-and-microsoft-365-copilot"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783701663000,
-            "date": "2026-07-10",
-            "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
-            "summary_kr": "커널 퓨전(Kernel Fusion)은 여러 GPU 연산을 하나의 커널로 통합하여 중간 결과값을 레지스터에 유지함으로써, 메모리 트래픽을 최적화하고 불필요한 커널 호출 오버헤드를 획기적으로 줄여줍니다.",
-            "summary_en": "Kernel fusion optimizes GPU performance by combining multiple operations into a single kernel, effectively reducing memory traffic and launch overhead by keeping intermediate data in registers.",
-            "link": "https://developer.nvidia.com/blog/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783701362000,
-            "date": "2026-07-10",
-            "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
-            "summary_kr": "AI 모델의 성공적인 배포를 위해 성능, 처리량, 지연 시간을 동시에 최적화하는 하드웨어 친화적 모델 설계의 중요성을 강조하며, 연산 효율성을 높이기 위한 아키텍처 설계 가이드를 제시합니다.",
-            "summary_en": "This article highlights the importance of hardware-friendly model design to balance accuracy, throughput, and latency, offering architectural guidelines to optimize computational efficiency and scalability.",
-            "link": "https://developer.nvidia.com/blog/ai-model-co-design-hardware-friendly-llm-design"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783688400000,
-            "date": "2026-07-10",
-            "title": "Accelerating End-to-End Co-Folding Performance with NVIDIA BioNeMo Agent Toolkit",
-            "summary_kr": "NVIDIA BioNeMo Agent Toolkit은 고성능 GPU 가속과 MSA 최적화를 통해 단백질 구조 예측 및 공동 폴딩 워크플로우의 속도와 메모리 효율성을 획기적으로 개선합니다.",
-            "summary_en": "The NVIDIA BioNeMo Agent Toolkit significantly enhances the speed and memory efficiency of protein structure prediction and co-folding workflows through high-performance GPU acceleration and optimized MSA processing.",
-            "link": "https://developer.nvidia.com/blog/accelerating-end-to-end-co-folding-performance-with-nvidia-bionemo-agent-toolkit"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783666800000,
-            "date": "2026-07-10",
-            "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-            "summary_kr": "도이치 텔레콤은 생성형 AI를 단순한 도구를 넘어 기업 운영 전반에 내재화하여 고객 서비스, 네트워크 최적화, 음성 통신 경험을 근본적으로 재설계하고 있습니다.",
-            "summary_en": "Deutsche Telekom is fundamentally transforming into an AI-native company by embedding generative AI across its customer service, network operations, and core communications to redefine the telco operating model.",
-            "link": "https://openai.com/index/deutsche-telekom"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783626037000,
-            "date": "2026-07-09",
-            "title": "Synthetic Data Generation for Financial AI Research with NVIDIA NeMo",
-            "summary_kr": "NVIDIA NeMo를 활용한 반복적 합성 데이터 생성 파이프라인은 금융 데이터의 불균형 문제를 해결하고, 전역 중복 제거와 전략적 샘플링을 통해 50만 개의 고유하고 다양한 금융 뉴스 헤드라인을 효율적으로 구축합니다.",
-            "summary_en": "NVIDIA NeMo's iterative synthetic data pipeline resolves financial data imbalances by leveraging global deduplication and strategic sampling to efficiently generate 500,000 unique and diverse financial news headlines.",
-            "link": "https://developer.nvidia.com/blog/synthetic-data-generation-for-financial-ai-research-with-nvidia-nemo"
         }
     ]
 }
