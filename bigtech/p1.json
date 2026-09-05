@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-04 18:37:58",
+    "last_update": "2026-09-05 17:45:17",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1788480000000,
+            "date": "2026-09-04",
+            "title": "Setting Grok Bot loose on procurement",
+            "summary_kr": "기업이 구매 데이터와 계약 정보를 AI 봇(Haggle Bot)에 연동해 실시간으로 분석함으로써 10만 달러 이상의 비용을 절감하고 효율적인 협상을 수행한 사례를 제시합니다.",
+            "summary_en": "By integrating procurement data with an AI agent, the company successfully identified over $100,000 in savings and streamlined vendor negotiations through automated data analysis and decision support.",
+            "link": "https://x.ai/news/grok-bot-procurement"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788433200000,
+            "date": "2026-09-03",
+            "title": "GPT-6 Astra: A new generation of intelligence",
+            "summary_kr": "오픈AI가 공개한 'GPT-6 Astra'는 수학, 과학, 소프트웨어 공학 등 전문 분야에서 압도적인 성능과 안정성을 갖춘 차세대 모델로, PC 및 브라우저 제어 능력을 극대화하여 복잡한 업무를 자동화합니다.",
+            "summary_en": "OpenAI’s 'GPT-6 Astra' is a next-generation model delivering state-of-the-art performance in complex professional tasks and reasoning, while significantly enhancing autonomous computer and browser-use capabilities with superior safety.",
+            "link": "https://openai.com/index/gpt-6-astra"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1788545095000,
@@ -882,24 +900,6 @@
             "summary_kr": "엔비디아 Holoscan 플랫폼에서 AI 코딩 에이전트와 CLI 도구를 활용하여 실시간 내시경 세그멘테이션 애플리케이션을 단계적으로 개발하는 효율적인 워크플로우를 제시합니다.",
             "summary_en": "This article demonstrates an iterative, agentic development workflow that leverages AI coding agents and the Holoscan CLI to efficiently build real-time endoscopic segmentation applications.",
             "link": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787170517000,
-            "date": "2026-08-19",
-            "title": "AI in education: From experimentation to institutional impact | Microsoft Education Blog",
-            "summary_kr": "교육 현장의 AI 활용이 실험 단계를 넘어 기관 차원의 체계적인 운영으로 나아가고 있으며, 마이크로소프트는 고도화된 컨텍스트와 거버넌스를 갖춘 에이전트 도입을 통해 교육자와 학생의 생산성 및 지원 효율성을 극대화하고자 합니다.",
-            "summary_en": "AI in education is shifting from individual experimentation to institution-wide integration, with Microsoft leveraging agentic workflows, robust governance, and institutional context to enhance educational impact and operational efficiency.",
-            "link": "https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787166000000,
-            "date": "2026-08-19",
-            "title": "Offering Zero Data Retention for frontier models",
-            "summary_kr": "OpenAI는 고객 데이터의 프라이버시를 유지하면서도 복합적인 위험을 탐지할 수 있도록, 데이터 접근 권한 없이 패턴을 분석하는 '프라이빗 안전 처리(Private Safety Processing)' 기능을 도입합니다.",
-            "summary_en": "OpenAI is introducing 'Private Safety Processing' to detect complex AI risks across multiple interactions without requiring access to sensitive customer content, thereby upholding its zero data retention commitment.",
-            "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
         }
     ]
 }

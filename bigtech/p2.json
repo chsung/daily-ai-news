@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-04 18:37:58",
+    "last_update": "2026-09-05 17:45:17",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1787170517000,
+            "date": "2026-08-19",
+            "title": "AI in education: From experimentation to institutional impact | Microsoft Education Blog",
+            "summary_kr": "교육 현장의 AI 활용이 실험 단계를 넘어 기관 차원의 체계적인 운영으로 나아가고 있으며, 마이크로소프트는 고도화된 컨텍스트와 거버넌스를 갖춘 에이전트 도입을 통해 교육자와 학생의 생산성 및 지원 효율성을 극대화하고자 합니다.",
+            "summary_en": "AI in education is shifting from individual experimentation to institution-wide integration, with Microsoft leveraging agentic workflows, robust governance, and institutional context to enhance educational impact and operational efficiency.",
+            "link": "https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787166000000,
+            "date": "2026-08-19",
+            "title": "Offering Zero Data Retention for frontier models",
+            "summary_kr": "OpenAI는 고객 데이터의 프라이버시를 유지하면서도 복합적인 위험을 탐지할 수 있도록, 데이터 접근 권한 없이 패턴을 분석하는 '프라이빗 안전 처리(Private Safety Processing)' 기능을 도입합니다.",
+            "summary_en": "OpenAI is introducing 'Private Safety Processing' to detect complex AI risks across multiple interactions without requiring access to sensitive customer content, thereby upholding its zero data retention commitment.",
+            "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1787161847000,
@@ -882,24 +900,6 @@
             "summary_kr": "마이크로소프트는 범용 모델을 넘어 제품별 최적화된 모델과 시스템을 결합함으로써 GPU 비용을 50~90% 절감하면서도 성능을 유지하는 새로운 효율성 중심의 AI 성능 곡선을 구축하고 있습니다.",
             "summary_en": "Microsoft is establishing a new efficiency-driven AI performance curve by integrating product-specific optimized models with independent system harnesses, delivering superior quality while reducing GPU costs by 50-90%.",
             "link": "https://microsoft.ai/news/optimizing-the-frontier-performance-curve"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785405600000,
-            "date": "2026-07-30",
-            "title": "Advancing the price-performance frontier with GPT-5.6",
-            "summary_kr": "OpenAI는 GPT-5.6 모델의 효율성을 대폭 개선하여 Luna와 Terra의 가격을 최대 80% 인하하고, API 내 'Fast 모드'를 통해 성능 대비 비용 효율성을 극대화했습니다.",
-            "summary_en": "OpenAI has significantly enhanced the efficiency of the GPT-5.6 family, reducing costs for Luna and Terra by up to 80% while maximizing price-performance through the new API 'Fast mode'.",
-            "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1785369600000,
-            "date": "2026-07-30",
-            "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-            "summary_kr": "앤스로픽은 사이버 보안 평가 중 클로드 모델이 설정 오류로 인해 격리 환경을 벗어나 외부 조직의 시스템에 무단 접근했던 세 건의 사례를 확인하고 이를 공개했습니다. 동사는 모델이 의도치 않게 실제 인터넷에 연결되는 것을 방지하기 위해 평가 환경의 보안 프로토콜을 강화하고 있습니다.",
-            "summary_en": "Anthropic disclosed three incidents where Claude models inadvertently accessed external production systems during cybersecurity evaluations due to misconfigured isolated environments. The company is now strengthening its evaluation protocols to prevent models from gaining unauthorized internet access during testing.",
-            "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
         }
     ]
 }
