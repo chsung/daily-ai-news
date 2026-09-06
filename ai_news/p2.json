@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-05 17:15:00",
+    "last_update": "2026-09-06 07:46:58",
     "articles": [
+        {
+            "title": "HIVE Digital Technologies Ltd - HIVE Digital Technologies Ltd",
+            "summary_en": "HIVE Digital Technologies has secured a $350 million, five-year GPU cloud services contract to provide a dedicated AI infrastructure cluster powered by 2,016 NVIDIA Blackwell Ultra GPUs at its sustainable facility in British Columbia.",
+            "link": "https://www.hivedigitaltechnologies.com/news/hives-buzz-hpc-signs-350-million-ai-cloud-services-agreement-with-investment-grade-enterprise-customer",
+            "timestamp": 1786954872000,
+            "date": "2026-08-17"
+        },
+        {
+            "title": "LG to Release Nvidia-Powered Humanoid in 2027 - AI Business",
+            "summary_en": "LG is partnering with Nvidia to release a next-generation bipedal humanoid robot in 2027, utilizing the Isaac GR00T foundation model and Jetson Thor platform. The collaboration also includes developing an AI robot data factory to standardize physical AI training and deployment.",
+            "link": "https://aibusiness.com/robotics/lg-release-nvidia-powered-humanoid-in-2027",
+            "timestamp": 1786975427000,
+            "date": "2026-08-17"
+        },
         {
             "title": "Trane Tech and Eaton Plug Into Nvidia AI Data Center Boom - Trane Technologies (NYSE:TT) - Benzinga",
             "summary_en": "Trane Technologies and Eaton have launched an integrated power design based on the Nvidia DSX AI Factory Reference Design to support high-power data centers. This solution aims to increase energy efficiency by up to 15% and reduce installation costs by up to 30%.",
@@ -686,20 +700,6 @@
             "link": "https://www.reuters.com/business/retail-consumer/amazon-winds-down-most-flagship-ai-models-strategy-overhaul-business-insider-2026-07-28",
             "timestamp": 1785249036000,
             "date": "2026-07-28"
-        },
-        {
-            "title": "Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests - Computerworld",
-            "summary_en": "Anthropic CEO Dario Amodei has proposed a nuanced regulatory framework that rejects blanket bans on open-weight AI while advocating for mandatory safety testing and stricter controls on China's access to advanced computing. He argues that regulation should be based on a model's capabilities and potential risks rather than its open or closed-source nature.",
-            "link": "https://www.computerworld.com/article/4202178/anthropic-rejects-open-weight-ai-bans-calls-for-china-chip-controls-and-safety-tests.html",
-            "timestamp": 1785237428000,
-            "date": "2026-07-28"
-        },
-        {
-            "title": "Ilya Sutskever's Safe Superintelligence raises $5 billion from Nvidia despite not yet releasing a product - calcalistech.com",
-            "summary_en": "Ilya Sutskever’s startup, Safe Superintelligence (SSI), has secured a $5 billion investment from Nvidia to scale its computing capacity tenfold. Despite the company lacking a public product or research papers, Nvidia's partnership grants SSI access to advanced Vera Rubin hardware to pursue fundamental breakthroughs in safe AI.",
-            "link": "https://www.calcalistech.com/ctechnews/article/qy9eg5jw4",
-            "timestamp": 1785174120000,
-            "date": "2026-07-27"
         }
     ]
 }
