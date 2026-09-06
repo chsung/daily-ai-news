@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-05 17:45:17",
+    "last_update": "2026-09-06 17:48:38",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1785435192000,
+            "date": "2026-07-30",
+            "title": "The next measure of AI momentum is work transformed | Microsoft 365 Blog",
+            "summary_kr": "마이크로소프트 365 코파일럿의 유료 사용자 3천만 명 돌파는 AI가 단순한 도구를 넘어 업무 방식을 재설계하고 성과를 창출하는 '능동적 참여자'로 진화했음을 시사합니다. 이제 기업들은 자율형 에이전트를 중심으로 워크플로우를 혁신하며 생산성과 확장성에서 새로운 차원의 도약을 이루고 있습니다.",
+            "summary_en": "Microsoft 365 Copilot surpassing 30 million paid seats signals a shift where AI moves from a mere tool to an active, essential participant that transforms organizational workflows. Enterprises are now leveraging agentic AI to redefine productivity, achieving unprecedented scale and innovation through human-agent collaboration.",
+            "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/07/30/the-next-measure-of-ai-momentum-is-work-transformed"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1785434206000,
+            "date": "2026-07-30",
+            "title": "Optimizing the frontier performance curve | Microsoft AI",
+            "summary_kr": "마이크로소프트는 범용 모델을 넘어 제품별 최적화된 모델과 시스템을 결합함으로써 GPU 비용을 50~90% 절감하면서도 성능을 유지하는 새로운 효율성 중심의 AI 성능 곡선을 구축하고 있습니다.",
+            "summary_en": "Microsoft is establishing a new efficiency-driven AI performance curve by integrating product-specific optimized models with independent system harnesses, delivering superior quality while reducing GPU costs by 50-90%.",
+            "link": "https://microsoft.ai/news/optimizing-the-frontier-performance-curve"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1785405600000,
@@ -882,24 +900,6 @@
             "summary_kr": "ChatGPT Work는 다양한 고객 데이터를 통합하여 세일즈 팀이 회의 준비, 전략 수립 및 거래 관리를 효율적으로 수행할 수 있도록 돕는 실무 자동화 도구입니다.",
             "summary_en": "ChatGPT Work acts as a productivity engine for sales teams, synthesizing fragmented customer data into actionable outputs like meeting briefs, account strategies, and risk assessments to accelerate deal velocity.",
             "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783987200000,
-            "date": "2026-07-14",
-            "title": "How data science teams use ChatGPT Work",
-            "summary_kr": "ChatGPT Work는 데이터 과학 팀이 파편화된 데이터와 정보를 활용하여 분석 초안을 신속하게 생성하고 검증함으로써 업무 효율성을 극대화하도록 돕습니다.",
-            "summary_en": "ChatGPT Work enables data science teams to rapidly synthesize scattered data and insights into validated, review-ready analysis assets, significantly enhancing operational efficiency.",
-            "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1783969200000,
-            "date": "2026-07-13",
-            "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
-            "summary_kr": "엔비디아의 'Ising Decoder ColorCode 1'은 고성능 AI 기반 디코딩 기술을 통해 컬러 코드의 논리 오류율을 300배 이상 낮추고 처리 속도를 7배 향상하며, 실용적인 양자 컴퓨터 구현 가능성을 높였습니다.",
-            "summary_en": "NVIDIA's 'Ising Decoder ColorCode 1' leverages AI-driven decoding to reduce logical error rates by over 300x and improve runtime speed by 7x, revitalizing color codes for practical, fault-tolerant quantum computing.",
-            "link": "https://developer.nvidia.com/blog/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x"
         }
     ]
 }

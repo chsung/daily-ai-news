@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-05 17:45:17",
+    "last_update": "2026-09-06 17:48:38",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1788685200000,
+            "date": "2026-09-06",
+            "title": "An Alien Mind",
+            "summary_kr": "AI의 추론 능력 향상과 가파른 확장 속도는 머지않아 인간의 지능을 초월한 시스템의 출현을 예고하며, 이에 따른 통제 불능의 위험과 사회적 대응의 시급성을 경고합니다.",
+            "summary_en": "The rapid advancement and scaling of reasoning AI point toward the emergence of superhuman intelligence, necessitating extreme caution and broader societal intervention to address the risks of autonomous development.",
+            "link": "https://openai.com/index/an-alien-mind"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788681600000,
+            "date": "2026-09-06",
+            "title": "Research acceleration: The view inside OpenAI",
+            "summary_kr": "OpenAI는 연구 가속화를 위해 자동화된 AI 연구 에이전트를 도입하고 있으며, 이를 인간의 감독하에 책임감 있게 활용하여 AI 안전성과 정렬 연구를 고도화하겠다는 전략을 밝혔습니다.",
+            "summary_en": "OpenAI is accelerating research by deploying automated AI research agents under human supervision, strategically leveraging these tools to advance AI safety and alignment while maintaining human control.",
+            "link": "https://openai.com/index/research-acceleration-view-inside-openai"
+        },
         {
             "company": "xAI",
             "timestamp": 1788480000000,
@@ -882,24 +900,6 @@
             "summary_kr": "Maven AGI는 단순한 응대를 넘어 기업의 기존 시스템과 통합되어 고객 여정 전반의 문제를 종단간(end-to-end)으로 해결하는 AI 에이전트를 통해 고객 경험과 운영 효율성을 혁신합니다.",
             "summary_en": "Maven AGI transforms customer support by deploying AI agents that integrate with existing enterprise systems to provide end-to-end resolutions, effectively managing the entire customer lifecycle.",
             "link": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787184000000,
-            "date": "2026-08-20",
-            "title": "How ChatGPT Work helps Stampli move ideas to market",
-            "summary_kr": "스탬플리는 ChatGPT Work와 Codex를 도입하여 복잡한 제품 마케팅과 콘텐츠 제작 과정을 자동화함으로써, 생산성을 3배 이상 높이고 시장 출시 기간을 획기적으로 단축했습니다.",
-            "summary_en": "Stampli accelerated its go-to-market speed by over 3x by integrating ChatGPT Work and Codex to automate complex product marketing workflows and scale content production.",
-            "link": "https://openai.com/index/stampli"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787178157000,
-            "date": "2026-08-19",
-            "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
-            "summary_kr": "엔비디아 Holoscan 플랫폼에서 AI 코딩 에이전트와 CLI 도구를 활용하여 실시간 내시경 세그멘테이션 애플리케이션을 단계적으로 개발하는 효율적인 워크플로우를 제시합니다.",
-            "summary_en": "This article demonstrates an iterative, agentic development workflow that leverages AI coding agents and the Holoscan CLI to efficiently build real-time endoscopic segmentation applications.",
-            "link": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents"
         }
     ]
 }
