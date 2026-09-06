@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-09-06 07:46:58",
+    "last_update": "2026-09-06 17:35:07",
     "articles": [
+        {
+            "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model - CNBC",
+            "summary_en": "Alibaba has intensified the open-source AI race by releasing its Qwen3.8-27B model, designed for on-device performance, and boasting a developer footprint 2.6 times larger than Meta's Llama models on Hugging Face.",
+            "link": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+            "timestamp": 1786965863000,
+            "date": "2026-08-17"
+        },
         {
             "title": "HIVE Digital Technologies Ltd - HIVE Digital Technologies Ltd",
             "summary_en": "HIVE Digital Technologies has secured a $350 million, five-year GPU cloud services contract to provide a dedicated AI infrastructure cluster powered by 2,016 NVIDIA Blackwell Ultra GPUs at its sustainable facility in British Columbia.",
@@ -693,13 +700,6 @@
             "link": "https://www.thehindubusinessline.com/info-tech/anthropic-says-claude-uncovers-cryptographic-weaknesses-advances-ai-assisted-security-research/article71279748.ece",
             "timestamp": 1785302659000,
             "date": "2026-07-29"
-        },
-        {
-            "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
-            "summary_en": "Amazon is reportedly scaling back its flagship AI model initiatives as part of a significant strategic reorganization of its artificial intelligence division.",
-            "link": "https://www.reuters.com/business/retail-consumer/amazon-winds-down-most-flagship-ai-models-strategy-overhaul-business-insider-2026-07-28",
-            "timestamp": 1785249036000,
-            "date": "2026-07-28"
         }
     ]
 }

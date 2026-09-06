@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-09-06 07:46:58",
+    "last_update": "2026-09-06 17:35:07",
     "articles": [
+        {
+            "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
+            "summary_en": "Amazon is reportedly scaling back its flagship AI model initiatives as part of a significant strategic reorganization of its artificial intelligence division.",
+            "link": "https://www.reuters.com/business/retail-consumer/amazon-winds-down-most-flagship-ai-models-strategy-overhaul-business-insider-2026-07-28",
+            "timestamp": 1785249036000,
+            "date": "2026-07-28"
+        },
         {
             "title": "Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests - Computerworld",
             "summary_en": "Anthropic CEO Dario Amodei has proposed a nuanced regulatory framework that rejects blanket bans on open-weight AI while advocating for mandatory safety testing and stricter controls on China's access to advanced computing. He argues that regulation should be based on a model's capabilities and potential risks rather than its open or closed-source nature.",
@@ -693,13 +700,6 @@
             "link": "https://www.wired.com/story/openai-head-of-safety-leaving",
             "timestamp": 1783732020000,
             "date": "2026-07-11"
-        },
-        {
-            "title": "Apple sues OpenAI, its employees claiming theft of trade secrets - BBC",
-            "summary_en": "Apple has filed a federal lawsuit against OpenAI and its hardware division, alleging a coordinated theft of confidential trade secrets via the poaching of key executives and engineers. The lawsuit claims OpenAI improperly acquired proprietary manufacturing and product development data to accelerate its upcoming entry into the consumer hardware market.",
-            "link": "https://www.bbc.com/news/articles/cy8w379e091o",
-            "timestamp": 1783724056000,
-            "date": "2026-07-10"
         }
     ]
 }
