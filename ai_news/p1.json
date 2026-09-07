@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-06 17:35:07",
+    "last_update": "2026-09-07 08:07:20",
     "articles": [
+        {
+            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
+            "summary_en": "Major AI firms are engaging in a frenetic release cycle of frequent model updates, causing 'model fatigue' among corporate users and experts who struggle to manage the associated costs and cybersecurity risks. This intense competition for a share of the projected $2.59 trillion AI market is driven by top labs aiming to prove their dominance ahead of public market entry.",
+            "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+            "timestamp": 1788696001000,
+            "date": "2026-09-06"
+        },
+        {
+            "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours - MarkTechPost",
+            "summary_en": "Meta FAIR has introduced AI Research Preference Models (RPMs), a new methodology designed to evaluate and rank machine learning experiments before committing expensive GPU resources. This approach helps optimize computational efficiency by filtering out ineffective models prior to full-scale training.",
+            "link": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours",
+            "timestamp": 1788726317000,
+            "date": "2026-09-06"
+        },
+        {
+            "title": "OpenAI Says It Reached Its Goal Of Creating An Automated Research Intern - Engadget",
+            "summary_en": "OpenAI has successfully developed an AI-powered 'automated research intern' capable of performing multi-day tasks under human supervision, meeting a milestone set by CEO Sam Altman in 2025. The company is now pivoting toward its next major objective: building a fully autonomous AI researcher by March 2028.",
+            "link": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
+            "timestamp": 1788722812000,
+            "date": "2026-09-06"
+        },
         {
             "title": "OpenAI most advanced model release nears rollout - StartupHub.ai",
             "summary_en": "OpenAI is rolling out its most advanced frontier model by prioritizing corporate partners in its Daybreak cybersecurity program while proactively restricting high-risk capabilities to prevent misuse. This strategic, phased release is designed to regain competitive ground against rivals like Anthropic and assert progress toward AGI.",
@@ -679,27 +700,6 @@
             "link": "https://cloudwars.com/cloud-wars-minute/microsoft-research-and-paige-unveil-prism-2-pathology-ai-model",
             "timestamp": 1787052600000,
             "date": "2026-08-18"
-        },
-        {
-            "title": "Google buys Spirit Airlines data for AI model development - Business Insider",
-            "summary_en": "Google has acquired Spirit Airlines' corporate data and software for $10 million through a bankruptcy auction to enhance its AI model training capabilities. This move reflects a growing industry trend where tech giants target private corporate operational data to overcome the exhaustion of high-quality training materials from the public internet.",
-            "link": "https://www.businessinsider.com/google-buys-spirit-airlines-data-ai-model-development-2026-8",
-            "timestamp": 1786996140000,
-            "date": "2026-08-17"
-        },
-        {
-            "title": "OpenAI funds research to try to stop AI from being used to make bioweapons - Scientific American",
-            "summary_en": "OpenAI is funding research initiatives aimed at developing safety protocols and technical safeguards to prevent the misuse of artificial intelligence in the creation of biological weapons.",
-            "link": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons",
-            "timestamp": 1786996712000,
-            "date": "2026-08-17"
-        },
-        {
-            "title": "Apple Makes Major AI Strategy Shift in China, Develops Own LLM With Alibaba’s Support in Bid to Counter Huawei: Report - Yahoo Finance",
-            "summary_en": "Apple has partnered with Alibaba to develop a China-specific AI model integrated into Apple Intelligence, aiming to navigate strict local regulations while maintaining its competitive edge against rivals like Huawei.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/apple-makes-major-ai-strategy-183019538.html",
-            "timestamp": 1786991419000,
-            "date": "2026-08-17"
         }
     ]
 }

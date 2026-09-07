@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-06 17:35:07",
+    "last_update": "2026-09-07 08:07:20",
     "articles": [
+        {
+            "title": "Google buys Spirit Airlines data for AI model development - Business Insider",
+            "summary_en": "Google has acquired Spirit Airlines' corporate data and software for $10 million through a bankruptcy auction to enhance its AI model training capabilities. This move reflects a growing industry trend where tech giants target private corporate operational data to overcome the exhaustion of high-quality training materials from the public internet.",
+            "link": "https://www.businessinsider.com/google-buys-spirit-airlines-data-ai-model-development-2026-8",
+            "timestamp": 1786996140000,
+            "date": "2026-08-17"
+        },
+        {
+            "title": "OpenAI funds research to try to stop AI from being used to make bioweapons - Scientific American",
+            "summary_en": "OpenAI is funding research initiatives aimed at developing safety protocols and technical safeguards to prevent the misuse of artificial intelligence in the creation of biological weapons.",
+            "link": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons",
+            "timestamp": 1786996712000,
+            "date": "2026-08-17"
+        },
+        {
+            "title": "Apple Makes Major AI Strategy Shift in China, Develops Own LLM With Alibaba’s Support in Bid to Counter Huawei: Report - Yahoo Finance",
+            "summary_en": "Apple has partnered with Alibaba to develop a China-specific AI model integrated into Apple Intelligence, aiming to navigate strict local regulations while maintaining its competitive edge against rivals like Huawei.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/apple-makes-major-ai-strategy-183019538.html",
+            "timestamp": 1786991419000,
+            "date": "2026-08-17"
+        },
         {
             "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model - CNBC",
             "summary_en": "Alibaba has intensified the open-source AI race by releasing its Qwen3.8-27B model, designed for on-device performance, and boasting a developer footprint 2.6 times larger than Meta's Llama models on Hugging Face.",
@@ -678,27 +699,6 @@
             "summary_en": "Ilya Sutskever’s Safe Superintelligence (SSI) has entered a long-term strategic partnership with NVIDIA, securing both an investment and early access to the upcoming Vera Rubin computing platform. This collaboration aims to provide SSI with an order-of-magnitude increase in compute capacity to scale its proprietary research while influencing future NVIDIA hardware designs.",
             "link": "https://www.eenewseurope.com/en/ssi-and-nvidia-partner-to-accelerate-ai-research-with-vera-rubin",
             "timestamp": 1785308343000,
-            "date": "2026-07-29"
-        },
-        {
-            "title": "Top AI officials want the US to back process that could slow AI - Business Insider",
-            "summary_en": "Over 1,100 AI industry professionals, including key figures from OpenAI and Anthropic, have signed an open letter urging the U.S. government to establish governance tools to pace 'recursive self-improvement' in AI development. The call highlights the urgent need for safety coordination as frontier models approach levels of capability that may exceed human control.",
-            "link": "https://www.businessinsider.com/ai-open-letter-automated-development-2026-7",
-            "timestamp": 1785273960000,
-            "date": "2026-07-28"
-        },
-        {
-            "title": "Recursive Superintelligence signs $410M compute deal with Amazon | TechCrunch - TechCrunch",
-            "summary_en": "Recursive Superintelligence has secured a $410 million multiyear compute deal with Amazon Web Services to fuel its focus on autonomous, self-improving AI systems. CEO Richard Socher plans to prioritize compute resources over headcount to accelerate the release of functional AI-driven products by late 2026.",
-            "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
-            "timestamp": 1785244757000,
-            "date": "2026-07-28"
-        },
-        {
-            "title": "Anthropic says Claude uncovers cryptographic weaknesses, advances AI-assisted security research - BusinessLine",
-            "summary_en": "Anthropic’s latest research demonstrates that its Claude models can identify previously unknown vulnerabilities in cryptographic algorithms, potentially revolutionizing security research. To support this, the company launched 'CryptanalysisBench' to track AI progress in cryptanalysis while managing the dual-use risks of such advanced capabilities.",
-            "link": "https://www.thehindubusinessline.com/info-tech/anthropic-says-claude-uncovers-cryptographic-weaknesses-advances-ai-assisted-security-research/article71279748.ece",
-            "timestamp": 1785302659000,
             "date": "2026-07-29"
         }
     ]
