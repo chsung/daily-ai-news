@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-07 08:07:20",
+    "last_update": "2026-09-07 19:04:44",
     "articles": [
+        {
+            "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - The Guardian",
+            "summary_en": "Matt Clifford, chair of the UK’s Advanced Research and Invention Agency (Aria), has resigned following concerns from senior MPs regarding a conflict of interest created by his new role at Anthropic. The incident highlights growing scrutiny over the 'revolving door' between UK government policy roles and high-profile positions at private AI corporations.",
+            "link": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
+            "timestamp": 1788798120000,
+            "date": "2026-09-07"
+        },
+        {
+            "title": "Cathay Pacific and Google Partner to Research and Trial AI-Powered Contrail Avoidance - CXOToday.com",
+            "summary_en": "Cathay Pacific has partnered with Google to pilot an AI-driven tool that helps pilots adjust flight altitudes to avoid forming contrails, which account for roughly one-third of aviation's climate impact. This initiative marks the first global test of such technology on ultra-long-haul flights, utilizing real-world data to refine predictive models for large-scale industry application.",
+            "link": "https://cxotoday.com/media-coverage/cathay-pacific-and-google-partner-to-research-and-trial-ai-powered-contrail-avoidance",
+            "timestamp": 1788797893000,
+            "date": "2026-09-07"
+        },
         {
             "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
             "summary_en": "Major AI firms are engaging in a frenetic release cycle of frequent model updates, causing 'model fatigue' among corporate users and experts who struggle to manage the associated costs and cybersecurity risks. This intense competition for a share of the projected $2.59 trillion AI market is driven by top labs aiming to prove their dominance ahead of public market entry.",
@@ -685,20 +699,6 @@
             "summary_en": "OpenAI is awarding $1 million in grants and $1 million in API credits to 14 global research projects studying the societal and economic impacts of AI. These independent studies, spanning the US, EU, Brazil, Singapore, and South Korea, focus on critical areas such as labor market disruption, taxation, energy demands, and institutional safety.",
             "link": "https://yourstory.com/ai-story/openai-ai-policy-intelligence-age",
             "timestamp": 1787047563000,
-            "date": "2026-08-18"
-        },
-        {
-            "title": "Nvidia's AI moat is shifting from chips to capital - CNBC",
-            "summary_en": "Nvidia is leveraging its massive cash reserves, including a $105 billion commitment to an OpenAI data center, to solidify its market dominance and secure long-term demand for its GPU infrastructure. By providing financing and equity investments, the company is effectively extending the AI investment cycle and building a competitive moat beyond its hardware lead.",
-            "link": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
-            "timestamp": 1787050801000,
-            "date": "2026-08-18"
-        },
-        {
-            "title": "Microsoft Research and Paige Unveil PRISM 2 Pathology AI Model - cloudwars.com",
-            "summary_en": "Microsoft Research and Paige have introduced PRISM 2, a pathology foundation model trained on 2.5 million whole-slide tissue images and corresponding clinical reports. Unlike task-specific models, this research-oriented tool can simultaneously handle cancer detection and biomarker prediction by integrating visual data with medical terminology.",
-            "link": "https://cloudwars.com/cloud-wars-minute/microsoft-research-and-paige-unveil-prism-2-pathology-ai-model",
-            "timestamp": 1787052600000,
             "date": "2026-08-18"
         }
     ]
