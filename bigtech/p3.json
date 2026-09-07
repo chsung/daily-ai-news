@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-09-06 17:48:38",
+    "last_update": "2026-09-07 19:28:34",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1785481200000,
+            "date": "2026-07-31",
+            "title": "Univé builds an AI-ready workforce",
+            "summary_kr": "네덜란드 보험사 Univé는 강력한 리더십과 체계적인 거버넌스를 바탕으로 전 직원이 AI를 활용해 업무를 재설계하는 'AI 역량 강화' 전략을 성공적으로 추진하고 있습니다.",
+            "summary_en": "Dutch insurer Univé is successfully building an AI-ready workforce by combining strong leadership and robust governance to empower employees to actively redesign their own workflows.",
+            "link": "https://openai.com/index/unive"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785451384000,
+            "date": "2026-07-30",
+            "title": "Run High-Performance Core Math at Scale with NVIDIA nvmath-python",
+            "summary_kr": "NVIDIA의 nvmath-python v1.0은 복잡한 C/C++ 인터페이스 없이도 파이썬 환경에서 CPU부터 분산 GPU 시스템까지 고성능 CUDA-X 수학 라이브러리를 손쉽게 활용할 수 있게 지원합니다.",
+            "summary_en": "NVIDIA's nvmath-python v1.0 enables Python users to seamlessly leverage high-performance CUDA-X math libraries, scaling from CPUs to distributed multi-GPU systems without requiring low-level C/C++ interfaces.",
+            "link": "https://developer.nvidia.com/blog/run-high-performance-core-math-at-scale-with-nvidia-nvmath-python"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1785445799000,
+            "date": "2026-07-30",
+            "title": "Four Ways to Deploy More Secure AI Agents",
+            "summary_kr": "AI 에이전트 도입 시 보안 취약점인 접근 제어 부재, 임의 코드 실행, 네트워크 통제 미흡, 비밀번호 노출을 방지하기 위해 최소 권한 원칙과 엄격한 실행 환경 통제가 필수적입니다.",
+            "summary_en": "To mitigate security risks like unauthorized access and arbitrary code execution in AI agents, organizations must implement robust access controls and adhere to the principle of least privilege.",
+            "link": "https://developer.nvidia.com/blog/four-ways-to-deploy-more-secure-ai-agents"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1785435192000,
@@ -873,33 +900,6 @@
             "summary_kr": "앤스로픽은 미국 K-12 교사들에게 표준 교육 과정과 연동된 프리미엄 AI 도구와 리소스를 무료로 제공하여 수업 설계 및 맞춤형 학습 지원을 강화합니다.",
             "summary_en": "Anthropic is launching 'Claude for Teachers' to provide US K-12 educators with free access to premium AI tools, evidence-based curricula, and ecosystem integrations to streamline lesson planning and personalized instruction.",
             "link": "https://www.anthropic.com/news/claude-for-teachers"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783987200000,
-            "date": "2026-07-14",
-            "title": "Anthropic commits $10 million to Canadian AI research",
-            "summary_kr": "앤스로픽(Anthropic)이 캐나다의 AI 연구 생태계 강화를 위해 주요 연구 기관 및 대학에 1,000만 캐나다 달러를 투자하고 협력을 확대합니다.",
-            "summary_en": "Anthropic is investing $10 million CAD to support Canadian research institutions and universities, aiming to advance the development of beneficial and responsible AI.",
-            "link": "https://www.anthropic.com/news/canadian-ai-research"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1783987200000,
-            "date": "2026-07-14",
-            "title": "How Canada uses Claude",
-            "summary_kr": "캐나다는 인구 대비 클로드(Claude) 활용도가 세계 2위 수준으로 높으며, 특히 고숙련 기술 서비스 산업 비중이 높은 지역을 중심으로 업무 및 학업 분야에서 활발한 도입이 이루어지고 있습니다.",
-            "summary_en": "Canada exhibits the world's second-highest per capita adoption of Claude, with usage patterns strongly driven by professional service sectors, academic needs, and document translation requirements.",
-            "link": "https://www.anthropic.com/research/how-canada-uses-claude"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1783987200000,
-            "date": "2026-07-14",
-            "title": "How sales teams use ChatGPT Work",
-            "summary_kr": "ChatGPT Work는 다양한 고객 데이터를 통합하여 세일즈 팀이 회의 준비, 전략 수립 및 거래 관리를 효율적으로 수행할 수 있도록 돕는 실무 자동화 도구입니다.",
-            "summary_en": "ChatGPT Work acts as a productivity engine for sales teams, synthesizing fragmented customer data into actionable outputs like meeting briefs, account strategies, and risk assessments to accelerate deal velocity.",
-            "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
         }
     ]
 }

@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-09-06 17:48:38",
+    "last_update": "2026-09-07 19:28:34",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1788768000000,
+            "date": "2026-09-07",
+            "title": "Our new contrail avoidance trial in Asia-Pacific",
+            "summary_kr": "구글은 캐세이퍼시픽항공과 협력하여 AI 기반 비행 고도 조정을 통해 항공기 비행운으로 인한 온난화 영향을 약 40% 저감하는 아시아-태평양 지역 실증 사업을 확대하고 있습니다.",
+            "summary_en": "Google is expanding its AI-powered contrail avoidance trials in the Asia-Pacific region in partnership with Cathay Pacific, successfully reducing the warming impact of contrails by approximately 40% through optimized flight altitude adjustments.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788742800000,
+            "date": "2026-09-07",
+            "title": "Backing 16 green AI projects in Asia-Pacific",
+            "summary_kr": "구글 딥마인드는 아시아·태평양 지역의 환경 난제를 해결하기 위해 16개 유망 스타트업 및 연구 조직을 선발하여 AI 기술 지원과 멘토링을 제공하는 액셀러레이터 프로그램을 시작합니다.",
+            "summary_en": "Google DeepMind has launched an accelerator program to support 16 APAC-based organizations by providing access to advanced AI models and mentorship to scale innovative solutions for environmental and climate challenges.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788739200000,
+            "date": "2026-09-07",
+            "title": "Supporting independent journalism in Ukraine",
+            "summary_kr": "OpenAI와 WAN-IFRA, AIRPPU는 우크라이나 독립 언론의 회복력과 지속 가능성을 높이기 위해 AI 기술 도입 및 비즈니스 혁신을 지원하는 협력 프로그램을 시작합니다.",
+            "summary_en": "OpenAI, WAN-IFRA, and AIRPPU have launched a joint initiative to support Ukrainian independent news publishers by integrating AI technologies and fostering operational innovation for long-term resilience.",
+            "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1788685200000,
@@ -873,33 +900,6 @@
             "summary_kr": "OpenAI의 전략 미래 팀은 AI 기술 발달로 인해 권력이 인간의 협력 없이도 유지될 수 있는 상황에서, 민주주의 사회의 개인의 자유와 주체성을 어떻게 보존할 것인가라는 구조적 문제를 탐구합니다.",
             "summary_en": "OpenAI's Strategic Futures team explores how to preserve individual rights and agency in free societies, addressing the structural risk that AI advancements could allow power to be sustained without human cooperation.",
             "link": "https://openai.com/index/introducing-ai-futures"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1787097600000,
-            "date": "2026-08-19",
-            "title": "Grok Build on web and mobile",
-            "summary_kr": "xAI의 'Grok Build'가 모든 요금제와 기기로 확대되어, 사용자가 대화만으로 웹 및 모바일 앱을 즉시 생성하고 공유하며 API를 연동할 수 있게 되었습니다.",
-            "summary_en": "xAI's 'Grok Build' is now available across all plans and devices, allowing users to instantly create, share, and integrate AI-powered web and mobile apps directly through natural language prompts.",
-            "link": "https://x.ai/news/grok-build-for-everyone"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787241600000,
-            "date": "2026-08-20",
-            "title": "How Generative Recommenders Are Redefining RecSys at Scale",
-            "summary_kr": "추천 시스템이 기존 임베딩 기반 방식에서 거대언어모델(LLM)과 유사한 생성형 모델로 진화하며 데이터 규모와 복잡성 문제를 해결하고, 처리 효율성을 높이는 방향으로 변화하고 있습니다.",
-            "summary_en": "Recommender systems are shifting from traditional embedding-based methods to generative, sequence-modeling architectures similar to LLMs to better handle scale, sparsity, and complex production requirements.",
-            "link": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787239975000,
-            "date": "2026-08-20",
-            "title": "The Enterprise Journey, Reimagined with AI Agents",
-            "summary_kr": "Maven AGI는 단순한 응대를 넘어 기업의 기존 시스템과 통합되어 고객 여정 전반의 문제를 종단간(end-to-end)으로 해결하는 AI 에이전트를 통해 고객 경험과 운영 효율성을 혁신합니다.",
-            "summary_en": "Maven AGI transforms customer support by deploying AI agents that integrate with existing enterprise systems to provide end-to-end resolutions, effectively managing the entire customer lifecycle.",
-            "link": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey"
         }
     ]
 }
