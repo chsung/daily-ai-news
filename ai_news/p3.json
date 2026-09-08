@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-08 07:57:42",
+    "last_update": "2026-09-08 18:26:37",
     "articles": [
+        {
+            "title": "Microsoft ponders open-weight AI as China models gain ground - Nikkei Asia",
+            "summary_en": "Microsoft is evaluating the release of open-weight versions of its proprietary MAI models to provide a trusted domestic alternative to the rising popularity of Chinese AI models like DeepSeek.",
+            "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-ponders-open-weight-ai-as-china-models-gain-ground",
+            "timestamp": 1785414840000,
+            "date": "2026-07-30"
+        },
+        {
+            "title": "Amazon Overhauls AI Strategy as Flagship Nova Models Wind Down - Yahoo Finance",
+            "summary_en": "Amazon is reportedly deprecating several Nova models to consolidate resources for a new flagship project led by Pieter Abbeel, aiming to improve its competitiveness against industry leaders like OpenAI and Google.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/amazon-overhauls-ai-strategy-flagship-174413868.html",
+            "timestamp": 1785260653000,
+            "date": "2026-07-28"
+        },
+        {
+            "title": "OpenAI launches free AI access program for academic researchers - Axios",
+            "summary_en": "OpenAI has introduced a new initiative to provide academic researchers with free access to its advanced artificial intelligence technologies to foster scientific innovation.",
+            "link": "https://www.axios.com/2026/07/29/openai-academics-research-chatgpt-sol",
+            "timestamp": 1785364534000,
+            "date": "2026-07-29"
+        },
         {
             "title": "AI giants back employee-led push asking US government to ‘deliberately pace’ development - The Hill",
             "summary_en": "Employees from major AI corporations are petitioning the U.S. government to implement a more deliberate, paced development strategy for artificial intelligence technologies.",
@@ -678,27 +699,6 @@
             "summary_en": "Google is increasingly deploying its proprietary Tensor Processing Units (TPUs) to achieve 30% cost savings and improved efficiency for its Gemini models. By scaling this infrastructure through a 'neocloud' model, Google poses a significant threat to Nvidia’s 86% market share and high profit margins.",
             "link": "https://www.fool.com/investing/2026/07/12/googles-in-house-ai-chip-strategy-could-be-a-bigge",
             "timestamp": 1783868700000,
-            "date": "2026-07-12"
-        },
-        {
-            "title": "OpenAI research chief says AI could make Nobel-worthy discoveries within two years - VnExpress International",
-            "summary_en": "OpenAI research chief Mark Chen predicts that AI will produce Nobel-worthy scientific breakthroughs within the next two years. Following recent AI successes in protein folding and long-standing mathematical problems, Chen notes that the technology is rapidly evolving to perform independent high-level research.",
-            "link": "https://e.vnexpress.net/news/tech/personalities/openai-research-chief-says-ai-could-make-nobel-worthy-discoveries-within-two-years-5096650.html",
-            "timestamp": 1783912147000,
-            "date": "2026-07-13"
-        },
-        {
-            "title": "SoftBank, Yaskawa Electric trial physical AI platform using GPU cloud - Telecompaper",
-            "summary_en": "SoftBank and Yaskawa Electric have initiated trials for a physical AI platform that leverages GPU cloud computing. This collaboration aims to integrate advanced AI capabilities into industrial robotics and hardware systems.",
-            "link": "https://www.telecompaper.com/news/softbank-yaskawa-electric-trial-physical-ai-platform-using-gpu-cloud--1576828",
-            "timestamp": 1783922814000,
-            "date": "2026-07-13"
-        },
-        {
-            "title": "Google's In-House AI Chip Strategy Could Be a Bigger Threat to Nvidia Than Investors Think. Here's Why. - Yahoo Finance",
-            "summary_en": "Google is increasingly prioritizing its custom Tensor Processing Units (TPUs) to achieve up to 30% lower AI compute costs compared to hyperscaler alternatives. By scaling its TPU capacity and potentially leasing it, Google poses a significant long-term threat to Nvidia’s dominance in the AI hardware market.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/googles-house-ai-chip-strategy-142500134.html",
-            "timestamp": 1783866300000,
             "date": "2026-07-12"
         }
     ]

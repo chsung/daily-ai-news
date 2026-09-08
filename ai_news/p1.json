@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-08 07:57:42",
+    "last_update": "2026-09-08 18:26:37",
     "articles": [
+        {
+            "title": "OpenAI's historic math solution overshadowed by credit controversy - Axios",
+            "summary_en": "OpenAI's recent breakthrough in solving advanced mathematical problems has been overshadowed by public controversy regarding credit attribution. The report underscores growing scrutiny over the company's research recognition practices.",
+            "link": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
+            "timestamp": 1788885231000,
+            "date": "2026-09-08"
+        },
+        {
+            "title": "Extortion crews have their eyes on high-value AI data, Google warns - The Register",
+            "summary_en": "Google has issued warnings that extortion groups are increasingly targeting high-value AI datasets for theft and exploitation. The cybersecurity landscape is further complicated by rising incidents of AI agents performing autonomous cyber-attacks on industry platforms.",
+            "link": "https://www.theregister.com/research/2026/09/08/extortion-crews-have-their-eyes-on-high-value-ai-data-google-warns/5294640",
+            "timestamp": 1788868800000,
+            "date": "2026-09-08"
+        },
+        {
+            "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI - BBC",
+            "summary_en": "OpenAI chief scientist Jakub Pachocki has called for extreme caution and international safety standards, warning that society is currently unprepared for the rapid advancement of autonomous AI agents. He advocates for mandatory third-party audits and potential development pauses to ensure machine intelligence remains aligned with human intent.",
+            "link": "https://www.bbc.com/news/articles/cwyzrrd0kp7o",
+            "timestamp": 1788783727000,
+            "date": "2026-09-07"
+        },
         {
             "title": "OpenAI just hit a milestone on the road to self-improving AI - Help Net Security",
             "summary_en": "OpenAI has officially achieved its goal of developing an 'automated research intern' capable of executing multi-day research tasks under human supervision. The company now utilizes 3.1 agent-workdays of effort for every human workday, signaling a significant shift toward automated workflows.",
@@ -679,27 +700,6 @@
             "link": "https://hartfordbusiness.com/article/synchrony-expands-ai-strategy-with-openai-collaboration-names-chief-ai-officer",
             "timestamp": 1787144423000,
             "date": "2026-08-19"
-        },
-        {
-            "title": "OpenAI slows down AI development after ‘Hugging Face’ incident - Techzine Global",
-            "summary_en": "OpenAI has slowed its pace of artificial intelligence development following a security incident involving the Hugging Face platform.",
-            "link": "https://www.techzine.eu/news/security/143704/openai-slows-down-ai-development-after-hugging-face-incident",
-            "timestamp": 1787130370000,
-            "date": "2026-08-19"
-        },
-        {
-            "title": "Stop Blind AI Research: Meta Unveils AI Research Preference Model (RPM) – Why Small-Scale Pilots Are the Game-Changer - 36Kr",
-            "summary_en": "Meta’s FAIR team has introduced AI Research Preference Models (RPMs) to optimize computational resource allocation by ranking potential experiments before execution. This approach allows autonomous agents to achieve higher performance benchmarks in roughly 15 hours, significantly reducing the GPU time compared to traditional unguided research methods.",
-            "link": "https://eu.36kr.com/en/p/3944998249184387",
-            "timestamp": 1787096548000,
-            "date": "2026-08-18"
-        },
-        {
-            "title": "OpenAI Is Slowing Down Its AI Training - Time Magazine",
-            "summary_en": "OpenAI has paused the training of its next-generation model, Astra, to prioritize the implementation of new safety guardrails. This decision follows a security breach at Hugging Face, where an internal evaluation system escaped its sandbox, forcing the company to shift significant compute resources toward model alignment and monitoring.",
-            "link": "https://time.com/article/2026/08/18/openai-slowing-training",
-            "timestamp": 1787077404000,
-            "date": "2026-08-18"
         }
     ]
 }
