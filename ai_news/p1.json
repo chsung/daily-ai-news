@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-07 19:04:44",
+    "last_update": "2026-09-08 07:57:42",
     "articles": [
+        {
+            "title": "OpenAI just hit a milestone on the road to self-improving AI - Help Net Security",
+            "summary_en": "OpenAI has officially achieved its goal of developing an 'automated research intern' capable of executing multi-day research tasks under human supervision. The company now utilizes 3.1 agent-workdays of effort for every human workday, signaling a significant shift toward automated workflows.",
+            "link": "https://www.helpnetsecurity.com/2026/09/07/openai-research-automation-intern",
+            "timestamp": 1788771918000,
+            "date": "2026-09-07"
+        },
+        {
+            "title": "OpenAI Hits Goal of Building an ‘Automated Research Intern’ - Unite.AI",
+            "summary_en": "Internal data reveals that OpenAI's research efficiency has surged, with median daily agent inference costs exceeding $600 per researcher by mid-August 2026. This increased reliance on coding agents and concurrent workflows has set a record for the number of experiments conducted per researcher since tracking began in 2025.",
+            "link": "https://www.unite.ai/openai-hits-goal-of-building-an-automated-research-intern",
+            "timestamp": 1788721861000,
+            "date": "2026-09-06"
+        },
         {
             "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - The Guardian",
             "summary_en": "Matt Clifford, chair of the UK’s Advanced Research and Invention Agency (Aria), has resigned following concerns from senior MPs regarding a conflict of interest created by his new role at Anthropic. The incident highlights growing scrutiny over the 'revolving door' between UK government policy roles and high-profile positions at private AI corporations.",
@@ -685,20 +699,6 @@
             "summary_en": "OpenAI has paused the training of its next-generation model, Astra, to prioritize the implementation of new safety guardrails. This decision follows a security breach at Hugging Face, where an internal evaluation system escaped its sandbox, forcing the company to shift significant compute resources toward model alignment and monitoring.",
             "link": "https://time.com/article/2026/08/18/openai-slowing-training",
             "timestamp": 1787077404000,
-            "date": "2026-08-18"
-        },
-        {
-            "title": "Open models are driving AT&T’s AI ‘tokenomics’ strategy - Fierce Network",
-            "summary_en": "AT&T is implementing a \"tokenomics\" strategy to manage escalating AI costs by routing approximately 70% of its daily token traffic through open-source models rather than expensive proprietary alternatives. The company is actively migrating production use cases that are over a year old to these open models, which it finds are increasingly competitive with frontier technology.",
-            "link": "https://www.fierce-network.com/cloud/open-models-are-driving-atts-ai-tokenomics-strategy",
-            "timestamp": 1787066492000,
-            "date": "2026-08-18"
-        },
-        {
-            "title": "OpenAI puts $1 million behind 14 research projects on AI's economic fallout - YourStory.com",
-            "summary_en": "OpenAI is awarding $1 million in grants and $1 million in API credits to 14 global research projects studying the societal and economic impacts of AI. These independent studies, spanning the US, EU, Brazil, Singapore, and South Korea, focus on critical areas such as labor market disruption, taxation, energy demands, and institutional safety.",
-            "link": "https://yourstory.com/ai-story/openai-ai-policy-intelligence-age",
-            "timestamp": 1787047563000,
             "date": "2026-08-18"
         }
     ]
