@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-09-08 19:02:38",
+    "last_update": "2026-09-09 18:54:21",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1788977700000,
+            "date": "2026-09-09",
+            "title": "A new deep learning model maps global methane emissions from space.",
+            "summary_kr": "구글과 NASA JPL이 공동 개발한 딥러닝 모델 'MAPL-EMIT'은 위성 데이터를 활용해 메탄 배출원을 기존보다 50% 더 정확하게 탐지함으로써 기후 변화 대응을 가속화합니다.",
+            "summary_en": "Google and NASA JPL have introduced 'MAPL-EMIT,' a deep learning model that leverages satellite data to detect methane emissions with 50% greater accuracy, accelerating global climate mitigation efforts.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788973200000,
+            "date": "2026-09-09",
+            "title": "Paul Christiano joins OpenAI Foundation Board",
+            "summary_kr": "AI 정렬 및 안전 전문가인 폴 크리스티아노가 OpenAI 재단 이사회 및 안전·보안 위원회에 합류하여 강력한 거버넌스와 위험 관리 체계를 강화합니다.",
+            "summary_en": "AI alignment and safety expert Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee to bolster the company's governance and risk mitigation frameworks.",
+            "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788969600000,
+            "date": "2026-09-09",
+            "title": "Recreating a 70-year love story frame by frame",
+            "summary_kr": "다큐멘터리 'Love, Rendered'는 생성형 AI와 영상 복원 기술을 활용해 치매 환자의 사라져가는 기억을 시각화함으로써, 기술이 인간의 감정과 추억을 잇는 강력한 도구가 될 수 있음을 보여줍니다.",
+            "summary_en": "The documentary 'Love, Rendered' utilizes generative AI and motion capture to visualize fading memories, demonstrating how technology can serve as a powerful tool to preserve human connections and emotional narratives.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1788966172000,
+            "date": "2026-09-09",
+            "title": "Landmark agreement hands parents and educators control through legally enforceable guardrails, builds on NYC schools’ screen and AI ban",
+            "summary_kr": "미국 교원노조(AFT)와 마이크로소프트는 학생 데이터 보호, AI 모델 학습 금지, 인간의 감독 의무화 등을 포함한 법적 구속력 있는 '전국 AI 안전 및 개인정보 보호 표준' 협약을 체결했습니다.",
+            "summary_en": "The AFT and Microsoft have established a legally enforceable 'National AI Safety & Privacy Standard' that mandates student data protection, bans the use of student data for AI training, and requires human oversight in classrooms.",
+            "link": "https://news.microsoft.com/source/2026/09/09/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-for-schools-to-protect-students-families-and-educators"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1788904241000,
+            "date": "2026-09-08",
+            "title": "Codename MDASH comes to Azure Government | The Microsoft Cloud Blog",
+            "summary_kr": "마이크로소프트는 미국 정부의 사이버 보안 강화를 위해 복잡한 소프트웨어 취약점을 정밀하게 탐지하는 멀티 에이전트 AI 스캐닝 시스템 'MDASH'를 Azure Government에 도입했습니다.",
+            "summary_en": "Microsoft has deployed MDASH, an agentic AI scanning system that uses multiple models to proactively detect and validate complex software vulnerabilities, to its Azure Government platform to enhance national cybersecurity.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788886800000,
+            "date": "2026-09-08",
+            "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+            "summary_kr": "MIT 연구진은 GPT-5.6 Sol을 실험실 소프트웨어에 통합하여 양자 칩 측정 및 보정 작업을 자동화함으로써, 연구자가 고차원적인 분석과 실험 설계에 집중할 수 있는 효율적인 워크플로우를 구축했습니다.",
+            "summary_en": "MIT researchers successfully integrated GPT-5.6 Sol with laboratory software to automate routine quantum chip measurements and calibration, allowing researchers to focus on higher-level experiment design and data analysis.",
+            "link": "https://openai.com/index/codex-quantum-computing-experiments"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788825600000,
+            "date": "2026-09-08",
+            "title": "1Password increases engineering productivity 21% with Codex",
+            "summary_kr": "1Password는 Codex를 도입하여 소프트웨어 개발 전 과정에 AI를 통합함으로써, 보안 기준을 유지하면서도 엔지니어링 생산성을 21% 향상하고 풀 리퀘스트 처리 시간을 11% 단축했습니다.",
+            "summary_en": "1Password has integrated Codex across its entire software development lifecycle, resulting in a 21% increase in engineering productivity and an 11% reduction in pull request cycle times while maintaining rigorous security standards.",
+            "link": "https://openai.com/index/1password"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1788877662000,
@@ -837,69 +900,6 @@
             "summary_kr": "AI 모델이 사용자의 웰빙에 미치는 영향을 객관적으로 평가하기 위해 500만 달러 규모의 연구 지원 프로그램을 신설하고 오픈소스 평가 도구 개발을 장려합니다.",
             "summary_en": "A new $5 million grant program has been launched to fund independent, open-source research aimed at establishing rigorous benchmarks for evaluating AI's impact on user wellbeing.",
             "link": "https://www.anthropic.com/news/wellbeing-research-grants"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787616000000,
-            "date": "2026-08-25",
-            "title": "Disrupting a new covert influence campaign from Russia",
-            "summary_kr": "OpenAI는 러시아발 은밀한 영향력 공작을 펼치던 ChatGPT 계정들을 차단했으며, 이들은 가짜 싱크탱크를 앞세워 여론을 조작하고 러시아를 옹호하는 콘텐츠를 생성해 왔습니다.",
-            "summary_en": "OpenAI has disrupted a sophisticated Russian covert influence campaign that used ChatGPT to generate deceptive content and promote a fraudulent think tank aimed at manipulating public opinion.",
-            "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787572800000,
-            "date": "2026-08-24",
-            "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-            "summary_kr": "Kiro는 OpenAI의 GPT-5.6 모델을 도입하여 복잡한 코딩 작업의 효율성을 높이고, 비용 효율적인 소프트웨어 개발 환경을 제공합니다.",
-            "summary_en": "Kiro has integrated OpenAI's GPT-5.6 model to enhance coding efficiency and provide a cost-effective environment for complex software development tasks.",
-            "link": "https://openai.com/index/gpt-5-6-in-kiro"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787584119000,
-            "date": "2026-08-24",
-            "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
-            "summary_kr": "기존 이더넷의 구조적 한계를 극복하기 위해 엔비디아는 AI 워크로드에 최적화된 Spectrum-X 아키텍처를 도입하여 고성능 스위치와 NIC를 통합함으로써 AI 학습의 효율성과 속도를 극대화했습니다.",
-            "summary_en": "To overcome the limitations of traditional Ethernet in AI workloads, NVIDIA introduced the Spectrum-X architecture, which optimizes AI training performance by co-designing high-performance switches and NICs to ensure predictable, low-latency communication.",
-            "link": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787583605000,
-            "date": "2026-08-24",
-            "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
-            "summary_kr": "NVIDIA의 차세대 Vera Rubin 및 Blackwell 아키텍처는 고도의 에이전트형 AI 작업 환경에서 이전 세대 대비 전력 효율당 처리량을 획기적으로 개선하며 새로운 산업 표준을 제시했습니다.",
-            "summary_en": "NVIDIA's next-generation Vera Rubin and Blackwell architectures set a new industry standard by delivering significant gains in agentic AI throughput per megawatt compared to previous generations.",
-            "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787583600000,
-            "date": "2026-08-24",
-            "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
-            "summary_kr": "엔비디아는 에이전트 AI 팩토리의 보안, 데이터 이동 및 인프라 운영을 최적화하기 위해 블루필드-4 DPU 기반의 'Scale-In' 네트워킹 전략을 새롭게 도입했습니다.",
-            "summary_en": "NVIDIA has introduced its 'Scale-In' networking architecture, powered by BlueField-4 DPUs, to provide dedicated acceleration for security, data movement, and infrastructure operations in agentic AI factories.",
-            "link": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787583600000,
-            "date": "2026-08-24",
-            "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
-            "summary_kr": "에이전트 AI의 워크로드는 예측 불가능하고 순차적인 의존성이 강해, 단순히 코어 수를 늘리기보다 단일 스레드 성능과 병렬 처리 능력을 균형 있게 갖춘 NVIDIA Vera CPU와 같은 아키텍처가 필수적입니다.",
-            "summary_en": "Agentic AI workloads are inherently unpredictable and latency-sensitive, requiring a balanced CPU architecture like NVIDIA Vera that prioritizes strong single-thread performance alongside efficient concurrency to optimize overall fleet economics.",
-            "link": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787583600000,
-            "date": "2026-08-24",
-            "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
-            "summary_kr": "NVIDIA Groq 3 LPX는 Vera Rubin NVL72 플랫폼과 결합하여 대규모 모델의 긴 문맥 처리에서도 초고속 추론 속도를 구현하며 에이전트형 AI 시스템의 상호작용 성능을 극대화합니다.",
-            "summary_en": "NVIDIA Groq 3 LPX, when integrated with the Vera Rubin NVL72 platform, enables ultra-fast inference and high interactivity for massive models, effectively overcoming the challenges of maintaining long context.",
-            "link": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin"
         }
     ]
 }
