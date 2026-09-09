@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-08 18:26:37",
+    "last_update": "2026-09-09 08:00:45",
     "articles": [
+        {
+            "title": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure - Google Cloud Press Corner",
+            "summary_en": "Google is set to invest €13 billion in Finnish digital infrastructure from 2027 to 2028, aiming to boost the local economy by supporting 37,000 jobs during construction. This initiative expands Google's data center capacity in Europe to drive AI development while incorporating sustainable energy and heat recovery systems.",
+            "link": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure",
+            "timestamp": 1788937475000,
+            "date": "2026-09-09"
+        },
+        {
+            "title": "Qualcomm Announces Multi-Generational Product Collaboration with Amazon to Build Next-Generation AI Data Center Infrastructure | Qualcomm - qualcomm.com",
+            "summary_en": "Qualcomm and Amazon have announced a multi-generational collaboration focused on developing advanced infrastructure for next-generation artificial intelligence data centers.",
+            "link": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-announces-multi-generational-product-collaboration-with",
+            "timestamp": 1788874055000,
+            "date": "2026-09-08"
+        },
+        {
+            "title": "Accenture and Google Cloud Deepen Partnership with Formation of New Accenture Gemini Enterprise Business Group - Accenture",
+            "summary_en": "Accenture and Google Cloud have launched a dedicated 'Gemini Enterprise Business Group' to accelerate the adoption of agentic AI for global corporations. The partnership includes the creation of a 1,000-person forward-deployed engineering workforce to scale AI solutions that drive measurable business outcomes.",
+            "link": "https://newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group",
+            "timestamp": 1788871842000,
+            "date": "2026-09-08"
+        },
         {
             "title": "OpenAI's historic math solution overshadowed by credit controversy - Axios",
             "summary_en": "OpenAI's recent breakthrough in solving advanced mathematical problems has been overshadowed by public controversy regarding credit attribution. The report underscores growing scrutiny over the company's research recognition practices.",
@@ -679,27 +700,6 @@
             "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-says-claude-designed-protein-binders-for-14-of-15-test-targets-with-independent-labs-validating-hundreds-of-designs-an-early-sign-of-how-ai-could-speed-parts-of-biological-research/articleshow/133377031.cms",
             "timestamp": 1787228100000,
             "date": "2026-08-20"
-        },
-        {
-            "title": "Gemini Live adds Deep Research as Notebooks come to AI Mode - 9to5Google",
-            "summary_en": "Google is expanding its Gemini educational ecosystem by integrating Deep Research into Gemini Live and adding document-based study features like automated quizzes and syllabus-based scheduling. The update also includes aggressive promotional pricing, offering U.S. college students one year of Google AI Pro for free.",
-            "link": "https://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools",
-            "timestamp": 1787166000000,
-            "date": "2026-08-19"
-        },
-        {
-            "title": "Star researcher Sanja Fidler raises over US$90M for world model startup - The Logic",
-            "summary_en": "Prominent AI researcher Sanja Fidler has secured over US$90 million in funding to launch a new startup focused on developing advanced world models. This significant capital injection underscores growing investor confidence in the next generation of generative AI architectures beyond traditional LLMs.",
-            "link": "https://thelogic.co/news/exclusive/veeda-ai-sanja-fidler-nvidia",
-            "timestamp": 1787151600000,
-            "date": "2026-08-19"
-        },
-        {
-            "title": "Synchrony expands AI strategy with OpenAI collaboration, names chief AI officer - Hartford Business Journal",
-            "summary_en": "Consumer finance firm Synchrony is deepening its AI integration through a new partnership with OpenAI and the appointment of Nimrod Barak as chief AI officer. The initiative aims to embed AI-driven financing and loyalty programs into shopping experiences while expanding internal staff training.",
-            "link": "https://hartfordbusiness.com/article/synchrony-expands-ai-strategy-with-openai-collaboration-names-chief-ai-officer",
-            "timestamp": 1787144423000,
-            "date": "2026-08-19"
         }
     ]
 }
