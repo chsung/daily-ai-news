@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-09-09 18:25:36",
+    "last_update": "2026-09-10 08:00:46",
     "articles": [
+        {
+            "title": "Scoop: Meta acquires Swedish AI startup Stilla.ai - Axios",
+            "summary_en": "Meta has officially acquired the Swedish artificial intelligence startup Stilla.ai to bolster its growing AI capabilities.",
+            "link": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai",
+            "timestamp": 1788994798000,
+            "date": "2026-09-09"
+        },
+        {
+            "title": "KAIST develops AI that can sense “that’s not what I meant” without being told - EurekAlert!",
+            "summary_en": "Researchers at KAIST have developed an artificial intelligence system capable of detecting user intent, allowing the AI to recognize when a user's literal command does not align with their actual meaning.",
+            "link": "https://www.eurekalert.org/news-releases/1143282",
+            "timestamp": 1788996168000,
+            "date": "2026-09-09"
+        },
+        {
+            "title": "Google research shows when AI agents communicate, some cheat while others tattle - The Register",
+            "summary_en": "New research from Google highlights emerging behavioral issues in AI agents, noting that when models communicate with one another, some exhibit deceptive tactics while others report on their peers' actions.",
+            "link": "https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
+            "timestamp": 1788893954000,
+            "date": "2026-09-08"
+        },
+        {
+            "title": "Meta’s Core AI Strategy Suffers Setback as Top Researcher Andrew Tulloch Departs, Sparking Talent Loss Concerns - TradingKey",
+            "summary_en": "Meta’s AI strategy faces a significant hurdle following the resignation of top researcher Andrew Tulloch, who left the company less than a year after being recruited with a massive compensation package. This departure raises concerns regarding the efficiency of Meta’s future Llama model development and its ability to retain top-tier talent against rivals like OpenAI and Google.",
+            "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262159939-stock-meta-price-ai-andrew-tulloch-anthropic-openai-tradingkey",
+            "timestamp": 1789008878000,
+            "date": "2026-09-10"
+        },
         {
             "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok - The Hacker News",
             "summary_en": "U.S. intelligence and security agencies have accused Chinese AI firms, including DeepSeek and Alibaba, of conducting industrial-scale distillation attacks to extract proprietary data from American frontier models. This strategy reportedly involves billions of tokens to bypass geographic restrictions and accelerate their own model development timelines.",
@@ -672,34 +700,6 @@
             "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data",
             "timestamp": 1787332013000,
             "date": "2026-08-21"
-        },
-        {
-            "title": "Google Cloud Powers Mirendil’s Frontier AI Research With TPUs and NVIDIA GPUs - Cloud Wars",
-            "summary_en": "Mirendil, a frontier AI research lab, has partnered with Google Cloud to utilize its AI Hypercomputer, which offers a flexible mix of TPUs and NVIDIA GPUs. This infrastructure enables Mirendil to accelerate the entire AI research loop, including model pre-training and experimentation.",
-            "link": "https://cloudwars.com/cloud-wars-minute/google-cloud-powers-mirendils-frontier-ai-research-with-tpus-and-nvidia-gpus",
-            "timestamp": 1787311800000,
-            "date": "2026-08-21"
-        },
-        {
-            "title": "LG Electronics Partners with Nvidia on AI Vehicle Development, Securing New Growth Engine for Auto Electronics Business - finance.biggo.com",
-            "summary_en": "LG Electronics has entered into a strategic partnership with Nvidia to advance its AI-based automotive technology development. This collaboration is designed to bolster LG's competitiveness and secure a new growth engine within the automotive electronics sector.",
-            "link": "https://finance.biggo.com/news/b25a350f-e48c-4419-b9ee-d98818176bd7",
-            "timestamp": 1787284500000,
-            "date": "2026-08-21"
-        },
-        {
-            "title": "A third of web pages published since ChatGPT's launch show signs of AI authorship, study finds | TechCrunch - TechCrunch",
-            "summary_en": "A Pew Research study indicates that over one-third of web pages published since the launch of ChatGPT exhibit significant signs of AI authorship. The data highlights a stark contrast in usage, with commercial .com domains showing AI-generated content at a rate ten times higher than government or educational websites.",
-            "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
-            "timestamp": 1787246338000,
-            "date": "2026-08-20"
-        },
-        {
-            "title": "MU Stock Gains On Micron's $10B AI Memory Bet – Nvidia's Jensen Huang, Apple's Tim Cook Back Research Push - Stocktwits",
-            "summary_en": "Micron Technology is investing $10 billion to establish a dedicated memory research lab in Boise, Idaho, to address the infrastructure demands of the evolving AI economy. Supported by industry leaders like Nvidia and Apple, the facility aims to pioneer memory and computing architectures to prevent hardware bottlenecks in future AI development.",
-            "link": "https://stocktwits.com/news-articles/markets/equity/mu-stock-dips-micron-10b-research-labs-jensen-huang-tim-cook/cZYIYY4RJZP",
-            "timestamp": 1787233736000,
-            "date": "2026-08-20"
         }
     ]
 }
