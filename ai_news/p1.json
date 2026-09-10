@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-10 08:00:46",
+    "last_update": "2026-09-10 18:14:45",
     "articles": [
+        {
+            "title": "Bad actors in China and Russia are already weaponizing Anthropic’s AI - Politico",
+            "summary_en": "Recent reports indicate that state-sponsored actors from China and Russia are actively attempting to weaponize Anthropic's AI models for malicious purposes.",
+            "link": "https://www.politico.com/news/2026/09/10/bad-actors-china-russia-weaponizing-anthropic-01070435",
+            "timestamp": 1789059600000,
+            "date": "2026-09-10"
+        },
+        {
+            "title": "Anthropic says scientists used its AI for research that could aid biological weapons development - New York Post",
+            "summary_en": "Anthropic identified instances where its Claude AI was used for research into gain-of-function virus work and pathogens with pandemic potential, leading the company to ban the associated accounts. While the research could have legitimate medical applications, the company flagged these cases due to the sensitive nature of the work and its potential dual-use for biological weapons development.",
+            "link": "https://nypost.com/2026/09/10/business/anthropic-says-scientists-used-its-ai-for-research-that-could-aid-biological-weapons-development",
+            "timestamp": 1789061760000,
+            "date": "2026-09-10"
+        },
         {
             "title": "Scoop: Meta acquires Swedish AI startup Stilla.ai - Axios",
             "summary_en": "Meta has officially acquired the Swedish artificial intelligence startup Stilla.ai to bolster its growing AI capabilities.",
@@ -685,20 +699,6 @@
             "summary_en": "New research from Nvidia suggests that for enterprise AI deployment, robust fine-tuning and oversight 'harnesses' are more critical for reliability than the raw power of foundation models. This finding encourages companies to prioritize deployment control mechanisms over simply waiting for more advanced model architectures.",
             "link": "https://www.techbuzz.ai/articles/nvidia-research-ai-agent-control-beats-raw-model-power",
             "timestamp": 1787343900000,
-            "date": "2026-08-21"
-        },
-        {
-            "title": "Nvidia Pays $6 Billion to License Poolside AI Model-Development Software | PYMNTS.com - PYMNTS.com",
-            "summary_en": "Nvidia is investing $1 billion into Poolside at a $12 billion valuation and paying $6 billion to license its AI model-development software. This deal allows Poolside to scale its compute capabilities while enabling Nvidia to further expand its ecosystem of AI technology and talent acquisitions.",
-            "link": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-pays-6-billion-to-license-poolside-ai-model-development-software",
-            "timestamp": 1787337756000,
-            "date": "2026-08-21"
-        },
-        {
-            "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data - Google Research",
-            "summary_en": "Google Research has developed the Biomarker Discovery Framework, a multi-agent AI system that automates the analysis of wearable sensor data to identify clinically meaningful physiological biomarkers. Tested on over 9,000 participants, the system accelerates discovery by combining iterative hypothesis generation with rigorous statistical validation to surface novel insights for mental health and metabolic conditions.",
-            "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data",
-            "timestamp": 1787332013000,
             "date": "2026-08-21"
         }
     ]
