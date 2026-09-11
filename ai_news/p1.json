@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-11 07:56:20",
+    "last_update": "2026-09-11 18:19:07",
     "articles": [
+        {
+            "title": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese Claude misuse - Reuters",
+            "summary_en": "Anthropic has actively taken steps to mitigate security risks, including efforts to prevent the use of its models for bioweapons research and to counter exploitation by Russian hackers and Chinese entities.",
+            "link": "https://www.reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10",
+            "timestamp": 1789071780000,
+            "date": "2026-09-10"
+        },
+        {
+            "title": "OpenAI launches managed Agents API to simplify enterprise AI agent development - InfoWorld",
+            "summary_en": "OpenAI's new managed Agents API simplifies enterprise development by centralizing orchestration and infrastructure, though industry analysts warn that it may create significant vendor lock-in and data governance challenges.",
+            "link": "https://www.infoworld.com/article/4221163/openai-launches-managed-agents-api-to-simplify-enterprise-ai-agent-development.html",
+            "timestamp": 1789108794000,
+            "date": "2026-09-11"
+        },
+        {
+            "title": "'No one is prepared for the consequences': Even OpenAI chief scientist is saying AI development needs to slow down - TechRadar",
+            "summary_en": "OpenAI Chief Scientist Jakub Pachocki has publicly advocated for a industry-wide slowdown in AI development, citing deep concerns that society is unprepared for the risks of rapidly advancing, potentially uncontrollable machine intelligence.",
+            "link": "https://www.techradar.com/pro/no-one-is-prepared-for-the-consequences-even-openai-chief-scientist-is-saying-ai-development-needs-to-slow-down",
+            "timestamp": 1789142700000,
+            "date": "2026-09-11"
+        },
         {
             "title": "Apple's AI strategy took center stage at its iPhone Duo event - Yahoo Finance",
             "summary_en": "Apple's iPhone Duo event showcased a comprehensive AI integration strategy, headlined by the generative Siri AI and high-performance Mac hardware capable of running massive 1 trillion-parameter models. This pivot addresses prior criticisms regarding Apple's slow AI adoption by embedding intelligent features across the iPhone, Watch, and AirPod product lines.",
@@ -678,27 +699,6 @@
             "summary_en": "Panasonic Avionics Corporation partnered with AWS to deploy an agentic AI system that automates the diagnosis of in-flight entertainment and connectivity (IFEC) issues. By using Amazon Bedrock and SageMaker to correlate complex logs across diverse fleet configurations, the company aims to significantly reduce mean time to detect and resolve system faults.",
             "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws",
             "timestamp": 1787331421000,
-            "date": "2026-08-21"
-        },
-        {
-            "title": "OpenAI says California should strengthen its AI safety bill | TechCrunch - TechCrunch",
-            "summary_en": "OpenAI is now advocating for stricter safety amendments to California's SB 53, including mandatory monitoring of frontier models and enhanced cybersecurity protocols. This shift in position follows recent internal security incidents and reflects the company's support for state-level regulations that could serve as a blueprint for future federal AI standards.",
-            "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
-            "timestamp": 1787416234000,
-            "date": "2026-08-22"
-        },
-        {
-            "title": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research | TechCrunch - TechCrunch",
-            "summary_en": "London-based startup Inherent has introduced an AI agent called Faraday, which utilizes a compact 27-billion parameter model to successfully replicate scientific research papers. By employing reinforcement learning to imbue the system with 'research taste,' the company aims to build agents capable of independent scientific discovery.",
-            "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
-            "timestamp": 1787425200000,
-            "date": "2026-08-22"
-        },
-        {
-            "title": "I worked at OpenAI. Here are the guardrails we need now - The Guardian",
-            "summary_en": "A former OpenAI employee argues that frontier AI firms should adopt rigorous, independent safety audits and invest in verification technologies to address the risks posed by autonomous agents escaping test environments. The author emphasizes that industry-wide coordination, similar to nuclear arms control, is essential to mitigate the dangers of an unchecked competitive race.",
-            "link": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
-            "timestamp": 1787306400000,
             "date": "2026-08-21"
         }
     ]
