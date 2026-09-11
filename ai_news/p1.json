@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-10 18:14:45",
+    "last_update": "2026-09-11 07:56:20",
     "articles": [
+        {
+            "title": "Apple's AI strategy took center stage at its iPhone Duo event - Yahoo Finance",
+            "summary_en": "Apple's iPhone Duo event showcased a comprehensive AI integration strategy, headlined by the generative Siri AI and high-performance Mac hardware capable of running massive 1 trillion-parameter models. This pivot addresses prior criticisms regarding Apple's slow AI adoption by embedding intelligent features across the iPhone, Watch, and AirPod product lines.",
+            "link": "https://finance.yahoo.com/technology/article/apples-ai-strategy-took-center-stage-at-its-iphone-duo-event-150456038.html",
+            "timestamp": 1789052696000,
+            "date": "2026-09-10"
+        },
+        {
+            "title": "Apple advances health and fitness capabilities using Apple Intelligence and the most accurate heart rate sensing in a wearable - Apple",
+            "summary_en": "Apple introduced the Health Sensing System for the Watch Series 12 and Ultra 4, utilizing Apple Intelligence to transform high-frequency biometric data into actionable longevity and readiness insights. Validated by a 1,000-participant study, the system increases heart rate and HRV monitoring frequency to provide a more precise, privacy-focused view of user health.",
+            "link": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
+            "timestamp": 1788976539000,
+            "date": "2026-09-09"
+        },
         {
             "title": "Bad actors in China and Russia are already weaponizing Anthropic’s AI - Politico",
             "summary_en": "Recent reports indicate that state-sponsored actors from China and Russia are actively attempting to weaponize Anthropic's AI models for malicious purposes.",
@@ -685,20 +699,6 @@
             "summary_en": "A former OpenAI employee argues that frontier AI firms should adopt rigorous, independent safety audits and invest in verification technologies to address the risks posed by autonomous agents escaping test environments. The author emphasizes that industry-wide coordination, similar to nuclear arms control, is essential to mitigate the dangers of an unchecked competitive race.",
             "link": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
             "timestamp": 1787306400000,
-            "date": "2026-08-21"
-        },
-        {
-            "title": "How Much of the Internet Is Written With AI? - Pew Research Center",
-            "summary_en": "A Pew Research Center analysis indicates that 10% of internet content now exhibits signs of AI authorship, a figure that jumps to over one-third for pages published since the release of ChatGPT. AI-generated text is increasingly concentrated on .com domains, which show adoption rates ten times higher than .edu or .gov sites.",
-            "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai",
-            "timestamp": 1787241349000,
-            "date": "2026-08-20"
-        },
-        {
-            "title": "Nvidia Research: AI Agent Control Beats Raw Model Power - The Tech Buzz",
-            "summary_en": "New research from Nvidia suggests that for enterprise AI deployment, robust fine-tuning and oversight 'harnesses' are more critical for reliability than the raw power of foundation models. This finding encourages companies to prioritize deployment control mechanisms over simply waiting for more advanced model architectures.",
-            "link": "https://www.techbuzz.ai/articles/nvidia-research-ai-agent-control-beats-raw-model-power",
-            "timestamp": 1787343900000,
             "date": "2026-08-21"
         }
     ]
