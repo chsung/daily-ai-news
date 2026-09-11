@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-10 18:47:02",
+    "last_update": "2026-09-11 18:47:47",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1789120800000,
+            "date": "2026-09-11",
+            "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+            "summary_kr": "OpenAI는 ChatGPT의 폭발적인 사용자 증가에 대응하기 위해 자사의 온라인 스토리지 플랫폼 'Habitat'을 단순 라이브러리에서 초당 7천만 건 이상의 요청을 처리하는 고성능 분산 서비스로 진화시켰습니다.",
+            "summary_en": "OpenAI scaled its online storage platform, 'Habitat,' from a simple library into a high-performance distributed system capable of handling over 70 million requests per second to support the massive growth of ChatGPT.",
+            "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788998400000,
+            "date": "2026-09-10",
+            "title": "Introducing the Agents API",
+            "summary_kr": "OpenAI는 개발자가 복잡한 에이전트 구축 및 운영 인프라를 직접 구축할 필요 없이, 즉시 활용 가능한 관리형 환경과 최적화된 도구들을 제공하는 'Agents API' 공개 베타를 출시했습니다.",
+            "summary_en": "OpenAI has launched the public beta of its 'Agents API,' providing developers with a managed infrastructure and optimized harness to build, deploy, and scale autonomous agents without managing the underlying complexities.",
+            "link": "https://openai.com/index/introducing-the-agents-api"
+        },
         {
             "company": "Google",
             "timestamp": 1789063200000,
@@ -882,24 +900,6 @@
             "summary_kr": "앤스로픽이 발표한 '모델 하드웨어 표준(MHS)'은 AI 에이전트가 다양한 실험 및 제조 장비를 통합 제어할 수 있게 돕는 표준화된 인터페이스로, 복잡한 하드웨어 연동 과정을 획기적으로 단축합니다.",
             "summary_en": "Anthropic's Model Hardware Standard (MHS) provides a unified interface for AI agents to seamlessly operate and integrate diverse lab and manufacturing equipment, significantly reducing setup time for autonomous workflows.",
             "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787788800000,
-            "date": "2026-08-27",
-            "title": "Expanding our support for scientists",
-            "summary_kr": "앤스로픽은 과학자들을 위해 Claude 구독 할인 및 무료 지원을 확대하고, AI for Science 프로그램을 통해 연구 지원 범위를 전 과학 분야로 넓혀 과학적 발견을 가속화할 계획입니다.",
-            "summary_en": "Anthropic is accelerating scientific discovery by expanding access to Claude subscriptions and broadening its 'AI for Science' grant program to support researchers across all scientific disciplines.",
-            "link": "https://www.anthropic.com/news/expanding-support-for-scientists"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787785440000,
-            "date": "2026-08-26",
-            "title": "Microsoft and HUMAIN announce long-term strategic collaboration to enable AI transformation in Saudi Arabia and beyond - Source EMEA",
-            "summary_kr": "마이크로소프트와 HUMAIN이 전략적 파트너십을 맺고, HUMAIN의 아랍어 특화 모델 'ALLAM'을 마이크로소프트 AI 생태계에 통합하며 사우디를 비롯한 글로벌 기업의 AI 전환을 가속화합니다.",
-            "summary_en": "Microsoft and HUMAIN have entered a strategic partnership to integrate HUMAIN's 'ALLAM' Arabic language models into Microsoft's AI ecosystem, accelerating AI transformation for enterprises globally through joint engineering support.",
-            "link": "https://news.microsoft.com/source/emea/2026/08/microsoft-and-humain-announce-long-term-strategic-collaboration-to-enable-ai-transformation-in-saudi-arabia-and-beyond-2"
         }
     ]
 }
