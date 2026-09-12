@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-11 18:47:47",
+    "last_update": "2026-09-12 17:55:42",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1789344000000,
+            "date": "2026-09-14",
+            "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+            "summary_kr": "퍼플렉시티는 GPT-6 Astra를 도입하여 코드 작성, 시스템 모니터링 및 엔드투엔드 테스트를 자동화함으로써 운영 효율성과 신뢰성을 크게 향상했습니다.",
+            "summary_en": "Perplexity has integrated GPT-6 Astra to automate code generation, system monitoring, and end-to-end testing, significantly enhancing operational efficiency and reliability.",
+            "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789142400000,
+            "date": "2026-09-11",
+            "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+            "summary_kr": "Cognition은 AI 소프트웨어 엔지니어 '데빈(Devin)'에 GPT-6 Astra를 도입하여 코드 테스트와 검증 과정을 자동화함으로써, 엔지니어의 수동 검토 부담을 줄이고 개발 효율성을 극대화하고 있습니다.",
+            "summary_en": "Cognition is integrating GPT-6 Astra into its AI software engineer 'Devin' to automate code testing and verification, significantly reducing manual review efforts and accelerating the deployment process.",
+            "link": "https://openai.com/index/cognition-devin-testing-with-astra"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1789120800000,
@@ -882,24 +900,6 @@
             "summary_kr": "보코니 대학의 연구 결과, ChatGPT는 학생 과제의 품질과 논리적 완성도를 높이고, 인과 추론 훈련은 독창적인 아이디어를 끌어내는 데 기여하여 두 요소가 상호 보완적인 효과를 내는 것으로 나타났습니다.",
             "summary_en": "A study at Bocconi University demonstrates that ChatGPT enhances the quality and coherence of student work, while causal reasoning training fosters greater originality, proving that AI and critical thinking are complementary educational tools.",
             "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787799600000,
-            "date": "2026-08-27",
-            "title": "Expanding OpenAI’s presence in Brazil",
-            "summary_kr": "OpenAI가 브라질에 상파울루 지사를 설립하고 본격적인 상업 운영을 시작하며, 현지 기업 및 기관과의 협력을 통해 AI 기반의 경제 성장과 사회적 가치 창출을 가속화합니다.",
-            "summary_en": "OpenAI has officially launched commercial operations in Brazil with a new office in São Paulo, aiming to drive economic and social progress through strategic partnerships with local businesses, developers, and institutions.",
-            "link": "https://openai.com/index/expanding-our-presence-in-brazil"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787788800000,
-            "date": "2026-08-27",
-            "title": "Previewing the Model Hardware Standard",
-            "summary_kr": "앤스로픽이 발표한 '모델 하드웨어 표준(MHS)'은 AI 에이전트가 다양한 실험 및 제조 장비를 통합 제어할 수 있게 돕는 표준화된 인터페이스로, 복잡한 하드웨어 연동 과정을 획기적으로 단축합니다.",
-            "summary_en": "Anthropic's Model Hardware Standard (MHS) provides a unified interface for AI agents to seamlessly operate and integrate diverse lab and manufacturing equipment, significantly reducing setup time for autonomous workflows.",
-            "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
         }
     ]
 }

@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-11 18:47:47",
+    "last_update": "2026-09-12 17:55:42",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1786320000000,
+            "date": "2026-08-10",
+            "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+            "summary_kr": "버진 애틀랜틱은 'ChatGPT Work'를 도입하여 복잡한 고객 여정 데이터를 통합하고 분석 과정을 자동화함으로써, 전략 수립부터 제품 기획까지의 의사결정 속도를 획기적으로 개선했습니다.",
+            "summary_en": "Virgin Atlantic has integrated 'ChatGPT Work' to unify complex customer journey data and automate research, significantly accelerating decision-making from strategy development to product deployment.",
+            "link": "https://openai.com/index/virgin-atlantic/chatgpt-work"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1786381200000,
+            "date": "2026-08-10",
+            "title": "What building an AI-native finance function taught me",
+            "summary_kr": "AI 네이티브 재무 부서는 실시간 데이터와 자동화를 통해 정적인 업무 환경을 탈피하고, 의사결정을 지원하는 전략적 파트너로 진화해야 합니다. 이를 위해 리더는 상향식 실험과 하향식 전략을 결합하여 실무자가 직접 AI 도구를 개발하도록 장려해야 합니다.",
+            "summary_en": "Building an AI-native finance function requires moving beyond manual workflows toward real-time insights and automated forecasting to act as a strategic business partner. CFOs should foster this transformation by combining top-down strategy with bottom-up experimentation, empowering teams to build AI tools that address critical business decisions.",
+            "link": "https://openai.com/index/building-an-ai-native-finance-function"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1786370400000,
@@ -882,24 +900,6 @@
             "summary_kr": "OpenAI는 조지아주 에핑엄 카운티에 3.2기가와트 규모의 데이터센터 '프로젝트 카멜리아'를 구축하며, 지역사회 전기료 인상 방지와 8천만 달러 규모의 혜택 및 교육 지원을 약속했습니다.",
             "summary_en": "OpenAI is launching 'Project Camellia' in Effingham County, Georgia, committing to a 3.2-gigawatt data center infrastructure while ensuring no residential rate hikes, providing $80 million in community benefits, and supporting local education.",
             "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1784722124000,
-            "date": "2026-07-22",
-            "title": "Powering America's Genesis Mission: Microsoft's commitment to scientific discovery - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트가 미국 에너지부의 '제네시스 미션'에 6천만 달러를 투자하고 전담 조직 SPARK를 신설하여, AI 기반의 과학 연구 가속화와 국가적 혁신 생산성 향상을 지원합니다.",
-            "summary_en": "Microsoft is investing $60 million and launching the SPARK hub to support the U.S. Department of Energy’s 'Genesis Mission,' aiming to accelerate AI-driven scientific discovery and double national research productivity.",
-            "link": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1784721600000,
-            "date": "2026-07-22",
-            "title": "Advancing the next era of national science",
-            "summary_kr": "OpenAI는 미국 에너지부의 '제네시스 미션'과 협력하여 최첨단 AI 모델을 국가 과학 연구 인프라에 통합함으로써 연구 생산성을 극대화하고 과학적 난제 해결을 가속화하고자 합니다.",
-            "summary_en": "OpenAI is partnering with the U.S. Department of Energy’s Genesis Mission to integrate frontier AI models into national scientific infrastructure, aiming to accelerate innovation and double research productivity.",
-            "link": "https://openai.com/index/advancing-the-next-era-of-national-science"
         }
     ]
 }
