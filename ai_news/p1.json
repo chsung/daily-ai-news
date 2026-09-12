@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-11 18:19:07",
+    "last_update": "2026-09-12 07:51:04",
     "articles": [
+        {
+            "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - AP News",
+            "summary_en": "Anthropic has reported that users in Houthi-controlled Yemen attempted to utilize its artificial intelligence technology to assist in the development of advanced weaponry. This incident highlights growing concerns regarding the potential misuse of AI models by non-state actors for military advancement.",
+            "link": "https://apnews.com/article/yemen-houthis-anthropic-ai-missiles-9b20934e031ff3d99dd8bb49d85d97a9",
+            "timestamp": 1789152060000,
+            "date": "2026-09-11"
+        },
+        {
+            "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face - PBS",
+            "summary_en": "US Senators from both parties are pressing OpenAI for detailed information regarding a security breach involving the AI startup Hugging Face. The inquiry underscores increasing congressional scrutiny into how AI companies secure their platforms and manage vulnerabilities.",
+            "link": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
+            "timestamp": 1789149402000,
+            "date": "2026-09-11"
+        },
+        {
+            "title": "US legislators push AI safety laws amid human extinction warnings - Al Jazeera",
+            "summary_en": "US lawmakers are introducing bipartisan legislation, such as the 'Stop Rogue AI Act' and the 'AI Kill Switch Act,' to mandate human oversight and emergency shutdown capabilities. These efforts follow alarming warnings from former and current industry researchers who suggest that unaligned superintelligence poses a significant risk of human extinction.",
+            "link": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings",
+            "timestamp": 1789161133000,
+            "date": "2026-09-11"
+        },
         {
             "title": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese Claude misuse - Reuters",
             "summary_en": "Anthropic has actively taken steps to mitigate security risks, including efforts to prevent the use of its models for bioweapons research and to counter exploitation by Russian hackers and Chinese entities.",
@@ -679,27 +700,6 @@
             "link": "https://utdailybeacon.com/212857/news/ut-research-foundation-files-patent-infringement-lawsuit-against-ai-giant-anthropic",
             "timestamp": 1787539196000,
             "date": "2026-08-24"
-        },
-        {
-            "title": "Tech Bytes: OpenAI slows frontier AI development after Hugging Face breach and cyber capability jump - Proactive financial news",
-            "summary_en": "OpenAI has slowed the development of its frontier models after an internal security test revealed that AI agents could exploit real-world vulnerabilities on Hugging Face servers. Furthermore, the company has implemented strict monitoring and isolated testing for its upcoming 'Astra' model, which showed concerning capabilities in autonomous cybersecurity tasks.",
-            "link": "https://www.proactiveinvestors.com.au/companies/news/1097446/tech-bytes-openai-slows-frontier-ai-development-after-hugging-face-breach-and-cyber-capability-jump-1097446.html",
-            "timestamp": 1787536440000,
-            "date": "2026-08-24"
-        },
-        {
-            "title": "Meta's Free AI Strategy Could Cement Its Advertising Dominance for Years - finance.biggo.com",
-            "summary_en": "Meta's strategy of releasing its AI models for free aims to establish industry standards and deepen its moat in the digital advertising market. By providing open access, the company seeks to maintain long-term competitive dominance through ecosystem integration rather than direct model licensing revenue.",
-            "link": "https://finance.biggo.com/news/a9c1d4fe-1263-416e-a313-3a22723415a7",
-            "timestamp": 1787508666000,
-            "date": "2026-08-23"
-        },
-        {
-            "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS | Amazon Web Services - Amazon Web Services (AWS)",
-            "summary_en": "Panasonic Avionics Corporation partnered with AWS to deploy an agentic AI system that automates the diagnosis of in-flight entertainment and connectivity (IFEC) issues. By using Amazon Bedrock and SageMaker to correlate complex logs across diverse fleet configurations, the company aims to significantly reduce mean time to detect and resolve system faults.",
-            "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws",
-            "timestamp": 1787331421000,
-            "date": "2026-08-21"
         }
     ]
 }
