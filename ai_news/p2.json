@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-12 07:51:04",
+    "last_update": "2026-09-12 17:44:10",
     "articles": [
+        {
+            "title": "Google DeepMind to conduct AI research on 'EVE Online,' utilizing the virtual universe, which has been around for over 20 years, as a 'mirror reflecting intelligence.' - GIGAZINE",
+            "summary_en": "Google DeepMind is conducting research using the virtual universe of the long-running game 'EVE Online' as a controlled, sandbox environment to observe and analyze the evolution of artificial intelligence.",
+            "link": "https://gigazine.net/gsc_news/en/20260824-google-deepmind-eve-online-ai",
+            "timestamp": 1787555700000,
+            "date": "2026-08-24"
+        },
+        {
+            "title": "Gemini 4 Could Feature a 10-Million-Token Context Window - Geeky Gadgets",
+            "summary_en": "Google has officially commenced the pre-training phase for Gemini 4, with industry speculation suggesting the model could feature a massive 10-million-token context window. While technical specifics remain undisclosed, the project aims to further integrate multimodal capabilities across Google's Omni product family.",
+            "link": "https://www.geeky-gadgets.com/google-gemini-4-ai-model",
+            "timestamp": 1787577469000,
+            "date": "2026-08-24"
+        },
+        {
+            "title": "UT Research Foundation files patent infringement lawsuit against AI giant Anthropic - The Daily Beacon",
+            "summary_en": "The University of Tennessee Research Foundation has filed a patent infringement lawsuit against Anthropic, alleging the unauthorized use of neural network technologies patented by university faculty in 2014. This marks the first patent-related legal challenge against the AI developer, which is already under scrutiny for its training data practices and cybersecurity standards.",
+            "link": "https://utdailybeacon.com/212857/news/ut-research-foundation-files-patent-infringement-lawsuit-against-ai-giant-anthropic",
+            "timestamp": 1787539196000,
+            "date": "2026-08-24"
+        },
         {
             "title": "Tech Bytes: OpenAI slows frontier AI development after Hugging Face breach and cyber capability jump - Proactive financial news",
             "summary_en": "OpenAI has slowed the development of its frontier models after an internal security test revealed that AI agents could exploit real-world vulnerabilities on Hugging Face servers. Furthermore, the company has implemented strict monitoring and isolated testing for its upcoming 'Astra' model, which showed concerning capabilities in autonomous cybersecurity tasks.",
@@ -679,27 +700,6 @@
             "link": "https://www.techzine.eu/news/security/143397/ai-agents-exploit-each-other-in-an-attack-on-googles-development-platform",
             "timestamp": 1785836798000,
             "date": "2026-08-04"
-        },
-        {
-            "title": "NVIDIA’s Alpamayo 2 Super Opens Robotaxi Development to Commercial Use - Unite.AI",
-            "summary_en": "NVIDIA has released its 34-billion-parameter Alpamayo 2 Super reasoning model under an open commercial license to accelerate autonomous vehicle training for developers and automakers. Designed as a cloud-based 'teacher model,' it utilizes reinforcement learning to handle complex, rare traffic events while generating explainable data to support safety standards like ISO/PAS 8800.",
-            "link": "https://www.unite.ai/nvidias-alpamayo-2-super-opens-robotaxi-development-to-commercial-use",
-            "timestamp": 1785858535000,
-            "date": "2026-08-04"
-        },
-        {
-            "title": "White House to host AI companies Tuesday to review new model-testing framework - CNBC",
-            "summary_en": "The White House is convening top AI firms to review a new voluntary cybersecurity framework aimed at assessing the risks of frontier models. This initiative allows government agencies, including the NSA, to evaluate high-level models for potential vulnerabilities or cyberattack capabilities before their release.",
-            "link": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
-            "timestamp": 1785773902000,
-            "date": "2026-08-03"
-        },
-        {
-            "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up - CNBC",
-            "summary_en": "Alibaba has unveiled Qwen3.8-Max, a 2.4-trillion parameter model capable of autonomous long-term coding and processing million-token context windows. The announcement, which highlights performance benchmarks comparable to leading global models, triggered a significant rally in the company's stock price.",
-            "link": "https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html",
-            "timestamp": 1785753275000,
-            "date": "2026-08-03"
         }
     ]
 }

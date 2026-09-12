@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-12 07:51:04",
+    "last_update": "2026-09-12 17:44:10",
     "articles": [
+        {
+            "title": "Anthropic CEO Calls For Slowing Down AI Development, Warns Of “Swarm” Taking Over Internet In 6-12 Months - Deadline",
+            "summary_en": "Anthropic CEO Dario Amodei is advocating for a slower, more deliberate pace in AI development to allow safety measures to catch up with rapidly increasing capabilities. He warned that without proper guardrails, AI systems could potentially develop the ability to conduct large-scale cyberattacks within the next 6 to 12 months.",
+            "link": "https://deadline.com/2026/09/anthropic-ceo-ai-slow-down-1237100040",
+            "timestamp": 1789231380000,
+            "date": "2026-09-12"
+        },
+        {
+            "title": "Anthropic says it disrupted scientists using Claude AI for possible biological weapons development - CBS News",
+            "summary_en": "Anthropic reported that it banned users who utilized its Claude AI models to facilitate activities ranging from biological weapon research to state-sponsored propaganda and surveillance. The company emphasized that while these models have dual-use capabilities, it is actively incorporating investigative findings from these incidents into its frontier model safeguards.",
+            "link": "https://www.cbsnews.com/news/anthropic-ai-claude-biological-weapons-development",
+            "timestamp": 1789069740000,
+            "date": "2026-09-10"
+        },
+        {
+            "title": "UCLA Computer Scientist Saadia Gabriel Receives Amazon Research Award to Advance AI for African Languages - UCLA Samueli School of Engineering",
+            "summary_en": "UCLA researcher Saadia Gabriel has received $250,000 in Amazon compute credits to address the critical underrepresentation of African languages in AI training data. Her team aims to build datasets covering five major linguistic groups, ultimately gathering 15,000 hours of speech data to improve AI accessibility for 1.5 billion people.",
+            "link": "https://samueli.ucla.edu/ucla-computer-scientist-saadia-gabriel-receives-amazon-research-award-to-advance-ai-for-african-languages",
+            "timestamp": 1789093582000,
+            "date": "2026-09-11"
+        },
         {
             "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - AP News",
             "summary_en": "Anthropic has reported that users in Houthi-controlled Yemen attempted to utilize its artificial intelligence technology to assist in the development of advanced weaponry. This incident highlights growing concerns regarding the potential misuse of AI models by non-state actors for military advancement.",
@@ -678,27 +699,6 @@
             "summary_en": "Former Google AI chief Jeff Dean has launched 'Discovery Loop' to develop autonomous AI scientists capable of executing research and theories without human intervention. This shift toward 'unmanned research' is part of a broader global trend, with major firms and governments aggressively pursuing AI-driven breakthroughs in scientific discovery.",
             "link": "https://finance.biggo.com/news/52241352-1d54-4270-a251-8b35477931e8",
             "timestamp": 1787559960000,
-            "date": "2026-08-24"
-        },
-        {
-            "title": "Google DeepMind to conduct AI research on 'EVE Online,' utilizing the virtual universe, which has been around for over 20 years, as a 'mirror reflecting intelligence.' - GIGAZINE",
-            "summary_en": "Google DeepMind is conducting research using the virtual universe of the long-running game 'EVE Online' as a controlled, sandbox environment to observe and analyze the evolution of artificial intelligence.",
-            "link": "https://gigazine.net/gsc_news/en/20260824-google-deepmind-eve-online-ai",
-            "timestamp": 1787555700000,
-            "date": "2026-08-24"
-        },
-        {
-            "title": "Gemini 4 Could Feature a 10-Million-Token Context Window - Geeky Gadgets",
-            "summary_en": "Google has officially commenced the pre-training phase for Gemini 4, with industry speculation suggesting the model could feature a massive 10-million-token context window. While technical specifics remain undisclosed, the project aims to further integrate multimodal capabilities across Google's Omni product family.",
-            "link": "https://www.geeky-gadgets.com/google-gemini-4-ai-model",
-            "timestamp": 1787577469000,
-            "date": "2026-08-24"
-        },
-        {
-            "title": "UT Research Foundation files patent infringement lawsuit against AI giant Anthropic - The Daily Beacon",
-            "summary_en": "The University of Tennessee Research Foundation has filed a patent infringement lawsuit against Anthropic, alleging the unauthorized use of neural network technologies patented by university faculty in 2014. This marks the first patent-related legal challenge against the AI developer, which is already under scrutiny for its training data practices and cybersecurity standards.",
-            "link": "https://utdailybeacon.com/212857/news/ut-research-foundation-files-patent-infringement-lawsuit-against-ai-giant-anthropic",
-            "timestamp": 1787539196000,
             "date": "2026-08-24"
         }
     ]
