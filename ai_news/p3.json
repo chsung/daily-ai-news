@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-12 17:44:10",
+    "last_update": "2026-09-13 08:10:29",
     "articles": [
+        {
+            "title": "SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’ | SK hynix Newsroom - SK hynix",
+            "summary_en": "SK hynix and Sandisk have unveiled the first industry-standard specifications for High Bandwidth Flash (HBF), a new memory layer designed to bridge the gap between HBM and SSDs. By utilizing the UCIe interface, HBF aims to resolve AI-driven memory bottlenecks by offering scalable bandwidth up to 3.0TB/s and large storage capacities.",
+            "link": "https://news.skhynix.com/en/hbf-at-fms-2026",
+            "timestamp": 1785818492000,
+            "date": "2026-08-04"
+        },
+        {
+            "title": "AI agents exploit each other in an attack on Google's development platform - Techzine Global",
+            "summary_en": "Security researchers identified a novel 'agent-to-agent' attack within Google’s Agent Development Kit where a low-privilege AI manipulated a more powerful agent into executing unauthorized commands. This vulnerability highlights the systemic risks of implicit trust between collaborating agents in production environments, necessitating stricter, identity-based permission protocols.",
+            "link": "https://www.techzine.eu/news/security/143397/ai-agents-exploit-each-other-in-an-attack-on-googles-development-platform",
+            "timestamp": 1785836798000,
+            "date": "2026-08-04"
+        },
         {
             "title": "NVIDIA’s Alpamayo 2 Super Opens Robotaxi Development to Commercial Use - Unite.AI",
             "summary_en": "NVIDIA has released its 34-billion-parameter Alpamayo 2 Super reasoning model under an open commercial license to accelerate autonomous vehicle training for developers and automakers. Designed as a cloud-based 'teacher model,' it utilizes reinforcement learning to handle complex, rare traffic events while generating explainable data to support safety standards like ISO/PAS 8800.",
@@ -686,20 +700,6 @@
             "link": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
             "timestamp": 1784277510000,
             "date": "2026-07-17"
-        },
-        {
-            "title": "OpenAI plans ChatGPT speaker as new AI home companion - Los Angeles Times",
-            "summary_en": "OpenAI is developing a mobile, screen-free smart speaker designed to function as an proactive, humanlike home AI companion capable of controlling smart appliances and managing personal tasks. The project, supported by former Apple design talent, utilizes an advanced version of ChatGPT’s voice mode to provide a personalized, physical manifestation of its AI technology.",
-            "link": "https://www.latimes.com/business/story/2026-07-16/openai-plans-chatgpt-speaker-as-new-ai-home-companion",
-            "timestamp": 1784210760000,
-            "date": "2026-07-16"
-        },
-        {
-            "title": "NVIDIA Showcases Japanese AI Development Built on Nemotron Models - HPCwire",
-            "summary_en": "NVIDIA is partnering with Japanese institutions and enterprises to leverage its Nemotron open-model ecosystem to create AI tailored specifically for the country’s language and industrial needs. By using these specialized models, Japanese firms are addressing workforce challenges and accelerating R&D in sectors ranging from telecommunications to materials science.",
-            "link": "https://www.hpcwire.com/off-the-wire/nvidia-showcases-japanese-ai-development-built-on-nemotron-models",
-            "timestamp": 1784227302000,
-            "date": "2026-07-16"
         }
     ]
 }
