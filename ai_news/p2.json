@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-13 08:10:29",
+    "last_update": "2026-09-13 18:01:56",
     "articles": [
+        {
+            "title": "Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds \"How a Place Is Used\" to Text-Based POI Embeddings - MarkTechPost",
+            "summary_en": "Google Research and USC introduced the ME-POIs framework, which improves location modeling by integrating human mobility data into text-based place embeddings. By capturing behavioral context like dwell time, the model significantly outperformed standard Gemini embeddings in tasks such as visit intent and busyness prediction.",
+            "link": "https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings",
+            "timestamp": 1787579819000,
+            "date": "2026-08-24"
+        },
+        {
+            "title": "OpenAI is building AI agents for everything. Will everyone use them? | TechCrunch - TechCrunch",
+            "summary_en": "OpenAI is scaling its 'ChatGPT Work' platform to enable non-engineers to utilize autonomous AI agents for complex, multi-step professional tasks. By transitioning from code-centric tools to general-purpose workflows, the company aims to move beyond software development and capture a broader enterprise market.",
+            "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+            "timestamp": 1787583600000,
+            "date": "2026-08-24"
+        },
         {
             "title": "Nvidia reportedly weighs Perplexity investment as AI strategy expands beyond chips - digitimes",
             "summary_en": "Nvidia is in discussions to invest in the AI search startup Perplexity as part of a funding round that would push the company's valuation past $30 billion. This potential move highlights Nvidia's strategy to broaden its influence across the AI ecosystem beyond its core chip manufacturing business.",
@@ -686,20 +700,6 @@
             "link": "https://www.infoworld.com/article/4204961/awss-kiro-crew-aims-to-turn-ai-coding-agents-into-autonomous-engineering-teams.html",
             "timestamp": 1785863016000,
             "date": "2026-08-04"
-        },
-        {
-            "title": "White House will exempt ‘open’ AI systems from security review - The Washington Post",
-            "summary_en": "The White House is moving to exempt 'open' AI systems from mandatory security reviews to maintain U.S. competitiveness against international rivals like China. This policy focuses exclusively on 'closed' models developed by firms such as OpenAI, Anthropic, and Google, which remain under stricter oversight.",
-            "link": "https://www.washingtonpost.com/technology/2026/08/04/white-house-will-exempt-open-ai-systems-security-review",
-            "timestamp": 1785906431000,
-            "date": "2026-08-05"
-        },
-        {
-            "title": "Trump admin to review 'closed' AI models before release: reports - The Standard (HK)",
-            "summary_en": "The Trump administration has finalized a security review process for 'closed' AI models, requiring major developers to undergo evaluation before public release. This initiative aims to address safety concerns, such as unauthorized model access, while balancing the need to prevent domestic firms from falling behind in the global AI race.",
-            "link": "https://www.thestandard.com.hk/world/article/339090/Trump-admin-to-review-closed-AI-models-before-release-reports",
-            "timestamp": 1785908130000,
-            "date": "2026-08-05"
         }
     ]
 }
