@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-09-12 17:55:42",
+    "last_update": "2026-09-14 19:59:03",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1789411107000,
+            "date": "2026-09-14",
+            "title": "AI in pharma: Accelerating development with Microsoft | The Microsoft Cloud Blog",
+            "summary_kr": "제약 업계는 단순한 생산성 향상을 넘어 데이터 거버넌스와 AI를 가치 사슬 전반에 내재화함으로써 신약 개발 과정을 가속화하고 의사결정의 효율성을 극대화하는 단계로 진입했습니다.",
+            "summary_en": "The pharmaceutical industry is moving beyond productivity gains toward embedding AI and robust data governance across the entire value chain to accelerate drug discovery and optimize enterprise-wide decision-making.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/14/the-ai-shift-is-real-how-pharmaceutical-leaders-are-operationalizing-ai"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1789410655000,
+            "date": "2026-09-14",
+            "title": "Almost half (47%) of Irish workers say they are considering new career paths, as AI shapes the future of work, Microsoft Ireland study finds - Source EMEA",
+            "summary_kr": "마이크로소프트 조사에 따르면, 아일랜드 근로자의 47%가 AI 도입에 따라 커리어 전환을 고민 중이며, 근로자들의 높은 AI 수용도에 비해 기업의 교육 및 인프라 지원은 여전히 부족한 상황입니다.",
+            "summary_en": "According to Microsoft, 47% of Irish workers are reconsidering their career paths due to AI, highlighting a gap between high employee adoption and the insufficient AI training and resources provided by employers.",
+            "link": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1789403955000,
+            "date": "2026-09-14",
+            "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+            "summary_kr": "NVIDIA의 Transformer Engine은 JAX 환경에서 블록 희소성 커널과 최적화된 그룹 GEMM을 활용하여 MoE 모델의 고질적인 문제인 불규칙한 텐서 연산과 통신 병목을 해결, 학습 성능을 10배 이상 향상시켰습니다.",
+            "summary_en": "NVIDIA's Transformer Engine leverages block-sparse kernels and optimized grouped GEMM within JAX to resolve MoE training bottlenecks like ragged tensors and communication overhead, achieving a 10x performance boost.",
+            "link": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789387200000,
+            "date": "2026-09-14",
+            "title": "How Fyxer built an AI executive assistant people trust",
+            "summary_kr": "Fyxer는 50만 시간 이상의 실제 비서 업무 데이터와 OpenAI 모델을 결합하여, 사용자별 고유한 맥락과 어조를 학습한 고도로 개인화된 AI 비서 서비스를 구축했습니다.",
+            "summary_en": "Fyxer has developed a highly personalized AI executive assistant by combining over 500,000 hours of real-world workflow data with OpenAI models to replicate individual user tone and context.",
+            "link": "https://openai.com/index/fyxer"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1789344000000,
@@ -864,42 +900,6 @@
             "summary_kr": "OpenAI가 태국 고등교육과학연구혁신부와 협력하여 의료 및 교육 분야의 유망 AI 스타트업 10곳을 육성하는 8주간의 액셀러레이터 프로그램을 출범했습니다.",
             "summary_en": "OpenAI has partnered with Thailand's Ministry of Higher Education, Science, Research and Innovation to launch an eight-week accelerator program designed to scale ten promising AI startups in the healthcare and education sectors.",
             "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787875200000,
-            "date": "2026-08-28",
-            "title": "Automated researchers can reliably mitigate alignment failures",
-            "summary_kr": "앤스로픽의 연구 결과, AI 모델 '클로드'가 스스로 정렬 문제를 진단하고 해결책을 개발함으로써 인간 전문가를 능가하는 효율성으로 AI 안전성을 강화할 수 있음이 입증되었습니다.",
-            "summary_en": "Anthropic's research demonstrates that the Claude AI can autonomously develop alignment solutions, effectively mitigating safety failures with greater efficiency and success rates than human researchers.",
-            "link": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787852021000,
-            "date": "2026-08-27",
-            "title": "DepEd and Microsoft Partner to Advance Philippine Education in the AI Era, Equip 1M Teachers with Microsoft Copilot - Source Asia",
-            "summary_kr": "필리핀 교육부와 마이크로소프트의 파트너십 확대로 100만 명의 교사가 AI 도구인 코파일럿을 도입하여 수업 효율성을 높이고, 교육 현장의 디지털 전환과 학습 성과 개선을 가속화합니다.",
-            "summary_en": "The DepEd and Microsoft partnership will provide 1 million Filipino teachers with access to Microsoft Copilot to enhance instructional efficiency, accelerate digital transformation, and improve student learning outcomes.",
-            "link": "https://news.microsoft.com/source/asia/2026/08/27/deped-and-microsoft-partner-to-advance-philippine-education-in-the-ai-era-equip-1m-teachers-with-microsoft-copilot"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1787846400000,
-            "date": "2026-08-27",
-            "title": "Google Flow brings new creative control features to enhance video editing.",
-            "summary_kr": "구글은 제미나이 옴니 1.1 플래시를 통해 '구글 플로우'의 영상 편집 기능을 강화하여, 정교한 프레임 제어와 고해상도 출력 및 효율적인 업스케일링 워크플로우를 제공합니다.",
-            "summary_en": "Google has enhanced its 'Google Flow' platform with Gemini Omni 1.1 Flash, introducing advanced frame control, high-resolution rendering, and efficient upscaling workflows for creators.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787821200000,
-            "date": "2026-08-27",
-            "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-            "summary_kr": "보코니 대학의 연구 결과, ChatGPT는 학생 과제의 품질과 논리적 완성도를 높이고, 인과 추론 훈련은 독창적인 아이디어를 끌어내는 데 기여하여 두 요소가 상호 보완적인 효과를 내는 것으로 나타났습니다.",
-            "summary_en": "A study at Bocconi University demonstrates that ChatGPT enhances the quality and coherence of student work, while causal reasoning training fosters greater originality, proving that AI and critical thinking are complementary educational tools.",
-            "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
         }
     ]
 }
