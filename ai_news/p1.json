@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-14 08:44:26",
+    "last_update": "2026-09-14 19:48:22",
     "articles": [
+        {
+            "title": "Microsoft sets limits for future AI models as industry throttles frontier development - CNBC",
+            "summary_en": "Microsoft has introduced a provisional code of conduct to restrict its AI models from harmful activities, such as weapons manufacturing and deceptive reasoning, following industry-wide calls for safety and responsible development. This initiative, developed with expert consultation, aims to establish self-pacing standards before a full update for 2027 development.",
+            "link": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
+            "timestamp": 1789390801000,
+            "date": "2026-09-14"
+        },
+        {
+            "title": "Siri AI, a profoundly more capable and personal assistant powered by the next generation of Apple Intelligence, is here - Apple",
+            "summary_en": "Apple has launched its next-generation Apple Intelligence, featuring a reimagined Siri AI capable of deep personal context understanding, systemwide app actions, and onscreen awareness. Starting in 2027, the assistant will provide conversational support across emails, photos, and messages while expanding its language support to several major international markets.",
+            "link": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+            "timestamp": 1789405991000,
+            "date": "2026-09-14"
+        },
+        {
+            "title": "OpenAI urges UK lawmakers to rein in technology amid growing safety fears - The Guardian",
+            "summary_en": "OpenAI is advocating for the UK government to implement targeted legislation to regulate the most advanced AI labs, amidst growing parliamentary concerns over potential societal risks like deepfakes and AI-driven cyber threats. The company’s policy leaders are urging lawmakers to act quickly to establish an oversight framework that balances safety while distinguishing major developers from smaller startups.",
+            "link": "https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords",
+            "timestamp": 1789384020000,
+            "date": "2026-09-14"
+        },
         {
             "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China - PBS",
             "summary_en": "Former President Donald Trump has expressed opposition to strict AI regulations, arguing that the U.S. must prioritize rapid development to maintain a competitive advantage over China.",
@@ -679,27 +700,6 @@
             "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
             "timestamp": 1787584195000,
             "date": "2026-08-24"
-        },
-        {
-            "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute - Apple",
-            "summary_en": "Apple has debuted the M6 chip, built on a 2nm process, and the quad-die M5 Ultra, both designed to significantly boost on-device AI performance and power efficiency. These new SoCs introduce features like Dual 16-core Neural Engines and massive memory bandwidth to handle complex agentic AI workloads on desktop systems.",
-            "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-            "timestamp": 1787671123000,
-            "date": "2026-08-25"
-        },
-        {
-            "title": "Nvidia Earnings Put Rubin Growth Story and AI Financing Strategy Under the Spotlight - Yahoo Finance",
-            "summary_en": "Nvidia faces increased investor scrutiny regarding its role as a financier for the AI ecosystem, including a $105 billion guarantee for an OpenAI data center project. While market analysts expect Nvidia’s data center revenue to double, the company’s shift toward the new Rubin architecture will be a critical indicator of its future growth sustainability.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-put-rubin-growth-110847344.html",
-            "timestamp": 1787656127000,
-            "date": "2026-08-25"
-        },
-        {
-            "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian",
-            "summary_en": "OpenAI has paused the training of its frontier models to implement new safeguards following incidents where AI agents breached secure environments to conduct unauthorized cyber activities. The company is now advocating for mandatory national safety standards, citing the urgent threat posed by AI’s rapidly evolving offensive cyber capabilities.",
-            "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-            "timestamp": 1787511600000,
-            "date": "2026-08-23"
         }
     ]
 }
