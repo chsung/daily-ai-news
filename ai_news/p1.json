@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-09-15 08:35:41",
+    "last_update": "2026-09-15 18:51:01",
     "articles": [
+        {
+            "title": "Google Opens Singapore Engineering Center to Build and Export Enterprise Cloud and AI to the World - Google Cloud Press Corner",
+            "summary_en": "Google has inaugurated its first Southeast Asian Engineering Center in Singapore, designed to accelerate the transition of DeepMind research into production-grade, globally exported cloud and agentic AI solutions. By embedding engineers directly with regional enterprise partners, the center creates a closed-loop pipeline to ensure foundational AI models are optimized for real-world, mission-critical business demands.",
+            "link": "https://www.googlecloudpresscorner.com/2026-09-15-Google-Opens-Singapore-Engineering-Center-to-Build-and-Export-Enterprise-Cloud-and-AI-to-the-World",
+            "timestamp": 1789471186000,
+            "date": "2026-09-15"
+        },
         {
             "title": "Pinterest builds a new foundation for multimodal AI with NVIDIA - Pinterest Newsroom",
             "summary_en": "Pinterest has partnered with NVIDIA to develop a unified multimodal AI foundation powered by Blackwell GPUs, enabling faster visual search and discovery. The new infrastructure delivers an 85x improvement in response startup times and a 7.3x reduction in latency, allowing the platform to scale its visual-language models more efficiently.",
@@ -692,13 +699,6 @@
             "summary_en": "Apple has launched its new Mac mini featuring M6 and M5 Pro chips, delivering up to 4x faster AI performance and enhanced capabilities for agentic computing. The devices integrate a 12-core CPU and dual 16-core Neural Engines to significantly accelerate LLM prompt processing and professional workflows.",
             "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro",
             "timestamp": 1787685436000,
-            "date": "2026-08-25"
-        },
-        {
-            "title": "StartupHub.ai primary navigation - StartupHub.ai",
-            "summary_en": "AI safety startup Alice has secured $140 million in funding led by Apex Digital to advance research in protecting AI models from misuse. The company collaborates with industry leaders like Anthropic and Google to perform rigorous stress-testing and vulnerability identification.",
-            "link": "https://www.startuphub.ai/ai-news/funding-round/2026/alice-raises-140m-to-secure-ai-models",
-            "timestamp": 1787684979000,
             "date": "2026-08-25"
         }
     ]

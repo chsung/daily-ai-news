@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-09-15 08:35:41",
+    "last_update": "2026-09-15 18:51:01",
     "articles": [
+        {
+            "title": "Google shakes up AI leadership. Hassabis swaps CEO role for research. - Business Insider",
+            "summary_en": "Google is undergoing a major leadership restructuring, with Demis Hassabis transitioning from DeepMind CEO to Alphabet's Chief Scientist to focus on long-term AI research. Meanwhile, veteran researcher Jeff Dean is departing to launch a new initiative, as the company seeks to accelerate its AGI development and close the gap with competitors.",
+            "link": "https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8",
+            "timestamp": 1785946920000,
+            "date": "2026-08-05"
+        },
         {
             "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
             "summary_en": "Meta has launched Muse Code, an AI coding agent designed to compete with Anthropic and OpenAI by offering a cost-effective, pay-as-you-go developer tool. The platform aims to generate new revenue streams for Meta by leveraging its Muse Spark 1.2 models and providing enterprise-focused features like zero-data retention options.",
@@ -693,13 +700,6 @@
             "link": "https://quasa.io/media/nvidia-metropolis-3-2-and-deepstream-9-1-enable-6x-faster-vision-ai-agent-development",
             "timestamp": 1784415060000,
             "date": "2026-07-18"
-        },
-        {
-            "title": "Apple Just Reclaimed the World's Most Valuable Company Title From Nvidia. Here Is What the Tech Rotation Means for Enterprise Strategy. - MarketScale",
-            "summary_en": "Apple has reclaimed its position as the world's most valuable company with a $4.91 trillion market cap, surpassing Nvidia as investor focus shifts from AI infrastructure to durable, consumer-facing technology ecosystems. This rotation reflects growing market confidence in Apple’s ability to monetize AI through its massive existing user base and upcoming intelligence platform updates.",
-            "link": "https://www.marketscale.com/industries/software-and-technology/apple-just-reclaimed-the-worlds-most-valuable-company-title-from-nvidia-here-is-what-the-tech-rotation-means-for-enterprise-strategy",
-            "timestamp": 1784306600000,
-            "date": "2026-07-17"
         }
     ]
 }

@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-09-15 08:35:41",
+    "last_update": "2026-09-15 18:51:01",
     "articles": [
+        {
+            "title": "StartupHub.ai primary navigation - StartupHub.ai",
+            "summary_en": "AI safety startup Alice has secured $140 million in funding led by Apex Digital to advance research in protecting AI models from misuse. The company collaborates with industry leaders like Anthropic and Google to perform rigorous stress-testing and vulnerability identification.",
+            "link": "https://www.startuphub.ai/ai-news/funding-round/2026/alice-raises-140m-to-secure-ai-models",
+            "timestamp": 1787684979000,
+            "date": "2026-08-25"
+        },
         {
             "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls - Tom's Hardware",
             "summary_en": "Nine individuals have been indicted in Taiwan for orchestrating a complex five-point scheme to illegally export 130 Nvidia B300 GPUs to China. The operation involved insider cooperation at tech firms to bypass compliance inspections, resulting in unauthorized shipments valued at over $21 million.",
@@ -693,13 +700,6 @@
             "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
             "timestamp": 1786021200000,
             "date": "2026-08-06"
-        },
-        {
-            "title": "Google shakes up AI leadership. Hassabis swaps CEO role for research. - Business Insider",
-            "summary_en": "Google is undergoing a major leadership restructuring, with Demis Hassabis transitioning from DeepMind CEO to Alphabet's Chief Scientist to focus on long-term AI research. Meanwhile, veteran researcher Jeff Dean is departing to launch a new initiative, as the company seeks to accelerate its AGI development and close the gap with competitors.",
-            "link": "https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8",
-            "timestamp": 1785946920000,
-            "date": "2026-08-05"
         }
     ]
 }
