@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-09-14 19:48:22",
+    "last_update": "2026-09-15 08:35:41",
     "articles": [
+        {
+            "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls - Tom's Hardware",
+            "summary_en": "Nine individuals have been indicted in Taiwan for orchestrating a complex five-point scheme to illegally export 130 Nvidia B300 GPUs to China. The operation involved insider cooperation at tech firms to bypass compliance inspections, resulting in unauthorized shipments valued at over $21 million.",
+            "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
+            "timestamp": 1787584195000,
+            "date": "2026-08-24"
+        },
         {
             "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute - Apple",
             "summary_en": "Apple has debuted the M6 chip, built on a 2nm process, and the quad-die M5 Ultra, both designed to significantly boost on-device AI performance and power efficiency. These new SoCs introduce features like Dual 16-core Neural Engines and massive memory bandwidth to handle complex agentic AI workloads on desktop systems.",
@@ -692,13 +699,6 @@
             "summary_en": "Google is undergoing a major leadership restructuring, with Demis Hassabis transitioning from DeepMind CEO to Alphabet's Chief Scientist to focus on long-term AI research. Meanwhile, veteran researcher Jeff Dean is departing to launch a new initiative, as the company seeks to accelerate its AGI development and close the gap with competitors.",
             "link": "https://www.businessinsider.com/google-ai-leadership-demis-hassabis-steps-down-deepmind-ceo-2026-8",
             "timestamp": 1785946920000,
-            "date": "2026-08-05"
-        },
-        {
-            "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
-            "summary_en": "Meta has launched Muse Code, an AI coding agent designed to compete with Anthropic and OpenAI by offering a cost-effective, pay-as-you-go developer tool. The platform aims to generate new revenue streams for Meta by leveraging its Muse Spark 1.2 models and providing enterprise-focused features like zero-data retention options.",
-            "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
-            "timestamp": 1785956417000,
             "date": "2026-08-05"
         }
     ]

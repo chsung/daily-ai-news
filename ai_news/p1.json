@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-09-14 19:48:22",
+    "last_update": "2026-09-15 08:35:41",
     "articles": [
+        {
+            "title": "Pinterest builds a new foundation for multimodal AI with NVIDIA - Pinterest Newsroom",
+            "summary_en": "Pinterest has partnered with NVIDIA to develop a unified multimodal AI foundation powered by Blackwell GPUs, enabling faster visual search and discovery. The new infrastructure delivers an 85x improvement in response startup times and a 7.3x reduction in latency, allowing the platform to scale its visual-language models more efficiently.",
+            "link": "https://newsroom.pinterest.com/news/newsroom-pinterest-x-nvidia",
+            "timestamp": 1789398343000,
+            "date": "2026-09-14"
+        },
         {
             "title": "Microsoft sets limits for future AI models as industry throttles frontier development - CNBC",
             "summary_en": "Microsoft has introduced a provisional code of conduct to restrict its AI models from harmful activities, such as weapons manufacturing and deceptive reasoning, following industry-wide calls for safety and responsible development. This initiative, developed with expert consultation, aims to establish self-pacing standards before a full update for 2027 development.",
@@ -693,13 +700,6 @@
             "link": "https://www.startuphub.ai/ai-news/funding-round/2026/alice-raises-140m-to-secure-ai-models",
             "timestamp": 1787684979000,
             "date": "2026-08-25"
-        },
-        {
-            "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls - Tom's Hardware",
-            "summary_en": "Nine individuals have been indicted in Taiwan for orchestrating a complex five-point scheme to illegally export 130 Nvidia B300 GPUs to China. The operation involved insider cooperation at tech firms to bypass compliance inspections, resulting in unauthorized shipments valued at over $21 million.",
-            "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
-            "timestamp": 1787584195000,
-            "date": "2026-08-24"
         }
     ]
 }

@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-09-14 19:48:22",
+    "last_update": "2026-09-15 08:35:41",
     "articles": [
+        {
+            "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI - CNBC",
+            "summary_en": "Meta has launched Muse Code, an AI coding agent designed to compete with Anthropic and OpenAI by offering a cost-effective, pay-as-you-go developer tool. The platform aims to generate new revenue streams for Meta by leveraging its Muse Spark 1.2 models and providing enterprise-focused features like zero-data retention options.",
+            "link": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+            "timestamp": 1785956417000,
+            "date": "2026-08-05"
+        },
         {
             "title": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country - U.S. National Science Foundation (.gov)",
             "summary_en": "The U.S. National Science Foundation has initiated a $100 million program to establish State and Regional AI Infrastructure Hubs, addressing the uneven distribution of computing resources across the country. This initiative seeks to accelerate scientific discovery and workforce development through regional consortia involving academic, government, and private sector partners.",
@@ -693,13 +700,6 @@
             "link": "https://www.marketscale.com/industries/software-and-technology/apple-just-reclaimed-the-worlds-most-valuable-company-title-from-nvidia-here-is-what-the-tech-rotation-means-for-enterprise-strategy",
             "timestamp": 1784306600000,
             "date": "2026-07-17"
-        },
-        {
-            "title": "Inside Nvidia’s role in AI factory networking - SiliconANGLE",
-            "summary_en": "Nvidia is shifting the focus of AI infrastructure from raw GPU speed to a systems-level 'extreme co-design' approach where networking, compute, and storage operate as a unified entity. With 95% of organizations now prioritizing network performance, the company's Spectrum-X platform utilizes standard Ethernet to eliminate congestion and maximize AI factory efficiency.",
-            "link": "https://siliconangle.com/2026/07/16/ai-factory-networking-nvidia-analysis-cubeconversations",
-            "timestamp": 1784226614000,
-            "date": "2026-07-16"
         }
     ]
 }
