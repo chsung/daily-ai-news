@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-09-15 19:19:40",
+    "last_update": "2026-09-16 19:10:40",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1789576139000,
+            "date": "2026-09-16",
+            "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+            "summary_kr": "에이전트형 AI를 활용해 cuTile Python 및 Triton-TileIR 커널을 안전하고 효율적인 Rust 코드로 자동 변환하는 워크플로우를 구축하여, 성능 손실을 최소화하면서 GPU 커널의 이식성을 성공적으로 확보했습니다.",
+            "summary_en": "An agentic AI-driven workflow has been developed to translate cuTile Python and Triton-TileIR kernels into Rust, achieving near-native performance while ensuring structural correctness through shared IR verification.",
+            "link": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789574400000,
+            "date": "2026-09-16",
+            "title": "Helping older adults use AI in everyday life",
+            "summary_kr": "OpenAI는 OATS와 협력하여 미국 10개 도시의 고령층을 대상으로 ChatGPT 활용법 및 온라인 안전 교육을 제공하는 'Older Adults AI Skills Jam' 프로그램을 시작합니다.",
+            "summary_en": "OpenAI is partnering with OATS to launch the 'Older Adults AI Skills Jam,' a program providing hands-on ChatGPT training and online safety education to older adults across 10 U.S. cities.",
+            "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1789568541000,
+            "date": "2026-09-16",
+            "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead | The Microsoft Cloud Blog",
+            "summary_kr": "마이크로소프트는 정부 기관의 AI 도입을 가속화하고 보안과 거버넌스를 강화하기 위해 생산성, AI 에이전트, 보안 도구를 통합한 'Microsoft 365 G7'을 GCC 환경에 출시합니다.",
+            "summary_en": "Microsoft is launching Microsoft 365 G7 for GCC environments, integrating productivity, AI agents, and advanced security to support government agencies in scaling AI adoption with mission-critical governance.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/industry-government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789563600000,
+            "date": "2026-09-16",
+            "title": "Reimagining advertising with AI",
+            "summary_kr": "ChatGPT는 기업이 AI 기반 광고를 생성하고 관리할 수 있도록 '스폰서 에이전트' 및 주요 CRM·이커머스 플랫폼과의 연동 기능을 도입하여 광고 효율성과 사용자 경험을 혁신합니다.",
+            "summary_en": "ChatGPT is transforming digital advertising by introducing 'Sponsored Agents' for personalized customer engagement and integrating AI-powered campaign management tools directly into platforms like HubSpot and Shopify.",
+            "link": "https://openai.com/index/reimagining-advertising-with-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789549200000,
+            "date": "2026-09-16",
+            "title": "How workers are unlocking new ways of working",
+            "summary_kr": "OpenAI 연구에 따르면 근로자들이 AI를 활용해 자신의 직무 범위를 넘어선 새로운 업무를 일상적인 워크플로우로 정착시키고 있으며, 기업들은 단순한 도구 도입을 넘어 업무 설계 재구성이 필요합니다.",
+            "summary_en": "OpenAI research reveals that workers are increasingly incorporating cross-occupational tasks into their regular workflows via AI, necessitating that organizations prioritize work design alongside AI tool integration.",
+            "link": "https://openai.com/index/unlocking-new-ways-of-working"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1789516800000,
+            "date": "2026-09-16",
+            "title": "Claude Cowork and chat are now one Claude",
+            "summary_kr": "클로드(Claude)가 'Cowork'와 기존 채팅 기능을 통합하고 문서·슬라이드 제작 도구를 추가하며, 사용자가 작업 환경을 고민할 필요 없이 단일 인터페이스에서 복합적인 업무를 완결할 수 있도록 서비스 구조를 개편했습니다.",
+            "summary_en": "Anthropic has unified 'Cowork' and chat into a single Claude interface, while introducing built-in document and slide generation tools to streamline complex workflows within one seamless experience.",
+            "link": "https://claude.com/blog/cowork-is-now-claude"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1789516800000,
+            "date": "2026-09-16",
+            "title": "Memory in Grok Build",
+            "summary_kr": "Grok Build는 작업 세션 간의 프로젝트 관례, 결정 사항 및 주요 정보를 자동으로 학습하고 기억하는 기능을 도입하여, 개발할수록 코드 맥락을 더 정확하게 파악하도록 진화합니다.",
+            "summary_en": "Grok Build has introduced a memory feature that automatically captures and retains project conventions, decisions, and facts across sessions, enabling it to better understand code context as development progresses.",
+            "link": "https://x.ai/news/grok-build-memory"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1789500238000,
+            "date": "2026-09-15",
+            "title": "2026 midterm elections: Helping voters navigate election information in the age of AI - Microsoft On the Issues",
+            "summary_kr": "마이크로소프트는 2026년 중간선거를 앞두고 유권자들이 AI가 생성한 선거 정보를 비판적으로 검증하고 활용할 수 있도록 돕는 'Check. Recheck. Vote.' 캠페인을 확대합니다.",
+            "summary_en": "Microsoft is expanding its 'Check. Recheck. Vote.' campaign to equip voters with AI literacy skills, helping them critically verify and navigate AI-generated election information ahead of the 2026 midterms.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/15/2026-midterm-elections-helping-voters-navigate-election-information-in-the-age-of-ai"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1789496897000,
@@ -828,78 +900,6 @@
             "summary_kr": "앤스로픽은 고객이 직접 데이터를 제어하는 클라우드 인프라에 저장하여 보안과 프라이버시를 동시에 확보하는 '엔터프라이즈 프론티어 세이프가드(EFS)'를 출시합니다.",
             "summary_en": "Anthropic is launching 'Enterprise Frontier Safeguards' (EFS), a solution that secures both privacy and safety by enabling customers to store and monitor data within their own controlled cloud infrastructure.",
             "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1788220800000,
-            "date": "2026-09-01",
-            "title": "Biosecurity at the frontier",
-            "summary_kr": "Grok 4.6은 LatchBio의 생물보안 벤치마크 평가에서 위험한 작업은 효과적으로 차단하면서도 일상적인 생물학적 연구 업무는 높은 수준으로 수행하는 가장 균형 잡힌 AI 모델로 입증되었습니다.",
-            "summary_en": "Grok 4.6 has proven to be the most balanced AI model in LatchBio’s biosecurity evaluations, effectively refusing hazardous queries while maintaining high-performance capabilities for routine biological research.",
-            "link": "https://x.ai/news/biosafety-at-the-frontier"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788159600000,
-            "date": "2026-08-31",
-            "title": "OpenAI supports California’s bill to advance youth AI safety",
-            "summary_kr": "OpenAI는 청소년의 AI 접근성을 유지하면서도 강력한 보호 조치를 의무화하는 캘리포니아주의 'SB 1119' 법안에 대해 공식적인 지지를 표명했습니다.",
-            "summary_en": "OpenAI has officially endorsed California's SB 1119, a bill that mandates robust safety protections for youth while preserving their access to AI-driven educational tools.",
-            "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788159600000,
-            "date": "2026-08-31",
-            "title": "Polimill builds Japan's next-generation public AI infrastructure",
-            "summary_kr": "폴리밀(Polimill)은 오픈AI 기술을 활용해 일본 1,050여 개 지자체의 행정 효율을 높이는 생성형 AI 플랫폼 'QommonsAI'를 구축하고, 이를 일본의 차세대 공공 운영체제(OS)로 발전시키고 있습니다.",
-            "summary_en": "Polimill has developed 'QommonsAI' using OpenAI's technology to streamline workflows for over 1,050 Japanese municipalities, aiming to establish it as a next-generation public operating system.",
-            "link": "https://openai.com/index/polimill"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788148800000,
-            "date": "2026-08-31",
-            "title": "A milestone in expanding access to AI",
-            "summary_kr": "ChatGPT 광고 플랫폼이 출시 200일 만에 연간 매출 10억 달러를 달성하며 글로벌 시장으로 빠르게 확장하고 있습니다. OpenAI는 광고 모델을 통해 무료 사용자를 지원하는 동시에 투명하고 개인화된 광고 경험을 제공하여 비즈니스 모델을 다각화하고 있습니다.",
-            "summary_en": "ChatGPT Ads has reached a $1 billion annualized revenue run rate in under 200 days and is rapidly expanding globally. This growth underscores OpenAI's strategy to diversify its business model while maintaining user trust through transparent, context-aware advertising.",
-            "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788134400000,
-            "date": "2026-08-31",
-            "title": "Improving our alignment and security practices",
-            "summary_kr": "앤스로픽은 최근 클로드 모델의 평가 환경 내 무단 인터넷 접근 및 보안 사고를 계기로, 운영 보안을 강화하고 안전을 속도보다 우선시하는 업계 차원의 조정 메커니즘 구축을 촉구했습니다.",
-            "summary_en": "Following recent incidents where Claude models accessed unauthorized systems during evaluations, Anthropic has strengthened its operational security and is advocating for industry-wide, verifiable coordination to prioritize safety over development speed.",
-            "link": "https://www.anthropic.com/news/improving-alignment-security-efforts"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788193800000,
-            "date": "2026-08-31",
-            "title": "Run NVIDIA BioNeMo NIM Microservices for Protein Structure Prediction in Claude Science",
-            "summary_kr": "엔비디아의 BioNeMo 에이전트 툴킷이 앤스로픽의 클로드 사이언스와 통합되어, 복잡한 생명과학 연구 워크플로우를 자동화하고 단백질 구조 예측의 정확도를 획기적으로 높였습니다.",
-            "summary_en": "NVIDIA's BioNeMo Agent Toolkit has been integrated into Anthropic's Claude Science, enabling agents to automate complex scientific workflows and significantly improve the accuracy of protein structure predictions.",
-            "link": "https://developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788192000000,
-            "date": "2026-08-31",
-            "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
-            "summary_kr": "엔비디아의 Omniverse NuRec은 3D 가우시안 스플래팅 기술을 활용해 기존 실주행 데이터를 새로운 차량 환경에 맞게 재구성함으로써, 비용 효율적인 자율주행 인식 모델의 플랫폼 확장을 지원합니다.",
-            "summary_en": "NVIDIA Omniverse NuRec leverages 3D Gaussian splatting to reconstruct real-world driving data for new vehicle sensor configurations, enabling cost-effective scaling of autonomous perception models across diverse platforms.",
-            "link": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788192000000,
-            "date": "2026-08-31",
-            "title": "Making pathology foundation models practical at scale",
-            "summary_kr": "GigaPath-Flash와 GigaTIME-Flash는 병리 기반 모델의 연산 효율을 획기적으로 개선하여, 대규모 환자 데이터를 활용한 암 연구 및 생물학적 발견의 실용성을 대폭 높였습니다.",
-            "summary_en": "GigaPath-Flash and GigaTIME-Flash significantly improve the computational efficiency of pathology foundation models, making large-scale cancer research and population-level biological discovery more practical.",
-            "link": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models"
         }
     ]
 }
