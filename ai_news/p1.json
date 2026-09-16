@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-15 18:51:01",
+    "last_update": "2026-09-16 08:29:46",
     "articles": [
+        {
+            "title": "Anthropic, Nvidia CEOs lay out visions for safe AI development - Reuters",
+            "summary_en": "Anthropic and Nvidia CEOs have publicly outlined their strategic visions for ensuring the safe and responsible development of advanced artificial intelligence technologies.",
+            "link": "https://www.reuters.com/video/watch/idRW306516092026RP1",
+            "timestamp": 1789529719000,
+            "date": "2026-09-16"
+        },
+        {
+            "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research",
+            "summary_en": "Google Research has introduced the 'Retrieve-for-Train' framework, which uses offline reinforcement learning to replace expensive inference-time reasoning with a lightweight, efficient diffusion model. This method enables instant, high-quality search results by pre-compiling complex query-decomposition logic into the model's training process.",
+            "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+            "timestamp": 1789502472000,
+            "date": "2026-09-15"
+        },
+        {
+            "title": "UNC Lineberger Secures $40M from OpenAI Foundation to Make Cancer Vaccines More Effective | Newsroom - UNC Health",
+            "summary_en": "The OpenAI Foundation has awarded $40 million to the UNC Lineberger Comprehensive Cancer Center to accelerate the development of personalized cancer vaccines through high-quality AI-driven data analysis. This initiative is part of the foundation's 'Public Data for Health' program, aimed at creating open-access datasets to advance global life science research.",
+            "link": "https://news.unchealthcare.org/2026/09/unc-lineberger-secures-40m-from-openai-foundation-to-make-cancer-vaccines-more-effective",
+            "timestamp": 1789473638000,
+            "date": "2026-09-15"
+        },
         {
             "title": "Google Opens Singapore Engineering Center to Build and Export Enterprise Cloud and AI to the World - Google Cloud Press Corner",
             "summary_en": "Google has inaugurated its first Southeast Asian Engineering Center in Singapore, designed to accelerate the transition of DeepMind research into production-grade, globally exported cloud and agentic AI solutions. By embedding engineers directly with regional enterprise partners, the center creates a closed-loop pipeline to ensure foundational AI models are optimized for real-world, mission-critical business demands.",
@@ -679,27 +700,6 @@
             "link": "https://cybermagazine.com/articles/anthropics-misalignment-research-amid-rogue-ai-incidents",
             "timestamp": 1787757750000,
             "date": "2026-08-26"
-        },
-        {
-            "title": "Major security weaknesses found in leading open AI models | Waterloo News | University of Waterloo - University of Waterloo",
-            "summary_en": "A study by the University of Waterloo and FAR.AI reveals that all 21 leading open-weight LLMs tested can be tampered with to remove safety guardrails. Using a new tool called TamperBench, researchers demonstrated that these vulnerabilities could enable large-scale misuse, such as disinformation campaigns and the creation of hazardous materials.",
-            "link": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
-            "timestamp": 1787696303000,
-            "date": "2026-08-25"
-        },
-        {
-            "title": "Deutsche Bank adopts Google’s new financial research AI - Capital Brief",
-            "summary_en": "Deutsche Bank has integrated Google’s new Gemini Enterprise for Financial Services to automate and streamline complex financial research within its corporate banking division. This deployment aims to provide consistent, auditable outputs while reducing the manual workload for financial professionals.",
-            "link": "https://www.capitalbrief.com/briefing/deutsche-bank-adopts-googles-new-financial-research-ai-c244df4f-d161-46ea-8932-f4420bd2a59e",
-            "timestamp": 1787666700000,
-            "date": "2026-08-25"
-        },
-        {
-            "title": "Apple’s new Mac mini, featuring M6 and M5 Pro, delivers a massive leap in AI performance, supercharging the leading desktop for always-on agentic computing - Apple",
-            "summary_en": "Apple has launched its new Mac mini featuring M6 and M5 Pro chips, delivering up to 4x faster AI performance and enhanced capabilities for agentic computing. The devices integrate a 12-core CPU and dual 16-core Neural Engines to significantly accelerate LLM prompt processing and professional workflows.",
-            "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro",
-            "timestamp": 1787685436000,
-            "date": "2026-08-25"
         }
     ]
 }
