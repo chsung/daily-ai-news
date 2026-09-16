@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-16 08:29:46",
+    "last_update": "2026-09-16 18:47:38",
     "articles": [
+        {
+            "title": "Anthropic is building a chip-design team as Claude demand strains its compute strategy - MLQ.ai",
+            "summary_en": "Anthropic is establishing an internal chip-design team to address the mounting computational bottlenecks caused by the surging demand for its Claude AI models. This strategic move aims to optimize its infrastructure and reduce reliance on third-party hardware providers.",
+            "link": "https://mlq.ai/news/anthropic-is-building-a-chip-design-team-as-claude-demand-strains-its-compute-strategy",
+            "timestamp": 1786098007000,
+            "date": "2026-08-07"
+        },
+        {
+            "title": "Google DeepMind Boss Demis Hassabis Steps Down From CEO Role - Gizmodo",
+            "summary_en": "Google DeepMind CEO Demis Hassabis has stepped down from his leadership role at the company.",
+            "link": "https://gizmodo.com/google-deepmind-boss-demis-hassabis-steps-down-from-ceo-role-2000794979",
+            "timestamp": 1785960025000,
+            "date": "2026-08-05"
+        },
+        {
+            "title": "Meta launches Muse Code, an AI agent for large code bases | TechCrunch - TechCrunch",
+            "summary_en": "Meta has launched Muse Code, a beta terminal coding agent that utilizes parallel sub-agents to manage complex software engineering tasks across large repositories. The tool aims to compete with industry rivals like OpenAI and Anthropic by offering a more cost-effective solution for large-scale development workflows.",
+            "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
+            "timestamp": 1785964888000,
+            "date": "2026-08-05"
+        },
         {
             "title": "Microsoft extends zero trust deeper into enterprise AI - Help Net Security",
             "summary_en": "Microsoft has expanded its Zero Trust framework to include specific pillars for AI security and DevSecOps, helping organizations mitigate risks in AI-assisted development. The update provides actionable roadmaps and technical guidance to secure the AI software supply chain, from source code to cloud deployment.",
@@ -679,27 +700,6 @@
             "link": "https://cnevpost.com/2026/07/20/xpeng-loses-ai-infra-chief-to-openai",
             "timestamp": 1784557883000,
             "date": "2026-07-20"
-        },
-        {
-            "title": "Nvidia brings graphics research breakthroughs to simulation and physical AI - GamesBeat",
-            "summary_en": "Nvidia unveiled 21 research papers at Siggraph focusing on real-time simulation and physical AI, including 'MotionBricks,' a foundation model that generates lifelike motion for both virtual characters and physical humanoid robots. These breakthroughs utilize generative controllers and physics-based solvers to bridge the gap between virtual world creation and real-world machine training.",
-            "link": "https://gamesbeat.com/nvidia-brings-graphics-research-breakthroughs-to-simulation-and-physical-ai",
-            "timestamp": 1784559632000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "Americans are freaking out over China's open-source AI strategy - Business Insider",
-            "summary_en": "The emergence of high-performing Chinese models like Moonshot AI’s Kimi K3 has ignited a debate over the US AI industry’s strategy of keeping models closed. Critics warn that leading US labs are leveraging regulatory influence to suppress open-source competition, which they claim is essential for future innovation.",
-            "link": "https://www.businessinsider.com/open-source-ai-china-kimi-american-ai-industry-openai-anthropic-2026-7",
-            "timestamp": 1784522400000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "South Korea's AI Strategy: Gaps to Fill - 조선일보",
-            "summary_en": "South Korea holds a critical advantage in the AI supply chain through its dominance in high-bandwidth memory (HBM) production by Samsung and SK Hynix. Experts argue the nation should shift its strategy from building redundant general-purpose models toward integrating global AI technologies into its industrial sector to maximize competitive impact.",
-            "link": "https://www.chosun.com/english/opinion-en/2026/07/19/A5CUFAQPORANNNCBPZOXEVYA7I",
-            "timestamp": 1784471944000,
-            "date": "2026-07-19"
         }
     ]
 }
