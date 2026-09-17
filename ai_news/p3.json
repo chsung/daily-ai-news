@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-16 18:47:38",
+    "last_update": "2026-09-17 08:36:44",
     "articles": [
+        {
+            "title": "Mirendil Taps Google Cloud AI Hypercomputer for Advanced Model Training - Indiatimes",
+            "summary_en": "Frontier AI lab Mirendil has adopted Google Cloud’s AI Hypercomputer to leverage a hybrid infrastructure of Google TPUs and NVIDIA hardware for its model training. This strategic partnership allows the lab to match specialized workloads with diverse chip architectures, facilitating efficient large-scale development and reinforcement learning.",
+            "link": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/mirendil-taps-google-cloud-ai-hypercomputer-for-advanced-model-training/133045846",
+            "timestamp": 1786168459000,
+            "date": "2026-08-08"
+        },
+        {
+            "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
+            "summary_en": "OpenAI has reportedly slowed the release of its Astra model due to concerns regarding its potential cyber capabilities. The decision highlights the company's increased caution in balancing advanced AI deployment with safety and security risks.",
+            "link": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks",
+            "timestamp": 1786124837000,
+            "date": "2026-08-07"
+        },
         {
             "title": "Anthropic is building a chip-design team as Claude demand strains its compute strategy - MLQ.ai",
             "summary_en": "Anthropic is establishing an internal chip-design team to address the mounting computational bottlenecks caused by the surging demand for its Claude AI models. This strategic move aims to optimize its infrastructure and reduce reliance on third-party hardware providers.",
@@ -686,20 +700,6 @@
             "link": "https://pandaily.com/united-imaging-intelligence-meta-hospital-jul2026",
             "timestamp": 1784599091000,
             "date": "2026-07-21"
-        },
-        {
-            "title": "Bristol Myers buys Nvidia's latest AI computing system for drug research - Reuters",
-            "summary_en": "Bristol Myers Squibb has acquired Nvidia's advanced AI computing systems to accelerate its drug discovery and pharmaceutical research capabilities.",
-            "link": "https://www.reuters.com/legal/litigation/bristol-myers-buys-nvidias-latest-ai-computing-system-drug-research-2026-07-20",
-            "timestamp": 1784558298000,
-            "date": "2026-07-20"
-        },
-        {
-            "title": "Xpeng loses AI infrastructure chief to OpenAI's robotics push, report says - CnEVPost",
-            "summary_en": "Lu Siyuan, Xpeng's AI infrastructure chief, is departing to join OpenAI's embodied AI robotics division, prompting Xpeng to restructure its 200-person AI team. This transition marks a significant personnel shift as Xpeng prepares for the large-scale production of its humanoid robots by late 2026.",
-            "link": "https://cnevpost.com/2026/07/20/xpeng-loses-ai-infra-chief-to-openai",
-            "timestamp": 1784557883000,
-            "date": "2026-07-20"
         }
     ]
 }
