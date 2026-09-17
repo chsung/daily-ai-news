@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-09-16 19:10:40",
+    "last_update": "2026-09-17 19:21:10",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1789668900000,
+            "date": "2026-09-17",
+            "title": "The new CC, an AI agent built for families",
+            "summary_kr": "구글은 가족 구성원이 개별 계정을 연동해 일정 관리와 가사 업무를 협업할 수 있는 AI 에이전트 'CC'를 출시하여 가정 내 복잡한 정보 조정의 효율성을 극대화합니다.",
+            "summary_en": "Google has launched 'CC,' an AI agent designed to streamline household management by allowing family members to collaborate on shared schedules, tasks, and communications through a secure, unified interface.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1789654736000,
+            "date": "2026-09-17",
+            "title": "What we’ve learned from Microsoft's own AI transformation - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 AI 도입이 단순한 도구 배포를 넘어 비즈니스 성과와 워크플로우 재설계에 집중할 때 실질적인 가치를 창출한다는 '프런티어 기업'의 전략을 제시합니다.",
+            "summary_en": "Microsoft demonstrates that successful AI transformation shifts focus from mere tool adoption to achieving concrete business outcomes and redesigning entire workflows as 'Frontier Firms'.",
+            "link": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1789654342000,
+            "date": "2026-09-17",
+            "title": "From Ad Astra to Semper Disco: Learning Chip Design with Microsoft Discovery",
+            "summary_kr": "항공우주 엔지니어 출신 저자가 마이크로소프트 디스커버리(Microsoft Discovery)를 활용해 RISC-V 코어와 AI 가속기를 설계하며 칩 설계의 전 과정을 직접 경험한 사례를 공유합니다.",
+            "summary_en": "An aerospace engineer shares their experience using Microsoft Discovery to navigate the entire chip design process, from initial specifications to physical layout, for a RISC-V core and AI accelerator.",
+            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/from-ad-astra-to-semper-disco-learning-chip-design-with-microsoft-discovery/4554904"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1789603200000,
+            "date": "2026-09-17",
+            "title": "Introducing the Life Sciences Verification Program",
+            "summary_kr": "생명과학 검증 프로그램(LSVP)은 신약 개발 등 연구 전문가들이 AI 모델을 안전하고 효과적으로 활용할 수 있도록 맞춤형 안전 가이드라인과 차등화된 접근 권한을 제공합니다.",
+            "summary_en": "The Life Sciences Verification Program (LSVP) provides life science professionals with tailored access to AI models, featuring refined safety guardrails to facilitate research such as drug discovery while managing potential risks.",
+            "link": "https://www.anthropic.com/news/life-sciences-verification-program"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1789600833000,
+            "date": "2026-09-16",
+            "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+            "summary_kr": "AI 에이전트와 NVIDIA Omniverse 라이브러리를 활용하여 복잡하고 반복적인 3D 장면 시뮬레이션 준비 과정을 자동화함으로써, 로봇 공학 개발의 병목 현상을 해결하고 고품질의 SimReady 환경 구축을 가속화할 수 있습니다.",
+            "summary_en": "Leveraging AI agents and NVIDIA Omniverse libraries automates the labor-intensive 3D scene preparation process, overcoming robotics development bottlenecks and accelerating the creation of simulation-ready environments.",
+            "link": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1789591027000,
+            "date": "2026-09-16",
+            "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+            "summary_kr": "NVIDIA의 TensorRT Edge-LLM이 Jetson AGX Thor에서 Qwen3.6-27B 모델을 구동하여, 기존 대비 6.4배 빠른 속도로 MLPerf Edge Agentic 벤치마크를 완료했습니다.",
+            "summary_en": "NVIDIA's TensorRT Edge-LLM achieved a 6.4x speed improvement over the reference implementation in the MLPerf Edge Agentic benchmark, running Qwen3.6-27B on the Jetson AGX Thor platform.",
+            "link": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1789586465000,
+            "date": "2026-09-16",
+            "title": "Microsoft's commitment for AI in education; protecting students, strengthening learning - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 교육 현장에서 AI의 잠재력을 극대화하는 동시에, 안전·보안·투명성을 핵심 원칙으로 삼아 교사 중심의 윤리적인 AI 교육 환경을 구축하겠다는 의지를 밝혔습니다.",
+            "summary_en": "Microsoft is committed to fostering an AI-driven educational environment that maximizes learning potential while strictly adhering to core principles of safety, privacy, and teacher-centric oversight.",
+            "link": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789578000000,
+            "date": "2026-09-16",
+            "title": "Our framework for reporting model misalignment",
+            "summary_kr": "OpenAI는 AI 모델의 정렬 오류(misalignment) 사례를 체계적으로 조사하고 투명하게 공개하기 위한 새로운 보고 프레임워크를 도입하며 업계 표준 마련을 촉구했습니다.",
+            "summary_en": "OpenAI has introduced a new, systematic framework for investigating and disclosing AI model misalignment, aiming to establish industry-wide transparency and reporting standards.",
+            "link": "https://openai.com/index/model-misalignment-reporting-framework"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789560000000,
+            "date": "2026-09-16",
+            "title": "How to connect AI usage to business value",
+            "summary_kr": "기업은 관리자 콘솔의 분석 도구를 통해 AI 사용 현황과 성과를 정량적으로 파악하고, 이를 실제 비즈니스 가치와 연결하여 투자 효율성을 극대화해야 합니다.",
+            "summary_en": "Organizations should leverage admin console analytics to track AI adoption and task performance, effectively bridging usage data with measurable business outcomes to maximize investment value.",
+            "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1789576139000,
@@ -819,87 +900,6 @@
             "summary_kr": "의료 분야에서 AI의 성공적인 도입과 확장을 위해서는 단순한 모델 도입을 넘어, 파편화된 데이터를 통합하고 인프라를 현대화하는 강력한 데이터 기반 구축이 필수적입니다.",
             "summary_en": "Successful AI deployment in healthcare requires shifting from isolated pilots to a robust, unified data foundation that bridges fragmented systems and modernizes infrastructure to support enterprise-wide scale.",
             "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/01/from-ai-readiness-to-impact-why-a-strong-data-foundation-determines-success-in-healthcare"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1788278400000,
-            "date": "2026-09-01",
-            "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
-            "summary_kr": "구글 딥마인드는 50년간의 기상 데이터를 학습한 AI 모델 'WeatherNext'를 통해 기존 슈퍼컴퓨터급의 연산 능력을 단일 TPU 환경으로 구현하며 사이클론 예측의 정확도와 효율성을 획기적으로 개선했습니다.",
-            "summary_en": "Google DeepMind has significantly enhanced cyclone forecasting by utilizing the 'WeatherNext' AI model, which leverages decades of historical data to achieve supercomputer-level accuracy on a single TPU.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788267600000,
-            "date": "2026-09-01",
-            "title": "Path to Astra: critical capabilities and frontier safeguards",
-            "summary_kr": "AI 모델 '아스트라(Astra)'가 인간의 개입 없이 제로데이 취약점을 탐지하고 공격 코드를 생성할 수 있는 '임계 수준(Critical)'의 사이버 보안 능력을 입증함에 따라, 더욱 강화된 안전 장치와 제한적 배포 전략을 적용할 예정입니다.",
-            "summary_en": "The 'Astra' model has reached a 'Critical' cybersecurity threshold by demonstrating the ability to independently identify and exploit zero-day vulnerabilities, prompting the implementation of rigorous safety protocols and a phased, restricted release strategy.",
-            "link": "https://openai.com/index/path-to-astra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788224400000,
-            "date": "2026-09-01",
-            "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-            "summary_kr": "길버트 앤 토빈은 CEO의 주도적인 리더십과 철저한 거버넌스, 역할별 맞춤 교육을 통해 ChatGPT Enterprise를 성공적으로 도입하며 운영 효율성을 혁신했습니다. 이들은 전문적 판단을 보완하는 도구로서 AI를 활용하여 법률 업무의 생산성을 극대화하고 있습니다.",
-            "summary_en": "Gilbert + Tobin has successfully revolutionized its operational efficiency by integrating ChatGPT Enterprise through CEO-led commitment, rigorous governance, and role-specific training. By positioning AI as a tool to augment professional judgment, the firm has achieved high adoption rates and significant productivity gains.",
-            "link": "https://openai.com/index/gilbert-tobin"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1788282000000,
-            "date": "2026-09-01",
-            "title": "Introducing agentic video understanding with Gemini",
-            "summary_kr": "구글은 Gemini 모델에 동적 분석이 가능한 '에이전트식 비디오 이해' 기능을 도입하여, 기존 정적 처리 대비 토큰 사용량을 최대 88% 줄이고 정확도를 7% 향상했습니다.",
-            "summary_en": "Google has introduced 'agentic video understanding' to Gemini models, enabling dynamic analysis that reduces token consumption by up to 88% and improves accuracy by 7% compared to static processing.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788282000000,
-            "date": "2026-09-01",
-            "title": "How AI-native companies turn workflows into operating capability",
-            "summary_kr": "AI 네이티브 기업들은 단순한 보조를 넘어 업무 워크플로우에 AI 에이전트를 내재화함으로써 운영 역량을 실질적인 실행 단계로 격상시키고 있습니다. 핵심은 AI에게 안정적인 프로세스를 학습시키고 기업 내부 맥락과 도구를 연결해 반복 가능한 성과를 창출하는 것입니다.",
-            "summary_en": "AI-native companies are elevating their operational capabilities by embedding agents directly into workflows, moving beyond assistance to autonomous execution. Success stems from teaching agents stable processes and integrating them with company-specific context to create measurable, repeatable, and scalable outcomes.",
-            "link": "https://openai.com/index/ai-native-company-workflows"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788280761000,
-            "date": "2026-09-01",
-            "title": "Responsible AI in 2026: How we are adapting for what’s ahead",
-            "summary_kr": "마이크로소프트는 '2026 책임 있는 AI 투명성 보고서'를 통해 거버넌스 고도화와 기술적 위험 관리를 강화하며, AI 기술 발전 속도에 맞춰 신뢰를 기반으로 한 안전한 AI 생태계를 구축하고 있습니다.",
-            "summary_en": "Microsoft's 2026 Responsible AI Transparency Report highlights the company's commitment to advancing adaptive governance and technical risk management to build a secure, trust-based AI ecosystem amidst rapid technological evolution.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788274800000,
-            "date": "2026-09-01",
-            "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
-            "summary_kr": "AI 추론 인프라 구축 시, 구체적인 워크로드 패턴과 사용 사례를 분석하여 최적의 GPU 자원을 할당하고 모델 최적화 기법을 도입함으로써 비용 효율성(TCO)을 극대화해야 합니다.",
-            "summary_en": "To optimize TCO when deploying AI inference, organizations must size GPU infrastructure based on specific workload patterns and use cases while leveraging model optimization techniques.",
-            "link": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788264000000,
-            "date": "2026-09-01",
-            "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-            "summary_kr": "오픈AI가 에픽(Epic) EHR 시스템 및 공공 의료 데이터와의 연동 기능을 도입하여, 의료진이 임상 현장에서 환자 정보를 통합적으로 분석하고 신뢰할 수 있는 최신 의학 데이터를 즉각 활용할 수 있게 했습니다.",
-            "summary_en": "OpenAI has introduced Epic EHR integration and a Healthcare Public Data plugin, enabling clinicians to synthesize authorized patient records with official medical datasets directly within ChatGPT to enhance care and operational efficiency.",
-            "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788220800000,
-            "date": "2026-09-01",
-            "title": "Developing Enterprise Frontier Safeguards with our customers",
-            "summary_kr": "앤스로픽은 고객이 직접 데이터를 제어하는 클라우드 인프라에 저장하여 보안과 프라이버시를 동시에 확보하는 '엔터프라이즈 프론티어 세이프가드(EFS)'를 출시합니다.",
-            "summary_en": "Anthropic is launching 'Enterprise Frontier Safeguards' (EFS), a solution that secures both privacy and safety by enabling customers to store and monitor data within their own controlled cloud infrastructure.",
-            "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
         }
     ]
 }
