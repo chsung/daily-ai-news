@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-09-17 19:21:10",
+    "last_update": "2026-09-18 18:41:24",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788282004000,
+            "date": "2026-09-01",
+            "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+            "summary_kr": "엔비디아의 네모트론 모델과 크라우드스트라이크의 에이전트 시스템이 결합하여 공격과 방어를 자동화된 루프로 연결함으로써 사이버 보안의 탐지 성능을 획기적으로 개선합니다.",
+            "summary_en": "NVIDIA's Nemotron models and CrowdStrike's agentic system integrate offensive and defensive operations into an automated loop, significantly enhancing cybersecurity detection performance at machine scale.",
+            "link": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788369357000,
+            "date": "2026-09-02",
+            "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+            "summary_kr": "본 기사는 최신 NVIDIA CUDA 툴체인을 활용하여 GPU 가속 코드의 안전성과 성능을 체계적으로 최적화하는 6단계 실무 가이드를 제시합니다.",
+            "summary_en": "This article provides a six-step practical guide to systematically optimizing GPU-accelerated code for safety and performance using the modern NVIDIA CUDA toolchain.",
+            "link": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788365059000,
+            "date": "2026-09-02",
+            "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+            "summary_kr": "본 기사는 정확도를 유지하면서 LLM 추론 속도를 높이기 위한 핵심 기술인 '추론적 디코딩(Speculative Decoding)'의 원리를 설명하고, 최적의 성능을 위한 드래프트 모델 설정 가이드라인을 제시합니다.",
+            "summary_en": "This article explores the principles of speculative decoding to accelerate LLM inference without sacrificing accuracy and provides guidelines for optimizing draft model parameters to achieve peak performance.",
+            "link": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788361200000,
+            "date": "2026-09-02",
+            "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+            "summary_kr": "구글은 추론 및 코딩 성능을 대폭 강화한 'Gemini 3.8 Flash'와 사이버 보안 특화 모델인 'Gemini 3.8 Flash Cyber'를 출시하여 이전 버전과 동일한 비용으로 높은 효율성을 제공합니다.",
+            "summary_en": "Google has introduced Gemini 3.8 Flash and the security-focused Gemini 3.8 Flash Cyber, delivering significant reasoning and coding improvements at the same speed and cost as the previous generation.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1788282000000,
+            "date": "2026-09-01",
+            "title": "From AI readiness to impact: Why a strong data foundation determines success in healthcare | The Microsoft Cloud Blog",
+            "summary_kr": "의료 분야에서 AI의 성공적인 도입과 확장을 위해서는 단순한 모델 도입을 넘어, 파편화된 데이터를 통합하고 인프라를 현대화하는 강력한 데이터 기반 구축이 필수적입니다.",
+            "summary_en": "Successful AI deployment in healthcare requires shifting from isolated pilots to a robust, unified data foundation that bridges fragmented systems and modernizes infrastructure to support enterprise-wide scale.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/01/from-ai-readiness-to-impact-why-a-strong-data-foundation-determines-success-in-healthcare"
+        },
         {
             "company": "Google",
             "timestamp": 1788278400000,
@@ -855,51 +900,6 @@
             "summary_kr": "OpenAI는 CodeAI와의 파트너십 및 'ChatGPT for Teens' 출시를 통해 학생들이 AI를 책임감 있게 활용하고 비판적으로 사고할 수 있는 차세대 AI 리터러시 교육 환경을 구축합니다.",
             "summary_en": "OpenAI is partnering with CodeAI and launching 'ChatGPT for Teens' to equip students with the essential skills to critically evaluate, responsibly use, and shape the future of AI.",
             "link": "https://openai.com/index/partnering-with-codeai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787050800000,
-            "date": "2026-08-18",
-            "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-            "summary_kr": "OpenAI가 13~17세 청소년을 위해 안전 보호 기능과 학습 지원 도구를 강화한 'ChatGPT for Teens'를 출시하여 AI의 올바른 활용과 학습 경험 극대화를 지원합니다.",
-            "summary_en": "OpenAI has launched 'ChatGPT for Teens,' a dedicated experience featuring enhanced safety protections and specialized learning tools designed to foster critical thinking and responsible AI use among students.",
-            "link": "https://openai.com/index/chatgpt-for-teens"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1787043600000,
-            "date": "2026-08-18",
-            "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
-            "summary_kr": "구글은 항공기 비행운(contrail)이 유발하는 온난화 문제를 해결하기 위해 AI를 활용한 대규모 관제 실험인 '오퍼레이션 블루 스카이(Operation Blue Skies)'를 영국 정부 및 주요 기관과 공동으로 추진합니다.",
-            "summary_en": "Google is partnering with the UK government and key industry stakeholders to launch 'Operation Blue Skies,' a large-scale AI-driven initiative designed to mitigate the climate impact of aviation by strategically avoiding the formation of warming contrails.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1786990368000,
-            "date": "2026-08-17",
-            "title": "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer",
-            "summary_kr": "NVIDIA는 모델 최적화 도구를 활용한 '양자화 인식 증류(QAD)' 기술로 Nemotron 3.5 Lightning 모델을 4비트로 압축하여, 정확도 손실을 최소화하면서 처리량을 최대 4배 향상시켰습니다.",
-            "summary_en": "NVIDIA has leveraged Quantization-Aware Distillation (QAD) via the NVIDIA Model Optimizer to compress the Nemotron 3.5 Lightning model to 4-bit, achieving up to 4x higher throughput while effectively preserving baseline accuracy.",
-            "link": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786944600000,
-            "date": "2026-08-17",
-            "title": "The Defender’s Window",
-            "summary_kr": "AI가 사이버 공격을 고도화하고 자동화하는 위협이 커지는 가운데, 기업들은 AI를 방어 기제로 활용해 보안 취약점을 선제적으로 탐지하고 해결하는 보안 체계의 근본적 혁신이 필요합니다.",
-            "summary_en": "As AI increasingly empowers cyberattacks through automation, organizations must fundamentally upgrade their security by leveraging AI as a defensive guardian to proactively identify and remediate vulnerabilities.",
-            "link": "https://openai.com/index/the-defenders-window"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786942800000,
-            "date": "2026-08-17",
-            "title": "OpenAI joins PORTS-Pike project",
-            "summary_kr": "OpenAI가 SB Energy, NVIDIA와 협력하여 오하이오주에 8GW 규모의 데이터센터인 PORTS-Pike 프로젝트를 추진하며, 대규모 일자리 창출과 지역 사회 인프라 투자를 통해 차세대 산업화의 거점을 마련합니다.",
-            "summary_en": "OpenAI has partnered with SB Energy and NVIDIA to develop an 8GW data center project in Ohio, aiming to drive regional industrialization through massive job creation and community infrastructure investment.",
-            "link": "https://openai.com/index/openai-joins-ports-pike-project"
         }
     ]
 }

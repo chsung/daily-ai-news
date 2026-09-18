@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-09-17 19:21:10",
+    "last_update": "2026-09-18 18:41:24",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1789752107000,
+            "date": "2026-09-18",
+            "title": "Why the basics still matter for cybersecurity in the AI era",
+            "summary_kr": "AI 시대에도 사이버 보안의 핵심은 기본적인 취약점 관리이며, 자율적 공격이 고도화됨에 따라 공격 경로를 차단하기 위한 지속적인 노출 관리와 보안 통제가 필수적입니다.",
+            "summary_en": "In the AI era, fundamental cybersecurity practices remain critical, as autonomous threats rapidly exploit traditional weaknesses; therefore, continuous exposure management and robust security controls are essential to neutralize emerging attack paths.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1789689600000,
+            "date": "2026-09-18",
+            "title": "Introducing Grok Voice Transcribe 2.0",
+            "summary_kr": "SpaceXAI가 이전 모델 대비 정확도를 두 배 높이고 실환경 음성 인식 성능을 극대화한 'Grok Voice Transcribe 2.0'을 동일한 가격에 출시했습니다.",
+            "summary_en": "SpaceXAI has launched 'Grok Voice Transcribe 2.0,' which doubles the accuracy of its predecessor and optimizes real-world speech recognition performance at the same price point.",
+            "link": "https://x.ai/news/grok-voice-transcribe-2"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789646400000,
+            "date": "2026-09-17",
+            "title": "How Cooley is accelerating IPO work with ChatGPT",
+            "summary_kr": "글로벌 로펌 쿨리(Cooley)는 'GO Public' AI 플랫폼에 챗GPT를 도입해 IPO 준비 과정을 자동화하고 효율화함으로써, 변호사와 경영진이 전략적 의사결정에 더 집중할 수 있게 했습니다.",
+            "summary_en": "Cooley has integrated ChatGPT into its 'GO Public' platform to automate IPO preparation, enabling lawyers and management to accelerate workflows and prioritize high-value strategic decision-making.",
+            "link": "https://openai.com/index/cooley-gopublic"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1789603200000,
+            "date": "2026-09-17",
+            "title": "How Claude is uplifting biomolecular modeling",
+            "summary_kr": "앤스로픽은 클로드(Claude)를 활용해 30개 이상의 오픈소스 생물학 모델을 4배가량 가속하고 메모리 효율을 극대화하여 바이오 분자 모델링 연구의 접근성을 대폭 높였습니다.",
+            "summary_en": "Anthropic has leveraged Claude to optimize over 30 open-source biology models, achieving a 4x speed increase and enhanced memory efficiency to democratize advanced biomolecular modeling.",
+            "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789603200000,
+            "date": "2026-09-17",
+            "title": "Introducing Astra for Law",
+            "summary_kr": "법률 분야에 특화된 'Astra for Law'는 GPT-6 Astra 모델에 법률 검색 색인과 전문 도구를 결합해 법률 연구 및 문서 작성의 정확도를 획기적으로 높인 맞춤형 AI 플랫폼입니다.",
+            "summary_en": "Astra for Law is a specialized AI platform that integrates the GPT-6 Astra model with advanced legal search indexes and professional tools to significantly enhance the accuracy of legal research and drafting.",
+            "link": "https://openai.com/index/astra-for-law"
+        },
         {
             "company": "Google",
             "timestamp": 1789668900000,
@@ -855,51 +900,6 @@
             "summary_kr": "ATV Big Air Tour는 2인 운영 체제의 한계를 극복하기 위해 ChatGPT를 도입하여 이벤트 정보 관리 및 재고 처리 업무 시간을 획기적으로 단축하고 AI 검색 가시성을 크게 높였습니다.",
             "summary_en": "ATV Big Air Tour leveraged ChatGPT to overcome the limitations of its two-person team, drastically reducing time spent on event management and inventory while significantly boosting AI search visibility.",
             "link": "https://openai.com/index/atv-big-air-tour"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788282004000,
-            "date": "2026-09-01",
-            "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
-            "summary_kr": "엔비디아의 네모트론 모델과 크라우드스트라이크의 에이전트 시스템이 결합하여 공격과 방어를 자동화된 루프로 연결함으로써 사이버 보안의 탐지 성능을 획기적으로 개선합니다.",
-            "summary_en": "NVIDIA's Nemotron models and CrowdStrike's agentic system integrate offensive and defensive operations into an automated loop, significantly enhancing cybersecurity detection performance at machine scale.",
-            "link": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788369357000,
-            "date": "2026-09-02",
-            "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
-            "summary_kr": "본 기사는 최신 NVIDIA CUDA 툴체인을 활용하여 GPU 가속 코드의 안전성과 성능을 체계적으로 최적화하는 6단계 실무 가이드를 제시합니다.",
-            "summary_en": "This article provides a six-step practical guide to systematically optimizing GPU-accelerated code for safety and performance using the modern NVIDIA CUDA toolchain.",
-            "link": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788365059000,
-            "date": "2026-09-02",
-            "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
-            "summary_kr": "본 기사는 정확도를 유지하면서 LLM 추론 속도를 높이기 위한 핵심 기술인 '추론적 디코딩(Speculative Decoding)'의 원리를 설명하고, 최적의 성능을 위한 드래프트 모델 설정 가이드라인을 제시합니다.",
-            "summary_en": "This article explores the principles of speculative decoding to accelerate LLM inference without sacrificing accuracy and provides guidelines for optimizing draft model parameters to achieve peak performance.",
-            "link": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1788361200000,
-            "date": "2026-09-02",
-            "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-            "summary_kr": "구글은 추론 및 코딩 성능을 대폭 강화한 'Gemini 3.8 Flash'와 사이버 보안 특화 모델인 'Gemini 3.8 Flash Cyber'를 출시하여 이전 버전과 동일한 비용으로 높은 효율성을 제공합니다.",
-            "summary_en": "Google has introduced Gemini 3.8 Flash and the security-focused Gemini 3.8 Flash Cyber, delivering significant reasoning and coding improvements at the same speed and cost as the previous generation.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788282000000,
-            "date": "2026-09-01",
-            "title": "From AI readiness to impact: Why a strong data foundation determines success in healthcare | The Microsoft Cloud Blog",
-            "summary_kr": "의료 분야에서 AI의 성공적인 도입과 확장을 위해서는 단순한 모델 도입을 넘어, 파편화된 데이터를 통합하고 인프라를 현대화하는 강력한 데이터 기반 구축이 필수적입니다.",
-            "summary_en": "Successful AI deployment in healthcare requires shifting from isolated pilots to a robust, unified data foundation that bridges fragmented systems and modernizes infrastructure to support enterprise-wide scale.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/01/from-ai-readiness-to-impact-why-a-strong-data-foundation-determines-success-in-healthcare"
         }
     ]
 }
