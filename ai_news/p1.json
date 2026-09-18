@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-18 08:06:55",
+    "last_update": "2026-09-18 18:13:45",
     "articles": [
+        {
+            "title": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program - Reuters",
+            "summary_en": "Anthropic is expanding its AI drug discovery initiatives by establishing a specialized biology laboratory to integrate advanced computational research with experimental science.",
+            "link": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18",
+            "timestamp": 1789751910000,
+            "date": "2026-09-18"
+        },
+        {
+            "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
+            "summary_en": "Anthropic reports that its Claude AI model is now utilized for 25% of the development and coding tasks required to build its next generation of artificial intelligence.",
+            "link": "https://www.reuters.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-2026-09-17",
+            "timestamp": 1789689583000,
+            "date": "2026-09-17"
+        },
         {
             "title": "Anthropic details practical metrics to help monitor the speed of AI development - SiliconANGLE",
             "summary_en": "Anthropic has introduced three specific metrics—AI-led R&D, autonomous agent oversight, and compute allocation—to monitor the development pace of frontier AI models. These indicators aim to increase transparency and support a coordinated industry slowdown to mitigate existential risks and potential harm.",
@@ -686,20 +700,6 @@
             "link": "https://www.geekwire.com/2026/microsoft-2-5-superintelligence-leader-ali-farhadi-points-company-toward-ai-self-sufficiency",
             "timestamp": 1787843339000,
             "date": "2026-08-27"
-        },
-        {
-            "title": "NVIDIA Nears $12.9B Deal for Hugging Face, Escalating AI Ecosystem Strategy - The Futurum Group",
-            "summary_en": "NVIDIA is reportedly nearing a $12.9 billion acquisition of Hugging Face, a move designed to secure control over the primary distribution hub for open-source AI models. This acquisition would grant NVIDIA direct influence over the global developer community while hedging against efforts by competitors to develop custom silicon.",
-            "link": "https://futurumgroup.com/insights/nvidia-nears-12-9b-deal-for-hugging-face-escalating-ai-ecosystem-strategy",
-            "timestamp": 1787930864000,
-            "date": "2026-08-28"
-        },
-        {
-            "title": "Anthropic Reportedly Explored $7 Billion MatX Acquisition As AI Lab Accelerates Custom Chip Push - Pulse 2.0",
-            "summary_en": "Anthropic recently held acquisition talks with AI chip startup MatX for approximately $7 billion as part of a broader push to develop proprietary hardware. Despite the deal failing to materialize, Anthropic continues to pursue custom silicon strategies to optimize Claude’s performance and reduce reliance on third-party semiconductor providers.",
-            "link": "https://pulse2.com/anthropic-reportedly-explored-7-billion-matx-acquisition-as-ai-lab-accelerates-custom-chip-push",
-            "timestamp": 1787940366000,
-            "date": "2026-08-28"
         }
     ]
 }

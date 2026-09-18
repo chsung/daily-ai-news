@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-18 08:06:55",
+    "last_update": "2026-09-18 18:13:45",
     "articles": [
+        {
+            "title": "NVIDIA Nears $12.9B Deal for Hugging Face, Escalating AI Ecosystem Strategy - The Futurum Group",
+            "summary_en": "NVIDIA is reportedly nearing a $12.9 billion acquisition of Hugging Face, a move designed to secure control over the primary distribution hub for open-source AI models. This acquisition would grant NVIDIA direct influence over the global developer community while hedging against efforts by competitors to develop custom silicon.",
+            "link": "https://futurumgroup.com/insights/nvidia-nears-12-9b-deal-for-hugging-face-escalating-ai-ecosystem-strategy",
+            "timestamp": 1787930864000,
+            "date": "2026-08-28"
+        },
+        {
+            "title": "Anthropic Reportedly Explored $7 Billion MatX Acquisition As AI Lab Accelerates Custom Chip Push - Pulse 2.0",
+            "summary_en": "Anthropic recently held acquisition talks with AI chip startup MatX for approximately $7 billion as part of a broader push to develop proprietary hardware. Despite the deal failing to materialize, Anthropic continues to pursue custom silicon strategies to optimize Claude’s performance and reduce reliance on third-party semiconductor providers.",
+            "link": "https://pulse2.com/anthropic-reportedly-explored-7-billion-matx-acquisition-as-ai-lab-accelerates-custom-chip-push",
+            "timestamp": 1787940366000,
+            "date": "2026-08-28"
+        },
         {
             "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google | TechCrunch - TechCrunch",
             "summary_en": "Barret Zoph, a former co-founder of Thinking Machines who was recently ousted from a brief return to OpenAI, has been appointed as vice president of research at Google. Zoph is expected to leverage his expertise in reinforcement learning and post-training to contribute to the development of Google's Gemini models.",
@@ -685,20 +699,6 @@
             "summary_en": "Naver has invested $7 million in Anthropic as part of a strategic initiative to reorient its AI development roadmap and strengthen its international technology partnerships.",
             "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202608100013",
             "timestamp": 1786355460000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "Nvidia to Invest $3 Billion in Lancium for AI Infrastructure Dev - GuruFocus",
-            "summary_en": "Nvidia is set to invest $3 billion into Lancium to bolster the development of critical infrastructure necessary to support the growing demands of artificial intelligence.",
-            "link": "https://www.gurufocus.com/news/9020455/nvidia-to-invest-3-billion-in-lancium-for-ai-infrastructure-development-nvda",
-            "timestamp": 1786327984000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "Amazon names 34 researchers for AWS Trainium Responsible AI awards - EdTech Innovation Hub",
-            "summary_en": "Amazon has awarded 34 university researchers AWS Trainium compute credits to advance projects in AI safety, synthetic data, and multilingual models. This initiative is part of Amazon’s broader $110 million 'Build on Trainium' program designed to support academic research through dedicated cloud infrastructure.",
-            "link": "https://www.edtechinnovationhub.com/news/amazon-names-34-researchers-for-aws-trainium-responsible-ai-awards",
-            "timestamp": 1786321835000,
             "date": "2026-08-10"
         }
     ]
