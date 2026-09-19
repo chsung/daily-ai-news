@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-18 18:13:45",
+    "last_update": "2026-09-19 07:56:24",
     "articles": [
+        {
+            "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers - the-decoder.com",
+            "summary_en": "Google DeepMind has upgraded its Co-Scientist system to a fully autonomous lab partner capable of planning experiments, controlling hardware, and writing research papers. While the system achieved success across materials science, biology, and computer science, researchers noted that its benchmark performance does not yet fully align with expert human clinical evaluations.",
+            "link": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers",
+            "timestamp": 1787943071000,
+            "date": "2026-08-28"
+        },
+        {
+            "title": "An Anthropic researcher just gave us a peek at self-improving AI | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic's new research on the Automated Alignment Researcher (AAR) demonstrates that AI models can autonomously improve their own alignment benchmarks, outperforming human-led research in both speed and cost-efficiency. By conducting research at a fraction of the cost—$4 per hour compared to $150 for human labor—the study provides early evidence that AI could soon automate key aspects of its own development and safety training.",
+            "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+            "timestamp": 1787945438000,
+            "date": "2026-08-28"
+        },
+        {
+            "title": "Microsoft 2.5: Superintelligence leader Ali Farhadi points company toward AI self-sufficiency - GeekWire",
+            "summary_en": "Microsoft is emphasizing AI self-sufficiency under the leadership of Ali Farhadi, signaling a strategic shift toward controlling more of its own technology stack. The initiative underscores the company’s push to reduce reliance on external dependencies as it scales its AI operations.",
+            "link": "https://www.geekwire.com/2026/microsoft-2-5-superintelligence-leader-ali-farhadi-points-company-toward-ai-self-sufficiency",
+            "timestamp": 1787843339000,
+            "date": "2026-08-27"
+        },
         {
             "title": "NVIDIA Nears $12.9B Deal for Hugging Face, Escalating AI Ecosystem Strategy - The Futurum Group",
             "summary_en": "NVIDIA is reportedly nearing a $12.9 billion acquisition of Hugging Face, a move designed to secure control over the primary distribution hub for open-source AI models. This acquisition would grant NVIDIA direct influence over the global developer community while hedging against efforts by competitors to develop custom silicon.",
@@ -679,27 +700,6 @@
             "link": "https://www.kucoin.com/news/flash/ai-model-claude-advances-riemann-zeta-function-research-raises-zero-point-bound-to-67-2",
             "timestamp": 1786408422000,
             "date": "2026-08-11"
-        },
-        {
-            "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
-            "summary_en": "Meta has released a new AI model, reinforcing Mark Zuckerberg's strategic commitment to the development and promotion of open-weight artificial intelligence technologies.",
-            "link": "https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10",
-            "timestamp": 1786364781000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "Novo Nordisk and Amazon sign AI drug discovery pact, launch London innovation hub - Fierce Biotech",
-            "summary_en": "Novo Nordisk and AWS have partnered to establish a London-based innovation hub, leveraging Amazon's cloud and AI tools to accelerate drug discovery and clinical operations. This collaboration integrates specialized services like Amazon Bedrock and Bio Discovery to streamline therapeutic research and improve productivity for Novo's 25,000 employees.",
-            "link": "https://www.fiercebiotech.com/biotech/novo-nordisk-and-aws-sign-ai-drug-discovery-pact-launch-london-innovation-hub",
-            "timestamp": 1786363200000,
-            "date": "2026-08-10"
-        },
-        {
-            "title": "S.Korea's Naver invests $7 mn in Anthropic to shift AI strategy, expand global alliance - KED Global",
-            "summary_en": "Naver has invested $7 million in Anthropic as part of a strategic initiative to reorient its AI development roadmap and strengthen its international technology partnerships.",
-            "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202608100013",
-            "timestamp": 1786355460000,
-            "date": "2026-08-10"
         }
     ]
 }
