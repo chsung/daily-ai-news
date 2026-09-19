@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-09-18 18:41:24",
+    "last_update": "2026-09-19 18:15:04",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1789758281000,
+            "date": "2026-09-18",
+            "title": "Benchmarking LLM Inference at Scale with AIPerf",
+            "summary_kr": "엔비디아의 AIPerf는 멀티프로세스 아키텍처를 도입하여 기존 벤치마킹 도구의 성능 병목 현상을 해결하고, LLM 추론 성능을 정밀하고 확장성 있게 측정할 수 있도록 설계된 차세대 도구입니다.",
+            "summary_en": "NVIDIA's AIPerf is a next-generation benchmarking tool designed to eliminate client-side bottlenecks through a multi-process architecture, enabling scalable and precise evaluation of LLM inference performance.",
+            "link": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789732800000,
+            "date": "2026-09-18",
+            "title": "Introducing the Australian Youth Safety Blueprint",
+            "summary_kr": "OpenAI는 호주 청소년의 AI 사용 안전을 강화하기 위해 6대 핵심 원칙을 담은 '호주 청소년 안전 청사진'을 발표하고 관련 보호 기능을 지속적으로 확대하고 있습니다.",
+            "summary_en": "OpenAI has introduced the 'Australian Youth Safety Blueprint,' outlining six pillars to enhance AI safety and protection for young users while committing to ongoing product-level safeguards.",
+            "link": "https://openai.com/index/australian-youth-safety-blueprint"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1789689600000,
+            "date": "2026-09-18",
+            "title": "Partnering with Accenture on embedded evaluation",
+            "summary_kr": "앤스로픽은 액센츄어와 파트너십을 맺고 AI 모델 개발 내부 과정에 외부 평가자를 배치하는 '임베디드 평가' 체계를 구축하며, 향후 5년간 10억 달러 이상을 투자해 AI 안전성 검증을 강화할 계획입니다.",
+            "summary_en": "Anthropic has partnered with Accenture to implement 'embedded evaluation,' integrating independent evaluators directly into its internal AI development processes, with a commitment to invest at least $1 billion over five years to enhance AI safety verification.",
+            "link": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789560000000,
+            "date": "2026-09-16",
+            "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+            "summary_kr": "Hex는 GPT-6 Astra를 도입하여 데이터 분석의 기술적 처리와 시각화 역량을 강화함으로써, 누구나 복잡한 데이터를 직관적이고 설득력 있는 비즈니스 인사이트로 쉽게 변환할 수 있게 지원합니다.",
+            "summary_en": "Hex has integrated GPT-6 Astra to enhance its data platform, enabling users to transform complex analysis into interactive, visually compelling reports that drive better business decision-making.",
+            "link": "https://openai.com/index/hex-gpt-6-astra"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1789752107000,
@@ -864,42 +900,6 @@
             "summary_kr": "AI 기술을 활용해 초파리 수컷의 뇌 신경망을 세계 최초로 완전히 매핑함으로써, 뇌 기능 연구와 신경과학 발전을 위한 획기적인 토대를 마련했습니다.",
             "summary_en": "Researchers have leveraged AI to achieve the first complete neural map of an adult male fruit fly, establishing a foundational resource that significantly advances neuroscience and brain function studies.",
             "link": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1788447600000,
-            "date": "2026-09-03",
-            "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-            "summary_kr": "구글은 실시간 위성 데이터를 활용해 기존 대비 5배 향상된 해상도와 시간당 업데이트 주기를 갖춘 차세대 기상 AI 모델 'WeatherNext 3'를 공개했습니다.",
-            "summary_en": "Google has introduced 'WeatherNext 3,' an advanced AI weather model that leverages real-time satellite data to deliver five times higher resolution and hourly updates for more precise, localized forecasting.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1788393600000,
-            "date": "2026-09-03",
-            "title": "Designing Grok Bot for a world of persistent agents",
-            "summary_kr": "Grok Bot은 단발성 대화 중심의 기존 AI 인터페이스를 탈피하여, 사용자와 지속적으로 관계를 맺고 스스로 과업을 수행하는 '개별 에이전트' 중심의 사용자 경험을 설계했습니다.",
-            "summary_en": "Grok Bot shifts away from session-based chat interfaces to a persistent, agent-centric design that recognizes bots as autonomous, long-term collaborators capable of independent work.",
-            "link": "https://x.ai/news/designing-grok-bot"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788391680000,
-            "date": "2026-09-02",
-            "title": "The New Imperative for AI Infrastructure: Useful Yield - Source Asia",
-            "summary_kr": "마이크로소프트는 AI 인프라의 차세대 핵심 지표로 단순한 규모 확장을 넘어 자원을 효율적인 지능으로 전환하는 '유용한 수율(Useful Yield)'을 제시하며, 전 계층을 아우르는 통합 설계와 생태계 협력을 강조했습니다.",
-            "summary_en": "Microsoft emphasizes 'useful yield' as the next benchmark for AI infrastructure, prioritizing the conversion of resources into efficient intelligence through cross-layer system design and global ecosystem collaboration.",
-            "link": "https://news.microsoft.com/source/asia/2026/09/02/the-new-imperative-for-ai-infrastructure-useful-yield"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788350400000,
-            "date": "2026-09-02",
-            "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-            "summary_kr": "ATV Big Air Tour는 2인 운영 체제의 한계를 극복하기 위해 ChatGPT를 도입하여 이벤트 정보 관리 및 재고 처리 업무 시간을 획기적으로 단축하고 AI 검색 가시성을 크게 높였습니다.",
-            "summary_en": "ATV Big Air Tour leveraged ChatGPT to overcome the limitations of its two-person team, drastically reducing time spent on event management and inventory while significantly boosting AI search visibility.",
-            "link": "https://openai.com/index/atv-big-air-tour"
         }
     ]
 }

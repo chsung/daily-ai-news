@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-09-18 18:41:24",
+    "last_update": "2026-09-19 18:15:04",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1787036400000,
+            "date": "2026-08-18",
+            "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+            "summary_kr": "아사나(Asana)는 오픈AI의 코덱스(Codex) 기반 AI 에이전트를 활용해 5년이 소요될 것으로 예상되던 레거시 시스템 교체 작업을 단 2주 만에 1만 2천 달러의 비용으로 성공적으로 완료했습니다.",
+            "summary_en": "Asana successfully replaced an outdated testing system in just two weeks at a cost of $12,000 using OpenAI's Codex-powered agents, a task previously estimated to take five years and $6 million.",
+            "link": "https://openai.com/index/asana"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787011200000,
+            "date": "2026-08-18",
+            "title": "How Claude is accelerating protein design and analytical chemistry",
+            "summary_kr": "앤스로픽의 클로드(Claude)는 단백질 설계와 화학 분석 작업에서 전문가 수준 이상의 성과를 보이며 신약 개발의 초기 연구 속도를 획기적으로 단축할 수 있는 가능성을 입증했습니다.",
+            "summary_en": "Anthropic's Claude has demonstrated expert-level performance in protein design and chemical analysis, proving its potential to significantly accelerate early-stage drug discovery workflows.",
+            "link": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787011200000,
+            "date": "2026-08-18",
+            "title": "How NVIDIA scales expertise with ChatGPT Work",
+            "summary_kr": "엔비디아는 'ChatGPT Work'를 도입하여 반복적인 운영 업무를 자동화하고 정보 분석 시간을 단축함으로써, 지식 노동자들이 전략적 의사결정과 신속한 프로토타이핑에 집중할 수 있는 환경을 구축했습니다.",
+            "summary_en": "NVIDIA is leveraging 'ChatGPT Work' to automate operational workflows and streamline information analysis, enabling knowledge workers to shift their focus toward strategic decision-making and rapid prototyping.",
+            "link": "https://openai.com/index/nvidia/chatgpt-work"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787050800000,
+            "date": "2026-08-18",
+            "title": "Partnering with CodeAI to prepare the first AI generation",
+            "summary_kr": "OpenAI는 CodeAI와의 파트너십 및 'ChatGPT for Teens' 출시를 통해 학생들이 AI를 책임감 있게 활용하고 비판적으로 사고할 수 있는 차세대 AI 리터러시 교육 환경을 구축합니다.",
+            "summary_en": "OpenAI is partnering with CodeAI and launching 'ChatGPT for Teens' to equip students with the essential skills to critically evaluate, responsibly use, and shape the future of AI.",
+            "link": "https://openai.com/index/partnering-with-codeai"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1787050800000,
@@ -864,42 +900,6 @@
             "summary_kr": "의료 로봇 개발의 핵심 난제인 데이터 부족과 긴 개발 주기를 해결하기 위해, NVIDIA는 GPU 기반의 의료 물리 시뮬레이션 프레임워크를 도입하여 고정밀 학습과 가상 환경에서의 훈련을 가속화합니다.",
             "summary_en": "To overcome the challenges of data scarcity and slow development cycles in healthcare robotics, NVIDIA introduces a GPU-native medical physics simulation framework that accelerates high-fidelity training and policy development.",
             "link": "https://developer.nvidia.com/blog/developing-healthcare-robotics-with-gpu-native-medical-physics-simulation"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1785196800000,
-            "date": "2026-07-28",
-            "title": "Grok 4.5 in GitHub Copilot",
-            "summary_kr": "xAI의 최신 코딩 모델인 Grok 4.5가 GitHub Copilot에 통합되어 전 세계 개발자들이 VSCode와 GitHub 환경에서 이를 직접 활용할 수 있게 되었습니다.",
-            "summary_en": "xAI's latest coding model, Grok 4.5, is now integrated into GitHub Copilot, allowing developers to utilize its advanced capabilities directly within VSCode and GitHub environments.",
-            "link": "https://x.ai/news/grok-github-copilot"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785174120000,
-            "date": "2026-07-27",
-            "title": "Enhancing AI security through global AI red teaming | Microsoft Security Blog",
-            "summary_kr": "마이크로소프트는 AI 시스템의 복잡한 보안 위협을 해결하고자 전 세계 전문가 및 학계와 협력하는 '외부 레드팀 연합(EXTRA)'을 출범했습니다. 이는 외부 전문성을 통합하여 AI 안전성 평가 연구와 글로벌 보안 대응 체계를 고도화하기 위함입니다.",
-            "summary_en": "Microsoft has launched the External Red Team Alliance (EXTRA) to bridge the gap in AI safety by fostering global collaboration with academic researchers and domain experts. This initiative aims to strengthen AI security and evaluation methodologies through a diverse, international network of specialists.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/07/27/enhancing-ai-security-through-global-ai-red-teaming"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785258000000,
-            "date": "2026-07-28",
-            "title": "Scientific computing in the age of agentic AI",
-            "summary_kr": "AI 코딩 에이전트는 과학적 소프트웨어의 개발과 유지보수 효율을 획기적으로 높여 연구자들이 기술적 구현보다 과학적 발견에 집중할 수 있는 환경을 조성하고 있습니다. 다만, 에이전트 결과물의 과학적 타당성을 검증하는 인간의 전문적 판단과 정교한 피드백 루프는 여전히 필수적인 성공 요소입니다.",
-            "summary_en": "AI coding agents are revolutionizing scientific computing by accelerating software development and maintenance, allowing researchers to shift their focus from implementation to scientific discovery. While these agents boost velocity, rigorous human validation and iterative feedback remain critical to ensuring the scientific integrity of the outputs.",
-            "link": "https://openai.com/index/scientific-computing-agentic-ai"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1785256277000,
-            "date": "2026-07-28",
-            "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 기업들이 AI 실험 단계를 넘어, 자체 데이터와 에이전트 워크플로우를 활용해 비즈니스 핵심에 AI를 내재화하는 '프런티어 트랜스포메이션(Frontier Transformation)' 시대로 진입했다고 평가했습니다.",
-            "summary_en": "Microsoft highlights the shift to 'Frontier Transformation,' where businesses are moving beyond AI experimentation to embed agentic workflows and secure intelligence platforms into their core operations for measurable outcomes.",
-            "link": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation"
         }
     ]
 }
