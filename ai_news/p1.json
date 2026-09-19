@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-19 07:56:24",
+    "last_update": "2026-09-19 17:53:30",
     "articles": [
+        {
+            "title": "Anthropic is operating a lab that conducts biology experiments | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic has confirmed the operation of a Bay Area-based wet biology lab aimed at conducting fundamental physical experiments to enhance its AI models' understanding of life sciences. Despite company claims that the facility is not focused on drug discovery, the initiative has sparked industry concern regarding the safety of AI-driven biological research.",
+            "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+            "timestamp": 1789773211000,
+            "date": "2026-09-18"
+        },
+        {
+            "title": "OpenAI Launches AI System Designed for Legal Research and Law Firm Work - - - MSME Africa",
+            "summary_en": "OpenAI has introduced Astra for Law, a specialized system powered by GPT-6 that integrates a legal index of over 230 million URLs to assist firms with complex research, drafting, and analysis. The tool demonstrated significant performance gains in legal reasoning benchmarks and is currently being deployed to select partners with strict data privacy controls.",
+            "link": "https://msmeafricaonline.com/openai-launches-ai-system-designed-for-legal-research-and-law-firm-work",
+            "timestamp": 1789820055000,
+            "date": "2026-09-19"
+        },
         {
             "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development - Politico",
             "summary_en": "Major AI developers including Anthropic, OpenAI, xAI, and Google are facing legal action over their public calls to 'pace' or regulate the development of artificial intelligence technologies.",
@@ -686,20 +700,6 @@
             "link": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds",
             "timestamp": 1788121426000,
             "date": "2026-08-30"
-        },
-        {
-            "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices - MarkTechPost",
-            "summary_en": "Anthropic has introduced the Model Hardware Standard (MHS), a specification that allows AI agents to interface directly with laboratory equipment. This framework significantly reduces integration time from weeks to hours and has demonstrated success in complex tasks, such as increasing laser-relock success rates to 99.3%.",
-            "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices",
-            "timestamp": 1788070341000,
-            "date": "2026-08-30"
-        },
-        {
-            "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance - the-decoder.com",
-            "summary_en": "Google Research has launched WikiSkill, a framework that enables AI agents to maintain a persistent knowledge base of past successes and failures. By storing these insights in a structured wiki, the system allows agents to refine their procedural skills over time, enabling smaller models to perform on par with larger ones.",
-            "link": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes",
-            "timestamp": 1788008093000,
-            "date": "2026-08-29"
         }
     ]
 }
