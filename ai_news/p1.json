@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-20 08:30:56",
+    "last_update": "2026-09-20 18:09:49",
     "articles": [
+        {
+            "title": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’ - Tom's Hardware",
+            "summary_en": "Major AI developers including OpenAI and Anthropic are facing a class-action lawsuit alleging that a coordinated agreement to slow development constitutes illegal antitrust activity. Plaintiffs argue these companies are prioritizing self-serving industry control over the value and progress promised to consumers.",
+            "link": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+            "timestamp": 1789915737000,
+            "date": "2026-09-20"
+        },
+        {
+            "title": "Nvidia’s Nemotron hit enterprise AI inflection point - Constellation Research",
+            "summary_en": "Nvidia’s open-weight Nemotron models are becoming the industry standard for enterprises seeking cost-effective, private, and customizable AI solutions. Major vendors like Salesforce and Palantir are increasingly integrating these models to ensure data sovereignty and improve performance efficiency over closed-source alternatives.",
+            "link": "https://www.constellationr.com/insights/news/nvidias-nemotron-hit-enterprise-ai-inflection-point",
+            "timestamp": 1789903731000,
+            "date": "2026-09-20"
+        },
+        {
+            "title": "Anthropic opens AI-powered biology research lab - SiliconANGLE",
+            "summary_en": "Anthropic has launched a dedicated biology wet lab in the San Francisco Bay Area that utilizes AI-controlled robotics to automate scientific research. By leveraging its Model Hardware Standard (MHS) protocol, the company aims to enhance protein design efficiency and explore biological phenomena, potentially licensing findings to pharmaceutical partners.",
+            "link": "https://siliconangle.com/2026/09/18/anthropic-opens-ai-powered-biology-research-lab",
+            "timestamp": 1789762500000,
+            "date": "2026-09-18"
+        },
         {
             "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - PBS",
             "summary_en": "A lawsuit has been filed against major AI developers including Anthropic, OpenAI, and Google, alleging that these companies entered into an illegal agreement to collectively slow down the pace of AI advancement.",
@@ -678,27 +699,6 @@
             "summary_en": "The U.S. Department of War has officially integrated OpenAI’s ChatGPT into its specialized GenAI.mil platform. This initiative marks a strategic move to leverage advanced generative AI for military-related applications.",
             "link": "https://www.war.gov/News/Releases/Release/Article/4586352/department-of-war-launches-openais-chatgpt-mil-on-genaimil",
             "timestamp": 1788184903000,
-            "date": "2026-08-31"
-        },
-        {
-            "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting - MarkTechPost",
-            "summary_en": "Google Research introduced TimesFM-3, a 330-million parameter foundation model capable of performing multivariate time series forecasting without task-specific fine-tuning. While it achieves top-tier performance on industry benchmarks, its current release is restricted to non-commercial and non-production use.",
-            "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting",
-            "timestamp": 1788211216000,
-            "date": "2026-08-31"
-        },
-        {
-            "title": "NVIDIA Q2 FY 2027: AI Infrastructure Demand Extends Into FY 2028 - The Futurum Group",
-            "summary_en": "NVIDIA reported a record $96.22 billion in revenue for Q2 FY 2027, driven by massive demand for its new Vera Rubin platform and Blackwell Ultra architecture. The company’s continued growth is supported by significant procurement commitments and a strategic expansion into comprehensive AI factory infrastructure beyond individual GPUs.",
-            "link": "https://futurumgroup.com/insights/nvidia-q2-fy-2027-ai-infrastructure-demand-extends-into-fy-2028",
-            "timestamp": 1788187092000,
-            "date": "2026-08-31"
-        },
-        {
-            "title": "Anthropic Publishes AI Alignment Research as It Faces New Music Publisher Lawsuit - AI Insider",
-            "summary_en": "Anthropic demonstrated that automated systems can outperform human researchers in AI alignment at 1/37th of the cost, while simultaneously facing a major copyright lawsuit from music publishers alleging the illegal use of pirated lyrics and sheet music to train Claude models.",
-            "link": "https://theaiinsider.tech/2026/08/31/anthropic-publishes-ai-alignment-research-as-it-faces-new-music-publisher-lawsuit",
-            "timestamp": 1788193699000,
             "date": "2026-08-31"
         }
     ]
