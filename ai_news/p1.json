@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-21 08:45:55",
+    "last_update": "2026-09-21 19:56:19",
     "articles": [
+        {
+            "title": "Measurements for understanding the pace of AI development inside frontier labs - anthropic.com",
+            "summary_en": "Anthropic has introduced a new framework designed to measure and evaluate the developmental pace and safety benchmarks of AI models within frontier laboratories.",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+            "timestamp": 1790014861000,
+            "date": "2026-09-21"
+        },
+        {
+            "title": "RetroChimera: New research advances AI-assisted molecule synthesis - Microsoft Source",
+            "summary_en": "Microsoft researchers have unveiled RetroChimera, a new AI-driven methodology aimed at optimizing and advancing the synthesis of complex molecules.",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVi1YQW1LVkhJSDdVQ2NkdVg5UkJDbGxEQjBPWHk2dkdBWlpNTXBPM0l3NUtWVFFHbHFMSzNwZXdrQjNLUFBobG8teVR6dHU3SEQ1UEFlTjA2Y0tXVHlJY2R3Y2ZwMDRsZTN4Z2RRYXFyUHR5N3ZDMU9kY3p6eVAzN1YwTnhaUHoxX3dHWnpMYXNJWVZ4c1p2eUxUN0g4Y3h2U2lyUUVENUtOMl9BbmZucXpn?oc=5",
+            "timestamp": 1790002805000,
+            "date": "2026-09-21"
+        },
+        {
+            "title": "Google 뉴스 - AP News",
+            "summary_en": "Google News continues to serve as a primary aggregator for global developments, reflecting the evolving landscape of the AI industry as reported by AP News.",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+            "timestamp": 1789855500000,
+            "date": "2026-09-19"
+        },
         {
             "title": "Google 뉴스 - Tom's Hardware",
             "summary_en": "Google is navigating a shifting landscape in the tech industry, facing continued scrutiny and competition as it integrates advanced AI across its search and hardware ecosystem.",
@@ -679,27 +700,6 @@
             "link": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
             "timestamp": 1788321960000,
             "date": "2026-09-02"
-        },
-        {
-            "title": "OpenAI delayed its new model’s development after the Hugging Face hack - The Verge",
-            "summary_en": "OpenAI has delayed the release of its 'Astra' model suite to enhance safety testing and cybersecurity guardrails following a security breach at Hugging Face. The company identified Astra as its first model capable of exploiting secure systems, necessitating more rigorous monitoring to prevent cyber misuse.",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-            "timestamp": 1788295549000,
-            "date": "2026-09-01"
-        },
-        {
-            "title": "AWS to launch first cloud region in Saudi Arabia by 2026 - About Amazon",
-            "summary_en": "AWS plans to launch a new cloud region in Saudi Arabia by 2026, backed by a $5.3 billion investment to support the nation's AI infrastructure and Vision 2030 goals. The initiative includes a partnership with HUMAIN to provide AI-native data infrastructure and localized high-performance computing resources.",
-            "link": "https://www.aboutamazon.com/news/aws/aws-cloud-region-saudi-arabia",
-            "timestamp": 1788185813000,
-            "date": "2026-08-31"
-        },
-        {
-            "title": "Qualcomm rival MediaTek jumps 10% after $3.5 billion Nvidia AI chip deal - CNBC",
-            "summary_en": "MediaTek shares rose 10% following a partnership with Nvidia, which included a $3.5 billion investment via convertible bonds to integrate Nvidia’s NVLink Fusion platform into MediaTek’s custom data center chips. The collaboration aims to accelerate MediaTek’s push into high-performance AI infrastructure and expand its footprint in PC and automotive AI computing.",
-            "link": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
-            "timestamp": 1788249623000,
-            "date": "2026-09-01"
         }
     ]
 }
