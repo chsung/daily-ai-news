@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-09-19 18:15:04",
+    "last_update": "2026-09-21 20:09:37",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788474962000,
+            "date": "2026-09-03",
+            "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+            "summary_kr": "분산된 AI 및 데이터 플랫폼 환경에서 중앙 ID 게이트웨이 패턴을 도입하여 SSO의 한계를 극복하고, 클러스터 전반에 걸쳐 일관되고 안전한 사용자 인증 정보를 전파할 수 있습니다.",
+            "summary_en": "Adopting a central identity gateway pattern overcomes SSO limitations in distributed AI and data platforms by consistently and securely propagating user identity across federated environments.",
+            "link": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788441300000,
+            "date": "2026-09-03",
+            "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+            "summary_kr": "OpenAI는 자원이 부족한 필수 서비스 운영 기관들이 사이버 위협에 대응할 수 있도록 10억 달러 규모의 'Daybreak' AI 모델 및 기술 지원 이니셔티브를 발표했습니다.",
+            "summary_en": "OpenAI has launched a $1 billion 'Daybreak' initiative to provide resource-constrained essential service providers with frontier AI tools and technical support to bolster their cybersecurity defenses.",
+            "link": "https://openai.com/index/daybreak-for-frontline-defenders"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788436800000,
+            "date": "2026-09-03",
+            "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+            "summary_kr": "Legora는 GPT-6 Astra를 활용해 수일이 걸리던 재무제표 대조 작업을 단 몇 분 만에 완료하며 업무 정확도를 40% 향상시켰습니다.",
+            "summary_en": "Legora leveraged GPT-6 Astra to automate complex financial-statement tie-outs, reducing processing time from days to minutes while improving benchmark accuracy by 40%.",
+            "link": "https://openai.com/index/legora-financial-statement-review-with-astra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788436800000,
+            "date": "2026-09-03",
+            "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+            "summary_kr": "게임 개발사 Playco는 GPT-6 Astra를 활용하여 게임 엔진 내 자동화된 프로토타이핑을 구현함으로써 수동 수정 작업을 50% 줄이고 개발 효율성을 혁신했습니다.",
+            "summary_en": "Playco leveraged GPT-6 Astra to automate game prototyping within development engines, achieving a 50% reduction in manual fixes and accelerating the creative iteration process.",
+            "link": "https://openai.com/index/playco-game-prototyping-with-astra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788393600000,
+            "date": "2026-09-03",
+            "title": "Safety overview: GPT-6 Astra",
+            "summary_kr": "GPT-6 Astra는 강력한 사이버 보안 능력을 갖춘 최상위 모델로, 강화된 정렬 기술과 모니터링 체계를 통해 잠재적 위험을 관리하지만 일부 모니터링 우회 가능성도 존재합니다.",
+            "summary_en": "GPT-6 Astra is a highly capable model reaching critical cybersecurity thresholds, featuring advanced alignment and monitoring systems to mitigate risks despite identified challenges in complete monitorability.",
+            "link": "https://openai.com/index/safety-overview-gpt-6-astra"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1788393600000,
+            "date": "2026-09-03",
+            "title": "Grok Bot for Enterprise",
+            "summary_kr": "Grok Bot이 기업용으로 출시되어, 자율적인 AI 에이전트가 업무 흐름을 학습하고 다양한 비즈니스 도구를 활용해 24시간 실무를 처리할 수 있게 되었습니다. 이번 업데이트는 기업 수준의 보안 및 거버넌스 기능을 제공하여 대규모 조직의 생산성을 극대화합니다.",
+            "summary_en": "Grok Bot has launched for enterprises, offering autonomous AI agents that learn workflows to execute end-to-end tasks across existing business tools. The release includes robust enterprise-grade governance and security controls to support large-scale organizational productivity.",
+            "link": "https://x.ai/news/grok-bot-for-enterprise"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1788454821000,
+            "date": "2026-09-03",
+            "title": "MAI-Transcribe-2 is the fastest, most accurate and cheapest speech recognition model in the world | Microsoft AI",
+            "summary_kr": "마이크로소프트의 MAI-Transcribe-2는 60개 언어에서 업계 최고 수준의 정확도와 경쟁사 대비 최대 10배 빠른 속도를 구현하며 비용 효율성까지 확보한 차세대 음성 인식 모델입니다.",
+            "summary_en": "Microsoft's MAI-Transcribe-2 is a next-generation speech recognition model that delivers industry-leading accuracy across 60 languages, up to 10x faster performance than competitors, and superior cost-efficiency.",
+            "link": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788451200000,
+            "date": "2026-09-03",
+            "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+            "summary_kr": "엔비디아의 PAIR(Personal AI Router)는 로컬 네트워크 내 여러 기기의 유휴 컴퓨팅 자원을 활용해 AI 에이전트의 다중 추론 요청을 분산 처리함으로써 병목 현상을 해소하고 작업 속도를 최적화합니다.",
+            "summary_en": "NVIDIA’s Personal AI Router (PAIR) optimizes AI agent performance by distributing multi-agent inference workloads across available local hardware, effectively eliminating bottlenecks without requiring changes to existing agent configurations.",
+            "link": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788447900000,
+            "date": "2026-09-03",
+            "title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
+            "summary_kr": "AI 기술을 활용해 초파리 수컷의 뇌 신경망을 세계 최초로 완전히 매핑함으로써, 뇌 기능 연구와 신경과학 발전을 위한 획기적인 토대를 마련했습니다.",
+            "summary_en": "Researchers have leveraged AI to achieve the first complete neural map of an adult male fruit fly, establishing a foundational resource that significantly advances neuroscience and brain function studies.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map"
+        },
         {
             "company": "Google",
             "timestamp": 1788447600000,
@@ -819,87 +900,6 @@
             "summary_kr": "엔비디아의 4B 파라미터 기반 'Cosmos 3 Edge'는 물리적 세계 이해도를 갖춘 초경량 모델로, 제트슨(Jetson) 환경에서 실시간 온디바이스 로봇 제어를 가능하게 합니다.",
             "summary_en": "NVIDIA's 4B-parameter 'Cosmos 3 Edge' leverages physical-world foundation knowledge to enable real-time, on-device robot control directly on Jetson hardware.",
             "link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787122800000,
-            "date": "2026-08-19",
-            "title": "Replit expands access to software creation with GPT-5.6 Luna",
-            "summary_kr": "Replit은 OpenAI의 고성능 모델인 GPT-5.6 Luna를 기반으로 한 'Free Mode'를 출시하여, 비용 부담 없이 누구나 아이디어를 실제 소프트웨어로 구현할 수 있는 환경을 제공합니다.",
-            "summary_en": "Replit has launched 'Free Mode' powered by GPT-5.6 Luna, democratizing software development by allowing users to build functional applications without cost barriers.",
-            "link": "https://openai.com/index/replit"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1787097600000,
-            "date": "2026-08-19",
-            "title": "Grok 4.6 on Amazon Bedrock",
-            "summary_kr": "xAI의 최신 플래그십 모델인 Grok 4.6이 Amazon Bedrock에 정식 출시되어 50만 토큰의 컨텍스트 윈도우와 조정 가능한 추론 기능을 제공합니다.",
-            "summary_en": "xAI's latest flagship model, Grok 4.6, is now generally available on Amazon Bedrock, featuring a 500k context window and configurable reasoning capabilities.",
-            "link": "https://x.ai/news/grok-4-6-amazon-bedrock"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787090400000,
-            "date": "2026-08-18",
-            "title": "ChatGPT Ads expands across Europe",
-            "summary_kr": "오픈AI가 미국과 주요 시장에 이어 유럽 31개국으로 광고 서비스를 확대하며, 무료 사용자 대상의 광고 플랫폼을 통해 수익 모델 다각화와 AI 접근성 강화에 나섭니다.",
-            "summary_en": "OpenAI is expanding its ChatGPT ad platform to 31 European markets, aiming to support free AI access while providing marketers with new tools to reach users during their decision-making process.",
-            "link": "https://openai.com/index/chatgpt-ads-expands-across-europe"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787079600000,
-            "date": "2026-08-18",
-            "title": "Strengthening democratic oversight in national security",
-            "summary_kr": "OpenAI는 국가 안보 분야에서의 AI 도입이 가속화됨에 따라, 민주적 감시 기관들이 AI를 효과적으로 감독하고 검증할 수 있도록 기술 지원과 자금을 제공하는 새로운 이니셔티브를 시작합니다.",
-            "summary_en": "OpenAI is launching an initiative to provide technical support and funding to democratic oversight bodies, ensuring they have the tools and expertise to effectively oversee AI-driven national security operations.",
-            "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787076000000,
-            "date": "2026-08-18",
-            "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
-            "summary_kr": "NVIDIA ALCHEMI 툴킷은 AI 코딩 에이전트와 결합하여 물질 시뮬레이션의 복잡한 진입 장벽을 낮추고, 연구자가 자연어로 고성능 GPU 기반의 워크플로우를 효율적으로 구축할 수 있도록 지원합니다.",
-            "summary_en": "NVIDIA ALCHEMI Toolkit integrates with AI coding agents to overcome barriers in material simulation, enabling researchers to efficiently build high-performance, GPU-accelerated workflows using natural language prompts.",
-            "link": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787071688000,
-            "date": "2026-08-18",
-            "title": "Run Massive-Scale UMAP in Minutes Using Multiple GPUs—Without Losing Accuracy",
-            "summary_kr": "엔비디아 cuML과 cuVS 25.06은 다중 GPU를 활용해 UMAP의 kNN 그래프 구축 단계를 분산 처리함으로써, 대규모 데이터셋의 분석 시간을 기존 수일에서 수 분 단위로 획기적으로 단축했습니다.",
-            "summary_en": "NVIDIA cuML and cuVS 25.06 significantly accelerate massive-scale UMAP processing by distributing kNN graph construction across multiple GPUs, reducing computation time from days to minutes without compromising accuracy.",
-            "link": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787070979000,
-            "date": "2026-08-18",
-            "title": "High-stakes network decisions, made in minutes: How EDOTCO Group is transforming network planning with AI - Source Asia",
-            "summary_kr": "EDOTCO 그룹은 마이크로소프트 애저 기반의 AI 도구인 'NaPA GPT'를 도입해, 복잡한 통신망 설계 데이터를 자연어로 즉시 분석함으로써 기지국 최적 입지 선정 업무를 며칠에서 수 분 단위로 단축했습니다.",
-            "summary_en": "EDOTCO Group has transformed network planning by implementing 'NaPA GPT', an AI-powered tool on Microsoft Azure that enables planners to extract actionable insights from complex geospatial data in minutes via natural language queries.",
-            "link": "https://news.microsoft.com/source/asia/features/high-stakes-network-decisions-made-in-minutes-how-edotco-group-is-transforming-network-planning-with-ai"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1787068800000,
-            "date": "2026-08-18",
-            "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
-            "summary_kr": "구글은 AI 모델과 방대한 데이터를 활용해 전 세계 홍수를 예측하는 'Flood Hub'를 운영하며, 특히 데이터가 부족한 도시 지역의 돌발 홍수 예측을 위해 'Groundsource' 기술로 새로운 데이터셋을 구축했습니다.",
-            "summary_en": "Google leverages AI and diverse global data through its 'Flood Hub' to predict riverine floods, and has recently introduced 'Groundsource' to create new datasets for forecasting urban flash floods in data-scarce regions.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787050800000,
-            "date": "2026-08-18",
-            "title": "Pacing model development in an era of cyber-critical capabilities",
-            "summary_kr": "AI 모델의 사이버 보안 위험이 증가함에 따라, 개발사는 안전성 확보를 위해 모델 훈련 속도를 일시적으로 늦추고 모니터링, 정렬, 보안 조치를 대폭 강화하고 있습니다.",
-            "summary_en": "As AI models reach critical cybersecurity capability thresholds, the company has temporarily slowed development to strengthen monitoring, alignment, and security safeguards.",
-            "link": "https://openai.com/index/pacing-model-development-cyber-capabilities"
         }
     ]
 }
