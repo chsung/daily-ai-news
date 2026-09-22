@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-21 19:56:19",
+    "last_update": "2026-09-22 08:24:25",
     "articles": [
+        {
+            "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems - TechCrunch",
+            "summary_en": "OpenAI has established a dedicated mathematics advisory group to oversee its systems, which have now successfully solved over 100 complex, open-ended mathematical problems.",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2Z0dXVEUmlxTTRyQVBvdlYtVlVyMkNlOUQyWDJGRWxjcXBoU0lsaHpfTGNNVEQtMnVfMkd1bnRDRk1BdGFoMjZXeWxtVGMxMS1KWWw5NXpMSS11bTQtSEhkMWZzaFdoMU5Gc0lEOW9ySTV0ZXhaM09kcWNLb0RneXU0RXp5eXZ0Tm9IYWNNOEthR1MxT2tIS2NOblVpR1FmRTNFcUhmTDR2NVNXb3BnQmtHWGk?oc=5",
+            "timestamp": 1790021758000,
+            "date": "2026-09-21"
+        },
+        {
+            "title": "Anthropic moves fast on AI safety concerns with Accenture “embedded evaluator” partnership - IT Pro",
+            "summary_en": "Anthropic is accelerating its AI safety initiatives by partnering with Accenture to implement an 'embedded evaluator' framework for enterprise deployments.",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU9LeWNlenVyRTZpZ201VnI3NEIzYXZFQXE2by1iWFZDV1gtVWVvbUJ6YWNWVnAzdm90bjFNM2N2YlM5VXlaa2lIWW9GSWxTcllHS3RuS2ZQeWRueHZTVFlGS1RZOEVQU2NtaG5pR3d3ZE5YMGtXUVMxOFEza2xUMWdsWVBLRXI0X28xVW5Fdld1Ty1zR05XNU8zbW1hbEtEOFl2ZDFMSVphc2ticTlyeGVWTThmd3NKTUZOdlhMNm1zSnE0NGxVeDdod3lqckprY0dsd3Bfakc0QXJNbnc?oc=5",
+            "timestamp": 1789987257000,
+            "date": "2026-09-21"
+        },
         {
             "title": "Measurements for understanding the pace of AI development inside frontier labs - anthropic.com",
             "summary_en": "Anthropic has introduced a new framework designed to measure and evaluate the developmental pace and safety benchmarks of AI models within frontier laboratories.",
@@ -685,20 +699,6 @@
             "summary_en": "SK biopharmaceuticals has secured access to 128 Nvidia B200 GPUs to establish a high-performance in-house computing cluster capable of 0.58 exaflops for drug research. This infrastructure, hosted by SK Telecom, will accelerate the development of proprietary large language models for translational research and potential commercial AI service offerings.",
             "link": "https://www.koreabiomed.com/news/articleView.html?idxno=33023",
             "timestamp": 1788328618000,
-            "date": "2026-09-02"
-        },
-        {
-            "title": "A Microsoft Research and Carnegie Mellon survey of 319 knowledge workers found that the more confidence people placed in AI’s ability to perform a task, the less critical thinking they reported doing—suggesting that trusted AI can make independent scrutiny feel less necessary. - ScienceBlog.com",
-            "summary_en": "A joint study by Microsoft Research and Carnegie Mellon University involving 319 workers reveals that higher confidence in AI capabilities leads to reduced critical thinking and independent scrutiny. The research warns that as AI reduces the perceived effort of tasks, users may become less likely to verify information, potentially leading to overlooked errors.",
-            "link": "https://scienceblog.com/t-ai-confidence-less-critical-thinking-319-knowledge-workers",
-            "timestamp": 1788359470000,
-            "date": "2026-09-02"
-        },
-        {
-            "title": "Architect of British government’s AI strategy joins Anthropic - The Guardian",
-            "summary_en": "Matt Clifford, the former architect of the UK government’s AI strategy, has been appointed as managing director of international affairs at Anthropic. His transition has sparked concerns from critics regarding the 'revolving door' between high-level government advisory roles and the private AI sector.",
-            "link": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
-            "timestamp": 1788321960000,
             "date": "2026-09-02"
         }
     ]

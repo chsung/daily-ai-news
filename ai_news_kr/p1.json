@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-21 19:55:31",
+    "last_update": "2026-09-22 08:23:54",
     "articles": [
+        {
+            "title": "딥시크, 美 엔비디아 의존 줄인다…中 화웨이 AI칩으로 추론 넘어 ‘학습’ 도전 - 조선일보",
+            "summary_kr": "중국의 딥시크가 엔비디아 의존도를 낮추기 위해 화웨이 AI 칩을 도입하며 추론을 넘어 모델 학습 분야까지 기술 독립을 추진합니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHR6X09tMEZFS0FpNnhqeERhUmVNTkVnQ3hoZzlpVlNWRXk3VE9UMGNXT3JWX0taa1hwLWV1RU9LSUFpX3VrWmwtM0lBZmpXRkRLYjdOaGwyc2JmNWZpMmUtZlVicWhsdVZJcGhob1B0RnVtNzNCOWRodW1pMGU5RkkzUQ?oc=5",
+            "timestamp": 1790062380000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "메타 ‘생활밀착 AI 비서’ 돌풍...AI 위기론도 날렸다 - 조선일보",
+            "summary_kr": "메타가 선보인 생활 밀착형 AI 비서가 시장에서 큰 호응을 얻으며, 일각에서 제기된 AI 거품론과 위기론을 불식시키고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXdCQkJPOWlPRktyRnFhTk1vQ2t1WjNJcjJKcmFfelR3MkQzdV9sTTBoeGFLQnhIY3FRNGJ2R2pCODhTVnZmOUNKUDN0azA2dWxNX09hRzZ5d3pfQjlndUtKZ1MtZGlLcnN3VGwtNVFRc0wxd1B1UGF2LXJtd1FLcC1Ydw?oc=5",
+            "timestamp": 1790064859000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "오픈AI·앤트로픽, 경쟁사에 AI모델 열어 ‘상호검증’ 추진 - 디지털데일리",
+            "summary_kr": "오픈AI와 앤트로픽이 AI 모델의 안전성과 신뢰성을 확보하기 위해 경쟁사와 자사 모델을 공유하고 상호 검증하는 체계를 마련합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUWE1Mm1ILXFZeFljc3FRbFI2QUdjUWdIdkc4NVNKR2xucVhCcDhTUlBPd2dkQXJsU1Vvck1VcU52RGNmc1Z5RDJTeTZTaEx4LVBHTkJHdDlIenBydVBnUEdHb0g?oc=5",
+            "timestamp": 1790044361000,
+            "date": "2026-09-22"
+        },
         {
             "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개 - 지디넷코리아",
             "summary_kr": "퀄컴과 구글이 전략적 기술 동맹을 맺고 제미나이 AI를 탑재한 새로운 PC 브랜드 '구글북'을 시장에 전격 공개했습니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "미국 정부가 엔비디아의 첨단 GPU에 대한 수출 통제 권한을 단순한 제재 수단을 넘어 타국과의 외교적 합의를 이끌어내는 유력한 협상 카드로 활용하고 있습니다. 아르메니아와 아제르바이잔의 평화 협상 및 중동 국가들의 대미 투자와 안보 협력 사례처럼, GPU 접근권이 곧 국가별 AI 경쟁력과 직결되면서 첨단 반도체 공급망이 국제 외교 전략의 핵심 변수로 부상했습니다.",
             "link": "https://www.chosun.com/economy/tech_it/2026/09/06/AA64YGQM25EQ7K3YXUCTZGIDSQ",
             "timestamp": 1788673620000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\" - AI타임스",
-            "summary_kr": "마이크로소프트가 AI 개발자의 로컬 환경 최적화를 위해 개발 도구를 사전 구성한 윈도우 11 기반 '프로젝트 제니스'를 공개했습니다. 64GB 이상의 통합 메모리를 요구하는 고성능 하드웨어를 바탕으로 300억 개 이상의 매개변수를 가진 모델을 로컬에서 구동해, 클라우드 추론 비용을 절감하는 것이 핵심입니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=214904",
-            "timestamp": 1788679619000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "엔비디아, 허깅페이스 인수…17조원으로 개방형 AI 생태계 삼켰다 | KB의 생각 - KB Think",
-            "summary_kr": "엔비디아가 17조 5천억 원에 AI 모델 공유 플랫폼 허깅페이스를 인수하며 개방형 AI 생태계 주도권을 확보했습니다. 1,800만 명의 개발자가 사용하는 개방형 플랫폼을 품에 안은 엔비디아는 기존의 GPU 하드웨어 강자를 넘어 종합 AI 기업으로 도약할 전망입니다.",
-            "link": "https://kbthink.com/news-list/view.html?newsId=20260906120140144",
-            "timestamp": 1788663699000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "“대통령과 전화 한 통으로 AI 규제 무산?”…저커버그-트럼프 비밀 통화에 의회 발칵 - AI포스트",
-            "summary_kr": "마크 저커버그 메타 CEO가 트럼프 대통령과의 비공개 통화를 통해 AI 독립 규제기구 신설을 저지하려 했다는 정황이 드러나 미 의회의 강한 반발을 사고 있습니다. 사전 검증을 골자로 한 'FINRA 모델' 도입을 둘러싼 빅테크의 막후 로비와 이에 대응하는 의회의 청문회 소환 경고로 인해 향후 AI 규제 정책의 향방이 불투명해졌습니다.",
-            "link": "https://www.aipostkorea.com/news/articleView.html?idxno=12592",
-            "timestamp": 1788672968000,
             "date": "2026-09-06"
         }
     ]

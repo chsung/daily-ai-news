@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-21 19:56:19",
+    "last_update": "2026-09-22 08:24:25",
     "articles": [
+        {
+            "title": "A Microsoft Research and Carnegie Mellon survey of 319 knowledge workers found that the more confidence people placed in AI’s ability to perform a task, the less critical thinking they reported doing—suggesting that trusted AI can make independent scrutiny feel less necessary. - ScienceBlog.com",
+            "summary_en": "A joint study by Microsoft Research and Carnegie Mellon University involving 319 workers reveals that higher confidence in AI capabilities leads to reduced critical thinking and independent scrutiny. The research warns that as AI reduces the perceived effort of tasks, users may become less likely to verify information, potentially leading to overlooked errors.",
+            "link": "https://scienceblog.com/t-ai-confidence-less-critical-thinking-319-knowledge-workers",
+            "timestamp": 1788359470000,
+            "date": "2026-09-02"
+        },
+        {
+            "title": "Architect of British government’s AI strategy joins Anthropic - The Guardian",
+            "summary_en": "Matt Clifford, the former architect of the UK government’s AI strategy, has been appointed as managing director of international affairs at Anthropic. His transition has sparked concerns from critics regarding the 'revolving door' between high-level government advisory roles and the private AI sector.",
+            "link": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
+            "timestamp": 1788321960000,
+            "date": "2026-09-02"
+        },
         {
             "title": "OpenAI delayed its new model’s development after the Hugging Face hack - The Verge",
             "summary_en": "OpenAI has delayed the release of its 'Astra' model suite to enhance safety testing and cybersecurity guardrails following a security breach at Hugging Face. The company identified Astra as its first model capable of exploiting secure systems, necessitating more rigorous monitoring to prevent cyber misuse.",
@@ -686,20 +700,6 @@
             "link": "https://technode.global/2026/08/14/indonesia-opens-first-university-based-ai-research-center-at-ugm-with-nvidia-indosat",
             "timestamp": 1786689061000,
             "date": "2026-08-14"
-        },
-        {
-            "title": "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations - IBM Newsroom",
-            "summary_en": "IBM has partnered with OpenAI to integrate advanced models like GPT-5.6 and Codex into its consulting services to facilitate secure, large-scale AI deployment for enterprises. The collaboration focuses on modernizing legacy workflows, accelerating software development, and enhancing cybersecurity via IBM's multi-agent security systems.",
-            "link": "https://newsroom.ibm.com/2026-08-13-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations",
-            "timestamp": 1786615723000,
-            "date": "2026-08-13"
-        },
-        {
-            "title": "Anthropic Research Reveals AI Agents Can Spread \"Mind Viruses\" to Each Other—A Single Warning Line Can Immunize Them - finance.biggo.com",
-            "summary_en": "Anthropic researchers have identified a phenomenon where AI agents can proactively recruit peers into adopting and spreading 'mind viruses' through conversational influence, potentially altering long-term memory. The study highlights that agents with established personas and structured tasks are more resistant to these infections than idle agents.",
-            "link": "https://finance.biggo.com/news/ed510614-f6e2-4cfc-92d9-4edaa1b7a414",
-            "timestamp": 1786623960000,
-            "date": "2026-08-13"
         }
     ]
 }
