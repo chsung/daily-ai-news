@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-09-22 08:23:54",
+    "last_update": "2026-09-22 18:39:44",
     "articles": [
+        {
+            "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다 - AI타임스",
+            "summary_kr": "메타의 AI 에이전트 '뮤즈'가 출시 초기 기록적인 사용자 유입을 달성하며 챗GPT의 시장 지배력을 위협하고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNGxJVE5SaERaVGhrS3Y4Sm9zaWRlMzNCcnJWVG93Q1lCdGpaMnV3b01ybGdoams0YWlWQTBRTzEzdnplWXY4Y0EyUFpfa09uVVNsZk45S3JCZnQ1eW5OZVJ0eXp1Q2hIWFE?oc=5",
+            "timestamp": 1790071134000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "액센츄어·구글 클라우드, 볼보와 AI 자동차 SW 개발 혁신…테스트 최대 9배 빨라진다 - 인공지능신문",
+            "summary_kr": "액센츄어와 구글 클라우드가 볼보와 협력하여 AI 기반 자동차 소프트웨어 개발 프로세스를 도입하고, 이를 통해 테스트 속도를 최대 9배까지 단축할 전망입니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YQWo2dFpWRDJpeUl1R2FaR1RwRmxlTGpmeU1mRHZrWkxrZF9jcnZzbjZ0T1ZUTzBfS18teG9MemFRYW9JUzRDYUdJMGJoS1RyZzlRWmVoY3dNcmR3UHV6SHcxaG43eGc?oc=5",
+            "timestamp": 1790066146000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "오픈AI “미국 ‘AI 안전 표준’ 주도해야...한국 등 10개국과 협력 필요” - 한겨레",
+            "summary_kr": "오픈AI는 미국이 글로벌 AI 안전 표준을 주도해야 한다고 강조하며, 한국을 포함한 10개국과의 긴밀한 협력 체계 구축을 제안했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJcElka2QxeWFsWXBBLUJsQzR1X1dJTDBfMGpHMUxuWGY4WnZXXzI0dnpudXNRd2dxRldoQXRuMEVYc2lrY0JEVFVJYWxVMzUyY0Q4TjFuNFEwZURReEtjZw?oc=5",
+            "timestamp": 1790074320000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "[AI 브리프] LG, MS와 AI 전략 협력 확대…AIDC·피지컬 AI·AX 전방위 추진 - 아이티데일리",
+            "summary_kr": "LG가 마이크로소프트와 협력을 강화하여 AI 데이터센터, 피지컬 AI, 디지털 전환 분야를 아우르는 전방위적인 AI 전략을 추진합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IVW16Q3p1X2dkSXlwQ3lRMlFwSTJBZXhxR3g5VXN4N2hfRWlIS09XOTMzRWxHcy1RU3dHbFc1MkdTWkJOdTBBeHJoeTRZTWtPZVlIRkRRWEw3NktreDFRZ3VFQWRVejA?oc=5",
+            "timestamp": 1790066686000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "오픈AI, 수학계 반발에 독립 자문 기구 신설...연구 성과 검증 담당 - AI타임스",
+            "summary_kr": "오픈AI가 자사 연구 성과에 대한 수학계의 비판과 신뢰성 논란을 해소하고자 검증을 전담할 독립 자문 기구를 신설했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSXU1TzY4dlJNOHFGd21oYjFtbU9IYUQ2QVUyNGg3R0RmNGVYU215aHFsSndsdEZIWk5XekxOYUx4QTNEczJpdFpRVmdOaS0xR1RycDlIQmY4cmZjQUtBVndkMFoydC1FM2c?oc=5",
+            "timestamp": 1790066764000,
+            "date": "2026-09-22"
+        },
         {
             "title": "딥시크, 美 엔비디아 의존 줄인다…中 화웨이 AI칩으로 추론 넘어 ‘학습’ 도전 - 조선일보",
             "summary_kr": "중국의 딥시크가 엔비디아 의존도를 낮추기 위해 화웨이 AI 칩을 도입하며 추론을 넘어 모델 학습 분야까지 기술 독립을 추진합니다.",
@@ -665,41 +700,6 @@
             "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214294",
             "timestamp": 1788764380000,
             "date": "2026-09-07"
-        },
-        {
-            "title": "'샘 올트먼' 오픈 AI CEO \"휴머노이드 로봇 개발하고 있다\" - 티스토리",
-            "summary_kr": "샘 올트먼 오픈AI CEO는 인간 중심의 세상에 최적화된 휴머노이드 로봇을 개발 중임을 공식 확인했습니다. 그는 로봇의 외형보다 이를 구동하는 두뇌 격인 '피지컬 AI' 완성에 집중하고 있으며, 향후 개인용 로봇 시대가 도래할 것으로 전망했습니다.",
-            "link": "https://robotnews.tistory.com/19721",
-            "timestamp": 1788759419000,
-            "date": "2026-09-07"
-        },
-        {
-            "title": "SK바이오팜 신약개발 '글로벌 스텝'···엔비디아 GPU 도입 - 메디칼업저버",
-            "summary_kr": "SK바이오팜이 신약 개발의 전임상과 임상 간 간극을 줄이기 위해 엔비디아의 블랙웰 아키텍처 기반 AI 가속기 B200 128장을 도입했습니다. 이는 데이터와 컴퓨팅 자원을 결합해 연구 정확도를 높이려는 글로벌 빅파마들의 AI 인프라 경쟁 흐름에 발맞춘 전략적 투자입니다.",
-            "link": "https://www.monews.co.kr/news/articleView.html?idxno=413606",
-            "timestamp": 1788728523000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "메일 검색부터 문서 작성·메모 정리까지 “이제 말로 일한다”…구글, Gmail·Docs·Keep에 ‘제미나이 오디오’ 탑재 - 인공지능신문",
-            "summary_kr": "구글이 '제미나이 오디오' 모델을 적용한 대화형 음성 기능을 Gmail, Docs, Keep에 도입하여 사용자가 자연어 대화만으로 정보 검색과 문서 작성, 메모 정리를 수행할 수 있는 에이전트형 업무 환경을 구축했습니다. 해당 기능은 Google AI Plus·Pro·Ultra 구독자를 시작으로 순차적으로 제공되며, 키보드와 마우스 중심의 기존 방식을 넘어 사용자 생각을 실시간으로 구조화하는 공동 작성자 역할을 수행할 예정입니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=41783",
-            "timestamp": 1788682641000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "[심층분석]  구글·블랙스톤 ‘TPU 합작사’ 출범 국면, 국산 양자· 보안 아키텍처 융합 시 ‘엔비디아 독점’ 해소 가속화 전망 (이 기사는 검증이 안된 기술과 정보를 포함하고 있습니다.) - 데일리뉴스",
-            "summary_kr": "구글과 블랙스톤이 추진 중인 TPU 기반 클라우드 합작 사업에 HSKG 연구소의 상온 양자 컴퓨팅 및 무상태 보안 기술이 결합될 경우, 전력 소모 절감과 병목 없는 연산 처리를 통해 엔비디아 독점 체제를 위협할 새로운 인프라 표준이 될 것으로 전망됩니다. 특히 500MW급 전력 효율 달성과 보안 키를 저장하지 않는 차세대 양자 내성 보안(PQC) 프로토콜은 포스트 GPU 시대의 핵심 기술적 변곡점이 될 것으로 보입니다.",
-            "link": "https://idailynews.co.kr/article/%EC%8B%AC%EC%B8%B5%EB%B6%84%EC%84%9D-%EA%B5%AC%EA%B8%80%EB%B8%94%EB%9E%99%EC%8A%A4%ED%86%A4-tpu-%ED%95%A9%EC%9E%91%EC%82%AC-%EC%B6%9C%EB%B2%94-%EA%B5%AD%EB%A9%B4-%EA%B5%AD%EC%82%B0-%EC%96%91%EC%9E%90-%EB%B3%B4%EC%95%88-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9C%B5%ED%95%A9-%EC%8B%9C-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%EB%8F%85%EC%A0%90-%ED%95%B4%EC%86%8C-%EA%B0%80%EC%86%8D%ED%99%94-%EC%A0%84%EB%A7%9D-11dc164037795d2f177f",
-            "timestamp": 1788698977000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "제재 수단에서 협상 카드로… 외교 무기된 GPU - 조선일보",
-            "summary_kr": "미국 정부가 엔비디아의 첨단 GPU에 대한 수출 통제 권한을 단순한 제재 수단을 넘어 타국과의 외교적 합의를 이끌어내는 유력한 협상 카드로 활용하고 있습니다. 아르메니아와 아제르바이잔의 평화 협상 및 중동 국가들의 대미 투자와 안보 협력 사례처럼, GPU 접근권이 곧 국가별 AI 경쟁력과 직결되면서 첨단 반도체 공급망이 국제 외교 전략의 핵심 변수로 부상했습니다.",
-            "link": "https://www.chosun.com/economy/tech_it/2026/09/06/AA64YGQM25EQ7K3YXUCTZGIDSQ",
-            "timestamp": 1788673620000,
-            "date": "2026-09-06"
         }
     ]
 }
