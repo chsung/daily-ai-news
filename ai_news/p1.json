@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-23 08:26:37",
+    "last_update": "2026-09-23 18:58:26",
     "articles": [
+        {
+            "title": "Anthropic-, Nvidia-Backed Basecamp Research Raise $140M Series C Financing Toward Advancing AI-Designed Drugs - genengnews.com",
+            "summary_en": "Basecamp Research secured $140 million in Series C funding, backed by Anthropic and Nvidia, to accelerate the development of AI-driven drug discovery.",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYnpEcGhycTNuOTZwTmFBWUxVaXBTZ2tQT1d5a3BMSFVEcFUwZ05YQ3M4enlwSjRDU1FOZmpZdmQ5Vm91MU5KTXVfaVVPRm9mU2lIdGN1aXlzM2sySG5sWWR4NS1HNF94STdtUEpRdjRkZzI3R0dsRkdNbmdxZGhQeFBRM1hlZ1pGVlhwRFVhU0R3Wll6M2JZUl9oWDJ3ZlZFT3N1elllVXp3UWRRd05hREZhUW5hdGYxSlFwNVp6Nm5ma2tmWl9QYUhaZzBwVGlNVER1SlRpV2o3VkxPTFduQTREVmRwZFdiQktwSVpuSVdSLUNQbTh5dQ?oc=5",
+            "timestamp": 1790168422000,
+            "date": "2026-09-23"
+        },
+        {
+            "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads - aws.amazon.com",
+            "summary_en": "Amazon launched CloudWatch Omni to provide specialized AI-powered observability tools designed to monitor generative AI applications and agentic workloads.",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWVhbVg4T1p1R0dHREV5eTVmWEJGRzJzYlFpT2pidWF0V3hQMHJVcHRYN1pmWTlKRmdpWHJiWTJqbFNJcDRheThYMXF6amtyM3dpQXBCRVhuOE9Eb0JHTFFKUl9HNDNhWnFwdVJVeGJWVFVPbzhxbXAwSno5YWhUaEROMzZkUTNWeS1TVFdvR2gwYS1US2JCSF9lSk9WSXZpWmZZNlBRam9YV01fRXJ5Rld0b3RsaHBmVG12UWRyd3NkTXNZaW5aYUxQQ1NEZw?oc=5",
+            "timestamp": 1790115673000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49% - MarkTechPost",
+            "summary_en": "Nvidia introduced SoL-Pi, an auto-research loop framework that optimizes coding agents by reducing token traffic requirements by up to 49%.",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNTU5X254UFg1Ukk1VndZMnp6cDZmSmNUNkZwcktKWjNUUG44Zk5OZGVPelRtSWxrZTZvdW4tZnFDcDV2Y3dyTzVEV0hwUzNBYlEzVmdDdHF3UXh4M0p2eUdtU3lZTUNadU9TQ0o4NmNsS3hrVFFKaWJyS3BRdWVSVmctd2VCS0HSAYwBQVVfeXFMTktfNlN6SkxzR2ZOSE1UU0hSbWh3d0UwNDFjTnNkSHVqWHh0dl9BNTd6X1NlMWRTLVA3cGt4d1lyYWpnZVN4T0JKLWxoSHdFRnFZOTRhZWtBdmdkZUlsMXRBOVAtMjFfSkgyUlFPbHMwcXZGSElLaWFQUE9PNjJ5dE1UMEp4Q3NYN2dZcGQ?oc=5",
+            "timestamp": 1790053483000,
+            "date": "2026-09-22"
+        },
         {
             "title": "Nvidia establishes Israeli research group focused on AI for medicine and science - calcalistech.com",
             "summary_en": "Nvidia is establishing a dedicated research group in Israel to advance the development of artificial intelligence applications tailored for the medical and scientific sectors.",
@@ -679,27 +700,6 @@
             "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
             "timestamp": 1788373620000,
             "date": "2026-09-02"
-        },
-        {
-            "title": "NVIDIA plans to acquire Hugging Face and keep AI development platform open - The Robot Report",
-            "summary_en": "NVIDIA is acquiring open-source AI platform Hugging Face for $12.9 billion to bolster the development and accessibility of open-weight models. CEO Jensen Huang confirmed that the platform will remain independent and hardware-agnostic to support a diverse AI ecosystem.",
-            "link": "https://www.therobotreport.com/nvidia-to-acquire-hugging-face-and-keep-ai-develpment-platform-open",
-            "timestamp": 1788450136000,
-            "date": "2026-09-03"
-        },
-        {
-            "title": "ChatGPT, Grok Added to War Department's AI System Options - U.S. Department of War (.gov)",
-            "summary_en": "The U.S. Department of War has officially integrated ChatGPT and Grok into its authorized AI system options to expand its operational capabilities. The move signifies a broader adoption of commercial generative AI tools within federal defense infrastructure.",
-            "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options",
-            "timestamp": 1788299990000,
-            "date": "2026-09-01"
-        },
-        {
-            "title": "Google Says Deepmind And Google Research Launch Weathernext 3 Global Weather AI Model - TradingView",
-            "summary_en": "Google DeepMind and Google Research have unveiled WeatherNext 3, a new global AI model designed to advance meteorological forecasting capabilities. The launch underscores Google's ongoing commitment to applying large-scale artificial intelligence to complex climate and weather modeling.",
-            "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44V16D:0-google-says-deepmind-and-google-research-launch-weathernext-3-global-weather-ai-model",
-            "timestamp": 1788451574000,
-            "date": "2026-09-03"
         }
     ]
 }

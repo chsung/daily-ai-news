@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-23 08:26:37",
+    "last_update": "2026-09-23 18:58:26",
     "articles": [
+        {
+            "title": "NVIDIA plans to acquire Hugging Face and keep AI development platform open - The Robot Report",
+            "summary_en": "NVIDIA is acquiring open-source AI platform Hugging Face for $12.9 billion to bolster the development and accessibility of open-weight models. CEO Jensen Huang confirmed that the platform will remain independent and hardware-agnostic to support a diverse AI ecosystem.",
+            "link": "https://www.therobotreport.com/nvidia-to-acquire-hugging-face-and-keep-ai-develpment-platform-open",
+            "timestamp": 1788450136000,
+            "date": "2026-09-03"
+        },
+        {
+            "title": "ChatGPT, Grok Added to War Department's AI System Options - U.S. Department of War (.gov)",
+            "summary_en": "The U.S. Department of War has officially integrated ChatGPT and Grok into its authorized AI system options to expand its operational capabilities. The move signifies a broader adoption of commercial generative AI tools within federal defense infrastructure.",
+            "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options",
+            "timestamp": 1788299990000,
+            "date": "2026-09-01"
+        },
+        {
+            "title": "Google Says Deepmind And Google Research Launch Weathernext 3 Global Weather AI Model - TradingView",
+            "summary_en": "Google DeepMind and Google Research have unveiled WeatherNext 3, a new global AI model designed to advance meteorological forecasting capabilities. The launch underscores Google's ongoing commitment to applying large-scale artificial intelligence to complex climate and weather modeling.",
+            "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44V16D:0-google-says-deepmind-and-google-research-launch-weathernext-3-global-weather-ai-model",
+            "timestamp": 1788451574000,
+            "date": "2026-09-03"
+        },
         {
             "title": "Equinix Accelerates AI Inference for Enterprises with NVIDIA and Together AI - Equinix Newsroom",
             "summary_en": "Equinix has launched the 'Inference Exchange' in partnership with NVIDIA and Together AI to provide a distributed infrastructure for deploying enterprise-grade open-source models. The solution combines NVIDIA’s reference architectures with Together AI’s platform to deliver low-latency AI performance across global data centers.",
@@ -679,27 +700,6 @@
             "link": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
             "timestamp": 1786736527000,
             "date": "2026-08-14"
-        },
-        {
-            "title": "AWS CEO says AI could slash drug development timeline from 15 years to 5 - Fox Business",
-            "summary_en": "AWS CEO Matt Garman stated that the integration of AI could significantly accelerate the pharmaceutical industry, potentially shortening drug development timelines from 15 years to just five.",
-            "link": "https://www.foxbusiness.com/video/6403417861112",
-            "timestamp": 1786744268000,
-            "date": "2026-08-14"
-        },
-        {
-            "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach - the-decoder.com",
-            "summary_en": "A Princeton and UK AI Safety Institute study using 'Shadow Evaluation' on unpublished NeurIPS papers found that current frontier models fail to conduct high-quality, autonomous AI research, frequently producing non-scientific and poorly reasoned results.",
-            "link": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach",
-            "timestamp": 1786723716000,
-            "date": "2026-08-14"
-        },
-        {
-            "title": "AI-Powered Presentation Tools: OpenAI Acquired Presentation Startup Nextslide to Fold… - Trend Hunter",
-            "summary_en": "OpenAI has acquired the presentation startup Nextslide, likely aiming to integrate its technology into OpenAI's suite of AI-powered workplace and presentation tools.",
-            "link": "https://www.trendhunter.com/trends/presentation-startup-NextSlide",
-            "timestamp": 1786757159000,
-            "date": "2026-08-15"
         }
     ]
 }
