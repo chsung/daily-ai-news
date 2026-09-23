@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-22 18:43:19",
+    "last_update": "2026-09-23 08:26:37",
     "articles": [
+        {
+            "title": "Nvidia establishes Israeli research group focused on AI for medicine and science - calcalistech.com",
+            "summary_en": "Nvidia is establishing a dedicated research group in Israel to advance the development of artificial intelligence applications tailored for the medical and scientific sectors.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WME1ORVY5SFFXdGNuNkxaRUVVamVNSVB1dm1WUDNhbDZGWU9qUFhDUm1JQ2ZETXJpNDZ0ZjBwUWZ1THlNMTRwZWpyanhHR05iaUhkMzFwQzNweHFIQWk0SXNTNVFXUEl2bEE?oc=5",
+            "timestamp": 1790142720000,
+            "date": "2026-09-23"
+        },
+        {
+            "title": "Google 뉴스 - UK Parliament",
+            "summary_en": "The UK Parliament is actively monitoring and deliberating on the ongoing developments and regulatory implications surrounding Google News.",
+            "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbUdva1dCZHBxOEFPWnFEeGRmOTU3ZDNsSEYyOVlOcEEyS3R1OFNRWnRRSFE1Mkxta1JwVVBQVlNjaGhzNmIzb2F3bUFtbEhtYVJGSW5GRGt2X09LWXRWUm9XaVU5U2w2OGd1eG1zYy1VbG1wYUNwd2RRcVU1SzhOOGhyOXNVaC1lYlVKeTNMQUVJdmRSMlJMcWZJTUpJcUtxU1ZPS0Y0REVHLXRVUE5fcUI1bk1CUFVxUUFFVTlTNGxHYXUwSHFTTXVhWl84X1pZRU9iVk8xYWVVYkxSZFFoYVJxM20wMDZGQ2VpdnJiVXpVV0tqS2tZLXpLU3RJOGdIdlg1cnNFN2Z3YVNfaUFzZTFlS0tkcXBtXzJsWnFfNHZZQ2FfMFZnV0RyTlpxbDFjeUhjX2dTb2xncGMy?oc=5",
+            "timestamp": 1790108100000,
+            "date": "2026-09-22"
+        },
         {
             "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
             "summary_en": "NVIDIA has released Isaac ROS 5.0, an open-source platform designed to accelerate the development of autonomous, agentic robotics applications.",
@@ -686,20 +700,6 @@
             "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44V16D:0-google-says-deepmind-and-google-research-launch-weathernext-3-global-weather-ai-model",
             "timestamp": 1788451574000,
             "date": "2026-09-03"
-        },
-        {
-            "title": "Equinix Accelerates AI Inference for Enterprises with NVIDIA and Together AI - Equinix Newsroom",
-            "summary_en": "Equinix has launched the 'Inference Exchange' in partnership with NVIDIA and Together AI to provide a distributed infrastructure for deploying enterprise-grade open-source models. The solution combines NVIDIA’s reference architectures with Together AI’s platform to deliver low-latency AI performance across global data centers.",
-            "link": "https://newsroom.equinix.com/2026-09-02-Equinix-Accelerates-AI-Inference-for-Enterprises-with-NVIDIA-and-Together-AI",
-            "timestamp": 1788350812000,
-            "date": "2026-09-02"
-        },
-        {
-            "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC",
-            "summary_en": "OpenAI announced that its upcoming Astra model is the first to reach a 'Critical' threshold in its Preparedness Framework, capable of identifying and exploiting unknown security flaws autonomously. Due to these advanced risks, access to Astra’s cybersecurity features will be restricted to a select group within the company’s Daybreak coalition.",
-            "link": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
-            "timestamp": 1788293405000,
-            "date": "2026-09-01"
         }
     ]
 }

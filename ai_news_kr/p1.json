@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-22 18:39:44",
+    "last_update": "2026-09-23 08:26:03",
     "articles": [
+        {
+            "title": "오픈AI, 모델 개발 초기부터 외부 안전성 검증 받는다 - AI타임스",
+            "summary_kr": "오픈AI가 AI 모델 개발 초기 단계부터 외부 기관의 안전성 검증을 도입하며 기술적 신뢰도와 안전성 강화에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52bnI0blBmeFFqdU1YR2x0Q2U3bkFRd0E1MlhNaW9LUnJfeHQxNkVDNU1NRm9Iak1VUHFCazZWQ2tHOFhialF3T0JwWUlhUkhCdzhKdjNvVkc5OVdSRWlISExuMV9jZTRId2c?oc=5",
+            "timestamp": 1790145626000,
+            "date": "2026-09-23"
+        },
+        {
+            "title": "앤트로픽, ‘클로드 오퍼스 5.5’ 출시...토큰값 내리고 코딩 효율 올려 - 더에이아이",
+            "summary_kr": "앤트로픽은 신규 모델 '클로드 오퍼스 5.5'를 출시하여 토큰 가격을 인하하고 코딩 처리 효율성을 대폭 개선했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZTBOSlQ0QkU4S3kya0JUa1NqV2pQX2lxZnlOSmgtQndldHRGM00zRE5vZlFFVWFKeGVuemp6c2ZoRFVoMmN2MmRHdUh0NXlrd1FPR3VxY2hISHAzajlxYzhDRVZKRzRGRFdF?oc=5",
+            "timestamp": 1790130596000,
+            "date": "2026-09-23"
+        },
+        {
+            "title": "\"최고 성능보다 싸고 자주 쓰는 AI\"… 빅테크, AI 대중화 총력전 - 뉴시스",
+            "summary_kr": "글로벌 빅테크 기업들이 초고성능 모델 경쟁에서 벗어나 비용 효율성과 실용성을 갖춘 AI 모델을 통해 시장 대중화에 집중하고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4dEVBS1VJSzVDd01YQzFhb0V0YlpwMHc5ZUItU0Jrbm9OWGdSWURIN1BnSGJnbDFDeHVvWVF0S28zYm5LcVI4RTVfYzY2TEEzazl5a1ZTZUY5RFZTNEp6d9IBeEFVX3lxTE5ZMUhQMGpKM1NxNnhwQ3hSb0ZvVzB3UXBVSEVxcHhXdmpDSnJCaHdLZ1RjZFFsYllkTmwtVGNzRDdWOWV0TDJxYUlfVlVJdmRnalBGWmJPdW5lNVoybTlNcExzeVloenk4dlN2NjRVZ1U0YS1vd1I2Yw?oc=5",
+            "timestamp": 1790146485000,
+            "date": "2026-09-23"
+        },
         {
             "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다 - AI타임스",
             "summary_kr": "메타의 AI 에이전트 '뮤즈'가 출시 초기 기록적인 사용자 유입을 달성하며 챗GPT의 시장 지배력을 위협하고 있습니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "메타의 차세대 자율 연구 시스템 'AIRA₃'가 중앙 통제 없이 여러 에이전트가 지식을 공유하고 협업하는 구조로 캐글 대회에서 금메달을 획득했습니다. 이는 AI가 스스로 성능을 개선하는 재귀적 자기 개선 시스템으로 발전할 수 있는 가능성을 제시했습니다.",
             "link": "https://www.aitimes.com/news/articleView.html?idxno=214936",
             "timestamp": 1788765218000,
-            "date": "2026-09-07"
-        },
-        {
-            "title": "젠슨 황 \"GPT-6 아스트라, AGI 시대 열었다…GPU 10만개 투입\" - 지디넷코리아",
-            "summary_kr": "젠슨 황 엔비디아 CEO는 오픈AI의 신규 모델 'GPT-6 아스트라'를 AGI로 규정하며, 해당 모델 학습에 블랙웰(GB) NVL72 GPU 10만 개 이상이 투입되었다고 밝혔습니다. 이는 차세대 AI 개발 경쟁에서 엔비디아 인프라의 핵심적 입지를 재확인하는 계기가 되었습니다.",
-            "link": "https://zdnet.co.kr/view/?no=20260907170942",
-            "timestamp": 1788770397000,
-            "date": "2026-09-07"
-        },
-        {
-            "title": "AI가 AI 연구한다…오픈AI, 자동화 연구 본격화 속 ‘속도조절’ 경고 - epnc.co.kr",
-            "summary_kr": "오픈AI는 AI가 스스로 연구를 가속하는 '재귀적 자기개선' 단계에 진입함에 따라, 향후 연구 자동화와 안전성 확보를 동시에 추구하겠다고 밝혔습니다. 특히 GPT-6 아스트라와 같은 고성능 모델의 등장으로 사이버보안 및 에이전트 통제 이슈가 커지면서, 안전 조치가 미비할 경우 개발 속도를 조절하겠다는 방침을 강조했습니다.",
-            "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406572",
-            "timestamp": 1788746400000,
-            "date": "2026-09-07"
-        },
-        {
-            "title": "오픈AI, ‘자동화 연구 인턴’ 목표 달성 ··· AI가 AI 연구 가속화 - 데이터넷",
-            "summary_kr": "오픈AI는 인간 지시하에 연구 과제를 수행하는 '자동화 연구 인턴' 목표를 달성하며 연구 효율을 높였으나, 복잡한 과제 수행 시 인간의 개입이 여전히 필수적인 것으로 나타났습니다. 오픈AI는 연산 자원의 확보와 안전성 확보를 핵심 병목으로 지목하며, 안전 기준을 충족하지 못할 경우 모델별 GPU 할당량을 조정하는 등 통제를 강화하고 있습니다.",
-            "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214294",
-            "timestamp": 1788764380000,
             "date": "2026-09-07"
         }
     ]
