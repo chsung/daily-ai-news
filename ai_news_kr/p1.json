@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-24 08:18:56",
+    "last_update": "2026-09-24 18:58:09",
     "articles": [
+        {
+            "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화 - AI타임스",
+            "summary_kr": "구글 딥마인드 최고경영자가 첫 인터뷰를 통해 차세대 AI 모델인 '제미나이 4'의 조기 출시 계획을 공식화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10OWRBQ3BWb1l5SlBsb2RHVm1OVVhrZDNlaDgxVFBQcE5CRTJRSGJibm02X2c2eVp4LXc4eHdhOGdtamNHeHVpelA1Y05ETDhfcFdwUzc3d3Bfb1FZc1MwR2dRLWJsYnF5R0E?oc=5",
+            "timestamp": 1790256545000,
+            "date": "2026-09-24"
+        },
+        {
+            "title": "오픈AI, '챗GPT 음성'에 에이전트 결합...\"말 한마디로 앱 조작·업무 처리\" - AI타임스",
+            "summary_kr": "오픈AI가 챗GPT의 음성 기능에 에이전트 기술을 결합하여, 사용자의 음성 명령만으로 앱 조작과 복합적인 업무 처리가 가능한 환경을 구현합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aLW9uTWZFbGNoNzZZMUxxWU5EcmxkaHJUc1Y4Z1dNV0FJeUZBXzNILTU1ZENDbVBYNURybGNzZWltbndVWF9ieTgtaDZIOVhPV0FHZWJoZExJYUJiQXRNUjV2NEU4SHJXMFE?oc=5",
+            "timestamp": 1790246406000,
+            "date": "2026-09-24"
+        },
+        {
+            "title": "오픈AI·앤트로픽 등 AI 리더, 유엔 안보리 회의 총출동...\"AI 통제 국제 공조\" 한목소리 - YTN",
+            "summary_kr": "오픈AI와 앤트로픽 등 주요 AI 기업 경영진이 유엔 안보리 회의에 참석해, AI 기술의 안전한 통제를 위한 국제적 차원의 공조 필요성을 역설했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1NGpicU10WDlReTJHR3NYUzk5N21RUGU0ek13bHBDSG1IcURSRzZxMUtjczFnYU84a0tNLXFfNnFHc3drOWNnQy1PWW9kZXpFc05wdENlajdLMkVmZWV1eHh0TEtJYmVmRkxGLXRsUTZCV2l0T0E?oc=5",
+            "timestamp": 1790258340000,
+            "date": "2026-09-24"
+        },
         {
             "title": "앤트로픽, AI 활용해 크리스퍼 유사 효소 시스템 발견…21시간 만에 성과 - ajunews.com",
             "summary_kr": "앤트로픽이 AI를 활용해 크리스퍼(CRISPR) 기술과 유사한 효소 시스템을 21시간 만에 발견하며 생명공학 연구의 획기적인 효율성을 입증했습니다.",
@@ -679,27 +700,6 @@
             "link": "https://www.khan.co.kr/article/202609091134001/amp",
             "timestamp": 1788921240000,
             "date": "2026-09-09"
-        },
-        {
-            "title": "오픈AI “90년된 수학 난제 풀어…1만개 에이전트로 88시간 만에 해결” - 한겨레",
-            "summary_kr": "오픈AI가 1만 개의 AI 에이전트를 동원해 88시간의 연산 끝에 90년 된 수학 난제인 ‘나비에-스토크스 방정식’의 해법을 찾아내며 인공지능의 과학적 난제 해결 능력을 입증했습니다. 연구 과정에서 타 연구진의 미공개 데이터를 활용했다는 의혹이 제기되기도 했으나, 오픈AI는 이를 부인하며 자사 모델의 독립적인 성과임을 강조했습니다.",
-            "link": "https://www.hani.co.kr/arti/economy/it/1276982.html",
-            "timestamp": 1788936000000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "오픈AI코리아 출범 1년…삼성전자 뚫고 韓 ‘업무 AI’ 표준 노린다 - IT조선",
-            "summary_kr": "오픈AI코리아가 출범 1년을 맞아 국내 기업용 챗GPT 이용자가 28배 증가하는 등 삼성전자를 포함한 주요 기업들의 업무 자동화 표준으로 자리 잡았습니다. 향후 오픈AI는 국내 데이터센터를 활용한 '추론 레지던시' 구축과 함께, 화면을 직접 조작해 업무를 수행하는 신규 모델 '아스트라'를 통해 기업 시장 공략을 가속화할 방침입니다.",
-            "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169769",
-            "timestamp": 1788933568000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "퀄컴, 아마존과 차세대 AI 데이터센터용 맞춤형 반도체 공동 개발 - 인공지능신문",
-            "summary_kr": "퀄컴과 아마존이 AI 데이터센터 경쟁력 강화를 위해 다세대 맞춤형 반도체 및 1.6Tbps급 광통신 기술을 공동 개발하기로 했습니다. 이번 협력으로 퀄컴은 저전력 설계 역량을, 아마존은 AI 인프라를 결합해 AI 추론 효율을 높이고 반도체 설계 주기를 단축할 계획입니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=41821",
-            "timestamp": 1788874331000,
-            "date": "2026-09-08"
         }
     ]
 }
