@@ -1,6 +1,123 @@
 {
-    "last_update": "2026-09-23 19:19:45",
+    "last_update": "2026-09-24 19:34:48",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1790263800000,
+            "date": "2026-09-24",
+            "title": "Introducing Gemini 3.8 Live with Live Avatar",
+            "summary_kr": "구글은 실시간 음성 및 영상 생성 기술을 결합하여 자연스러운 대화와 다국어 지원, 비동기 도구 실행이 가능한 기업용 'Gemini 3.8 Live with Live Avatar'를 출시했습니다.",
+            "summary_en": "Google has launched 'Gemini 3.8 Live with Live Avatar' for enterprises, featuring near real-time multimodal interaction, seamless multilingual lip-syncing, and asynchronous tool execution.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790262000000,
+            "date": "2026-09-24",
+            "title": "Efficient MoE Training for Biological Foundation Models",
+            "summary_kr": "NVIDIA Transformer Engine은 전문가 모델(MoE) 구조의 연산 병목 현상을 해결하고, GroupedLinear 및 MXFP8 커널을 통해 생물학적 파운데이션 모델의 학습 효율과 확장성을 극대화합니다.",
+            "summary_en": "NVIDIA Transformer Engine maximizes the efficiency and scalability of biological foundation models by utilizing GroupedLinear and MXFP8 kernels to address computational bottlenecks in MoE architectures.",
+            "link": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790261220000,
+            "date": "2026-09-24",
+            "title": "Rockwell Automation’s Singapore Factory Uses AI Copilot to Drive Efficiency and Global Transformation",
+            "summary_kr": "록웰 오토메이션은 싱가포르 공장에 생성형 AI 기반 유지보수 코파일럿을 도입하여 숙련공의 노하우를 디지털화하고, 가동 중단 시간을 33% 단축하며 신규 인력 교육 기간을 대폭 줄였습니다.",
+            "summary_en": "Rockwell Automation has implemented a GenAI-powered maintenance copilot at its Singapore plant, digitizing expert knowledge to reduce machine downtime by 33% and significantly accelerate onboarding for new technicians.",
+            "link": "https://news.microsoft.com/source/features/digital-transformation/rockwell-automation-pairs-ai-with-decades-of-shop-floor-know-how-so-workers-can-solve-glitches-faster"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1790254800000,
+            "date": "2026-09-24",
+            "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+            "summary_kr": "구글은 차세대 AI 인프라 확장을 위해 우주 환경에서 자사 TPU의 성능과 안정성을 검증하는 '프로젝트 선캐처(Project Suncatcher)'를 본격화합니다.",
+            "summary_en": "Google has launched 'Project Suncatcher' to test the performance and durability of its TPU chips in space, aiming to develop scalable AI infrastructure beyond Earth.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790204096000,
+            "date": "2026-09-23",
+            "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
+            "summary_kr": "엔비디아는 3D CT 데이터의 공간적 맥락을 정확히 이해하고 영상의학과 전문의의 사고 과정을 모방하여 추론하는 오픈형 VLM 'NV-Reason-CT'를 공개했습니다.",
+            "summary_en": "NVIDIA has introduced 'NV-Reason-CT,' an open foundation VLM designed to process 3D CT volumes holistically and emulate the systematic chain-of-thought reasoning used by radiologists.",
+            "link": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790192719000,
+            "date": "2026-09-23",
+            "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
+            "summary_kr": "NVIDIA Cluster Readiness Engine(NVCRE)은 쿠버네티스 환경에서 실제 분산 워크로드를 사전 검증하여, 표준 진단으로 발견하기 어려운 GPU 클러스터의 미세한 성능 저하나 하드웨어 결함을 배포 전에 선제적으로 식별합니다.",
+            "summary_en": "NVIDIA Cluster Readiness Engine (NVCRE) proactively identifies subtle GPU cluster performance issues and hardware failures by running real distributed workloads before production deployment, filling a critical gap that standard diagnostics often miss.",
+            "link": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790187949000,
+            "date": "2026-09-23",
+            "title": "Manage Kubernetes Node Fleets with NodeWright",
+            "summary_kr": "NVIDIA의 NodeWright는 Kubernetes 클러스터 내 호스트 운영체제를 선언적 방식으로 안전하게 관리하여, 워크로드 중단 없이 대규모 GPU 노드 인프라의 업데이트를 자동화합니다.",
+            "summary_en": "NVIDIA’s NodeWright provides declarative, Kubernetes-native lifecycle management for host operating systems, enabling safe, large-scale updates of GPU node fleets without disrupting active AI workloads.",
+            "link": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790187722000,
+            "date": "2026-09-23",
+            "title": "Microsoft strengthens its commitment to the Middle East by investing in technology, digital resilience, and people - Microsoft On the Issues",
+            "summary_kr": "마이크로소프트는 2030년까지 중동 지역에 100억 달러 이상을 투자하여 클라우드 및 AI 인프라를 확충하고, 디지털 회복탄력성과 지역 내 AI 역량 강화를 통해 중동의 디지털 전환을 주도할 계획입니다.",
+            "summary_en": "Microsoft plans to invest over $10 billion by 2030 to expand cloud and AI infrastructure in the Middle East, aiming to drive the region's digital transformation through enhanced digital resilience and strategic AI partnerships.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/23/microsoft-strengthens-its-commitment-to-the-middle-east-by-investing-in-technology-digital-resilience-and-people"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790179200000,
+            "date": "2026-09-23",
+            "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+            "summary_kr": "SWE-Serve는 AI 코딩 에이전트가 로컬 테스트를 통과하더라도 실제 운영 환경에서는 실패할 수 있다는 점을 규명하며, 추론 서빙 시스템의 전체 경로를 검증하는 중요성을 강조합니다.",
+            "summary_en": "SWE-Serve highlights the critical gap between local testing and live deployment, demonstrating that many AI coding patches failing real-world serving tasks pass standard repository-level benchmarks.",
+            "link": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790164800000,
+            "date": "2026-09-23",
+            "title": "Sam Altman’s remarks at the United Nations Security Council",
+            "summary_kr": "샘 올트먼은 유엔 안보리에서 AI가 가져올 혁신적 기회와 잠재적 위험을 언급하며, 인류의 통제권 유지와 안전한 개발을 위한 국제적 협력을 강조했습니다.",
+            "summary_en": "Sam Altman addressed the UN Security Council, emphasizing the need for international cooperation to harness AI's transformative potential while maintaining human control and safety standards.",
+            "link": "https://openai.com/index/sam-altman-un-security-council-remarks"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790157600000,
+            "date": "2026-09-23",
+            "title": "Introducing MentalHealthBench",
+            "summary_kr": "80명 이상의 글로벌 전문가와 협력해 개발한 'MentalHealthBench'는 실제 정신 건강 대화에서 AI 모델의 공감 능력과 안전성, 적절한 가이드를 다각도로 평가하는 새로운 오픈 벤치마크입니다.",
+            "summary_en": "MentalHealthBench is a new open benchmark, co-developed with over 80 global experts, designed to evaluate AI performance on safety, empathy, and actionable guidance across a wide spectrum of realistic mental health conversations.",
+            "link": "https://openai.com/index/introducing-mentalhealthbench"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790128800000,
+            "date": "2026-09-23",
+            "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+            "summary_kr": "오픈AI가 동남아시아 7개국과 대만으로 ChatGPT 광고 서비스를 확장하며 서비스 제공 국가를 60개국 이상으로 늘렸습니다.",
+            "summary_en": "OpenAI has expanded its ChatGPT Ads service to seven Southeast Asian markets and Taiwan, now reaching over 60 countries worldwide.",
+            "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790125200000,
+            "date": "2026-09-23",
+            "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+            "summary_kr": "에어비앤비가 오픈AI와의 협력을 확대하여 GPT-6 Astra를 비롯한 최첨단 모델을 도입함으로써, 엔지니어링 효율성을 높이고 플랫폼 서비스 전반의 고도화를 가속화합니다.",
+            "summary_en": "Airbnb has expanded its partnership with OpenAI to integrate advanced models like GPT-6 Astra, aiming to boost engineering productivity and enhance platform-wide services.",
+            "link": "https://openai.com/index/airbnb-gpt-6-astra"
+        },
         {
             "company": "Google",
             "timestamp": 1790186400000,
@@ -783,123 +900,6 @@
             "summary_kr": "NVIDIA BioNeMo Inference Runtime(BioIR)은 최적화된 커널과 Ray를 활용해 단백질 구조 예측 모델의 처리량을 극대화하며, 프로테옴 규모의 연구를 효율적으로 가속화합니다.",
             "summary_en": "NVIDIA BioNeMo Inference Runtime (BioIR) accelerates biomolecular structure prediction at scale by leveraging optimized kernels and Ray to maximize throughput while maintaining familiar PyTorch workflows.",
             "link": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1789030800000,
-            "date": "2026-09-10",
-            "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
-            "summary_kr": "엔비디아는 팔란티어 파운드리와 협력하여 복잡한 공급망 데이터를 통합하고, 숙련된 운영 노하우를 디지털화함으로써 생산 병목 현상을 최적화하고 의사결정 효율을 극대화하고 있습니다.",
-            "summary_en": "NVIDIA is partnering with Palantir Foundry to unify complex supply chain data and codify human expertise, enabling the optimization of production bottlenecks and more intelligent, scalable decision-making.",
-            "link": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789023600000,
-            "date": "2026-09-10",
-            "title": "Introducing ChatGPT for Financial Services",
-            "summary_kr": "OpenAI는 모건스탠리 및 에버코어와 협력하여 GPT-6 Astra 기반의 금융 특화 'ChatGPT for Financial Services'를 출시, 프리미엄 금융 데이터를 통합하고 분석 정확도를 높여 금융 전문가의 업무 효율을 극대화합니다.",
-            "summary_en": "OpenAI has launched 'ChatGPT for Financial Services,' powered by GPT-6 Astra, integrating premium financial datasets and optimized reasoning tools to streamline research, modeling, and analysis for financial professionals.",
-            "link": "https://openai.com/index/introducing-chatgpt-financial-services"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789023600000,
-            "date": "2026-09-10",
-            "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-            "summary_kr": "OpenAI는 미국 연방 및 지방 정부 기관에 AI 도구 이용료 면제와 사용료 50% 할인 혜택을 제공하며, 공공 부문 사이버 보안 강화를 위한 전폭적인 지원을 확대합니다.",
-            "summary_en": "OpenAI is expanding access to its AI tools for U.S. federal, state, and local governments by eliminating license fees and offering a 50% discount on usage, while bolstering support for public-sector cyber defense.",
-            "link": "https://openai.com/index/expanding-ai-access-us-government"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788998400000,
-            "date": "2026-09-10",
-            "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
-            "summary_kr": "앤스로픽의 프론티어 레드팀 연구 결과, AI 모델이 전술적 정보 수집 및 재래식 무기 개발 과정에서 위협적인 수준의 성능을 보이고 있어 국가 안보와 관련된 새로운 위험이 커지고 있습니다.",
-            "summary_en": "Anthropic's Frontier Red Team research reveals that AI models are demonstrating concerning capabilities in tactical intelligence targeting and conventional weapons development, signaling new risks to national security.",
-            "link": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788998400000,
-            "date": "2026-09-10",
-            "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-            "summary_kr": "GPT-Live-1 API는 지연 시간이 짧은 단일 모델 아키텍처를 통해 자연스러운 대화와 유연한 도구 호출 기능을 제공하여, 개발자들이 보다 고도화된 실시간 음성 기반 애플리케이션을 구축할 수 있게 합니다.",
-            "summary_en": "The GPT-Live-1 API offers a low-latency, single-model architecture that enables natural, full-duplex conversations and flexible tool delegation, empowering developers to build advanced real-time voice applications.",
-            "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788992980000,
-            "date": "2026-09-09",
-            "title": "What a battery breakthrough reveals about AI and scientific memory",
-            "summary_kr": "마이크로소프트의 'Discovery' 플랫폼은 실패 사례를 지식화하는 'Discovery Bookshelf'와 AI 에이전트를 결합하여, 단순한 아이디어 생성을 넘어 과학적 시행착오를 학습하고 실제 실험 검증까지 수행하는 새로운 연구 패러다임을 제시했습니다.",
-            "summary_en": "Microsoft’s 'Discovery' platform integrates AI agents with the 'Discovery Bookshelf' to turn experimental failures into durable knowledge, shifting scientific AI from mere generation to an end-to-end closed-loop system that accelerates discovery.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/reinventing-organic-redox-flow-batteries-with-microsoft-discovery/4552343"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788992266000,
-            "date": "2026-09-09",
-            "title": "How AI is transforming media and entertainment through orchestrated intelligence | The Microsoft Cloud Blog",
-            "summary_kr": "미디어 및 엔터테인먼트 산업은 단순한 AI 도구 도입을 넘어, 인간의 창의성과 AI를 유기적으로 연결하는 '오케스트레이션 지능'으로 전환하여 생산성과 비즈니스 가치를 극대화해야 합니다.",
-            "summary_en": "The media and entertainment industry must move beyond isolated AI tools toward 'orchestrated intelligence,' integrating AI into workflows to maximize business value while leveraging human creativity and accountability.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/media-and-entertainment/2026/09/08/how-ai-is-transforming-media-and-entertainment-through-orchestrated-intelligence"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788991304000,
-            "date": "2026-09-09",
-            "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery | Microsoft Azure Blog",
-            "summary_kr": "마이크로소프트는 가설 검증과 전략 수정을 스스로 수행하는 적응형 AI 'CLIO'를 통해 복잡한 과학 R&D 문제를 해결하는 에이전트 기반 플랫폼 'Microsoft Discovery'의 혁신을 제시했습니다.",
-            "summary_en": "Microsoft introduces 'Microsoft Discovery' powered by CLIO, an adaptive AI framework that enhances scientific R&D by enabling autonomous hypothesis testing, iterative reasoning, and evidence-based problem solving.",
-            "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788991180000,
-            "date": "2026-09-09",
-            "title": "Game Analytics Dashboard helps NFL teams sift through data to find winning edges",
-            "summary_kr": "NFL 팀들은 마이크로소프트의 AI 기반 게임 분석 대시보드와 코파일럿을 도입하여 방대한 경기 데이터를 실시간 전략으로 전환함으로써 승리 가능성을 극대화하고 있습니다.",
-            "summary_en": "NFL teams are maximizing their competitive edge by leveraging Microsoft’s AI-powered Game Analytics Dashboard and Copilot to transform vast amounts of game data into real-time, actionable strategic insights.",
-            "link": "https://news.microsoft.com/source/features/digital-transformation/nfl-game-analytics-dashboard"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788985864000,
-            "date": "2026-09-09",
-            "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
-            "summary_kr": "멀티모달 모델 서빙에서 인코더와 LLM 추론 단계를 분리하는 EPD(Encode-Prefill-Decode) 방식은 작업별 독립적 확장을 통해 추론 속도를 획기적으로 개선합니다. NVIDIA Dynamo 프레임워크를 활용하면 워크로드 특성에 최적화된 배치를 통해 효율성과 처리량을 극대화할 수 있습니다.",
-            "summary_en": "EPD (Encode-Prefill-Decode) disaggregation enhances multimodal model serving by decoupling vision encoding from LLM processing to enable independent scaling. Leveraging the NVIDIA Dynamo framework allows for optimized resource allocation, delivering significant improvements in latency and throughput.",
-            "link": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788985452000,
-            "date": "2026-09-09",
-            "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
-            "summary_kr": "NVIDIA CUDA Toolkit 13.4는 Windows on Arm 지원, 차세대 Rubin 아키텍처 미리보기, 그리고 GPU 자원 관리 및 최적화를 위한 향상된 제어 기능을 도입했습니다.",
-            "summary_en": "NVIDIA CUDA Toolkit 13.4 introduces Windows on Arm support, an early preview of the next-gen Rubin architecture, and enhanced capabilities for granular GPU resource management and optimization.",
-            "link": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788958800000,
-            "date": "2026-09-09",
-            "title": "The AI policy window is open. We need to act.",
-            "summary_kr": "OpenAI는 AI 기술의 급격한 발전에 대응하기 위해 국가적 규제 도입, 글로벌 표준 수립, 그리고 안전 중심의 개발 원칙을 강화하며 정책적 골든타임 내에 신속한 대응이 필요함을 강조합니다.",
-            "summary_en": "OpenAI emphasizes the urgent need for swift policy action, advocating for national safety regulations, global standards, and safety-first development to manage the risks of rapidly advancing AI capabilities.",
-            "link": "https://openai.com/index/ai-policy-window"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788951600000,
-            "date": "2026-09-09",
-            "title": "GPT-6 Astra: The next generation in intelligence for work",
-            "summary_kr": "OpenAI가 출시한 'GPT-6 Astra'는 복잡한 비즈니스 워크플로우와 직접 상호작용하는 컴퓨터 사용 능력을 갖추어, 기업 현장에 즉시 투입 가능한 생산성과 안전성을 동시에 확보한 차세대 AI 모델입니다.",
-            "summary_en": "OpenAI’s 'GPT-6 Astra' is a next-generation AI model capable of direct computer interaction, designed to integrate seamlessly into existing enterprise workflows while delivering superior performance, cost-efficiency, and safety.",
-            "link": "https://openai.com/index/gpt-6-astra-next-generation-work"
         }
     ]
 }
