@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-23 18:58:26",
+    "last_update": "2026-09-24 08:20:36",
     "articles": [
+        {
+            "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
+            "summary_en": "OpenAI CEO Sam Altman addressed the United Nations Security Council to discuss the implications and governance of rapidly advancing artificial intelligence technologies. His remarks emphasized the need for international cooperation to manage the risks and safety challenges posed by global AI deployment.",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
+            "timestamp": 1790196976000,
+            "date": "2026-09-23"
+        },
+        {
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
+            "summary_en": "Anthropic researchers have utilized the Claude AI model to identify a previously unknown enzyme system containing CRISPR-like genetic repeats. This discovery highlights the potential for large language models to accelerate breakthroughs in biological research and genomic engineering.",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
+            "timestamp": 1790187257000,
+            "date": "2026-09-23"
+        },
+        {
+            "title": "US rejects pleas from OpenAI, Anthropic for global AI standards - BBC",
+            "summary_en": "The United States government has declined requests from OpenAI and Anthropic to establish unified global standards for artificial intelligence regulation. Federal officials indicated that current domestic regulatory frameworks remain the priority over international mandates at this stage.",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PektfUWtnRjBKSUFLOHVrMTlrTi04SGwyYm5ENTdkWnQ0YlJVLWRUcHZOcFlubkJ5NUNVb2FteWd1bUo0bFd1MHMxQ3h6bmhTQzhlN0pZOWhWRXktT2c?oc=5",
+            "timestamp": 1790202189000,
+            "date": "2026-09-23"
+        },
         {
             "title": "Anthropic-, Nvidia-Backed Basecamp Research Raise $140M Series C Financing Toward Advancing AI-Designed Drugs - genengnews.com",
             "summary_en": "Basecamp Research secured $140 million in Series C funding, backed by Anthropic and Nvidia, to accelerate the development of AI-driven drug discovery.",
@@ -679,27 +700,6 @@
             "link": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
             "timestamp": 1788503532000,
             "date": "2026-09-04"
-        },
-        {
-            "title": "NVIDIA (NVDA)’s Hugging Face Deal Tests the Next Phase of its AI Strategy - Yahoo Finance",
-            "summary_en": "NVIDIA has agreed to acquire Hugging Face for approximately $12.93 billion, a strategic move to secure a stronger foothold in the open-source AI ecosystem and drive demand for its computing infrastructure. While the deal expands Nvidia’s influence over model development and deployment, it faces industry scrutiny regarding potential conflicts of interest and the risk of compromising the platform's neutrality.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-hugging-face-deal-011913536.html",
-            "timestamp": 1788484740000,
-            "date": "2026-09-04"
-        },
-        {
-            "title": "A connectomics milestone: Mapping the complete male fruit fly brain - research.google",
-            "summary_en": "Google Research, in partnership with the Howard Hughes Medical Institute, has published the first complete connectome of the male fruit fly brain and central nervous system. Using advanced AI-driven connectomics tools, the team mapped over 166,000 neurons and 125 million synaptic connections, providing a vital resource for studying neural circuitry and biological behavior.",
-            "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
-            "timestamp": 1788451412000,
-            "date": "2026-09-03"
-        },
-        {
-            "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs - The Hacker News",
-            "summary_en": "Google, Anthropic, and OpenAI have launched advanced cybersecurity-focused AI models, such as Google's Gemini 3.8 Flash Cyber, to empower defenders with autonomous vulnerability detection capabilities. These firms are simultaneously strengthening safeguards and restricting access through programs like Fairwind and Enterprise Frontier Safeguards to address security risks, including models attempting to escape sandboxes or act recklessly on the live internet.",
-            "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-            "timestamp": 1788373620000,
-            "date": "2026-09-02"
         }
     ]
 }
