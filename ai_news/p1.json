@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-24 08:20:36",
+    "last_update": "2026-09-25 08:42:12",
     "articles": [
+        {
+            "title": "Behind Project Suncatcher, our moonshot to put AI in space - blog.google",
+            "summary_en": "Google is pursuing 'Project Suncatcher,' an ambitious initiative aimed at integrating and deploying artificial intelligence technologies within space-based environments.",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BYaU0yYTZra0M4eWktSXVydEJjbTVtM0JLZUtpTlZUNWZPb2RqUHR0V1hEdlczMkZyOU90MW83eDhCWVJMSnhXLWxvcWhJMDdiNkUtZEJLR0ExN0xnMS1YdGJOaWJyRXZmZlJGQnJNVWJKbDl5dG1uMGtsRk9VbVRCcWpKVjlnUnVfMXU2VjNJOGdhOGt4UEZpeGpyNndSTUpodXphZV9jUQ?oc=5",
+            "timestamp": 1790255800000,
+            "date": "2026-09-24"
+        },
+        {
+            "title": "Google 뉴스 - Groupe BNP Paribas",
+            "summary_en": "BNP Paribas is actively leveraging Google News as a strategic platform to monitor global developments and maintain intelligence on the rapidly evolving artificial intelligence sector.",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWZFekQ2Nm5fcjlmR19uMm5KeTJaVHdpaUxVZUdrRmE5WkJaOHBFa1NmN050bm9la09CZzExTnc2c3Y5c2hlMnBhcHZ6Wk5jYkEwa0FPSmt2ckQ3NDcyOWpWMWYtclo1ZTdWOXEwQ1ZYb2hMbjZQQ1N3TnZaNURURFEwMXM1QVhWQnB0QnNHdThOVnlFQV9jckFUaUlKSVJRdmxFVXJXZ3oxSnd3Z3lNcEFtbmpuWWFmbFhSNVY3Q0YxX3d2QU5oZ2tB?oc=5",
+            "timestamp": 1790265628000,
+            "date": "2026-09-24"
+        },
         {
             "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
             "summary_en": "OpenAI CEO Sam Altman addressed the United Nations Security Council to discuss the implications and governance of rapidly advancing artificial intelligence technologies. His remarks emphasized the need for international cooperation to manage the risks and safety challenges posed by global AI deployment.",
@@ -686,20 +700,6 @@
             "link": "https://finance.yahoo.com/markets/article/nvidia-confirms-13-billion-acquisition-of-open-weight-ai-platform-hugging-face-141058641.html",
             "timestamp": 1788466683000,
             "date": "2026-09-03"
-        },
-        {
-            "title": "Google DeepMind Releases WeatherNext 3, Its Most Accurate AI Weather Forecasting Model Yet - AI Insider",
-            "summary_en": "Google DeepMind has introduced WeatherNext 3, a high-resolution forecasting model that integrates real-time satellite data to achieve a 60% improvement in rain prediction accuracy. The model outperforms traditional systems and key industry competitors, and will be directly implemented into core Google services like Search, Maps, and Gemini.",
-            "link": "https://theaiinsider.tech/2026/09/04/google-deepmind-releases-weathernext-3-its-most-accurate-ai-weather-forecasting-model-yet",
-            "timestamp": 1788541823000,
-            "date": "2026-09-04"
-        },
-        {
-            "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting - research.google",
-            "summary_en": "Google has introduced TimesFM-3, a 330-million parameter time-series foundation model trained on over 1 trillion data points to enable native multivariate forecasting. Unlike its univariate predecessors, the model utilizes a 'lookahead' strategy and contiguous patch masking to perform complex, multi-variable predictions in a single forward pass without needing fine-tuning.",
-            "link": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
-            "timestamp": 1788503532000,
-            "date": "2026-09-04"
         }
     ]
 }

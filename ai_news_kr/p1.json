@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-09-24 18:58:09",
+    "last_update": "2026-09-25 08:41:36",
     "articles": [
+        {
+            "title": "\"AI 멸망설 10%? 극히 희박\"…팔로알토·엔비디아 CEO, ‘AI 속도 조절론’에 일침 - AI포스트",
+            "summary_kr": "팔로알토와 엔비디아의 최고경영자들은 AI가 인류를 멸망시킬 확률이 10%라는 일각의 주장을 일축하며, AI 발전 속도를 억제해야 한다는 '속도 조절론'에 대해 강한 회의적 입장을 표명했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJSGYyWU9CM0NFTmNzZmVhWHZPU2U4RzRQWXhWeGpOUzZxLTBKcHYxc0tKNlVTWFVYUFl6cWRVdTd5d3M5MTJ6VDhJREJ5bldxUjkzUldNVFRkeF8zOHZMb3hKeGFKM0NrbWpDZkJR0gFyQVVfeXFMT2ZZdHVveE4xR0xXQW1wbUpHdTNfY1JUR2FFLTVOdEVZRUhMNTlPWDczdmJiXy1YRVg3d0R0T1NZaG5HOV9pTjZkUm9qSkJMRTU1anBDa2g3WXVxNFNfSkVtZVZBcXBNMUw0Y3dKMldENnZn?oc=5",
+            "timestamp": 1790312851000,
+            "date": "2026-09-25"
+        },
+        {
+            "title": "퀄컴, 모듈러 품고 ‘탈엔비디아’ 생태계 구상… 40억달러 베팅한 이유 - 조선비즈 - Chosunbiz",
+            "summary_kr": "퀄컴이 40억 달러 규모의 대규모 투자를 단행하며 자체 모듈러 생태계를 구축하고, 엔비디아 의존도를 낮추기 위한 독자적인 AI 하드웨어 생태계 확보에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3ZNMU9Cc201V0k4N0F1YWgxalhtLVM2QnFMM0liWUlDQ0FJVnRkM2Vqb0RNQnVMN2R1Ymt1QTFiSEZmalhKSkt3M2pJaTZpXzZkUGdkX3ZDQmpSZ0lSQk44R0RmM2RSWm0xNThtNmJvQzV3bXJsRlY1Yjdwa1EwQlFR0gGWAUFVX3lxTE13ZE1WYTgyTUN3a2haQlk3RGZpV0x0NHpFbHg2eFM2c2xiTjRnTm1BWmllR1Voc1FCdl81MUN4TVprcGNqRFVLcm1GdC1PdW01Um44YlhQSU9lbDBJZHhuekpMcnFYaHhtS1JYV2VsNXV1SVBFQ1FJamlocnFEUkwwdWMwTEF5LTI2S0pjNk8tTDR1eENoZw?oc=5",
+            "timestamp": 1790294525000,
+            "date": "2026-09-25"
+        },
+        {
+            "title": "LG전자, AI 데이터센터 냉각사업 확장…2.5MW CDU 엔비디아 'DSX 레디' 승인 - 웹이코노미",
+            "summary_kr": "LG전자가 2.5MW급 냉각분배장치(CDU)에 대해 엔비디아의 'DSX 레디' 인증을 획득하며, 급성장하는 AI 데이터센터 냉각 시장에서의 사업 경쟁력을 대폭 강화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iU0tmai00ZkpGdkl4UGtqT0VSNkhnNHdjYjc1QXFDRHZpTHZzM01JZk5NTE5XRkpvV3gxZjdxbkhGbXlNRm1pekt5elZ6S1k5bmVRbUVyaG5aN3hEd0xmejFPMGhMYTc3ZUtpUWtPdDhiUQ?oc=5",
+            "timestamp": 1790317072000,
+            "date": "2026-09-25"
+        },
+        {
+            "title": "구글, AI 칩 4개 우주로 보낸다…10월 1일 '우주 데이터센터' 첫 시험 - 디지털투데이",
+            "summary_kr": "구글은 오는 10월 1일 자사의 AI 칩 4개를 우주로 쏘아 올려 극한 환경에서의 데이터 처리 능력을 검증하는 '우주 데이터센터' 시험을 시작할 예정입니다.",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zVXNNYWhIOG9BSmFmVVBUc0o0Z2ZyU3NEOXFtNnpVTldIbjJ0XzdjQUZJb0xNc3VwdXdXU3huV3hjQVZNVmxQUGpLU0cyMHZTRXl4VUF0bTUxMXpsUlNPRXVzaEdEeGJZc21mRGtkdTJTUVk?oc=5",
+            "timestamp": 1790314140000,
+            "date": "2026-09-25"
+        },
         {
             "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화 - AI타임스",
             "summary_kr": "구글 딥마인드 최고경영자가 첫 인터뷰를 통해 차세대 AI 모델인 '제미나이 4'의 조기 출시 계획을 공식화했습니다.",
@@ -672,34 +700,6 @@
             "link": "https://www.aitimes.com/news/articleView.html?idxno=215085",
             "timestamp": 1789021629000,
             "date": "2026-09-10"
-        },
-        {
-            "title": "\"AI 통제 잃으면 대부분 사망\" 경고한 美 전문가, 오픈AI 이사회 합류 - 뉴시스",
-            "summary_kr": "오픈AI는 첨단 AI가 초래할 잠재적 재앙을 경고해 온 AI 안전 전문가 폴 크리스티아노를 이사회에 영입하며, 강화되는 규제 환경과 안전성 논란에 선제적으로 대응하고 있습니다.",
-            "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260910_0003784007",
-            "timestamp": 1789007618000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "KAIST - 마이크로소프트연구소 아시아, 뇌파로 AI 행동 오류 포착 … ‘명령받는 AI’서 ‘의도 읽는 AI’로 - 워크투데이",
-            "summary_kr": "KAIST와 마이크로소프트연구소 아시아가 뇌파를 통해 AI의 행동 오류를 감지하고 의도를 실시간으로 수정하는 '신경 가치 정렬(NVA)' 기술을 개발하여 인간과 AI 간의 정밀한 협업 모델을 제시했습니다.",
-            "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89086",
-            "timestamp": 1789016295000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "엔비디아, GPU 커널까지 러스트로 개발하는 ‘CUDA 러스트’ 공개...안전한 AI 인프라 구축 - AI타임스",
-            "summary_kr": "엔비디아가 AI 시스템의 메모리 안전성과 안정성을 강화하고자 GPU 커널을 직접 작성할 수 있는 'CUDA 러스트'를 공개했습니다. 이 기술은 컴파일 단계에서 메모리 오류를 방지하며, SIMT와 타일 방식을 통해 기존 CUDA 생태계와의 상호 운용성을 확보하며 확장될 전망입니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=215062",
-            "timestamp": 1788940200000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "메타, 예약·결제하는 AI 비서 ‘뮤즈’ 출시…AI 에이전트 경쟁 참전 - 경향신문",
-            "summary_kr": "메타가 이메일 작성부터 결제까지 대행하는 AI 비서 ‘뮤즈’를 출시하며 36억 명의 자사 플랫폼 이용자를 기반으로 에이전트 시장 경쟁에 본격적으로 뛰어들었습니다. 다만 내부 테스트 과정에서 개인정보 유출 및 서비스 연결 오류 등의 보안 문제가 보고되어, 메타는 감시 AI와 일회용 가상 카드번호 도입 등을 통해 안전장치를 강화하고 있습니다.",
-            "link": "https://www.khan.co.kr/article/202609091134001/amp",
-            "timestamp": 1788921240000,
-            "date": "2026-09-09"
         }
     ]
 }
