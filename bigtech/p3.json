@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-09-24 19:34:48",
+    "last_update": "2026-09-25 19:37:15",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1787738400000,
+            "date": "2026-08-26",
+            "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+            "summary_kr": "OpenAI는 미국 내 55개 교육청과 추가 협력하여 10만 명 이상의 교사에게 ChatGPT를 보급하고, 16개 주를 포괄하는 데이터 개인정보 보호 협약을 통해 교육 현장의 안전한 AI 도입을 가속화합니다.",
+            "summary_en": "OpenAI is expanding ChatGPT for Teachers to over 100,000 additional educators across 55 U.S. school systems, while establishing a 16-state data privacy agreement to facilitate responsible and secure AI adoption.",
+            "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1787738400000,
+            "date": "2026-08-26",
+            "title": "Learning never stops: How AI makes learning continuous",
+            "summary_kr": "OpenAI의 보고서에 따르면, AI는 언제 어디서나 맞춤형 학습 지원과 피드백을 제공함으로써 교실 안팎의 경계를 허물고 교육의 연속성을 혁신하고 있습니다.",
+            "summary_en": "OpenAI's report highlights how AI is transforming education by providing continuous, personalized support and feedback, effectively bridging the gap between classroom instruction and independent learning.",
+            "link": "https://openai.com/index/learning-never-stops"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787702400000,
+            "date": "2026-08-26",
+            "title": "Claude in Chrome is generally available",
+            "summary_kr": "앤스로픽은 웹 브라우저 내에서 직접 작업을 수행하는 'Claude in Chrome'을 유료 플랜 사용자에게 정식 출시하며, 보안 분류기와 탐지 기능을 강화해 자율적 작업의 안전성을 확보했습니다.",
+            "summary_en": "Anthropic has launched 'Claude in Chrome' for all paid plans, enabling autonomous browser tasks with enhanced security through advanced safety classifiers and prompt injection defenses.",
+            "link": "https://claude.com/blog/claude-in-chrome-generally-available"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1787702400000,
@@ -873,33 +900,6 @@
             "summary_kr": "xAI가 출시한 'Imagine Image 2.0'은 고도의 정밀도와 편집 기능을 갖춘 모델로, 사용자가 복잡한 디자인 작업과 반복적인 수정 작업을 효율적으로 수행할 수 있도록 지원합니다.",
             "summary_en": "xAI's 'Imagine Image 2.0' offers high-fidelity generation and advanced editing tools, designed to streamline professional creative workflows and iterative design tasks.",
             "link": "https://x.ai/news/grok-imagine-image-2"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1785974400000,
-            "date": "2026-08-06",
-            "title": "From asking to doing: How the world is putting ChatGPT to work",
-            "summary_kr": "ChatGPT 사용 데이터 분석 결과, 전 세계적으로 AI가 단순 정보 검색 도구를 넘어 실무 생산성 향상을 위한 실행 도구로 진화하며 글로벌 도입 격차가 빠르게 좁혀지고 있습니다.",
-            "summary_en": "OpenAI's latest data reveals that ChatGPT is shifting from a search tool to an action-oriented productivity engine, with global adoption narrowing as users increasingly leverage AI for professional tasks and multimedia creation.",
-            "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786116000000,
-            "date": "2026-08-07",
-            "title": "Responding to the next frontier of critical cyber capabilities",
-            "summary_kr": "차세대 모델 '아스트라(Astra)'가 사이버 보안 분야에서 '위험(Critical)' 수준의 능력을 보일 가능성이 제기됨에 따라, 보안 통제 강화 및 내부 테스트 일시 중단 등 선제적 안전 조치를 시행합니다.",
-            "summary_en": "As the upcoming 'Astra' model shows potential 'Critical' cyber capabilities, the company is implementing enhanced security controls and pausing related internal activities to ensure responsible development.",
-            "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1786111200000,
-            "date": "2026-08-07",
-            "title": "See what 5 builders are making with Gemini Omni",
-            "summary_kr": "구글의 차세대 멀티모달 모델인 Gemini Omni는 텍스트, 이미지, 영상 등을 통해 고품질 영상을 생성 및 편집하며, 물리적 이해도를 바탕으로 더욱 현실적인 결과물을 구현합니다.",
-            "summary_en": "Google's Gemini Omni model enables intuitive, high-quality video generation and editing by leveraging its deep understanding of real-world physics to create coherent and realistic cinematic content.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders"
         }
     ]
 }

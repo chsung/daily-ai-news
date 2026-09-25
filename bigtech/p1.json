@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-09-24 19:34:48",
+    "last_update": "2026-09-25 19:37:15",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1790362800000,
+            "date": "2026-09-25",
+            "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+            "summary_kr": "플릿 관리 소프트웨어 기업 Proaction은 Codex를 도입해 맞춤형 데모 제작 프로세스를 자동화함으로써, 엔지니어링 시간을 월 최대 60시간 절감하고 매출을 60% 성장시켰습니다.",
+            "summary_en": "Proaction boosted sales by 60% and saved up to 60 hours of engineering work per month by leveraging Codex to automate the creation of personalized, data-driven product demos.",
+            "link": "https://openai.com/index/proaction"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790338231000,
+            "date": "2026-09-25",
+            "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 새로운 Copilot을 통해 업무 효율을 높이는 Home, 누구나 맞춤형 솔루션을 개발하는 Code, 그리고 능동적인 개인 에이전트인 Autopilot 기능을 통합하여 AI 업무 경험을 혁신합니다.",
+            "summary_en": "Microsoft is revolutionizing the AI work experience by integrating Home for productivity, Code for accessible solution building, and Autopilot for proactive, autonomous task management.",
+            "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790294400000,
+            "date": "2026-09-25",
+            "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
+            "summary_kr": "물리학자 맷 본 히펠의 도전에 응한 앤스로픽의 AI 모델 '클로드'가 기존 컴퓨팅 자원 한계를 극복하고 이론 물리학의 난제인 N=4 초양-밀스 이론의 9루프 진폭 계산을 성공적으로 수행했습니다.",
+            "summary_en": "Anthropic's Claude AI model successfully calculated a nine-loop amplitude in N=4 super-Yang-Mills theory, meeting physicist Matt von Hippel's challenge to solve a complex theoretical physics problem under limited computational resources.",
+            "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+        },
         {
             "company": "Google",
             "timestamp": 1790263800000,
@@ -873,33 +900,6 @@
             "summary_kr": "연구진이 AI 모델과 ChatGPT, Codex를 활용해 생명체의 게놈 데이터에서 신규 항균 후보 물질을 탐색하는 시간을 획기적으로 단축하고 있습니다.",
             "summary_en": "Researchers are significantly accelerating the discovery of novel antimicrobial candidates by leveraging AI models, ChatGPT, and Codex to analyze vast biological datasets.",
             "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1789055648000,
-            "date": "2026-09-10",
-            "title": "Building fintech for greater financial access: How Welcount uses AI to serve more customers",
-            "summary_kr": "웰카운트(Welcount)는 마이크로소프트 애저와 생성형 AI를 활용해 기존 금융 시스템에서 소외된 이주민과 난민들에게 신속하고 포용적인 금융 서비스 접근성을 제공합니다.",
-            "summary_en": "Welcount leverages Microsoft Azure and generative AI to provide rapid, inclusive financial access for newcomers and refugees who are often underserved by traditional financial systems.",
-            "link": "https://www.microsoft.com/en-us/startups/blog/building-fintech-for-greater-financial-success-how-welcount-uses-ai-to-serve-more-customers"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789052400000,
-            "date": "2026-09-10",
-            "title": "Now everyone can put data to work",
-            "summary_kr": "OpenAI는 기업 내부 데이터를 자연어로 분석하고 대화형 대시보드를 생성하여 즉각적인 업무 의사결정을 돕는 'ChatGPT Work용 데이터 에이전트'를 출시했습니다.",
-            "summary_en": "OpenAI has introduced a 'Data agent for ChatGPT Work' that allows employees to analyze internal company data through natural language and generate interactive dashboards for actionable insights.",
-            "link": "https://openai.com/index/put-data-to-work"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1789052400000,
-            "date": "2026-09-10",
-            "title": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
-            "summary_kr": "NVIDIA BioNeMo Inference Runtime(BioIR)은 최적화된 커널과 Ray를 활용해 단백질 구조 예측 모델의 처리량을 극대화하며, 프로테옴 규모의 연구를 효율적으로 가속화합니다.",
-            "summary_en": "NVIDIA BioNeMo Inference Runtime (BioIR) accelerates biomolecular structure prediction at scale by leveraging optimized kernels and Ray to maximize throughput while maintaining familiar PyTorch workflows.",
-            "link": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime"
         }
     ]
 }
