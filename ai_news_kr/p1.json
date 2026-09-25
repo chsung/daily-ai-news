@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-25 08:41:36",
+    "last_update": "2026-09-25 19:11:33",
     "articles": [
+        {
+            "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진 - AI타임스",
+            "summary_kr": "구글, 오픈AI, 앤트로픽 등 주요 AI 기업들이 인공지능 기술의 안전성과 윤리적 책임을 강화하기 위한 자율 규제 기구인 'SAFA'를 연내 출범할 계획입니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MMG5TVEh0T05PbjQwd2FzRFJOM05JYmFGbzFlekFuSWFTb05DOW9Ga2dYV0ZLUERKZGNEZjQtcHFWb1V4WkpsNjdRTWZaenNYRi02TUVZYkM1aUQtaEdhR190NjRTLXgtQUE?oc=5",
+            "timestamp": 1790334772000,
+            "date": "2026-09-25"
+        },
+        {
+            "title": "\"앱 열지 말고 AI에 시켜라\" MS 코파일럿, AI 운영체제로 - Hankookilbo",
+            "summary_kr": "마이크로소프트가 코파일럿을 단순한 도구에서 차세대 AI 운영체제로 격상시켜, 사용자가 개별 앱을 실행하지 않고도 AI가 직접 작업을 수행하는 사용자 경험을 구현하고자 합니다.",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BSFpTTlczVnpOS1Q4Q0drNmIzZjZaZUk4QzMyYzZwdllvQWZPX0FDUkxTLTA0TWJhZEx5cE9fbGdOYTlMVlJ6M25PdFlCS25IT3JSYTItcWkyRWlKZ2RzZV9UaEVZX055QmpTbnV30gFzQVVfeXFMUDB6V2hCb05fUzZMNWhfT3UzSmNvYWIxR0tMRVJiOXp3Wjlnd0tOcGNFeWk0cGdLaW1ncXJwakJic3pVaVRzcHdyclpETlJlV3Z4aUpQbVdVUTZqb25URVFyQzhYMTdRSlZDRFgtZTJVRmlYUQ?oc=5",
+            "timestamp": 1790337600000,
+            "date": "2026-09-25"
+        },
+        {
+            "title": "젠슨 황 \"통제 불가능한 AI 연구소, 규제 아닌 폐쇄해야\" - AI타임스",
+            "summary_kr": "엔비디아의 젠슨 황 CEO가 안전 기준을 준수하지 않거나 통제가 불가능한 AI 연구소에 대해, 단순한 규제를 넘어 즉각적인 폐쇄 조치를 취해야 한다는 강경한 입장을 밝혔습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUld3aVZITlFZZDdNdmRUVTd0U21vNGtzMGZjZXV0UGZaaHlYNVl1Rm1RLUhrOENwdGI2SHd3MVF6NmNfWmU3a19xbEFwSlJSN1QwSDRtLWNzemx2Uk8zeVhGdENCblEyTUE?oc=5",
+            "timestamp": 1790343398000,
+            "date": "2026-09-25"
+        },
         {
             "title": "\"AI 멸망설 10%? 극히 희박\"…팔로알토·엔비디아 CEO, ‘AI 속도 조절론’에 일침 - AI포스트",
             "summary_kr": "팔로알토와 엔비디아의 최고경영자들은 AI가 인류를 멸망시킬 확률이 10%라는 일각의 주장을 일축하며, AI 발전 속도를 억제해야 한다는 '속도 조절론'에 대해 강한 회의적 입장을 표명했습니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "구글이 2028년까지 핀란드에 약 20조 3,000억 원을 투자해 대규모 데이터센터와 에너지 인프라를 구축하며 유럽 내 AI 핵심 거점으로 활용할 계획입니다. 풍부한 전력과 넓은 부지를 갖춘 핀란드는 최근 하이퍼스케일러들의 투자가 이어지며 '유럽의 텍사스'로 급부상하고 있습니다.",
             "link": "https://www.numbers.co.kr/news/articleView.html?idxno=22445",
             "timestamp": 1789028801000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "유니티, ‘클로드 코드’ 공식 플러그인 공개…AI 개발 연동 강화 - 디지털데일리",
-            "summary_kr": "유니티가 코딩 에이전트 '클로드 코드'를 위한 공식 플러그인을 공개하며 AI 기반의 개발 환경 연동을 강화했습니다. 이번 협력으로 개발자들은 별도의 도구 없이 유니티 엔진과 클로드 코드를 직접 연결하여 작업 효율성을 높이고 오류와 토큰 사용량을 절감할 수 있게 됐습니다.",
-            "link": "https://www.ddaily.co.kr/m/page/view/2026091017200391516",
-            "timestamp": 1789030585000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "앤트로픽, ‘미소스 5.1’ 영국 AISI 사전 검증  거부...'AI 보호주의' 논란 - AI타임스",
-            "summary_kr": "앤트로픽이 최신 AI 모델 '미소스 5.1'의 사전 안전성 검증을 영국 AI 보안연구소(UK AISI)가 아닌 미국 내 기관에만 허용하면서 'AI 보호주의' 논란이 점화됐습니다. 미국 정부의 수출 통제 정책과 맞물려 최신 기술 접근이 자국 중심으로 제한되자, 영불을 비롯한 동맹국들은 국가 안보와 기술 경쟁력 저하를 우려하고 있습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=215090",
-            "timestamp": 1789023846000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "오픈AI, 국가 차원 AI 규제안 의무화 촉구…캘리포니아주 법안 지지로 입장 선회 - AI타임스",
-            "summary_kr": "오픈AI가 AI 기술의 급격한 발전으로 인한 위험을 통제하기 위해 연방 차원의 의무적인 안전 규제 도입을 촉구하며, 캘리포니아주의 주요 AI 안전 법안 4건에 대해 공식 지지 입장을 밝혔습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=215085",
-            "timestamp": 1789021629000,
             "date": "2026-09-10"
         }
     ]
