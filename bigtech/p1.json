@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-25 19:37:15",
+    "last_update": "2026-09-26 18:45:46",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1790368501000,
+            "date": "2026-09-25",
+            "title": "Introducing run-assert-eval: Find the risk, fix it, prove it",
+            "summary_kr": "새롭게 공개된 'run-assert-eval'은 AI 에이전트의 위험 탐지, 정책 생성, 성능 검증 과정을 자동화하여, 사전에 정의되지 않은 위험까지 효과적으로 관리할 수 있게 합니다.",
+            "summary_en": "The newly introduced 'run-assert-eval' automates the process of discovering risks, generating runtime policies, and validating fixes, enabling teams to manage unforeseen AI agent failures more effectively.",
+            "link": "https://commandline.microsoft.com/run-assert-eval-responsible-ai-agent-risk-discovery-at-runtime"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790208000000,
+            "date": "2026-09-24",
+            "title": "Project Swap: What happens when agents trade for us?",
+            "summary_kr": "앤스로픽은 AI 에이전트 간의 도서 거래 실험인 '프로젝트 스왑'을 통해 에이전트의 협상 능력을 검증했으며, 향후 시장 내 에이전트 도입 시 사용자 의도 파악과 거래 규칙 정립이 핵심 과제임을 확인했습니다.",
+            "summary_en": "Anthropic's 'Project Swap' experiment with AI agents demonstrated that model performance significantly impacts negotiation outcomes, while highlighting the critical need for verifying user intent and establishing clear market rules for autonomous agents.",
+            "link": "https://www.anthropic.com/research/project-swap"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1790362800000,
@@ -882,24 +900,6 @@
             "summary_kr": "마이크로소프트는 '안전한 참여 프레임워크'를 통해 AI 시대의 청소년을 보호하면서도 그들의 학습과 기회를 보장하는 설계 중심의 안전 전략을 제시했습니다.",
             "summary_en": "Microsoft has introduced its 'Safe Participation Framework' to balance robust digital protections with educational opportunities for youth through age-appropriate, safety-by-design AI experiences.",
             "link": "https://blogs.microsoft.com/on-the-issues/2026/09/10/safe-participation-framework-opportunity-and-safety-for-the-next-generation-in-the-age-of-ai"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1789059332000,
-            "date": "2026-09-10",
-            "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
-            "summary_kr": "NVIDIA NIM은 최적화된 추론 스택과 검증된 구성을 통해 Nemotron 3 Ultra 모델의 처리량을 최대 2.5배 향상시키며, 엔터프라이즈급 운영 환경에서 고성능 AI 서비스 배포를 가속화합니다.",
-            "summary_en": "NVIDIA NIM accelerates enterprise-grade AI deployment by providing validated optimization stacks that deliver up to 2.5x higher throughput for Nemotron 3 Ultra models.",
-            "link": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789056000000,
-            "date": "2026-09-10",
-            "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-            "summary_kr": "연구진이 AI 모델과 ChatGPT, Codex를 활용해 생명체의 게놈 데이터에서 신규 항균 후보 물질을 탐색하는 시간을 획기적으로 단축하고 있습니다.",
-            "summary_en": "Researchers are significantly accelerating the discovery of novel antimicrobial candidates by leveraging AI models, ChatGPT, and Codex to analyze vast biological datasets.",
-            "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
         }
     ]
 }

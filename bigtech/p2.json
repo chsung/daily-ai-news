@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-25 19:37:15",
+    "last_update": "2026-09-26 18:45:46",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1789059332000,
+            "date": "2026-09-10",
+            "title": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+            "summary_kr": "NVIDIA NIM은 최적화된 추론 스택과 검증된 구성을 통해 Nemotron 3 Ultra 모델의 처리량을 최대 2.5배 향상시키며, 엔터프라이즈급 운영 환경에서 고성능 AI 서비스 배포를 가속화합니다.",
+            "summary_en": "NVIDIA NIM accelerates enterprise-grade AI deployment by providing validated optimization stacks that deliver up to 2.5x higher throughput for Nemotron 3 Ultra models.",
+            "link": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789056000000,
+            "date": "2026-09-10",
+            "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+            "summary_kr": "연구진이 AI 모델과 ChatGPT, Codex를 활용해 생명체의 게놈 데이터에서 신규 항균 후보 물질을 탐색하는 시간을 획기적으로 단축하고 있습니다.",
+            "summary_en": "Researchers are significantly accelerating the discovery of novel antimicrobial candidates by leveraging AI models, ChatGPT, and Codex to analyze vast biological datasets.",
+            "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1789055648000,
@@ -882,24 +900,6 @@
             "summary_kr": "COMPASS는 AI 에이전트 기반의 자동화된 워크플로우를 활용해 잔차 강화학습으로 다양한 로봇 환경에 적용 가능한 확장성 높은 주행 정책을 효율적으로 학습합니다.",
             "summary_en": "COMPASS leverages an AI agent-driven workflow to efficiently train scalable, cross-embodiment navigation policies using residual reinforcement learning across diverse robotic environments.",
             "link": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787764032000,
-            "date": "2026-08-26",
-            "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
-            "summary_kr": "알리바바의 신규 모델 Qwen3.8-Flash-Next는 Gated DeltaNet과 Qwen Sparse Attention을 결합해 100만 토큰의 긴 문맥에서도 효율적인 추론을 구현했으며, NVIDIA GB300 NVL72 시스템을 통해 최적화된 에이전틱 코딩 환경을 제공합니다.",
-            "summary_en": "Alibaba’s Qwen3.8-Flash-Next leverages a hybrid Gated DeltaNet and Sparse Attention architecture to enable efficient long-context inference at 1M tokens, optimized for high-performance agentic coding on NVIDIA GB300 NVL72 systems.",
-            "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1787763600000,
-            "date": "2026-08-26",
-            "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-            "summary_kr": "구글이 공개한 Gemini 3.5 Transcribe는 높은 정확도와 실시간 처리 능력을 갖춘 차세대 음성 인식 모델로, 개발자 API와 서비스 전반에서 지능형 받아쓰기 및 음성 기반 워크플로우를 혁신합니다.",
-            "summary_en": "Google's new Gemini 3.5 Transcribe delivers industry-leading accuracy and low-latency performance, enabling developers to integrate advanced, context-aware speech-to-text capabilities into voice agents and applications.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe"
         }
     ]
 }

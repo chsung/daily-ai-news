@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-09-25 19:37:15",
+    "last_update": "2026-09-26 18:45:46",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1787764032000,
+            "date": "2026-08-26",
+            "title": "Experiment with Qwen3.8-Flash-Next on NVIDIA GB300 NVL72 for Agentic Coding",
+            "summary_kr": "알리바바의 신규 모델 Qwen3.8-Flash-Next는 Gated DeltaNet과 Qwen Sparse Attention을 결합해 100만 토큰의 긴 문맥에서도 효율적인 추론을 구현했으며, NVIDIA GB300 NVL72 시스템을 통해 최적화된 에이전틱 코딩 환경을 제공합니다.",
+            "summary_en": "Alibaba’s Qwen3.8-Flash-Next leverages a hybrid Gated DeltaNet and Sparse Attention architecture to enable efficient long-context inference at 1M tokens, optimized for high-performance agentic coding on NVIDIA GB300 NVL72 systems.",
+            "link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1787763600000,
+            "date": "2026-08-26",
+            "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+            "summary_kr": "구글이 공개한 Gemini 3.5 Transcribe는 높은 정확도와 실시간 처리 능력을 갖춘 차세대 음성 인식 모델로, 개발자 API와 서비스 전반에서 지능형 받아쓰기 및 음성 기반 워크플로우를 혁신합니다.",
+            "summary_en": "Google's new Gemini 3.5 Transcribe delivers industry-leading accuracy and low-latency performance, enabling developers to integrate advanced, context-aware speech-to-text capabilities into voice agents and applications.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1787738400000,
@@ -882,24 +900,6 @@
             "summary_kr": "마이크로소프트가 인도 하이데라바드에 네 번째 데이터센터 리전을 개설하며, 인도 내 AI 인프라 확장을 가속화하고 기업의 AI 도입을 지원하는 최대 규모의 클라우드 입지를 구축했습니다.",
             "summary_en": "Microsoft has launched its fourth cloud region in Hyderabad, strengthening its position as the largest hyperscale cloud provider in India and accelerating the country's AI infrastructure and enterprise adoption.",
             "link": "https://news.microsoft.com/source/asia/features/microsofts-newest-india-datacenter-region-goes-live-to-power-the-countrys-ai-economy-and-enable-frontier-firms"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1786125093000,
-            "date": "2026-08-07",
-            "title": "When Access Opens Doors: How Two Young Indonesians Are Building Digital Careers Through AI and Cloud - Source Asia",
-            "summary_kr": "마이크로소프트의 교육 프로그램을 통해 인도네시아 청년들이 AI와 클라우드 기술을 습득하며 디지털 커리어의 기회를 확장하고 있습니다.",
-            "summary_en": "Indonesian youths are expanding their digital career opportunities by leveraging Microsoft's training programs to master AI and cloud technologies.",
-            "link": "https://news.microsoft.com/source/asia/2026/08/04/when-access-opens-doors-how-two-young-indonesians-are-building-digital-careers-through-ai-and-cloud"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1786060800000,
-            "date": "2026-08-07",
-            "title": "Imagine Image 2.0",
-            "summary_kr": "xAI가 출시한 'Imagine Image 2.0'은 고도의 정밀도와 편집 기능을 갖춘 모델로, 사용자가 복잡한 디자인 작업과 반복적인 수정 작업을 효율적으로 수행할 수 있도록 지원합니다.",
-            "summary_en": "xAI's 'Imagine Image 2.0' offers high-fidelity generation and advanced editing tools, designed to streamline professional creative workflows and iterative design tasks.",
-            "link": "https://x.ai/news/grok-imagine-image-2"
         }
     ]
 }
