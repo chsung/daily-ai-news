@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-26 08:26:45",
+    "last_update": "2026-09-26 18:27:34",
     "articles": [
+        {
+            "title": "Ready to Put Your Work on 'Autopilot'? Microsoft Readies Its AI Agent for Release - PCMag Middle East",
+            "summary_en": "Microsoft is preparing to launch its AI agent technology, designed to automate complex workplace tasks and shift organizational workflows toward an 'autopilot' model.",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkpYcmpwT09BN3BCWmZlUlY2VFJWWDNWcW9Ma0JZUWY1UXVBbm9GZzdLdElSbWdVaURMUlAwNjdtNlFsc0N2SV9CVmNGaWVUalVtRVJxanpmNThJSFJFNm0wSTdvTUItVlAtQlJBcG44T08wMlRRQW5rYi1jYnkxRWY5WmNqa1JoM2xQQ3ZRdl9zLUxxbUxmVGpNS3lLRVpHZ3BEbTZEVWltSU5Mb0dIa0s4STEwczNlazRwTEJBS1BRbVdvYW96QlR5YTdrYUU?oc=5",
+            "timestamp": 1790400279000,
+            "date": "2026-09-26"
+        },
+        {
+            "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge - TechCrunch",
+            "summary_en": "A security oversight led to 53 user images being inadvertently exposed on the internet, highlighting critical privacy vulnerabilities in OpenAI's agent-based systems.",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5",
+            "timestamp": 1790374847000,
+            "date": "2026-09-25"
+        },
+        {
+            "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - anthropic.com",
+            "summary_en": "Anthropic's Claude model has demonstrated advanced scientific capabilities by successfully computing a nine-loop amplitude in N=4 super-Yang-Mills theory, marking a significant milestone in AI-assisted theoretical physics.",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
+            "timestamp": 1790358293000,
+            "date": "2026-09-25"
+        },
         {
             "title": "Google 뉴스 - Computerworld",
             "summary_en": "Google is currently featured in Computerworld's latest news cycle, highlighting the company's ongoing influence within the enterprise computing sector.",
@@ -679,27 +700,6 @@
             "link": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027",
             "timestamp": 1788555937000,
             "date": "2026-09-04"
-        },
-        {
-            "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities - CNBC",
-            "summary_en": "OpenAI has begun rolling out GPT-6 Astra, its most capable model to date, which features advanced cybersecurity and software engineering functions while undergoing rigorous safety reviews following a previous security breach.",
-            "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-            "timestamp": 1788458402000,
-            "date": "2026-09-03"
-        },
-        {
-            "title": "OpenAI launches Astra, its powerful (and controversial) new model | TechCrunch - TechCrunch",
-            "summary_en": "OpenAI’s new Astra model is being launched with a focus on advanced computer use, though it has sparked controversy for its use of 'opaque recurrence,' a reasoning technique that complicates the auditability of the AI's decision-making process.",
-            "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
-            "timestamp": 1788458505000,
-            "date": "2026-09-03"
-        },
-        {
-            "title": "OpenAI launches Learning Lab to build evidence base for AI in education - EdTech Innovation Hub",
-            "summary_en": "OpenAI has launched the 'Learning Lab,' a collaborative research network designed to study the long-term impact of AI on education and develop evidence-based approaches to teaching and learning.",
-            "link": "https://www.edtechinnovationhub.com/news/openai-launches-learning-lab-to-build-evidence-base-for-ai-in-education",
-            "timestamp": 1788476466000,
-            "date": "2026-09-03"
         }
     ]
 }

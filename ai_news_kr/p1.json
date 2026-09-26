@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-26 08:26:39",
+    "last_update": "2026-09-26 18:27:02",
     "articles": [
+        {
+            "title": "[스냅드래곤 서밋] \"PC 아키텍처 한계 깼다\"…퀄컴-구글 '에이전틱 AI 퍼스트' 동맹 - 디일렉",
+            "summary_kr": "퀄컴과 구글이 스냅드래곤 서밋에서 협력을 발표하며, 기존 PC 아키텍처의 한계를 극복하는 차세대 '에이전틱 AI 퍼스트' 생태계 구축에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cnJVMUVOc2NrLWJTdVRUSUtqRllCUkMtcHFSNjlzNkhaOEgxSzZsRDFUY01zWTZlaFktN3Vic043X0hBZkNnSTFmLVJSUnIxQnd4RER3am4zMkRmODlVUDN4M2VTdw?oc=5",
+            "timestamp": 1790420090000,
+            "date": "2026-09-26"
+        },
+        {
+            "title": "오픈AI 에이전트발 이미지 53장 유출 사태가 AI 플랫폼 비즈니스에 던진 구조적 경고 - 대한청년일보",
+            "summary_kr": "오픈AI의 에이전트 관련 이미지 53장이 유출된 사태는 AI 플랫폼 비즈니스의 보안 체계와 데이터 관리의 구조적 취약성에 경종을 울리고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9wSURLY2IzNlFIam5DS2M0aFhZUG93NUprbmFlNG1ZZnZReHpVeHF0czN6SGxqV0FBSjJ6NVgwS29KR1E?oc=5",
+            "timestamp": 1790438822000,
+            "date": "2026-09-26"
+        },
+        {
+            "title": "엔비디아, 로보택시 기술스택 확산⋯우버·벤츠·현대차·웨이모까지 - 엠투데이",
+            "summary_kr": "엔비디아가 자사의 로보택시 기술 스택을 우버, 벤츠, 현대차, 웨이모 등 주요 글로벌 기업들에 확산시키며 자율주행 시장의 핵심 인프라로 자리 잡고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rbllnUWNwZFNyR3JFZWJQNEFjS2F2bW9Jc1o0OElkNmUwY1IyTUE1S3lNT01PcVFpeFNCLTV1SlhYMzU0VkdabVA0MmNtc2tSRDNzZGRDRi0yc2x4eC1MbGJlNlJMdFVjRktVbmFvdw?oc=5",
+            "timestamp": 1790413500000,
+            "date": "2026-09-26"
+        },
         {
             "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진 - AI타임스",
             "summary_kr": "구글, 오픈AI, 앤트로픽 등 주요 AI 기업들이 인공지능 기술의 안전성과 윤리적 책임을 강화하기 위한 자율 규제 기구인 'SAFA'를 연내 출범할 계획입니다.",
@@ -679,27 +700,6 @@
             "link": "https://imnews.imbc.com/news/2026/world/article/6851226_36925.html",
             "timestamp": 1789109558000,
             "date": "2026-09-11"
-        },
-        {
-            "title": "바이러스 변이 연구부터 무기 설계까지…앤트로픽, 클로드 악용 사례 공개 - 조선비즈 - Chosunbiz",
-            "summary_kr": "앤트로픽이 생물학 무기 연구 및 군사·안보 분야에서 자사 AI 모델 '클로드'가 악용된 사례를 보고했습니다. 이에 앤트로픽은 중국·러시아 등 제한 국가의 계정을 차단하고 보안을 강화하는 등 AI 모델의 군사적 전용을 막기 위한 조치를 시행하고 있습니다.",
-            "link": "https://biz.chosun.com/it-science/ict/2026/09/11/RYBYLHHXV5HURBRBQXJ3AY746I",
-            "timestamp": 1789102320000,
-            "date": "2026-09-11"
-        },
-        {
-            "title": "웹 브라우저 벗어난 구글 '제미나이', 윈도우용 데스크톱 앱 출시 - AI타임스",
-            "summary_kr": "구글이 윈도우용 제미나이 데스크톱 앱을 출시하며 PC 운영체제 내에서 AI 활용성을 대폭 강화했습니다. 사용자는 단축키로 제미나이를 즉시 호출해 문서 작성, 이미지 생성, 구글 앱 연동 작업을 원활하게 수행할 수 있습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=215128",
-            "timestamp": 1789096718000,
-            "date": "2026-09-11"
-        },
-        {
-            "title": "[AI 인프라 전쟁] 구글, ‘유럽 텍사스’ 핀란드에 20.3조원 투자 - numbers.co.kr",
-            "summary_kr": "구글이 2028년까지 핀란드에 약 20조 3,000억 원을 투자해 대규모 데이터센터와 에너지 인프라를 구축하며 유럽 내 AI 핵심 거점으로 활용할 계획입니다. 풍부한 전력과 넓은 부지를 갖춘 핀란드는 최근 하이퍼스케일러들의 투자가 이어지며 '유럽의 텍사스'로 급부상하고 있습니다.",
-            "link": "https://www.numbers.co.kr/news/articleView.html?idxno=22445",
-            "timestamp": 1789028801000,
-            "date": "2026-09-10"
         }
     ]
 }
