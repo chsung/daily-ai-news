@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-27 18:57:36",
+    "last_update": "2026-09-28 09:35:30",
     "articles": [
+        {
+            "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
+            "summary_en": "Nvidia has launched a new software platform designed to establish safety guardrails for AI agents, aimed at preventing unpredictable or harmful behaviors during autonomous operation.",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5",
+            "timestamp": 1790586002000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "Google 뉴스 - MarkTechPost",
+            "summary_en": "MarkTechPost continues to provide curated coverage and technical insights into the rapidly evolving landscape of artificial intelligence research and development.",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUEctSWl4M20wZV9BdVdDRjlrRjBLdVc1MDhGSVVqenltY2VQd1ZiMDBBT2VEMlFOQ2llek1uVlpfUk5yWkVqSVNVZ3Y3LUlvZFg4RjdHcTdYN3g5NV81QkRvRkJwVk1hYVJJOFlRdExfbFpvbmtVQ0hMYXhYQUEyNklTaUNfRm1LTk9PZHR1YkEyV0JVZ1J3SG5YUkZrQ2ZZU1FaQWlGcVFzQk1JQl9HZ0xjNVRyQ2NHeERRMlc5bVZBNHV0eG5VQnQxb2sxaEV1Q3F4STJxSGptRXVUX1RBQ2N5VFgyZmtibGdr0gHwAUFVX3lxTE16TXJ5djVUV2dYZUJJc3UyOGJ1dFhybjZVRTU5RWtJdFpMdGhJVVJmSFQtLWNBYnFHcTFhLWJEUmhmaHgyM0cwYXBvZGRnMDczaXRmeFBoNUMwRzFWQml4WGtjaVVRb0FsNUR2NmR4MVVPMTdUSURDOGUzUDZjd0w1RGwxN1JIZ09yRHR2VUNJNU1xN05lWGxxd1JoMFpHbXowOERuZ1N6cUpzZmR4YS1vU0dUQ1FwaG1QdTJ1SWVBbDZiNURrRUIwUmNyV0h3N0thbFhxY04wS3RORlpaeHdZRUdnYnkwVmZ4YlFUWHgzUw?oc=5",
+            "timestamp": 1790563467000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "Google 뉴스 - STT Info",
+            "summary_en": "STT Info remains a source for news aggregation, focusing on developments within the broader technology sector and the AI industry.",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb01kOEVOeS1fQktnWEpFWTJYUHF3QXdHbVBYSThwMjN3TmJpbUQ2Y21yVlZBRzdNbEs0OWJpaUx0eXpNRmNraGRXekd3bWRtbU03bFJEeWpzVkdrX1hnUzdLbG1JeU9uZHRjNHNTMWlxd2w4QnYzRE5oSFp6dkdRZnVsWUp3bG84NkxCRUxlS2VEMnkyakJsV3FMa01nbEM3dHpvUXhsTGtwS2FpbWRzMmRUZWlPV3VmZUZ0Q01tcVRjaWV6bGhGYk5fNlpxZXMtTmFSV3hvVzBpdWxSbURReHpoS3dsQQ?oc=5",
+            "timestamp": 1790578980000,
+            "date": "2026-09-28"
+        },
         {
             "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
             "summary_en": "OpenAI is reportedly conducting an internal investigation to determine the extent of agent activity following the emergence of a user data leak.",
@@ -679,27 +700,6 @@
             "link": "https://cxotoday.com/media-coverage/cathay-pacific-and-google-partner-to-research-and-trial-ai-powered-contrail-avoidance",
             "timestamp": 1788797893000,
             "date": "2026-09-07"
-        },
-        {
-            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
-            "summary_en": "Major AI firms are engaging in a frenetic release cycle of frequent model updates, causing 'model fatigue' among corporate users and experts who struggle to manage the associated costs and cybersecurity risks. This intense competition for a share of the projected $2.59 trillion AI market is driven by top labs aiming to prove their dominance ahead of public market entry.",
-            "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-            "timestamp": 1788696001000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours - MarkTechPost",
-            "summary_en": "Meta FAIR has introduced AI Research Preference Models (RPMs), a new methodology designed to evaluate and rank machine learning experiments before committing expensive GPU resources. This approach helps optimize computational efficiency by filtering out ineffective models prior to full-scale training.",
-            "link": "https://www.marktechpost.com/2026/09/06/meta-fair-introduces-ai-research-preference-models-rpms-ranking-ml-experiments-before-spending-gpu-hours",
-            "timestamp": 1788726317000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "OpenAI Says It Reached Its Goal Of Creating An Automated Research Intern - Engadget",
-            "summary_en": "OpenAI has successfully developed an AI-powered 'automated research intern' capable of performing multi-day tasks under human supervision, meeting a milestone set by CEO Sam Altman in 2025. The company is now pivoting toward its next major objective: building a fully autonomous AI researcher by March 2028.",
-            "link": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern",
-            "timestamp": 1788722812000,
-            "date": "2026-09-06"
         }
     ]
 }
