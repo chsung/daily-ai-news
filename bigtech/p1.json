@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-09-26 18:45:46",
+    "last_update": "2026-09-28 21:27:43",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1790611200000,
+            "date": "2026-09-28",
+            "title": "See what 4 builders are making with Gemini 3.8 Flash",
+            "summary_kr": "구글의 최신 모델인 Gemini 3.8 Flash는 향상된 추론 능력과 도구 활용성을 바탕으로 복잡한 공학 및 시각적 작업에서 강력한 성능을 입증하고 있습니다.",
+            "summary_en": "Google's Gemini 3.8 Flash demonstrates significant performance gains in complex reasoning and tool utilization, enabling developers to build sophisticated applications ranging from engineering simulations to creative animations.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790607596000,
+            "date": "2026-09-28",
+            "title": "At NASA, AI is helping scientists unlock discoveries hidden in decades of data",
+            "summary_kr": "NASA는 방대한 미션 데이터와 과학적 정보를 효율적으로 분석하고 활용하기 위해 생성형 AI를 도입하여 의사결정 속도와 연구 효율을 혁신적으로 개선하고 있습니다.",
+            "summary_en": "NASA is integrating generative AI to analyze its massive archives of mission data and scientific research, significantly accelerating decision-making and unlocking new discoveries.",
+            "link": "https://news.microsoft.com/source/features/digital-transformation/at-nasa-ai-is-helping-scientists-unlock-discoveries-hidden-in-decades-of-data"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790585815000,
+            "date": "2026-09-28",
+            "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+            "summary_kr": "엔비디아는 AI 에이전트의 안전을 위해 제로 트러스트 기반의 샌드박스 환경과 실시간 모니터링을 제공하는 오픈소스 플랫폼 'OpenShell'을 공개하며 에이전트 독립적 보안 제어의 중요성을 강조했습니다.",
+            "summary_en": "NVIDIA has introduced 'OpenShell,' an open-source platform providing a zero-trust, sandboxed environment for AI agents, emphasizing the necessity of independent, kernel-level security controls to prevent agent drift.",
+            "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790585700000,
+            "date": "2026-09-28",
+            "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+            "summary_kr": "NVIDIA가 공개한 오픈소스 런타임 'OpenShell'은 AI 에이전트의 권한과 접근 범위를 외부에서 안전하게 제어하여 보안 위험을 방지하고 기업용 AI 운용의 신뢰성을 높입니다.",
+            "summary_en": "NVIDIA's open-source runtime 'OpenShell' enables secure, external control over AI agent permissions and resource access, enhancing safety and reliability for enterprise AI deployments.",
+            "link": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790578800000,
+            "date": "2026-09-28",
+            "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+            "summary_kr": "렌페스트 연구소와 OpenAI는 지역 언론의 AI 혁신을 가속화하기 위해 'AI 협력 및 펠로우십 프로그램'에 1,000만 달러 규모의 지원을 확대합니다.",
+            "summary_en": "The Lenfest Institute and OpenAI are expanding their 'AI Collaborative and Fellowship Program' with a $10 million commitment to accelerate AI-driven innovation and sustainability in local journalism.",
+            "link": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790557200000,
+            "date": "2026-09-28",
+            "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
+            "summary_kr": "엔비디아의 DSX MaxLPS는 정책 기반의 동적 전력 분배를 통해 AI 데이터센터의 유휴 전력 자원을 효율적으로 활용함으로써 동일한 전력 예산 내에서 GPU 도입 밀도를 최대 40%까지 높입니다.",
+            "summary_en": "NVIDIA DSX MaxLPS maximizes AI factory throughput by dynamically reallocating idle power resources based on policy-governed control, enabling up to 40% higher GPU density within the same power budget.",
+            "link": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790553600000,
+            "date": "2026-09-28",
+            "title": "Are you a Codex Original?",
+            "summary_kr": "OpenAI가 자사의 AI 모델인 Codex를 활용해 혁신적인 프로젝트를 수행 중인 사용자들의 사례를 발굴하고 소개하는 'Codex Originals' 프로그램 참가자를 모집합니다.",
+            "summary_en": "OpenAI is inviting builders, researchers, and creators to share their unique stories and projects for the 'Codex Originals' program, which highlights innovative applications of the Codex model.",
+            "link": "https://openai.com/form/codex-originals"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790553600000,
+            "date": "2026-09-28",
+            "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+            "summary_kr": "Basis는 GPT-6 Astra를 도입하여 세무 업무 자동화 효율을 50% 높이고, 사용자 의도 파악과 복잡한 문제 해결 능력을 크게 개선했습니다.",
+            "summary_en": "Basis has improved tax workflow efficiency by 50% with GPT-6 Astra, demonstrating enhanced user intent comprehension and superior complex task execution.",
+            "link": "https://openai.com/index/basis-tax-workbook-with-astra"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1790553600000,
+            "date": "2026-09-28",
+            "title": "Team Bots: AI coworkers that learn from your team",
+            "summary_kr": "팀 봇(Team Bots)은 기업 내 공유된 데이터와 업무 맥락을 학습해 팀원들과 협업하는 AI 동료로, 프라이버시를 유지하면서도 효율적인 워크플로우 자동화를 제공합니다.",
+            "summary_en": "Team Bots function as collaborative AI coworkers that learn from shared data and context, enabling teams to streamline complex workflows while maintaining individual user privacy.",
+            "link": "https://x.ai/news/team-bots"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1790368501000,
@@ -819,87 +900,6 @@
             "summary_kr": "제약 업계는 단순한 생산성 향상을 넘어 데이터 거버넌스와 AI를 가치 사슬 전반에 내재화함으로써 신약 개발 과정을 가속화하고 의사결정의 효율성을 극대화하는 단계로 진입했습니다.",
             "summary_en": "The pharmaceutical industry is moving beyond productivity gains toward embedding AI and robust data governance across the entire value chain to accelerate drug discovery and optimize enterprise-wide decision-making.",
             "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/14/the-ai-shift-is-real-how-pharmaceutical-leaders-are-operationalizing-ai"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1789410655000,
-            "date": "2026-09-14",
-            "title": "Almost half (47%) of Irish workers say they are considering new career paths, as AI shapes the future of work, Microsoft Ireland study finds - Source EMEA",
-            "summary_kr": "마이크로소프트 조사에 따르면, 아일랜드 근로자의 47%가 AI 도입에 따라 커리어 전환을 고민 중이며, 근로자들의 높은 AI 수용도에 비해 기업의 교육 및 인프라 지원은 여전히 부족한 상황입니다.",
-            "summary_en": "According to Microsoft, 47% of Irish workers are reconsidering their career paths due to AI, highlighting a gap between high employee adoption and the insufficient AI training and resources provided by employers.",
-            "link": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1789403955000,
-            "date": "2026-09-14",
-            "title": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
-            "summary_kr": "NVIDIA의 Transformer Engine은 JAX 환경에서 블록 희소성 커널과 최적화된 그룹 GEMM을 활용하여 MoE 모델의 고질적인 문제인 불규칙한 텐서 연산과 통신 병목을 해결, 학습 성능을 10배 이상 향상시켰습니다.",
-            "summary_en": "NVIDIA's Transformer Engine leverages block-sparse kernels and optimized grouped GEMM within JAX to resolve MoE training bottlenecks like ragged tensors and communication overhead, achieving a 10x performance boost.",
-            "link": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789387200000,
-            "date": "2026-09-14",
-            "title": "How Fyxer built an AI executive assistant people trust",
-            "summary_kr": "Fyxer는 50만 시간 이상의 실제 비서 업무 데이터와 OpenAI 모델을 결합하여, 사용자별 고유한 맥락과 어조를 학습한 고도로 개인화된 AI 비서 서비스를 구축했습니다.",
-            "summary_en": "Fyxer has developed a highly personalized AI executive assistant by combining over 500,000 hours of real-world workflow data with OpenAI models to replicate individual user tone and context.",
-            "link": "https://openai.com/index/fyxer"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789344000000,
-            "date": "2026-09-14",
-            "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-            "summary_kr": "퍼플렉시티는 GPT-6 Astra를 도입하여 코드 작성, 시스템 모니터링 및 엔드투엔드 테스트를 자동화함으로써 운영 효율성과 신뢰성을 크게 향상했습니다.",
-            "summary_en": "Perplexity has integrated GPT-6 Astra to automate code generation, system monitoring, and end-to-end testing, significantly enhancing operational efficiency and reliability.",
-            "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789142400000,
-            "date": "2026-09-11",
-            "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-            "summary_kr": "Cognition은 AI 소프트웨어 엔지니어 '데빈(Devin)'에 GPT-6 Astra를 도입하여 코드 테스트와 검증 과정을 자동화함으로써, 엔지니어의 수동 검토 부담을 줄이고 개발 효율성을 극대화하고 있습니다.",
-            "summary_en": "Cognition is integrating GPT-6 Astra into its AI software engineer 'Devin' to automate code testing and verification, significantly reducing manual review efforts and accelerating the deployment process.",
-            "link": "https://openai.com/index/cognition-devin-testing-with-astra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789120800000,
-            "date": "2026-09-11",
-            "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-            "summary_kr": "OpenAI는 ChatGPT의 폭발적인 사용자 증가에 대응하기 위해 자사의 온라인 스토리지 플랫폼 'Habitat'을 단순 라이브러리에서 초당 7천만 건 이상의 요청을 처리하는 고성능 분산 서비스로 진화시켰습니다.",
-            "summary_en": "OpenAI scaled its online storage platform, 'Habitat,' from a simple library into a high-performance distributed system capable of handling over 70 million requests per second to support the massive growth of ChatGPT.",
-            "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788998400000,
-            "date": "2026-09-10",
-            "title": "Introducing the Agents API",
-            "summary_kr": "OpenAI는 개발자가 복잡한 에이전트 구축 및 운영 인프라를 직접 구축할 필요 없이, 즉시 활용 가능한 관리형 환경과 최적화된 도구들을 제공하는 'Agents API' 공개 베타를 출시했습니다.",
-            "summary_en": "OpenAI has launched the public beta of its 'Agents API,' providing developers with a managed infrastructure and optimized harness to build, deploy, and scale autonomous agents without managing the underlying complexities.",
-            "link": "https://openai.com/index/introducing-the-agents-api"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1789063200000,
-            "date": "2026-09-10",
-            "title": "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S.",
-            "summary_kr": "구글은 사용자의 개인 데이터와 선호도를 결합해 맞춤형 일일 스토리 콘텐츠를 제공하는 '드림빈(Dreambeans)' 서비스를 미국 내 모든 성인 사용자에게 확대 출시했습니다.",
-            "summary_en": "Google has expanded its 'Dreambeans' service to all adult users in the U.S., offering personalized daily story collections by integrating users' personal data and preferences across Google apps.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1789059631000,
-            "date": "2026-09-10",
-            "title": "Safe Participation Framework: Opportunity and Safety for the Next Generation in the Age of AI - Microsoft On the Issues",
-            "summary_kr": "마이크로소프트는 '안전한 참여 프레임워크'를 통해 AI 시대의 청소년을 보호하면서도 그들의 학습과 기회를 보장하는 설계 중심의 안전 전략을 제시했습니다.",
-            "summary_en": "Microsoft has introduced its 'Safe Participation Framework' to balance robust digital protections with educational opportunities for youth through age-appropriate, safety-by-design AI experiences.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/10/safe-participation-framework-opportunity-and-safety-for-the-next-generation-in-the-age-of-ai"
         }
     ]
 }
