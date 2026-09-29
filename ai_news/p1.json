@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-28 21:09:53",
+    "last_update": "2026-09-29 09:39:24",
     "articles": [
+        {
+            "title": "OpenAI shelves new AI model release over safety concerns - Reuters",
+            "summary_en": "OpenAI has reportedly decided to postpone the launch of its next-generation AI model due to unresolved internal safety and risk assessments.",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5",
+            "timestamp": 1790634840000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "Florida AG seeks injunction to hamper OpenAI development - politico.com",
+            "summary_en": "The Attorney General of Florida is pursuing a legal injunction aimed at restricting OpenAI’s ongoing artificial intelligence development practices.",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFpqVmlDUVNFZlZMVjBEQVpaZmRfTmM5WjF3STJLeWdJaFlKM2YyQjZNN1V3SHY4bEhpdUhSTWRhYTVQU1dscXF2TlZwWVFBXzl2ZkJoTUVHZFBjR1JiNjQ5SjczWENWYktFTWk1cFp5OUV2UjRnbWxuaDR6aHJSTjVObGVTcG1vR2V4dURnQmU?oc=5",
+            "timestamp": 1790616180000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "CSL partners with AWS on AI for drug research and development - Investing.com",
+            "summary_en": "Biotechnology company CSL has entered a strategic partnership with Amazon Web Services to leverage cloud-based AI for accelerating pharmaceutical research and drug discovery.",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjRwQlpJVWp6RUIxOEU1SEdCdkNhWjFHaHE1RE1ZLTA2bzBWNGg3X042MDJSQTF0aFJ1bmc5MXJWUlQybzE2WWt4MmVsNkt6WXpGWEVFZ2t3UnUyRFhyR2hXZkJSOWJrN2RKODZYMjFFS1lIWE5mT21tU1pPeVJRME82RlNLOWtOdmxOejUxZ2VpQmhDR2JQN3pRYmVsaGN2di1FTGxGcWVVREtQQUQ3SWJMODdKQV9nUGxyb1cwMmg?oc=5",
+            "timestamp": 1790644475000,
+            "date": "2026-09-29"
+        },
         {
             "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
             "summary_en": "NVIDIA has introduced an Open Agent Safety Platform designed to provide comprehensive security oversight for AI agents throughout their entire lifecycle, from initial testing to final deployment.",
@@ -679,27 +700,6 @@
             "link": "https://www.theregister.com/research/2026/09/08/extortion-crews-have-their-eyes-on-high-value-ai-data-google-warns/5294640",
             "timestamp": 1788868800000,
             "date": "2026-09-08"
-        },
-        {
-            "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI - BBC",
-            "summary_en": "OpenAI chief scientist Jakub Pachocki has called for extreme caution and international safety standards, warning that society is currently unprepared for the rapid advancement of autonomous AI agents. He advocates for mandatory third-party audits and potential development pauses to ensure machine intelligence remains aligned with human intent.",
-            "link": "https://www.bbc.com/news/articles/cwyzrrd0kp7o",
-            "timestamp": 1788783727000,
-            "date": "2026-09-07"
-        },
-        {
-            "title": "OpenAI just hit a milestone on the road to self-improving AI - Help Net Security",
-            "summary_en": "OpenAI has officially achieved its goal of developing an 'automated research intern' capable of executing multi-day research tasks under human supervision. The company now utilizes 3.1 agent-workdays of effort for every human workday, signaling a significant shift toward automated workflows.",
-            "link": "https://www.helpnetsecurity.com/2026/09/07/openai-research-automation-intern",
-            "timestamp": 1788771918000,
-            "date": "2026-09-07"
-        },
-        {
-            "title": "OpenAI Hits Goal of Building an ‘Automated Research Intern’ - Unite.AI",
-            "summary_en": "Internal data reveals that OpenAI's research efficiency has surged, with median daily agent inference costs exceeding $600 per researcher by mid-August 2026. This increased reliance on coding agents and concurrent workflows has set a record for the number of experiments conducted per researcher since tracking began in 2025.",
-            "link": "https://www.unite.ai/openai-hits-goal-of-building-an-automated-research-intern",
-            "timestamp": 1788721861000,
-            "date": "2026-09-06"
         }
     ]
 }

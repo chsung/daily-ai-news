@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-09-28 21:09:17",
+    "last_update": "2026-09-29 09:38:48",
     "articles": [
+        {
+            "title": "오픈AI·앤트로픽 \"AI가 AI 개발하는 시대…인간 통제 벗어날 위험\" - 지디넷코리아",
+            "summary_kr": "오픈AI와 앤트로픽 등 주요 AI 기업들이 AI가 스스로 AI를 개발하는 시대를 예견하며, 이 과정에서 인간의 통제를 벗어날 수 있는 잠재적 위험성에 대해 경고했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sdW85dDVfWTVYLW5mYjNhQlYtbUkweDlOQ19HYjgwUVBWOXlmRmpQUGRueHpZZmhabkRIUnlwT21RWGlOY1dEd1dqemdEMHlNV0ZmNjlB?oc=5",
+            "timestamp": 1790669015000,
+            "date": "2026-09-29"
+        },
+        {
+            "title": "앤트로픽 ‘클로드 소넷 5.5’ 출시...오퍼스 5.5와 역할 분배 - newstheai.com",
+            "summary_kr": "앤트로픽이 최신 모델인 '클로드 소넷 5.5'를 출시하고, 기존 '오퍼스 5.5'와의 효율적인 역할 분배를 통해 모델 운용의 최적화를 도모합니다.",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrUUxmUEZVdWFKVHdSWGpuVGk0U2psZU1udm9iMG5qVEZOX1QxMEJOQzQ3V0p5aURvRUFhSlh3MWF5N3QySkV5Y3JXaTg2eEhMZlZFcUZ1T2ZlSDJoaEQ1N3FsenFIUlRjdndV?oc=5",
+            "timestamp": 1790671879000,
+            "date": "2026-09-29"
+        },
+        {
+            "title": "미국 플로리다주, 법원에 \"오픈AI 감시없이 개발금지\" 요청 - v.daum.net",
+            "summary_kr": "미국 플로리다주가 법원에 오픈AI를 상대로 외부의 감시나 통제 없는 AI 개발을 금지해 달라는 가처분 신청을 제기했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40VlhTOHdqMWU4VXFkVDgtM2ozQmswVGtIQW5JSGFZZTFTSTN1blBmN3haYm9SZ0FHaUpteVFyeXlmOXJrY3JucTR3SW1uWXM?oc=5",
+            "timestamp": 1790666519000,
+            "date": "2026-09-29"
+        },
+        {
+            "title": "\"RSI 통제력 잃기 전에 규제해야\"...세계 최고 AI 연구자 20인 공동 경고 - AI타임스",
+            "summary_kr": "세계 최고 수준의 AI 연구자 20인이 공동 성명을 통해, 강력한 AI 시스템(RSI)이 통제력을 상실하기 전 조속한 법적·제도적 규제 마련이 필요하다고 강조했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qcndFcXNuck1oUUVxUVhSek83eE45V0xVckRELV81WFRxR0lPY0oyYU5XWEpRUmF2enlNSy13N0ZfTWVHVUh6Q0cyS1BBYmNmWGctTE5HR2FJeDhXZWhVTjdoRzllR0YtVmc?oc=5",
+            "timestamp": 1790651611000,
+            "date": "2026-09-29"
+        },
         {
             "title": "트럼프, 29일 빅테크 CEO들과 AI 회동…저커버그·아모데이 등 참석 - 뉴스1",
             "summary_kr": "도널드 트럼프 당선인이 메타의 마크 저커버그, 앤스로픽의 다리오 아모데이 등 주요 빅테크 CEO들과 AI 관련 정책 논의를 위한 회동을 갖습니다.",
@@ -671,34 +699,6 @@
             "summary_kr": "KAIST 교원창업 스타트업 플루이즈의 모바일 AI 에이전트 '플루이드GPT'가 글로벌 모바일 AI 벤치마크 '안드로이드월드'에서 100% 정확도로 1위를 차지했습니다. 이는 구글, 마이크로소프트 등 빅테크 연구조직을 앞선 성과로, 복잡한 실생활 작업 수행 능력을 갖춘 한국 기술력의 경쟁력을 입증했습니다.",
             "link": "https://www.dongascience.com/ko/news/79842",
             "timestamp": 1789336800000,
-            "date": "2026-09-13"
-        },
-        {
-            "title": "오픈AI, 휴머노이드 로봇 직접 만든다…올트먼 “누구나 개인용 로봇 가져야” - 비즈월드",
-            "summary_kr": "샘 올트먼 오픈AI CEO가 휴머노이드 로봇과 데이터센터용 로봇의 직접 개발을 공식화하며 하드웨어 사업 진출을 선언했습니다. 오픈AI는 로봇의 '두뇌'인 피지컬 AI 학습을 위한 핵심 데이터를 직접 확보하고자 모터 등 구동부부터 자체 설계하는 전략을 취하고 있으나, 구체적인 제품 로드맵 부재와 중국 중심의 로봇 시장 판도는 해결해야 할 과제입니다.",
-            "link": "http://www.bizwnews.com/news/articleView.html?idxno=146107",
-            "timestamp": 1789354020000,
-            "date": "2026-09-14"
-        },
-        {
-            "title": "\"AI의 정답 대량생산, 학문 토대 훼손\"…테런스 타오 등 필즈상 수상자 25인 공동 성명 - AI포스트",
-            "summary_kr": "허준이, 테런스 타오 등 필즈상 수상자 25인은 AI의 정답 도출 경쟁이 학문적 개념 이해와 지식 전수 체계를 훼손한다고 비판하며 공동 성명을 발표했습니다. 이들은 빅테크의 무단 아이디어 활용과 밀실주의가 개방적 연구 문화를 고사시키고 향후 모든 지적 노동 분야에 위협이 될 것이라고 경고했습니다.",
-            "link": "https://www.aipostkorea.com/news/articleViewAmp.html?idxno=12660",
-            "timestamp": 1789311607000,
-            "date": "2026-09-13"
-        },
-        {
-            "title": "올트먼 \"오픈AI IPO, 2026년은 아닐 것…안전성 추가 연구 필요\" - 연합인포맥스",
-            "summary_kr": "샘 올트먼 오픈AI CEO는 AI 모델의 안전성 연구와 정렬 기술 확보가 우선이라는 점을 강조하며, 2026년 내 상장 계획이 없음을 분명히 했습니다. 그는 AI의 잠재적 위험을 통제하기 위해 업계 및 정부와의 협력을 지속하고, 모델의 인간 가치 정렬 능력이 충분히 검증될 때까지 기능 확장을 신중히 하겠다는 입장입니다.",
-            "link": "https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4434599",
-            "timestamp": 1789280708000,
-            "date": "2026-09-13"
-        },
-        {
-            "title": "구글, 윈도우용 제미니 앱 출시 - Vietnam.vn",
-            "summary_kr": "구글이 윈도우 10 및 11용 제미니 앱을 정식 출시하며 사용자 접근성을 강화했습니다. 해당 앱은 'Alt + Spacebar'로 즉시 실행 가능하며, 유료 구독자에 한해 '확장된 사고' 모드와 이미지 및 영상 생성 기능을 지원하고 구글 워크스페이스와의 연동을 통한 데이터 처리 편의성을 제공합니다.",
-            "link": "https://www.vietnam.vn/ko/google-tung-ung-dung-gemini-cho-windows",
-            "timestamp": 1789307857000,
             "date": "2026-09-13"
         }
     ]
