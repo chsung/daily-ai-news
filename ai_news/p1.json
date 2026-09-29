@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-29 09:39:24",
+    "last_update": "2026-09-29 19:54:07",
     "articles": [
+        {
+            "title": "Introducing Quine: An AI research system designed for the complexity of biology - Microsoft",
+            "summary_en": "Microsoft has introduced Quine, a specialized AI research system engineered to tackle the intricate data and complexities inherent in biological sciences.",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzN5R2VTM0J2X2ttXzNpSE1XRnRpYVlrTE1ScDQtU1EyZ2dpYzNlNk1jUkVBelhpVlkyU0lxaTBaaHo2S0xSUmhIMXJoejVXNzNsel9EdnNNTV80UTBiRmR6U1ZTbGg2azQ2bmpqU0ZCblZfQlVETGp0OF95ZThfYm9WLUV3d3ZvMVA3TF9mOVlmNEQ1dVZsY01GNXBvcnVXamxpLXI2c0ZuZUV0T3JyaG9relV1T2xhOGtVYm4tQ3pzbFk?oc=5",
+            "timestamp": 1790690402000,
+            "date": "2026-09-29"
+        },
+        {
+            "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase - nvidianews.nvidia.com",
+            "summary_en": "NVIDIA has announced a significant expansion of its capital return program by authorizing an additional $150 billion for share repurchases.",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0Vsb0ZuR3F0Sl9oYldFNF90azJObUVsNkJIb0VCWVJxWDRmRmdyR2swZE90ZkxwRGJERXBveVRvX040RUJMLU9Tc3lIbm44R2lzMzcxZHVYRkZmS0lGRWhHMDF4azNCakJHSk00UU1KdEhzNzVrYVd1SVpnNDZyZkV4bWVNVHY3cC1fSlpUSm1BTnZTdS1Vak5LOXB2NkF5X0VnZFhFR1A?oc=5",
+            "timestamp": 1790614971000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "Google 뉴스 - cnbc.com",
+            "summary_en": "Google is actively managing its digital news ecosystem to adapt to the evolving landscape of information distribution and AI-driven search integration.",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXpsNWh1cDF0aEVHajNxNTBUU1V5TWp1cFFCZmJYVGQ5bEJxT241cXd5Tmk4SGFYckpMdTU3cFZ3U1A4REtYcWtWc0M1RTlFeGc0d0VpR0dtOEVWd1c4QlZNdC1SbE0yV1RRUUlYWGNjbnhJalE0cEFlb25wa21EeXdFU3JYMk5PRW5adXBMLXg3TlRSUS1v0gGcAUFVX3lxTFBaTndFYldrdnVTaTU0dEFiZERuVEhBc3ZrOE5faHBDV0Q0WFZQdU56TlpOdlVyYzkwWEZUaTZBMzN0UVRlN3JGMnRFa2RiNE42MEEtVHR2VTkxWnJNdEYtQjFRczFBSExaSWtMMmZQMWplRnk1TEhzel80NXdxS0ZJODQyTG13QjdFWFpQbW1KejJ2bG1uM2VLVER4Xw?oc=5",
+            "timestamp": 1790596801000,
+            "date": "2026-09-28"
+        },
         {
             "title": "OpenAI shelves new AI model release over safety concerns - Reuters",
             "summary_en": "OpenAI has reportedly decided to postpone the launch of its next-generation AI model due to unresolved internal safety and risk assessments.",
@@ -678,27 +699,6 @@
             "summary_en": "Qualcomm and Amazon have announced a multi-generational collaboration focused on developing advanced infrastructure for next-generation artificial intelligence data centers.",
             "link": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-announces-multi-generational-product-collaboration-with",
             "timestamp": 1788874055000,
-            "date": "2026-09-08"
-        },
-        {
-            "title": "Accenture and Google Cloud Deepen Partnership with Formation of New Accenture Gemini Enterprise Business Group - Accenture",
-            "summary_en": "Accenture and Google Cloud have launched a dedicated 'Gemini Enterprise Business Group' to accelerate the adoption of agentic AI for global corporations. The partnership includes the creation of a 1,000-person forward-deployed engineering workforce to scale AI solutions that drive measurable business outcomes.",
-            "link": "https://newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group",
-            "timestamp": 1788871842000,
-            "date": "2026-09-08"
-        },
-        {
-            "title": "OpenAI's historic math solution overshadowed by credit controversy - Axios",
-            "summary_en": "OpenAI's recent breakthrough in solving advanced mathematical problems has been overshadowed by public controversy regarding credit attribution. The report underscores growing scrutiny over the company's research recognition practices.",
-            "link": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
-            "timestamp": 1788885231000,
-            "date": "2026-09-08"
-        },
-        {
-            "title": "Extortion crews have their eyes on high-value AI data, Google warns - The Register",
-            "summary_en": "Google has issued warnings that extortion groups are increasingly targeting high-value AI datasets for theft and exploitation. The cybersecurity landscape is further complicated by rising incidents of AI agents performing autonomous cyber-attacks on industry platforms.",
-            "link": "https://www.theregister.com/research/2026/09/08/extortion-crews-have-their-eyes-on-high-value-ai-data-google-warns/5294640",
-            "timestamp": 1788868800000,
             "date": "2026-09-08"
         }
     ]
