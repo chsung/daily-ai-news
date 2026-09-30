@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-30 09:31:01",
+    "last_update": "2026-09-30 19:55:03",
     "articles": [
+        {
+            "title": "오픈AI, 24시간 일해주는 AI비서 ‘닷’ 출시… 메타 ‘뮤즈’에 맞불 - 동아일보",
+            "summary_kr": "오픈AI가 메타의 '뮤즈'에 대응하기 위해 24시간 자율 업무 수행이 가능한 AI 비서 '닷(Dot)'을 출시하며 시장 경쟁력을 강화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PWVltSldoTGp6RWd5Z19DRDJ1d1BqdjFPanpGdE54WXhhWFoyX3hQbC0zREZrSDl0TjB6VlhmY0JRdElIYzRFNUJDUC1pWDVGMDlEN1FhUDJuaFFlenVRalZQeGQyTndwZjFDVWxydWs5SzRHUUHSAWZBVV95cUxPTjE2N0x5UTktVzZjOVRxOVRyNHlQZ3V1LTN1Rm5YYUFMVC1nLWRwZjA4R1g4NWVtSE5xcTN1UU1memlrTVRVWjBtbS1maGZHanItUE5Kc2dTbUFfcWtrRUs4ek5aLUE?oc=5",
+            "timestamp": 1790796600000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "美 FTC, 앤스로픽·오픈AI 등 조사 확대…AI 위험성 관련 사상 최초 - fnnews.com",
+            "summary_kr": "미국 연방거래위원회(FTC)가 AI 산업의 잠재적 위험성을 규명하기 위해 앤스로픽과 오픈AI 등 주요 기업을 대상으로 사상 첫 공식 조사에 착수했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DRVFEMkZ2ZG5JQ0VXdUJmTHllRmVLUWw2SU96bU5FOHZnMGdQT0dHb1lZMnhlVWtfeDIwUm1taUM0T0d2SGZkTEt4dUpqaEk5WmhtWmthQ0FaZw?oc=5",
+            "timestamp": 1790794283000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "미국, 이스라엘, 그리고 엔비디아는 인간 게놈의 \"언어\"를 해독하는 인공지능 모델을 개발하고 있다. - Vietnam.vn",
+            "summary_kr": "미국, 이스라엘, 엔비디아가 협력하여 인간 게놈의 복잡한 유전적 언어를 해독하기 위한 고도화된 AI 모델 개발을 추진하고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaldJNmhRT1pSZGdadWZHYThzY1ROLU5aVjBnSmpTR21DdDVOdjZlNHpYbDBRSlA0em9zWTJqTFRvMy15X3JHbXNtOVZMaXZndF9wT19kNDBWZ3dPUFoydXZ2WmVPSGdpcmZLNmN1VDRIcTEwTlFGcFdFa1RJVHJPcW5ob1gxMUxBdDQxenVRbVc1SHFoWElDTWhDa0Fiekk?oc=5",
+            "timestamp": 1790781688000,
+            "date": "2026-09-30"
+        },
         {
             "title": "트럼프 \"AI 규제는 업계 자율로...AI 기업이 데이터센터 지역 지원\" - YTN",
             "summary_kr": "트럼프 당선인이 AI 산업에 대한 규제를 업계 자율에 맡기고, AI 기업의 데이터센터 지역 거점 구축을 지원하겠다는 입장을 밝혔습니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "오픈AI가 스마트폰 카메라 화질 개선 기술을 보유한 ‘글래스 이미징’을 3억 달러 규모에 인수하며 소비자용 AI 기기 개발을 가속화하고 있습니다. 이번 인수는 조니 아이브와의 협업을 포함해 하드웨어 기기 내에서 주변 환경을 정밀하게 인식하기 위한 AI의 시각적 역량을 강화하려는 전략으로 풀이됩니다.",
             "link": "https://www.chosun.com/economy/tech_it/2026/09/16/X7M2ACGSZFHTHIQ73BK6TM74CU",
             "timestamp": 1789486440000,
-            "date": "2026-09-15"
-        },
-        {
-            "title": "세일즈포스, 고객관리 AI모델 자체개발…엔비디아 개방형 AI활용 - v.daum.net",
-            "summary_kr": "세일즈포스가 엔비디아의 개방형 모델을 기반으로 기업 데이터 유출 우려 없는 CRM 특화 추론 모델 ‘코아’를 자체 개발해 공개했습니다. 해당 모델은 100% 가상 데이터 학습만으로 오류율을 기존 대비 3분의 1 수준으로 낮췄으며, 향후 슬랙 등 다양한 업무 도구와 연동해 실무 효율을 높일 전망입니다.",
-            "link": "https://v.daum.net/v/20260915210214478",
-            "timestamp": 1789473720000,
-            "date": "2026-09-15"
-        },
-        {
-            "title": "머스크 \"AI 숙제, 경쟁사가 채점하자\"…미·중 빅테크 상호검증 제안 - v.daum.net",
-            "summary_kr": "일론 머스크는 AI 모델의 안전성 확보를 위해 미·중 주요 빅테크 기업들이 출시 전 서로의 모델을 검증하는 ‘상호검증(테스트 하니스)’ 체계 구축을 제안했습니다. 이는 정부의 직접적 규제 대신 민간 업계가 주도적으로 경쟁사의 숙제를 채점하며 위험 요소를 감시하자는 자정 노력이 필요하다는 취지입니다.",
-            "link": "https://v.daum.net/v/20260916004911644",
-            "timestamp": 1789487340000,
-            "date": "2026-09-15"
-        },
-        {
-            "title": "오픈AI, 스마트폰 카메라 기술 기업 인수…하드웨어 개발 가속 - 조선비즈 - Chosunbiz",
-            "summary_kr": "오픈AI가 스마트폰 카메라 기술 스타트업 '글래스 이미징'을 인수하며 AI 하드웨어 개발에 속도를 내고 있습니다. 애플 출신 인재가 설립한 이 기업의 기술을 결합해 독자적인 AI 기기를 시장에 선보이려는 전략으로 풀이됩니다.",
-            "link": "https://biz.chosun.com/it-science/ict/2026/09/15/WYWHYJA7KVCPRCPHGOVCCF2Y7M",
-            "timestamp": 1789456800000,
             "date": "2026-09-15"
         }
     ]

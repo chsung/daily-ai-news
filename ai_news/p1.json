@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-30 09:31:41",
+    "last_update": "2026-09-30 19:55:38",
     "articles": [
+        {
+            "title": "Ex-Genentech, Meta, AWS AI leaders launch health AI lab with $500M backing - fiercehealthcare.com",
+            "summary_en": "Former executives from Genentech, Meta, and AWS have launched a new healthcare-focused AI laboratory backed by $500 million in funding.",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDY1bWJHTFc4REktRWs1Sno5S1FtZGQ0by16WXNoMy1GZDc5OVdhUVR6dkxYb0x1ZEkxSVo2T2cxNDdsaGxZLUpvOE1CcUxzMUt5UVVuZkJyNUd6Q1JiU3NhcTBGWHdVY2RCWFpNaE1rVWJfZ2dNb2NqOWRFaTVHU1oteldjb1ZGaTgwSFNWMVlER0MtYndqMVB3SGNvOWs2UWF5RUdrSjU4UUlqekZseklpV1J2aUstSWo5Vy1BSkU?oc=5",
+            "timestamp": 1790782200000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model - BBC",
+            "summary_en": "OpenAI has introduced a new AI assistant called 'dots' while simultaneously delaying the release of its latest flagship model to prioritize safety concerns.",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4R0gxZ2RzNURmYjgwTUVuemhuT201TFc5a2FjaFRqMXo2OXUwck8yNTFraEtkY2swOWdIb2liQXZGVTRrTGFhVV82S2JBRFJybExmQ28zcGdaT1U?oc=5",
+            "timestamp": 1790745493000,
+            "date": "2026-09-30"
+        },
         {
             "title": "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards - Al Jazeera",
             "summary_en": "Donald Trump and several major technology executives have signed a voluntary agreement committing to the implementation of robust safety measures for artificial intelligence development.",
@@ -686,20 +700,6 @@
             "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262159939-stock-meta-price-ai-andrew-tulloch-anthropic-openai-tradingkey",
             "timestamp": 1789008878000,
             "date": "2026-09-10"
-        },
-        {
-            "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok - The Hacker News",
-            "summary_en": "U.S. intelligence and security agencies have accused Chinese AI firms, including DeepSeek and Alibaba, of conducting industrial-scale distillation attacks to extract proprietary data from American frontier models. This strategy reportedly involves billions of tokens to bypass geographic restrictions and accelerate their own model development timelines.",
-            "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-            "timestamp": 1788946320000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "ARPA-H Selects UpDoc to Lead Development of Autonomous Clinical AI System, in an Initiative Joined by Microsoft, OpenAI and NVIDIA - Yahoo! Finance Canada",
-            "summary_en": "The U.S. agency ARPA-H has awarded UpDoc $9.2 million to lead the development of an autonomous, FDA-authorized clinical AI system designed to manage cardiovascular care. The initiative is supported by major industry players including Microsoft, OpenAI, and NVIDIA to bridge critical gaps in patient care.",
-            "link": "https://ca.finance.yahoo.com/news/arpa-h-selects-updoc-lead-170000467.html",
-            "timestamp": 1788973200000,
-            "date": "2026-09-09"
         }
     ]
 }
