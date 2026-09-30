@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-09-29 19:54:07",
+    "last_update": "2026-09-30 09:31:41",
     "articles": [
+        {
+            "title": "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards - Al Jazeera",
+            "summary_en": "Donald Trump and several major technology executives have signed a voluntary agreement committing to the implementation of robust safety measures for artificial intelligence development.",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmkxaXdpblpjU0EzRG9nUUJTWGt2VE9EYzlWd2Nlak5SQ0xfMmRfVnBQTG8zTy1oRTByUHZxSXFSNzFVMFF6b3BtU3BGUy04bkxDcVh6YUQtNTdINk1rRnk0QzZMWlpvVFpLbGs5dEdpNk91YnpqTFphQkRTV0NwZlMwUnVjT2JlZUJYUVBsazM0bHBWY19Cd1FkVlVuQ2RFdGhqdG9B0gGrAUFVX3lxTE11LV9UV3QxeF9VMU9YZS1JUmotR24zNGc2UVVHUWxRMU53NnQ0eVl1clpaOWdSWlRuaVBhS1RPQVM0Wlk4ZU1xQkxvTjBGWFIweEd1Uzl4bEk0Q2ozVG95bXhOUWtzUFBVTHFpNzRUYmFZVE1kYl9iRDQ4bENCUm9sUkttcm5rR1BmT2I4aHZqZVBPYmpGOFYtZnZ2SXo4bnFPYU53X1J1WWpmRQ?oc=5",
+            "timestamp": 1790748102000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "How Diffusion Controller unifies and simplifies AI image generation - Google Research",
+            "summary_en": "Google Research has introduced Diffusion Controller, a new framework designed to unify and streamline the complex processes involved in AI-driven image generation.",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMG04YmVLc0pHcnBsQTJQYXRCdFpFVzdGbF8ySjc1RkNMTElSMEx5RUYwdnZDNkltelByaWtWRWpQZTEzQmJ4Ujg1Y2xlekFNd2dVbzhNQmp2ZUNnTmFnYjJaMk1RdXMzQ0tIcEhpZjhjWjh6bkd0eHpZMzhZLXVjNFhRWlBQTGRQT3I5X3A3R3dNZXNCZkNiWG9CSWRmUQ?oc=5",
+            "timestamp": 1790707349000,
+            "date": "2026-09-29"
+        },
         {
             "title": "Introducing Quine: An AI research system designed for the complexity of biology - Microsoft",
             "summary_en": "Microsoft has introduced Quine, a specialized AI research system engineered to tackle the intricate data and complexities inherent in biological sciences.",
@@ -686,20 +700,6 @@
             "link": "https://ca.finance.yahoo.com/news/arpa-h-selects-updoc-lead-170000467.html",
             "timestamp": 1788973200000,
             "date": "2026-09-09"
-        },
-        {
-            "title": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure - Google Cloud Press Corner",
-            "summary_en": "Google is set to invest €13 billion in Finnish digital infrastructure from 2027 to 2028, aiming to boost the local economy by supporting 37,000 jobs during construction. This initiative expands Google's data center capacity in Europe to drive AI development while incorporating sustainable energy and heat recovery systems.",
-            "link": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure",
-            "timestamp": 1788937475000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "Qualcomm Announces Multi-Generational Product Collaboration with Amazon to Build Next-Generation AI Data Center Infrastructure | Qualcomm - qualcomm.com",
-            "summary_en": "Qualcomm and Amazon have announced a multi-generational collaboration focused on developing advanced infrastructure for next-generation artificial intelligence data centers.",
-            "link": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-announces-multi-generational-product-collaboration-with",
-            "timestamp": 1788874055000,
-            "date": "2026-09-08"
         }
     ]
 }
