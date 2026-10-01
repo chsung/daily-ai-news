@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-09-30 19:55:03",
+    "last_update": "2026-10-01 09:56:12",
     "articles": [
+        {
+            "title": "오픈AI, 반도체 설계 전용 'GPT-시놉시스' 개발 합의…'수익 공유' 적용 - AI타임스",
+            "summary_kr": "오픈AI가 시놉시스와 협력해 반도체 설계 전용 AI 모델을 개발하며, 수익 공유 모델을 도입해 산업 현장 최적화에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82dWF5NmkwQkZhQTBGMnJPLVF5d1p6YlhTS19rR2cwb1lZcjA5b1h0cWJxY0wtMEI5NmwzaTloNUxsd0hxSVBhVEdidWx3ZWp0WHlObTljS1hWc29PLU9UaUVObzdZb2dCZ0E?oc=5",
+            "timestamp": 1790834595000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "글·사진 이어 단백질에도 ‘AI 워터마크’…바이오안보 새 안전장치 될까 - 조선일보",
+            "summary_kr": "단백질 데이터에도 AI 워터마크 기술이 도입되어, 바이오 분야의 보안 강화와 디지털 콘텐츠의 신뢰성을 높이는 새로운 안전장치로 주목받고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPalY5Y2lmRkJIUDdIVlVyaFkzc25TS3JBYmZyVU1PM1AzbDFJclZGd0xRakdLYWI2enpfQ0M5dHJKYzNMOVQ0ODQ1Zk5DMUM3WGRvU3Y1RDlpZENRdEU2Sk4zTV8waXlJVGRWckJmaTJ2eDJ6clZQaXhkcDhfNzBXU0tlZw?oc=5",
+            "timestamp": 1790843040000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "구글, 7개월 만에 최상위모델 ‘제미나이 4’ 출시…속도조절론 속 불붙은 추격전 - 경향신문",
+            "summary_kr": "구글이 최신 모델 '제미나이 4'를 출시하며 AI 시장의 경쟁을 가속화하는 가운데, 업계의 기술 개발 속도 조절론과 추격전이 동시에 맞물리고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JU0FWR3d4QlVvcWNVNlBSZmtnNTFFOC0zY0lJcnNNRWhQTVUwd2pnQ3pwakRRX1hjRzlIOEI0dmFnNnR4YmhheVlLU0pzM2dvWWZlZW13b2VEV0lJODM00gFfQVVfeXFMTklTQVZHd3hCVW9xY1U2UFJma2c1MUU4LTNjSUlyc01FaFBNVTB3amdDenBqRFFfWGNHOUg4QjR2YWc2dHhiaGF5WUtTSnMzZ29ZZmVlbXdvZURXSUk4MzQ?oc=5",
+            "timestamp": 1790838360000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "애플, 13일 스마트홈 허브 공개…'AI 시리' 앞세워 아마존·구글에 도전장 - AI타임스",
+            "summary_kr": "애플이 오는 13일 AI 기반의 시리가 탑재된 스마트홈 허브를 공개하며, 기존 시장 강자인 아마존과 구글에 본격적인 도전장을 내밀었습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lbDRJOHZ5LVhzQm9IdzFiaTk5aGcwcFF5QVFSYkgzdkZQNnltRTlsVGw5M0xuczEzZERPUExHSXpNZFJtTHRmTmt3bF84Zk9yTk10VThYOUNiSkhaWnUxQ3J0M2NaZFBJd0E?oc=5",
+            "timestamp": 1790838648000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "아마존(Amazon)이 원전을 사는 이유... AI 데이터센터 전력난에 20년 PPA - 테크데일리",
+            "summary_kr": "아마존이 AI 데이터센터 운영에 필요한 막대한 전력을 확보하기 위해 20년 장기 전력구매계약(PPA)을 체결하며 원전 도입에 속도를 내고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzXzluX0x4czJ1T1lqWFVXSXpack5YUFU4cFg4andOVFZONU0xM0F5WkVBTFpXYmRIVUx2ajYzQng0T1luMU1TcXgxWk5PaXJaV0xsZ3JpTGtyemhWLUd6LW5adlVjc0dab2t1aHpXbEc3UdIBckFVX3lxTFBzXzluX0x4czJ1T1lqWFVXSXpack5YUFU4cFg4andOVFZONU0xM0F5WkVBTFpXYmRIVUx2ajYzQng0T1luMU1TcXgxWk5PaXJaV0xsZ3JpTGtyemhWLUd6LW5adlVjc0dab2t1aHpXbEc3UQ?oc=5",
+            "timestamp": 1790834143000,
+            "date": "2026-10-01"
+        },
         {
             "title": "오픈AI, 24시간 일해주는 AI비서 ‘닷’ 출시… 메타 ‘뮤즈’에 맞불 - 동아일보",
             "summary_kr": "오픈AI가 메타의 '뮤즈'에 대응하기 위해 24시간 자율 업무 수행이 가능한 AI 비서 '닷(Dot)'을 출시하며 시장 경쟁력을 강화했습니다.",
@@ -665,41 +700,6 @@
             "link": "http://www.impacton.net/news/articleView.html?idxno=20350",
             "timestamp": 1789542857000,
             "date": "2026-09-16"
-        },
-        {
-            "title": "메타, 자체 개발 저비용 AI 칩 내년 순차 도입 - 조선비즈 - biz.chosun.com",
-            "summary_kr": "메타가 내년부터 3세대 AI 칩 'MTIA 450'을 시작으로 자체 개발한 고효율 반도체를 데이터센터에 순차 투입하며 운영 비용 및 전력 효율 최적화에 나섭니다. 이번 프로젝트는 TSMC와의 협력을 통해 범용 추론 작업의 성능을 강화하고, 향후 외부 공급업체 대비 확실한 기술 경쟁력을 확보하려는 전략입니다.",
-            "link": "https://biz.chosun.com/it-science/ict/2026/09/16/IOXIN3DUXFDQRPRLAREAW7IPQE",
-            "timestamp": 1789537680000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "AI 속도 조절 논란에 참전한 저커버그 \"각 연구소가 안전성 확보해야\" - 연합인포맥스",
-            "summary_kr": "마크 저커버그 메타 CEO가 AI 개발 속도 조절 논란에 대해 각 연구소의 자율적인 안전성 확보와 독립적인 평가 기관 생태계 확대를 대안으로 제시했습니다. 메타는 실제로 자체 AI 도구인 '뮤즈'의 출시를 수개월 연기하며 안전 검증을 우선시하는 등 책임 있는 개발 행보를 이어가고 있습니다.",
-            "link": "https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4435188",
-            "timestamp": 1789530937000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "오픈AI·앤트로픽·구글, AI 안전표준기구 설립 논의 - 시사저널e",
-            "summary_kr": "오픈AI, 앤트로픽, 구글 등 주요 AI 기업들이 7월부터 프런티어 AI 표준기구 설립을 위한 실무 논의를 진행하며 안전 기준 마련에 속도를 내고 있습니다. 다만, 공동 규제가 중소업체의 진입장벽이 되거나 반독점법에 저촉될 수 있다는 우려와 함께 트럼프 행정부의 속도 조절 반대 기류가 변수로 작용할 전망입니다.",
-            "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423735",
-            "timestamp": 1789539000000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "오픈AI, '몸값 40% 뛴' 1.2조달러 가치로 추가 투자 유치 추진 - AI타임스",
-            "summary_kr": "오픈AI가 최신 모델의 흥행으로 연간 반복 매출 400억 달러를 돌파함에 따라 기업 가치 1조 2천억 달러를 목표로 추가 투자 유치를 추진합니다. 이는 수개월 전 대비 약 40% 상승한 평가액으로, 급증하는 AI 모델 개발 및 데이터센터 운영 비용을 충당하기 위한 전략적 행보로 풀이됩니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=215324",
-            "timestamp": 1789528417000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "오픈AI, 폰 카메라 화질 개선 스타트업 인수 - 조선일보",
-            "summary_kr": "오픈AI가 스마트폰 카메라 화질 개선 기술을 보유한 ‘글래스 이미징’을 3억 달러 규모에 인수하며 소비자용 AI 기기 개발을 가속화하고 있습니다. 이번 인수는 조니 아이브와의 협업을 포함해 하드웨어 기기 내에서 주변 환경을 정밀하게 인식하기 위한 AI의 시각적 역량을 강화하려는 전략으로 풀이됩니다.",
-            "link": "https://www.chosun.com/economy/tech_it/2026/09/16/X7M2ACGSZFHTHIQ73BK6TM74CU",
-            "timestamp": 1789486440000,
-            "date": "2026-09-15"
         }
     ]
 }

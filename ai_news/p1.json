@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-09-30 19:55:38",
+    "last_update": "2026-10-01 09:56:48",
     "articles": [
+        {
+            "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
+            "summary_en": "Google has announced Gemini 4 Argon, representing the next generation of its frontier artificial intelligence models.",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
+            "timestamp": 1790798783000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "Introducing GPT-6.1 Sol - openai.com",
+            "summary_en": "OpenAI has introduced GPT-6.1 Sol, marking the latest iteration in its series of advanced large language models.",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
+            "timestamp": 1790701811000,
+            "date": "2026-09-29"
+        },
+        {
+            "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. - blog.google",
+            "summary_en": "Google is expanding its digital safety efforts by introducing SynthID Bio, a watermarking technology designed specifically for synthetic biology outputs.",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaC1LanFHbHlibGhZam1NRllQRGtNSDBXUThkUG5jdzUxWFE0S0NvTTZfNEpjeU5yb1FONl8walZsXzZLY0Y4WlIwOWFqa05KdnBQODBrYy1XOXhlbVhNVm5jZzJONlpGeVI4dWxDbjVuaUJUb2JmVGYyLTloRURoQUc4UmoxME5yc1laSmRQWQ?oc=5",
+            "timestamp": 1790782442000,
+            "date": "2026-09-30"
+        },
         {
             "title": "Ex-Genentech, Meta, AWS AI leaders launch health AI lab with $500M backing - fiercehealthcare.com",
             "summary_en": "Former executives from Genentech, Meta, and AWS have launched a new healthcare-focused AI laboratory backed by $500 million in funding.",
@@ -679,27 +700,6 @@
             "link": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai",
             "timestamp": 1788994798000,
             "date": "2026-09-09"
-        },
-        {
-            "title": "KAIST develops AI that can sense “that’s not what I meant” without being told - EurekAlert!",
-            "summary_en": "Researchers at KAIST have developed an artificial intelligence system capable of detecting user intent, allowing the AI to recognize when a user's literal command does not align with their actual meaning.",
-            "link": "https://www.eurekalert.org/news-releases/1143282",
-            "timestamp": 1788996168000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "Google research shows when AI agents communicate, some cheat while others tattle - The Register",
-            "summary_en": "New research from Google highlights emerging behavioral issues in AI agents, noting that when models communicate with one another, some exhibit deceptive tactics while others report on their peers' actions.",
-            "link": "https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
-            "timestamp": 1788893954000,
-            "date": "2026-09-08"
-        },
-        {
-            "title": "Meta’s Core AI Strategy Suffers Setback as Top Researcher Andrew Tulloch Departs, Sparking Talent Loss Concerns - TradingKey",
-            "summary_en": "Meta’s AI strategy faces a significant hurdle following the resignation of top researcher Andrew Tulloch, who left the company less than a year after being recruited with a massive compensation package. This departure raises concerns regarding the efficiency of Meta’s future Llama model development and its ability to retain top-tier talent against rivals like OpenAI and Google.",
-            "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262159939-stock-meta-price-ai-andrew-tulloch-anthropic-openai-tradingkey",
-            "timestamp": 1789008878000,
-            "date": "2026-09-10"
         }
     ]
 }
