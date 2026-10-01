@@ -1,6 +1,96 @@
 {
-    "last_update": "2026-09-30 20:22:38",
+    "last_update": "2026-10-01 20:37:49",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790878409000,
+            "date": "2026-10-01",
+            "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
+            "summary_kr": "엔비디아는 일반 AI 에이전트의 인프라 개발 오류를 줄이기 위해 검증된 API 규격과 하드웨어 제약 조건을 담은 'DOCA 에이전트 스킬'을 공개했습니다. 이를 통해 개발자는 블루필드(BlueField) DPU 기반 애플리케이션을 더 빠르고 안정적으로 구축할 수 있습니다.",
+            "summary_en": "NVIDIA has released 'DOCA Agent Skills,' providing verified API signatures and hardware constraints to enable AI agents to develop NVIDIA BlueField-based infrastructure more accurately. This foundation allows developers to build faster and deploy more stable code by bridging the gap in general-purpose AI's domain-specific expertise.",
+            "link": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790877567000,
+            "date": "2026-10-01",
+            "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
+            "summary_kr": "엔비디아의 'DIN Deploy'는 ONNX Runtime과 TensorRT RTX를 결합하여, 개발자들이 AI 모델을 로컬 환경에서 하드웨어 가속이 적용된 고성능 C++ 애플리케이션으로 손쉽게 배포할 수 있도록 지원합니다.",
+            "summary_en": "NVIDIA's 'DIN Deploy' leverages ONNX Runtime and TensorRT RTX to enable developers to seamlessly deploy AI models into high-performance, hardware-accelerated C++ applications for local environments.",
+            "link": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790874000000,
+            "date": "2026-10-01",
+            "title": "The eternal complement",
+            "summary_kr": "인류의 지적 성취가 물리적 실행 능력을 앞서면서 발생하는 '실행 격차'를 메우기 위해, AI는 단순 반복 업무를 보완하여 인간의 창의적 아이디어를 현실로 구현하는 핵심 동력이 될 것입니다.",
+            "summary_en": "As humanity's intellectual ambitions outpace our execution capacity, AI will serve as an essential complement that automates monotonous tasks, bridging the gap between creative vision and physical realization.",
+            "link": "https://openai.com/index/the-eternal-complement"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790870400000,
+            "date": "2026-10-01",
+            "title": "How Albertsons Companies is reimagining retail from the inside out",
+            "summary_kr": "앨버트슨즈 컴퍼니즈가 OpenAI와의 파트너십을 확대하여 내부 업무 효율을 높이고, 고객에게는 개인화된 쇼핑 경험을 제공하는 AI 혁신을 가속화하고 있습니다.",
+            "summary_en": "Albertsons Companies is expanding its partnership with OpenAI to drive internal operational efficiency and enhance the customer experience through personalized, AI-powered retail solutions.",
+            "link": "https://openai.com/index/albertsons-reimagining-retail"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790830800000,
+            "date": "2026-10-01",
+            "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+            "summary_kr": "NVIDIA NeMo 프레임워크를 활용해 범용 음성 인식 모델인 Nemotron을 사우디아라비아 방언 등 특정 지역 언어 환경에 맞춰 효율적으로 미세 조정하는 실무 가이드를 제시합니다.",
+            "summary_en": "This article presents a practical guide to efficiently fine-tuning the NVIDIA Nemotron ASR model for specific regional dialects, such as Saudi Arabic, using the NVIDIA NeMo framework.",
+            "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790812800000,
+            "date": "2026-10-01",
+            "title": "Barclays scales Claude to upgrade operations and improve client experience",
+            "summary_kr": "바클레이즈(Barclays)가 앤스로픽(Anthropic)과의 파트너십을 확대해 소프트웨어 개발 가속화, 레거시 시스템 현대화, 고객 응대 효율화 등 전사적 운영 혁신에 클로드(Claude)를 전면 도입합니다.",
+            "summary_en": "Barclays is expanding its partnership with Anthropic to integrate Claude across its global operations, aiming to modernize software development, streamline internal processes, and enhance customer experience through secure, AI-driven solutions.",
+            "link": "https://www.anthropic.com/news/barclays-scales-claude"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790812800000,
+            "date": "2026-10-01",
+            "title": "Claude-shaped science",
+            "summary_kr": "매슈 슈워츠 교수는 AI가 잘하는 계산적 문제에 집중하는 'Claude-shaped' 접근법과 이를 구현한 도구 'BootLoops'를 통해 과학 연구의 임피던스 불일치를 해소하고 학제 간 발견을 가속화했습니다.",
+            "summary_en": "Professor Matthew Schwartz addresses the 'impedance mismatch' in AI-assisted research by adopting a 'Claude-shaped' approach and utilizing 'BootLoops,' a toolkit that aligns LLM capabilities with complex, cross-disciplinary scientific problem-solving.",
+            "link": "https://www.anthropic.com/research/claude-shaped-science"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790808900000,
+            "date": "2026-09-30",
+            "title": "How trusted AI is transforming healthcare and life sciences | The Microsoft Cloud Blog",
+            "summary_kr": "AI는 단순한 효율성 증대를 넘어 의료 및 생명과학 분야의 일상적 워크플로우에 깊숙이 통합되어, 의료진의 행정 부담을 줄이고 연구 속도를 가속화하며 인간 중심의 가치를 실현하고 있습니다.",
+            "summary_en": "AI is transcending mere efficiency to become deeply embedded in healthcare and life sciences workflows, empowering clinicians to focus on patient care and accelerating scientific discovery through human-AI collaboration.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/30/accelerating-human-capacity-across-healthcare-with-ai"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1790803800000,
+            "date": "2026-09-30",
+            "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
+            "summary_kr": "구글의 AI 모델이 2025-26 시즌 미국 독감 입원 환자 예측 성능에서 1위를 기록하며 질병 예측 분야에서의 AI 기술력을 입증했습니다.",
+            "summary_en": "Google's AI model ranked first in forecasting flu-related hospital admissions for the 2025-26 season, demonstrating the effectiveness of AI in predictive healthcare.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790801699000,
+            "date": "2026-09-30",
+            "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
+            "summary_kr": "NVIDIA Dynamo-Triton은 HSTU 기반 생성형 추천 시스템의 추론 과정을 최적화하여, KV 캐싱과 AOT 컴파일을 통해 기존 대비 최대 5.93배 빠른 지연 시간 성능을 구현합니다.",
+            "summary_en": "NVIDIA Dynamo-Triton optimizes HSTU-based generative recommender deployment, delivering up to 5.93x lower latency through efficient KV caching and PyTorch AOT compilation.",
+            "link": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1790798516000,
@@ -810,96 +900,6 @@
             "summary_kr": "앤스로픽은 클로드(Claude)를 활용해 30개 이상의 오픈소스 생물학 모델을 4배가량 가속하고 메모리 효율을 극대화하여 바이오 분자 모델링 연구의 접근성을 대폭 높였습니다.",
             "summary_en": "Anthropic has leveraged Claude to optimize over 30 open-source biology models, achieving a 4x speed increase and enhanced memory efficiency to democratize advanced biomolecular modeling.",
             "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789603200000,
-            "date": "2026-09-17",
-            "title": "Introducing Astra for Law",
-            "summary_kr": "법률 분야에 특화된 'Astra for Law'는 GPT-6 Astra 모델에 법률 검색 색인과 전문 도구를 결합해 법률 연구 및 문서 작성의 정확도를 획기적으로 높인 맞춤형 AI 플랫폼입니다.",
-            "summary_en": "Astra for Law is a specialized AI platform that integrates the GPT-6 Astra model with advanced legal search indexes and professional tools to significantly enhance the accuracy of legal research and drafting.",
-            "link": "https://openai.com/index/astra-for-law"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1789668900000,
-            "date": "2026-09-17",
-            "title": "The new CC, an AI agent built for families",
-            "summary_kr": "구글은 가족 구성원이 개별 계정을 연동해 일정 관리와 가사 업무를 협업할 수 있는 AI 에이전트 'CC'를 출시하여 가정 내 복잡한 정보 조정의 효율성을 극대화합니다.",
-            "summary_en": "Google has launched 'CC,' an AI agent designed to streamline household management by allowing family members to collaborate on shared schedules, tasks, and communications through a secure, unified interface.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1789654736000,
-            "date": "2026-09-17",
-            "title": "What we’ve learned from Microsoft's own AI transformation - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 AI 도입이 단순한 도구 배포를 넘어 비즈니스 성과와 워크플로우 재설계에 집중할 때 실질적인 가치를 창출한다는 '프런티어 기업'의 전략을 제시합니다.",
-            "summary_en": "Microsoft demonstrates that successful AI transformation shifts focus from mere tool adoption to achieving concrete business outcomes and redesigning entire workflows as 'Frontier Firms'.",
-            "link": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1789654342000,
-            "date": "2026-09-17",
-            "title": "From Ad Astra to Semper Disco: Learning Chip Design with Microsoft Discovery",
-            "summary_kr": "항공우주 엔지니어 출신 저자가 마이크로소프트 디스커버리(Microsoft Discovery)를 활용해 RISC-V 코어와 AI 가속기를 설계하며 칩 설계의 전 과정을 직접 경험한 사례를 공유합니다.",
-            "summary_en": "An aerospace engineer shares their experience using Microsoft Discovery to navigate the entire chip design process, from initial specifications to physical layout, for a RISC-V core and AI accelerator.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/from-ad-astra-to-semper-disco-learning-chip-design-with-microsoft-discovery/4554904"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1789603200000,
-            "date": "2026-09-17",
-            "title": "Introducing the Life Sciences Verification Program",
-            "summary_kr": "생명과학 검증 프로그램(LSVP)은 신약 개발 등 연구 전문가들이 AI 모델을 안전하고 효과적으로 활용할 수 있도록 맞춤형 안전 가이드라인과 차등화된 접근 권한을 제공합니다.",
-            "summary_en": "The Life Sciences Verification Program (LSVP) provides life science professionals with tailored access to AI models, featuring refined safety guardrails to facilitate research such as drug discovery while managing potential risks.",
-            "link": "https://www.anthropic.com/news/life-sciences-verification-program"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1789600833000,
-            "date": "2026-09-16",
-            "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
-            "summary_kr": "AI 에이전트와 NVIDIA Omniverse 라이브러리를 활용하여 복잡하고 반복적인 3D 장면 시뮬레이션 준비 과정을 자동화함으로써, 로봇 공학 개발의 병목 현상을 해결하고 고품질의 SimReady 환경 구축을 가속화할 수 있습니다.",
-            "summary_en": "Leveraging AI agents and NVIDIA Omniverse libraries automates the labor-intensive 3D scene preparation process, overcoming robotics development bottlenecks and accelerating the creation of simulation-ready environments.",
-            "link": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1789591027000,
-            "date": "2026-09-16",
-            "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
-            "summary_kr": "NVIDIA의 TensorRT Edge-LLM이 Jetson AGX Thor에서 Qwen3.6-27B 모델을 구동하여, 기존 대비 6.4배 빠른 속도로 MLPerf Edge Agentic 벤치마크를 완료했습니다.",
-            "summary_en": "NVIDIA's TensorRT Edge-LLM achieved a 6.4x speed improvement over the reference implementation in the MLPerf Edge Agentic benchmark, running Qwen3.6-27B on the Jetson AGX Thor platform.",
-            "link": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1789586465000,
-            "date": "2026-09-16",
-            "title": "Microsoft's commitment for AI in education; protecting students, strengthening learning - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 교육 현장에서 AI의 잠재력을 극대화하는 동시에, 안전·보안·투명성을 핵심 원칙으로 삼아 교사 중심의 윤리적인 AI 교육 환경을 구축하겠다는 의지를 밝혔습니다.",
-            "summary_en": "Microsoft is committed to fostering an AI-driven educational environment that maximizes learning potential while strictly adhering to core principles of safety, privacy, and teacher-centric oversight.",
-            "link": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789578000000,
-            "date": "2026-09-16",
-            "title": "Our framework for reporting model misalignment",
-            "summary_kr": "OpenAI는 AI 모델의 정렬 오류(misalignment) 사례를 체계적으로 조사하고 투명하게 공개하기 위한 새로운 보고 프레임워크를 도입하며 업계 표준 마련을 촉구했습니다.",
-            "summary_en": "OpenAI has introduced a new, systematic framework for investigating and disclosing AI model misalignment, aiming to establish industry-wide transparency and reporting standards.",
-            "link": "https://openai.com/index/model-misalignment-reporting-framework"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789560000000,
-            "date": "2026-09-16",
-            "title": "How to connect AI usage to business value",
-            "summary_kr": "기업은 관리자 콘솔의 분석 도구를 통해 AI 사용 현황과 성과를 정량적으로 파악하고, 이를 실제 비즈니스 가치와 연결하여 투자 효율성을 극대화해야 합니다.",
-            "summary_en": "Organizations should leverage admin console analytics to track AI adoption and task performance, effectively bridging usage data with measurable business outcomes to maximize investment value.",
-            "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
         }
     ]
 }
