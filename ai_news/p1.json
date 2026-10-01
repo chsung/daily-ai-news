@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-01 09:56:48",
+    "last_update": "2026-10-01 20:16:49",
     "articles": [
+        {
+            "title": "DeepSeek and Huawei release open-source Ascend AI programming tools to reduce reliance on Nvidia CUDA ecosystem — tools include compute and communication libraries, as well as Ascend support for TileLang - tomshardware.com",
+            "summary_en": "DeepSeek and Huawei have introduced open-source Ascend AI programming tools, including specialized compute and communication libraries, to minimize industry dependence on Nvidia’s CUDA ecosystem.",
+            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdDJFV0hheDJFSlF1ZzF3X0R6WUlCTlE1bEVweU5iYmoxejNtMTRSVzJpekVZTTRMV2ZxamI3b05IMU55Tm9aMlRWMGRvWEJQS3RqMFpQM09qaVZRbFFyS1hSN0Y0SnpKRmF2VTl2U3R3c1RmWk1yRFJfVU5VcmUzZjhYVlhITUg1X1JOanFaSVlXVnRaQ2l4d3dURDdlekt3OF9MQS1UUXE4dzU5amtMMzQwdTAzdklUNWxnV3lSRmRLQndEYTBBU0lwWmNpdGtXUjdQTHBWTDF2RkljNXd6UjVhVXdhZTB1aWI5MDdjTmVxVFVjSzYwdE15MmNaelpDLUltVG5VSHFwaGl2d1luMjVrRkIzNzB0emJQZDFBZ21FUXpJOC1ieUpxNHp3a2VvNkw5aWROWkZBMTlOMmU0NHRyNkZyMmpBZjRMSmM3c19pQVlHVnJaZGFqTDhnMEZBVWJ5OElLUnIyUS15aGJqemgxa2FIUHlnVkE?oc=5",
+            "timestamp": 1790863200000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI - theguardian.com",
+            "summary_en": "The U.S. Federal Trade Commission has launched an antitrust investigation into major AI developers, including Anthropic and OpenAI, to examine competitive practices in the sector.",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWF1VUlLZVBPSkduVjFQcVdFR3VYbFNtbTdMU1hkUndzUFNnREVMTEIxR3o4WDFzSWxRcG9IbzRYODFnWXRsdWRKclNOVXdVSXRhYlJ4c3ZKU3NpbS1FZFBBUGZpVTFKXzc1V2hPczFqOTRSVVhEMjB4dDloZE42RC12bE9jXzNtZlE?oc=5",
+            "timestamp": 1790793300000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "Google 뉴스 - VentureBeat",
+            "summary_en": "VentureBeat continues to track the latest developments in the global artificial intelligence industry, providing ongoing coverage of Google's strategic shifts and product updates.",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5",
+            "timestamp": 1790799809000,
+            "date": "2026-09-30"
+        },
         {
             "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
             "summary_en": "Google has announced Gemini 4 Argon, representing the next generation of its frontier artificial intelligence models.",
@@ -678,27 +699,6 @@
             "summary_en": "Apple introduced the Health Sensing System for the Watch Series 12 and Ultra 4, utilizing Apple Intelligence to transform high-frequency biometric data into actionable longevity and readiness insights. Validated by a 1,000-participant study, the system increases heart rate and HRV monitoring frequency to provide a more precise, privacy-focused view of user health.",
             "link": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
             "timestamp": 1788976539000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "Bad actors in China and Russia are already weaponizing Anthropic’s AI - Politico",
-            "summary_en": "Recent reports indicate that state-sponsored actors from China and Russia are actively attempting to weaponize Anthropic's AI models for malicious purposes.",
-            "link": "https://www.politico.com/news/2026/09/10/bad-actors-china-russia-weaponizing-anthropic-01070435",
-            "timestamp": 1789059600000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "Anthropic says scientists used its AI for research that could aid biological weapons development - New York Post",
-            "summary_en": "Anthropic identified instances where its Claude AI was used for research into gain-of-function virus work and pathogens with pandemic potential, leading the company to ban the associated accounts. While the research could have legitimate medical applications, the company flagged these cases due to the sensitive nature of the work and its potential dual-use for biological weapons development.",
-            "link": "https://nypost.com/2026/09/10/business/anthropic-says-scientists-used-its-ai-for-research-that-could-aid-biological-weapons-development",
-            "timestamp": 1789061760000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "Scoop: Meta acquires Swedish AI startup Stilla.ai - Axios",
-            "summary_en": "Meta has officially acquired the Swedish artificial intelligence startup Stilla.ai to bolster its growing AI capabilities.",
-            "link": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai",
-            "timestamp": 1788994798000,
             "date": "2026-09-09"
         }
     ]

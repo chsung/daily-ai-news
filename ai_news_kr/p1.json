@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-01 09:56:12",
+    "last_update": "2026-10-01 20:16:09",
     "articles": [
+        {
+            "title": "젠슨 황·저커버그 vs 아모데이…백악관서 ‘AI 규제’ 두고 설전 - 한겨레",
+            "summary_kr": "백악관 주재 회의에서 젠슨 황, 마크 저커버그, 다리오 아모데이 등 빅테크 수장들이 참석해 AI 규제 방향과 산업 진흥책을 두고 심도 있는 논의를 진행했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0FKaFNhYTh5WjREVjJwSFo5ZE50b0tmb2k5cWxXRlBDQ2tkSGd4VnhXVnUwb19SUlVXd3gwVkRMZzJiLWxVbExSRS1NTFRyMTV1eFBEeTJ4OUpBdHhlT21NNnRiX2RzeG94SXdLZDNJcUJpTkw2eTljS1ZTUHZXM0VB?oc=5",
+            "timestamp": 1790857200000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "구글, 장기 작업 겨냥한 ‘제미나이 4 아르곤’ 출시...“한 번에 100만 토큰” - 더에이아이",
+            "summary_kr": "구글이 장기 작업 처리에 최적화된 AI 모델 '제미나이 4 아르곤'을 공개하며, 한 번에 100만 토큰을 처리할 수 있는 대규모 컨텍스트 창 성능을 앞세워 시장을 공략합니다.",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWN3FwcTdqdlhwdXh2TS1WNmlKT0NGX1htRC0yNEtiQjN4OHNFZUo2Wmk5a202RVprXzhkT3JjMmoyeXFPTVhxSGVTTVUwZURvMkNpWHAzR0FfaHRrcUVzRzQybUFNM1BYOWow?oc=5",
+            "timestamp": 1790844065000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "\"엔비디아 쿠다 물렀거라\" 딥시크, 화웨이 AI칩용 개발도구 공개 - 뉴시스",
+            "summary_kr": "중국의 딥시크가 엔비디아의 쿠다(CUDA) 생태계에 대응하기 위해 화웨이 AI 칩 전용 개발 도구를 공개하며 독자적인 AI 인프라 구축에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pOHgxak9DTk9ibzI4SjVZTm9CbEptS2hBdldsOXNoOXFJYllFU3Fnd3ZHSjJmektGSXVhYkhyMExSTDVTdWszU3JJajlPR2J1RnJiTjY5ZEVfZXplRmNVR2o2YTFxT29UQlhCX0xrSGc5WjlwTkl5WtIBeEFVX3lxTE5pOHgxak9DTk9ibzI4SjVZTm9CbEptS2hBdldsOXNoOXFJYllFU3Fnd3ZHSjJmektGSXVhYkhyMExSTDVTdWszU3JJajlPR2J1RnJiTjY5ZEVfZXplRmNVR2o2YTFxT29UQlhCX0xrSGc5WjlwTkl5Wg?oc=5",
+            "timestamp": 1790842638000,
+            "date": "2026-10-01"
+        },
         {
             "title": "오픈AI, 반도체 설계 전용 'GPT-시놉시스' 개발 합의…'수익 공유' 적용 - AI타임스",
             "summary_kr": "오픈AI가 시놉시스와 협력해 반도체 설계 전용 AI 모델을 개발하며, 수익 공유 모델을 도입해 산업 현장 최적화에 나섰습니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "마이크로소프트가 인간의 통제를 벗어난 초지능 개발 경쟁을 지양하고 시스템 정지권을 확보하는 내용의 새로운 AI 행동 규범을 공표하며 외부 의견 수렴에 나섰습니다.",
             "link": "https://www3.nhk.or.jp/nhkworld/ko/news/20260915de50420",
             "timestamp": 1789553688000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "\"애플, 서버 시장 진출 검토…엔비디아와 기술 협력 논의\" - 블루밍비트",
-            "summary_kr": "애플이 자체적인 AI 추론 역량 강화를 위해 엔비디아의 고속 인터커넥트 기술인 'NV링크 퓨전' 도입을 검토하며, 이르면 2029년 자체 AI 서버 출시를 추진합니다.",
-            "link": "https://bloomingbit.io/feed/news/120475",
-            "timestamp": 1789565673000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "쿨스, 엔비디아 '루빈 울트라' 겨냥 초대형 패키지 접합 기술 개발 - 디일렉",
-            "summary_kr": "쿨스가 엔비디아의 차세대 '루빈 울트라'와 같은 초대형 AI 반도체 패키지에서 발생하는 휨 현상을 억제하고 공정 시간을 기존 대비 6배 이상 단축할 수 있는 신규 접합 기술을 개발했습니다.",
-            "link": "https://www.thelec.kr/news/articleView.html?idxno=62406",
-            "timestamp": 1789552893000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "텍사스 데이터센터 규제 폭탄… 엔비디아, 구글 출신 에너지 총괄 영입 | 임팩트온 - 임팩트온",
-            "summary_kr": "텍사스주가 데이터센터의 수자원 사용 실태 조사 및 전력망 연결 제한 등 고강도 규제에 나서자, 엔비디아는 구글 출신의 에너지 전문가를 영입하여 AI 인프라의 전력 및 수자원 리스크 관리에 대응하고 있습니다.",
-            "link": "http://www.impacton.net/news/articleView.html?idxno=20350",
-            "timestamp": 1789542857000,
             "date": "2026-09-16"
         }
     ]
