@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-10-01 20:37:49",
+    "last_update": "2026-10-02 20:12:20",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1788447600000,
+            "date": "2026-09-03",
+            "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+            "summary_kr": "구글은 실시간 위성 데이터를 활용해 기존 대비 5배 향상된 해상도와 시간당 업데이트 주기를 갖춘 차세대 기상 AI 모델 'WeatherNext 3'를 공개했습니다.",
+            "summary_en": "Google has introduced 'WeatherNext 3,' an advanced AI weather model that leverages real-time satellite data to deliver five times higher resolution and hourly updates for more precise, localized forecasting.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1788393600000,
+            "date": "2026-09-03",
+            "title": "Designing Grok Bot for a world of persistent agents",
+            "summary_kr": "Grok Bot은 단발성 대화 중심의 기존 AI 인터페이스를 탈피하여, 사용자와 지속적으로 관계를 맺고 스스로 과업을 수행하는 '개별 에이전트' 중심의 사용자 경험을 설계했습니다.",
+            "summary_en": "Grok Bot shifts away from session-based chat interfaces to a persistent, agent-centric design that recognizes bots as autonomous, long-term collaborators capable of independent work.",
+            "link": "https://x.ai/news/designing-grok-bot"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1788391680000,
+            "date": "2026-09-02",
+            "title": "The New Imperative for AI Infrastructure: Useful Yield - Source Asia",
+            "summary_kr": "마이크로소프트는 AI 인프라의 차세대 핵심 지표로 단순한 규모 확장을 넘어 자원을 효율적인 지능으로 전환하는 '유용한 수율(Useful Yield)'을 제시하며, 전 계층을 아우르는 통합 설계와 생태계 협력을 강조했습니다.",
+            "summary_en": "Microsoft emphasizes 'useful yield' as the next benchmark for AI infrastructure, prioritizing the conversion of resources into efficient intelligence through cross-layer system design and global ecosystem collaboration.",
+            "link": "https://news.microsoft.com/source/asia/2026/09/02/the-new-imperative-for-ai-infrastructure-useful-yield"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788350400000,
+            "date": "2026-09-02",
+            "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+            "summary_kr": "ATV Big Air Tour는 2인 운영 체제의 한계를 극복하기 위해 ChatGPT를 도입하여 이벤트 정보 관리 및 재고 처리 업무 시간을 획기적으로 단축하고 AI 검색 가시성을 크게 높였습니다.",
+            "summary_en": "ATV Big Air Tour leveraged ChatGPT to overcome the limitations of its two-person team, drastically reducing time spent on event management and inventory while significantly boosting AI search visibility.",
+            "link": "https://openai.com/index/atv-big-air-tour"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788282004000,
+            "date": "2026-09-01",
+            "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+            "summary_kr": "엔비디아의 네모트론 모델과 크라우드스트라이크의 에이전트 시스템이 결합하여 공격과 방어를 자동화된 루프로 연결함으로써 사이버 보안의 탐지 성능을 획기적으로 개선합니다.",
+            "summary_en": "NVIDIA's Nemotron models and CrowdStrike's agentic system integrate offensive and defensive operations into an automated loop, significantly enhancing cybersecurity detection performance at machine scale.",
+            "link": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788369357000,
+            "date": "2026-09-02",
+            "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+            "summary_kr": "본 기사는 최신 NVIDIA CUDA 툴체인을 활용하여 GPU 가속 코드의 안전성과 성능을 체계적으로 최적화하는 6단계 실무 가이드를 제시합니다.",
+            "summary_en": "This article provides a six-step practical guide to systematically optimizing GPU-accelerated code for safety and performance using the modern NVIDIA CUDA toolchain.",
+            "link": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788365059000,
+            "date": "2026-09-02",
+            "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+            "summary_kr": "본 기사는 정확도를 유지하면서 LLM 추론 속도를 높이기 위한 핵심 기술인 '추론적 디코딩(Speculative Decoding)'의 원리를 설명하고, 최적의 성능을 위한 드래프트 모델 설정 가이드라인을 제시합니다.",
+            "summary_en": "This article explores the principles of speculative decoding to accelerate LLM inference without sacrificing accuracy and provides guidelines for optimizing draft model parameters to achieve peak performance.",
+            "link": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788361200000,
+            "date": "2026-09-02",
+            "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+            "summary_kr": "구글은 추론 및 코딩 성능을 대폭 강화한 'Gemini 3.8 Flash'와 사이버 보안 특화 모델인 'Gemini 3.8 Flash Cyber'를 출시하여 이전 버전과 동일한 비용으로 높은 효율성을 제공합니다.",
+            "summary_en": "Google has introduced Gemini 3.8 Flash and the security-focused Gemini 3.8 Flash Cyber, delivering significant reasoning and coding improvements at the same speed and cost as the previous generation.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1788282000000,
@@ -828,78 +900,6 @@
             "summary_kr": "AI 모델의 사이버 보안 위험이 증가함에 따라, 개발사는 안전성 확보를 위해 모델 훈련 속도를 일시적으로 늦추고 모니터링, 정렬, 보안 조치를 대폭 강화하고 있습니다.",
             "summary_en": "As AI models reach critical cybersecurity capability thresholds, the company has temporarily slowed development to strengthen monitoring, alignment, and security safeguards.",
             "link": "https://openai.com/index/pacing-model-development-cyber-capabilities"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787036400000,
-            "date": "2026-08-18",
-            "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-            "summary_kr": "아사나(Asana)는 오픈AI의 코덱스(Codex) 기반 AI 에이전트를 활용해 5년이 소요될 것으로 예상되던 레거시 시스템 교체 작업을 단 2주 만에 1만 2천 달러의 비용으로 성공적으로 완료했습니다.",
-            "summary_en": "Asana successfully replaced an outdated testing system in just two weeks at a cost of $12,000 using OpenAI's Codex-powered agents, a task previously estimated to take five years and $6 million.",
-            "link": "https://openai.com/index/asana"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787011200000,
-            "date": "2026-08-18",
-            "title": "How Claude is accelerating protein design and analytical chemistry",
-            "summary_kr": "앤스로픽의 클로드(Claude)는 단백질 설계와 화학 분석 작업에서 전문가 수준 이상의 성과를 보이며 신약 개발의 초기 연구 속도를 획기적으로 단축할 수 있는 가능성을 입증했습니다.",
-            "summary_en": "Anthropic's Claude has demonstrated expert-level performance in protein design and chemical analysis, proving its potential to significantly accelerate early-stage drug discovery workflows.",
-            "link": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787011200000,
-            "date": "2026-08-18",
-            "title": "How NVIDIA scales expertise with ChatGPT Work",
-            "summary_kr": "엔비디아는 'ChatGPT Work'를 도입하여 반복적인 운영 업무를 자동화하고 정보 분석 시간을 단축함으로써, 지식 노동자들이 전략적 의사결정과 신속한 프로토타이핑에 집중할 수 있는 환경을 구축했습니다.",
-            "summary_en": "NVIDIA is leveraging 'ChatGPT Work' to automate operational workflows and streamline information analysis, enabling knowledge workers to shift their focus toward strategic decision-making and rapid prototyping.",
-            "link": "https://openai.com/index/nvidia/chatgpt-work"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787050800000,
-            "date": "2026-08-18",
-            "title": "Partnering with CodeAI to prepare the first AI generation",
-            "summary_kr": "OpenAI는 CodeAI와의 파트너십 및 'ChatGPT for Teens' 출시를 통해 학생들이 AI를 책임감 있게 활용하고 비판적으로 사고할 수 있는 차세대 AI 리터러시 교육 환경을 구축합니다.",
-            "summary_en": "OpenAI is partnering with CodeAI and launching 'ChatGPT for Teens' to equip students with the essential skills to critically evaluate, responsibly use, and shape the future of AI.",
-            "link": "https://openai.com/index/partnering-with-codeai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787050800000,
-            "date": "2026-08-18",
-            "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-            "summary_kr": "OpenAI가 13~17세 청소년을 위해 안전 보호 기능과 학습 지원 도구를 강화한 'ChatGPT for Teens'를 출시하여 AI의 올바른 활용과 학습 경험 극대화를 지원합니다.",
-            "summary_en": "OpenAI has launched 'ChatGPT for Teens,' a dedicated experience featuring enhanced safety protections and specialized learning tools designed to foster critical thinking and responsible AI use among students.",
-            "link": "https://openai.com/index/chatgpt-for-teens"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1787043600000,
-            "date": "2026-08-18",
-            "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
-            "summary_kr": "구글은 항공기 비행운(contrail)이 유발하는 온난화 문제를 해결하기 위해 AI를 활용한 대규모 관제 실험인 '오퍼레이션 블루 스카이(Operation Blue Skies)'를 영국 정부 및 주요 기관과 공동으로 추진합니다.",
-            "summary_en": "Google is partnering with the UK government and key industry stakeholders to launch 'Operation Blue Skies,' a large-scale AI-driven initiative designed to mitigate the climate impact of aviation by strategically avoiding the formation of warming contrails.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1786990368000,
-            "date": "2026-08-17",
-            "title": "Developing Nemotron 3.5 Lightning NVFP4 with QAD Using NVIDIA Model Optimizer",
-            "summary_kr": "NVIDIA는 모델 최적화 도구를 활용한 '양자화 인식 증류(QAD)' 기술로 Nemotron 3.5 Lightning 모델을 4비트로 압축하여, 정확도 손실을 최소화하면서 처리량을 최대 4배 향상시켰습니다.",
-            "summary_en": "NVIDIA has leveraged Quantization-Aware Distillation (QAD) via the NVIDIA Model Optimizer to compress the Nemotron 3.5 Lightning model to 4-bit, achieving up to 4x higher throughput while effectively preserving baseline accuracy.",
-            "link": "https://developer.nvidia.com/blog/developing-nemotron-3-5-lightning-nvfp4-with-qad-using-nvidia-model-optimizer"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1786944600000,
-            "date": "2026-08-17",
-            "title": "The Defender’s Window",
-            "summary_kr": "AI가 사이버 공격을 고도화하고 자동화하는 위협이 커지는 가운데, 기업들은 AI를 방어 기제로 활용해 보안 취약점을 선제적으로 탐지하고 해결하는 보안 체계의 근본적 혁신이 필요합니다.",
-            "summary_en": "As AI increasingly empowers cyberattacks through automation, organizations must fundamentally upgrade their security by leveraging AI as a defensive guardian to proactively identify and remediate vulnerabilities.",
-            "link": "https://openai.com/index/the-defenders-window"
         }
     ]
 }

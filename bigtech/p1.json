@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-10-01 20:37:49",
+    "last_update": "2026-10-02 20:12:20",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1790963111000,
+            "date": "2026-10-02",
+            "title": "Insights from the 2026 Microsoft Digital Defense Report  | Microsoft Security Blog",
+            "summary_kr": "2026 마이크로소프트 디지털 방어 보고서는 AI가 공격자의 역량을 고도화하고 시스템 연결성을 확장함에 따라, 기존의 보안 기본 원칙을 AI 생태계 전반에 통합하는 포괄적인 방어 전략이 필수적임을 강조합니다.",
+            "summary_en": "The 2026 Microsoft Digital Defense Report highlights that as AI enhances attacker capabilities and system interconnectedness, organizations must integrate foundational security principles into their broader, evolving AI ecosystems.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790957700000,
+            "date": "2026-10-02",
+            "title": "A model guide for the GPT-6 family",
+            "summary_kr": "GPT-6 제품군은 작업 성격에 맞춰 적절한 모델과 추론 강도를 선택하고, 캐싱 및 압축 기술을 통해 효율성과 비용을 최적화하는 전략적 운영 가이드를 제시합니다.",
+            "summary_en": "This guide outlines strategies for optimizing GPT-6 performance by matching models and reasoning levels to specific tasks while leveraging caching and compaction to balance efficiency, latency, and cost.",
+            "link": "https://openai.com/index/practical-guide-building-gpt-6"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1790953200000,
+            "date": "2026-10-02",
+            "title": "The latest AI news we announced in September 2026",
+            "summary_kr": "구글은 2026년 9월, 고도화된 추론 능력과 100만 토큰 컨텍스트 윈도우를 갖춘 'Gemini 4 Argon'을 필두로 사이버 보안, 음성 모델, 앱 연동성을 강화한 차세대 AI 기술을 대거 발표했습니다.",
+            "summary_en": "In September 2026, Google unveiled its next-generation AI portfolio, headlined by the advanced Gemini 4 Argon model, alongside significant updates in cybersecurity, expressive voice capabilities, and integrated application workflows.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790899200000,
+            "date": "2026-10-02",
+            "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+            "summary_kr": "앤스로픽은 기업 현장의 AI 인재 부족 문제를 해결하기 위해 1억 달러를 투자하여 2027년까지 1만 명의 '프런티어 배포 엔지니어(FDE)'를 양성하는 '클로드 프런티어 아카데미'를 출범했습니다.",
+            "summary_en": "Anthropic has launched the 'Claude Frontier Academy' with a $100 million investment, aiming to train 10,000 'Frontier Deployed Engineers' by 2027 to bridge the critical enterprise AI talent gap.",
+            "link": "https://www.anthropic.com/news/claude-frontier-academy"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790899200000,
+            "date": "2026-10-02",
+            "title": "Chatham scales its capital markets expertise with OpenAI",
+            "summary_kr": "채텀 파이낸셜(Chatham Financial)은 오픈AI의 코덱스(Codex)와 GPT 모델을 도입하여 자본 시장 워크플로우를 혁신하고, 거래 검증 시간을 30분에서 4분 미만으로 단축하며 업무 효율성을 극대화했습니다.",
+            "summary_en": "Chatham Financial has optimized its capital markets operations by integrating OpenAI’s Codex and GPT models, successfully reducing trade validation time from 30 minutes to under 4 minutes while enhancing workflow accuracy.",
+            "link": "https://openai.com/index/chatham-financial"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1790897400000,
+            "date": "2026-10-01",
+            "title": "Our Project Suncatcher prototype satellite is in orbit.",
+            "summary_kr": "구글이 스페이스X와 협력하여 우주 환경에서 머신러닝 인프라의 확장 가능성을 검증하기 위한 '프로젝트 선캐처'의 프로토타입 위성을 성공적으로 발사했습니다.",
+            "summary_en": "Google has successfully launched its 'Project Suncatcher' prototype satellite with SpaceX to explore the viability of scalable machine learning infrastructure in space.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790890553000,
+            "date": "2026-10-01",
+            "title": "Our first streaming transcription model debuts at no. 1 on Artificial Analysis | Microsoft AI",
+            "summary_kr": "마이크로소프트가 업계 최고 수준의 정확도와 저지연성을 갖춘 실시간 음성 인식 모델 'MAI-Transcribe-2-Streaming'과 다국어 지원에 최적화된 'MAI-Voice-2.1' 시리즈를 출시했습니다.",
+            "summary_en": "Microsoft has launched its top-ranked, low-latency 'MAI-Transcribe-2-Streaming' model alongside the versatile 'MAI-Voice-2.1' series, enabling faster, high-quality, and seamless conversational AI experiences.",
+            "link": "https://microsoft.ai/news/our-first-streaming-transcription-model"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790812800000,
+            "date": "2026-10-01",
+            "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+            "summary_kr": "소셜 클럽 '더 덴(The Den)'은 ChatGPT Work를 도입하여 행정 업무 시간을 주당 최대 15시간 단축하고, 복잡한 인허가 및 보조금 신청 과정을 획기적으로 개선하며 사업 확장에 집중하고 있습니다.",
+            "summary_en": "The Den has leveraged ChatGPT Work to save up to 15 hours per week on administrative tasks, significantly accelerating licensing and grant application processes to fuel its business expansion.",
+            "link": "https://openai.com/index/the-den-family-social"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1790878409000,
@@ -828,78 +900,6 @@
             "summary_kr": "xAI가 코딩 및 지식 작업에 최적화된 Grok 4.7을 출시하며, 향상된 추론 능력과 강화된 안전성, 그리고 업계 최고 수준의 가격 대비 성능을 확보했습니다.",
             "summary_en": "xAI has launched Grok 4.7, an optimized model for coding and knowledge work that delivers superior reasoning, robust safety guardrails, and industry-leading price-performance.",
             "link": "https://x.ai/news/grok-4-7"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1789758281000,
-            "date": "2026-09-18",
-            "title": "Benchmarking LLM Inference at Scale with AIPerf",
-            "summary_kr": "엔비디아의 AIPerf는 멀티프로세스 아키텍처를 도입하여 기존 벤치마킹 도구의 성능 병목 현상을 해결하고, LLM 추론 성능을 정밀하고 확장성 있게 측정할 수 있도록 설계된 차세대 도구입니다.",
-            "summary_en": "NVIDIA's AIPerf is a next-generation benchmarking tool designed to eliminate client-side bottlenecks through a multi-process architecture, enabling scalable and precise evaluation of LLM inference performance.",
-            "link": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789732800000,
-            "date": "2026-09-18",
-            "title": "Introducing the Australian Youth Safety Blueprint",
-            "summary_kr": "OpenAI는 호주 청소년의 AI 사용 안전을 강화하기 위해 6대 핵심 원칙을 담은 '호주 청소년 안전 청사진'을 발표하고 관련 보호 기능을 지속적으로 확대하고 있습니다.",
-            "summary_en": "OpenAI has introduced the 'Australian Youth Safety Blueprint,' outlining six pillars to enhance AI safety and protection for young users while committing to ongoing product-level safeguards.",
-            "link": "https://openai.com/index/australian-youth-safety-blueprint"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1789689600000,
-            "date": "2026-09-18",
-            "title": "Partnering with Accenture on embedded evaluation",
-            "summary_kr": "앤스로픽은 액센츄어와 파트너십을 맺고 AI 모델 개발 내부 과정에 외부 평가자를 배치하는 '임베디드 평가' 체계를 구축하며, 향후 5년간 10억 달러 이상을 투자해 AI 안전성 검증을 강화할 계획입니다.",
-            "summary_en": "Anthropic has partnered with Accenture to implement 'embedded evaluation,' integrating independent evaluators directly into its internal AI development processes, with a commitment to invest at least $1 billion over five years to enhance AI safety verification.",
-            "link": "https://www.anthropic.com/news/accenture-embedded-evaluation"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789560000000,
-            "date": "2026-09-16",
-            "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-            "summary_kr": "Hex는 GPT-6 Astra를 도입하여 데이터 분석의 기술적 처리와 시각화 역량을 강화함으로써, 누구나 복잡한 데이터를 직관적이고 설득력 있는 비즈니스 인사이트로 쉽게 변환할 수 있게 지원합니다.",
-            "summary_en": "Hex has integrated GPT-6 Astra to enhance its data platform, enabling users to transform complex analysis into interactive, visually compelling reports that drive better business decision-making.",
-            "link": "https://openai.com/index/hex-gpt-6-astra"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1789752107000,
-            "date": "2026-09-18",
-            "title": "Why the basics still matter for cybersecurity in the AI era",
-            "summary_kr": "AI 시대에도 사이버 보안의 핵심은 기본적인 취약점 관리이며, 자율적 공격이 고도화됨에 따라 공격 경로를 차단하기 위한 지속적인 노출 관리와 보안 통제가 필수적입니다.",
-            "summary_en": "In the AI era, fundamental cybersecurity practices remain critical, as autonomous threats rapidly exploit traditional weaknesses; therefore, continuous exposure management and robust security controls are essential to neutralize emerging attack paths.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1789689600000,
-            "date": "2026-09-18",
-            "title": "Introducing Grok Voice Transcribe 2.0",
-            "summary_kr": "SpaceXAI가 이전 모델 대비 정확도를 두 배 높이고 실환경 음성 인식 성능을 극대화한 'Grok Voice Transcribe 2.0'을 동일한 가격에 출시했습니다.",
-            "summary_en": "SpaceXAI has launched 'Grok Voice Transcribe 2.0,' which doubles the accuracy of its predecessor and optimizes real-world speech recognition performance at the same price point.",
-            "link": "https://x.ai/news/grok-voice-transcribe-2"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789646400000,
-            "date": "2026-09-17",
-            "title": "How Cooley is accelerating IPO work with ChatGPT",
-            "summary_kr": "글로벌 로펌 쿨리(Cooley)는 'GO Public' AI 플랫폼에 챗GPT를 도입해 IPO 준비 과정을 자동화하고 효율화함으로써, 변호사와 경영진이 전략적 의사결정에 더 집중할 수 있게 했습니다.",
-            "summary_en": "Cooley has integrated ChatGPT into its 'GO Public' platform to automate IPO preparation, enabling lawyers and management to accelerate workflows and prioritize high-value strategic decision-making.",
-            "link": "https://openai.com/index/cooley-gopublic"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1789603200000,
-            "date": "2026-09-17",
-            "title": "How Claude is uplifting biomolecular modeling",
-            "summary_kr": "앤스로픽은 클로드(Claude)를 활용해 30개 이상의 오픈소스 생물학 모델을 4배가량 가속하고 메모리 효율을 극대화하여 바이오 분자 모델링 연구의 접근성을 대폭 높였습니다.",
-            "summary_en": "Anthropic has leveraged Claude to optimize over 30 open-source biology models, achieving a 4x speed increase and enhanced memory efficiency to democratize advanced biomolecular modeling.",
-            "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
         }
     ]
 }
