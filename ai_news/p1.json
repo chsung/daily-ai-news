@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-01 20:16:49",
+    "last_update": "2026-10-02 09:33:06",
     "articles": [
+        {
+            "title": "Meta reportedly calls its AI data centers ‘pilot models’ — its research tax credits jumped from $700M to $3.9B - Yahoo Finance",
+            "summary_en": "Meta is strategically positioning its AI data centers as 'pilot models' while reporting a massive surge in research tax credits from $700 million to $3.9 billion.",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXVrZFVJSGlUX0ktM3VUZ0J4bjJJdzNlcTBYUjlPaTUybFJidXd5TEw5Nk5OdWYyRExiM183bUNFcEVxYzZ6bmdfMk44YzAxaHBYbHZZUWdxTkgtbWx5Z2llb1A3SEpVRlBIMUZhTG8teEljSE9MdHVzWGJ1NDRGaHI0M2U0Tms4R2ZZamVDWi1iT0tZcVNXWg?oc=5",
+            "timestamp": 1790826900000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI - blogs.nvidia.com",
+            "summary_en": "NVIDIA and CoreWeave are collaborating to streamline the development lifecycle of agentic AI, bridging the gap between initial model training and large-scale production deployment.",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PX3hWVnRiNjdFdVFOWXVGM3R6RXJPOEd4ektLc3lqczcwc3Y0N3VfeVhMejhySC1tV3N0dE1Fa25OM2dJa0ZBbFZJYWhna3FIbUpLa1NEcUM3WktfTXl6RTgzaWdPSWl0QmdZY0pFNA?oc=5",
+            "timestamp": 1790781192000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "Kodiak AI Chooses AWS for AI-Powered Autonomous Trucking Technology Development Ahead of Driverless Highway Launch - markets.businessinsider.com",
+            "summary_en": "Kodiak Robotics has selected AWS as its primary cloud provider to accelerate the development of its AI-driven autonomous trucking technology ahead of its planned driverless highway operations.",
+            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPekdCX1RHajZhVk5fS3llay1JQWpiZURkenliUVVhSXZGQjN3c3pqVUJHRjN4akpaeHVTRTdzQ2tkaGhhcXNBZlVKeGlVR1lZTnJwOFV6REphZkVnS3VPdmRoaloyakotUUI5aWdjUkxFTjJuLWctQXB4YVN6MzRQYU1ydl9JZ1ZaS2psNVlQN0VTcDRmczZpM0dOclQtMHY2d0FDVUZfVkJhUGlHbFc0Q2o5aEJ5TFFESFozVDNORS1RRC15Yk1DWFI2dUlBcnJJSVg3Q0J6REJaNmN6ODYydE92QzBMbmFwX2lKNmQxVEM0V3paaGZhNE5zSUViYnY1aVM0?oc=5",
+            "timestamp": 1790864126000,
+            "date": "2026-10-01"
+        },
         {
             "title": "DeepSeek and Huawei release open-source Ascend AI programming tools to reduce reliance on Nvidia CUDA ecosystem — tools include compute and communication libraries, as well as Ascend support for TileLang - tomshardware.com",
             "summary_en": "DeepSeek and Huawei have introduced open-source Ascend AI programming tools, including specialized compute and communication libraries, to minimize industry dependence on Nvidia’s CUDA ecosystem.",
@@ -679,27 +700,6 @@
             "link": "https://www.infoworld.com/article/4221163/openai-launches-managed-agents-api-to-simplify-enterprise-ai-agent-development.html",
             "timestamp": 1789108794000,
             "date": "2026-09-11"
-        },
-        {
-            "title": "'No one is prepared for the consequences': Even OpenAI chief scientist is saying AI development needs to slow down - TechRadar",
-            "summary_en": "OpenAI Chief Scientist Jakub Pachocki has publicly advocated for a industry-wide slowdown in AI development, citing deep concerns that society is unprepared for the risks of rapidly advancing, potentially uncontrollable machine intelligence.",
-            "link": "https://www.techradar.com/pro/no-one-is-prepared-for-the-consequences-even-openai-chief-scientist-is-saying-ai-development-needs-to-slow-down",
-            "timestamp": 1789142700000,
-            "date": "2026-09-11"
-        },
-        {
-            "title": "Apple's AI strategy took center stage at its iPhone Duo event - Yahoo Finance",
-            "summary_en": "Apple's iPhone Duo event showcased a comprehensive AI integration strategy, headlined by the generative Siri AI and high-performance Mac hardware capable of running massive 1 trillion-parameter models. This pivot addresses prior criticisms regarding Apple's slow AI adoption by embedding intelligent features across the iPhone, Watch, and AirPod product lines.",
-            "link": "https://finance.yahoo.com/technology/article/apples-ai-strategy-took-center-stage-at-its-iphone-duo-event-150456038.html",
-            "timestamp": 1789052696000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "Apple advances health and fitness capabilities using Apple Intelligence and the most accurate heart rate sensing in a wearable - Apple",
-            "summary_en": "Apple introduced the Health Sensing System for the Watch Series 12 and Ultra 4, utilizing Apple Intelligence to transform high-frequency biometric data into actionable longevity and readiness insights. Validated by a 1,000-participant study, the system increases heart rate and HRV monitoring frequency to provide a more precise, privacy-focused view of user health.",
-            "link": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
-            "timestamp": 1788976539000,
-            "date": "2026-09-09"
         }
     ]
 }
