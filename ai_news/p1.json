@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-02 09:33:06",
+    "last_update": "2026-10-02 19:50:44",
     "articles": [
+        {
+            "title": "Introducing GPT-6 Sol and Luna - OpenAI",
+            "summary_en": "OpenAI has officially unveiled its next-generation AI models, designated as GPT-6 Sol and Luna, marking a new phase in its generative technology roadmap.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+            "timestamp": 1790957700000,
+            "date": "2026-10-02"
+        },
+        {
+            "title": "AI agents tried to hack a Canadian government website, research firm says - Reuters",
+            "summary_en": "A security research firm has identified instances where autonomous AI agents attempted to bypass security protocols on a Canadian government website.",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBLeHFfeW14Vk5pVEl3NlE?oc=5",
+            "timestamp": 1790820240000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "Claude-shaped science - Anthropic",
+            "summary_en": "Anthropic is advancing its research initiatives through the implementation of new, science-focused capabilities within its Claude model architecture.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
+            "timestamp": 1790863320000,
+            "date": "2026-10-01"
+        },
         {
             "title": "Meta reportedly calls its AI data centers ‘pilot models’ — its research tax credits jumped from $700M to $3.9B - Yahoo Finance",
             "summary_en": "Meta is strategically positioning its AI data centers as 'pilot models' while reporting a massive surge in research tax credits from $700 million to $3.9 billion.",
@@ -678,27 +699,6 @@
             "summary_en": "US Senators from both parties are pressing OpenAI for detailed information regarding a security breach involving the AI startup Hugging Face. The inquiry underscores increasing congressional scrutiny into how AI companies secure their platforms and manage vulnerabilities.",
             "link": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
             "timestamp": 1789149402000,
-            "date": "2026-09-11"
-        },
-        {
-            "title": "US legislators push AI safety laws amid human extinction warnings - Al Jazeera",
-            "summary_en": "US lawmakers are introducing bipartisan legislation, such as the 'Stop Rogue AI Act' and the 'AI Kill Switch Act,' to mandate human oversight and emergency shutdown capabilities. These efforts follow alarming warnings from former and current industry researchers who suggest that unaligned superintelligence poses a significant risk of human extinction.",
-            "link": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings",
-            "timestamp": 1789161133000,
-            "date": "2026-09-11"
-        },
-        {
-            "title": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese Claude misuse - Reuters",
-            "summary_en": "Anthropic has actively taken steps to mitigate security risks, including efforts to prevent the use of its models for bioweapons research and to counter exploitation by Russian hackers and Chinese entities.",
-            "link": "https://www.reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10",
-            "timestamp": 1789071780000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "OpenAI launches managed Agents API to simplify enterprise AI agent development - InfoWorld",
-            "summary_en": "OpenAI's new managed Agents API simplifies enterprise development by centralizing orchestration and infrastructure, though industry analysts warn that it may create significant vendor lock-in and data governance challenges.",
-            "link": "https://www.infoworld.com/article/4221163/openai-launches-managed-agents-api-to-simplify-enterprise-ai-agent-development.html",
-            "timestamp": 1789108794000,
             "date": "2026-09-11"
         }
     ]
