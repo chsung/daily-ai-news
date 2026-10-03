@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-10-02 19:50:44",
+    "last_update": "2026-10-03 09:00:24",
     "articles": [
+        {
+            "title": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
+            "summary_en": "Anthropic has launched the 'Claude Frontier Academy,' a $100 million initiative designed to train 10,000 engineers in advanced AI development.",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+            "timestamp": 1790982060000,
+            "date": "2026-10-02"
+        },
+        {
+            "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
+            "summary_en": "OpenAI has terminated the employment of multiple staff members following an internal investigation into the mishandling of sensitive company information.",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5",
+            "timestamp": 1790929232000,
+            "date": "2026-10-02"
+        },
         {
             "title": "Introducing GPT-6 Sol and Luna - OpenAI",
             "summary_en": "OpenAI has officially unveiled its next-generation AI models, designated as GPT-6 Sol and Luna, marking a new phase in its generative technology roadmap.",
@@ -685,20 +699,6 @@
             "summary_en": "UCLA researcher Saadia Gabriel has received $250,000 in Amazon compute credits to address the critical underrepresentation of African languages in AI training data. Her team aims to build datasets covering five major linguistic groups, ultimately gathering 15,000 hours of speech data to improve AI accessibility for 1.5 billion people.",
             "link": "https://samueli.ucla.edu/ucla-computer-scientist-saadia-gabriel-receives-amazon-research-award-to-advance-ai-for-african-languages",
             "timestamp": 1789093582000,
-            "date": "2026-09-11"
-        },
-        {
-            "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - AP News",
-            "summary_en": "Anthropic has reported that users in Houthi-controlled Yemen attempted to utilize its artificial intelligence technology to assist in the development of advanced weaponry. This incident highlights growing concerns regarding the potential misuse of AI models by non-state actors for military advancement.",
-            "link": "https://apnews.com/article/yemen-houthis-anthropic-ai-missiles-9b20934e031ff3d99dd8bb49d85d97a9",
-            "timestamp": 1789152060000,
-            "date": "2026-09-11"
-        },
-        {
-            "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face - PBS",
-            "summary_en": "US Senators from both parties are pressing OpenAI for detailed information regarding a security breach involving the AI startup Hugging Face. The inquiry underscores increasing congressional scrutiny into how AI companies secure their platforms and manage vulnerabilities.",
-            "link": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
-            "timestamp": 1789149402000,
             "date": "2026-09-11"
         }
     ]
