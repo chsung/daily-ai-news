@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-10-02 20:12:20",
+    "last_update": "2026-10-05 22:14:26",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1789974000000,
+            "date": "2026-09-21",
+            "title": "Expanding OpenAI Academy with new learning paths",
+            "summary_kr": "OpenAI는 개발자, 리더, 교육자, 학생 등 다양한 직무별 맞춤형 교육 과정을 통해 실무 중심의 AI 역량 강화와 안전한 AI 활용을 지원하는 'OpenAI Academy'를 확대합니다.",
+            "summary_en": "OpenAI is expanding its 'OpenAI Academy' by introducing role-based learning paths for developers, leaders, educators, and students, designed to foster practical AI skills and ensure effective, secure integration into professional and academic workflows.",
+            "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789948800000,
+            "date": "2026-09-21",
+            "title": "How V7 gives AI agents institutional memory",
+            "summary_kr": "V7 Go는 기업의 방대한 데이터를 '컨텍스트 그래프'로 구조화하여 AI 에이전트가 비즈니스 맥락을 정확히 이해하고 복잡한 업무를 자동화하도록 지원합니다.",
+            "summary_en": "V7 Go structures vast enterprise data into a 'Context Graph,' enabling AI agents to accurately understand business nuances and automate complex, mission-critical workflows.",
+            "link": "https://openai.com/index/v7"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1789948800000,
+            "date": "2026-09-21",
+            "title": "IntroducingGrok 4.7",
+            "summary_kr": "xAI가 코딩 및 지식 작업에 최적화된 Grok 4.7을 출시하며, 향상된 추론 능력과 강화된 안전성, 그리고 업계 최고 수준의 가격 대비 성능을 확보했습니다.",
+            "summary_en": "xAI has launched Grok 4.7, an optimized model for coding and knowledge work that delivers superior reasoning, robust safety guardrails, and industry-leading price-performance.",
+            "link": "https://x.ai/news/grok-4-7"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1789758281000,
@@ -873,33 +900,6 @@
             "summary_kr": "Grok Bot이 기업용으로 출시되어, 자율적인 AI 에이전트가 업무 흐름을 학습하고 다양한 비즈니스 도구를 활용해 24시간 실무를 처리할 수 있게 되었습니다. 이번 업데이트는 기업 수준의 보안 및 거버넌스 기능을 제공하여 대규모 조직의 생산성을 극대화합니다.",
             "summary_en": "Grok Bot has launched for enterprises, offering autonomous AI agents that learn workflows to execute end-to-end tasks across existing business tools. The release includes robust enterprise-grade governance and security controls to support large-scale organizational productivity.",
             "link": "https://x.ai/news/grok-bot-for-enterprise"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788454821000,
-            "date": "2026-09-03",
-            "title": "MAI-Transcribe-2 is the fastest, most accurate and cheapest speech recognition model in the world | Microsoft AI",
-            "summary_kr": "마이크로소프트의 MAI-Transcribe-2는 60개 언어에서 업계 최고 수준의 정확도와 경쟁사 대비 최대 10배 빠른 속도를 구현하며 비용 효율성까지 확보한 차세대 음성 인식 모델입니다.",
-            "summary_en": "Microsoft's MAI-Transcribe-2 is a next-generation speech recognition model that delivers industry-leading accuracy across 60 languages, up to 10x faster performance than competitors, and superior cost-efficiency.",
-            "link": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788451200000,
-            "date": "2026-09-03",
-            "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
-            "summary_kr": "엔비디아의 PAIR(Personal AI Router)는 로컬 네트워크 내 여러 기기의 유휴 컴퓨팅 자원을 활용해 AI 에이전트의 다중 추론 요청을 분산 처리함으로써 병목 현상을 해소하고 작업 속도를 최적화합니다.",
-            "summary_en": "NVIDIA’s Personal AI Router (PAIR) optimizes AI agent performance by distributing multi-agent inference workloads across available local hardware, effectively eliminating bottlenecks without requiring changes to existing agent configurations.",
-            "link": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1788447900000,
-            "date": "2026-09-03",
-            "title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
-            "summary_kr": "AI 기술을 활용해 초파리 수컷의 뇌 신경망을 세계 최초로 완전히 매핑함으로써, 뇌 기능 연구와 신경과학 발전을 위한 획기적인 토대를 마련했습니다.",
-            "summary_en": "Researchers have leveraged AI to achieve the first complete neural map of an adult male fruit fly, establishing a foundational resource that significantly advances neuroscience and brain function studies.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map"
         }
     ]
 }

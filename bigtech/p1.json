@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-10-02 20:12:20",
+    "last_update": "2026-10-05 22:14:26",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1791221536000,
+            "date": "2026-10-05",
+            "title": "Power Apps and AI transformation: Register for PPCC 2026 - Microsoft Power Platform Blog",
+            "summary_kr": "마이크로소프트 파워 플랫폼은 기존 비즈니스 자산에 AI와 에이전트를 통합하여 업무 효율을 높이고, 기업이 AI 혁신을 가속화할 수 있도록 지원합니다.",
+            "summary_en": "Microsoft Power Platform enables organizations to accelerate AI transformation by integrating agents and intelligence into existing business applications and workflows.",
+            "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/your-ai-transformation-starts-with-what-youve-already-built"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791212400000,
+            "date": "2026-10-05",
+            "title": "Our approach to EU text provenance rules",
+            "summary_kr": "OpenAI는 EU AI 법 준수를 위해 텍스트 워터마킹 기술 'textGrain'을 도입하며, 기술적 한계를 고려해 단계적으로 API 고객 및 연구기관에 이를 제공하기로 했습니다.",
+            "summary_en": "OpenAI is implementing its 'textGrain' watermarking technology to comply with the EU AI Act, while adopting a phased rollout to researchers and API users due to current technical limitations.",
+            "link": "https://openai.com/index/eu-text-provenance"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791194400000,
+            "date": "2026-10-05",
+            "title": "Building advertising for the way people use AI",
+            "summary_kr": "OpenAI는 ChatGPT 내 새로운 시각적 광고 형식을 도입하고, 고도화된 측정 도구 및 파트너십을 통해 광고주들에게 더욱 효과적인 성과 분석과 브랜드 안전성을 제공합니다.",
+            "summary_en": "OpenAI is introducing a new visual ad format within ChatGPT while expanding measurement tools and partnerships to provide advertisers with enhanced performance insights and robust brand suitability protections.",
+            "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1790963111000,
@@ -873,33 +900,6 @@
             "summary_kr": "오픈AI는 범용 인공지능(AGI)의 혜택을 인류에게 안전하게 전달하기 위해 자동화된 AI 연구 체계 구축과 강력한 정렬 연구, 그리고 국제적인 안전 표준 수립을 강조합니다.",
             "summary_en": "OpenAI emphasizes the need for automated AI research, rigorous alignment, and international safety standards to safely harness the benefits of AGI for humanity while maintaining human control.",
             "link": "https://openai.com/index/building-standards-next-phase-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789974000000,
-            "date": "2026-09-21",
-            "title": "Expanding OpenAI Academy with new learning paths",
-            "summary_kr": "OpenAI는 개발자, 리더, 교육자, 학생 등 다양한 직무별 맞춤형 교육 과정을 통해 실무 중심의 AI 역량 강화와 안전한 AI 활용을 지원하는 'OpenAI Academy'를 확대합니다.",
-            "summary_en": "OpenAI is expanding its 'OpenAI Academy' by introducing role-based learning paths for developers, leaders, educators, and students, designed to foster practical AI skills and ensure effective, secure integration into professional and academic workflows.",
-            "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789948800000,
-            "date": "2026-09-21",
-            "title": "How V7 gives AI agents institutional memory",
-            "summary_kr": "V7 Go는 기업의 방대한 데이터를 '컨텍스트 그래프'로 구조화하여 AI 에이전트가 비즈니스 맥락을 정확히 이해하고 복잡한 업무를 자동화하도록 지원합니다.",
-            "summary_en": "V7 Go structures vast enterprise data into a 'Context Graph,' enabling AI agents to accurately understand business nuances and automate complex, mission-critical workflows.",
-            "link": "https://openai.com/index/v7"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1789948800000,
-            "date": "2026-09-21",
-            "title": "IntroducingGrok 4.7",
-            "summary_kr": "xAI가 코딩 및 지식 작업에 최적화된 Grok 4.7을 출시하며, 향상된 추론 능력과 강화된 안전성, 그리고 업계 최고 수준의 가격 대비 성능을 확보했습니다.",
-            "summary_en": "xAI has launched Grok 4.7, an optimized model for coding and knowledge work that delivers superior reasoning, robust safety guardrails, and industry-leading price-performance.",
-            "link": "https://x.ai/news/grok-4-7"
         }
     ]
 }

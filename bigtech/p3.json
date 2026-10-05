@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-10-02 20:12:20",
+    "last_update": "2026-10-05 22:14:26",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1788454821000,
+            "date": "2026-09-03",
+            "title": "MAI-Transcribe-2 is the fastest, most accurate and cheapest speech recognition model in the world | Microsoft AI",
+            "summary_kr": "마이크로소프트의 MAI-Transcribe-2는 60개 언어에서 업계 최고 수준의 정확도와 경쟁사 대비 최대 10배 빠른 속도를 구현하며 비용 효율성까지 확보한 차세대 음성 인식 모델입니다.",
+            "summary_en": "Microsoft's MAI-Transcribe-2 is a next-generation speech recognition model that delivers industry-leading accuracy across 60 languages, up to 10x faster performance than competitors, and superior cost-efficiency.",
+            "link": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788451200000,
+            "date": "2026-09-03",
+            "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+            "summary_kr": "엔비디아의 PAIR(Personal AI Router)는 로컬 네트워크 내 여러 기기의 유휴 컴퓨팅 자원을 활용해 AI 에이전트의 다중 추론 요청을 분산 처리함으로써 병목 현상을 해소하고 작업 속도를 최적화합니다.",
+            "summary_en": "NVIDIA’s Personal AI Router (PAIR) optimizes AI agent performance by distributing multi-agent inference workloads across available local hardware, effectively eliminating bottlenecks without requiring changes to existing agent configurations.",
+            "link": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788447900000,
+            "date": "2026-09-03",
+            "title": "5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience",
+            "summary_kr": "AI 기술을 활용해 초파리 수컷의 뇌 신경망을 세계 최초로 완전히 매핑함으로써, 뇌 기능 연구와 신경과학 발전을 위한 획기적인 토대를 마련했습니다.",
+            "summary_en": "Researchers have leveraged AI to achieve the first complete neural map of an adult male fruit fly, establishing a foundational resource that significantly advances neuroscience and brain function studies.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map"
+        },
         {
             "company": "Google",
             "timestamp": 1788447600000,
@@ -873,33 +900,6 @@
             "summary_kr": "엔비디아 cuML과 cuVS 25.06은 다중 GPU를 활용해 UMAP의 kNN 그래프 구축 단계를 분산 처리함으로써, 대규모 데이터셋의 분석 시간을 기존 수일에서 수 분 단위로 획기적으로 단축했습니다.",
             "summary_en": "NVIDIA cuML and cuVS 25.06 significantly accelerate massive-scale UMAP processing by distributing kNN graph construction across multiple GPUs, reducing computation time from days to minutes without compromising accuracy.",
             "link": "https://developer.nvidia.com/blog/run-massive-scale-umap-in-minutes-using-multiple-gpus-without-losing-accuracy"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787070979000,
-            "date": "2026-08-18",
-            "title": "High-stakes network decisions, made in minutes: How EDOTCO Group is transforming network planning with AI - Source Asia",
-            "summary_kr": "EDOTCO 그룹은 마이크로소프트 애저 기반의 AI 도구인 'NaPA GPT'를 도입해, 복잡한 통신망 설계 데이터를 자연어로 즉시 분석함으로써 기지국 최적 입지 선정 업무를 며칠에서 수 분 단위로 단축했습니다.",
-            "summary_en": "EDOTCO Group has transformed network planning by implementing 'NaPA GPT', an AI-powered tool on Microsoft Azure that enables planners to extract actionable insights from complex geospatial data in minutes via natural language queries.",
-            "link": "https://news.microsoft.com/source/asia/features/high-stakes-network-decisions-made-in-minutes-how-edotco-group-is-transforming-network-planning-with-ai"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1787068800000,
-            "date": "2026-08-18",
-            "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
-            "summary_kr": "구글은 AI 모델과 방대한 데이터를 활용해 전 세계 홍수를 예측하는 'Flood Hub'를 운영하며, 특히 데이터가 부족한 도시 지역의 돌발 홍수 예측을 위해 'Groundsource' 기술로 새로운 데이터셋을 구축했습니다.",
-            "summary_en": "Google leverages AI and diverse global data through its 'Flood Hub' to predict riverine floods, and has recently introduced 'Groundsource' to create new datasets for forecasting urban flash floods in data-scarce regions.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787050800000,
-            "date": "2026-08-18",
-            "title": "Pacing model development in an era of cyber-critical capabilities",
-            "summary_kr": "AI 모델의 사이버 보안 위험이 증가함에 따라, 개발사는 안전성 확보를 위해 모델 훈련 속도를 일시적으로 늦추고 모니터링, 정렬, 보안 조치를 대폭 강화하고 있습니다.",
-            "summary_en": "As AI models reach critical cybersecurity capability thresholds, the company has temporarily slowed development to strengthen monitoring, alignment, and security safeguards.",
-            "link": "https://openai.com/index/pacing-model-development-cyber-capabilities"
         }
     ]
 }
