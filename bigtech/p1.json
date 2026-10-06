@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-10-05 22:14:26",
+    "last_update": "2026-10-06 20:39:36",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791313622000,
+            "date": "2026-10-06",
+            "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
+            "summary_kr": "NVIDIA의 DOCA GPUNetIO는 CPU 개입 없이 GPU가 네트워크 연산을 직접 제어하게 함으로써 지연 시간을 줄이고, 파편화된 통신 라이브러리들을 통합하여 개발 효율성과 생태계 확장성을 극대화합니다.",
+            "summary_en": "NVIDIA's DOCA GPUNetIO minimizes latency by enabling GPU-initiated networking without CPU intervention, while providing a unified architectural foundation that streamlines development across diverse communication libraries.",
+            "link": "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1791309600000,
+            "date": "2026-10-06",
+            "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+            "summary_kr": "구글 연구진은 비전문 의료인도 간단한 초음파 촬영을 할 수 있도록 돕는 AI 모델을 개발하여, 의료 인프라가 부족한 지역의 임산부들에게 정확한 태아 정보를 제공함으로써 의료 접근성을 개선하고 있습니다.",
+            "summary_en": "Google researchers have developed an AI model that enables non-specialized healthcare workers to perform and interpret ultrasounds, significantly improving prenatal care access for pregnant women in resource-limited regions.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791303546000,
+            "date": "2026-10-06",
+            "title": "What AI gets wrong and what failure teaches us - Microsoft Research",
+            "summary_kr": "마이크로소프트의 제니퍼 네빌 박사는 AI 모델의 성능을 향상시키기 위해 전통적인 벤치마크를 넘어선 평가의 중요성을 강조하며, 예기치 못한 실패 사례에서 배우는 데이터 분석의 통찰을 공유합니다.",
+            "summary_en": "Microsoft's Jennifer Neville highlights the necessity of evaluating AI beyond traditional benchmarks to push performance boundaries, emphasizing the value of analyzing unexpected model failures to gain deeper insights.",
+            "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791303227000,
+            "date": "2026-10-06",
+            "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+            "summary_kr": "NVIDIA의 AICR v1.0은 복잡한 GPU 쿠버네티스 클러스터 구성의 호환성 문제를 해결하기 위해 검증된 '레시피'와 버전 잠금 방식을 제공하여 신뢰할 수 있는 표준화된 배포 환경을 구축합니다.",
+            "summary_en": "NVIDIA’s AICR v1.0 introduces version-locked, validated configuration recipes to resolve complex compatibility issues in GPU-accelerated Kubernetes clusters, enabling reproducible and verifiable deployments.",
+            "link": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1791302400000,
+            "date": "2026-10-06",
+            "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
+            "summary_kr": "구글 플로우 뮤직(Google Flow Music)의 'Spaces' 기능을 통해 프로듀서들은 코딩 없이 자연어 명령만으로 맞춤형 악기와 효과를 제작하고, 이를 VST3/AU 플러그인으로 내보내 실제 작업 환경에서 활용할 수 있게 되었습니다.",
+            "summary_en": "Google Flow Music’s 'Spaces' now allows producers to build custom instruments and effects using natural language, which can be exported as VST3/AU plugins for seamless integration into professional DAWs.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791302400000,
+            "date": "2026-10-06",
+            "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+            "summary_kr": "아틀라시안과 오픈AI의 파트너십 확대로 아틀라시안의 플랫폼 전반에 최신 GPT 모델이 통합되며, '팀워크 그래프'를 기반으로 한 AI 에이전트가 기업의 복잡한 업무 맥락을 파악하고 실행을 지원하게 됩니다.",
+            "summary_en": "Atlassian and OpenAI are expanding their partnership to integrate frontier GPT models into the Atlassian platform, leveraging the 'Teamwork Graph' to power AI agents that transform enterprise knowledge into actionable workflows.",
+            "link": "https://openai.com/index/atlassian-partnership"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791298800000,
+            "date": "2026-10-06",
+            "title": "Control How Your GPU Shares Work with Green Contexts",
+            "summary_kr": "NVIDIA의 'Green Contexts'는 GPU 내 연산 자원과 작업 대기열을 명시적으로 분할하여, 복합적인 AI 워크로드 간의 간섭을 줄이고 실행 효율을 극대화하는 경량화된 프로그래밍 모델을 제공합니다.",
+            "summary_en": "NVIDIA's 'Green Contexts' introduce a lightweight, explicit programming model that allows applications to partition GPU execution resources and workqueues, effectively minimizing interference between concurrent workloads.",
+            "link": "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791280800000,
+            "date": "2026-10-06",
+            "title": "Advancing computer use with Ironclad",
+            "summary_kr": "OpenAI는 법률 기술 기업 아이언클래드(Ironclad)와 협력하여 복잡한 실무 워크플로우를 처리하는 AI 에이전트의 성능을 고도화하고 있으며, 최신 모델인 GPT-6 Astra는 이전 모델 대비 성능과 효율성 면에서 큰 성과를 거두었습니다.",
+            "summary_en": "OpenAI is partnering with Ironclad to train AI agents on complex professional workflows, with the new GPT-6 Astra model demonstrating significant improvements in task accuracy and processing efficiency compared to its predecessor.",
+            "link": "https://openai.com/index/advancing-computer-use-with-ironclad"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791244800000,
+            "date": "2026-10-06",
+            "title": "Expanding the Cyber Verification Program",
+            "summary_kr": "앤스로픽은 보안 전문가들이 자사의 고성능 AI 모델을 안전하게 활용할 수 있도록 지원하는 '사이버 검증 프로그램(CVP)'을 3단계 접근 권한 체계로 개편 및 확대합니다.",
+            "summary_en": "Anthropic has expanded its Cyber Verification Program (CVP) into a three-tiered access system, enabling vetted security professionals to utilize advanced AI models for defensive and authorized offensive cybersecurity tasks.",
+            "link": "https://www.anthropic.com/news/cyber-verification-program"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1791221536000,
@@ -819,87 +900,6 @@
             "summary_kr": "OpenAI는 프론티어 AI 모델의 안전성을 보장하기 위해 외부 기관의 독립적인 평가를 활성화하고, 이를 뒷받침할 엄격한 기준과 보안 체계를 마련하여 책임 있는 AI 개발을 추진합니다.",
             "summary_en": "OpenAI is committed to fostering rigorous, independent third-party assessments of its frontier AI models by providing deep access and establishing clear, secure standards to ensure verifiable safety and accountability.",
             "link": "https://openai.com/index/priorities-principles-third-party-assessments"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1790035200000,
-            "date": "2026-09-22",
-            "title": "How SpaceXAI is using Grok Bot to scale customer support",
-            "summary_kr": "SpaceXAI는 Grok Bot을 고객 지원 업무에 통합하여 인력 충원 없이 지원 요청을 175% 처리하고 비용을 기존 대비 10분의 1 수준으로 절감했습니다.",
-            "summary_en": "SpaceXAI successfully scaled its customer support operations by integrating Grok Bot, handling a 175% increase in tickets without additional headcount while significantly reducing costs.",
-            "link": "https://x.ai/news/grok-bot-customer-support"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790027466000,
-            "date": "2026-09-21",
-            "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA",
-            "summary_kr": "NVIDIA TensorRT 11.0과 Dynamo-Triton은 다중 GPU를 활용한 추론을 단일 모델 엔드포인트로 통합하여 복잡한 설정 없이도 대규모 생성형 AI 모델의 지연 시간을 획기적으로 단축합니다.",
-            "summary_en": "NVIDIA TensorRT 11.0 and Dynamo-Triton enable seamless multi-GPU inference through a single model endpoint, significantly reducing latency for large-scale generative AI models without added client-side complexity.",
-            "link": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790024728000,
-            "date": "2026-09-21",
-            "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
-            "summary_kr": "AI 에이전트 평가 방식은 단순한 개별 호출 검증을 넘어, 복합적인 단계별 작업 수행 능력과 최종 결과 달성 여부를 확인하는 '환경 기반 평가'로 진화하고 있습니다.",
-            "summary_en": "AI agent evaluation is evolving from simple function-call verification to environment-based assessment, focusing on multi-step task execution and final outcome success.",
-            "link": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790012913000,
-            "date": "2026-09-21",
-            "title": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South - Source Asia",
-            "summary_kr": "마이크로소프트가 인도 하이데라바드에 새로운 데이터센터를 가동하며 인도를 아시아 및 글로벌 사우스의 AI 거점으로 격상시키고, 강력한 AI 인프라와 인재 양성을 통해 국가적 경제 성장을 견인합니다.",
-            "summary_en": "Microsoft has launched its new Hyderabad datacenter, establishing India as a strategic AI hub for Asia and the Global South while driving economic growth through advanced cloud infrastructure and large-scale AI skill development.",
-            "link": "https://news.microsoft.com/source/asia/2026/09/21/ai-ambition-into-action-microsoft-brings-ai-ready-capabilities-across-its-india-cloud-infrastructure-establishes-india-south-central-region-as-a-strategic-hub-for-asia-and-global-south"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790002800000,
-            "date": "2026-09-21",
-            "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
-            "summary_kr": "NVIDIA Earth-2의 AI 데이터 동화 기술인 SDA는 실시간 관측 데이터를 기존 AI 기상 모델에 결합하여 재학습 없이도 빠르고 정밀한 맞춤형 기상 예측을 가능하게 합니다.",
-            "summary_en": "NVIDIA Earth-2’s AI data assimilation tool, SDA, enables faster and more precise tailored weather forecasting by integrating real-time observational data into existing AI models without the need for retraining.",
-            "link": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790002583000,
-            "date": "2026-09-21",
-            "title": "RetroChimera: Microsoft and Partners Launch AI Model for Automated Retrosynthesis",
-            "summary_kr": "마이크로소프트와 주요 제약사들이 개발한 'RetroChimera'는 여러 AI 모델을 결합해 복잡한 분자 합성 경로를 정확하게 예측하며, 실제 신약 개발 현장에 최적화된 맞춤형 솔루션을 제공합니다.",
-            "summary_en": "Microsoft and its partners developed 'RetroChimera,' an AI model that combines multiple approaches to accurately predict complex molecular synthesis pathways, offering a scalable solution for real-world drug discovery.",
-            "link": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789992000000,
-            "date": "2026-09-21",
-            "title": "Advisory Group on Mathematics and Artificial Intelligence",
-            "summary_kr": "OpenAI는 자사 AI 모델이 수학계의 난제들을 급격히 해결함에 따라, 학계와의 협력을 강화하고 독립적인 수학 자문 그룹을 구성하여 책임 있는 기술 개발과 소통을 도모하기로 했습니다.",
-            "summary_en": "As OpenAI's AI model rapidly solves long-standing mathematical problems, the company is establishing an independent advisory group to ensure responsible development and transparent engagement with the global mathematics community.",
-            "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789992000000,
-            "date": "2026-09-21",
-            "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-            "summary_kr": "Higgsfield AI는 GPT-6 Astra를 도입하여 소상공인을 위한 비디오 광고 제작 효율을 높이고, 단일 엔지니어가 하루 만에 신규 기능을 개발할 수 있는 혁신적인 개발 속도를 달성했습니다.",
-            "summary_en": "Higgsfield AI has integrated GPT-6 Astra to streamline video ad creation for small businesses while enabling a single engineer to deploy new features in just one day.",
-            "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789984800000,
-            "date": "2026-09-21",
-            "title": "Building standards for the next phase of AI",
-            "summary_kr": "오픈AI는 범용 인공지능(AGI)의 혜택을 인류에게 안전하게 전달하기 위해 자동화된 AI 연구 체계 구축과 강력한 정렬 연구, 그리고 국제적인 안전 표준 수립을 강조합니다.",
-            "summary_en": "OpenAI emphasizes the need for automated AI research, rigorous alignment, and international safety standards to safely harness the benefits of AGI for humanity while maintaining human control.",
-            "link": "https://openai.com/index/building-standards-next-phase-ai"
         }
     ]
 }

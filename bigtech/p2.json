@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-10-05 22:14:26",
+    "last_update": "2026-10-06 20:39:36",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1790035200000,
+            "date": "2026-09-22",
+            "title": "How SpaceXAI is using Grok Bot to scale customer support",
+            "summary_kr": "SpaceXAI는 Grok Bot을 고객 지원 업무에 통합하여 인력 충원 없이 지원 요청을 175% 처리하고 비용을 기존 대비 10분의 1 수준으로 절감했습니다.",
+            "summary_en": "SpaceXAI successfully scaled its customer support operations by integrating Grok Bot, handling a 175% increase in tickets without additional headcount while significantly reducing costs.",
+            "link": "https://x.ai/news/grok-bot-customer-support"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790027466000,
+            "date": "2026-09-21",
+            "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA",
+            "summary_kr": "NVIDIA TensorRT 11.0과 Dynamo-Triton은 다중 GPU를 활용한 추론을 단일 모델 엔드포인트로 통합하여 복잡한 설정 없이도 대규모 생성형 AI 모델의 지연 시간을 획기적으로 단축합니다.",
+            "summary_en": "NVIDIA TensorRT 11.0 and Dynamo-Triton enable seamless multi-GPU inference through a single model endpoint, significantly reducing latency for large-scale generative AI models without added client-side complexity.",
+            "link": "https://developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790024728000,
+            "date": "2026-09-21",
+            "title": "How to Evaluate AI Agents From Tool Calls to Task Completion",
+            "summary_kr": "AI 에이전트 평가 방식은 단순한 개별 호출 검증을 넘어, 복합적인 단계별 작업 수행 능력과 최종 결과 달성 여부를 확인하는 '환경 기반 평가'로 진화하고 있습니다.",
+            "summary_en": "AI agent evaluation is evolving from simple function-call verification to environment-based assessment, focusing on multi-step task execution and final outcome success.",
+            "link": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790012913000,
+            "date": "2026-09-21",
+            "title": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South - Source Asia",
+            "summary_kr": "마이크로소프트가 인도 하이데라바드에 새로운 데이터센터를 가동하며 인도를 아시아 및 글로벌 사우스의 AI 거점으로 격상시키고, 강력한 AI 인프라와 인재 양성을 통해 국가적 경제 성장을 견인합니다.",
+            "summary_en": "Microsoft has launched its new Hyderabad datacenter, establishing India as a strategic AI hub for Asia and the Global South while driving economic growth through advanced cloud infrastructure and large-scale AI skill development.",
+            "link": "https://news.microsoft.com/source/asia/2026/09/21/ai-ambition-into-action-microsoft-brings-ai-ready-capabilities-across-its-india-cloud-infrastructure-establishes-india-south-central-region-as-a-strategic-hub-for-asia-and-global-south"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790002800000,
+            "date": "2026-09-21",
+            "title": "Turn Your Latest Observations Into Timely Weather Decisions With NVIDIA Earth-2",
+            "summary_kr": "NVIDIA Earth-2의 AI 데이터 동화 기술인 SDA는 실시간 관측 데이터를 기존 AI 기상 모델에 결합하여 재학습 없이도 빠르고 정밀한 맞춤형 기상 예측을 가능하게 합니다.",
+            "summary_en": "NVIDIA Earth-2’s AI data assimilation tool, SDA, enables faster and more precise tailored weather forecasting by integrating real-time observational data into existing AI models without the need for retraining.",
+            "link": "https://developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790002583000,
+            "date": "2026-09-21",
+            "title": "RetroChimera: Microsoft and Partners Launch AI Model for Automated Retrosynthesis",
+            "summary_kr": "마이크로소프트와 주요 제약사들이 개발한 'RetroChimera'는 여러 AI 모델을 결합해 복잡한 분자 합성 경로를 정확하게 예측하며, 실제 신약 개발 현장에 최적화된 맞춤형 솔루션을 제공합니다.",
+            "summary_en": "Microsoft and its partners developed 'RetroChimera,' an AI model that combines multiple approaches to accurately predict complex molecular synthesis pathways, offering a scalable solution for real-world drug discovery.",
+            "link": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789992000000,
+            "date": "2026-09-21",
+            "title": "Advisory Group on Mathematics and Artificial Intelligence",
+            "summary_kr": "OpenAI는 자사 AI 모델이 수학계의 난제들을 급격히 해결함에 따라, 학계와의 협력을 강화하고 독립적인 수학 자문 그룹을 구성하여 책임 있는 기술 개발과 소통을 도모하기로 했습니다.",
+            "summary_en": "As OpenAI's AI model rapidly solves long-standing mathematical problems, the company is establishing an independent advisory group to ensure responsible development and transparent engagement with the global mathematics community.",
+            "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789992000000,
+            "date": "2026-09-21",
+            "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+            "summary_kr": "Higgsfield AI는 GPT-6 Astra를 도입하여 소상공인을 위한 비디오 광고 제작 효율을 높이고, 단일 엔지니어가 하루 만에 신규 기능을 개발할 수 있는 혁신적인 개발 속도를 달성했습니다.",
+            "summary_en": "Higgsfield AI has integrated GPT-6 Astra to streamline video ad creation for small businesses while enabling a single engineer to deploy new features in just one day.",
+            "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789984800000,
+            "date": "2026-09-21",
+            "title": "Building standards for the next phase of AI",
+            "summary_kr": "오픈AI는 범용 인공지능(AGI)의 혜택을 인류에게 안전하게 전달하기 위해 자동화된 AI 연구 체계 구축과 강력한 정렬 연구, 그리고 국제적인 안전 표준 수립을 강조합니다.",
+            "summary_en": "OpenAI emphasizes the need for automated AI research, rigorous alignment, and international safety standards to safely harness the benefits of AGI for humanity while maintaining human control.",
+            "link": "https://openai.com/index/building-standards-next-phase-ai"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1789974000000,
@@ -819,87 +900,6 @@
             "summary_kr": "NVIDIA NemoClaw를 활용한 메모리 기반 에이전트는 구조화된 지식 레이어를 통해 기업 환경의 맥락을 지속적으로 유지하며, 데이터 관리와 거버넌스를 결합하여 생산성을 극대화합니다.",
             "summary_en": "NVIDIA NemoClaw-based memory-driven agents maintain enterprise context through a structured knowledge layer, optimizing productivity by balancing data governance with intelligent, intent-aligned decision-making.",
             "link": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788538864000,
-            "date": "2026-09-04",
-            "title": "Frontier Reasoning Reaches the Edge: How to Deploy and Optimize Models on NVIDIA Jetson",
-            "summary_kr": "소형화된 고성능 AI 모델의 등장으로 엔비디아 젯슨(Jetson) 엣지 환경에서도 복잡한 추론 및 에이전트 구동이 가능해졌으며, 최적화 기법을 통해 로컬 환경에서의 효율적인 배포가 실현되었습니다.",
-            "summary_en": "The emergence of compact, high-performance models now enables sophisticated reasoning and agentic AI on NVIDIA Jetson, allowing for efficient local deployment through advanced optimization techniques.",
-            "link": "https://developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788488700000,
-            "date": "2026-09-04",
-            "title": "GPT-6 Astra: Frontier intelligence for work, now available in Microsoft Foundry| Microsoft Azure Blog",
-            "summary_kr": "마이크로소프트는 기업용 에이전트 모델 'GPT-6 Astra'를 Microsoft Foundry를 통해 공개하며, 단순 대화를 넘어 복잡한 업무를 스스로 계획하고 실행하는 차세대 엔터프라이즈 AI 시대를 열었습니다.",
-            "summary_en": "Microsoft has launched GPT-6 Astra via Microsoft Foundry, introducing an advanced agentic model capable of autonomous reasoning and cross-application execution to transform enterprise workflows.",
-            "link": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788480000000,
-            "date": "2026-09-04",
-            "title": "Formalizing Fermat's Last Theorem",
-            "summary_kr": "Anthropic의 AI 모델 'Claude'가 11일 만에 페르마의 마지막 정리를 Lean 언어로 완전히 형식화하여 최초의 컴퓨터 검증 증명을 성공적으로 생성했습니다.",
-            "summary_en": "Anthropic’s AI model 'Claude' has achieved the first computer-checked formalization of Fermat’s Last Theorem in the Lean language, completing the task largely autonomously in just 11 days.",
-            "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788474962000,
-            "date": "2026-09-03",
-            "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
-            "summary_kr": "분산된 AI 및 데이터 플랫폼 환경에서 중앙 ID 게이트웨이 패턴을 도입하여 SSO의 한계를 극복하고, 클러스터 전반에 걸쳐 일관되고 안전한 사용자 인증 정보를 전파할 수 있습니다.",
-            "summary_en": "Adopting a central identity gateway pattern overcomes SSO limitations in distributed AI and data platforms by consistently and securely propagating user identity across federated environments.",
-            "link": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788441300000,
-            "date": "2026-09-03",
-            "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-            "summary_kr": "OpenAI는 자원이 부족한 필수 서비스 운영 기관들이 사이버 위협에 대응할 수 있도록 10억 달러 규모의 'Daybreak' AI 모델 및 기술 지원 이니셔티브를 발표했습니다.",
-            "summary_en": "OpenAI has launched a $1 billion 'Daybreak' initiative to provide resource-constrained essential service providers with frontier AI tools and technical support to bolster their cybersecurity defenses.",
-            "link": "https://openai.com/index/daybreak-for-frontline-defenders"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788436800000,
-            "date": "2026-09-03",
-            "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-            "summary_kr": "Legora는 GPT-6 Astra를 활용해 수일이 걸리던 재무제표 대조 작업을 단 몇 분 만에 완료하며 업무 정확도를 40% 향상시켰습니다.",
-            "summary_en": "Legora leveraged GPT-6 Astra to automate complex financial-statement tie-outs, reducing processing time from days to minutes while improving benchmark accuracy by 40%.",
-            "link": "https://openai.com/index/legora-financial-statement-review-with-astra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788436800000,
-            "date": "2026-09-03",
-            "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-            "summary_kr": "게임 개발사 Playco는 GPT-6 Astra를 활용하여 게임 엔진 내 자동화된 프로토타이핑을 구현함으로써 수동 수정 작업을 50% 줄이고 개발 효율성을 혁신했습니다.",
-            "summary_en": "Playco leveraged GPT-6 Astra to automate game prototyping within development engines, achieving a 50% reduction in manual fixes and accelerating the creative iteration process.",
-            "link": "https://openai.com/index/playco-game-prototyping-with-astra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788393600000,
-            "date": "2026-09-03",
-            "title": "Safety overview: GPT-6 Astra",
-            "summary_kr": "GPT-6 Astra는 강력한 사이버 보안 능력을 갖춘 최상위 모델로, 강화된 정렬 기술과 모니터링 체계를 통해 잠재적 위험을 관리하지만 일부 모니터링 우회 가능성도 존재합니다.",
-            "summary_en": "GPT-6 Astra is a highly capable model reaching critical cybersecurity thresholds, featuring advanced alignment and monitoring systems to mitigate risks despite identified challenges in complete monitorability.",
-            "link": "https://openai.com/index/safety-overview-gpt-6-astra"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1788393600000,
-            "date": "2026-09-03",
-            "title": "Grok Bot for Enterprise",
-            "summary_kr": "Grok Bot이 기업용으로 출시되어, 자율적인 AI 에이전트가 업무 흐름을 학습하고 다양한 비즈니스 도구를 활용해 24시간 실무를 처리할 수 있게 되었습니다. 이번 업데이트는 기업 수준의 보안 및 거버넌스 기능을 제공하여 대규모 조직의 생산성을 극대화합니다.",
-            "summary_en": "Grok Bot has launched for enterprises, offering autonomous AI agents that learn workflows to execute end-to-end tasks across existing business tools. The release includes robust enterprise-grade governance and security controls to support large-scale organizational productivity.",
-            "link": "https://x.ai/news/grok-bot-for-enterprise"
         }
     ]
 }
