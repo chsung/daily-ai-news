@@ -1,6 +1,114 @@
 {
-    "last_update": "2026-10-06 20:39:36",
+    "last_update": "2026-10-07 20:53:15",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1788867000000,
+            "date": "2026-09-08",
+            "title": "Introducing ChatGPT Images 2.5",
+            "summary_kr": "OpenAI는 화질 개선, 생성 속도 2배 향상, 정교한 편집 기능을 갖춘 차세대 이미지 모델 'ChatGPT Images 2.5'를 출시했습니다.",
+            "summary_en": "OpenAI has launched 'ChatGPT Images 2.5,' a state-of-the-art model featuring enhanced image quality, 50% faster generation, and more precise editing capabilities.",
+            "link": "https://openai.com/index/introducing-chatgpt-images-2-5"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788861600000,
+            "date": "2026-09-08",
+            "title": "On the Navier–Stokes Millennium Prize Problem",
+            "summary_kr": "OpenAI가 차세대 AI 모델을 통해 90년 동안 미해결 과제였던 나비에-스토크스 방정식의 해를 증명하며 수학계의 난제인 밀레니엄 문제 해결을 공식화했습니다.",
+            "summary_en": "OpenAI has resolved the long-standing Navier–Stokes Millennium Prize problem using a next-generation AI model, demonstrating that fluid dynamics can develop a singularity in finite time.",
+            "link": "https://openai.com/index/navier-stokes-solution"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788858000000,
+            "date": "2026-09-08",
+            "title": "Funding grants for new research into AI and teen development",
+            "summary_kr": "OpenAI는 생성형 AI가 13~17세 청소년의 발달에 미치는 영향을 체계적으로 분석하기 위해 500만 달러 규모의 독립 연구 지원 프로그램을 시작합니다.",
+            "summary_en": "OpenAI is committing $5 million to fund independent research exploring how generative AI impacts the social, emotional, and developmental well-being of teenagers aged 13–17.",
+            "link": "https://openai.com/index/teen-development-research-grants"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788825600000,
+            "date": "2026-09-08",
+            "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+            "summary_kr": "OpenAI는 저널리즘 교육 현장과의 협력을 통해 차세대 언론인들에게 AI 도구와 교육을 제공함으로써 미디어 산업의 디지털 전환과 역량 강화를 지원합니다.",
+            "summary_en": "OpenAI is expanding its support for journalism by providing AI tools and resources to leading journalism schools, aiming to equip the next generation of reporters with the skills to navigate and shape the future of the industry.",
+            "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788768000000,
+            "date": "2026-09-07",
+            "title": "Our new contrail avoidance trial in Asia-Pacific",
+            "summary_kr": "구글은 캐세이퍼시픽항공과 협력하여 AI 기반 비행 고도 조정을 통해 항공기 비행운으로 인한 온난화 영향을 약 40% 저감하는 아시아-태평양 지역 실증 사업을 확대하고 있습니다.",
+            "summary_en": "Google is expanding its AI-powered contrail avoidance trials in the Asia-Pacific region in partnership with Cathay Pacific, successfully reducing the warming impact of contrails by approximately 40% through optimized flight altitude adjustments.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1788742800000,
+            "date": "2026-09-07",
+            "title": "Backing 16 green AI projects in Asia-Pacific",
+            "summary_kr": "구글 딥마인드는 아시아·태평양 지역의 환경 난제를 해결하기 위해 16개 유망 스타트업 및 연구 조직을 선발하여 AI 기술 지원과 멘토링을 제공하는 액셀러레이터 프로그램을 시작합니다.",
+            "summary_en": "Google DeepMind has launched an accelerator program to support 16 APAC-based organizations by providing access to advanced AI models and mentorship to scale innovative solutions for environmental and climate challenges.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788739200000,
+            "date": "2026-09-07",
+            "title": "Supporting independent journalism in Ukraine",
+            "summary_kr": "OpenAI와 WAN-IFRA, AIRPPU는 우크라이나 독립 언론의 회복력과 지속 가능성을 높이기 위해 AI 기술 도입 및 비즈니스 혁신을 지원하는 협력 프로그램을 시작합니다.",
+            "summary_en": "OpenAI, WAN-IFRA, and AIRPPU have launched a joint initiative to support Ukrainian independent news publishers by integrating AI technologies and fostering operational innovation for long-term resilience.",
+            "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788685200000,
+            "date": "2026-09-06",
+            "title": "An Alien Mind",
+            "summary_kr": "AI의 추론 능력 향상과 가파른 확장 속도는 머지않아 인간의 지능을 초월한 시스템의 출현을 예고하며, 이에 따른 통제 불능의 위험과 사회적 대응의 시급성을 경고합니다.",
+            "summary_en": "The rapid advancement and scaling of reasoning AI point toward the emergence of superhuman intelligence, necessitating extreme caution and broader societal intervention to address the risks of autonomous development.",
+            "link": "https://openai.com/index/an-alien-mind"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788681600000,
+            "date": "2026-09-06",
+            "title": "Research acceleration: The view inside OpenAI",
+            "summary_kr": "OpenAI는 연구 가속화를 위해 자동화된 AI 연구 에이전트를 도입하고 있으며, 이를 인간의 감독하에 책임감 있게 활용하여 AI 안전성과 정렬 연구를 고도화하겠다는 전략을 밝혔습니다.",
+            "summary_en": "OpenAI is accelerating research by deploying automated AI research agents under human supervision, strategically leveraging these tools to advance AI safety and alignment while maintaining human control.",
+            "link": "https://openai.com/index/research-acceleration-view-inside-openai"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1788480000000,
+            "date": "2026-09-04",
+            "title": "Setting Grok Bot loose on procurement",
+            "summary_kr": "기업이 구매 데이터와 계약 정보를 AI 봇(Haggle Bot)에 연동해 실시간으로 분석함으로써 10만 달러 이상의 비용을 절감하고 효율적인 협상을 수행한 사례를 제시합니다.",
+            "summary_en": "By integrating procurement data with an AI agent, the company successfully identified over $100,000 in savings and streamlined vendor negotiations through automated data analysis and decision support.",
+            "link": "https://x.ai/news/grok-bot-procurement"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1788433200000,
+            "date": "2026-09-03",
+            "title": "GPT-6 Astra: A new generation of intelligence",
+            "summary_kr": "오픈AI가 공개한 'GPT-6 Astra'는 수학, 과학, 소프트웨어 공학 등 전문 분야에서 압도적인 성능과 안정성을 갖춘 차세대 모델로, PC 및 브라우저 제어 능력을 극대화하여 복잡한 업무를 자동화합니다.",
+            "summary_en": "OpenAI’s 'GPT-6 Astra' is a next-generation model delivering state-of-the-art performance in complex professional tasks and reasoning, while significantly enhancing autonomous computer and browser-use capabilities with superior safety.",
+            "link": "https://openai.com/index/gpt-6-astra"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1788545095000,
+            "date": "2026-09-04",
+            "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
+            "summary_kr": "NVIDIA NemoClaw를 활용한 메모리 기반 에이전트는 구조화된 지식 레이어를 통해 기업 환경의 맥락을 지속적으로 유지하며, 데이터 관리와 거버넌스를 결합하여 생산성을 극대화합니다.",
+            "summary_en": "NVIDIA NemoClaw-based memory-driven agents maintain enterprise context through a structured knowledge layer, optimizing productivity by balancing data governance with intelligent, intent-aligned decision-making.",
+            "link": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1788538864000,
@@ -792,114 +900,6 @@
             "summary_kr": "구글 딥마인드의 페이지 베일리는 AI의 '풀스택' 개념을 인프라, 보안, 연구, 모델 및 도구, 제품이라는 5가지 핵심 계층의 유기적 결합으로 정의합니다.",
             "summary_en": "Google DeepMind's Paige Bailey defines 'full-stack' AI as the seamless integration of five critical layers: infrastructure, security, research, models & tooling, and products.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787324400000,
-            "date": "2026-08-21",
-            "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
-            "summary_kr": "NVIDIA DSX MaxLPS는 정적인 전력 할당 방식에서 벗어나 동적 전력 관리와 냉각 효율화를 통해 제한된 전력 예산 내에서 AI 공장의 컴퓨팅 성능을 극대화합니다.",
-            "summary_en": "NVIDIA DSX MaxLPS maximizes AI factory throughput within fixed power constraints by replacing static provisioning with dynamic power allocation and enhanced thermal efficiency.",
-            "link": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787317200000,
-            "date": "2026-08-21",
-            "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose",
-            "summary_kr": "NVIDIA가 개발한 범용 AI 에이전트 아키텍처 AVO는 지속적인 자율 운영과 피드백 루프를 통해 복잡한 GPU 커널 최적화 및 ARC-AGI-3 벤치마크에서 뛰어난 성과를 입증했습니다.",
-            "summary_en": "NVIDIA's AVO, a general-purpose agent architecture, demonstrates high-level autonomous performance in complex tasks like GPU-kernel optimization and the ARC-AGI-3 benchmark through sustained, long-running agentic operations.",
-            "link": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787317200000,
-            "date": "2026-08-21",
-            "title": "Where Security Fits in an AI Agent Stack",
-            "summary_kr": "AI 에이전트의 복잡성과 자율성이 증가함에 따라, 행동을 유도하는 '하니스(harness)' 계층과 권한을 제한하는 '인프라' 계층의 다층적 보안 체계 구축이 필수적입니다.",
-            "summary_en": "As AI agents grow more autonomous, establishing a multi-layered security architecture that combines behavioral guidance at the harness level with strict authorization at the infrastructure level is essential.",
-            "link": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787209200000,
-            "date": "2026-08-20",
-            "title": "Introducing AI Futures",
-            "summary_kr": "OpenAI의 전략 미래 팀은 AI 기술 발달로 인해 권력이 인간의 협력 없이도 유지될 수 있는 상황에서, 민주주의 사회의 개인의 자유와 주체성을 어떻게 보존할 것인가라는 구조적 문제를 탐구합니다.",
-            "summary_en": "OpenAI's Strategic Futures team explores how to preserve individual rights and agency in free societies, addressing the structural risk that AI advancements could allow power to be sustained without human cooperation.",
-            "link": "https://openai.com/index/introducing-ai-futures"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1787097600000,
-            "date": "2026-08-19",
-            "title": "Grok Build on web and mobile",
-            "summary_kr": "xAI의 'Grok Build'가 모든 요금제와 기기로 확대되어, 사용자가 대화만으로 웹 및 모바일 앱을 즉시 생성하고 공유하며 API를 연동할 수 있게 되었습니다.",
-            "summary_en": "xAI's 'Grok Build' is now available across all plans and devices, allowing users to instantly create, share, and integrate AI-powered web and mobile apps directly through natural language prompts.",
-            "link": "https://x.ai/news/grok-build-for-everyone"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787241600000,
-            "date": "2026-08-20",
-            "title": "How Generative Recommenders Are Redefining RecSys at Scale",
-            "summary_kr": "추천 시스템이 기존 임베딩 기반 방식에서 거대언어모델(LLM)과 유사한 생성형 모델로 진화하며 데이터 규모와 복잡성 문제를 해결하고, 처리 효율성을 높이는 방향으로 변화하고 있습니다.",
-            "summary_en": "Recommender systems are shifting from traditional embedding-based methods to generative, sequence-modeling architectures similar to LLMs to better handle scale, sparsity, and complex production requirements.",
-            "link": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787239975000,
-            "date": "2026-08-20",
-            "title": "The Enterprise Journey, Reimagined with AI Agents",
-            "summary_kr": "Maven AGI는 단순한 응대를 넘어 기업의 기존 시스템과 통합되어 고객 여정 전반의 문제를 종단간(end-to-end)으로 해결하는 AI 에이전트를 통해 고객 경험과 운영 효율성을 혁신합니다.",
-            "summary_en": "Maven AGI transforms customer support by deploying AI agents that integrate with existing enterprise systems to provide end-to-end resolutions, effectively managing the entire customer lifecycle.",
-            "link": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787184000000,
-            "date": "2026-08-20",
-            "title": "How ChatGPT Work helps Stampli move ideas to market",
-            "summary_kr": "스탬플리는 ChatGPT Work와 Codex를 도입하여 복잡한 제품 마케팅과 콘텐츠 제작 과정을 자동화함으로써, 생산성을 3배 이상 높이고 시장 출시 기간을 획기적으로 단축했습니다.",
-            "summary_en": "Stampli accelerated its go-to-market speed by over 3x by integrating ChatGPT Work and Codex to automate complex product marketing workflows and scale content production.",
-            "link": "https://openai.com/index/stampli"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787178157000,
-            "date": "2026-08-19",
-            "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
-            "summary_kr": "엔비디아 Holoscan 플랫폼에서 AI 코딩 에이전트와 CLI 도구를 활용하여 실시간 내시경 세그멘테이션 애플리케이션을 단계적으로 개발하는 효율적인 워크플로우를 제시합니다.",
-            "summary_en": "This article demonstrates an iterative, agentic development workflow that leverages AI coding agents and the Holoscan CLI to efficiently build real-time endoscopic segmentation applications.",
-            "link": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787170517000,
-            "date": "2026-08-19",
-            "title": "AI in education: From experimentation to institutional impact | Microsoft Education Blog",
-            "summary_kr": "교육 현장의 AI 활용이 실험 단계를 넘어 기관 차원의 체계적인 운영으로 나아가고 있으며, 마이크로소프트는 고도화된 컨텍스트와 거버넌스를 갖춘 에이전트 도입을 통해 교육자와 학생의 생산성 및 지원 효율성을 극대화하고자 합니다.",
-            "summary_en": "AI in education is shifting from individual experimentation to institution-wide integration, with Microsoft leveraging agentic workflows, robust governance, and institutional context to enhance educational impact and operational efficiency.",
-            "link": "https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1787166000000,
-            "date": "2026-08-19",
-            "title": "Offering Zero Data Retention for frontier models",
-            "summary_kr": "OpenAI는 고객 데이터의 프라이버시를 유지하면서도 복합적인 위험을 탐지할 수 있도록, 데이터 접근 권한 없이 패턴을 분석하는 '프라이빗 안전 처리(Private Safety Processing)' 기능을 도입합니다.",
-            "summary_en": "OpenAI is introducing 'Private Safety Processing' to detect complex AI risks across multiple interactions without requiring access to sensitive customer content, thereby upholding its zero data retention commitment.",
-            "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1787161847000,
-            "date": "2026-08-19",
-            "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
-            "summary_kr": "NVIDIA FLARE는 데이터 보안을 유지하면서 분산된 환경에서 대규모 멀티모달 모델을 효율적으로 학습시키기 위한 체계적인 연합 학습 워크플로우와 최적화 기법을 제공합니다.",
-            "summary_en": "NVIDIA FLARE provides a systematic federated learning framework and optimization techniques to efficiently train large-scale multimodal models across distributed environments while maintaining data privacy.",
-            "link": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare"
         }
     ]
 }

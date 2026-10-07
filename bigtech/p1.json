@@ -1,6 +1,114 @@
 {
-    "last_update": "2026-10-06 20:39:36",
+    "last_update": "2026-10-07 20:53:15",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791397263000,
+            "date": "2026-10-07",
+            "title": "The Machines that Make the Machines",
+            "summary_kr": "엔비디아 시애틀 로보틱스 연구소는 복잡하고 불확실성이 큰 GB300 슈퍼칩 테스트 트레이 조립을 자동화하기 위해 유연한 로봇 제어 기술을 개발하며 공정 효율화와 생산 지능의 새로운 기준을 제시했습니다.",
+            "summary_en": "NVIDIA's Seattle Robotics Lab is pioneering flexible automation for complex GB300 tester tray assembly, addressing critical challenges in uncertainty and performance to establish a new paradigm for intelligent manufacturing.",
+            "link": "https://developer.nvidia.com/blog/the-machines-that-make-the-machines"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791388800000,
+            "date": "2026-10-07",
+            "title": "Validate AI Factory Changes with Digital Twins and AI Agents",
+            "summary_kr": "AI 팩토리 운영자는 노드 기반 디지털 트윈과 AI 에이전트를 결합하여 하드웨어 도입 전 인프라와 소프트웨어 구성을 사전에 검증함으로써, 운영 효율성을 극대화하고 서비스 출시 시간을 단축할 수 있습니다.",
+            "summary_en": "AI factory operators can maximize operational efficiency and accelerate time-to-market by using node-based digital twins and AI agents to validate infrastructure and software configurations before physical hardware deployment.",
+            "link": "https://developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791388800000,
+            "date": "2026-10-07",
+            "title": "Agent Lightning: Lightweight RL agent-training framework",
+            "summary_kr": "마이크로소프트가 공개한 'Agent Lightning'은 실제 배포 환경의 에이전트 도구를 그대로 활용해 강화학습을 수행하는 경량화 프레임워크로, 효율적인 데이터 학습을 통해 AI 에이전트의 성능을 획기적으로 개선합니다.",
+            "summary_en": "Microsoft's 'Agent Lightning' is a lightweight RL framework that enables training using real-world agent harnesses, significantly boosting AI agent performance through efficient data-driven learning without the need for redundant reimplementation.",
+            "link": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791387900000,
+            "date": "2026-10-07",
+            "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt",
+            "summary_kr": "NVIDIA cuOpt가 도입한 멀티 GPU 기반 mPDLP 솔버는 대규모 선형 계획법 문제를 여러 GPU에 분산 처리함으로써, 기존 대비 10배 빠른 속도와 6배 낮은 메모리 사용량으로 복잡한 의사결정 최적화를 가능하게 합니다.",
+            "summary_en": "NVIDIA cuOpt's new multi-GPU mPDLP solver enables large-scale linear programming by distributing workloads across GPUs, delivering up to 10x faster solve times and 6x lower memory usage for complex decision optimization.",
+            "link": "https://developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791385200000,
+            "date": "2026-10-07",
+            "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton",
+            "summary_kr": "NVIDIA cuPhoton은 센서 데이터 처리부터 분석까지의 전 과정을 GPU에서 처리하는 오픈소스 툴킷으로, 방대한 과학 데이터 분석 시간을 수개월에서 수 분으로 획기적으로 단축합니다.",
+            "summary_en": "NVIDIA cuPhoton is an open-source toolkit that accelerates the entire scientific data pipeline on GPUs, reducing processing times from months to minutes for high-throughput instrumentation.",
+            "link": "https://developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1791381600000,
+            "date": "2026-10-07",
+            "title": "We're making it easier to identify AI-generated content globally.",
+            "summary_kr": "구글은 자사의 AI 워터마크 기술인 'SynthID Detector'를 전 세계에 공개하여 누구나 AI 생성 콘텐츠를 쉽게 식별할 수 있도록 지원합니다.",
+            "summary_en": "Google has expanded global access to its 'SynthID Detector,' allowing anyone to easily identify AI-generated content across images, video, and audio.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791374400000,
+            "date": "2026-10-07",
+            "title": "Helping teens learn, plan, and shape the future of AI",
+            "summary_kr": "OpenAI는 청소년을 위한 'College Planner' 기능을 도입하고 학습 도구를 강화하여, 청소년들이 ChatGPT를 통해 효율적으로 학습하고 대학 진학 준비를 체계적으로 할 수 있도록 지원합니다.",
+            "summary_en": "OpenAI is enhancing its teen-focused platform by introducing 'College Planner' and advanced learning tools, empowering students to navigate academic development and college preparation more effectively.",
+            "link": "https://openai.com/index/teens-learn-and-plan"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791356400000,
+            "date": "2026-10-07",
+            "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+            "summary_kr": "래디슨 호텔 그룹은 액센츄어와 협력하여 챗GPT 플러그인을 개발, 여행자가 대화형 AI 내에서 직접 호텔을 탐색하고 예약할 수 있게 하여 기존 검색 대비 1.5배 높은 전환율을 달성했습니다.",
+            "summary_en": "Radisson Hotel Group partnered with Accenture to launch a ChatGPT plugin that allows users to discover and book hotels directly within the chat interface, achieving a 1.5x higher conversion rate than organic search.",
+            "link": "https://openai.com/index/radisson"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791331200000,
+            "date": "2026-10-07",
+            "title": "GPT-6 and Intelligent UI for everyone",
+            "summary_kr": "GPT-6가 도입한 '인텔리전트 UI'는 사용자의 질문에 맞춰 그래픽, 도표, 대화형 도구 등을 실시간으로 생성하여 시각적 상호작용을 극대화하며, 응답과 사고 과정을 병렬 처리해 사용자 대기 시간을 획기적으로 단축합니다.",
+            "summary_en": "GPT-6 introduces 'Intelligent UI,' which dynamically generates visual and interactive components to enhance user engagement, while enabling the model to interleave reasoning with response generation to significantly reduce wait times.",
+            "link": "https://openai.com/index/gpt-6-for-everyone"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791326487000,
+            "date": "2026-10-06",
+            "title": "How physical AI is transforming manufacturing operations | The Microsoft Cloud Blog",
+            "summary_kr": "물리적 AI는 기계가 주변 환경을 인식하고 스스로 판단해 행동하는 지능형 시스템을 통해 기존의 정형화된 자동화를 넘어 제조 공정의 효율성과 자율성을 극대화하고 있습니다.",
+            "summary_en": "Physical AI transforms manufacturing by enabling systems to perceive, reason, and act in the real world, moving beyond pre-programmed automation toward autonomous, enterprise-wide operational intelligence.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/manufacturing/2026/10/06/physical-ai-in-manufacturing-from-intelligent-machines-to-coordinated-operations"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791288000000,
+            "date": "2026-10-06",
+            "title": "How Jump Trading is scaling quant research with ChatGPT",
+            "summary_kr": "점프 트레이딩은 GPT-6 Astra를 도입하여 복잡하고 긴 호흡의 양적 연구를 자율적으로 수행하는 에이전트 시스템을 구축함으로써 연구 효율성과 규모를 획기적으로 확장하고 있습니다.",
+            "summary_en": "Jump Trading is scaling its quantitative research by leveraging GPT-6 Astra to deploy autonomous agents capable of handling complex, long-horizon tasks within a secure and human-reviewed framework.",
+            "link": "https://openai.com/index/jump-trading"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791288000000,
+            "date": "2026-10-06",
+            "title": "Sharing AI progress in mathematics",
+            "summary_kr": "AI 모델이 도출한 수학적 성과를 투명하게 공개하며, 수학계와의 협력을 통해 학술적 검증 및 활용을 지원하는 새로운 표준을 제시합니다.",
+            "summary_en": "The company is releasing AI-generated mathematical proofs with increased transparency and rigorous documentation, setting new standards for collaboration with the scientific community.",
+            "link": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1791313622000,
@@ -792,114 +900,6 @@
             "summary_kr": "앤스로픽은 생명과학 연구 그룹을 신설하여 AI 모델 '클로드'를 활용해 CRISPR와 유사한 특성을 가진 새로운 효소 시스템을 자율적으로 발견하는 성과를 거두었습니다.",
             "summary_en": "Anthropic has launched a dedicated life sciences research group, utilizing its AI model, Claude, to autonomously discover a novel enzyme system with CRISPR-like characteristics.",
             "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790121600000,
-            "date": "2026-09-23",
-            "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-            "summary_kr": "Grab과 OpenAI는 동남아시아 파트너 3만 명을 대상으로 실무형 AI 활용 교육 프로그램 'GO Forward with AI'를 런칭하여 기술 격차를 해소하고 경제적 기회를 확대합니다.",
-            "summary_en": "Grab and OpenAI have launched 'GO Forward with AI' to equip 30,000 Southeast Asian partners with practical AI skills, aiming to foster business growth and bridge the digital divide.",
-            "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790110800000,
-            "date": "2026-09-22",
-            "title": "Better prompt caching for GPT-6",
-            "summary_kr": "OpenAI는 GPT-6에서 프롬프트 캐싱 시스템을 고도화하여 캐시 적중률을 높이고, 개발자가 캐시 성능을 최적화하고 비용을 최대 90%까지 절감할 수 있는 새로운 모니터링 및 제어 도구를 제공합니다.",
-            "summary_en": "OpenAI has enhanced its prompt caching for GPT-6, delivering higher hit rates and providing new diagnostic tools that enable developers to optimize performance and reduce input token costs by up to 90%.",
-            "link": "https://openai.com/index/better-prompt-caching-for-gpt-6"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790078400000,
-            "date": "2026-09-22",
-            "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-            "summary_kr": "AI 에이전트 기업 Parallel은 GPT-6 Astra를 도입하여 연구 작업의 효율성을 높임으로써, 이전 모델 대비 연구 시간과 비용을 50% 절감하는 성과를 거두었습니다.",
-            "summary_en": "AI agent firm Parallel has achieved a 50% reduction in research time and costs by leveraging GPT-6 Astra, which enables more targeted and efficient execution of complex knowledge tasks.",
-            "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790100373000,
-            "date": "2026-09-22",
-            "title": "Disrupting EvilTokens: The AI Chatbot Built for Cybercrime - Microsoft On the Issues",
-            "summary_kr": "마이크로소프트는 이메일 계정 탈취부터 정교한 금융 사기 전략 수립까지 자동화한 AI 기반 사이버 범죄 플랫폼 'EvilTokens'를 성공적으로 차단했습니다. 이번 조치는 AI가 사이버 공격의 전 과정을 자동화하고 진입 장벽을 낮추는 새로운 위협 양상을 보여줍니다.",
-            "summary_en": "Microsoft has dismantled 'EvilTokens,' an AI-powered cybercrime platform that automated every stage of attack, from account compromise to sophisticated financial fraud. This operation underscores the evolving threat of AI lowering barriers for cybercriminals to execute complex, large-scale attacks.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/22/disrupting-eviltokens-the-ai-chatbot-built-for-cybercrime"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790100060000,
-            "date": "2026-09-22",
-            "title": "The continued state of global AI diffusion in 2026",
-            "summary_kr": "2026년 2분기 글로벌 AI 확산은 전 세계적으로 꾸준히 증가했으나, 북반구와 남반구 간의 격차는 더욱 심화되었습니다. 오픈 웨이트 모델의 확산은 저비용 접근성을 높여 남반구의 AI 활용을 촉진할 잠재적 대안으로 주목받고 있습니다.",
-            "summary_en": "Global AI diffusion continued to rise in Q2 2026, though the digital divide between the Global North and South persists. The growing adoption of open-weight models offers a promising path to lower access barriers and support localized AI implementation in the Global South.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790100000000,
-            "date": "2026-09-22",
-            "title": "Introducing GPT-6 Sol and Luna",
-            "summary_kr": "오픈AI가 고성능 모델인 GPT-6 Astra의 성능을 유지하면서 비용 효율성을 극대화한 보급형 모델 'GPT-6 Sol'과 'Luna'를 출시했습니다. 이 모델들은 기존 대비 50% 저렴한 가격으로 전문 업무, 코딩, 추론 영역에서 뛰어난 가성비를 제공하여 AI의 대중적 활용 범위를 넓힐 전망입니다.",
-            "summary_en": "OpenAI has expanded its GPT-6 lineup with 'Sol' and 'Luna,' high-efficiency models that deliver state-of-the-art performance at 50% lower API costs. These models make advanced AI more accessible for complex professional tasks and large-scale applications by optimizing the cost-to-intelligence ratio.",
-            "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790098061000,
-            "date": "2026-09-22",
-            "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
-            "summary_kr": "NVIDIA 기밀 컴퓨팅(Confidential Computing)은 데이터 보안과 고성능 추론을 동시에 달성하기 위해 하드웨어 최적화된 프레임워크와 결합된 보안 환경을 제공합니다. 이를 통해 기업은 보안 요구 사항을 준수하면서도 TensorRT-LLM과 같은 플랫폼에서 성능 손실을 최소화하며 안전한 AI 추론을 구현할 수 있습니다.",
-            "summary_en": "NVIDIA Confidential Computing enables secure, privacy-preserving AI inference by integrating hardware-level protection with optimized frameworks like TensorRT-LLM. This approach allows enterprises to maintain high-performance production workloads while ensuring data security within a trusted environment.",
-            "link": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790097388000,
-            "date": "2026-09-22",
-            "title": "Topology-Aware Workload Scheduling with NVIDIA Topograph",
-            "summary_kr": "NVIDIA Topograph는 클러스터의 네트워크 토폴로지를 실시간으로 파악하여 워크로드 관리자가 최적의 GPU 자원을 배치하도록 지원함으로써 AI 인프라의 처리량과 효율성을 극대화합니다.",
-            "summary_en": "NVIDIA Topograph maximizes AI infrastructure efficiency by mapping real-time cluster topology, enabling workload managers to place GPU tasks strategically for improved throughput and reduced latency.",
-            "link": "https://developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790089101000,
-            "date": "2026-09-22",
-            "title": "When disaster strikes, AI helps responders reach people more quickly",
-            "summary_kr": "인도주의 단체들은 마이크로소프트의 HASTE와 같은 AI 기술을 활용하여 재난 직후 위성 이미지를 신속하게 분석함으로써 피해 지역을 정확히 파악하고 구호 자원을 효율적으로 배분하고 있습니다.",
-            "summary_en": "Humanitarian organizations are leveraging AI tools like Microsoft's HASTE to rapidly analyze satellite imagery post-disaster, enabling precise damage assessment and more effective allocation of life-saving resources.",
-            "link": "https://news.microsoft.com/source/features/ai/when-disaster-strikes-ai-helps-responders-reach-people-more-quickly"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790082000000,
-            "date": "2026-09-22",
-            "title": "What’s New for Game Developers: DLSS 5 with 3D-Guided Neural Rendering, NVIDIA ACE Updates, and New",
-            "summary_kr": "엔비디아는 DLSS 5의 3D 기반 신경 렌더링을 통해 그래픽 품질을 혁신하고, ACE 및 RTX 키트 업데이트를 통해 차세대 게임 개발을 위한 AI 기반 렌더링 및 캐릭터 상호작용 기능을 강화했습니다.",
-            "summary_en": "NVIDIA has unveiled DLSS 5 with 3D-guided neural rendering to enhance graphical fidelity, alongside updates to NVIDIA ACE and RTX Kit that empower developers with advanced AI-driven character interactions and rendering workflows.",
-            "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790078400000,
-            "date": "2026-09-22",
-            "title": "Accelerating a ROS 2 Node with an AI Agent and NVIDIA Isaac ROS",
-            "summary_kr": "NVIDIA는 ROS 2 Lyrical의 rosidl::Buffer와 CUDA 버퍼 백엔드를 통해 GPU 간 데이터 제로 카피 전송을 지원하며, AI 에이전트를 활용해 기존 노드를 효율적으로 최적화하는 워크플로우를 제공합니다.",
-            "summary_en": "NVIDIA enables zero-copy GPU data transfer via ROS 2 Lyrical's rosidl::Buffer and CUDA buffer backend, providing an AI agent-driven workflow to efficiently optimize existing robotics nodes.",
-            "link": "https://developer.nvidia.com/blog/accelerating-a-ros-2-node-with-an-ai-agent-and-nvidia-isaac-ros"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790035200000,
-            "date": "2026-09-22",
-            "title": "Priorities and principles for effective third party assessments",
-            "summary_kr": "OpenAI는 프론티어 AI 모델의 안전성을 보장하기 위해 외부 기관의 독립적인 평가를 활성화하고, 이를 뒷받침할 엄격한 기준과 보안 체계를 마련하여 책임 있는 AI 개발을 추진합니다.",
-            "summary_en": "OpenAI is committed to fostering rigorous, independent third-party assessments of its frontier AI models by providing deep access and establishing clear, secure standards to ensure verifiable safety and accountability.",
-            "link": "https://openai.com/index/priorities-principles-third-party-assessments"
         }
     ]
 }
