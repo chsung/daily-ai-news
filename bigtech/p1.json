@@ -1,6 +1,105 @@
 {
-    "last_update": "2026-10-07 20:53:15",
+    "last_update": "2026-10-08 20:56:49",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791484202000,
+            "date": "2026-10-08",
+            "title": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
+            "summary_kr": "NVIDIA KGMON 팀은 데이터 분석 에이전트의 신뢰성을 높이기 위해 데이터 접근 방식을 단순화하고 행동 범위를 제약하는 '하니스(harness)' 구축의 중요성을 입증했습니다. 모델 자체의 성능 향상보다는 체계적인 전처리 및 검증 가능한 환경 설계를 통해 제한된 자원 내에서도 최적의 분석 결과를 도출했습니다.",
+            "summary_en": "The NVIDIA KGMON team demonstrated that building a structured 'harness'—by simplifying data access and constraining action spaces—is more effective for reliable data analytics agents than relying solely on model capabilities. Their success highlights that optimizing the execution environment through rigorous preprocessing and transparent inspection is key to performance, especially with limited-size models.",
+            "link": "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791475200000,
+            "date": "2026-10-08",
+            "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+            "summary_kr": "오라클은 ChatGPT와 Codex를 도입하여 채용, 엔지니어링 등 전사적 업무 프로세스를 자동화함으로써 기존에 며칠씩 걸리던 복잡한 작업을 분 단위로 단축하고 업무 효율성을 혁신했습니다.",
+            "summary_en": "Oracle has transformed its business operations by leveraging ChatGPT and Codex to automate complex workflows, reducing tasks that previously took days into minutes while significantly enhancing productivity across recruitment and engineering.",
+            "link": "https://openai.com/index/oracle"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791462992000,
+            "date": "2026-10-08",
+            "title": "From Vatican archives to Microsoft Word: Michelangelo’s lettering lives on - Source EMEA",
+            "summary_kr": "바티칸은 성 베드로 대성당 봉헌 400주년을 기념하여 미켈란젤로의 필체를 현대적으로 재해석한 디지털 서체 '미켈란젤루스(Michelangelus)'를 개발해 마이크로소프트 365에 도입했습니다.",
+            "summary_en": "To mark the 400th anniversary of St. Peter’s Basilica, the Vatican has launched 'Michelangelus,' a new digital typeface inspired by Michelangelo’s handwriting, now available in Microsoft 365.",
+            "link": "https://news.microsoft.com/source/emea/features/from-vatican-archives-to-microsoft-word-michelangelos-lettering-lives-on"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791460800000,
+            "date": "2026-10-08",
+            "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+            "summary_kr": "Pollo AI는 OpenAI의 최신 모델을 통합한 'Pollo Agent'를 통해 사용자의 추상적인 아이디어를 전문적인 영상 및 광고 콘텐츠로 자동 변환하는 워크플로우를 제공합니다.",
+            "summary_en": "Pollo AI leverages OpenAI’s latest models through its 'Pollo Agent' to streamline video and ad production, enabling users to transform rough creative concepts into professional-grade visual content.",
+            "link": "https://openai.com/index/pollo-ai"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "2026 Usage Policy update",
+            "summary_kr": "앤스로픽은 고도화된 클로드의 성능과 최신 위협 패턴을 반영하여 기만적 활동, 선거 방해, 무기 개발 및 감시 시스템 사용을 엄격히 제한하는 2026년형 이용 정책을 발표했습니다.",
+            "summary_en": "Anthropic has updated its 2026 Usage Policy to address evolving model capabilities and emerging threats, strengthening prohibitions against deceptive campaigns, election interference, weapon development, and unauthorized surveillance.",
+            "link": "https://www.anthropic.com/news/2026-usage-policy-update"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "Building on our commitment to American scientific discovery",
+            "summary_kr": "앤스로픽은 미국 정부의 '제네시스 미션(Genesis Mission)'에 3년간 1억 5천만 달러를 투자하여 NASA 등 주요 연방 기관의 과학 연구를 지원하고 AI 기반의 기술 혁신을 가속화합니다.",
+            "summary_en": "Anthropic will invest $150 million over three years into the U.S. Genesis Mission to provide federal agencies, including NASA, with advanced AI tools and support to accelerate scientific discovery.",
+            "link": "https://www.anthropic.com/news/genesis-mission-commitment"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "Introducing the Anthropic Cyber Mission",
+            "summary_kr": "앤스로픽은 자사의 최첨단 AI 모델과 엔지니어링 자원을 활용하여 국가 기반 시설 및 오픈소스 소프트웨어의 보안을 강화하는 '앤스로픽 사이버 미션(Anthropic Cyber Mission)'을 출범했습니다.",
+            "summary_en": "Anthropic has launched the 'Anthropic Cyber Mission,' leveraging its frontier AI models and engineering expertise to provide tools and resources for securing critical infrastructure and open-source software.",
+            "link": "https://www.anthropic.com/news/anthropic-cyber-mission"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "The missing map of the sky",
+            "summary_kr": "존스 홉킨스 대학의 브라이스 메나드 연구원은 앤스로픽의 AI 모델인 '클로드 사이언스'를 활용해 기존 데이터의 공백을 메운 최초의 완전한 자외선(UV) 우주 지도를 완성했습니다.",
+            "summary_en": "Johns Hopkins University researcher Brice Ménard utilized Anthropic's Claude Science to create the first complete ultraviolet (UV) sky map by successfully filling gaps in existing astronomical datasets.",
+            "link": "https://www.anthropic.com/research/the-missing-map-of-the-sky"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "Launching an opt-in vulnerability-finding service for open-source software",
+            "summary_kr": "오픈소스 생태계의 보안 강화를 위해 생성형 AI 모델을 활용해 취약점을 자동으로 탐지하고 보고하는 'OSS 스캐너' 서비스를 무료로 출시합니다.",
+            "summary_en": "To strengthen open-source security, a new 'OSS Scanner' service has been launched to provide free, automated vulnerability detection and reporting powered by advanced AI models.",
+            "link": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "Disrupting AI-enabled “false front” operations",
+            "summary_kr": "AI 기업들이 러시아와 이란이 주도한 정교한 '위장 전술(false-front)' 기반의 영향력 조작 작전을 적발해 차단했으며, 이는 AI가 기존의 여론 조작 방식을 더 효율적이고 위협적으로 진화시키고 있음을 보여줍니다.",
+            "summary_en": "AI companies have disrupted sophisticated AI-enabled 'false-front' influence operations from Russia and Iran, highlighting how AI is being used to scale and refine traditional propaganda tactics to infiltrate mainstream media.",
+            "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791411420000,
+            "date": "2026-10-07",
+            "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot",
+            "summary_kr": "GitHub Copilot은 로컬 모델과 클라우드 기반 모델을 지능적으로 조율하여 최적의 성능과 비용 효율성을 제공하며, 마이크로소프트는 고성능 하드웨어 환경에서 안전하고 효율적인 코딩 에이전트를 구현하기 위해 MAI Code 1.1 Flash 모델을 도입합니다.",
+            "summary_en": "GitHub Copilot will intelligently orchestrate between local and cloud-scale models to balance performance and cost, while Microsoft introduces the MAI Code 1.1 Flash model to power secure, high-performance coding agents on local hardware.",
+            "link": "https://commandline.microsoft.com/local-models-sandboxed-tools-github-windows"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1791397263000,
@@ -801,105 +900,6 @@
             "summary_kr": "구글은 HP와의 파트너십을 통해 차세대 협업 툴인 'Google Beam'의 글로벌 시장 확대를 본격화하며, Industrious와의 협업으로 이용 접근성을 대폭 강화합니다.",
             "summary_en": "Google is scaling its global presence for 'Google Beam' in partnership with HP and launching an extended network with Industrious to improve enterprise collaboration and remote connection accessibility.",
             "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790185481000,
-            "date": "2026-09-23",
-            "title": "How AI is helping scientists track viruses through wastewater",
-            "summary_kr": "하수 기반 역학조사는 메타게놈 시퀀싱을 통해 지역사회 감염병을 효과적으로 추적할 수 있게 해주며, 마이크로소프트의 도구들은 방대한 데이터 처리와 분석의 병목 현상을 해결하여 과학적 통찰을 가속화하고 있습니다.",
-            "summary_en": "Wastewater-based surveillance enables effective tracking of community pathogens through metagenomic sequencing, with Microsoft's tools accelerating scientific insight by resolving the bottlenecks of massive data processing and analysis.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/decoding-environmental-viromes-amplifying-human-expertise-with-microsoft-discove/4555806"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790184493000,
-            "date": "2026-09-23",
-            "title": "Reimagining the SOC for the agentic era in Microsoft Defender | Microsoft Security Blog",
-            "summary_kr": "마이크로소프트는 AI 에이전트 시대의 급증하는 위협에 대응하기 위해 SIEM과 위협 방어 솔루션을 통합한 '통합 보안 운영 센터(ISOC)'를 통해 사람과 AI가 하나의 시스템으로 협업하는 새로운 보안 모델을 제시합니다.",
-            "summary_en": "Microsoft is introducing the Integrated Security Operations Center (ISOC) to unify SIEM and threat protection into a single system, enabling seamless collaboration between humans and AI agents to combat the scale and speed of modern cyber threats.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790179296000,
-            "date": "2026-09-23",
-            "title": "What if robots didn't need all their AI onboard?",
-            "summary_kr": "로봇 AI 추론을 온보드 GPU가 아닌 엣지나 클라우드로 분산 처리하면 성능과 배터리 효율이 크게 개선되며, 최신 쿠버네티스 기술을 통해 더 정교한 모델 운용이 가능해집니다.",
-            "summary_en": "Offloading robotics AI inference from onboard GPUs to edge or cloud infrastructure significantly improves performance, battery life, and the ability to deploy sophisticated models in dynamic environments.",
-            "link": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790179200000,
-            "date": "2026-09-23",
-            "title": "6 new Google Flow Tools built by industry creatives",
-            "summary_kr": "구글은 다양한 산업 분야의 전문가들과 협력하여 사용자의 요구에 맞춰 워크플로우를 자동화하고 최적화할 수 있는 6가지 새로운 'Google Flow' 도구를 출시했습니다.",
-            "summary_en": "Google has launched six new 'Google Flow' tools developed with industry creatives, enabling users to build and customize automated workflows tailored to their specific professional needs.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790179200000,
-            "date": "2026-09-23",
-            "title": "Two years of OpenAI Academy",
-            "summary_kr": "OpenAI Academy는 지난 2년간 400만 명 이상에게 실무 중심의 AI 교육을 제공해 왔으며, 향후 '커뮤니티 트레이너 프로그램'을 통해 지역별 맞춤형 교육 체계를 확대할 계획입니다.",
-            "summary_en": "Over the past two years, OpenAI Academy has provided practical AI training to over 4 million people and is now launching a 'Community Trainer Program' to scale localized, expert-led learning.",
-            "link": "https://openai.com/index/two-years-of-openai-academy"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790176500000,
-            "date": "2026-09-23",
-            "title": "Gemini 3.8 text-to-speech says hello",
-            "summary_kr": "구글은 자연어 프롬프트 기반의 고품질 음성 생성과 정밀한 연출이 가능한 새로운 Gemini 3.8 TTS 모델 2종을 출시하여 창작자와 기업에 혁신적인 오디오 경험을 제공합니다.",
-            "summary_en": "Google has introduced two new Gemini 3.8 TTS models that enable high-quality, expressive voice generation and precise performance control via natural language, empowering creators and enterprises to scale custom audio experiences.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790168400000,
-            "date": "2026-09-23",
-            "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-            "summary_kr": "OpenAI가 우크라이나 정부에 'Daybreak' 프로그램을 제공하여 민간 인프라를 보호하기 위한 AI 기반 사이버 방어 역량을 강화합니다.",
-            "summary_en": "OpenAI is providing its 'Daybreak' program to the Ukrainian government to bolster civilian infrastructure protection through AI-powered cyber defense capabilities.",
-            "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790164800000,
-            "date": "2026-09-23",
-            "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-            "summary_kr": "인비디오(invideo)는 GPT-6 Astra를 도입하여 색 보정 성공률을 3배 높이고, 복잡한 영상 효과 제작 효율을 획기적으로 개선했습니다.",
-            "summary_en": "Invideo has integrated GPT-6 Astra to triple its color grading success rate and significantly accelerate the production of complex, custom video effects.",
-            "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790164800000,
-            "date": "2026-09-23",
-            "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-            "summary_kr": "Ringg는 OpenAI의 모델을 도입하여 고객 문의의 65%를 자동 해결하고, 비용을 90% 절감하는 고효율 엔터프라이즈 AI 에이전트 플랫폼을 구축했습니다.",
-            "summary_en": "Ringg has built a high-efficiency enterprise AI agent platform leveraging OpenAI models, resolving up to 65% of customer inquiries while reducing operational costs by 90%.",
-            "link": "https://openai.com/index/ringg"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790164800000,
-            "date": "2026-09-23",
-            "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-            "summary_kr": "법률 AI 플랫폼 Harvey가 GPT-6 Astra를 도입하여 법률 문서의 맥락 이해도와 구조적 완성도를 높임으로써, 변호사들이 전략적 업무에 더 집중할 수 있게 지원합니다.",
-            "summary_en": "Harvey has integrated GPT-6 Astra to enhance context awareness and document structuring in legal drafting, allowing lawyers to focus more on high-level strategy.",
-            "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790121600000,
-            "date": "2026-09-23",
-            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-            "summary_kr": "앤스로픽은 생명과학 연구 그룹을 신설하여 AI 모델 '클로드'를 활용해 CRISPR와 유사한 특성을 가진 새로운 효소 시스템을 자율적으로 발견하는 성과를 거두었습니다.",
-            "summary_en": "Anthropic has launched a dedicated life sciences research group, utilizing its AI model, Claude, to autonomously discover a novel enzyme system with CRISPR-like characteristics.",
-            "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
         }
     ]
 }
