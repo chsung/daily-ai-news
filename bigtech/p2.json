@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-10-09 20:23:48",
+    "last_update": "2026-10-10 19:35:30",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1790187722000,
+            "date": "2026-09-23",
+            "title": "Microsoft strengthens its commitment to the Middle East by investing in technology, digital resilience, and people - Microsoft On the Issues",
+            "summary_kr": "마이크로소프트는 2030년까지 중동 지역에 100억 달러 이상을 투자하여 클라우드 및 AI 인프라를 확충하고, 디지털 회복탄력성과 지역 내 AI 역량 강화를 통해 중동의 디지털 전환을 주도할 계획입니다.",
+            "summary_en": "Microsoft plans to invest over $10 billion by 2030 to expand cloud and AI infrastructure in the Middle East, aiming to drive the region's digital transformation through enhanced digital resilience and strategic AI partnerships.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/23/microsoft-strengthens-its-commitment-to-the-middle-east-by-investing-in-technology-digital-resilience-and-people"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1790179200000,
@@ -891,15 +900,6 @@
             "summary_kr": "미디어 및 엔터테인먼트 산업은 단순한 AI 도구 도입을 넘어, 인간의 창의성과 AI를 유기적으로 연결하는 '오케스트레이션 지능'으로 전환하여 생산성과 비즈니스 가치를 극대화해야 합니다.",
             "summary_en": "The media and entertainment industry must move beyond isolated AI tools toward 'orchestrated intelligence,' integrating AI into workflows to maximize business value while leveraging human creativity and accountability.",
             "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/media-and-entertainment/2026/09/08/how-ai-is-transforming-media-and-entertainment-through-orchestrated-intelligence"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788991304000,
-            "date": "2026-09-09",
-            "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery | Microsoft Azure Blog",
-            "summary_kr": "마이크로소프트는 가설 검증과 전략 수정을 스스로 수행하는 적응형 AI 'CLIO'를 통해 복잡한 과학 R&D 문제를 해결하는 에이전트 기반 플랫폼 'Microsoft Discovery'의 혁신을 제시했습니다.",
-            "summary_en": "Microsoft introduces 'Microsoft Discovery' powered by CLIO, an adaptive AI framework that enhances scientific R&D by enabling autonomous hypothesis testing, iterative reasoning, and evidence-based problem solving.",
-            "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery"
         }
     ]
 }

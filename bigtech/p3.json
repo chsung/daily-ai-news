@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-10-09 20:23:48",
+    "last_update": "2026-10-10 19:35:30",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1788991304000,
+            "date": "2026-09-09",
+            "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery | Microsoft Azure Blog",
+            "summary_kr": "마이크로소프트는 가설 검증과 전략 수정을 스스로 수행하는 적응형 AI 'CLIO'를 통해 복잡한 과학 R&D 문제를 해결하는 에이전트 기반 플랫폼 'Microsoft Discovery'의 혁신을 제시했습니다.",
+            "summary_en": "Microsoft introduces 'Microsoft Discovery' powered by CLIO, an adaptive AI framework that enhances scientific R&D by enabling autonomous hypothesis testing, iterative reasoning, and evidence-based problem solving.",
+            "link": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1788991180000,
@@ -891,15 +900,6 @@
             "summary_kr": "NVIDIA Dynamo의 '섀도우 엔진 복구'는 GPU 메모리 서비스를 통해 모델 가중치를 프로세스와 독립적으로 유지함으로써, 장애 발생 시 수분 걸리던 LLM 재시작 시간을 초단위로 획기적으로 단축합니다.",
             "summary_en": "NVIDIA Dynamo's 'shadow engine recovery' drastically reduces LLM restart times from minutes to seconds by using the GPU Memory Service to decouple model weights from engine processes, allowing for near-instant failover.",
             "link": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1787676381000,
-            "date": "2026-08-25",
-            "title": "Moving beyond release waves with the AI at Work roadmap - Microsoft Dynamics 365 Blog",
-            "summary_kr": "마이크로소프트는 2026년 9월부터 기존의 반기별 릴리스 웨이브 방식을 폐지하고, 자사 비즈니스 앱과 AI 기능을 통합 관리하는 'AI at Work' 로드맵 기반의 상시 업데이트 체제로 전환합니다.",
-            "summary_en": "Starting September 2026, Microsoft will replace its biannual release wave model with a continuous 'AI at Work' roadmap, providing a unified, real-time view of product updates across its business applications and AI portfolio.",
-            "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/08/25/one-always-on-roadmap-dynamics-365-power-platform-and-dataverse-join-the-ai-at-work-roadmap"
         }
     ]
 }
