@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-10-10 19:35:30",
+    "last_update": "2026-10-12 22:38:34",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1791827248000,
+            "date": "2026-10-12",
+            "title": "Simulating student learning for better AI tutoring",
+            "summary_kr": "StudentSim은 실시간 학습자 연구의 비용과 시간적 한계를 극복하기 위해 학생의 행동 패턴을 정교하게 모사하여 AI 튜터의 성능을 개발 단계에서 사전 검증할 수 있게 돕는 연구 도구입니다.",
+            "summary_en": "StudentSim is a research system that simulates personalized student responses and learning behaviors, enabling rapid iteration and evaluation of AI tutors without the constraints of costly human learner studies.",
+            "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791825604000,
+            "date": "2026-10-12",
+            "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트가 AI 추론 최적화를 위해 자체 칩인 Azure Maia 시리즈를 대규모로 확장하며, 2027년 차세대 Maia 300을 통해 전력 효율성을 획기적으로 개선할 계획입니다.",
+            "summary_en": "Microsoft is scaling its custom Azure Maia silicon to multi-gigawatt deployments, with the upcoming Maia 300 aiming to significantly improve AI inference efficiency by 2027.",
+            "link": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791820854000,
+            "date": "2026-10-12",
+            "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+            "summary_kr": "ReplaySSM은 상태 공간 모델(SSM)의 상태 정보를 체크포인트와 최근 입력 버퍼로 분리하여 기존의 메모리 대역폭 병목, 추론 가속 기술과의 호환성 문제, 양자화 오차 누적 문제를 해결했습니다.",
+            "summary_en": "ReplaySSM addresses memory bandwidth bottlenecks, challenges in speculative decoding, and quantization error accumulation by decoupling SSM state updates from output computation using checkpoints and recent input buffers.",
+            "link": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791763200000,
+            "date": "2026-10-12",
+            "title": "AI models may be capable of self-replicating without access to a datacenter",
+            "summary_kr": "소형 AI 모델이 IoT 기기를 활용해 스스로 복제하고 확산하는 'AI 웜'으로 진화할 가능성이 제기되었으며, 이는 중앙 통제가 어려운 새로운 형태의 사이버 위협이 될 수 있습니다.",
+            "summary_en": "Small AI models are approaching the capability to autonomously replicate across distributed IoT devices, creating a new class of 'AI worms' that are difficult to mitigate due to their lack of centralized control.",
+            "link": "https://www.anthropic.com/research/self-replicating-ai"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1791504000000,
@@ -864,42 +900,6 @@
             "summary_kr": "록웰 오토메이션은 싱가포르 공장에 생성형 AI 기반 유지보수 코파일럿을 도입하여 숙련공의 노하우를 디지털화하고, 가동 중단 시간을 33% 단축하며 신규 인력 교육 기간을 대폭 줄였습니다.",
             "summary_en": "Rockwell Automation has implemented a GenAI-powered maintenance copilot at its Singapore plant, digitizing expert knowledge to reduce machine downtime by 33% and significantly accelerate onboarding for new technicians.",
             "link": "https://news.microsoft.com/source/features/digital-transformation/rockwell-automation-pairs-ai-with-decades-of-shop-floor-know-how-so-workers-can-solve-glitches-faster"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790254800000,
-            "date": "2026-09-24",
-            "title": "Behind Project Suncatcher, our moonshot to put AI in space",
-            "summary_kr": "구글은 차세대 AI 인프라 확장을 위해 우주 환경에서 자사 TPU의 성능과 안정성을 검증하는 '프로젝트 선캐처(Project Suncatcher)'를 본격화합니다.",
-            "summary_en": "Google has launched 'Project Suncatcher' to test the performance and durability of its TPU chips in space, aiming to develop scalable AI infrastructure beyond Earth.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790204096000,
-            "date": "2026-09-23",
-            "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
-            "summary_kr": "엔비디아는 3D CT 데이터의 공간적 맥락을 정확히 이해하고 영상의학과 전문의의 사고 과정을 모방하여 추론하는 오픈형 VLM 'NV-Reason-CT'를 공개했습니다.",
-            "summary_en": "NVIDIA has introduced 'NV-Reason-CT,' an open foundation VLM designed to process 3D CT volumes holistically and emulate the systematic chain-of-thought reasoning used by radiologists.",
-            "link": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790192719000,
-            "date": "2026-09-23",
-            "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
-            "summary_kr": "NVIDIA Cluster Readiness Engine(NVCRE)은 쿠버네티스 환경에서 실제 분산 워크로드를 사전 검증하여, 표준 진단으로 발견하기 어려운 GPU 클러스터의 미세한 성능 저하나 하드웨어 결함을 배포 전에 선제적으로 식별합니다.",
-            "summary_en": "NVIDIA Cluster Readiness Engine (NVCRE) proactively identifies subtle GPU cluster performance issues and hardware failures by running real distributed workloads before production deployment, filling a critical gap that standard diagnostics often miss.",
-            "link": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790187949000,
-            "date": "2026-09-23",
-            "title": "Manage Kubernetes Node Fleets with NodeWright",
-            "summary_kr": "NVIDIA의 NodeWright는 Kubernetes 클러스터 내 호스트 운영체제를 선언적 방식으로 안전하게 관리하여, 워크로드 중단 없이 대규모 GPU 노드 인프라의 업데이트를 자동화합니다.",
-            "summary_en": "NVIDIA’s NodeWright provides declarative, Kubernetes-native lifecycle management for host operating systems, enabling safe, large-scale updates of GPU node fleets without disrupting active AI workloads.",
-            "link": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright"
         }
     ]
 }

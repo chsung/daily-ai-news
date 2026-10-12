@@ -1,6 +1,42 @@
 {
-    "last_update": "2026-10-10 19:35:30",
+    "last_update": "2026-10-12 22:38:34",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1790254800000,
+            "date": "2026-09-24",
+            "title": "Behind Project Suncatcher, our moonshot to put AI in space",
+            "summary_kr": "구글은 차세대 AI 인프라 확장을 위해 우주 환경에서 자사 TPU의 성능과 안정성을 검증하는 '프로젝트 선캐처(Project Suncatcher)'를 본격화합니다.",
+            "summary_en": "Google has launched 'Project Suncatcher' to test the performance and durability of its TPU chips in space, aiming to develop scalable AI infrastructure beyond Earth.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790204096000,
+            "date": "2026-09-23",
+            "title": "Introducing NV-Reason-CT Open 3D CT VLM for Radiologist Chain-of-Thought Reasoning",
+            "summary_kr": "엔비디아는 3D CT 데이터의 공간적 맥락을 정확히 이해하고 영상의학과 전문의의 사고 과정을 모방하여 추론하는 오픈형 VLM 'NV-Reason-CT'를 공개했습니다.",
+            "summary_en": "NVIDIA has introduced 'NV-Reason-CT,' an open foundation VLM designed to process 3D CT volumes holistically and emulate the systematic chain-of-thought reasoning used by radiologists.",
+            "link": "https://developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790192719000,
+            "date": "2026-09-23",
+            "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
+            "summary_kr": "NVIDIA Cluster Readiness Engine(NVCRE)은 쿠버네티스 환경에서 실제 분산 워크로드를 사전 검증하여, 표준 진단으로 발견하기 어려운 GPU 클러스터의 미세한 성능 저하나 하드웨어 결함을 배포 전에 선제적으로 식별합니다.",
+            "summary_en": "NVIDIA Cluster Readiness Engine (NVCRE) proactively identifies subtle GPU cluster performance issues and hardware failures by running real distributed workloads before production deployment, filling a critical gap that standard diagnostics often miss.",
+            "link": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790187949000,
+            "date": "2026-09-23",
+            "title": "Manage Kubernetes Node Fleets with NodeWright",
+            "summary_kr": "NVIDIA의 NodeWright는 Kubernetes 클러스터 내 호스트 운영체제를 선언적 방식으로 안전하게 관리하여, 워크로드 중단 없이 대규모 GPU 노드 인프라의 업데이트를 자동화합니다.",
+            "summary_en": "NVIDIA’s NodeWright provides declarative, Kubernetes-native lifecycle management for host operating systems, enabling safe, large-scale updates of GPU node fleets without disrupting active AI workloads.",
+            "link": "https://developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1790187722000,
@@ -864,42 +900,6 @@
             "summary_kr": "OpenAI는 미국 연방 및 지방 정부 기관에 AI 도구 이용료 면제와 사용료 50% 할인 혜택을 제공하며, 공공 부문 사이버 보안 강화를 위한 전폭적인 지원을 확대합니다.",
             "summary_en": "OpenAI is expanding access to its AI tools for U.S. federal, state, and local governments by eliminating license fees and offering a 50% discount on usage, while bolstering support for public-sector cyber defense.",
             "link": "https://openai.com/index/expanding-ai-access-us-government"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788998400000,
-            "date": "2026-09-10",
-            "title": "Measuring AI capabilities in intelligence targeting and conventional weapons",
-            "summary_kr": "앤스로픽의 프론티어 레드팀 연구 결과, AI 모델이 전술적 정보 수집 및 재래식 무기 개발 과정에서 위협적인 수준의 성능을 보이고 있어 국가 안보와 관련된 새로운 위험이 커지고 있습니다.",
-            "summary_en": "Anthropic's Frontier Red Team research reveals that AI models are demonstrating concerning capabilities in tactical intelligence targeting and conventional weapons development, signaling new risks to national security.",
-            "link": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788998400000,
-            "date": "2026-09-10",
-            "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-            "summary_kr": "GPT-Live-1 API는 지연 시간이 짧은 단일 모델 아키텍처를 통해 자연스러운 대화와 유연한 도구 호출 기능을 제공하여, 개발자들이 보다 고도화된 실시간 음성 기반 애플리케이션을 구축할 수 있게 합니다.",
-            "summary_en": "The GPT-Live-1 API offers a low-latency, single-model architecture that enables natural, full-duplex conversations and flexible tool delegation, empowering developers to build advanced real-time voice applications.",
-            "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788992980000,
-            "date": "2026-09-09",
-            "title": "What a battery breakthrough reveals about AI and scientific memory",
-            "summary_kr": "마이크로소프트의 'Discovery' 플랫폼은 실패 사례를 지식화하는 'Discovery Bookshelf'와 AI 에이전트를 결합하여, 단순한 아이디어 생성을 넘어 과학적 시행착오를 학습하고 실제 실험 검증까지 수행하는 새로운 연구 패러다임을 제시했습니다.",
-            "summary_en": "Microsoft’s 'Discovery' platform integrates AI agents with the 'Discovery Bookshelf' to turn experimental failures into durable knowledge, shifting scientific AI from mere generation to an end-to-end closed-loop system that accelerates discovery.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/reinventing-organic-redox-flow-batteries-with-microsoft-discovery/4552343"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788992266000,
-            "date": "2026-09-09",
-            "title": "How AI is transforming media and entertainment through orchestrated intelligence | The Microsoft Cloud Blog",
-            "summary_kr": "미디어 및 엔터테인먼트 산업은 단순한 AI 도구 도입을 넘어, 인간의 창의성과 AI를 유기적으로 연결하는 '오케스트레이션 지능'으로 전환하여 생산성과 비즈니스 가치를 극대화해야 합니다.",
-            "summary_en": "The media and entertainment industry must move beyond isolated AI tools toward 'orchestrated intelligence,' integrating AI into workflows to maximize business value while leveraging human creativity and accountability.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/media-and-entertainment/2026/09/08/how-ai-is-transforming-media-and-entertainment-through-orchestrated-intelligence"
         }
     ]
 }
