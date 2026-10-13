@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-10-12 22:38:34",
+    "last_update": "2026-10-13 20:51:33",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1791907200000,
+            "date": "2026-10-13",
+            "title": "Gemini 4 Argon: Built to solve your hardest problems",
+            "summary_kr": "구글이 복잡한 실무와 엔지니어링 문제 해결에 최적화된 고성능 모델 'Gemini 4 Argon'을 출시했습니다. 이 모델은 코딩, 금융, 과학 등 핵심 분야에서 압도적인 정확도를 바탕으로 업계 벤치마크 1위를 기록하며 실질적인 생산성 혁신을 견인하고 있습니다.",
+            "summary_en": "Google has launched 'Gemini 4 Argon,' a high-performance model engineered to excel at complex, multi-step tasks in domains like coding, finance, and science. Ranking #1 on the Vals Index, the model delivers industry-leading precision and is already driving significant productivity gains in critical engineering and research applications.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791901180000,
+            "date": "2026-10-13",
+            "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
+            "summary_kr": "엔비디아가 Run:ai 플랫폼을 오픈소스로 전환하여 NVIDIA DSX AI 팩토리의 핵심 기반으로 제공함으로써, 생태계 파트너들이 GPU 오케스트레이션과 AI 인프라 효율성을 극대화할 수 있도록 지원합니다.",
+            "summary_en": "NVIDIA has open-sourced its Run:ai platform as part of the NVIDIA DSX AI Factory, enabling ecosystem partners to leverage GPU orchestration and infrastructure management to accelerate AI workload efficiency.",
+            "link": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791892800000,
+            "date": "2026-10-13",
+            "title": "Higgsfield takes AI video from 1 minute to over 10",
+            "summary_kr": "힉스필드 AI(Higgsfield AI)가 GPT-6 Astra를 도입하여 AI 영상 생성 길이를 기존 1분에서 10분 이상으로 확장하고, 정교한 시각 효과와 자동화된 제작 워크플로우를 통해 소규모 창작자들의 역량을 극대화합니다.",
+            "summary_en": "Higgsfield AI has extended AI video generation from one minute to over ten minutes using GPT-6 Astra, empowering small creative teams with advanced visual precision and automated production workflows.",
+            "link": "https://openai.com/index/higgsfield-longer-videos-voice"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791763200000,
+            "date": "2026-10-12",
+            "title": "Strengthening our defenses against distillation attacks",
+            "summary_kr": "앤스로픽(Anthropic)은 무단으로 모델의 성능을 복제하는 증류 공격(distillation attacks)을 방어하기 위해 추론 과정 노출을 차단하는 기술적 조치를 강화했으며, 이를 통해 데이터 탈취를 90~99% 감소시켰습니다.",
+            "summary_en": "Anthropic has significantly strengthened its defenses against unauthorized model distillation attacks by restricting access to its reasoning processes, successfully reducing data harvesting by 90-99%.",
+            "link": "https://www.anthropic.com/research/distillation-defenses"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1791763200000,
+            "date": "2026-10-12",
+            "title": "Introducing The X Subscription",
+            "summary_kr": "x.ai는 그록(Grok), 커서(Cursor), X 프리미엄을 하나의 통합 구독 모델로 결합하여, 사용자들에게 기존 대비 더 높은 가성비와 유연한 통합 AI 사용 환경을 제공합니다.",
+            "summary_en": "x.ai has launched 'The X Subscription,' bundling Grok, Cursor, and X Premium into a single, cost-effective plan that offers users a unified, high-value AI experience with flexible usage across platforms.",
+            "link": "https://x.ai/news/x-subscription"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1791827248000,
@@ -855,51 +900,6 @@
             "summary_kr": "플릿 관리 소프트웨어 기업 Proaction은 Codex를 도입해 맞춤형 데모 제작 프로세스를 자동화함으로써, 엔지니어링 시간을 월 최대 60시간 절감하고 매출을 60% 성장시켰습니다.",
             "summary_en": "Proaction boosted sales by 60% and saved up to 60 hours of engineering work per month by leveraging Codex to automate the creation of personalized, data-driven product demos.",
             "link": "https://openai.com/index/proaction"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790338231000,
-            "date": "2026-09-25",
-            "title": "Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 새로운 Copilot을 통해 업무 효율을 높이는 Home, 누구나 맞춤형 솔루션을 개발하는 Code, 그리고 능동적인 개인 에이전트인 Autopilot 기능을 통합하여 AI 업무 경험을 혁신합니다.",
-            "summary_en": "Microsoft is revolutionizing the AI work experience by integrating Home for productivity, Code for accessible solution building, and Autopilot for proactive, autonomous task management.",
-            "link": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790294400000,
-            "date": "2026-09-25",
-            "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
-            "summary_kr": "물리학자 맷 본 히펠의 도전에 응한 앤스로픽의 AI 모델 '클로드'가 기존 컴퓨팅 자원 한계를 극복하고 이론 물리학의 난제인 N=4 초양-밀스 이론의 9루프 진폭 계산을 성공적으로 수행했습니다.",
-            "summary_en": "Anthropic's Claude AI model successfully calculated a nine-loop amplitude in N=4 super-Yang-Mills theory, meeting physicist Matt von Hippel's challenge to solve a complex theoretical physics problem under limited computational resources.",
-            "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790263800000,
-            "date": "2026-09-24",
-            "title": "Introducing Gemini 3.8 Live with Live Avatar",
-            "summary_kr": "구글은 실시간 음성 및 영상 생성 기술을 결합하여 자연스러운 대화와 다국어 지원, 비동기 도구 실행이 가능한 기업용 'Gemini 3.8 Live with Live Avatar'를 출시했습니다.",
-            "summary_en": "Google has launched 'Gemini 3.8 Live with Live Avatar' for enterprises, featuring near real-time multimodal interaction, seamless multilingual lip-syncing, and asynchronous tool execution.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790262000000,
-            "date": "2026-09-24",
-            "title": "Efficient MoE Training for Biological Foundation Models",
-            "summary_kr": "NVIDIA Transformer Engine은 전문가 모델(MoE) 구조의 연산 병목 현상을 해결하고, GroupedLinear 및 MXFP8 커널을 통해 생물학적 파운데이션 모델의 학습 효율과 확장성을 극대화합니다.",
-            "summary_en": "NVIDIA Transformer Engine maximizes the efficiency and scalability of biological foundation models by utilizing GroupedLinear and MXFP8 kernels to address computational bottlenecks in MoE architectures.",
-            "link": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790261220000,
-            "date": "2026-09-24",
-            "title": "Rockwell Automation’s Singapore Factory Uses AI Copilot to Drive Efficiency and Global Transformation",
-            "summary_kr": "록웰 오토메이션은 싱가포르 공장에 생성형 AI 기반 유지보수 코파일럿을 도입하여 숙련공의 노하우를 디지털화하고, 가동 중단 시간을 33% 단축하며 신규 인력 교육 기간을 대폭 줄였습니다.",
-            "summary_en": "Rockwell Automation has implemented a GenAI-powered maintenance copilot at its Singapore plant, digitizing expert knowledge to reduce machine downtime by 33% and significantly accelerate onboarding for new technicians.",
-            "link": "https://news.microsoft.com/source/features/digital-transformation/rockwell-automation-pairs-ai-with-decades-of-shop-floor-know-how-so-workers-can-solve-glitches-faster"
         }
     ]
 }
