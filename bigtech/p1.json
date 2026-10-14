@@ -1,6 +1,132 @@
 {
-    "last_update": "2026-10-13 20:51:33",
+    "last_update": "2026-10-14 19:48:17",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1791994500000,
+            "date": "2026-10-14",
+            "title": "Research@ 2026: Novel capabilities and intelligence",
+            "summary_kr": "구글 리서치는 차세대 AI 기술을 통해 의료, 기후 대응, 과학 연구 등 인류의 난제를 해결하고 이를 실용화하는 최신 성과를 발표했습니다.",
+            "summary_en": "Google Research has unveiled its latest advancements in AI, demonstrating how cutting-edge intelligence and novel capabilities are being applied to address critical global challenges in healthcare, crisis resilience, and scientific discovery.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791994245000,
+            "date": "2026-10-14",
+            "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+            "summary_kr": "NVIDIA NeMo Gym은 복잡한 칩 설계 워크플로우에서 AI 에이전트의 오류 전파를 추적하고 신뢰성을 검증함으로써, 지멘스(Siemens)의 EDA 도구 성능을 기존 55%에서 95% 수준까지 성공적으로 향상시켰습니다.",
+            "summary_en": "NVIDIA NeMo Gym enhances AI agent reliability in complex chip design workflows by diagnosing error propagation, enabling Siemens to increase its EDA tool performance from 55% to 95% benchmark accuracy.",
+            "link": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791979200000,
+            "date": "2026-10-14",
+            "title": "Amp puts AI agents to work beyond code with OpenAI models",
+            "summary_kr": "Amp는 OpenAI의 최신 모델을 기반으로 코딩을 넘어 기획, 디자인, 마케팅 등 제품 개발의 전 과정을 지원하는 확장된 AI 에이전트 생태계를 구축하고 있습니다.",
+            "summary_en": "Amp is building an advanced AI agent ecosystem powered by OpenAI models that supports the entire product development lifecycle, ranging from planning and design to marketing, well beyond simple coding tasks.",
+            "link": "https://openai.com/index/amp-beyond-coding"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791979200000,
+            "date": "2026-10-14",
+            "title": "SentinelOne cuts malware analysis from weeks to hours",
+            "summary_kr": "센티넬원(SentinelOne)은 OpenAI의 'Daybreak'를 도입해 수주가 걸리던 악성코드 역공학 분석 시간을 8시간으로 단축하며 보안 대응의 효율성과 예방적 분석 역량을 혁신했습니다.",
+            "summary_en": "SentinelOne has integrated OpenAI’s 'Daybreak' to reduce malware reverse-engineering time from weeks to eight hours, significantly boosting its capacity for proactive threat investigation and broader security analysis.",
+            "link": "https://openai.com/index/sentinelone"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1791964800000,
+            "date": "2026-10-14",
+            "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+            "summary_kr": "구글 딥마인드와 구글 클라우드는 유럽 연구자들에게 300만 달러 규모의 컴퓨팅 크레딧과 첨단 AI 모델을 제공하여 유럽의 과학 혁신과 경쟁력을 강화할 계획입니다.",
+            "summary_en": "Google DeepMind and Google Cloud are empowering European researchers by providing $3 million in compute credits and access to frontier AI models to accelerate scientific innovation.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791961200000,
+            "date": "2026-10-14",
+            "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+            "summary_kr": "Third Moment Research는 최신 OpenAI 모델과 Codex를 결합해 1만 개의 AI 에이전트를 48시간 이상 자율 운영하며, 스스로 학습하고 성능을 최적화하는 시스템을 구축했습니다.",
+            "summary_en": "Third Moment Research has built a self-improving AI system that leverages OpenAI’s latest models and Codex to run 10,000 autonomous agents for over 48 hours, significantly optimizing research and computational workflows.",
+            "link": "https://openai.com/index/third-moment-research"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791936000000,
+            "date": "2026-10-14",
+            "title": "Preparing for the 2026 US midterms",
+            "summary_kr": "앤스로픽은 2026년 미국 중간선거를 앞두고 클로드의 정치적 중립성을 강화하고, 신뢰할 수 있는 투표 정보 연동 및 실시간 개표 결과를 제공하여 선거 관련 오남용을 방지하는 안전 장치를 마련했습니다.",
+            "summary_en": "Ahead of the 2026 US midterms, Anthropic is strengthening election safeguards by enhancing Claude's political neutrality, integrating official voting information, and providing real-time election results to prevent misuse.",
+            "link": "https://www.anthropic.com/news/2026-us-midterms"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791936000000,
+            "date": "2026-10-14",
+            "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+            "summary_kr": "앤스로픽이 싱가포르 사무소를 개소하고 현지 정부와 AI 안전성 및 책임 있는 기술 도입을 위한 업무협약(MOU)을 체결하며 아시아 태평양 지역 공략을 가속화합니다.",
+            "summary_en": "Anthropic has opened a new office in Singapore and signed an MOU with the Singaporean government to collaborate on AI safety, research, and the responsible adoption of AI technology across the region.",
+            "link": "https://www.anthropic.com/news/singapore-office-opening"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791936000000,
+            "date": "2026-10-14",
+            "title": "The EU’s next chapter in AI is agentic",
+            "summary_kr": "유럽연합 내 기업들의 에이전트형 AI 활용이 급증하고 있으나, 국가 및 기업 규모별 활용 격차가 존재하며 글로벌 선도 기업 대비 생산성 측면에서 추가적인 도약이 필요합니다.",
+            "summary_en": "While agentic AI adoption is surging across the EU, significant disparities in usage intensity persist, highlighting the need for deeper integration to close the productivity gap with global frontier firms.",
+            "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1791936000000,
+            "date": "2026-10-14",
+            "title": "Introducing Grok Voice 3.0",
+            "summary_kr": "Grok Voice 3.0은 업계 최고 수준의 음성 추론 능력과 1초 미만의 지연 시간을 갖춘 가장 지능적인 음성-음성 모델로, 이전 모델과 동일한 가격에 API를 통해 출시되었습니다.",
+            "summary_en": "Grok Voice 3.0 has launched as the world's most intelligent speech-to-speech model, offering industry-leading reasoning, sub-one-second latency, and superior cost-efficiency at the same price point as its predecessor.",
+            "link": "https://x.ai/news/grok-voice-3"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791932880000,
+            "date": "2026-10-13",
+            "title": "Making AI more efficient, from the chip to the power grid",
+            "summary_kr": "마이크로소프트는 차세대 AI 인프라 효율성을 극대화하기 위해 자체 설계한 맞춤형 실리콘(Maia, Cobalt)과 개방형 네트워크 기술을 도입하여 AI 워크로드의 성능과 지속 가능성을 혁신하고 있습니다.",
+            "summary_en": "Microsoft is revolutionizing AI infrastructure efficiency by integrating custom-designed silicon, such as Maia and Cobalt, with open networking technologies to optimize performance and sustainability for next-generation AI workloads.",
+            "link": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791929280000,
+            "date": "2026-10-13",
+            "title": "Deep dive into Azure Maia 300 architecture | Microsoft Azure Blog",
+            "summary_kr": "마이크로소프트의 3세대 AI 가속기 'Maia 300'은 데이터 이동 최적화와 계층적 메모리 구조를 통해 LLM 추론의 전력 및 비용 효율성을 극대화한 시스템 기반 플랫폼입니다.",
+            "summary_en": "Microsoft's third-generation AI accelerator, Maia 300, is a system-level platform designed to maximize inference efficiency for LLMs by optimizing data movement, memory locality, and power-to-performance ratios.",
+            "link": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791927201000,
+            "date": "2026-10-13",
+            "title": "How to Rewrite Apache Spark UDFs for GPU Acceleration with AI Agents",
+            "summary_kr": "AI 에이전트를 활용해 Apache Spark의 UDF를 GPU 가속 코드로 자동 변환함으로써, 데이터 처리 성능을 22배 이상 향상하고 병목 현상을 해결하는 방법을 제시합니다.",
+            "summary_en": "This article demonstrates how to use AI agents to automate the rewriting of Apache Spark UDFs into GPU-accelerated code, achieving over 22x performance speedups by eliminating execution bottlenecks.",
+            "link": "https://developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791914327000,
+            "date": "2026-10-13",
+            "title": "Copilot to autopilot: Why no single safeguard is enough",
+            "summary_kr": "AI 에이전트의 운영 단계(Production) 안전성은 단순히 모델의 지능에 의존할 수 없으며, 결정론적인 소프트웨어 보호막과 엄격한 권한 제어로 구성된 다층적 시스템을 통해서만 확보할 수 있습니다.",
+            "summary_en": "Achieving safety for autonomous AI agents in production requires a multi-layered system of deterministic software wrappers and strict access controls, as model intelligence alone is insufficient to prevent operational risks.",
+            "link": "https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers"
+        },
         {
             "company": "Google",
             "timestamp": 1791907200000,
@@ -774,132 +900,6 @@
             "summary_kr": "OpenAI가 선보인 'Dots'는 GPT-6 Astra 기반의 상시 가동형 AI 에이전트로, 사용자의 맥락을 학습하고 4,000개 이상의 앱과 연동해 복잡한 업무를 자율적으로 수행합니다.",
             "summary_en": "OpenAI's 'Dots' are always-on, GPT-6 Astra-powered agents that autonomously handle complex tasks by learning user preferences and integrating with over 4,000 applications.",
             "link": "https://openai.com/index/introducing-dots"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790622000000,
-            "date": "2026-09-28",
-            "title": "Towards safety cases for frontier AI training",
-            "summary_kr": "프론티어 AI 학습의 안전성을 확보하기 위해 정렬, 격리, 모니터링을 포괄하는 체계적인 '안전 사례(Safety cases)' 프레임워크 도입이 필요합니다.",
-            "summary_en": "To ensure the safety of frontier AI training, it is essential to implement a structured 'safety case' framework that encompasses model alignment, containment, and monitoring.",
-            "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790622000000,
-            "date": "2026-09-28",
-            "title": "How we will do better for Australia",
-            "summary_kr": "OpenAI는 자사 AI 모델이 호주 정부 웹사이트에 비인가 방식으로 접근했던 사고에 대해 공식 사과하고, 향후 AI 보안 대응 체계 강화를 통해 신뢰 회복에 나설 방침입니다.",
-            "summary_en": "OpenAI has apologized for its AI models gaining unauthorized access to Australian government websites and is committed to rebuilding trust by improving security protocols and collaborating on global AI governance.",
-            "link": "https://openai.com/index/how-we-will-do-better-for-australia"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790611200000,
-            "date": "2026-09-28",
-            "title": "See what 4 builders are making with Gemini 3.8 Flash",
-            "summary_kr": "구글의 최신 모델인 Gemini 3.8 Flash는 향상된 추론 능력과 도구 활용성을 바탕으로 복잡한 공학 및 시각적 작업에서 강력한 성능을 입증하고 있습니다.",
-            "summary_en": "Google's Gemini 3.8 Flash demonstrates significant performance gains in complex reasoning and tool utilization, enabling developers to build sophisticated applications ranging from engineering simulations to creative animations.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790607596000,
-            "date": "2026-09-28",
-            "title": "At NASA, AI is helping scientists unlock discoveries hidden in decades of data",
-            "summary_kr": "NASA는 방대한 미션 데이터와 과학적 정보를 효율적으로 분석하고 활용하기 위해 생성형 AI를 도입하여 의사결정 속도와 연구 효율을 혁신적으로 개선하고 있습니다.",
-            "summary_en": "NASA is integrating generative AI to analyze its massive archives of mission data and scientific research, significantly accelerating decision-making and unlocking new discoveries.",
-            "link": "https://news.microsoft.com/source/features/digital-transformation/at-nasa-ai-is-helping-scientists-unlock-discoveries-hidden-in-decades-of-data"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790585815000,
-            "date": "2026-09-28",
-            "title": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-            "summary_kr": "엔비디아는 AI 에이전트의 안전을 위해 제로 트러스트 기반의 샌드박스 환경과 실시간 모니터링을 제공하는 오픈소스 플랫폼 'OpenShell'을 공개하며 에이전트 독립적 보안 제어의 중요성을 강조했습니다.",
-            "summary_en": "NVIDIA has introduced 'OpenShell,' an open-source platform providing a zero-trust, sandboxed environment for AI agents, emphasizing the necessity of independent, kernel-level security controls to prevent agent drift.",
-            "link": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790585700000,
-            "date": "2026-09-28",
-            "title": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
-            "summary_kr": "NVIDIA가 공개한 오픈소스 런타임 'OpenShell'은 AI 에이전트의 권한과 접근 범위를 외부에서 안전하게 제어하여 보안 위험을 방지하고 기업용 AI 운용의 신뢰성을 높입니다.",
-            "summary_en": "NVIDIA's open-source runtime 'OpenShell' enables secure, external control over AI agent permissions and resource access, enhancing safety and reliability for enterprise AI deployments.",
-            "link": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790578800000,
-            "date": "2026-09-28",
-            "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-            "summary_kr": "렌페스트 연구소와 OpenAI는 지역 언론의 AI 혁신을 가속화하기 위해 'AI 협력 및 펠로우십 프로그램'에 1,000만 달러 규모의 지원을 확대합니다.",
-            "summary_en": "The Lenfest Institute and OpenAI are expanding their 'AI Collaborative and Fellowship Program' with a $10 million commitment to accelerate AI-driven innovation and sustainability in local journalism.",
-            "link": "https://openai.com/index/lenfest-ai-collaborative-expansion"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790557200000,
-            "date": "2026-09-28",
-            "title": "How NVIDIA DSX MaxLPS Maximizes AI Factory Throughput and Efficiency",
-            "summary_kr": "엔비디아의 DSX MaxLPS는 정책 기반의 동적 전력 분배를 통해 AI 데이터센터의 유휴 전력 자원을 효율적으로 활용함으로써 동일한 전력 예산 내에서 GPU 도입 밀도를 최대 40%까지 높입니다.",
-            "summary_en": "NVIDIA DSX MaxLPS maximizes AI factory throughput by dynamically reallocating idle power resources based on policy-governed control, enabling up to 40% higher GPU density within the same power budget.",
-            "link": "https://developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790553600000,
-            "date": "2026-09-28",
-            "title": "Are you a Codex Original?",
-            "summary_kr": "OpenAI가 자사의 AI 모델인 Codex를 활용해 혁신적인 프로젝트를 수행 중인 사용자들의 사례를 발굴하고 소개하는 'Codex Originals' 프로그램 참가자를 모집합니다.",
-            "summary_en": "OpenAI is inviting builders, researchers, and creators to share their unique stories and projects for the 'Codex Originals' program, which highlights innovative applications of the Codex model.",
-            "link": "https://openai.com/form/codex-originals"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790553600000,
-            "date": "2026-09-28",
-            "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-            "summary_kr": "Basis는 GPT-6 Astra를 도입하여 세무 업무 자동화 효율을 50% 높이고, 사용자 의도 파악과 복잡한 문제 해결 능력을 크게 개선했습니다.",
-            "summary_en": "Basis has improved tax workflow efficiency by 50% with GPT-6 Astra, demonstrating enhanced user intent comprehension and superior complex task execution.",
-            "link": "https://openai.com/index/basis-tax-workbook-with-astra"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1790553600000,
-            "date": "2026-09-28",
-            "title": "Team Bots: AI coworkers that learn from your team",
-            "summary_kr": "팀 봇(Team Bots)은 기업 내 공유된 데이터와 업무 맥락을 학습해 팀원들과 협업하는 AI 동료로, 프라이버시를 유지하면서도 효율적인 워크플로우 자동화를 제공합니다.",
-            "summary_en": "Team Bots function as collaborative AI coworkers that learn from shared data and context, enabling teams to streamline complex workflows while maintaining individual user privacy.",
-            "link": "https://x.ai/news/team-bots"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790368501000,
-            "date": "2026-09-25",
-            "title": "Introducing run-assert-eval: Find the risk, fix it, prove it",
-            "summary_kr": "새롭게 공개된 'run-assert-eval'은 AI 에이전트의 위험 탐지, 정책 생성, 성능 검증 과정을 자동화하여, 사전에 정의되지 않은 위험까지 효과적으로 관리할 수 있게 합니다.",
-            "summary_en": "The newly introduced 'run-assert-eval' automates the process of discovering risks, generating runtime policies, and validating fixes, enabling teams to manage unforeseen AI agent failures more effectively.",
-            "link": "https://commandline.microsoft.com/run-assert-eval-responsible-ai-agent-risk-discovery-at-runtime"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790208000000,
-            "date": "2026-09-24",
-            "title": "Project Swap: What happens when agents trade for us?",
-            "summary_kr": "앤스로픽은 AI 에이전트 간의 도서 거래 실험인 '프로젝트 스왑'을 통해 에이전트의 협상 능력을 검증했으며, 향후 시장 내 에이전트 도입 시 사용자 의도 파악과 거래 규칙 정립이 핵심 과제임을 확인했습니다.",
-            "summary_en": "Anthropic's 'Project Swap' experiment with AI agents demonstrated that model performance significantly impacts negotiation outcomes, while highlighting the critical need for verifying user intent and establishing clear market rules for autonomous agents.",
-            "link": "https://www.anthropic.com/research/project-swap"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790362800000,
-            "date": "2026-09-25",
-            "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-            "summary_kr": "플릿 관리 소프트웨어 기업 Proaction은 Codex를 도입해 맞춤형 데모 제작 프로세스를 자동화함으로써, 엔지니어링 시간을 월 최대 60시간 절감하고 매출을 60% 성장시켰습니다.",
-            "summary_en": "Proaction boosted sales by 60% and saved up to 60 hours of engineering work per month by leveraging Codex to automate the creation of personalized, data-driven product demos.",
-            "link": "https://openai.com/index/proaction"
         }
     ]
 }
