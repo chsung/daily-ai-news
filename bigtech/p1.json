@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-10-15 19:30:55",
+    "last_update": "2026-10-16 19:04:55",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1792170000000,
+            "date": "2026-10-16",
+            "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+            "summary_kr": "NVIDIA RTX Spark는 강력한 GB10 칩과 대용량 통합 메모리를 탑재하여 개발자가 로컬 환경에서 AI 모델의 코딩, 테스트, 배포를 단일 기기로 통합 수행할 수 있는 고성능 개발 플랫폼을 제공합니다.",
+            "summary_en": "NVIDIA RTX Spark provides a high-performance development platform with the GB10 chip and large unified memory, enabling developers to code, test, and deploy AI models entirely on a single local machine.",
+            "link": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1792108800000,
+            "date": "2026-10-16",
+            "title": "Designing more efficient quantum circuits with Claude",
+            "summary_kr": "앤스로픽의 AI 모델 클로드(Claude)가 양자 알고리즘 회로를 스스로 최적화하여 기존 대비 압도적인 효율성을 달성했으며, 이는 실용적인 양자 컴퓨터의 상용화를 앞당길 수 있는 획기적인 성과입니다.",
+            "summary_en": "Anthropic's Claude AI has demonstrated the ability to autonomously optimize quantum circuit designs, significantly reducing resource requirements and potentially accelerating the timeline for practical quantum computing.",
+            "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1792108800000,
+            "date": "2026-10-16",
+            "title": "Claude reveals ECDSA curve origins",
+            "summary_kr": "Anthropic의 AI 모델 Claude가 수십 년간 미스터리였던 NIST 타원 곡선 암호(ECDSA)의 시드값 생성 원리가 단순한 유닉스 타임스탬프 기반 난수 생성이었음을 밝혀냈습니다. 이는 암호 표준에 대한 보안 우려를 해소하고 설계상 백도어 가능성을 일축하는 결정적 근거가 되었습니다.",
+            "summary_en": "Anthropic's Claude AI has solved the decades-old mystery of NIST ECDSA curve origins, revealing they were generated using simple Unix timestamp-based pseudorandom number generation. This discovery effectively dispels long-standing concerns regarding potential backdoors and confirms the integrity of these widely used cryptographic standards.",
+            "link": "https://www.anthropic.com/research/ecdsa-curve-origins"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792090800000,
+            "date": "2026-10-15",
+            "title": "Bringing GPT-Rosalind to academic research labs",
+            "summary_kr": "OpenAI가 생명과학 특화 모델인 'GPT-Rosalind'를 학계 연구실에 무상으로 제공하는 'Rosalind Academic Plan'을 출시하여 과학적 발견 가속화를 지원합니다.",
+            "summary_en": "OpenAI has launched the 'Rosalind Academic Plan,' providing academic labs with free access to its specialized life sciences model, GPT-Rosalind, to accelerate scientific discovery.",
+            "link": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792022400000,
+            "date": "2026-10-15",
+            "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+            "summary_kr": "설리번 앤 크롬웰은 OpenAI와 협력하여 자사의 법률 전문성과 최신 AI 추론 능력을 결합한 계약서 검토 도구 'Agreement Analyzer'를 개발해 업무 효율성을 높였습니다.",
+            "summary_en": "Sullivan & Cromwell has partnered with OpenAI to develop 'Agreement Analyzer,' an AI tool that integrates the firm's legal expertise with advanced reasoning capabilities to enhance complex contract review workflows.",
+            "link": "https://openai.com/index/sullivan-cromwell"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1792087260000,
@@ -855,51 +900,6 @@
             "summary_kr": "엔비디아는 cuObject와 SCADA Server SDK를 통해 AI 워크로드를 위한 고속 RDMA 기반의 표준화된 데이터 저장소 접근 기술을 확장하고, 개방형 산업 표준 구축에 앞장서고 있습니다.",
             "summary_en": "NVIDIA is expanding standardized, high-speed RDMA-based storage access for AI workloads through cuObject and the SCADA Server SDK, while leading the industry toward open, interoperable storage standards.",
             "link": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790784000000,
-            "date": "2026-09-30",
-            "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay",
-            "summary_kr": "NVIDIA NeMo Relay는 Hermes Agent의 실행 과정을 추적하고 가시화하여 에이전트의 효율성과 오류 원인을 정밀하게 분석할 수 있는 관측 가능성 프레임워크를 제공합니다.",
-            "summary_en": "NVIDIA NeMo Relay provides an observability framework that enables precise analysis of agent efficiency and error origins by tracing and visualizing the execution path of the Hermes Agent.",
-            "link": "https://developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790780400000,
-            "date": "2026-09-30",
-            "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
-            "summary_kr": "구글 딥마인드가 AI가 설계한 단백질 서열에 생물학적 기능을 유지하면서도 추적 가능한 워터마크를 삽입하는 'SynthID Bio' 기술을 공개했습니다.",
-            "summary_en": "Google DeepMind has introduced 'SynthID Bio,' a technology that embeds verifiable, imperceptible watermarks into AI-generated protein designs to enhance biosecurity without compromising biological function.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790764200000,
-            "date": "2026-09-30",
-            "title": "Disrupting a coordinated model-distillation campaign",
-            "summary_kr": "OpenAI는 모델의 내부 추론 과정을 무단으로 추출하려는 대규모 '적대적 증류(adversarial distillation)' 공격을 적발하여 차단했으며, 이를 업계와 공유하여 AI 보안 방어 체계를 강화하고 있습니다.",
-            "summary_en": "OpenAI has identified and disrupted a large-scale adversarial distillation campaign aimed at extracting protected internal reasoning, sharing findings with industry partners to strengthen collective AI security defenses.",
-            "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790762400000,
-            "date": "2026-09-30",
-            "title": "Helping small businesses put AI to work",
-            "summary_kr": "OpenAI는 미국 SBDC와 파트너십을 맺고 중소기업 경영자를 위한 AI 교육 및 컨설팅을 제공하여 비즈니스 효율성을 극대화하도록 지원합니다.",
-            "summary_en": "OpenAI has partnered with America’s SBDC to provide AI training and consulting for small businesses, empowering them to enhance operational efficiency and scale their capabilities.",
-            "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790726400000,
-            "date": "2026-09-30",
-            "title": "What work can robots do?",
-            "summary_kr": "현재 로봇은 전체 육체 노동의 74%를 수행할 수 있으나 높은 비용과 기술적 제약으로 인해 실제 비용 경쟁력을 갖춘 업무는 0.3%에 불과하며, 완전한 자동화까지는 상당한 시간이 소요될 전망입니다.",
-            "summary_en": "While robots can technically perform 74% of physical tasks, high costs and technological barriers limit their current cost-competitive reach to just 0.3% of jobs, suggesting a long road to widespread automation.",
-            "link": "https://www.anthropic.com/research/what-work-can-robots-do"
         }
     ]
 }
