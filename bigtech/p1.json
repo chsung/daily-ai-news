@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-10-16 19:04:55",
+    "last_update": "2026-10-17 18:01:04",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1792178004000,
+            "date": "2026-10-16",
+            "title": "How AI is Helping Formula One Teams Win | Signal magazine",
+            "summary_kr": "포뮬러 원 레이스 전략가들은 실시간 데이터와 AI 시뮬레이션을 활용해 타이어 선택과 피트스톱 타이밍 등 변수가 많은 경기 상황에서 승리를 위한 최적의 결정을 내립니다.",
+            "summary_en": "Formula 1 race strategists leverage real-time data and AI simulations to make critical decisions, such as tire selection and pit stop timing, to secure a competitive edge in highly unpredictable race conditions.",
+            "link": "https://news.microsoft.com/microsoft-signal/magazine/issue/06/the-winning-formula-formula-one-data-ai-microsoft-interview"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792177200000,
+            "date": "2026-10-16",
+            "title": "How Itaú is building generative AI for its entire customer base",
+            "summary_kr": "브라질 최대 은행 이타우(Itaú)는 생성형 AI 기반의 대화형 인터페이스 'ia.i'와 거버넌스 플랫폼 'IARA'를 도입해 고객에게 개인화된 금융 서비스를 제공하고 운영 효율성을 극대화하고 있습니다.",
+            "summary_en": "Itaú is leveraging its generative AI-powered conversational interface 'ia.i' and the 'IARA' governance platform to deliver hyper-personalized financial experiences at scale while optimizing operational efficiency.",
+            "link": "https://openai.com/index/itau-generative-ai"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1792108800000,
+            "date": "2026-10-16",
+            "title": "The AI expectations gap",
+            "summary_kr": "AI 산업 종사자들과 일반 대중은 현재의 AI 성능에 대해서는 의견을 같이하지만, 향후 기술 발전 속도와 업무 자동화 범위에 대해서는 산업 종사자들이 훨씬 더 낙관적이고 급진적인 전망을 보이고 있습니다.",
+            "summary_en": "While AI industry professionals and the general public agree on current AI capabilities, the former hold significantly more aggressive expectations regarding the pace of future advancements and the extent of job automation.",
+            "link": "https://www.anthropic.com/research/ai-expectations-gap"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1792108800000,
+            "date": "2026-10-16",
+            "title": "How employment is changing at Anthropic",
+            "summary_kr": "앤스로픽은 AI 에이전트가 인간보다 6배 더 많은 업무를 수행함에 따라 주니어 개발직 채용을 줄이고, 기술적 숙련도보다 인간의 판단력과 자율성을 중시하는 방향으로 채용 기준을 재편하고 있습니다.",
+            "summary_en": "As AI agents perform six times more work than humans at Anthropic, the company has shifted its hiring strategy to prioritize human autonomy and judgment over junior-level technical expertise.",
+            "link": "https://www.anthropic.com/research/employment-at-anthropic"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1792108800000,
+            "date": "2026-10-16",
+            "title": "Working at the frontier shapes expectations for the future",
+            "summary_kr": "앤스로픽은 AI 에이전트 도입으로 생산성이 비약적으로 향상된 자사의 경험이 AI 기술의 실질적 역량에 대한 이해 차이를 만들고, 이것이 일반 대중보다 더 급진적인 미래 노동 시장 전망으로 이어진다고 분석했습니다.",
+            "summary_en": "Anthropic reports that its internal experience with AI agents has led to significant productivity gains and fundamentally different expectations for the future of work compared to the general public, driven by a deeper understanding of current AI capabilities.",
+            "link": "https://www.anthropic.com/research/expectations-for-the-future"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792108800000,
+            "date": "2026-10-16",
+            "title": "Benefit Street Partners answers questions faster with Codex",
+            "summary_kr": "베네핏 스트리트 파트너스는 AI 모델 코덱스(Codex)를 도입하여 복잡한 대출 가치 평가 및 신용 계약 분석 업무를 자동화함으로써, 분석 시간을 대폭 단축하고 투자 의사결정의 정교함을 높였습니다.",
+            "summary_en": "Benefit Street Partners has significantly accelerated loan valuation and credit agreement analysis by leveraging Codex to automate development tasks, enabling faster investment insights and more rigorous decision-making.",
+            "link": "https://openai.com/index/benefit-street-partners"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792108800000,
+            "date": "2026-10-16",
+            "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+            "summary_kr": "스택 오버플로우는 OpenAI의 모델과 ChatGPT 플러그인을 활용해 제품 개발 속도를 대폭 높이고, 'Stack Overflow for Agents'의 가입자를 3배 이상 증가시키며 효율적인 지식 플랫폼으로 도약하고 있습니다.",
+            "summary_en": "Stack Overflow is accelerating product development and scaling its 'Stack Overflow for Agents' platform by leveraging OpenAI models and a ChatGPT plugin, which drove a 3x increase in registrations.",
+            "link": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1792170000000,
@@ -837,69 +900,6 @@
             "summary_kr": "바클레이즈(Barclays)가 앤스로픽(Anthropic)과의 파트너십을 확대해 소프트웨어 개발 가속화, 레거시 시스템 현대화, 고객 응대 효율화 등 전사적 운영 혁신에 클로드(Claude)를 전면 도입합니다.",
             "summary_en": "Barclays is expanding its partnership with Anthropic to integrate Claude across its global operations, aiming to modernize software development, streamline internal processes, and enhance customer experience through secure, AI-driven solutions.",
             "link": "https://www.anthropic.com/news/barclays-scales-claude"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790812800000,
-            "date": "2026-10-01",
-            "title": "Claude-shaped science",
-            "summary_kr": "매슈 슈워츠 교수는 AI가 잘하는 계산적 문제에 집중하는 'Claude-shaped' 접근법과 이를 구현한 도구 'BootLoops'를 통해 과학 연구의 임피던스 불일치를 해소하고 학제 간 발견을 가속화했습니다.",
-            "summary_en": "Professor Matthew Schwartz addresses the 'impedance mismatch' in AI-assisted research by adopting a 'Claude-shaped' approach and utilizing 'BootLoops,' a toolkit that aligns LLM capabilities with complex, cross-disciplinary scientific problem-solving.",
-            "link": "https://www.anthropic.com/research/claude-shaped-science"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790808900000,
-            "date": "2026-09-30",
-            "title": "How trusted AI is transforming healthcare and life sciences | The Microsoft Cloud Blog",
-            "summary_kr": "AI는 단순한 효율성 증대를 넘어 의료 및 생명과학 분야의 일상적 워크플로우에 깊숙이 통합되어, 의료진의 행정 부담을 줄이고 연구 속도를 가속화하며 인간 중심의 가치를 실현하고 있습니다.",
-            "summary_en": "AI is transcending mere efficiency to become deeply embedded in healthcare and life sciences workflows, empowering clinicians to focus on patient care and accelerating scientific discovery through human-AI collaboration.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/30/accelerating-human-capacity-across-healthcare-with-ai"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790803800000,
-            "date": "2026-09-30",
-            "title": "Google's AI ranks #1 for predicting flu hospitalizations.",
-            "summary_kr": "구글의 AI 모델이 2025-26 시즌 미국 독감 입원 환자 예측 성능에서 1위를 기록하며 질병 예측 분야에서의 AI 기술력을 입증했습니다.",
-            "summary_en": "Google's AI model ranked first in forecasting flu-related hospital admissions for the 2025-26 season, demonstrating the effectiveness of AI in predictive healthcare.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790801699000,
-            "date": "2026-09-30",
-            "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
-            "summary_kr": "NVIDIA Dynamo-Triton은 HSTU 기반 생성형 추천 시스템의 추론 과정을 최적화하여, KV 캐싱과 AOT 컴파일을 통해 기존 대비 최대 5.93배 빠른 지연 시간 성능을 구현합니다.",
-            "summary_en": "NVIDIA Dynamo-Triton optimizes HSTU-based generative recommender deployment, delivering up to 5.93x lower latency through efficient KV caching and PyTorch AOT compilation.",
-            "link": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790798516000,
-            "date": "2026-09-30",
-            "title": "How AI could help scientists find viruses to fight drug-resistant infections",
-            "summary_kr": "마이크로소프트 디스커버리 앱을 활용한 인간-AI 협업 모델이 복잡한 생물정보학 워크플로우를 최적화함으로써, 항생제 내성균 치료를 위한 최적의 박테리오파지를 효율적으로 선별하는 새로운 연구 경로를 제시했습니다.",
-            "summary_en": "A human-AI collaboration using the Microsoft Discovery app has optimized complex bioinformatics workflows, providing a more efficient, reproducible approach for identifying effective bacteriophages to combat drug-resistant infections.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/developing-bioinformatics-workflows-for-phage-therapy-with-inspectable-agents/4560876"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790798400000,
-            "date": "2026-09-30",
-            "title": "Gemini 4 Argon: our next era of frontier intelligence",
-            "summary_kr": "구글이 복잡한 장기 추론과 소프트웨어 엔지니어링에 최적화된 차세대 프론티어 모델 'Gemini 4 Argon'을 공개하며, 100만 토큰의 출력 한도를 통해 엔터프라이즈 생산성 혁신을 예고했습니다.",
-            "summary_en": "Google has unveiled Gemini 4 Argon, a next-generation frontier model optimized for complex, long-horizon reasoning and software engineering, featuring an industry-leading 1M output token limit to drive enterprise productivity.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790795582000,
-            "date": "2026-09-30",
-            "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
-            "summary_kr": "엔비디아는 cuObject와 SCADA Server SDK를 통해 AI 워크로드를 위한 고속 RDMA 기반의 표준화된 데이터 저장소 접근 기술을 확장하고, 개방형 산업 표준 구축에 앞장서고 있습니다.",
-            "summary_en": "NVIDIA is expanding standardized, high-speed RDMA-based storage access for AI workloads through cuObject and the SCADA Server SDK, while leading the industry toward open, interoperable storage standards.",
-            "link": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk"
         }
     ]
 }

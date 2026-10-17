@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-10-16 19:04:55",
+    "last_update": "2026-10-17 18:01:04",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1789591027000,
+            "date": "2026-09-16",
+            "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+            "summary_kr": "NVIDIA의 TensorRT Edge-LLM이 Jetson AGX Thor에서 Qwen3.6-27B 모델을 구동하여, 기존 대비 6.4배 빠른 속도로 MLPerf Edge Agentic 벤치마크를 완료했습니다.",
+            "summary_en": "NVIDIA's TensorRT Edge-LLM achieved a 6.4x speed improvement over the reference implementation in the MLPerf Edge Agentic benchmark, running Qwen3.6-27B on the Jetson AGX Thor platform.",
+            "link": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1789586465000,
+            "date": "2026-09-16",
+            "title": "Microsoft's commitment for AI in education; protecting students, strengthening learning - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 교육 현장에서 AI의 잠재력을 극대화하는 동시에, 안전·보안·투명성을 핵심 원칙으로 삼아 교사 중심의 윤리적인 AI 교육 환경을 구축하겠다는 의지를 밝혔습니다.",
+            "summary_en": "Microsoft is committed to fostering an AI-driven educational environment that maximizes learning potential while strictly adhering to core principles of safety, privacy, and teacher-centric oversight.",
+            "link": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789578000000,
+            "date": "2026-09-16",
+            "title": "Our framework for reporting model misalignment",
+            "summary_kr": "OpenAI는 AI 모델의 정렬 오류(misalignment) 사례를 체계적으로 조사하고 투명하게 공개하기 위한 새로운 보고 프레임워크를 도입하며 업계 표준 마련을 촉구했습니다.",
+            "summary_en": "OpenAI has introduced a new, systematic framework for investigating and disclosing AI model misalignment, aiming to establish industry-wide transparency and reporting standards.",
+            "link": "https://openai.com/index/model-misalignment-reporting-framework"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789560000000,
+            "date": "2026-09-16",
+            "title": "How to connect AI usage to business value",
+            "summary_kr": "기업은 관리자 콘솔의 분석 도구를 통해 AI 사용 현황과 성과를 정량적으로 파악하고, 이를 실제 비즈니스 가치와 연결하여 투자 효율성을 극대화해야 합니다.",
+            "summary_en": "Organizations should leverage admin console analytics to track AI adoption and task performance, effectively bridging usage data with measurable business outcomes to maximize investment value.",
+            "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1789576139000,
+            "date": "2026-09-16",
+            "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+            "summary_kr": "에이전트형 AI를 활용해 cuTile Python 및 Triton-TileIR 커널을 안전하고 효율적인 Rust 코드로 자동 변환하는 워크플로우를 구축하여, 성능 손실을 최소화하면서 GPU 커널의 이식성을 성공적으로 확보했습니다.",
+            "summary_en": "An agentic AI-driven workflow has been developed to translate cuTile Python and Triton-TileIR kernels into Rust, achieving near-native performance while ensuring structural correctness through shared IR verification.",
+            "link": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1789574400000,
+            "date": "2026-09-16",
+            "title": "Helping older adults use AI in everyday life",
+            "summary_kr": "OpenAI는 OATS와 협력하여 미국 10개 도시의 고령층을 대상으로 ChatGPT 활용법 및 온라인 안전 교육을 제공하는 'Older Adults AI Skills Jam' 프로그램을 시작합니다.",
+            "summary_en": "OpenAI is partnering with OATS to launch the 'Older Adults AI Skills Jam,' a program providing hands-on ChatGPT training and online safety education to older adults across 10 U.S. cities.",
+            "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1789568541000,
+            "date": "2026-09-16",
+            "title": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead | The Microsoft Cloud Blog",
+            "summary_kr": "마이크로소프트는 정부 기관의 AI 도입을 가속화하고 보안과 거버넌스를 강화하기 위해 생산성, AI 에이전트, 보안 도구를 통합한 'Microsoft 365 G7'을 GCC 환경에 출시합니다.",
+            "summary_en": "Microsoft is launching Microsoft 365 G7 for GCC environments, integrating productivity, AI agents, and advanced security to support government agencies in scaling AI adoption with mission-critical governance.",
+            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/industry-government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1789563600000,
@@ -837,69 +900,6 @@
             "summary_kr": "AI 네이티브 기업들은 단순한 보조를 넘어 업무 워크플로우에 AI 에이전트를 내재화함으로써 운영 역량을 실질적인 실행 단계로 격상시키고 있습니다. 핵심은 AI에게 안정적인 프로세스를 학습시키고 기업 내부 맥락과 도구를 연결해 반복 가능한 성과를 창출하는 것입니다.",
             "summary_en": "AI-native companies are elevating their operational capabilities by embedding agents directly into workflows, moving beyond assistance to autonomous execution. Success stems from teaching agents stable processes and integrating them with company-specific context to create measurable, repeatable, and scalable outcomes.",
             "link": "https://openai.com/index/ai-native-company-workflows"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788280761000,
-            "date": "2026-09-01",
-            "title": "Responsible AI in 2026: How we are adapting for what’s ahead",
-            "summary_kr": "마이크로소프트는 '2026 책임 있는 AI 투명성 보고서'를 통해 거버넌스 고도화와 기술적 위험 관리를 강화하며, AI 기술 발전 속도에 맞춰 신뢰를 기반으로 한 안전한 AI 생태계를 구축하고 있습니다.",
-            "summary_en": "Microsoft's 2026 Responsible AI Transparency Report highlights the company's commitment to advancing adaptive governance and technical risk management to build a secure, trust-based AI ecosystem amidst rapid technological evolution.",
-            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788274800000,
-            "date": "2026-09-01",
-            "title": "How to Size GPUs for AI Inference and TCO Without Overspending",
-            "summary_kr": "AI 추론 인프라 구축 시, 구체적인 워크로드 패턴과 사용 사례를 분석하여 최적의 GPU 자원을 할당하고 모델 최적화 기법을 도입함으로써 비용 효율성(TCO)을 극대화해야 합니다.",
-            "summary_en": "To optimize TCO when deploying AI inference, organizations must size GPU infrastructure based on specific workload patterns and use cases while leveraging model optimization techniques.",
-            "link": "https://developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788264000000,
-            "date": "2026-09-01",
-            "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-            "summary_kr": "오픈AI가 에픽(Epic) EHR 시스템 및 공공 의료 데이터와의 연동 기능을 도입하여, 의료진이 임상 현장에서 환자 정보를 통합적으로 분석하고 신뢰할 수 있는 최신 의학 데이터를 즉각 활용할 수 있게 했습니다.",
-            "summary_en": "OpenAI has introduced Epic EHR integration and a Healthcare Public Data plugin, enabling clinicians to synthesize authorized patient records with official medical datasets directly within ChatGPT to enhance care and operational efficiency.",
-            "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788220800000,
-            "date": "2026-09-01",
-            "title": "Developing Enterprise Frontier Safeguards with our customers",
-            "summary_kr": "앤스로픽은 고객이 직접 데이터를 제어하는 클라우드 인프라에 저장하여 보안과 프라이버시를 동시에 확보하는 '엔터프라이즈 프론티어 세이프가드(EFS)'를 출시합니다.",
-            "summary_en": "Anthropic is launching 'Enterprise Frontier Safeguards' (EFS), a solution that secures both privacy and safety by enabling customers to store and monitor data within their own controlled cloud infrastructure.",
-            "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1788220800000,
-            "date": "2026-09-01",
-            "title": "Biosecurity at the frontier",
-            "summary_kr": "Grok 4.6은 LatchBio의 생물보안 벤치마크 평가에서 위험한 작업은 효과적으로 차단하면서도 일상적인 생물학적 연구 업무는 높은 수준으로 수행하는 가장 균형 잡힌 AI 모델로 입증되었습니다.",
-            "summary_en": "Grok 4.6 has proven to be the most balanced AI model in LatchBio’s biosecurity evaluations, effectively refusing hazardous queries while maintaining high-performance capabilities for routine biological research.",
-            "link": "https://x.ai/news/biosafety-at-the-frontier"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788159600000,
-            "date": "2026-08-31",
-            "title": "OpenAI supports California’s bill to advance youth AI safety",
-            "summary_kr": "OpenAI는 청소년의 AI 접근성을 유지하면서도 강력한 보호 조치를 의무화하는 캘리포니아주의 'SB 1119' 법안에 대해 공식적인 지지를 표명했습니다.",
-            "summary_en": "OpenAI has officially endorsed California's SB 1119, a bill that mandates robust safety protections for youth while preserving their access to AI-driven educational tools.",
-            "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788159600000,
-            "date": "2026-08-31",
-            "title": "Polimill builds Japan's next-generation public AI infrastructure",
-            "summary_kr": "폴리밀(Polimill)은 오픈AI 기술을 활용해 일본 1,050여 개 지자체의 행정 효율을 높이는 생성형 AI 플랫폼 'QommonsAI'를 구축하고, 이를 일본의 차세대 공공 운영체제(OS)로 발전시키고 있습니다.",
-            "summary_en": "Polimill has developed 'QommonsAI' using OpenAI's technology to streamline workflows for over 1,050 Japanese municipalities, aiming to establish it as a next-generation public operating system.",
-            "link": "https://openai.com/index/polimill"
         }
     ]
 }
