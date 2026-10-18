@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-10-17 18:01:04",
+    "last_update": "2026-10-18 18:18:45",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1790812800000,
+            "date": "2026-10-01",
+            "title": "Barclays scales Claude to upgrade operations and improve client experience",
+            "summary_kr": "바클레이즈(Barclays)가 앤스로픽(Anthropic)과의 파트너십을 확대해 소프트웨어 개발 가속화, 레거시 시스템 현대화, 고객 응대 효율화 등 전사적 운영 혁신에 클로드(Claude)를 전면 도입합니다.",
+            "summary_en": "Barclays is expanding its partnership with Anthropic to integrate Claude across its global operations, aiming to modernize software development, streamline internal processes, and enhance customer experience through secure, AI-driven solutions.",
+            "link": "https://www.anthropic.com/news/barclays-scales-claude"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1790812800000,
@@ -891,15 +900,6 @@
             "summary_kr": "생명과학 검증 프로그램(LSVP)은 신약 개발 등 연구 전문가들이 AI 모델을 안전하고 효과적으로 활용할 수 있도록 맞춤형 안전 가이드라인과 차등화된 접근 권한을 제공합니다.",
             "summary_en": "The Life Sciences Verification Program (LSVP) provides life science professionals with tailored access to AI models, featuring refined safety guardrails to facilitate research such as drug discovery while managing potential risks.",
             "link": "https://www.anthropic.com/news/life-sciences-verification-program"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1789600833000,
-            "date": "2026-09-16",
-            "title": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
-            "summary_kr": "AI 에이전트와 NVIDIA Omniverse 라이브러리를 활용하여 복잡하고 반복적인 3D 장면 시뮬레이션 준비 과정을 자동화함으로써, 로봇 공학 개발의 병목 현상을 해결하고 고품질의 SimReady 환경 구축을 가속화할 수 있습니다.",
-            "summary_en": "Leveraging AI agents and NVIDIA Omniverse libraries automates the labor-intensive 3D scene preparation process, overcoming robotics development bottlenecks and accelerating the creation of simulation-ready environments.",
-            "link": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation"
         }
     ]
 }

@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-10-17 18:01:04",
+    "last_update": "2026-10-18 18:18:45",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1792281600000,
+            "date": "2026-10-18",
+            "title": "Investing in the public benefit",
+            "summary_kr": "앤스로픽은 기업 성장에 따라 지분 출연 규모가 확대되는 '앤스로픽 공익 펀드'를 설립하여 AI가 가져올 사회적 변화에 대응하고 공익적 가치를 실현하고자 합니다.",
+            "summary_en": "Anthropic has established the 'Anthropic Public Benefit Fund,' which scales its equity contributions alongside company growth to proactively address AI-driven societal impacts and advance the public good.",
+            "link": "https://www.anthropic.com/news/public-benefit-fund"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1792178004000,
@@ -891,15 +900,6 @@
             "summary_kr": "NVIDIA NeMo 프레임워크를 활용해 범용 음성 인식 모델인 Nemotron을 사우디아라비아 방언 등 특정 지역 언어 환경에 맞춰 효율적으로 미세 조정하는 실무 가이드를 제시합니다.",
             "summary_en": "This article presents a practical guide to efficiently fine-tuning the NVIDIA Nemotron ASR model for specific regional dialects, such as Saudi Arabic, using the NVIDIA NeMo framework.",
             "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790812800000,
-            "date": "2026-10-01",
-            "title": "Barclays scales Claude to upgrade operations and improve client experience",
-            "summary_kr": "바클레이즈(Barclays)가 앤스로픽(Anthropic)과의 파트너십을 확대해 소프트웨어 개발 가속화, 레거시 시스템 현대화, 고객 응대 효율화 등 전사적 운영 혁신에 클로드(Claude)를 전면 도입합니다.",
-            "summary_en": "Barclays is expanding its partnership with Anthropic to integrate Claude across its global operations, aiming to modernize software development, streamline internal processes, and enhance customer experience through secure, AI-driven solutions.",
-            "link": "https://www.anthropic.com/news/barclays-scales-claude"
         }
     ]
 }
