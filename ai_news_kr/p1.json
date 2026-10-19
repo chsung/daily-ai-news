@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-10-19 08:39:16",
+    "last_update": "2026-10-19 20:27:48",
     "articles": [
+        {
+            "title": "마이크로소프트, 2.8조 파라미터 'MAI-베이스-2' 사전학습 완료 - 디일렉",
+            "summary_kr": "마이크로소프트가 2.8조 개의 파라미터를 갖춘 대규모 언어 모델 'MAI-베이스-2'의 사전학습을 완료했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yZ3dta0EtQ05SWmxBd1JHcE9MMzNoXzlPcHZ0N0UyYWkxVDNzNHE3Y0MxaE5FX0xGU0tscFhPdlprX1RIOWsxek90Q2Ixc0tpMWlLWkpGc0tCa29PUzBNakpQMUY5dw?oc=5",
+            "timestamp": 1792399339000,
+            "date": "2026-10-19"
+        },
+        {
+            "title": "MS, 英 에식스 1조6000억원 AI 데이터센터서 발 빼다…앵커 고객 이탈이 바꾸는 AI 인프라 판세 - https://www.didimkorea.net/",
+            "summary_kr": "마이크로소프트가 영국 에식스 지역의 1조 6,000억 원 규모 AI 데이터센터 건립 계획을 철회하며 AI 인프라 전략에 변화를 예고했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3NGE1eGVWeFk3UnBiVTZMbVFYaVNSczNSSjFPU3hJSFFsdncyRlMxVW50dnZDZnFndnphYW4tczlaZmtnMlBtRU41SVBzTG8?oc=5",
+            "timestamp": 1792426144000,
+            "date": "2026-10-19"
+        },
+        {
+            "title": "일레븐랩스, 대화형 AI 에이전트 구축 도구 '일레븐에이전트 아키텍트' 공개 - 디지틀조선일보",
+            "summary_kr": "일레븐랩스가 사용자들의 대화형 AI 에이전트 구축을 지원하는 전문 도구인 '일레븐에이전트 아키텍트'를 새롭게 공개했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TUnFrelZrWVZiQTgzSTdJZzJrcm1CQzhURHRYY2hwYkZIaTkxcHUxenNtaGdMMk1sbWVXODFYUUdlZjFuYnNkQW5yRS1yTUFZaWhLMEZUQUlnUFJuVjdXQWgtandDeW5rZWl4dUdLelQyblhBeWdoRHdPQdIBe0FVX3lxTE9TUnFrelZrWVZiQTgzSTdJZzJrcm1CQzhURHRYY2hwYkZIaTkxcHUxenNtaGdMMk1sbWVXODFYUUdlZjFuYnNkQW5yRS1yTUFZaWhLMEZUQUlnUFJuVjdXQWgtandDeW5rZWl4dUdLelQyblhBeWdoRHdPQQ?oc=5",
+            "timestamp": 1792409165000,
+            "date": "2026-10-19"
+        },
+        {
+            "title": "개인 AI 비서 스타트업 인스팅트, 2억5000만달러 투자 유치… 기업가치 25억달러로 급등 - Yellow.com",
+            "summary_kr": "개인 AI 비서 스타트업 인스팅트가 2억 5,000만 달러의 투자를 유치하며 기업가치를 25억 달러 규모로 끌어올렸습니다.",
+            "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNR3RlSVlkT0RSRDY3TkZvc1VOaTZpZm5lX25Mc1JNR09GbVJRMzFXUjBoX2xiaElxNlNNX1l0LXpVdm1VNUFJTEp0WjN2bVFENE9xVzgyR00wSjdnM085cVBGdHZTdW9ZNVVjRWdob2taYlRPc3VBQTV6WjQtdTJ0dlR3SkxITkoxUEwtMmdnX1ZLME1KR1pkVjltS3ZPeWxJV01qZWFYYkFoWVNWMUVqVHB2QkE0QVhKTnVKeWtUeXJNVkF4aFdYb29vMTJ6bGF5V1lZQ2lMR1lHS2hqWWhHb0ZSSXM0YlgwWUpDblJvQkNVSGRkVk1xVlY4T2I2d1FIY1R2S293a2RDMzhoZ182V2tTMDhpenRFWFZGYTRFd19rMmktYWptSUc4THdXaHBBZE5fRy15encxXzBEUHdOVzItWGlsbk5KTEh0STluSzlkUmFqdVR4Q20yY1FxS2VKeFVwSkw2NVdtODNzQk5nUTgydGwyeHRqbEdMdWdQcS1UY01ZZFMyOVdVbHFlN2t3WkNOSkFsUDV3dw?oc=5",
+            "timestamp": 1792411939000,
+            "date": "2026-10-19"
+        },
         {
             "title": "제미나이 4 아르곤: 가장 까다로운 난제를 해결하도록 설계된 모델 - blog.google",
             "summary_kr": "구글이 복잡하고 까다로운 난제 해결에 최적화된 차세대 AI 모델 '제미나이 4 아르곤'을 공개하며 모델 성능의 고도화를 추진합니다.",
@@ -671,34 +699,6 @@
             "summary_kr": "오픈AI가 범용 로봇 구현을 위해 액추에이터와 모터 등 하드웨어 부품을 직접 설계하고 양산 공급망까지 구축하는 대규모 채용에 나섰습니다. 이는 단순히 외부 기업에 투자하거나 모델을 공급하던 방식에서 벗어나, 로봇 하드웨어 개발 및 생산 역량을 내재화하려는 전략적 행보로 풀이됩니다.",
             "link": "https://platum.kr/archives/294889",
             "timestamp": 1789810248000,
-            "date": "2026-09-19"
-        },
-        {
-            "title": "앤트로픽-액센추어, AI 안전성 평가에 5년간 각각 10억 달러 투자 - 인공지능신문",
-            "summary_kr": "앤트로픽이 액센추어와 협력하여 AI 모델의 개발부터 배포까지 전 과정을 상주하며 검증하는 '내부 상주형 평가' 체계를 구축합니다. 양사는 향후 5년간 각각 최소 10억 달러를 투입해 독립적인 안전성 평가 생태계를 조성하고 AI 개발의 투명성과 책임을 강화할 방침입니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42007",
-            "timestamp": 1789807629000,
-            "date": "2026-09-19"
-        },
-        {
-            "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축 - AI타임스",
-            "summary_kr": "프리즘ML이 270억 매개변수 규모의 거대언어모델을 3진 가중치 기술로 5.9GB까지 압축한 '터너리 본사이 2 27B'를 공개했습니다. 원본 대비 98.2%의 성능을 유지하면서도 전력 효율과 연산 속도를 대폭 개선해, 클라우드 의존도를 낮춘 고성능 온디바이스 AI 구현 가능성을 입증했습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=215479",
-            "timestamp": 1789806994000,
-            "date": "2026-09-19"
-        },
-        {
-            "title": "미·중 정상회담 의제는…AI·관세 등 논의할 듯 | KB의 생각 - KB Think",
-            "summary_kr": "오는 24일 예정된 미·중 정상회담에서 양국 정상이 AI 기술 규제와 관세 휴전 연장 문제를 주요 의제로 논의할 전망입니다. 이번 회담에는 샘 올트먼, 일론 머스크, 젠슨 황 등 글로벌 주요 기술기업 경영진이 대거 참석하여 양국 간 기술 경쟁과 통상 불확실성 해소 방안을 모색할 예정입니다.",
-            "link": "https://kbthink.com/news-list/view.html?newsId=20260919161048799",
-            "timestamp": 1789801848000,
-            "date": "2026-09-19"
-        },
-        {
-            "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대 - AI타임스",
-            "summary_kr": "앤트로픽이 액센추어를 내부 상주형 AI 안전 평가 기관으로 선정했으나, 기업이 평가 기관에 자금을 직접 지원하는 구조로 인해 객관성과 독립성 논란이 제기되고 있습니다. 제프리 힌튼 등 전문가들은 기업으로부터 재정적으로 완전히 분리된 제3자 평가 체계의 필요성을 강력히 촉구하고 있습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=215480",
-            "timestamp": 1789778323000,
             "date": "2026-09-19"
         }
     ]

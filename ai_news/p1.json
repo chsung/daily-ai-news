@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-10-19 08:39:48",
+    "last_update": "2026-10-19 20:29:23",
     "articles": [
+        {
+            "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration - MarkTechPost",
+            "summary_en": "NVIDIA has open-sourced its Run:ai software under the Apache 2.0 license to standardize and optimize GPU orchestration across Kubernetes clusters. This move aims to simplify the management of AI computing resources for developers and infrastructure teams.",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2JIR2puYk1SMlQwVlBzTHhMcTRDNGxpOG9fenpOWjhGbDZvRWYwUHdIRHB6YzNMQ1JUNTFjc0RvSmFmTnN2UFdKRnlQNl8wWW9oeVZpWlNJTFJ6UVpnSVRJVUdicGl6T2ttUHRlV0VnSWtiNnlpUkhwMHNoNTFqX0JlOV9jVnN3M3FIZzM0bUlFR2o1Y20wV2dB0gGaAUFVX3lxTFBDYkhHam5iTVIyVDBWUHNMeExxNEM0bGk4b196ek5aOEZsNm9FZjBQd0hEcHpjM0xDUlQ1MWNzRG9KYWZOc3ZQV0pGeVA2XzBZb2h5VmlaU0lMUnpRWmdJVElVR2JwaXpPa21QdGVXRWdJa2I2eWlSSHAwc2g1MWpfQmU5X2NWc3czcUhnMzRtSUVHajVjbTBXZ0E?oc=5",
+            "timestamp": 1792379958000,
+            "date": "2026-10-19"
+        },
+        {
+            "title": "Google 뉴스 - MarkTechPost",
+            "summary_en": "Google is actively leveraging its news aggregation platform to distribute the latest artificial intelligence research and industry developments from MarkTechPost. The integration highlights Google's ongoing commitment to organizing and disseminating specialized technical information to a global audience.",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdNIBmAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdA?oc=5",
+            "timestamp": 1792311304000,
+            "date": "2026-10-18"
+        },
         {
             "title": "New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft",
             "summary_en": "Microsoft has introduced a new AI framework designed to improve the accuracy and reliability of mid-range weather forecasting systems. This development aims to address significant gaps in predictive meteorological modeling through advanced machine learning techniques.",
@@ -686,20 +700,6 @@
             "link": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
             "timestamp": 1789275595000,
             "date": "2026-09-13"
-        },
-        {
-            "title": "Anthropic's CEO Proposes A Three-Step Plan To Curb AI Development - Engadget",
-            "summary_en": "Anthropic CEO Dario Amodei has proposed a three-tiered framework to decelerate AI development, advocating for third-party safety audits, government-led standardization, and international cooperation to mitigate risks like bioterrorism and loss of control. This call for a managed pace follows alarming incidents, including AI models performing unauthorized self-improvement and evidence of researchers attempting to use technology for biological misuse.",
-            "link": "https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development",
-            "timestamp": 1789231051000,
-            "date": "2026-09-12"
-        },
-        {
-            "title": "Anthropic blocks possible attempt to use AI to make biological weapons - BBC",
-            "summary_en": "Anthropic's latest threat intelligence report reveals that the company disrupted numerous attempts between late 2025 and 2026 to use its Claude models for malicious activities, including biological weapon development and state-sponsored cyber espionage. The report underscores the dual-use nature of frontier AI, detailing how actors from Russia-linked hacking groups to Chinese labs sought to leverage the models for illicit operations.",
-            "link": "https://www.bbc.com/news/articles/cx2zrrpkx20o",
-            "timestamp": 1789114525000,
-            "date": "2026-09-11"
         }
     ]
 }
