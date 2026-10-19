@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-10-18 18:18:45",
+    "last_update": "2026-10-19 20:45:41",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1790870400000,
+            "date": "2026-10-01",
+            "title": "How Albertsons Companies is reimagining retail from the inside out",
+            "summary_kr": "앨버트슨즈 컴퍼니즈가 OpenAI와의 파트너십을 확대하여 내부 업무 효율을 높이고, 고객에게는 개인화된 쇼핑 경험을 제공하는 AI 혁신을 가속화하고 있습니다.",
+            "summary_en": "Albertsons Companies is expanding its partnership with OpenAI to drive internal operational efficiency and enhance the customer experience through personalized, AI-powered retail solutions.",
+            "link": "https://openai.com/index/albertsons-reimagining-retail"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790830800000,
+            "date": "2026-10-01",
+            "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+            "summary_kr": "NVIDIA NeMo 프레임워크를 활용해 범용 음성 인식 모델인 Nemotron을 사우디아라비아 방언 등 특정 지역 언어 환경에 맞춰 효율적으로 미세 조정하는 실무 가이드를 제시합니다.",
+            "summary_en": "This article presents a practical guide to efficiently fine-tuning the NVIDIA Nemotron ASR model for specific regional dialects, such as Saudi Arabic, using the NVIDIA NeMo framework.",
+            "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1790812800000,
@@ -882,24 +900,6 @@
             "summary_kr": "마이크로소프트는 AI 도입이 단순한 도구 배포를 넘어 비즈니스 성과와 워크플로우 재설계에 집중할 때 실질적인 가치를 창출한다는 '프런티어 기업'의 전략을 제시합니다.",
             "summary_en": "Microsoft demonstrates that successful AI transformation shifts focus from mere tool adoption to achieving concrete business outcomes and redesigning entire workflows as 'Frontier Firms'.",
             "link": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1789654342000,
-            "date": "2026-09-17",
-            "title": "From Ad Astra to Semper Disco: Learning Chip Design with Microsoft Discovery",
-            "summary_kr": "항공우주 엔지니어 출신 저자가 마이크로소프트 디스커버리(Microsoft Discovery)를 활용해 RISC-V 코어와 AI 가속기를 설계하며 칩 설계의 전 과정을 직접 경험한 사례를 공유합니다.",
-            "summary_en": "An aerospace engineer shares their experience using Microsoft Discovery to navigate the entire chip design process, from initial specifications to physical layout, for a RISC-V core and AI accelerator.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/from-ad-astra-to-semper-disco-learning-chip-design-with-microsoft-discovery/4554904"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1789603200000,
-            "date": "2026-09-17",
-            "title": "Introducing the Life Sciences Verification Program",
-            "summary_kr": "생명과학 검증 프로그램(LSVP)은 신약 개발 등 연구 전문가들이 AI 모델을 안전하고 효과적으로 활용할 수 있도록 맞춤형 안전 가이드라인과 차등화된 접근 권한을 제공합니다.",
-            "summary_en": "The Life Sciences Verification Program (LSVP) provides life science professionals with tailored access to AI models, featuring refined safety guardrails to facilitate research such as drug discovery while managing potential risks.",
-            "link": "https://www.anthropic.com/news/life-sciences-verification-program"
         }
     ]
 }

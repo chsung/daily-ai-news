@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-10-18 18:18:45",
+    "last_update": "2026-10-19 20:45:41",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1792429200000,
+            "date": "2026-10-19",
+            "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+            "summary_kr": "제인 스트릿과 NVIDIA는 파이썬 기반의 GPU 프로그래밍 모델인 cuTile을 활용해 Mamba-2 모델의 연산을 최적화하고 텐서 코어 효율성을 극대화했습니다.",
+            "summary_en": "Jane Street and NVIDIA optimized the Mamba-2 model by leveraging cuTile, a Python-based GPU programming model that enables high-performance kernel development and maximizes Tensor Core utilization.",
+            "link": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1792419030000,
+            "date": "2026-10-19",
+            "title": "Securing the agentic insider - The Official Microsoft Blog",
+            "summary_kr": "기업 내 AI 에이전트의 자율성과 예측 불가능성이 새로운 보안 위협인 '에이전트 내부자' 문제를 야기함에 따라, 마이크로소프트는 실시간 감독과 제어를 수행하는 '가디언 에이전트' 기반의 Project Perception을 통해 이를 해결하고자 합니다.",
+            "summary_en": "As the autonomy and unpredictability of enterprise AI agents create risks from 'agentic insiders,' Microsoft is addressing these threats through Project Perception, which utilizes 'Guardian Agents' to provide real-time, continuous supervision and control.",
+            "link": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1792281600000,
@@ -882,24 +900,6 @@
             "summary_kr": "인류의 지적 성취가 물리적 실행 능력을 앞서면서 발생하는 '실행 격차'를 메우기 위해, AI는 단순 반복 업무를 보완하여 인간의 창의적 아이디어를 현실로 구현하는 핵심 동력이 될 것입니다.",
             "summary_en": "As humanity's intellectual ambitions outpace our execution capacity, AI will serve as an essential complement that automates monotonous tasks, bridging the gap between creative vision and physical realization.",
             "link": "https://openai.com/index/the-eternal-complement"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790870400000,
-            "date": "2026-10-01",
-            "title": "How Albertsons Companies is reimagining retail from the inside out",
-            "summary_kr": "앨버트슨즈 컴퍼니즈가 OpenAI와의 파트너십을 확대하여 내부 업무 효율을 높이고, 고객에게는 개인화된 쇼핑 경험을 제공하는 AI 혁신을 가속화하고 있습니다.",
-            "summary_en": "Albertsons Companies is expanding its partnership with OpenAI to drive internal operational efficiency and enhance the customer experience through personalized, AI-powered retail solutions.",
-            "link": "https://openai.com/index/albertsons-reimagining-retail"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790830800000,
-            "date": "2026-10-01",
-            "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
-            "summary_kr": "NVIDIA NeMo 프레임워크를 활용해 범용 음성 인식 모델인 Nemotron을 사우디아라비아 방언 등 특정 지역 언어 환경에 맞춰 효율적으로 미세 조정하는 실무 가이드를 제시합니다.",
-            "summary_en": "This article presents a practical guide to efficiently fine-tuning the NVIDIA Nemotron ASR model for specific regional dialects, such as Saudi Arabic, using the NVIDIA NeMo framework.",
-            "link": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages"
         }
     ]
 }

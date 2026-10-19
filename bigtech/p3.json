@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-10-18 18:18:45",
+    "last_update": "2026-10-19 20:45:41",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1789654342000,
+            "date": "2026-09-17",
+            "title": "From Ad Astra to Semper Disco: Learning Chip Design with Microsoft Discovery",
+            "summary_kr": "항공우주 엔지니어 출신 저자가 마이크로소프트 디스커버리(Microsoft Discovery)를 활용해 RISC-V 코어와 AI 가속기를 설계하며 칩 설계의 전 과정을 직접 경험한 사례를 공유합니다.",
+            "summary_en": "An aerospace engineer shares their experience using Microsoft Discovery to navigate the entire chip design process, from initial specifications to physical layout, for a RISC-V core and AI accelerator.",
+            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/from-ad-astra-to-semper-disco-learning-chip-design-with-microsoft-discovery/4554904"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1789603200000,
+            "date": "2026-09-17",
+            "title": "Introducing the Life Sciences Verification Program",
+            "summary_kr": "생명과학 검증 프로그램(LSVP)은 신약 개발 등 연구 전문가들이 AI 모델을 안전하고 효과적으로 활용할 수 있도록 맞춤형 안전 가이드라인과 차등화된 접근 권한을 제공합니다.",
+            "summary_en": "The Life Sciences Verification Program (LSVP) provides life science professionals with tailored access to AI models, featuring refined safety guardrails to facilitate research such as drug discovery while managing potential risks.",
+            "link": "https://www.anthropic.com/news/life-sciences-verification-program"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1789600833000,
@@ -882,24 +900,6 @@
             "summary_kr": "AI 모델 '아스트라(Astra)'가 인간의 개입 없이 제로데이 취약점을 탐지하고 공격 코드를 생성할 수 있는 '임계 수준(Critical)'의 사이버 보안 능력을 입증함에 따라, 더욱 강화된 안전 장치와 제한적 배포 전략을 적용할 예정입니다.",
             "summary_en": "The 'Astra' model has reached a 'Critical' cybersecurity threshold by demonstrating the ability to independently identify and exploit zero-day vulnerabilities, prompting the implementation of rigorous safety protocols and a phased, restricted release strategy.",
             "link": "https://openai.com/index/path-to-astra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788224400000,
-            "date": "2026-09-01",
-            "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-            "summary_kr": "길버트 앤 토빈은 CEO의 주도적인 리더십과 철저한 거버넌스, 역할별 맞춤 교육을 통해 ChatGPT Enterprise를 성공적으로 도입하며 운영 효율성을 혁신했습니다. 이들은 전문적 판단을 보완하는 도구로서 AI를 활용하여 법률 업무의 생산성을 극대화하고 있습니다.",
-            "summary_en": "Gilbert + Tobin has successfully revolutionized its operational efficiency by integrating ChatGPT Enterprise through CEO-led commitment, rigorous governance, and role-specific training. By positioning AI as a tool to augment professional judgment, the firm has achieved high adoption rates and significant productivity gains.",
-            "link": "https://openai.com/index/gilbert-tobin"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1788282000000,
-            "date": "2026-09-01",
-            "title": "Introducing agentic video understanding with Gemini",
-            "summary_kr": "구글은 Gemini 모델에 동적 분석이 가능한 '에이전트식 비디오 이해' 기능을 도입하여, 기존 정적 처리 대비 토큰 사용량을 최대 88% 줄이고 정확도를 7% 향상했습니다.",
-            "summary_en": "Google has introduced 'agentic video understanding' to Gemini models, enabling dynamic analysis that reduces token consumption by up to 88% and improves accuracy by 7% compared to static processing.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini"
         }
     ]
 }
