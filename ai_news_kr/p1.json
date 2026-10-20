@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-10-19 20:27:48",
+    "last_update": "2026-10-20 08:20:32",
     "articles": [
+        {
+            "title": "\"뇌 신호 이해부터 장기 기억까지\"…MS, 사람과 협업하는 AI 생태계 제시 - 지디넷코리아",
+            "summary_kr": "마이크로소프트가 인간의 뇌 신호를 해석하고 장기 기억을 구현하는 기술을 통해 인간과 긴밀히 협업하는 AI 생태계 구축에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rOU1vWUxPazVnVEJNZUNtclhOUTltT3FtQzIxVkVXUU1FQmJzYk9RTUdib21jZ3hwOUpCRjBhREdObkpMR1gtdU9tTWRERktsSVJqdUZn?oc=5",
+            "timestamp": 1792483040000,
+            "date": "2026-10-20"
+        },
+        {
+            "title": "아마존, 파이토치 개발자에 트레이니엄 AI 칩 개방…코드 재작성 없이 바로 실행 - 인공지능신문",
+            "summary_kr": "아마존이 자사 전용 AI 칩 '트레이니엄'을 파이토치 개발자에게 개방하여, 별도의 코드 수정 없이 즉시 모델 학습을 지원합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tamJneHFENWlQYmJEZHlwZzNFdkNsM0ZVTjRFTEJJSE5PbTlqa1lzdDltM3RscTNiQ3pHZU9fQk10ZDBSa0l4WFFqLXZkb191M2dzS29adnlpWmY5QWZCdFBXVkpqdEE?oc=5",
+            "timestamp": 1792459144000,
+            "date": "2026-10-20"
+        },
+        {
+            "title": "삼성전자 11월 'AI 글래스' 전격 출시, 노태문 구글과 손잡고 메타 아성에 도전장 - 비즈니스포스트",
+            "summary_kr": "삼성전자가 오는 11월 구글과 협력한 'AI 글래스'를 출시하며, 메타가 선점한 웨어러블 AI 시장에 본격적으로 도전합니다.",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uLV9oLWdOTlhDLVdTSUZfVm5neHQxNW5TLURzLWFXR3pLNFFSUXI5VXJtSXJ5WkFKcWF0dml3TnBRdnZMa05RZndxaktwcU54cmMtSDNOaUVSUXQwRUdVcnRNVTJTZFdnTFVlSVlfdU8zQXM?oc=5",
+            "timestamp": 1792476724000,
+            "date": "2026-10-20"
+        },
+        {
+            "title": "[분석] 국산 AI 5사 동맹 체결 ··· 엔비디아 의존 탈피 - 데이터솜",
+            "summary_kr": "국내 AI 기업 5개사가 기술 동맹을 체결하여 엔비디아 중심의 AI 인프라 생태계에 대한 의존도를 낮추고 독자적인 경쟁력을 강화합니다.",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QOXkxSzRhWjVadG84RkdMdUk0My1ma3BBV0U5Z2NvbUk4b0hySV9yM0Z5V2RIT2QzR0ZWY1hQejhwTmIxREJSR1J5UVVYQUY5VEdfZGdUNm5Ob2RSTjFRWXgySGFGVHE5QkxXRtIBcEFVX3lxTFBzSlhmQzRHamZmUklKWDJleXhUQkpFdkZUVm5ScVh4VDlDblJVdnlDb19IaHlrVlRZMlJKeWs2bWhyY3dEenJBRFZyT1JhTDRmODFDckpoQkxjU2NEZXpkTnVlUHR2dGJfdHA0cmFZSGI?oc=5",
+            "timestamp": 1792465200000,
+            "date": "2026-10-20"
+        },
+        {
+            "title": "독일, 엔비디아 손잡고 산업용 AI모델 개발 나선다 - 뉴스1",
+            "summary_kr": "독일 정부가 엔비디아와 협력하여 제조 및 산업 현장에 특화된 고성능 AI 모델 개발을 추진합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WVkZpLTROUWZZdmZLbkk5cExOSjkyUXgxaHBnTGtFMGNWRTd6YzFxWkRTSTZ4cXBsdUl4V0JiS2h2blNlTk1sel8xZV9DWkZNRVVz?oc=5",
+            "timestamp": 1792462794000,
+            "date": "2026-10-20"
+        },
         {
             "title": "마이크로소프트, 2.8조 파라미터 'MAI-베이스-2' 사전학습 완료 - 디일렉",
             "summary_kr": "마이크로소프트가 2.8조 개의 파라미터를 갖춘 대규모 언어 모델 'MAI-베이스-2'의 사전학습을 완료했습니다.",
@@ -665,41 +700,6 @@
             "link": "https://news.kbs.co.kr/news/view.do?ncd=8668055",
             "timestamp": 1789908660000,
             "date": "2026-09-20"
-        },
-        {
-            "title": "경남 방산·제조 피지컬AI 개발…정부·기업 대규모 투자 - 국제신문",
-            "summary_kr": "정부가 2030년까지 경남 제조 현장에 6763억 원을 투입해 피지컬 AI 기술을 고도화하며, KT와 네이버 등 주요 기업들도 방산·제조업 특화 솔루션 확보를 위해 대규모 투자를 단행하고 있습니다.",
-            "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260921.22016006749",
-            "timestamp": 1789896660000,
-            "date": "2026-09-20"
-        },
-        {
-            "title": "“AI 속도조절은 담합”…앤트로픽·오픈AI 등 4곳 피소 - 전자신문",
-            "summary_kr": "앤트로픽과 오픈AI 등 주요 AI 기업 4곳이 AI 기술의 속도 조절을 담합했다는 혐의로 피소되었습니다.",
-            "link": "https://www.etnews.com/20260920000077",
-            "timestamp": 1789874406000,
-            "date": "2026-09-20"
-        },
-        {
-            "title": "\"AI 연구, 실제 실험으로\"…앤트로픽, 자체 생물학 연구실 운영 - v.daum.net",
-            "summary_kr": "앤트로픽이 AI 모델의 생물학 연구를 검증하기 위해 자체 ‘웻랩(Wet Lab)’을 운영하며, AI와 로봇을 결합해 실제 과학 실험을 수행하는 등 기초 생명과학 연구 역량을 강화하고 있습니다.",
-            "link": "https://v.daum.net/v/38LxpqFYk1?f=p",
-            "timestamp": 1789864851000,
-            "date": "2026-09-20"
-        },
-        {
-            "title": "오픈AI 반도체 개발 수장, 삼성서 강연…HBM 넘어 파운드리 협력 주목 [비즈360] - v.daum.net",
-            "summary_kr": "오픈AI의 하드웨어 총괄 리처드 호 부사장이 삼성 AI 포럼에 참석함에 따라, 양사의 HBM 공급을 넘어선 파운드리 분야의 협력 확대 가능성에 업계의 이목이 집중되고 있습니다.",
-            "link": "https://v.daum.net/v/20260920070211131",
-            "timestamp": 1789855331000,
-            "date": "2026-09-19"
-        },
-        {
-            "title": "오픈AI, 로봇의 모터와 기어까지 직접 설계한다 - 플래텀 - 플래텀(Platum)",
-            "summary_kr": "오픈AI가 범용 로봇 구현을 위해 액추에이터와 모터 등 하드웨어 부품을 직접 설계하고 양산 공급망까지 구축하는 대규모 채용에 나섰습니다. 이는 단순히 외부 기업에 투자하거나 모델을 공급하던 방식에서 벗어나, 로봇 하드웨어 개발 및 생산 역량을 내재화하려는 전략적 행보로 풀이됩니다.",
-            "link": "https://platum.kr/archives/294889",
-            "timestamp": 1789810248000,
-            "date": "2026-09-19"
         }
     ]
 }
