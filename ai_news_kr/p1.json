@@ -1,705 +1,705 @@
 {
-    "last_update": "2026-06-19 08:36:45",
+    "last_update": "2026-10-20 08:20:32",
     "articles": [
         {
-            "title": "오픈AI, 생명과학 AI 벤치마크 '라이프사이벤치' 공개...\"실제 연구 역량 측정\" - AI타임스",
-            "summary_kr": "오픈AI는 실제 생명과학 연구 환경의 복잡성을 평가하기 위해 173명의 박사급 전문가가 설계한 벤치마크 '라이프사이벤치'를 공개했습니다. 평가 결과, 신규 모델 'GPT-로절린드'가 기존 모델보다 우수한 과학적 추론 성능을 보였으나, 정밀한 계산 및 자료 해석 분야에서는 여전히 한계를 드러냈습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211895",
-            "timestamp": 1781857058000,
-            "date": "2026-06-19"
+            "title": "\"뇌 신호 이해부터 장기 기억까지\"…MS, 사람과 협업하는 AI 생태계 제시 - 지디넷코리아",
+            "summary_kr": "마이크로소프트가 인간의 뇌 신호를 해석하고 장기 기억을 구현하는 기술을 통해 인간과 긴밀히 협업하는 AI 생태계 구축에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rOU1vWUxPazVnVEJNZUNtclhOUTltT3FtQzIxVkVXUU1FQmJzYk9RTUdib21jZ3hwOUpCRjBhREdObkpMR1gtdU9tTWRERktsSVJqdUZn?oc=5",
+            "timestamp": 1792483040000,
+            "date": "2026-10-20"
         },
         {
-            "title": "메타, 크루소와 1.6GW 컴퓨팅 공급 계약...AI 인프라 확장 가속 - AI타임스",
-            "summary_kr": "메타가 AI 인프라 확장을 위해 데이터센터 기업 크루소와 1.6기가와트 규모의 컴퓨팅 자원 공급 계약을 체결했습니다. 이는 연간 수천억 달러 규모의 AI 인프라 투자 전략의 일환이며, 메타는 최근 자체 AI 서비스 유료화 등을 통해 실질적인 수익 창출 압박에 대응하고 있습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211909",
-            "timestamp": 1781854574000,
-            "date": "2026-06-19"
+            "title": "아마존, 파이토치 개발자에 트레이니엄 AI 칩 개방…코드 재작성 없이 바로 실행 - 인공지능신문",
+            "summary_kr": "아마존이 자사 전용 AI 칩 '트레이니엄'을 파이토치 개발자에게 개방하여, 별도의 코드 수정 없이 즉시 모델 학습을 지원합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tamJneHFENWlQYmJEZHlwZzNFdkNsM0ZVTjRFTEJJSE5PbTlqa1lzdDltM3RscTNiQ3pHZU9fQk10ZDBSa0l4WFFqLXZkb191M2dzS29adnlpWmY5QWZCdFBXVkpqdEE?oc=5",
+            "timestamp": 1792459144000,
+            "date": "2026-10-20"
         },
         {
-            "title": "오픈AI, '트랜스포머' 노암 샤지어 영입...트럼프 AI 고문도 합류 - AI타임스",
-            "summary_kr": "트랜스포머 아키텍처의 핵심 설계자이자 구글 제미나이 개발을 이끌었던 노암 샤지어가 오픈AI의 AI 아키텍처 연구 총괄로 합류했습니다. 이와 동시에 오픈AI는 트럼프 행정부 출신 정책 전문가 딘 볼을 영입해 초지능 AI의 잠재적 위험과 정부 정책 대응을 전담할 '전략적 미래' 팀을 신설했습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211891",
-            "timestamp": 1781835529000,
-            "date": "2026-06-19"
+            "title": "삼성전자 11월 'AI 글래스' 전격 출시, 노태문 구글과 손잡고 메타 아성에 도전장 - 비즈니스포스트",
+            "summary_kr": "삼성전자가 오는 11월 구글과 협력한 'AI 글래스'를 출시하며, 메타가 선점한 웨어러블 AI 시장에 본격적으로 도전합니다.",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uLV9oLWdOTlhDLVdTSUZfVm5neHQxNW5TLURzLWFXR3pLNFFSUXI5VXJtSXJ5WkFKcWF0dml3TnBRdnZMa05RZndxaktwcU54cmMtSDNOaUVSUXQwRUdVcnRNVTJTZFdnTFVlSVlfdU8zQXM?oc=5",
+            "timestamp": 1792476724000,
+            "date": "2026-10-20"
         },
         {
-            "title": "오픈AI, 모델 출시 전 '배포 시뮬레이션' 도입…\"부작용 사전 포착\" - AI타임스",
-            "summary_kr": "오픈AI는 출시 전 실제 서비스 환경을 가상으로 재현해 위험성을 예측하는 '배포 시뮬레이션' 기술을 도입했습니다. 이 기법은 130만 건의 사용자 대화 데이터를 바탕으로 기존 평가 방식의 한계였던 선택 편향과 평가 인지 문제를 해결하고, 실제 출시 후의 위험 발생률을 정밀하게 예측하는 성과를 거두었습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211876",
-            "timestamp": 1781772097000,
-            "date": "2026-06-18"
+            "title": "[분석] 국산 AI 5사 동맹 체결 ··· 엔비디아 의존 탈피 - 데이터솜",
+            "summary_kr": "국내 AI 기업 5개사가 기술 동맹을 체결하여 엔비디아 중심의 AI 인프라 생태계에 대한 의존도를 낮추고 독자적인 경쟁력을 강화합니다.",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QOXkxSzRhWjVadG84RkdMdUk0My1ma3BBV0U5Z2NvbUk4b0hySV9yM0Z5V2RIT2QzR0ZWY1hQejhwTmIxREJSR1J5UVVYQUY5VEdfZGdUNm5Ob2RSTjFRWXgySGFGVHE5QkxXRtIBcEFVX3lxTFBzSlhmQzRHamZmUklKWDJleXhUQkpFdkZUVm5ScVh4VDlDblJVdnlDb19IaHlrVlRZMlJKeWs2bWhyY3dEenJBRFZyT1JhTDRmODFDckpoQkxjU2NEZXpkTnVlUHR2dGJfdHA0cmFZSGI?oc=5",
+            "timestamp": 1792465200000,
+            "date": "2026-10-20"
         },
         {
-            "title": "MS, 에이전틱 시스템 ‘코파일럿 코워크’ 정식 출시…앤트로픽 모델 기반 - AI타임스",
-            "summary_kr": "마이크로소프트는 앤트로픽의 최신 모델을 탑재한 에이전틱 시스템 ‘코파일럿 코워크’를 정식 출시하며, 기업의 복잡한 업무 자동화와 효율적인 비용 구조를 지원합니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211872",
-            "timestamp": 1781765097000,
-            "date": "2026-06-18"
+            "title": "독일, 엔비디아 손잡고 산업용 AI모델 개발 나선다 - 뉴스1",
+            "summary_kr": "독일 정부가 엔비디아와 협력하여 제조 및 산업 현장에 특화된 고성능 AI 모델 개발을 추진합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WVkZpLTROUWZZdmZLbkk5cExOSjkyUXgxaHBnTGtFMGNWRTd6YzFxWkRTSTZ4cXBsdUl4V0JiS2h2blNlTk1sel8xZV9DWkZNRVVz?oc=5",
+            "timestamp": 1792462794000,
+            "date": "2026-10-20"
         },
         {
-            "title": "소스코드 아닌 AI 역량이 규제 대상…앤트로픽 분쟁이 바꾼 ‘수출’의 개념 - cio.com",
-            "summary_kr": "미 상무부의 최근 규제는 AI 모델에 대한 접근 자체를 수출 행위로 간주하여, 기업들이 기술 스택 상위 계층인 지능 모델 운용 시 국적과 보안 문제를 더욱 엄격히 고려해야 함을 시사합니다.",
-            "link": "https://www.cio.com/article/4186581/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%95%84%EB%8B%8C-ai-%EC%97%AD%EB%9F%89%EC%9D%B4-%EA%B7%9C%EC%A0%9C-%EB%8C%80%EC%83%81%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-%EB%B6%84%EC%9F%81%EC%9D%B4.html",
-            "timestamp": 1781757615000,
-            "date": "2026-06-18"
+            "title": "마이크로소프트, 2.8조 파라미터 'MAI-베이스-2' 사전학습 완료 - 디일렉",
+            "summary_kr": "마이크로소프트가 2.8조 개의 파라미터를 갖춘 대규모 언어 모델 'MAI-베이스-2'의 사전학습을 완료했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yZ3dta0EtQ05SWmxBd1JHcE9MMzNoXzlPcHZ0N0UyYWkxVDNzNHE3Y0MxaE5FX0xGU0tscFhPdlprX1RIOWsxek90Q2Ixc0tpMWlLWkpGc0tCa29PUzBNakpQMUY5dw?oc=5",
+            "timestamp": 1792399339000,
+            "date": "2026-10-19"
         },
         {
-            "title": "\"한국은 혁신과 안전을 함께 추구하는 AI 강국\"...앤트로픽, 서울 사무소 공식 개소 - 인공지능신문",
-            "summary_kr": "앤트로픽이 서울 사무소를 공식 개소하며 네이버, 삼성SDS 등 국내 기업과 연구기관을 아우르는 협력 생태계를 구축하고, 한국의 AI 안전성 및 기술 경쟁력을 기반으로 아시아 시장 공략을 본격화합니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40564",
-            "timestamp": 1781745357000,
-            "date": "2026-06-18"
+            "title": "MS, 英 에식스 1조6000억원 AI 데이터센터서 발 빼다…앵커 고객 이탈이 바꾸는 AI 인프라 판세 - https://www.didimkorea.net/",
+            "summary_kr": "마이크로소프트가 영국 에식스 지역의 1조 6,000억 원 규모 AI 데이터센터 건립 계획을 철회하며 AI 인프라 전략에 변화를 예고했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3NGE1eGVWeFk3UnBiVTZMbVFYaVNSczNSSjFPU3hJSFFsdncyRlMxVW50dnZDZnFndnphYW4tczlaZmtnMlBtRU41SVBzTG8?oc=5",
+            "timestamp": 1792426144000,
+            "date": "2026-10-19"
         },
         {
-            "title": "구글이 3조 넘게 써서 다시 데려온 '제미나이' 핵심축, 오픈AI로 떠난다 - 지디넷코리아",
-            "summary_kr": "구글의 제미나이 개발을 총괄해 온 핵심 인물 노엄 샤지어가 구글을 떠나 오픈AI로 이직합니다. 그는 트랜스포머 기술의 공동 저자이자 구글이 약 3조 5천억 원을 들여 재영입했던 핵심 연구자입니다.",
-            "link": "https://zdnet.co.kr/view/?no=20260618120145",
-            "timestamp": 1781760078000,
-            "date": "2026-06-18"
+            "title": "일레븐랩스, 대화형 AI 에이전트 구축 도구 '일레븐에이전트 아키텍트' 공개 - 디지틀조선일보",
+            "summary_kr": "일레븐랩스가 사용자들의 대화형 AI 에이전트 구축을 지원하는 전문 도구인 '일레븐에이전트 아키텍트'를 새롭게 공개했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TUnFrelZrWVZiQTgzSTdJZzJrcm1CQzhURHRYY2hwYkZIaTkxcHUxenNtaGdMMk1sbWVXODFYUUdlZjFuYnNkQW5yRS1yTUFZaWhLMEZUQUlnUFJuVjdXQWgtandDeW5rZWl4dUdLelQyblhBeWdoRHdPQdIBe0FVX3lxTE9TUnFrelZrWVZiQTgzSTdJZzJrcm1CQzhURHRYY2hwYkZIaTkxcHUxenNtaGdMMk1sbWVXODFYUUdlZjFuYnNkQW5yRS1yTUFZaWhLMEZUQUlnUFJuVjdXQWgtandDeW5rZWl4dUdLelQyblhBeWdoRHdPQQ?oc=5",
+            "timestamp": 1792409165000,
+            "date": "2026-10-19"
         },
         {
-            "title": "두산로보틱스 '데이터'-엔비디아 'AI 엔진' 융합...피지컬 AI 고도화 - 지디넷코리아",
-            "summary_kr": "두산로보틱스가 엔비디아와 협력하여 산업용 휴머노이드 상용화를 추진합니다. 양사는 시뮬레이션 환경과 현장 데이터를 결합한 ‘피지컬 AI’ 고도화를 통해 로봇의 물리적 상호작용 능력을 극대화할 전망입니다.",
-            "link": "https://zdnet.co.kr/view/?no=20260618152855",
-            "timestamp": 1781765211000,
-            "date": "2026-06-18"
+            "title": "개인 AI 비서 스타트업 인스팅트, 2억5000만달러 투자 유치… 기업가치 25억달러로 급등 - Yellow.com",
+            "summary_kr": "개인 AI 비서 스타트업 인스팅트가 2억 5,000만 달러의 투자를 유치하며 기업가치를 25억 달러 규모로 끌어올렸습니다.",
+            "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNR3RlSVlkT0RSRDY3TkZvc1VOaTZpZm5lX25Mc1JNR09GbVJRMzFXUjBoX2xiaElxNlNNX1l0LXpVdm1VNUFJTEp0WjN2bVFENE9xVzgyR00wSjdnM085cVBGdHZTdW9ZNVVjRWdob2taYlRPc3VBQTV6WjQtdTJ0dlR3SkxITkoxUEwtMmdnX1ZLME1KR1pkVjltS3ZPeWxJV01qZWFYYkFoWVNWMUVqVHB2QkE0QVhKTnVKeWtUeXJNVkF4aFdYb29vMTJ6bGF5V1lZQ2lMR1lHS2hqWWhHb0ZSSXM0YlgwWUpDblJvQkNVSGRkVk1xVlY4T2I2d1FIY1R2S293a2RDMzhoZ182V2tTMDhpenRFWFZGYTRFd19rMmktYWptSUc4THdXaHBBZE5fRy15encxXzBEUHdOVzItWGlsbk5KTEh0STluSzlkUmFqdVR4Q20yY1FxS2VKeFVwSkw2NVdtODNzQk5nUTgydGwyeHRqbEdMdWdQcS1UY01ZZFMyOVdVbHFlN2t3WkNOSkFsUDV3dw?oc=5",
+            "timestamp": 1792411939000,
+            "date": "2026-10-19"
         },
         {
-            "title": "[2026 경향포럼]마이클 바스카 MSAI 전략·커뮤니케이션 리더 “초지능 AI, 내년도 가능…에이전트 운용에 기업 경쟁력 달려” - 경향신문",
-            "summary_kr": "마이크로소프트의 마이클 바스카 리더는 향후 1년 내 초지능 AI 시대가 도래하며, 기업 경쟁력의 척도가 직원 수에서 '1인당 에이전트 운용 비율'로 전환될 것이라고 전망했습니다. 또한 거대 기술 기업의 데이터센터 투자가 HBM 시장을 주도하는 한국 기업으로 집중될 것으로 내다봤습니다.",
-            "link": "https://www.khan.co.kr/article/202606172153005",
-            "timestamp": 1781700780000,
-            "date": "2026-06-17"
+            "title": "제미나이 4 아르곤: 가장 까다로운 난제를 해결하도록 설계된 모델 - blog.google",
+            "summary_kr": "구글이 복잡하고 까다로운 난제 해결에 최적화된 차세대 AI 모델 '제미나이 4 아르곤'을 공개하며 모델 성능의 고도화를 추진합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51czdyblRzU3U2a2lYWTQyQXhPYjJCTmxWVjE2RS13NVlySzBZQ0VVRjRVSkFLYVZKZTlJLWZfSmxlT3g3TFRNS09KRE1waEhKd1lCSWI3TWo5OUxXRFBlVU9EdUlEU3d3VjFfR21ySjVCZlNpbFEyTFlR?oc=5",
+            "timestamp": 1792392647000,
+            "date": "2026-10-19"
         },
         {
-            "title": "AI안전연구소-오픈AI 업무협약 체결...최첨단 AI 안전성 검증 공동 추진 - 테크데일리",
-            "summary_kr": "한국 인공지능안전연구소와 오픈AI가 업무협약을 맺고 고위험 AI 안전성 평가 방법론과 벤치마크 구축에 나섰습니다. 이번 협력을 통해 한국은 미국, 영국, 일본에 이어 네 번째로 오픈AI의 안전 파트너가 되었으며, 국내 사회적 맥락을 반영한 국제 표준 수준의 평가 체계를 마련할 계획입니다.",
-            "link": "https://www.techdaily.co.kr/news/articleViewAmp.html?idxno=28772",
-            "timestamp": 1781711627000,
-            "date": "2026-06-17"
+            "title": "“10억불 피해·50명 사상 아니면 놔둬라”…앤트로픽, 미 AI 규제안 제안 - 한겨레",
+            "summary_kr": "앤트로픽이 AI의 위험 수준을 10억 달러 규모의 피해나 50명 이상의 사상자로 한정하는 구체적인 미국 AI 규제안을 제안했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16eUNBRFhWeGZwUTYtQzVSMWU1VmtjZFJKdVZ5T1BfY1I0QTdFdm16MDFPcFFfa2xUcHRBeVpBQThoZ2VrdUJkdmdjaFNLOXF0RmxfaGhZZ3NNWk5XSmpIeQ?oc=5",
+            "timestamp": 1792394883000,
+            "date": "2026-10-19"
         },
         {
-            "title": "트럼프, 앤트로픽 ‘미토스’ 수출 제한…AI 인재전쟁으로 번지나 - 한겨레",
-            "summary_kr": "트럼프 행정부의 앤트로픽 모델 수출 제한 조치 이후, 실리콘밸리에서는 외국인 연구진 규제와 고성능 AI 사전 허가제 도입에 대한 우려가 확산되고 있습니다. 오픈AI 등 주요 빅테크 기업들은 국가 안보를 명분으로 한 인재 유입 차단이 미국의 AI 경쟁력을 저해할 수 있다며 경계감을 표하고 있습니다.",
-            "link": "https://www.hani.co.kr/arti/economy/it/1264027.html",
-            "timestamp": 1781694780000,
-            "date": "2026-06-17"
+            "title": "애플, 스스로 화면 360도 회전하는 가정용 AI 기기 개발... 이르면 내년 출시 - 조선일보",
+            "summary_kr": "애플이 화면이 360도 회전하는 기능을 탑재한 가정용 AI 기기를 개발 중이며, 이르면 내년 중 시장에 출시할 것으로 전망됩니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQU4zcy15cjNnTmpXdEJDVTlVU0FXZGw3OVVwS0FLTHNOUDNqWlJWUGpBSmR6ZXJrNjk5R2lUNGhoUF93MWs0dW9QT2FCSl9sM0tfcXZmcTZiWkZTNmpBdW0wU0Mwb2dSMVNVakdaOWM1OEU3QUNnWUF5YWZVc0pOLVdCNA?oc=5",
+            "timestamp": 1792372855000,
+            "date": "2026-10-19"
         },
         {
-            "title": "구글 클라우드, 서울 리전에  AI 기반 ‘구글 보안 운영 플랫폼’ 공식 출시… 국내 기업의 데이터 주권 강화 - 인공지능신문",
-            "summary_kr": "구글 클라우드가 서울 리전에 보안 운영 플랫폼을 공식 출시하며 국내 기업의 데이터 주권과 보안 거버넌스 강화를 지원합니다. 제미나이 모델 기반의 자동화 기술을 통해 기존 30분 소요되던 위협 조사 시간을 1분으로 단축했으며, 금융 등 규제 산업군에서도 보안 AI를 활용한 선제적 방어 체계 구축이 가능해졌습니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40550",
-            "timestamp": 1781676902000,
-            "date": "2026-06-17"
+            "title": "AI가 가설 세우고 로봇이 실험…구글, 자율 실험실 연구 공개 - https://www.newsinspace.kr/",
+            "summary_kr": "구글이 AI가 직접 가설을 수립하고 로봇이 이를 실험하는 자율 실험실 연구 결과를 공개하며 과학적 연구 자동화의 새로운 가능성을 제시했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnMkVocWNENEJBOVRMVUFqX3VWZjcwQk5JcWZOMUZ0MWt4RG9QaEo4UV9EcE9YbWZaNVFXUl9oOWRaSXFWSV94dUstbDFVdU9lR1BVUjlmcGpESmVrUWI1TVAzc24tSFVyQ2J3?oc=5",
+            "timestamp": 1792373288000,
+            "date": "2026-10-19"
         },
         {
-            "title": "애플 부사장 “좌절스러워”...‘1억명 아이폰’ 유럽에 ‘시리 AI’ 출시 안하는 이유 - 조선일보",
-            "summary_kr": "애플이 유럽연합(EU)의 디지털시장법(DMA)에 따른 데이터 개방 요구가 프라이버시 침해를 야기할 수 있다는 이유로 유럽 내 ‘시리 AI’ 출시를 보류했습니다. 애플은 사용자 정보를 보호하기 위한 기기 내 설계를 강조하는 반면, 일각에서는 이를 독점적 지위를 유지하기 위한 폐쇄 전략으로 해석하고 있습니다.",
-            "link": "https://www.chosun.com/economy/tech_it/2026/06/17/7OUDPHLDWBARDHHKQI4LHPXXZM",
-            "timestamp": 1781671014000,
-            "date": "2026-06-17"
+            "title": "오픈AI ‘AI 일탈’ 영향 가능성 100곳 넘어…美 캘리포니아 조사 확대 - 경북매일",
+            "summary_kr": "미국 캘리포니아주 당국이 오픈AI의 AI 모델이 초래할 수 있는 잠재적 일탈 위험과 관련해 100곳 이상의 기관을 대상으로 조사 범위를 확대했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMWWN5ZTFJUDg3U0xIM3puMUZCWjFxRFVrZWVBVEhEbGp1elFyZTZLdTl0a1NxeUhKbGlYOHg5N0F3Nzl3QU5qYVFwaTF5T00tTzEtRm0wS3BjZw?oc=5",
+            "timestamp": 1790991060000,
+            "date": "2026-10-03"
         },
         {
-            "title": "미국 정부, AI 기업 '외국인 직원' 첨단 모델 접근 금지 검토...\"중국 기술 유출 우려\" - AI타임스",
-            "summary_kr": "미국 정부가 국가 안보 및 첨단 기술 유출 방지를 위해 중국 등 특정 국가 인력이 미국의 고도화된 AI 모델 개발 및 운영에 접근하는 것을 제한하는 방안을 검토 중인 것으로 알려졌습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211809",
-            "timestamp": 1781681359000,
-            "date": "2026-06-17"
+            "title": "마이크로소프트, 실시간 전사·음성합성 모델 공개…음성 AI 에이전트 개발 지원 - 디지털투데이",
+            "summary_kr": "마이크로소프트가 실시간 전사 및 음성 합성 기능을 갖춘 신규 AI 모델을 공개하며, 개발자들이 고도화된 음성 AI 에이전트를 구축할 수 있도록 지원합니다.",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqMlI0UHFmTHpLV3NhNzlZRXBvTS00WUdYY3FvLWNCYVpmQ1BTXzExbXJjb2dtZWgzMHJaaGpVM3JPWmw0UWtnYWwxaWhtT05yZTBrNzJqc2dtYmhfa0tiMDRsVzBMQkw4OURtYTg2STY1RHM?oc=5",
+            "timestamp": 1790987828000,
+            "date": "2026-10-03"
         },
         {
-            "title": "HPE, 엔비디아 손잡고 '에이전틱 AI' 실전 투입 나선다 - 지디넷코리아",
-            "summary_kr": "HPE가 엔비디아와 협력하여 기업용 에이전틱 AI를 실제 업무 환경에 최적화된 형태로 구현할 수 있는 풀스택 인프라 솔루션을 강화했습니다. 이번 협력을 통해 데이터 보안과 거버넌스를 확보하는 동시에 토큰 응답 시간을 최대 20배 단축하는 등 기업의 실질적인 AI 전환을 지원할 전망입니다.",
-            "link": "https://zdnet.co.kr/view/?no=20260617110215",
-            "timestamp": 1781661779000,
-            "date": "2026-06-17"
+            "title": "'나만의 클로드 코드' 만든다...앤트로픽, 커스텀 확장 기능 '모드' 출시 - AI타임스",
+            "summary_kr": "앤트로픽이 클로드 AI에 사용자가 직접 커스텀 확장 기능을 구현할 수 있는 '모드(Modes)' 기능을 도입하여 개인화된 작업 환경을 제공합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0ZnRRSkFTSWQzVkhMLXFWaW04Wkx6UE04X1ptQXlDRW5wdnM2akV5ODVtTEJVM2VmNXFSbmpXZS1CU01hVVRRTXRmMC1nWHlhSTk1NW5GcHl4NXF6ck8ybldaYzlzNjA5UlE?oc=5",
+            "timestamp": 1791004992000,
+            "date": "2026-10-03"
         },
         {
-            "title": "오픈AI, 6월 말 GPT-5.6 출시 유력 - 디지털투데이",
-            "summary_kr": "오픈AI가 6월 말 출시를 앞둔 GPT-5.6은 최대 150만 토큰의 문맥 창과 강화된 에이전트형 코딩 능력을 갖출 것으로 보입니다. 경쟁사 대비 저렴한 API 가격 정책을 통해 시장 점유율 확대를 노릴 전망입니다.",
-            "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675674",
-            "timestamp": 1781616147000,
-            "date": "2026-06-16"
+            "title": "메타, 오픈소스 '뮤즈 가젯' 공개...AI 에이전트 하드웨어 이식 본격화 - AI타임스",
+            "summary_kr": "메타가 오픈소스 '뮤즈 가젯'을 공개하며 AI 에이전트를 물리적 하드웨어에 직접 탑재하고 구동하기 위한 기술적 토대를 마련했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10WHNDWWwtLXdhdTNRbjhYblJBcTBWb0t6T0c1T2tIbjJTYWt2SHNsZ0hQV2N4WkpmQVNTcFgwWE9aSDFVT18tWE9PbkRHdU5kcWFCTWNDdnItLS1SWFBHX3Q3aE5hYkZpLUE?oc=5",
+            "timestamp": 1791002086000,
+            "date": "2026-10-03"
         },
         {
-            "title": "챗GPT 점유율 50% 밑으로...제미나이·클로드 약진 - 디지털투데이",
-            "summary_kr": "챗GPT의 글로벌 점유율이 5월 기준 46.4%로 하락하며 처음으로 50% 선이 무너졌습니다. 제미나이와 클로드 등 후발 주자들이 추격하는 가운데, 이용자들은 브랜드 신뢰도와 가치관을 고려해 플랫폼을 이동하는 추세입니다.",
-            "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675665",
-            "timestamp": 1781609615000,
-            "date": "2026-06-16"
+            "title": "AI 에이전트 보안 위험 차단... 애플, 맥OS ‘전체 디스크 접근 권한’ 규제 강화 - v.daum.net",
+            "summary_kr": "애플이 AI 에이전트의 보안 위협을 방지하기 위해 맥OS의 '전체 디스크 접근 권한'에 대한 보안 규제를 한층 강화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44Q0JRZmFYbUt6R1V0aDd1d3N5SWRDdkFXR1dqM3NnY2xQd1FwVXVvVEJ0ZVV4VHMzdjlxbnU3VU95aUgzVVd5bktWNEhhWnJ4QnZfUw?oc=5",
+            "timestamp": 1790989908000,
+            "date": "2026-10-03"
         },
         {
-            "title": "엔비디아 손잡은 SK텔레콤, AI 데이터센터 운영 두뇌 만든다 - 서울경제",
-            "summary_kr": "SK텔레콤이 엔비디아와 협력하여 AI 데이터센터 운영의 핵심인 AI 두뇌 기술 개발에 나섭니다.",
-            "link": "https://m.sedaily.com/amparticle/20056496",
-            "timestamp": 1781600253000,
-            "date": "2026-06-16"
+            "title": "[AI 리뷰] “AI도 뇌처럼 연산한다”…중국과학원, 400만 토큰서 100배 가속한 ‘스파이킹브레인’ - 인공지능신문",
+            "summary_kr": "중국과학원이 인간 뇌의 연산 방식을 모방한 '스파이킹브레인'을 개발하여, 400만 토큰 규모의 연산 속도를 기존 대비 100배 가속화하는 성과를 거두었습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvQkJ0UGpCclMzQmRlblhCQ0ZaSDNuc20ybVRvVnhEdjNfZC1pV01vVW5GZmEwYWVQNFhXS3VFUmhkdFhPUjFLUUpFRlFpVVVHTW9MQTk2S0JKUThoZWUxZXdnTTVSdTQ?oc=5",
+            "timestamp": 1790935454000,
+            "date": "2026-10-02"
         },
         {
-            "title": "엔비디아, 진료실의 'AI 비서' 만든다…헬스케어 스타트업 에이브릿지와 의료 기록 자동화 공동 개발 - 브랜드경제신문",
-            "summary_kr": "엔비디아가 헬스케어 스타트업 에이브릿지와 협력해 자사 네모트론 모델을 기반으로 진료 기록을 자동화하는 의료 AI 비서를 공동 개발합니다. 이는 의료진의 행정 부담을 줄이고 환자 진료 효율을 높이기 위한 차원입니다.",
-            "link": "https://www.benews.co.kr/news/511816",
-            "timestamp": 1781630500000,
-            "date": "2026-06-16"
+            "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아 데이터센터 확보 - AI타임스",
+            "summary_kr": "텐센트가 미국의 대중국 AI 반도체 수출 규제를 우회하기 위해 오라클로부터 AI 칩 10만 개를 임대하고, 동남아시아 지역에 데이터센터를 구축하여 인프라를 확보했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Eek9ZOUx0YThCU2Z5czZpZkk2X1dCU1Rjc0daaklaN2o2b25VMUE5SHdSMlJWUDJOdHJHNlF6bHJVTFBkQnQ1OWFsRm9kd1VDU0tORUlzZGExUWpyMHpESWN1NmdrOGxEMGc?oc=5",
+            "timestamp": 1790929115000,
+            "date": "2026-10-02"
         },
         {
-            "title": "[자막뉴스] 현존 최고 AI, 출시 3일 만에 '강제 퇴출'…'퇴출 이유' 한국 기업까지 불똥? - SBS 뉴스",
-            "summary_kr": "미국 정부가 보안 취약점과 중국 연계 의혹을 이유로 앤트로픽의 최신 AI 모델인 미토스5와 페이블5의 전 세계 사용을 강제 중단시켰습니다. 이번 조치는 정부의 과도한 AI 규제 선례를 남겼다는 비판과 함께 국내 기업으로의 파장까지 우려되는 상황입니다.",
-            "link": "https://m.news.sbs.co.kr/news/endPage.do?newsId=N1008613034",
-            "timestamp": 1781599140000,
-            "date": "2026-06-16"
+            "title": "[마이크로소프트 코파일럿, '슈퍼 앱'으로 진화… 채팅 넘어 자율 에이전트·코딩까지 품는다] Microsoft Copilot은 AI 비서에서 대화형 AI, 생산성 소프트웨어, 자율 에이전트를 결합한 더 넓은 플랫폼으로 확장 - AI넷",
+            "summary_kr": "마이크로소프트 코파일럿이 단순 AI 비서를 넘어 자율 에이전트와 코딩 기능을 결합한 종합 생산성 플랫폼인 '슈퍼 앱'으로 진화합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5CY1pFSjNkUi1Iend4dktjQkx0a0thX21UWkxCbThUWmRsVEtyWnAySG1EME4zd2ZvWFBjbUo1QWM?oc=5",
+            "timestamp": 1790950352000,
+            "date": "2026-10-02"
         },
         {
-            "title": "최상위까지 美 통제···韓, ‘AI 거대 규제’ 직격탄에 독자 생존 ‘비상’ - 이뉴스투데이",
-            "summary_kr": "미국 정부가 앤트로픽의 최상위 AI 모델을 수출 통제 대상으로 지정하며 한국 기업들의 외산 AI 의존 리스크가 현실화했습니다. 이에 정부와 산업계는 독자적인 파운데이션 모델 확보와 국제 표준 선점, 그리고 보안 강화를 통해 국가적 차원의 AI 자립성을 높이는 데 주력하고 있습니다.",
-            "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2439424",
-            "timestamp": 1781598568000,
-            "date": "2026-06-16"
+            "title": "英 바클레이스, 전사에 클로드 확대…\"운영 효율성 향상 및 고객 경험 개선\" - 인공지능신문",
+            "summary_kr": "영국 바클레이스가 앤트로픽의 생성형 AI 모델 '클로드'를 전사적으로 도입하여 운영 효율성을 높이고 고객 경험을 개선합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NVS1zcVZ2TXZncUlEdlMyc3Y0LVA1ZzRlU3pwSk00eE1ZZnBfMG9wTGJ4NVZRVDdRZW16X3Jza3NwOTl5c00wT3FCdUU4X0x5cDVpYkppYnZlY0EyWmJrdjZWREdNYlk?oc=5",
+            "timestamp": 1790917796000,
+            "date": "2026-10-02"
         },
         {
-            "title": "“방어자 위한 무기 빼앗겼다”... 미 보안 리더들, 앤트로픽 페이블5 규제 철회 촉구 - 보안뉴스",
-            "summary_kr": "130여 명의 글로벌 보안 전문가들은 앤트로픽의 '페이블5' 접근 제한 조치가 오히려 방어자의 대응 역량을 약화시킨다고 비판하며 규제 철회를 촉구했습니다. 이들은 해당 모델이 취약점 개념 증명에 필수적인 도구임을 강조하며, 과도한 규제가 미국의 AI 기술 주도권을 저해하고 중국과의 경쟁 구도에서 불리하게 작용할 것을 우려했습니다.",
-            "link": "https://m.boannews.com/html/detail.html?idx=144127",
-            "timestamp": 1781575320000,
-            "date": "2026-06-16"
+            "title": "오픈AI, '안전 우려' 제기하던 연구원 3명 전격 해고…\"외부 연구 기관에 기밀 넘겼다\" - AI포스트",
+            "summary_kr": "오픈AI가 기밀 정보를 외부 연구 기관에 유출했다는 이유로 안전성 문제를 지속적으로 제기해온 연구원 3명을 해고했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wVklHYVAyb1VWVXA2REltU2FBOWJLS1Z1SWlQVHhFeTR1d0k3bE9mMmU2ZFVvcEp4Q190eU81QmJyeXJ1WG9BSC13bnBJMkdDVE01RXp3d3ExNkpLSDZlalJwSWZETUZ6cUhMaWZn0gFyQVVfeXFMTy1yTFhJUjEzYUZDSVptbUpOUVF6aTFCeHNDZmQ4enVmVGdhNkRZYXAwclFxMGl4U0g3dmZTbUFDOXB5VFZzQVhLWHl1SC1TYUxETHFlbnR4X3VtRFRqZFRCVFdrbFN5VkticU5MUUxiRUZn?oc=5",
+            "timestamp": 1790915877000,
+            "date": "2026-10-02"
         },
         {
-            "title": "[AI 뉴스] 구글의 초강수! 노트북LM, 오피스 생태계 집어삼킬 '만능 AI 에이전트' 전격 등판 - 아웃소싱타임스",
-            "summary_kr": "구글은 '노트북LM'의 대규모 업데이트를 통해 실시간 인터넷 검색과 자동 데이터 분석, PPT 슬라이드 생성 기능을 갖춘 자율 에이전트 서비스를 구현했습니다. 마이크로소프트 오피스와의 완벽한 호환성을 바탕으로 비즈니스 문서 작성 업무를 자동화함으로써, 일반 사용자도 대기업 수준의 기획 리포트를 손쉽게 작성할 수 있는 혁신적인 업무 환경을 제공할 전망입니다.",
-            "link": "https://www.outsourcing.co.kr/news/articleView.html?idxno=202950",
-            "timestamp": 1781559066000,
-            "date": "2026-06-15"
+            "title": "앤트로픽 클로드, 美 연방기관 속으로…정부 전용 AI 출시 - digitaltoday.co.kr",
+            "summary_kr": "앤트로픽이 미국 연방 정부 기관의 보안 요구사항을 충족하는 정부 전용 클로드 모델을 출시하며 공공 부문 AI 시장 공략을 본격화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QTHRRNVFyUFp4N1RVMU9jdXZUNnlrVkZ3S1cxUjdxVzhJSWxfdi1wMzdhYlRoSzVfZjZMbl9DanVzeVBCZnNSaFpNdHdKbTUxMUNrWmZIREFBTmc5V2NZYVMxSDkwazFlb0NwMXhWVVdPNms?oc=5",
+            "timestamp": 1790898532000,
+            "date": "2026-10-01"
         },
         {
-            "title": "엔비디아, 윈도 AI PC 'RTX 스파크' 3분기 출시...승부수 통할까 - 지디넷코리아",
-            "summary_kr": "엔비디아가 3분기 Arm 기반의 고성능 AI PC 플랫폼 'RTX 스파크'를 출시하며 윈도 생태계 공략에 나섰으나, 높은 원가 구조와 재고 부담으로 인해 시장 안착 여부는 불투명하다는 평가를 받고 있습니다.",
-            "link": "https://zdnet.co.kr/view/?no=20260615155159",
-            "timestamp": 1781512963000,
-            "date": "2026-06-15"
+            "title": "현대차그룹 포티투닷, 구글·아마존·엔비디아 출신 전문가 3명 영입 - 뉴시스",
+            "summary_kr": "현대차그룹의 소프트웨어 중심 자동차(SDV) 자회사인 포티투닷이 구글, 아마존, 엔비디아 출신 핵심 인재 3명을 영입하며 AI 기술 역량 강화에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nbW9PQnRmN19jTUpVQ291Nm1iVnQ3YmxqVWh1cHFyWncxRGc0OWZiUVV5d2xwS3p1MkUzVWVBc2tVMEhrcXg1T3BXTFZnUjRUNGhqdGZObkVEWWVrVHZ6ZFFhWUlQWFNiSVBqdjZHMi1GYlg4U2x4ZtIBeEFVX3lxTE1nbW9PQnRmN19jTUpVQ291Nm1iVnQ3YmxqVWh1cHFyWncxRGc0OWZiUVV5d2xwS3p1MkUzVWVBc2tVMEhrcXg1T3BXTFZnUjRUNGhqdGZObkVEWWVrVHZ6ZFFhWUlQWFNiSVBqdjZHMi1GYlg4U2x4Zg?oc=5",
+            "timestamp": 1790901767000,
+            "date": "2026-10-02"
         },
         {
-            "title": "마이크로소프트, \"AI 시대 승부는 도입 아닌 학습 속도\"…AI 에이전트가 실행하고 인간은 판단한다 - 인공지능신문",
-            "summary_kr": "마이크로소프트는 AI 에이전트 시대의 핵심 경쟁력이 기술 도입 속도가 아닌 조직의 학습 속도와 업무 재설계 역량에 달려 있다고 진단하며, 인간과 AI의 유기적 협업 모델을 제시했습니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40505",
-            "timestamp": 1781507842000,
-            "date": "2026-06-15"
+            "title": "젠슨 황·저커버그 vs 아모데이…백악관서 ‘AI 규제’ 두고 설전 - 한겨레",
+            "summary_kr": "백악관 주재 회의에서 젠슨 황, 마크 저커버그, 다리오 아모데이 등 빅테크 수장들이 참석해 AI 규제 방향과 산업 진흥책을 두고 심도 있는 논의를 진행했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0FKaFNhYTh5WjREVjJwSFo5ZE50b0tmb2k5cWxXRlBDQ2tkSGd4VnhXVnUwb19SUlVXd3gwVkRMZzJiLWxVbExSRS1NTFRyMTV1eFBEeTJ4OUpBdHhlT21NNnRiX2RzeG94SXdLZDNJcUJpTkw2eTljS1ZTUHZXM0VB?oc=5",
+            "timestamp": 1790857200000,
+            "date": "2026-10-01"
         },
         {
-            "title": "삼성, 머스크의 AI 생태계 공략…엔비디아·구글도 줄섰다 - 한국경제",
-            "summary_kr": "삼성전자가 뉴럴링크의 4세대 두뇌 이식용 칩을 4나노 공정으로 개발 중이며, TSMC의 병목 현상에 대응하려는 빅테크의 공급망 다변화 전략과 맞물려 파운드리 사업의 수주 입지가 강화될 전망입니다.",
-            "link": "https://www.hankyung.com/article/2026061577071",
-            "timestamp": 1781513675000,
-            "date": "2026-06-15"
+            "title": "구글, 장기 작업 겨냥한 ‘제미나이 4 아르곤’ 출시...“한 번에 100만 토큰” - 더에이아이",
+            "summary_kr": "구글이 장기 작업 처리에 최적화된 AI 모델 '제미나이 4 아르곤'을 공개하며, 한 번에 100만 토큰을 처리할 수 있는 대규모 컨텍스트 창 성능을 앞세워 시장을 공략합니다.",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWN3FwcTdqdlhwdXh2TS1WNmlKT0NGX1htRC0yNEtiQjN4OHNFZUo2Wmk5a202RVprXzhkT3JjMmoyeXFPTVhxSGVTTVUwZURvMkNpWHAzR0FfaHRrcUVzRzQybUFNM1BYOWow?oc=5",
+            "timestamp": 1790844065000,
+            "date": "2026-10-01"
         },
         {
-            "title": "코딩 AI 넘어 기업 인프라로…오픈AI, 오나 인수로 코덱스 확장 나서 - cio.com",
-            "summary_kr": "오픈AI가 기업용 AI 에이전트 시장 선점을 위해 클라우드 개발 환경 제공업체 '오나'를 인수했습니다. 이번 인수를 통해 오픈AI는 자사 모델인 코덱스에 보안성과 확장성을 더함으로써, 기업 환경에서 안전하고 지속적인 업무 수행이 가능한 인프라를 구축할 계획입니다.",
-            "link": "https://www.cio.com/article/4184893/%EC%BD%94%EB%94%A9-ai-%EB%84%98%EC%96%B4-%EA%B8%B0%EC%97%85-%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A1%9C%EC%98%A4%ED%94%88ai-%EC%98%A4%EB%82%98-%EC%9D%B8%EC%88%98%EB%A1%9C-%EC%BD%94%EB%8D%B1.html",
-            "timestamp": 1781505442000,
-            "date": "2026-06-15"
+            "title": "\"엔비디아 쿠다 물렀거라\" 딥시크, 화웨이 AI칩용 개발도구 공개 - 뉴시스",
+            "summary_kr": "중국의 딥시크가 엔비디아의 쿠다(CUDA) 생태계에 대응하기 위해 화웨이 AI 칩 전용 개발 도구를 공개하며 독자적인 AI 인프라 구축에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pOHgxak9DTk9ibzI4SjVZTm9CbEptS2hBdldsOXNoOXFJYllFU3Fnd3ZHSjJmektGSXVhYkhyMExSTDVTdWszU3JJajlPR2J1RnJiTjY5ZEVfZXplRmNVR2o2YTFxT29UQlhCX0xrSGc5WjlwTkl5WtIBeEFVX3lxTE5pOHgxak9DTk9ibzI4SjVZTm9CbEptS2hBdldsOXNoOXFJYllFU3Fnd3ZHSjJmektGSXVhYkhyMExSTDVTdWszU3JJajlPR2J1RnJiTjY5ZEVfZXplRmNVR2o2YTFxT29UQlhCX0xrSGc5WjlwTkl5Wg?oc=5",
+            "timestamp": 1790842638000,
+            "date": "2026-10-01"
         },
         {
-            "title": "AWS, AI 에이전트 정조준 칩 ‘그래비톤5’ 출시 - newstheai.com",
-            "summary_kr": "AWS가 자체 설계한 3나노 공정 기반의 '그래비톤5' 프로세서를 출시하며 AI 에이전트 인프라 시장 공략을 본격화했습니다. 해당 칩은 이전 세대 대비 AI 추론 성능을 최대 35% 향상시켰으며, 메타를 비롯한 글로벌 기업들이 대규모 도입을 결정하며 성능을 입증하고 있습니다.",
-            "link": "https://www.newstheai.com/news/articleView.html?idxno=20876",
-            "timestamp": 1781506506000,
-            "date": "2026-06-15"
+            "title": "오픈AI, 반도체 설계 전용 'GPT-시놉시스' 개발 합의…'수익 공유' 적용 - AI타임스",
+            "summary_kr": "오픈AI가 시놉시스와 협력해 반도체 설계 전용 AI 모델을 개발하며, 수익 공유 모델을 도입해 산업 현장 최적화에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82dWF5NmkwQkZhQTBGMnJPLVF5d1p6YlhTS19rR2cwb1lZcjA5b1h0cWJxY0wtMEI5NmwzaTloNUxsd0hxSVBhVEdidWx3ZWp0WHlObTljS1hWc29PLU9UaUVObzdZb2dCZ0E?oc=5",
+            "timestamp": 1790834595000,
+            "date": "2026-10-01"
         },
         {
-            "title": "美, 앤트로픽 최상위 AI 모델 '외국인 접근' 전면 차단…“사실상 허가제” - 전자신문",
-            "summary_kr": "미국 정부가 앤트로픽의 최상위 AI 모델인 '미토스5'와 '페이블5'에 대한 외국인 접근을 전면 차단하는 강력한 수출 통제 지침을 발표했습니다. 이번 조치는 미국 내 체류 중인 외국인과 앤트로픽의 외국인 직원까지 포함하는 고강도 규제로, 향후 AI 업계 전반의 신규 모델 배포와 기업 경영에 상당한 파장을 불러올 전망입니다.",
-            "link": "https://www.etnews.com/20260615000003",
-            "timestamp": 1781473782000,
-            "date": "2026-06-14"
+            "title": "글·사진 이어 단백질에도 ‘AI 워터마크’…바이오안보 새 안전장치 될까 - 조선일보",
+            "summary_kr": "단백질 데이터에도 AI 워터마크 기술이 도입되어, 바이오 분야의 보안 강화와 디지털 콘텐츠의 신뢰성을 높이는 새로운 안전장치로 주목받고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPalY5Y2lmRkJIUDdIVlVyaFkzc25TS3JBYmZyVU1PM1AzbDFJclZGd0xRakdLYWI2enpfQ0M5dHJKYzNMOVQ0ODQ1Zk5DMUM3WGRvU3Y1RDlpZENRdEU2Sk4zTV8waXlJVGRWckJmaTJ2eDJ6clZQaXhkcDhfNzBXU0tlZw?oc=5",
+            "timestamp": 1790843040000,
+            "date": "2026-10-01"
         },
         {
-            "title": "자존심보다 실리 택한 애플…구글과 손잡고 Siri AI 전면 개편 - 이코노미사이언스",
-            "summary_kr": "애플이 세계개발자회의(WWDC26)에서 자사 AI 서비스인 '시리' 고도화를 위해 구글의 제미니 기술과 협력한다고 발표했습니다. 이는 생성형 AI 산업이 독자 모델 경쟁에서 데이터센터와 컴퓨팅 인프라를 공유하는 생태계 경쟁으로 전환되었음을 의미하며, 향후 고성능 메모리 등 반도체 수요 증가에도 긍정적인 영향을 줄 것으로 보입니다.",
-            "link": "https://www.e-science.co.kr/news/articleView.html?idxno=130565",
-            "timestamp": 1781478000000,
-            "date": "2026-06-14"
+            "title": "구글, 7개월 만에 최상위모델 ‘제미나이 4’ 출시…속도조절론 속 불붙은 추격전 - 경향신문",
+            "summary_kr": "구글이 최신 모델 '제미나이 4'를 출시하며 AI 시장의 경쟁을 가속화하는 가운데, 업계의 기술 개발 속도 조절론과 추격전이 동시에 맞물리고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JU0FWR3d4QlVvcWNVNlBSZmtnNTFFOC0zY0lJcnNNRWhQTVUwd2pnQ3pwakRRX1hjRzlIOEI0dmFnNnR4YmhheVlLU0pzM2dvWWZlZW13b2VEV0lJODM00gFfQVVfeXFMTklTQVZHd3hCVW9xY1U2UFJma2c1MUU4LTNjSUlyc01FaFBNVTB3amdDenBqRFFfWGNHOUg4QjR2YWc2dHhiaGF5WUtTSnMzZ29ZZmVlbXdvZURXSUk4MzQ?oc=5",
+            "timestamp": 1790838360000,
+            "date": "2026-10-01"
         },
         {
-            "title": "[AI 인프라 전쟁] 아마존, 26조원 대출 조달…빅테크 투자경쟁 심화 - numbers.co.kr",
-            "summary_kr": "아마존이 데이터센터 구축과 AI 칩 확보 및 모델 투자를 위해 175억 달러(약 26조 6천억 원) 규모의 대출 계약을 체결했습니다. 이는 AI 인프라 경쟁이 격화됨에 따라 사상 최대 규모의 채권 발행과 더불어 공격적인 자금 조달에 나선 것으로 풀이됩니다.",
-            "link": "https://www.numbers.co.kr/news/articleView.html?idxno=21261",
-            "timestamp": 1781444528000,
-            "date": "2026-06-14"
+            "title": "애플, 13일 스마트홈 허브 공개…'AI 시리' 앞세워 아마존·구글에 도전장 - AI타임스",
+            "summary_kr": "애플이 오는 13일 AI 기반의 시리가 탑재된 스마트홈 허브를 공개하며, 기존 시장 강자인 아마존과 구글에 본격적인 도전장을 내밀었습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lbDRJOHZ5LVhzQm9IdzFiaTk5aGcwcFF5QVFSYkgzdkZQNnltRTlsVGw5M0xuczEzZERPUExHSXpNZFJtTHRmTmt3bF84Zk9yTk10VThYOUNiSkhaWnUxQ3J0M2NaZFBJd0E?oc=5",
+            "timestamp": 1790838648000,
+            "date": "2026-10-01"
         },
         {
-            "title": "화웨이, AI 에이전트 품은 하모니OS 7 공개…애플 빈틈 노린다 - 이데일리",
-            "summary_kr": "화웨이가 AI 에이전트 프레임워크 2.0을 탑재한 하모니OS 7을 공개하며 사용자 맞춤형 AI 비서 '샤오이'의 기능을 대폭 강화했습니다. 이번 업데이트는 중국 시장에서 규제로 인해 AI 기능 제공에 제한을 겪는 애플의 빈틈을 공략하려는 전략적 행보로 평가됩니다.",
-            "link": "https://www.edaily.co.kr/News/Read?newsId=02515766645481720&mediaCodeNo=257",
-            "timestamp": 1781424602000,
-            "date": "2026-06-14"
+            "title": "아마존(Amazon)이 원전을 사는 이유... AI 데이터센터 전력난에 20년 PPA - 테크데일리",
+            "summary_kr": "아마존이 AI 데이터센터 운영에 필요한 막대한 전력을 확보하기 위해 20년 장기 전력구매계약(PPA)을 체결하며 원전 도입에 속도를 내고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzXzluX0x4czJ1T1lqWFVXSXpack5YUFU4cFg4andOVFZONU0xM0F5WkVBTFpXYmRIVUx2ajYzQng0T1luMU1TcXgxWk5PaXJaV0xsZ3JpTGtyemhWLUd6LW5adlVjc0dab2t1aHpXbEc3UdIBckFVX3lxTFBzXzluX0x4czJ1T1lqWFVXSXpack5YUFU4cFg4andOVFZONU0xM0F5WkVBTFpXYmRIVUx2ajYzQng0T1luMU1TcXgxWk5PaXJaV0xsZ3JpTGtyemhWLUd6LW5adlVjc0dab2t1aHpXbEc3UQ?oc=5",
+            "timestamp": 1790834143000,
+            "date": "2026-10-01"
         },
         {
-            "title": "메타, 중국 정부 압박에 20억 달러 규모 '마누스' 인수 철회 착수 - 지디넷코리아",
-            "summary_kr": "메타가 중국 정부의 강제 매각 명령과 국가 안보 우려에 따라 20억 달러 규모의 AI 스타트업 '버터플라이 이펙트' 인수 계약을 철회했습니다. 이는 생성형 AI 기술이 국가 전략 자산으로 분류되면서 미중 기술 패권 경쟁이 기업 M&A에 직접적인 제동을 걸고 있음을 보여줍니다.",
-            "link": "https://zdnet.co.kr/view/?no=20260614153424",
-            "timestamp": 1781423051000,
-            "date": "2026-06-14"
+            "title": "오픈AI, 24시간 일해주는 AI비서 ‘닷’ 출시… 메타 ‘뮤즈’에 맞불 - 동아일보",
+            "summary_kr": "오픈AI가 메타의 '뮤즈'에 대응하기 위해 24시간 자율 업무 수행이 가능한 AI 비서 '닷(Dot)'을 출시하며 시장 경쟁력을 강화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PWVltSldoTGp6RWd5Z19DRDJ1d1BqdjFPanpGdE54WXhhWFoyX3hQbC0zREZrSDl0TjB6VlhmY0JRdElIYzRFNUJDUC1pWDVGMDlEN1FhUDJuaFFlenVRalZQeGQyTndwZjFDVWxydWs5SzRHUUHSAWZBVV95cUxPTjE2N0x5UTktVzZjOVRxOVRyNHlQZ3V1LTN1Rm5YYUFMVC1nLWRwZjA4R1g4NWVtSE5xcTN1UU1memlrTVRVWjBtbS1maGZHanItUE5Kc2dTbUFfcWtrRUs4ek5aLUE?oc=5",
+            "timestamp": 1790796600000,
+            "date": "2026-09-30"
         },
         {
-            "title": "NTT DATA와 구글 클라우드, 비즈니스 혁신을 위한 500명의 AI 에이전트 준비 - VOI.id",
-            "summary_kr": "NTT DATA와 구글 클라우드가 비즈니스 혁신 가속화를 위해 500명의 AI 에이전트 도입을 준비하고 있습니다. 해당 기사는 웹사이트 접속 오류로 인해 상세 내용 확인이 불가하여 제목을 바탕으로 요약했습니다.",
-            "link": "https://voi.id/kr/technology/580010",
-            "timestamp": 1781440595000,
-            "date": "2026-06-14"
+            "title": "美 FTC, 앤스로픽·오픈AI 등 조사 확대…AI 위험성 관련 사상 최초 - fnnews.com",
+            "summary_kr": "미국 연방거래위원회(FTC)가 AI 산업의 잠재적 위험성을 규명하기 위해 앤스로픽과 오픈AI 등 주요 기업을 대상으로 사상 첫 공식 조사에 착수했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DRVFEMkZ2ZG5JQ0VXdUJmTHllRmVLUWw2SU96bU5FOHZnMGdQT0dHb1lZMnhlVWtfeDIwUm1taUM0T0d2SGZkTEt4dUpqaEk5WmhtWmthQ0FaZw?oc=5",
+            "timestamp": 1790794283000,
+            "date": "2026-09-30"
         },
         {
-            "title": "삼성 파운드리, 커지는 흑자전환 기대감…구글 차세대 AI칩 수주 유력 - 아시아타임즈",
-            "summary_kr": "삼성전자가 구글의 2028년 양산 예정인 10세대 TPU 입출력 칩 생산을 검토하며 대형 고객사 확보를 통한 파운드리 수익성 개선에 속도를 내고 있습니다. 테슬라와 그록 등에 이은 이번 수주가 성사될 경우, 삼성전자는 메모리 기술력과 파운드리 공정을 결합한 시너지를 통해 적자 폭을 줄이고 실적 반등을 이룰 것으로 전망됩니다.",
-            "link": "https://www.asiatime.co.kr/article/20260614500082",
-            "timestamp": 1781415600000,
-            "date": "2026-06-14"
+            "title": "미국, 이스라엘, 그리고 엔비디아는 인간 게놈의 \"언어\"를 해독하는 인공지능 모델을 개발하고 있다. - Vietnam.vn",
+            "summary_kr": "미국, 이스라엘, 엔비디아가 협력하여 인간 게놈의 복잡한 유전적 언어를 해독하기 위한 고도화된 AI 모델 개발을 추진하고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaldJNmhRT1pSZGdadWZHYThzY1ROLU5aVjBnSmpTR21DdDVOdjZlNHpYbDBRSlA0em9zWTJqTFRvMy15X3JHbXNtOVZMaXZndF9wT19kNDBWZ3dPUFoydXZ2WmVPSGdpcmZLNmN1VDRIcTEwTlFGcFdFa1RJVHJPcW5ob1gxMUxBdDQxenVRbVc1SHFoWElDTWhDa0Fiekk?oc=5",
+            "timestamp": 1790781688000,
+            "date": "2026-09-30"
         },
         {
-            "title": "미국 법무장관 연합, 오픈AI 전방위 조사 착수…AI 업계 규제 압박 최고조 - v.daum.net",
-            "summary_kr": "미국 42개 주 법무장관 연합이 오픈AI의 데이터 처리 방식과 미성년자 보호 조치 등을 조사하기 위해 소환장을 발부했습니다. 이번 조사는 오픈AI의 기업공개(IPO)를 앞둔 시점에 이뤄져 향후 상장 절차와 투자 심리에 중요한 법적 변수로 작용할 전망입니다.",
-            "link": "https://v.daum.net/v/20260614131649467",
-            "timestamp": 1781410609000,
-            "date": "2026-06-14"
+            "title": "트럼프 \"AI 규제는 업계 자율로...AI 기업이 데이터센터 지역 지원\" - YTN",
+            "summary_kr": "트럼프 당선인이 AI 산업에 대한 규제를 업계 자율에 맡기고, AI 기업의 데이터센터 지역 거점 구축을 지원하겠다는 입장을 밝혔습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oLXRVYk11aFdFa2xzWHVicVFIbXh2WVMxOVg1R1Bsa2tMVDE5Z3NTSVR6VnBSa2dtUmtGSHItUFROOHhoOGdUVUx0WnQ3TGJTcU1aanoyemNIVGFxYlE?oc=5",
+            "timestamp": 1790755500000,
+            "date": "2026-09-30"
         },
         {
-            "title": "앤트로픽 수출통제 나선 美 “다른 AI로 확대 안해” - IT조선",
-            "summary_kr": "미 행정부는 앤스로픽의 AI 모델 ‘페이블5’ 등이 사이버 보안 취약점을 노출할 수 있다는 우려에 따라 외국인 이용 제한 조치를 단행했습니다. 다만 이번 수출 통제는 앤스로픽에 한정된 조치이며, 타 AI 기업으로 규제가 확대되지는 않을 방침입니다.",
-            "link": "https://it.chosun.com/news/articleView.html?idxno=2023092163843",
-            "timestamp": 1781397006000,
-            "date": "2026-06-14"
+            "title": "앤트로픽, 10년간 AI 인프라에 700조원 쓴다 - 지디넷코리아",
+            "summary_kr": "앤트로픽이 향후 10년간 약 700조 원 규모의 대규모 자금을 투입하여 AI 인프라를 확충할 계획입니다.",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CcFJxS2hGajBZRi14ZFh1ZzZvMmFyN3QwT2dVaFNiQkk3bUxyZlJISmJiWXpHMjNqTHZRalpCNUt2SkN4RVliWnhhZk5xMGhNWVRsckZR?oc=5",
+            "timestamp": 1790754050000,
+            "date": "2026-09-30"
         },
         {
-            "title": "'핵무기급 AI'라던 앤스로픽 페이블5, 출시 사흘만에 \"판매 중단\" - 한국경제",
-            "summary_kr": "앤스로픽이 출시 사흘 만에 최신 AI 모델 페이블5·미토스5의 판매를 전면 중단했습니다. 이는 아마존 등이 제기한 사이버 보안 우려를 정부가 수용한 결과로, 미국 정부가 첨단 AI 모델에 대해 외국인의 접근을 차단하는 '간주 수출' 개념을 적용한 첫 사례입니다.",
-            "link": "https://www.hankyung.com/amp/202606144811i",
-            "timestamp": 1781402244000,
-            "date": "2026-06-14"
+            "title": "엔비디아 의존 축소…딥시크, 화웨이 AI칩용 개발도구 공개 - KBS 뉴스",
+            "summary_kr": "딥시크가 엔비디아 의존도를 낮추기 위해 화웨이 AI 칩에서도 구동 가능한 전용 개발 도구를 공개했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54b05XR1BlWlZGSFNIVU5QM2M0MTg1Y1dFSFd6aC1SMTFEclo1VDBPbmFDZGFrTVl6VXR4U3dRejZvOXVmLTZlT2FhX2ZiaUQ3SDhBU0lyWFRjbUU?oc=5",
+            "timestamp": 1790748420000,
+            "date": "2026-09-30"
         },
         {
-            "title": "샤오미, 오픈소스 코딩 에이전트 ‘미모 코드’ 공개…“장기 작업서 클로드 코드 능가” - AI타임스",
-            "summary_kr": "샤오미가 장기·다단계 프로그래밍 작업의 컨텍스트 손실을 최소화한 오픈소스 AI 코딩 에이전트 ‘미모 코드(MiMo Code)’를 공개했습니다. 이 시스템은 4단계 기억 구조와 체크포인트 작성기 등을 도입하여 200단계 이상의 복잡한 개발 작업에서 앤트로픽의 ‘클로드 코드’를 상회하는 성능을 보였다고 발표했습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211687",
-            "timestamp": 1781329881000,
-            "date": "2026-06-13"
+            "title": "트럼프, 'AI 멈춤 버튼' 킬 스위치 거부…빅테크 수장들과 자율규제 합의 - 더구루",
+            "summary_kr": "트럼프 당선인은 AI 기술을 강제로 중단시키는 킬 스위치 도입을 거부하고, 빅테크 기업들과 자율 규제 체계를 구축하기로 합의했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xUm5Pa2hfNHI0OTJPX1pNd2Q4SDhMNTV4Sm9fczhkS0xVMGZVMUpNQTJNT29sVEFxNXdaNHJjS08xaVpyTmJTb3owMmVjSTNNUE1YcGpraG1VcXZ2bEE?oc=5",
+            "timestamp": 1790744125000,
+            "date": "2026-09-30"
         },
         {
-            "title": "미국, AI 모델도 수출 통제…앤스로픽 최상위 모델 전 세계서 전격 차단 - 한국경제",
-            "summary_kr": "미 상무부가 앤스로픽의 최상위 AI 모델을 수출통제 대상인 '전략 자산'으로 지정하며 외국 국적자의 접근을 전면 차단했습니다. 이는 AI 모델을 군사기술 수준으로 엄격히 관리하겠다는 미국의 새로운 정책 방향을 보여주는 첫 사례로, 국내 기업을 포함한 글로벌 공급망에 상당한 파장이 예상됩니다.",
-            "link": "https://www.hankyung.com/article/202606134387i",
-            "timestamp": 1781333064000,
-            "date": "2026-06-13"
+            "title": "오픈AI, AI 에이전트 '닷츠' 출시…\"목표만 주면 쉼 없이 알아서 처리\" - 파이낸셜뉴스",
+            "summary_kr": "오픈AI가 사용자의 목표 설정만으로 복잡한 업무를 스스로 처리하는 AI 에이전트 '닷츠'를 출시하며 자율형 AI 시장 경쟁에 본격적으로 뛰어들었습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OQUVaVV9tZkNXRjZrLWFaWTlERkZKeF9STzVpRGpNb1lYUXNMVG5qUTFXWFg5ZmYyX0lBMUdjcW4zQlVnTHJrSVYtSUR1bFhMWklkVlEtV2IxUQ?oc=5",
+            "timestamp": 1790707222000,
+            "date": "2026-09-29"
         },
         {
-            "title": "저커버그 \"AI 전환서 실수\" 시인…\"올해 추가 대규모 감원 없어\" - 연합뉴스 한민족센터",
-            "summary_kr": "마크 저커버그 메타 CEO가 AI 전환 과정의 실수를 인정하고, 대규모 조직 개편 대신 소수 정예 중심의 효율적 혁신 전략으로 선회했습니다. 급증하는 연산 비용을 통제하기 위해 사내 AI 사용량 제한과 자체 코딩 AI 도입을 통한 비용 절감에 집중할 계획입니다.",
-            "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1367012",
-            "timestamp": 1781305109000,
-            "date": "2026-06-12"
+            "title": "오픈AI, 안전성 미충족 'GPT-6.1 아스트라' 출시 철회 - 지디넷코리아",
+            "summary_kr": "오픈AI가 내부 안전성 기준을 충족하지 못한 차세대 모델 'GPT-6.1 아스트라'의 출시 계획을 전격 철회했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMS1Vcmw3clVsNWVqNlRZZFJGcmNRbDlrN3Z5b1M2akNiTnJHdHFTc2pfRDVTeGwzN0V0Z2Nyb2FiX3NZM3RWVFBqZW1aZUFURUF6cUlB?oc=5",
+            "timestamp": 1790668966000,
+            "date": "2026-09-29"
         },
         {
-            "title": "[엔비디아 스톡홀름] ④ 구광모·정의선 만난 젠슨 황… 한국 제조 밸류체인 ‘록인' - 디지털데일리",
-            "summary_kr": "젠슨 황 엔비디아 CEO가 국내 주요 제조 대기업들과 연쇄 회동하며 자사의 로봇·자율주행 소프트웨어 생태계인 '아이작'과 '하이페리온'을 한국 제조 기반에 이식하고 있습니다. 이는 한국의 하드웨어 제조 역량을 엔비디아 생태계에 예속시키는 전략으로, 국내 독자 칩 개발 노력과 향후 핵심 수익 구조에 장기적인 위협이 될 수 있다는 분석입니다.",
-            "link": "https://www.ddaily.co.kr/page/view/2026061113162861738",
-            "timestamp": 1781305200000,
-            "date": "2026-06-12"
+            "title": "AI가 통제선 넘으려 하면 밀리초 안에 격리…엔비디아, '하드웨어 감시망' 공개 - 뉴시스",
+            "summary_kr": "엔비디아가 AI의 이상 작동을 밀리초 단위로 감지하고 즉각 격리하는 하드웨어 기반의 새로운 보안 감시망 기술을 공개했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FNTJUSXBQYjFNVnpoZTE5MHE5QnFlb1VXWThMRzYzb0Y5TFpWb0tsQnpYM2ZfMTg2Q0UzVmxpRU1fRmJSVS10YlhRTTQwalNYdk1yYUlIc0pnYVdJM2xPbjE4aVJfZ3ZaU3YxN1BiQU1vTzAteExlaNIBeEFVX3lxTE5FNTJUSXBQYjFNVnpoZTE5MHE5QnFlb1VXWThMRzYzb0Y5TFpWb0tsQnpYM2ZfMTg2Q0UzVmxpRU1fRmJSVS10YlhRTTQwalNYdk1yYUlIc0pnYVdJM2xPbjE4aVJfZ3ZaU3YxN1BiQU1vTzAteExlaA?oc=5",
+            "timestamp": 1790673217000,
+            "date": "2026-09-29"
         },
         {
-            "title": "DXC와 앤트로픽, 미션 크리티컬 엔터프라이즈 시스템에 AI 도입을 위한 다년간 글로벌 연합 발표 - 지디넷코리아",
-            "summary_kr": "DXC 테크놀로지가 앤트로픽과 파트너십을 맺고 글로벌 기업 및 정부의 미션 크리티컬 시스템에 클로드 모델을 도입합니다. DXC는 앤트로픽 인증 엔지니어를 전담 배치해 보험, 사이버 보안, 코드 현대화 등 산업별 에이전트형 AI 서비스를 가속화할 계획입니다.",
-            "link": "https://zdnet.co.kr/view/?no=20260613001003",
-            "timestamp": 1781277003000,
-            "date": "2026-06-12"
+            "title": "[구글 딥마인드 CEO 데미스 하사비스, \"AI를 챗봇 너머 과학적 발견의 도구로\"] 하사비스는 또한 AI가 신약 개발에 직접적인 역할을 하는 이소모픽 랩스의 CEO이기도 하다. - AI넷",
+            "summary_kr": "데미스 하사비스 구글 딥마인드 CEO는 AI를 단순한 챗봇의 수준을 넘어 신약 개발 등 과학적 난제를 해결하는 도구로 발전시켜야 한다고 강조했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFByNHFqdG1uclp1eUpkd3RBcC02WFcxS3BZV0tTSTF6enlpY0JDNEMyZGxua3VxUE9ZMk5HQlJVYjk?oc=5",
+            "timestamp": 1790689056000,
+            "date": "2026-09-29"
         },
         {
-            "title": "오픈AI, '오나' 인수해 코덱스 키운다…개발자 AI 플랫폼 승부수 - v.daum.net",
-            "summary_kr": "오픈AI가 AI 에이전트 인프라 기업 '오나(Ona)'를 인수하며 자사 코딩 도구인 코덱스의 플랫폼 경쟁력을 강화합니다. 이번 인수를 통해 챗GPT와 코덱스를 결합한 '슈퍼앱' 전략을 추진하며, 개발자용 AI 시장에서 앤트로픽 등 경쟁사와의 주도권 확보에 나섭니다.",
-            "link": "https://v.daum.net/v/20260612164147982",
-            "timestamp": 1781250107000,
-            "date": "2026-06-12"
+            "title": "오픈AI·앤트로픽 \"AI가 AI 개발하는 시대…인간 통제 벗어날 위험\" - 지디넷코리아",
+            "summary_kr": "오픈AI와 앤트로픽 등 주요 AI 기업들이 AI가 스스로 AI를 개발하는 시대를 예견하며, 이 과정에서 인간의 통제를 벗어날 수 있는 잠재적 위험성에 대해 경고했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sdW85dDVfWTVYLW5mYjNhQlYtbUkweDlOQ19HYjgwUVBWOXlmRmpQUGRueHpZZmhabkRIUnlwT21RWGlOY1dEd1dqemdEMHlNV0ZmNjlB?oc=5",
+            "timestamp": 1790669015000,
+            "date": "2026-09-29"
         },
         {
-            "title": "챗GPT·클로드만 쓰던 미국 기업들, 中모델 섞어 AI 비용 95% 절감 - 뉴시스",
-            "summary_kr": "미국 기업들이 업무 성격에 따라 저가형 중국 모델과 고성능 독점 모델을 조합해 활용함으로써 AI 운영 비용을 최대 95%까지 절감하고 있습니다. 이러한 비용 효율화 추세는 오픈AI와 앤트로픽 등 선두 기업들의 가격 인하 압박으로 이어지며 AI 모델 시장의 경쟁 구도를 변화시키고 있습니다.",
-            "link": "https://www.newsis.com/view/NISX20260612_0003667472",
-            "timestamp": 1781251215000,
-            "date": "2026-06-12"
+            "title": "앤트로픽 ‘클로드 소넷 5.5’ 출시...오퍼스 5.5와 역할 분배 - newstheai.com",
+            "summary_kr": "앤트로픽이 최신 모델인 '클로드 소넷 5.5'를 출시하고, 기존 '오퍼스 5.5'와의 효율적인 역할 분배를 통해 모델 운용의 최적화를 도모합니다.",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrUUxmUEZVdWFKVHdSWGpuVGk0U2psZU1udm9iMG5qVEZOX1QxMEJOQzQ3V0p5aURvRUFhSlh3MWF5N3QySkV5Y3JXaTg2eEhMZlZFcUZ1T2ZlSDJoaEQ1N3FsenFIUlRjdndV?oc=5",
+            "timestamp": 1790671879000,
+            "date": "2026-09-29"
         },
         {
-            "title": "앤트로픽도 자체 데이터센터 구축...구글이 '신용 보증' - AI타임스",
-            "summary_kr": "앤트로픽이 1GW 규모 이상의 데이터센터 임대 계획을 추진하는 가운데, 구글이 임대료 지급을 보증하며 AI 인프라 구축의 핵심 조력자로 나섰습니다. 이는 칩 제조사와 클라우드 사업자가 단순 공급자를 넘어 금융 지원자로 변모하며, AI 업계가 엔비디아-오픈AI와 구글-앤트로픽 중심의 연합 구도로 재편되고 있음을 보여줍니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211653",
-            "timestamp": 1781241814000,
-            "date": "2026-06-12"
+            "title": "미국 플로리다주, 법원에 \"오픈AI 감시없이 개발금지\" 요청 - v.daum.net",
+            "summary_kr": "미국 플로리다주가 법원에 오픈AI를 상대로 외부의 감시나 통제 없는 AI 개발을 금지해 달라는 가처분 신청을 제기했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40VlhTOHdqMWU4VXFkVDgtM2ozQmswVGtIQW5JSGFZZTFTSTN1blBmN3haYm9SZ0FHaUpteVFyeXlmOXJrY3JucTR3SW1uWXM?oc=5",
+            "timestamp": 1790666519000,
+            "date": "2026-09-29"
         },
         {
-            "title": "AI가 알아서 코인 사고판다…코인베이스, '에이전트' 출시 - 리드경제",
-            "summary_kr": "코인베이스가 AI 모델과 연동해 암호화폐 거래 및 결제를 자율적으로 수행하는 '코인베이스 포 에이전트'를 출시했습니다. 다만 최근 연구 결과에서 AI 에이전트 사용자들의 실질적인 투자 손실 사례가 보고되는 등 자율 거래의 수익성과 신뢰성에 대한 우려도 제기되고 있습니다.",
-            "link": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=8067",
-            "timestamp": 1781237280000,
-            "date": "2026-06-12"
+            "title": "\"RSI 통제력 잃기 전에 규제해야\"...세계 최고 AI 연구자 20인 공동 경고 - AI타임스",
+            "summary_kr": "세계 최고 수준의 AI 연구자 20인이 공동 성명을 통해, 강력한 AI 시스템(RSI)이 통제력을 상실하기 전 조속한 법적·제도적 규제 마련이 필요하다고 강조했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qcndFcXNuck1oUUVxUVhSek83eE45V0xVckRELV81WFRxR0lPY0oyYU5XWEpRUmF2enlNSy13N0ZfTWVHVUh6Q0cyS1BBYmNmWGctTE5HR2FJeDhXZWhVTjdoRzllR0YtVmc?oc=5",
+            "timestamp": 1790651611000,
+            "date": "2026-09-29"
         },
         {
-            "title": "외신 \"삼성 파운드리, 구글 차세대 AI칩 일부 수주 가능성\" - 비즈니스포스트",
-            "summary_kr": "삼성 파운드리가 구글의 차세대 AI 칩 생산 물량을 일부 수주할 가능성이 있다는 외신 보도가 나왔습니다.",
-            "link": "https://www.businesspost.co.kr/BP?command=article_view&num=439840",
-            "timestamp": 1781224647000,
-            "date": "2026-06-12"
+            "title": "트럼프, 29일 빅테크 CEO들과 AI 회동…저커버그·아모데이 등 참석 - 뉴스1",
+            "summary_kr": "도널드 트럼프 당선인이 메타의 마크 저커버그, 앤스로픽의 다리오 아모데이 등 주요 빅테크 CEO들과 AI 관련 정책 논의를 위한 회동을 갖습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aWmpwb3h4NUZiRld3NlFIZTFRR1M5Y2VOeWRZMU9yajlWVUVCWnRZUGNUOVFaVk0wQjN4d2djRlBRYmdVd0xUR2E4YXFEbUxZUEw4bkZrLTVLZG5JUVHSAV5BVV95cUxNWlpqcG94eDVGYkZXdzZRSGUxUUdTOWNlTnlkWTFPcmo5VlVFQlp0WVBjVDlRWlZNMEIzeHdnY0ZQUWJnVXdMVEdhOGFxRG1MWVBMOG5Gay01S2RuSVFR?oc=5",
+            "timestamp": 1790621865000,
+            "date": "2026-09-28"
         },
         {
-            "title": "구글, 미국서 AI 구독료 38% 전격 인하…“B2C 가격 전쟁 신호탄” - AI타임스",
-            "summary_kr": "구글이 미국 내 보급형 AI 구독 서비스인 '구글 AI 플러스'의 월 이용료를 38% 인하하고 클라우드 저장 공간을 2배로 확대하며 B2C 가격 경쟁을 본격화했습니다. 이는 AI 모델의 성능 차별화가 줄어듦에 따라 가격과 서비스 결합 능력이 시장 경쟁력의 핵심으로 떠오르면서, 오픈AI와 앤트로픽 등 경쟁사들의 수익 모델에도 압박이 될 전망입니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211645",
-            "timestamp": 1781239123000,
-            "date": "2026-06-12"
+            "title": "메타 에이전트 ‘뮤즈’ 확산세 무섭다…구독 해지·쇼핑·예약·결제까지 직접 수행 [AI 클로즈업] - 디지털데일리",
+            "summary_kr": "메타가 개발한 AI 에이전트 '뮤즈'가 구독 관리부터 쇼핑, 예약, 결제까지 사용자의 일상 업무를 직접 수행하며 서비스 영역을 빠르게 확장하고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DclJVTXJoQ3QwMmFDQzU1QXAwREVxRGpsWklVN2tyS0QyMHZXa25tUTc3blBvNWZ3Yi1pUnNlUlF4V2IxUHBhX1ZqVXpKdnludno4cUpsbDFxc0g3ZWRtdzdQTXA?oc=5",
+            "timestamp": 1790629200000,
+            "date": "2026-09-28"
         },
         {
-            "title": "[AI 인프라 전쟁] IPO 앞둔 스페이스X, 구글과 대규모 컴퓨팅계약 - numbers.co.kr",
-            "summary_kr": "스페이스X가 사상 최대 규모의 IPO를 앞두고 구글과 약 1조 4천억 원 규모의 대규모 AI 인프라 임대 계약을 체결하며 본격적인 AI 시장 진출을 선언했습니다. 일론 머스크는 이번 계약을 통해 xAI의 경쟁력을 강화하고 수익성을 개선하려 하지만, 현재 AI 사업 부문은 연간 25억 달러의 영업손실을 기록하고 있습니다.",
-            "link": "https://www.numbers.co.kr/news/articleView.html?idxno=21253",
-            "timestamp": 1781170020000,
-            "date": "2026-06-11"
+            "title": "엔비디아, AI 에이전트 보안 플랫폼 공개…\"속도조절 대신 기술\" - 마켓인",
+            "summary_kr": "엔비디아가 AI 에이전트의 보안을 강화하는 전용 플랫폼을 새롭게 공개하며, 기술적 고도화를 통해 시장 경쟁력을 지속하겠다는 의지를 밝혔습니다.",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OOFRLZmtLQ0pLMjlCMExTN1V6SzRXV3FJQmppX0hZbkZycXNnWFhOWUVEMXRPdldlMVJGTkhZLXh6LXJKSS00Ni1zdUFMM2pZVkxCLXZDa3pnRlFVV3l4ZnJlTFBnY24yVXN6bE1rZkthNTA?oc=5",
+            "timestamp": 1790590328000,
+            "date": "2026-09-28"
         },
         {
-            "title": "엔비디아·두산그룹, 피지컬 AI·AI 팩토리 인프라 협력 확대 - e4ds news",
-            "summary_kr": "엔비디아와 두산그룹이 피지컬 AI 및 AI 팩토리 인프라 전반에서 포괄적인 기술 협력을 체결했습니다. 두산의 로보틱스, 에너지, 전자소재 역량을 엔비디아의 모듈형 플랫폼에 결합하여 고성능 AI 데이터센터 구축과 산업용 자동화 솔루션을 공동 개발할 계획입니다.",
-            "link": "https://www.e4ds.com/sub_view.asp?ch=31&t=0&idx=22753",
-            "timestamp": 1781164620000,
-            "date": "2026-06-11"
+            "title": "오픈AI, ‘답하는 AI’ 다음은 ‘일하는 AI’…데브데이서 에이전트 승부수 - 아이티데일리",
+            "summary_kr": "오픈AI가 데브데이를 통해 기존의 질의응답형 모델을 넘어 실질적인 업무를 수행하는 에이전트 AI로 서비스 영역을 확장합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGU1R6V2o3bXhGSy02bHN1eUdhOHhRMEtUTGd0T21rZTVHOHFxcmpzQ0tfT3kwWXl4TlNXZFFuSkZ3MGk4X2ppQ1dRVWFyaXlOM2NjQmd0amdkTFdBVnkxdWZFQlNKcURh?oc=5",
+            "timestamp": 1790578979000,
+            "date": "2026-09-28"
         },
         {
-            "title": "AWS, '그라비톤5' 정식 출시…에이전틱 AI 시대 겨냥한 AWS 역대 최고 성능 CPU - 인공지능신문",
-            "summary_kr": "AWS가 에이전틱 AI 워크로드에 최적화된 차세대 CPU '그라비톤5'를 탑재한 EC2 인스턴스를 정식 출시했습니다. 192개 코어와 향상된 메모리 성능을 앞세운 이번 신제품은 이전 세대 대비 머신러닝 추론 속도를 최대 35% 개선하여 대규모 AI 서비스 효율성을 극대화할 전망입니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40470",
-            "timestamp": 1781182946000,
-            "date": "2026-06-11"
+            "title": "빅파마는 AI에 수조원 베팅…국내 제약사 신약개발 성과는 - 머니투데이 - 머니투데이",
+            "summary_kr": "글로벌 제약사들이 신약 개발 효율화를 위해 AI 분야에 수조 원대 투자를 단행하는 가운데, 국내 제약업계의 관련 R&D 성과와 경쟁력 확보가 주목받고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yNThnWUo0Z1RRNGFxSE5qRFVXVUVzMGZGMEtJNkp5UnlGYTJPUVBsWm9TOUw1bGFrRnZFbDlGLThWUVpER0FCQXhmUUlPQkJRbnhwOG5MMnVmQXQ2dU1WNkR4azlfTGo5b0HSAW9BVV95cUxNMWZKdUFJWGVTeHc5NjBwZzJIWFVxSmNyRlhmMDJ5R25FOXNHaEs0OTlBaEJnZUFuMzl6WkVVRkhRV3RKbllJVnFidkU1Y0MtQUdJcjI1SDk1bFFmLVNkM2NYX2NrSkpoUEIyUUN1cHc?oc=5",
+            "timestamp": 1790581116000,
+            "date": "2026-09-28"
         },
         {
-            "title": "앤트로픽 “AI모델 출시 전 독립기관서 ‘안전성 테스트’ 의무화해야” - 한겨레",
-            "summary_kr": "앤트로픽은 AI 모델이 국가 안보와 금융 등에 초래할 재앙적 위험을 방지하기 위해, 출시 전 독립 기관의 안전성 테스트 의무화와 강력한 연방법 제정을 미국 의회에 강력히 촉구했습니다.",
-            "link": "https://www.hani.co.kr/arti/international/america/1263063.html",
-            "timestamp": 1781162520000,
-            "date": "2026-06-11"
+            "title": "\"트럼프, 앤트로픽 CEO와 단독 만찬\"...AI 규제갈등 해빙 신호? - 머니투데이 - 머니투데이",
+            "summary_kr": "트럼프 전 대통령과 앤트로픽 CEO의 만찬 회동을 계기로, 차기 정부의 AI 산업 규제 정책과 빅테크 기업 간의 갈등 완화 가능성이 제기되었습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTGI5NVUwb2ZzMkt0TlJmdEcteWVUeUNHMGRySUx0UjZzbWl6SS1hZEtzWjNmUWJVQTBKLXVhQXBWU0pZMkI3bEhsVWNjaHhBdkVYOUVQdElGQ05RaXF4cmNHdExwamEt0gFuQVVfeXFMTl85T3FaUzBSVmNhYW5uTmhTTWd3TkRKQ0I2eTJPZUFOeS10WEdrLWoyUjlvSzIwR2djYS03Y0RTZHRXa3FraHpnQUJIekVJQUNBTE91VmRWS2M2V3JPX1RTeTNLZm5La1ZPbnJQOVE?oc=5",
+            "timestamp": 1790546539000,
+            "date": "2026-09-27"
         },
         {
-            "title": "오픈AI 샘 올트먼 CEO, 삼성전자·카카오·네이버 만난다 - 전자신문",
-            "summary_kr": "샘 올트먼 오픈AI CEO가 방한하여 카카오의 에이전틱 커머스 협력 강화, 삼성전자의 내부 AI 업무 혁신 및 포항 데이터센터 구축 등 국내 주요 기업들과 전략적 파트너십을 논의할 예정입니다.",
-            "link": "https://www.etnews.com/20260611000087",
-            "timestamp": 1781139839000,
-            "date": "2026-06-11"
+            "title": "구글, 연내 제미나이 4 출시 계획 공식화 - itworld.co.kr",
+            "summary_kr": "구글이 차세대 모델인 제미나이 4의 연내 출시 계획을 공식화하며 AI 시장의 주도권을 유지하기 위한 기술 경쟁을 가속화합니다.",
+            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNd3dfNXVIa25sNUJHM0ZVZkptaUFIUjZHclNDOW5kU2Jua2xselJmSUNOOEVXWjJJVF9fZnY2alpkcFYzYlEzeGxJZmpxdUVzZTBrZ0NCaU8tQjRxMC1aRzNRSTZQNlowSFllNEVXZU5KOWxucTQ0SUYxdzNyNjR6bXJ3TWc5ZW53dVZLdDgzX0FMUE16SFk5Ymw4T3JGajZCbTZ4ZEE2dlQxVVBUUGs5dEZ1NEJMMk0tMjVZc09ZUHJ2Uzcyd19Qek1sWjhtbEg2SkxTTzMzZS10Z25MMW42RmNEb3ZXYU1fY0Nlbzd5akcxcVJRTlNhRVNzRUtHWUl0Z1piQkF4RF83NWNXbzU5QW95a1g4alJO?oc=5",
+            "timestamp": 1790563373000,
+            "date": "2026-09-28"
         },
         {
-            "title": "[헬로티 HelloT] 엔비디아-SK하이닉스, 차세대 AI 메모리 혁신 위해 다년간 파트너십 체결 - 헬로티",
-            "summary_kr": "엔비디아와 SK하이닉스가 AI 팩토리 확장을 위해 차세대 메모리 공동 개발과 반도체 제조 공정의 AI 도입을 골자로 한 다년간의 기술 파트너십을 체결했습니다. 양사는 엔비디아의 차세대 AI 컴퓨팅 플랫폼을 위한 HBM 등 첨단 메모리 공급을 보장하고, 옴니버스를 활용한 디지털 트윈 등 제조 혁신을 가속화할 전망입니다.",
-            "link": "https://www.hellot.net/news/article.html?no=113113",
-            "timestamp": 1781078176000,
-            "date": "2026-06-10"
+            "title": "휴머노이드 로봇 시장으로 빅테크 몰린다 … AI 전쟁이 '로봇 OS'로 확장 - 뉴데일리",
+            "summary_kr": "글로벌 빅테크 기업들이 차세대 성장 동력으로 휴머노이드 로봇 시장에 진출하며, AI 기술을 결합한 로봇 운영체제(OS) 선점 경쟁이 본격화되고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlNlcjZRMThGRFZBaTM2a0NyemlFMG5iOWxxYVF2M2RqNHNHeVctRExXODBtbjlldTVBMmp3c2VfM2J1VXk2dVR6bGZGcGNEZU9XVk1rcU9CNUhNZnYyMUxzX2VoM0dBbUp2T1lzOXVOdEdTenZmVjlFNG5oUC1GdtIBgAFBVV95cUxOUlNlcjZRMThGRFZBaTM2a0NyemlFMG5iOWxxYVF2M2RqNHNHeVctRExXODBtbjlldTVBMmp3c2VfM2J1VXk2dVR6bGZGcGNEZU9XVk1rcU9CNUhNZnYyMUxzX2VoM0dBbUp2T1lzOXVOdEdTenZmVjlFNG5oUC1Gdg?oc=5",
+            "timestamp": 1790561612000,
+            "date": "2026-09-28"
         },
         {
-            "title": "[“외부 AI 사와서라도 혁신하라”... 이재용의 결단, 삼성 조직 DNA 바꾼다]    제미나이·챗GPT·클로드 공식 도입…사장단부터 연내 전 직원까지 AI 집중 교육:ainet - AI넷",
-            "summary_kr": "삼성전자가 업무 생산성 극대화를 위해 기존 ‘삼성 가우스’와 함께 제미나이, 챗GPT 등 외부 생성형 AI를 공식 도입하며 사장단부터 전 직원 대상의 AI 전환 교육을 대대적으로 실시합니다. 이는 이재용 회장의 강력한 혁신 의지에 따라 조직 구조를 ‘AI 네이티브 기업’으로 개편하여 글로벌 테크 경쟁에서 재도약하려는 전략적 결정입니다.",
-            "link": "http://www.ainet.link/27115",
-            "timestamp": 1781113600000,
-            "date": "2026-06-10"
+            "title": "오픈AI도 AI 개발 '속도조절'…첨단 모델 대형 훈련 보류 - 머니투데이 - mt.co.kr",
+            "summary_kr": "오픈AI가 기술의 안전성을 확보하고 개발 과열을 방지하기 위해 차세대 첨단 AI 모델의 대형 훈련을 잠정 보류하며 속도 조절에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IOWpyMm5YemlEcGJrSGtPYmN2Rzlpd2RSbkwtV21sSUdiVl9WZjVDTldPMENFLUJLa0JLZmpzdTlFODlZTWMwU1V4alYtVXhab3N5RmQ3UDU2MWJKVkx6cEtPR0pOd2ZlMGZIZtIBbEFVX3lxTE5IOWpyMm5YemlEcGJrSGtPYmN2Rzlpd2RSbkwtV21sSUdiVl9WZjVDTldPMENFLUJLa0JLZmpzdTlFODlZTWMwU1V4alYtVXhab3N5RmQ3UDU2MWJKVkx6cEtPR0pOd2ZlMGZIZg?oc=5",
+            "timestamp": 1790499555000,
+            "date": "2026-09-27"
         },
         {
-            "title": "오픈AI, 762조 초대형 데이터센터 확보 막바지 협상 - 한국경제",
-            "summary_kr": "오픈AI가 미국 오하이오주에 10GW 규모의 초대형 AI 데이터센터를 구축하기 위해 약 762조 원 규모의 리스 협상을 진행 중이며, 엔비디아가 이례적으로 프로젝트 자금 조달에 직접 지급보증을 검토하고 있습니다. 이는 구글 등 경쟁사 견제와 차세대 AI 모델 운영을 위한 독립적인 인프라 확보를 목표로 하지만, 막대한 리스료와 인프라 구축 비용은 오픈AI의 재무적 과제로 남을 전망입니다.",
-            "link": "https://www.hankyung.com/article/2026061087557",
-            "timestamp": 1781076345000,
-            "date": "2026-06-10"
+            "title": "호주 상원, ‘AI 에이전트’ 잇단 사고에 오픈AI·앤트로픽 CEO 출석 요구 - 조선비즈 - Chosunbiz",
+            "summary_kr": "호주 상원이 최근 발생한 AI 에이전트 관련 사고들을 조사하기 위해 오픈AI와 앤트로픽의 CEO를 대상으로 의회 출석을 공식 요구했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmJMenYzTDFHenkwdHd4ZlF2NThQZGs3M0NZX21iU2xvVFVjUlJRRTEzUWpFSk15bUhEMFM4YUFibmtMaWFsZFdhaXpMclBmZHc0cW1oaGhROGJKYUpZZDZLX09wVGpST2dQSmtHZ1lWbXcwdHhzOG1jZXlwdGNmWkZ30gGWAUFVX3lxTE9aR3VZd0RyYldxbHNZbzBjelpYTDlmbkp4X1BYbXlKcFFQYTNsekFnRnlwcnhOVGRwcXNyNUtSVHUwVFo3TGUyZmhja04xdkhuMUdCeGxjaFpGV1owYXdhTldJcXdYcVZ0ZTlOcjdNbl9LYkpPSUktSkFfVjFMMjlwNnFuS0RKTTlhZmNYOTRNc1NQSDdKZw?oc=5",
+            "timestamp": 1790494980000,
+            "date": "2026-09-27"
         },
         {
-            "title": "앤트로픽, ‘클로드 페이블 5·미토스 5’ 공개…차세대 AI 모델 출시 - 테크월드",
-            "summary_kr": "앤트로픽이 최신 모델 ‘클로드 페이블 5’와 ‘미토스 5’를 공개하며 복잡한 공학 및 데이터 분석 분야에서 SOTA 수준의 성능을 입증했습니다. 특히 긴 작업 처리와 장기 기억 능력이 대폭 강화되었으며, 안전성을 위해 특정 위험 요청은 상위 모델이 대응하는 전략을 도입했습니다.",
-            "link": "https://www.epnc.co.kr/news/articleView.html?idxno=402864",
-            "timestamp": 1781065582000,
-            "date": "2026-06-10"
+            "title": "‘AI가 일자리 줄인다’는 통념, 아마존·구글서는 깨졌다 - 서울경제",
+            "summary_kr": "아마존과 구글 등 빅테크 기업의 사례를 통해, AI 도입이 반드시 일자리 감소로 이어지지 않고 오히려 새로운 고용 창출과 효율성 증대를 이끌 수 있음이 확인되었습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYRDBjWDc1NDFac0RLbzM5dDY5VlMwMVNqU2x2WmhpX2ltNDFvdmdKVEpidGsyRWgyZC1mWXB5OHlrVHZJWjRQWGxPekRpbDd5N2J3?oc=5",
+            "timestamp": 1790497618000,
+            "date": "2026-09-27"
         },
         {
-            "title": "한국선급·MS 손잡았다… 조선해양 AI 전환 가속 - 국민일보",
-            "summary_kr": "한국선급이 한국마이크로소프트와 협력해 ‘AI 그랜드 플랜’을 추진하며 조선·해양 산업의 디지털 전환에 나섭니다. 양사는 생성형 AI와 AI 에이전트를 도입해 검사·인증 업무를 자동화하고, 선박 데이터센터 구축을 통해 글로벌 서비스 경쟁력을 강화할 계획입니다.",
-            "link": "https://www.kmib.co.kr/article/view_amp.asp?arcid=0029948349",
-            "timestamp": 1781069520000,
-            "date": "2026-06-10"
+            "title": "[스냅드래곤 서밋] \"PC 아키텍처 한계 깼다\"…퀄컴-구글 '에이전틱 AI 퍼스트' 동맹 - 디일렉",
+            "summary_kr": "퀄컴과 구글이 스냅드래곤 서밋에서 협력을 발표하며, 기존 PC 아키텍처의 한계를 극복하는 차세대 '에이전틱 AI 퍼스트' 생태계 구축에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cnJVMUVOc2NrLWJTdVRUSUtqRllCUkMtcHFSNjlzNkhaOEgxSzZsRDFUY01zWTZlaFktN3Vic043X0hBZkNnSTFmLVJSUnIxQnd4RER3am4zMkRmODlVUDN4M2VTdw?oc=5",
+            "timestamp": 1790420090000,
+            "date": "2026-09-26"
         },
         {
-            "title": "구글, 70여개 언어 실시간 번역 AI 모델 공개...동시통역 일자리 사라지나 - 조선일보",
-            "summary_kr": "구글이 70여 개 언어를 실시간으로 지원하는 번역 AI 모델을 공개하며 언어 장벽 해소를 위한 기술적 도약을 이루어냈습니다. 향후 동시통역 시장 전반에 큰 변화와 함께 일자리 구조의 재편이 불가피할 전망입니다.",
-            "link": "https://www.chosun.com/economy/tech_it/2026/06/10/FTJK7FWCVBBULMDWD3HN6L4JWY",
-            "timestamp": 1781054220000,
-            "date": "2026-06-10"
+            "title": "오픈AI 에이전트발 이미지 53장 유출 사태가 AI 플랫폼 비즈니스에 던진 구조적 경고 - 대한청년일보",
+            "summary_kr": "오픈AI의 에이전트 관련 이미지 53장이 유출된 사태는 AI 플랫폼 비즈니스의 보안 체계와 데이터 관리의 구조적 취약성에 경종을 울리고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9wSURLY2IzNlFIam5DS2M0aFhZUG93NUprbmFlNG1ZZnZReHpVeHF0czN6SGxqV0FBSjJ6NVgwS29KR1E?oc=5",
+            "timestamp": 1790438822000,
+            "date": "2026-09-26"
         },
         {
-            "title": "[WWDC 2026] 애플, 클로드·제미나이 품고 모바일 앱 개발 생태계 확장 - 아이티데일리",
-            "summary_kr": "애플은 'WWDC 2026'에서 엑스코드 27과 파운데이션 모델 프레임워크를 통해 제미나이와 클로드 등 외부 AI 모델을 통합하며 모바일 개발 생태계를 대폭 개방했습니다. 특히 ACP와 MCP 표준을 도입해 외부 에이전트 연동을 간소화하고, 소규모 개발자에게는 프라이빗 클라우드 컴퓨팅 환경에서의 AI 모델 비용을 지원합니다.",
-            "link": "http://www.itdaily.kr/news/articleView.html?idxno=239738",
-            "timestamp": 1780994763000,
-            "date": "2026-06-09"
+            "title": "엔비디아, 로보택시 기술스택 확산⋯우버·벤츠·현대차·웨이모까지 - 엠투데이",
+            "summary_kr": "엔비디아가 자사의 로보택시 기술 스택을 우버, 벤츠, 현대차, 웨이모 등 주요 글로벌 기업들에 확산시키며 자율주행 시장의 핵심 인프라로 자리 잡고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rbllnUWNwZFNyR3JFZWJQNEFjS2F2bW9Jc1o0OElkNmUwY1IyTUE1S3lNT01PcVFpeFNCLTV1SlhYMzU0VkdabVA0MmNtc2tSRDNzZGRDRi0yc2x4eC1MbGJlNlJMdFVjRktVbmFvdw?oc=5",
+            "timestamp": 1790413500000,
+            "date": "2026-09-26"
         },
         {
-            "title": "LG CNS, 앤트로픽 ‘클로드 엔터프라이즈’ 전격 도입… LG그룹 전 계열사 AX 가속화 - NBN미디어",
-            "summary_kr": "LG CNS가 앤트로픽의 '클로드 엔터프라이즈'를 그룹 전 계열사에 통합 도입하며 사내 AI 거버넌스를 강화했습니다. 이번 협약은 챗엑사원 등 자사 모델과 결합한 멀티 AI 체계를 구축하고, 향후 대외 SI 시장까지 아우르는 AX(인공지능 전환) 수주 파이프라인을 확보하려는 전략적 포석입니다.",
-            "link": "https://www.nbntv.kr/news/articleViewAmp.html?idxno=340268",
-            "timestamp": 1781011357000,
-            "date": "2026-06-09"
+            "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진 - AI타임스",
+            "summary_kr": "구글, 오픈AI, 앤트로픽 등 주요 AI 기업들이 인공지능 기술의 안전성과 윤리적 책임을 강화하기 위한 자율 규제 기구인 'SAFA'를 연내 출범할 계획입니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MMG5TVEh0T05PbjQwd2FzRFJOM05JYmFGbzFlekFuSWFTb05DOW9Ga2dYV0ZLUERKZGNEZjQtcHFWb1V4WkpsNjdRTWZaenNYRi02TUVZYkM1aUQtaEdhR190NjRTLXgtQUE?oc=5",
+            "timestamp": 1790334772000,
+            "date": "2026-09-25"
         },
         {
-            "title": "‘AI 심폐 소생술’ 해낸 팀 쿡의 애플… ‘시리 AI’ 마침내 선보여 - 조선일보",
-            "summary_kr": "애플이 차세대 시리 AI를 공식 선보이며 인공지능 분야에서의 기술적 반등을 꾀했습니다. 팀 쿡 체제의 애플은 이번 업데이트를 통해 사용자 경험을 혁신하고 AI 생태계에서의 영향력을 재확인할 것으로 보입니다.",
-            "link": "https://www.chosun.com/economy/tech_it/2026/06/09/GNHMWM5MSJDGDJDISOTKV2SIKQ",
-            "timestamp": 1780985189000,
-            "date": "2026-06-09"
+            "title": "\"앱 열지 말고 AI에 시켜라\" MS 코파일럿, AI 운영체제로 - Hankookilbo",
+            "summary_kr": "마이크로소프트가 코파일럿을 단순한 도구에서 차세대 AI 운영체제로 격상시켜, 사용자가 개별 앱을 실행하지 않고도 AI가 직접 작업을 수행하는 사용자 경험을 구현하고자 합니다.",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BSFpTTlczVnpOS1Q4Q0drNmIzZjZaZUk4QzMyYzZwdllvQWZPX0FDUkxTLTA0TWJhZEx5cE9fbGdOYTlMVlJ6M25PdFlCS25IT3JSYTItcWkyRWlKZ2RzZV9UaEVZX055QmpTbnV30gFzQVVfeXFMUDB6V2hCb05fUzZMNWhfT3UzSmNvYWIxR0tMRVJiOXp3Wjlnd0tOcGNFeWk0cGdLaW1ncXJwakJic3pVaVRzcHdyclpETlJlV3Z4aUpQbVdVUTZqb25URVFyQzhYMTdRSlZDRFgtZTJVRmlYUQ?oc=5",
+            "timestamp": 1790337600000,
+            "date": "2026-09-25"
         },
         {
-            "title": "엔비디아-두산, AI 인프라 동맹 확대 … 로봇·전력·소재까지 전방위 협력 - 워크투데이",
-            "summary_kr": "엔비디아가 두산그룹과 협력하여 로봇, 건설 장비, 에너지, 소재를 아우르는 산업형 AI 밸류체인을 구축합니다. 양사는 엔비디아의 가속 컴퓨팅 플랫폼을 기반으로 두산의 제조 역량을 결합해 AI 팩토리 솔루션 고도화와 AI 데이터센터향 고성능 전력 및 소재 시장을 동시에 공략할 계획입니다.",
-            "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=85436",
-            "timestamp": 1781013338000,
-            "date": "2026-06-09"
+            "title": "젠슨 황 \"통제 불가능한 AI 연구소, 규제 아닌 폐쇄해야\" - AI타임스",
+            "summary_kr": "엔비디아의 젠슨 황 CEO가 안전 기준을 준수하지 않거나 통제가 불가능한 AI 연구소에 대해, 단순한 규제를 넘어 즉각적인 폐쇄 조치를 취해야 한다는 강경한 입장을 밝혔습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUld3aVZITlFZZDdNdmRUVTd0U21vNGtzMGZjZXV0UGZaaHlYNVl1Rm1RLUhrOENwdGI2SHd3MVF6NmNfWmU3a19xbEFwSlJSN1QwSDRtLWNzemx2Uk8zeVhGdENCblEyTUE?oc=5",
+            "timestamp": 1790343398000,
+            "date": "2026-09-25"
         },
         {
-            "title": "애플, EU 규제 충돌로 시리 AI 아이폰 출시 무기한 연기 | 임팩트온 - 임팩트온",
-            "summary_kr": "애플이 유럽연합의 디지털시장법(DMA)과 개인정보 보호 조항 간의 충돌로 인해 차세대 ‘시리 AI’의 유럽 내 출시를 무기한 연기했습니다. 이번 결정으로 iOS 27 등 주요 운영체제에서 핵심 AI 기능이 제외되었으며, 향후 중국 시장에서도 규제 요건 충족 전까지 서비스 제공이 보류될 전망입니다.",
-            "link": "http://www.impacton.net/news/articleView.html?idxno=19162",
-            "timestamp": 1780981442000,
-            "date": "2026-06-09"
+            "title": "\"AI 멸망설 10%? 극히 희박\"…팔로알토·엔비디아 CEO, ‘AI 속도 조절론’에 일침 - AI포스트",
+            "summary_kr": "팔로알토와 엔비디아의 최고경영자들은 AI가 인류를 멸망시킬 확률이 10%라는 일각의 주장을 일축하며, AI 발전 속도를 억제해야 한다는 '속도 조절론'에 대해 강한 회의적 입장을 표명했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJSGYyWU9CM0NFTmNzZmVhWHZPU2U4RzRQWXhWeGpOUzZxLTBKcHYxc0tKNlVTWFVYUFl6cWRVdTd5d3M5MTJ6VDhJREJ5bldxUjkzUldNVFRkeF8zOHZMb3hKeGFKM0NrbWpDZkJR0gFyQVVfeXFMT2ZZdHVveE4xR0xXQW1wbUpHdTNfY1JUR2FFLTVOdEVZRUhMNTlPWDczdmJiXy1YRVg3d0R0T1NZaG5HOV9pTjZkUm9qSkJMRTU1anBDa2g3WXVxNFNfSkVtZVZBcXBNMUw0Y3dKMldENnZn?oc=5",
+            "timestamp": 1790312851000,
+            "date": "2026-09-25"
         },
         {
-            "title": "\"사장단도 챗GPT 배워라\"…삼성, 조직 DNA AI로 갈아엎는다 - 조선일보",
-            "summary_kr": "삼성이 전사적 업무 프로세스에 AI를 도입하는 ‘AI 대전환’을 선언하고, 챗GPT 등 외부 생성형 AI를 공식 도입하여 R&D부터 경영지원까지 8대 업무 영역을 혁신합니다. 이를 위해 전 사장단이 참여하는 ‘AX 부트캠프’를 개최하고, 관계사별 AI 전담 조직을 신설하여 AI 네이티브 기업으로 도약할 방침입니다.",
-            "link": "https://weekly.chosun.com/news/articleView.html?idxno=52366",
-            "timestamp": 1780987454000,
-            "date": "2026-06-09"
+            "title": "퀄컴, 모듈러 품고 ‘탈엔비디아’ 생태계 구상… 40억달러 베팅한 이유 - 조선비즈 - Chosunbiz",
+            "summary_kr": "퀄컴이 40억 달러 규모의 대규모 투자를 단행하며 자체 모듈러 생태계를 구축하고, 엔비디아 의존도를 낮추기 위한 독자적인 AI 하드웨어 생태계 확보에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3ZNMU9Cc201V0k4N0F1YWgxalhtLVM2QnFMM0liWUlDQ0FJVnRkM2Vqb0RNQnVMN2R1Ymt1QTFiSEZmalhKSkt3M2pJaTZpXzZkUGdkX3ZDQmpSZ0lSQk44R0RmM2RSWm0xNThtNmJvQzV3bXJsRlY1Yjdwa1EwQlFR0gGWAUFVX3lxTE13ZE1WYTgyTUN3a2haQlk3RGZpV0x0NHpFbHg2eFM2c2xiTjRnTm1BWmllR1Voc1FCdl81MUN4TVprcGNqRFVLcm1GdC1PdW01Um44YlhQSU9lbDBJZHhuekpMcnFYaHhtS1JYV2VsNXV1SVBFQ1FJamlocnFEUkwwdWMwTEF5LTI2S0pjNk8tTDR1eENoZw?oc=5",
+            "timestamp": 1790294525000,
+            "date": "2026-09-25"
         },
         {
-            "title": "MS, 깃허브 저장소 수십 개 차단…\"AI 개발 도구서 악성코드 발견\" - v.daum.net",
-            "summary_kr": "마이크로소프트가 자사 깃허브 오픈소스 프로젝트에서 비밀번호와 민감 정보를 탈취하는 악성코드를 발견하고 관련 저장소 수십 개를 일시 차단했습니다. 특히 클라우드 및 AI 개발 도구를 겨냥한 이번 공급망 공격은 지난 5월에 이은 재침해 가능성이 제기되어, MS는 보안 검토가 완료될 때까지 관련 서비스를 비활성화하고 조사 중입니다.",
-            "link": "https://v.daum.net/v/20260609090936959",
-            "timestamp": 1780963776000,
-            "date": "2026-06-09"
+            "title": "LG전자, AI 데이터센터 냉각사업 확장…2.5MW CDU 엔비디아 'DSX 레디' 승인 - 웹이코노미",
+            "summary_kr": "LG전자가 2.5MW급 냉각분배장치(CDU)에 대해 엔비디아의 'DSX 레디' 인증을 획득하며, 급성장하는 AI 데이터센터 냉각 시장에서의 사업 경쟁력을 대폭 강화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iU0tmai00ZkpGdkl4UGtqT0VSNkhnNHdjYjc1QXFDRHZpTHZzM01JZk5NTE5XRkpvV3gxZjdxbkhGbXlNRm1pekt5elZ6S1k5bmVRbUVyaG5aN3hEd0xmejFPMGhMYTc3ZUtpUWtPdDhiUQ?oc=5",
+            "timestamp": 1790317072000,
+            "date": "2026-09-25"
         },
         {
-            "title": "네이버클라우드, 엔비디아와 ‘글로벌 AI 팩토리’ 구축 협력…모델 고도화·피지컬 AI까지 범위 확대 - 산학뉴스",
-            "summary_kr": "네이버클라우드가 엔비디아와 협력하여 AI 인프라부터 모델 고도화, 피지컬 AI까지 아우르는 글로벌 AI 팩토리 구축에 나섰습니다. 특히 엔비디아의 네모트론 3 울트라 기술로 하이퍼클로바X의 성능을 강화하고, 서울 월드 모델 등 실생활 데이터를 활용한 피지컬 AI 분야의 연구를 공동 추진합니다.",
-            "link": "https://www.sanhaknews.kr/news/articleView.html?idxno=21391",
-            "timestamp": 1780937766000,
-            "date": "2026-06-08"
+            "title": "구글, AI 칩 4개 우주로 보낸다…10월 1일 '우주 데이터센터' 첫 시험 - 디지털투데이",
+            "summary_kr": "구글은 오는 10월 1일 자사의 AI 칩 4개를 우주로 쏘아 올려 극한 환경에서의 데이터 처리 능력을 검증하는 '우주 데이터센터' 시험을 시작할 예정입니다.",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zVXNNYWhIOG9BSmFmVVBUc0o0Z2ZyU3NEOXFtNnpVTldIbjJ0XzdjQUZJb0xNc3VwdXdXU3huV3hjQVZNVmxQUGpLU0cyMHZTRXl4VUF0bTUxMXpsUlNPRXVzaEdEeGJZc21mRGtkdTJTUVk?oc=5",
+            "timestamp": 1790314140000,
+            "date": "2026-09-25"
         },
         {
-            "title": "LG, 엔비디아와 로봇·AI 데이터센터·자율주행 협력 확대 - MIT 테크놀로지 리뷰 | MIT Technology Review Korea - MIT 테크놀로지 리뷰",
-            "summary_kr": "LG와 엔비디아가 로봇, AI 데이터센터, 자율주행 등 차세대 산업 전반에서 전략적 파트너십을 체결하고 실질적인 제조 현장 혁신을 추진합니다. LG의 제조 역량과 엔비디아의 풀스택 AI 플랫폼을 결합해 아이작 그루트 기반 로봇 개발과 자율 제조 생태계 구축, 엑사원 성능 고도화를 본격화할 전망입니다.",
-            "link": "https://www.technologyreview.kr/deeptech/lg-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%EC%99%80-%EB%A1%9C%EB%B4%87%C2%B7ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0%C2%B7%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%ED%98%91%EB%A0%A5-%ED%99%95",
-            "timestamp": 1780902164000,
-            "date": "2026-06-08"
+            "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화 - AI타임스",
+            "summary_kr": "구글 딥마인드 최고경영자가 첫 인터뷰를 통해 차세대 AI 모델인 '제미나이 4'의 조기 출시 계획을 공식화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10OWRBQ3BWb1l5SlBsb2RHVm1OVVhrZDNlaDgxVFBQcE5CRTJRSGJibm02X2c2eVp4LXc4eHdhOGdtamNHeHVpelA1Y05ETDhfcFdwUzc3d3Bfb1FZc1MwR2dRLWJsYnF5R0E?oc=5",
+            "timestamp": 1790256545000,
+            "date": "2026-09-24"
         },
         {
-            "title": "[헬로티 HelloT] 오픈AI, 프롬프트 인젝션 방어 '락다운 모드' 공개...민감 데이터 보호 강화 - 헬로티",
-            "summary_kr": "오픈AI가 AI 에이전트의 데이터 탈취 공격인 프롬프트 인젝션을 방어하기 위한 '락다운 모드'를 공개했습니다. 해당 모드는 웹 브라우징과 심층 연구 기능을 제한하여 민감 데이터 유출 위험을 최소화하며, 비즈니스 계정을 중심으로 보안이 필요한 사용자들에게 순차적으로 제공됩니다.",
-            "link": "https://www.hellot.net/news/article.html?no=113054",
-            "timestamp": 1780901004000,
-            "date": "2026-06-08"
+            "title": "오픈AI, '챗GPT 음성'에 에이전트 결합...\"말 한마디로 앱 조작·업무 처리\" - AI타임스",
+            "summary_kr": "오픈AI가 챗GPT의 음성 기능에 에이전트 기술을 결합하여, 사용자의 음성 명령만으로 앱 조작과 복합적인 업무 처리가 가능한 환경을 구현합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aLW9uTWZFbGNoNzZZMUxxWU5EcmxkaHJUc1Y4Z1dNV0FJeUZBXzNILTU1ZENDbVBYNURybGNzZWltbndVWF9ieTgtaDZIOVhPV0FHZWJoZExJYUJiQXRNUjV2NEU4SHJXMFE?oc=5",
+            "timestamp": 1790246406000,
+            "date": "2026-09-24"
         },
         {
-            "title": "앤트로픽 'AI 개발 중단' 제안에 업계  냉소...\"선도 기업의 이기적인 사다리 걷어차기\" - AI타임스",
-            "summary_kr": "앤트로픽이 AI 개발 일시 중단 및 국제적 안전 장치 마련을 제안했으나, 업계는 이를 자사 이익을 위한 경쟁자 견제 및 신규 진입 장벽 구축용 '사다리 걷어차기'라며 비판하고 있습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211463",
-            "timestamp": 1780894608000,
-            "date": "2026-06-08"
+            "title": "오픈AI·앤트로픽 등 AI 리더, 유엔 안보리 회의 총출동...\"AI 통제 국제 공조\" 한목소리 - YTN",
+            "summary_kr": "오픈AI와 앤트로픽 등 주요 AI 기업 경영진이 유엔 안보리 회의에 참석해, AI 기술의 안전한 통제를 위한 국제적 차원의 공조 필요성을 역설했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1NGpicU10WDlReTJHR3NYUzk5N21RUGU0ek13bHBDSG1IcURSRzZxMUtjczFnYU84a0tNLXFfNnFHc3drOWNnQy1PWW9kZXpFc05wdENlajdLMkVmZWV1eHh0TEtJYmVmRkxGLXRsUTZCV2l0T0E?oc=5",
+            "timestamp": 1790258340000,
+            "date": "2026-09-24"
         },
         {
-            "title": "트릴리온랩스, 엔비디아 플랫폼 활용 AI 팩토리용 ‘산업 월드모델' 개발 - 디일렉",
-            "summary_kr": "트릴리온랩스가 엔비디아의 옴니버스 및 네모트론 플랫폼을 활용해 AI 팩토리와 에너지 인프라를 최적화하는 '산업 월드모델' 개발에 착수하며 산업 지능 시장 개척에 나섰습니다.",
-            "link": "https://www.thelec.kr/news/articleView.html?idxno=57743",
-            "timestamp": 1780900919000,
-            "date": "2026-06-08"
+            "title": "앤트로픽, AI 활용해 크리스퍼 유사 효소 시스템 발견…21시간 만에 성과 - ajunews.com",
+            "summary_kr": "앤트로픽이 AI를 활용해 크리스퍼(CRISPR) 기술과 유사한 효소 시스템을 21시간 만에 발견하며 생명공학 연구의 획기적인 효율성을 입증했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyOHVqVDdHdm56S0dXVW1hWEdvNGRaYUJfNFgzeVpZcVY5ckk3SXhCOHFBaHRUZTRud0lpRTlzT3FQb0wzQTZrZEZYUEdlZUdYZlR2Z095LUzSAVhBVV95cUxQMjh1alQ3R3ZuektHV1VtYVhHbzRkWmFCXzRYM3laWXFWOXJJN0l4QjhxQWh0VGU0bndJaUU5c09xUG9MM0E2a2RGWFBHZWVHWGZUdmdPeS1M?oc=5",
+            "timestamp": 1790218800000,
+            "date": "2026-09-24"
         },
         {
-            "title": "깐부 회동 중 \"More HBM!\" 외쳤다…SK-엔비디아 'AI 협력' 발표 예고 - 머니투데이",
-            "summary_kr": "최태원 SK그룹 회장과 젠슨 황 엔비디아 CEO가 회동을 통해 AI 반도체 및 통신 네트워크 분야의 강력한 협력을 재확인했습니다. 양사는 8일 구체적인 사업 계획을 발표할 예정이며, 하반기부터 내년까지 대규모 협력을 이어갈 전망입니다.",
-            "link": "https://www.mt.co.kr/industry/2026/06/07/2026060721031499884",
-            "timestamp": 1780833942000,
-            "date": "2026-06-07"
+            "title": "“AI 통제력 상실, 현실적이고 임박한 위협”… 오픈AI·앤트로픽, 유엔 안보리 긴급 브리핑 - 인공지능신문",
+            "summary_kr": "오픈AI와 앤트로픽이 유엔 안보리 긴급 브리핑에 참석해 AI 기술 발전으로 인한 통제력 상실 가능성을 현실적이고 임박한 위협으로 경고했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jSnhNWk9UODFUcTV2dk9rN0hTT3Z2bFFJVlRBcXNPMFJuUEZZcEtHVktvcG5PR0UtLWxDRHBkbUhBMmNuQmtPemlKUkRXWlhWUmozVVBEd01QWGVaSDloNE9rMHkyMDA?oc=5",
+            "timestamp": 1790208253000,
+            "date": "2026-09-24"
         },
         {
-            "title": "오픈AI, IPO 앞두고 챗GPT 대수술…\"코딩·AI에이전트 합친 '슈퍼앱' 선보여\" - 뉴시스",
-            "summary_kr": "오픈AI가 IPO를 앞두고 수익성 개선을 위해 챗GPT를 코딩과 작업 수행이 가능한 AI 에이전트 중심의 '슈퍼앱'으로 전면 개편합니다. 10억 명의 이용자 기반을 고부가가치 기업용 시장으로 전환하여 매출 비중을 높이겠다는 전략입니다.",
-            "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260607_0003659418",
-            "timestamp": 1780839967000,
-            "date": "2026-06-07"
+            "title": "[신약개발 나선 빅테크 上] 구글, 빅테크 최초 '직접 임상' 나선다…신약개발 판도 흔들까 - edaily.co.kr",
+            "summary_kr": "구글이 빅테크 기업 중 최초로 직접 임상 시험에 착수하며 AI 기술을 활용한 신약 개발 시장의 주도권 확보에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnQtZ1J1UXpnUWRJNVhub0ZNWDkzOUdIS21wYmNuTVoyWUdPb0tFQjYxQzF6TFRFd1UzNGg2QXhlRmR0cHlZM2pYUWJNWTFuUXFMbnZLWS14YUZPNXloU1BUbTFDWVpybmtPRGFGMUxaNC0tYUVIc25jRklwTGFMaA?oc=5",
+            "timestamp": 1790215261000,
+            "date": "2026-09-24"
         },
         {
-            "title": "엔비디아, 피지컬 AI ‘옴니버스’에 한국 초대 - 경향신문",
-            "summary_kr": "엔비디아가 자사의 3D 플랫폼 '옴니버스'를 피지컬 AI의 표준으로 확립하기 위해 한국 기업들의 생태계 참여를 적극 독려하고 있습니다. 제조 데이터가 풍부한 한국 기업을 통해 플랫폼 성능을 입증하려는 의도이나, 일각에서는 엔비디아에 대한 기술 종속 가능성을 우려하고 있습니다.",
-            "link": "https://www.khan.co.kr/article/202606072026005",
-            "timestamp": 1780831560000,
-            "date": "2026-06-07"
+            "title": "애플, M6 '맥 미니'·M5 울트라 '맥 스튜디오' 출시… 온디바이스 AI 성능 강화 - 인공지능신문",
+            "summary_kr": "애플이 차세대 M6 칩을 탑재한 맥 미니와 M5 울트라 기반의 맥 스튜디오를 출시하며 온디바이스 AI 성능을 대폭 강화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fQ3dldHVtX0NKOVh1cDJ5ZGd6LTU4TFdnZ0VGVC1kSUg2X3FtbVdxWDR6QTZ3ekpsQlRLVGRacjVncGdWdXE3MGNmTExFdWFJS1l0MUg0Nml3cjBpWXVocm5UWDdNdTA?oc=5",
+            "timestamp": 1790172283000,
+            "date": "2026-09-23"
         },
         {
-            "title": "애플 시리, AI 에이전트로 대변신 예고 - 2news.co.kr",
-            "summary_kr": "애플은 WWDC 2026에서 클라우드와 온디바이스 기술을 결합한 차세대 AI 비서 '시리'를 공개하며 본격적인 AI 시장 반격에 나설 전망입니다. 이번 행사는 경영진 교체 시기와 맞물려 애플의 AI 전략 생존 가능성을 증명하는 중대한 분수령이 될 것으로 보입니다.",
-            "link": "https://www.2news.co.kr/news/articleView.html?idxno=9375",
-            "timestamp": 1780796940000,
-            "date": "2026-06-07"
+            "title": "추론하고 가설 세우고 실험까지···‘Scientific AI’, 과학 연구 판 바꾼다 - 스포츠경향",
+            "summary_kr": "데이터 분석을 넘어 가설 설정과 실험 수행이 가능한 'Scientific AI'가 등장하며 과학 연구 패러다임의 혁신을 이끌고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4X0FUUmJiSVo5dnZaM1JLVmoteFFNaExURE1RMmVkQ0dSbVNWWTdvNHU4bE5qWTJhN3lrcG4yZzdId3FUQk5ITlo1SWpJUUJQbVJZenp2Unl0b05NNFHSAWNBVV95cUxQMjZoM1NwRUx6RERkdWhpMkJrWEhTVVRDOTRxdnpQRFZmaW4zSERmVGJ3a3RYSTBDRlRvMko3dlNqdW8yTTdCbi1BeXlMS0dIekFKREUzbVVab1RQeEJ3UFZIZkk?oc=5",
+            "timestamp": 1790177880000,
+            "date": "2026-09-23"
         },
         {
-            "title": "엔비디아, FOX 블루프린트 발표… 글로벌 제조 혁신 이끌 지능형 공장 에이전트 구현 - 미디어픽",
-            "summary_kr": "엔비디아가 자율 공장 관리 에이전트 구축을 위한 레퍼런스 디자인 'FOX 블루프린트'를 발표하며 제조 현장의 지능형 혁신을 가속화합니다. 폭스콘 등 글로벌 제조사들은 해당 기술을 도입해 근본 원인 분석 시간을 80% 단축하고, 생산성과 에너지 효율을 동시에 개선하는 성과를 거두고 있습니다.",
-            "link": "https://www.mediapic.co.kr/news/articleView.html?idxno=2767",
-            "timestamp": 1780801376000,
-            "date": "2026-06-07"
+            "title": "[SDG 9] 딥마인드 출신들이 만든 AI 과학자 ‘패러데이’…오픈AI·앤트로픽 대형 모델 넘어섰다 - SDG뉴스",
+            "summary_kr": "딥마인드 출신들이 개발한 AI 과학자 '패러데이'가 오픈AI와 앤트로픽의 대형 모델 성능을 추월하며 과학 연구 분야의 새로운 기준을 제시했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44eXF5NU9LZnYxQ2xxbkNJLTBzR0xwakJ6am9McHhnMFZJQVNRTTduWTc3MUY4ODJtcllMX1MzU05NeG9HTkU1dVpySFd1MHNNbHNFQ0NfWF83dmhSekFxMXJlaldzd3pudERV0gFrQVVfeXFMTjh5cXk1T0tmdjFDbHFuQ0ktMHNHTHBqQnpqb0xweGcwVklBU1FNN25ZNzcxRjg4Mm1yWUxfUzNTTk14b0dORTV1WnJIV3Uwc01sc0VDQ19YXzd2aFJ6QXExcmVqV3N3em50RFU?oc=5",
+            "timestamp": 1790148183000,
+            "date": "2026-09-23"
         },
         {
-            "title": "AI 기업 지분 사들이나…미국서 떠오른 ‘국가 주주’ 실험 - 이데일리",
-            "summary_kr": "미국 정부가 AI 기업의 지분을 확보해 안전 규제와 이익 공유를 도모하는 새로운 형태의 '국가 주주' 모델을 논의 중입니다. 이는 급변하는 AI 기술 속도에 대응해 정부가 단순 규제자를 넘어 이해관계자로서 산업의 책임성을 강화하려는 시도이나, 규제와 투자의 이해충돌 우려 또한 제기되고 있습니다.",
-            "link": "https://www.edaily.co.kr/News/Read?newsId=02564966645479424&mediaCodeNo=257",
-            "timestamp": 1780811972000,
-            "date": "2026-06-07"
+            "title": "ABB, AI 데이터센터용 통합 DC 솔루션 출시 - 디일렉",
+            "summary_kr": "글로벌 전기기술 기업 ABB가 급증하는 AI 데이터센터의 전력 수요를 효율적으로 관리하기 위한 통합 직류(DC) 솔루션을 선보였습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWjR2b1hWNWNwNTFUMkMxWUtRcTRkMG9XcndjUU5WQkoyekd6dExTZUFtQzRNcEdFVnRVVDRLVXRWZnRPRVhMSjl1Mmo2aU5QMm5vNDFOY2pFWER3UklQTmwxQzZ4UQ?oc=5",
+            "timestamp": 1790150386000,
+            "date": "2026-09-23"
         },
         {
-            "title": "미 하원, 초당적 AI 법안 초안 공개…'주정부 규제 무력화' 논란 - AI타임스",
-            "summary_kr": "미 하원은 최첨단 AI 개발 기업에 보안 의무를 부과하는 초당적 법안을 공개했으나, 캘리포니아 등 주정부의 규제 권한을 무력화한다는 조항을 두고 찬반 논란이 가열되고 있습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211419",
-            "timestamp": 1780737863000,
-            "date": "2026-06-06"
+            "title": "오픈AI, 모델 개발 초기부터 외부 안전성 검증 받는다 - AI타임스",
+            "summary_kr": "오픈AI가 AI 모델 개발 초기 단계부터 외부 기관의 안전성 검증을 도입하며 기술적 신뢰도와 안전성 강화에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52bnI0blBmeFFqdU1YR2x0Q2U3bkFRd0E1MlhNaW9LUnJfeHQxNkVDNU1NRm9Iak1VUHFCazZWQ2tHOFhialF3T0JwWUlhUkhCdzhKdjNvVkc5OVdSRWlISExuMV9jZTRId2c?oc=5",
+            "timestamp": 1790145626000,
+            "date": "2026-09-23"
         },
         {
-            "title": "자연어로 지시하는 AI 로봇 등장...아마존, 차세대 자율주행 로봇 '프로테우스' 공개 - 인공지능신문",
-            "summary_kr": "아마존은 유럽 물류 네트워크에 100억 유로를 투자하고, 자연어를 이해하는 차세대 로봇 '프로테우스'와 촉각 로봇 '벌컨'을 도입해 물류 자동화와 인력 효율화를 추진할 전망입니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40366",
-            "timestamp": 1780745870000,
-            "date": "2026-06-06"
+            "title": "앤트로픽, ‘클로드 오퍼스 5.5’ 출시...토큰값 내리고 코딩 효율 올려 - 더에이아이",
+            "summary_kr": "앤트로픽은 신규 모델 '클로드 오퍼스 5.5'를 출시하여 토큰 가격을 인하하고 코딩 처리 효율성을 대폭 개선했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZTBOSlQ0QkU4S3kya0JUa1NqV2pQX2lxZnlOSmgtQndldHRGM00zRE5vZlFFVWFKeGVuemp6c2ZoRFVoMmN2MmRHdUh0NXlrd1FPR3VxY2hISHAzajlxYzhDRVZKRzRGRFdF?oc=5",
+            "timestamp": 1790130596000,
+            "date": "2026-09-23"
         },
         {
-            "title": "美·日, ‘AI 포 사이언스' 동맹 구축…10억 달러 공동 투자, 미국 ‘제네시스 미션’과 일본 AI 전략 결합 - 인공지능신문",
-            "summary_kr": "미국과 일본은 향후 5년간 10억 달러를 공동 투자하여 AI 기반 신약 개발 및 신소재 연구를 가속화하는 'AI 포 사이언스' 동맹을 구축했습니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40364",
-            "timestamp": 1780735184000,
-            "date": "2026-06-06"
+            "title": "\"최고 성능보다 싸고 자주 쓰는 AI\"… 빅테크, AI 대중화 총력전 - 뉴시스",
+            "summary_kr": "글로벌 빅테크 기업들이 초고성능 모델 경쟁에서 벗어나 비용 효율성과 실용성을 갖춘 AI 모델을 통해 시장 대중화에 집중하고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4dEVBS1VJSzVDd01YQzFhb0V0YlpwMHc5ZUItU0Jrbm9OWGdSWURIN1BnSGJnbDFDeHVvWVF0S28zYm5LcVI4RTVfYzY2TEEzazl5a1ZTZUY5RFZTNEp6d9IBeEFVX3lxTE5ZMUhQMGpKM1NxNnhwQ3hSb0ZvVzB3UXBVSEVxcHhXdmpDSnJCaHdLZ1RjZFFsYllkTmwtVGNzRDdWOWV0TDJxYUlfVlVJdmRnalBGWmJPdW5lNVoybTlNcExzeVloenk4dlN2NjRVZ1U0YS1vd1I2Yw?oc=5",
+            "timestamp": 1790146485000,
+            "date": "2026-09-23"
         },
         {
-            "title": "구글, '젬마 4 QAT' 공개…“1GB 메모리로 AI 구동” 온디바이스 AI 대중화 가속 - 인공지능신문",
-            "summary_kr": "구글이 학습 단계부터 압축을 고려한 '젬마 4 QAT' 모델을 공개하며, 1GB 이하의 메모리 환경에서도 고성능 AI 구동이 가능한 온디바이스 AI 시장 대중화를 앞당기고 있습니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40365",
-            "timestamp": 1780737381000,
-            "date": "2026-06-06"
+            "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다 - AI타임스",
+            "summary_kr": "메타의 AI 에이전트 '뮤즈'가 출시 초기 기록적인 사용자 유입을 달성하며 챗GPT의 시장 지배력을 위협하고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNGxJVE5SaERaVGhrS3Y4Sm9zaWRlMzNCcnJWVG93Q1lCdGpaMnV3b01ybGdoams0YWlWQTBRTzEzdnplWXY4Y0EyUFpfa09uVVNsZk45S3JCZnQ1eW5OZVJ0eXp1Q2hIWFE?oc=5",
+            "timestamp": 1790071134000,
+            "date": "2026-09-22"
         },
         {
-            "title": "히타치 제작소가 '클로드 미토스' 도입, 인프라 방어 강화 추진 - nhk.or.jp",
-            "summary_kr": "히타치 제작소가 앤트로픽과 계약을 맺고 보안 위험이 높은 고성능 모델 '클로드 미토스'를 도입해, 철도 및 에너지 등 국가 주요 인프라 시스템의 사이버 공격 방어 체계 강화에 나섰습니다.",
-            "link": "https://www3.nhk.or.jp/nhkworld/ko/news/20260605_17",
-            "timestamp": 1780719172000,
-            "date": "2026-06-06"
+            "title": "액센츄어·구글 클라우드, 볼보와 AI 자동차 SW 개발 혁신…테스트 최대 9배 빨라진다 - 인공지능신문",
+            "summary_kr": "액센츄어와 구글 클라우드가 볼보와 협력하여 AI 기반 자동차 소프트웨어 개발 프로세스를 도입하고, 이를 통해 테스트 속도를 최대 9배까지 단축할 전망입니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YQWo2dFpWRDJpeUl1R2FaR1RwRmxlTGpmeU1mRHZrWkxrZF9jcnZzbjZ0T1ZUTzBfS18teG9MemFRYW9JUzRDYUdJMGJoS1RyZzlRWmVoY3dNcmR3UHV6SHcxaG43eGc?oc=5",
+            "timestamp": 1790066146000,
+            "date": "2026-09-22"
         },
         {
-            "title": "[AI 인프라 전쟁] '엔비디아 투자' 제너럴리스트AI, 3조원 평가 - numbers.co.kr",
-            "summary_kr": "AI 로보틱스 스타트업 제너럴리스트AI가 최근 투자 유치를 통해 3조 원의 기업가치를 인정받으며 기술 고도화에 나섰습니다. 엔비디아와 아마존 등이 참여한 이번 투자를 바탕으로 로봇의 복잡한 작업 수행 능력을 높이기 위한 정교한 AI 모델 개발과 현실 세계 데이터 확보에 집중할 계획입니다.",
-            "link": "https://www.numbers.co.kr/news/articleView.html?idxno=21239",
-            "timestamp": 1780715488000,
-            "date": "2026-06-06"
+            "title": "오픈AI “미국 ‘AI 안전 표준’ 주도해야...한국 등 10개국과 협력 필요” - 한겨레",
+            "summary_kr": "오픈AI는 미국이 글로벌 AI 안전 표준을 주도해야 한다고 강조하며, 한국을 포함한 10개국과의 긴밀한 협력 체계 구축을 제안했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJcElka2QxeWFsWXBBLUJsQzR1X1dJTDBfMGpHMUxuWGY4WnZXXzI0dnpudXNRd2dxRldoQXRuMEVYc2lrY0JEVFVJYWxVMzUyY0Q4TjFuNFEwZURReEtjZw?oc=5",
+            "timestamp": 1790074320000,
+            "date": "2026-09-22"
         },
         {
-            "title": "메타, MS·구글 이어 기업용 AI 에이전트 시장 참전 - 서울파이낸스",
-            "summary_kr": "메타가 와츠앱과 메신저 등 자사의 대규모 이용자 기반을 앞세워 기업용 AI 에이전트 시장에 본격 진출했습니다. 소상공인부터 대기업까지 아우르는 맞춤형 고객 응대 도구를 통해 광고 중심의 수익 구조를 다변화하고, 기업용 AI 시장에서의 입지를 강화하겠다는 전략입니다.",
-            "link": "https://www.seoulfn.com/news/articleView.html?idxno=630325",
-            "timestamp": 1780704000000,
-            "date": "2026-06-06"
+            "title": "[AI 브리프] LG, MS와 AI 전략 협력 확대…AIDC·피지컬 AI·AX 전방위 추진 - 아이티데일리",
+            "summary_kr": "LG가 마이크로소프트와 협력을 강화하여 AI 데이터센터, 피지컬 AI, 디지털 전환 분야를 아우르는 전방위적인 AI 전략을 추진합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IVW16Q3p1X2dkSXlwQ3lRMlFwSTJBZXhxR3g5VXN4N2hfRWlIS09XOTMzRWxHcy1RU3dHbFc1MkdTWkJOdTBBeHJoeTRZTWtPZVlIRkRRWEw3NktreDFRZ3VFQWRVejA?oc=5",
+            "timestamp": 1790066686000,
+            "date": "2026-09-22"
         },
         {
-            "title": "손정의 '오픈AI 다음 모델은 AI가 설계... 초지능 2년 내 도래' - 디지털투데이",
-            "summary_kr": "소프트뱅크 손정의 회장은 AI 모델이 스스로 차세대 모델을 설계하는 '재귀적 자기개선' 흐름이 가속화됨에 따라, 초지능 AI의 도래 시점이 2년 이내로 앞당겨질 것으로 전망했습니다. 이에 따라 인간 지능을 압도하는 AI가 향후 다양한 분야에서 주도적인 역할을 할 것으로 내다봤습니다.",
-            "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=672529",
-            "timestamp": 1780702140000,
-            "date": "2026-06-05"
+            "title": "오픈AI, 수학계 반발에 독립 자문 기구 신설...연구 성과 검증 담당 - AI타임스",
+            "summary_kr": "오픈AI가 자사 연구 성과에 대한 수학계의 비판과 신뢰성 논란을 해소하고자 검증을 전담할 독립 자문 기구를 신설했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSXU1TzY4dlJNOHFGd21oYjFtbU9IYUQ2QVUyNGg3R0RmNGVYU215aHFsSndsdEZIWk5XekxOYUx4QTNEczJpdFpRVmdOaS0xR1RycDlIQmY4cmZjQUtBVndkMFoydC1FM2c?oc=5",
+            "timestamp": 1790066764000,
+            "date": "2026-09-22"
         },
         {
-            "title": "OpenAI, Anthropic, Google, 그리고 Microsoft CEO, 의회에 합성 DNA 선별 의무화 요구 - Yellow.com",
-            "summary_kr": "오픈AI, 앤트로픽, 구글, 마이크로소프트 등 주요 AI 기업 수장들이 AI를 활용한 생물학적 무기 오남용을 막기 위해 미 의회에 합성 DNA 공급업체의 생물보안 선별 의무화를 촉구했습니다. 이는 AI 기술 발전으로 낮아진 생화학 물질의 접근 장벽을 법적 규제로 방어하려는 국가 안보 차원의 대응입니다.",
-            "link": "https://yellow.com/ko/news/openai-anthropic-google-%EA%B7%B8%EB%A6%AC%EA%B3%A0-microsoft-ceo-%EC%9D%98%ED%9A%8C%EC%97%90-%ED%95%A9%EC%84%B1-dna-%EC%84%A0%EB%B3%84-%EC%9D%98%EB%AC%B4%ED%99%94-%EC%9A%94%EA%B5%AC",
-            "timestamp": 1780698771000,
-            "date": "2026-06-05"
+            "title": "딥시크, 美 엔비디아 의존 줄인다…中 화웨이 AI칩으로 추론 넘어 ‘학습’ 도전 - 조선일보",
+            "summary_kr": "중국의 딥시크가 엔비디아 의존도를 낮추기 위해 화웨이 AI 칩을 도입하며 추론을 넘어 모델 학습 분야까지 기술 독립을 추진합니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHR6X09tMEZFS0FpNnhqeERhUmVNTkVnQ3hoZzlpVlNWRXk3VE9UMGNXT3JWX0taa1hwLWV1RU9LSUFpX3VrWmwtM0lBZmpXRkRLYjdOaGwyc2JmNWZpMmUtZlVicWhsdVZJcGhob1B0RnVtNzNCOWRodW1pMGU5RkkzUQ?oc=5",
+            "timestamp": 1790062380000,
+            "date": "2026-09-22"
         },
         {
-            "title": "[현장] 젠슨 황 엔비디아 CEO \"서울에 AI 연구센터 설립…차세대 신제품 4종 전개\" - ebn.co.kr",
-            "summary_kr": "젠슨 황 엔비디아 CEO는 방한을 통해 서울에 AI 연구센터 설립 계획을 밝히고, HBM4와 베라 루빈 슈퍼컴퓨터 등 차세대 AI 기술 생태계를 한국 기업들과 함께 구축하겠다는 의지를 재확인했습니다.",
-            "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1711461",
-            "timestamp": 1780660516000,
-            "date": "2026-06-05"
+            "title": "메타 ‘생활밀착 AI 비서’ 돌풍...AI 위기론도 날렸다 - 조선일보",
+            "summary_kr": "메타가 선보인 생활 밀착형 AI 비서가 시장에서 큰 호응을 얻으며, 일각에서 제기된 AI 거품론과 위기론을 불식시키고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXdCQkJPOWlPRktyRnFhTk1vQ2t1WjNJcjJKcmFfelR3MkQzdV9sTTBoeGFLQnhIY3FRNGJ2R2pCODhTVnZmOUNKUDN0azA2dWxNX09hRzZ5d3pfQjlndUtKZ1MtZGlLcnN3VGwtNVFRc0wxd1B1UGF2LXJtd1FLcC1Ydw?oc=5",
+            "timestamp": 1790064859000,
+            "date": "2026-09-22"
         },
         {
-            "title": "엔비디아, 자체 최고 성능 ‘네모트론 3 울트라’ 출시…“비용 30% 절감” - AI타임스",
-            "summary_kr": "엔비디아가 5500억 개 매개변수의 '네모트론 3 울트라'를 오픈소스로 공개하며, 장시간 작업 수행이 가능한 AI 에이전트 시장 공략을 위해 기존 대비 추론 비용을 30% 절감했습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=211367",
-            "timestamp": 1780647578000,
-            "date": "2026-06-05"
+            "title": "오픈AI·앤트로픽, 경쟁사에 AI모델 열어 ‘상호검증’ 추진 - 디지털데일리",
+            "summary_kr": "오픈AI와 앤트로픽이 AI 모델의 안전성과 신뢰성을 확보하기 위해 경쟁사와 자사 모델을 공유하고 상호 검증하는 체계를 마련합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUWE1Mm1ILXFZeFljc3FRbFI2QUdjUWdIdkc4NVNKR2xucVhCcDhTUlBPd2dkQXJsU1Vvck1VcU52RGNmc1Z5RDJTeTZTaEx4LVBHTkJHdDlIenBydVBnUEdHb0g?oc=5",
+            "timestamp": 1790044361000,
+            "date": "2026-09-22"
         },
         {
-            "title": "삼성은 혁신적인 AI 칩 개발을 두 번 연속 중단했습니다. 이는 삼성에 심각한 문제를 야기할 수 있습니다. - Samsung magazín",
-            "summary_kr": "삼성전자가 오픈AI 및 메타와의 맞춤형 AI 칩 개발 협력을 연달아 중단하며 전략적 난관에 봉착했으나, 테슬라와 16.5억 달러 규모의 슈퍼컴퓨터 칩 수주를 성공시키는 등 사업 포트폴리오 재편을 꾀하고 있습니다.",
-            "link": "https://samsungmagazine.eu/ko/2026/06/05/samsung-uz-podruhe-v-rade-zastavuje-vyvoj-revolucniho-ai-cipu-muze-mu-to-zpusobit-velke-komplikace",
-            "timestamp": 1780675075000,
-            "date": "2026-06-05"
+            "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개 - 지디넷코리아",
+            "summary_kr": "퀄컴과 구글이 전략적 기술 동맹을 맺고 제미나이 AI를 탑재한 새로운 PC 브랜드 '구글북'을 시장에 전격 공개했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ZGt1Vk5SRldZVmk2cGVQNlBJLXRmZTdMblRSMjlfX00yZVp6ZktMOFN5Q1BZWVphZmprUjlGb3ZOTi04Sk50SndhN3p5NVR5eFhWUVpR?oc=5",
+            "timestamp": 1789995603000,
+            "date": "2026-09-21"
         },
         {
-            "title": "앤트로픽 “AI 개발 늦추자…스스로 개선하는 AI 등장” - KBS 뉴스",
-            "summary_kr": "앤트로픽은 AI가 스스로 개선하는 '재귀적 자기 개선' 단계가 2년 내 도래할 가능성을 경고하며, 기술 발전 속도를 조절할 수 있는 국제적 합의와 통제 메커니즘 마련을 촉구했습니다.",
-            "link": "https://news.kbs.co.kr/news/view.do?ncd=8578771",
-            "timestamp": 1780621980000,
-            "date": "2026-06-05"
+            "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\" - AI타임스",
+            "summary_kr": "마이크로소프트가 기업의 AI 전환을 돕기 위한 실무 지침서 '프런티어 플레이북'을 발표하며, 성공의 핵심 요건으로 조직의 전면적인 재설계를 제시했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yLXB3VGhUVFhrWTFzNjQ2YnRmcW81M0w3WDh1cFdRT01MOGN4QVZ2elFZck5XS05KYVBfZTlvLVoxelY2WktMV1J4WmdERkRDM290T2gwY1FhTUZWODQyM3FWbVl3WWtTS0E?oc=5",
+            "timestamp": 1789978106000,
+            "date": "2026-09-21"
         },
         {
-            "title": "네이버클라우드, 국내 기업 최초 엔비디아 AI 개발 연합체 참여 - 지디넷코리아",
-            "summary_kr": "네이버클라우드가 국내 기업 최초로 엔비디아의 '네모트론 연합'에 합류하며, 자체 모델인 '하이퍼클로바X'의 글로벌 성능 고도화와 오픈 AI 생태계 내 영향력 확대를 본격화했습니다.",
-            "link": "https://zdnet.co.kr/view/?no=20260605084546",
-            "timestamp": 1780617019000,
-            "date": "2026-06-04"
+            "title": "AI 신모델 주기 125일→44일… ‘AI가 AI 만드는 시대’, 검증 시간도 짧아진다 - 국민일보",
+            "summary_kr": "AI 모델 개발 주기가 기존 125일에서 44일로 급격히 단축되면서 AI가 스스로 차세대 모델을 설계하는 시대가 도래했고, 이에 따라 기술 검증 프로세스 또한 가속화되고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrYm8wc09NSGZFUS1SWkR0bFZpb3hyX2NhQUREMjExcURXOVNiS1U5ZFRGLTdtVVpzbGhXNExXNUJvLXZaWGRiQW1qekJqRWJrTU90Ynd6Z3BhN0NWd0NDdGx4WEJobzNSbVVRMtIBbEFVX3lxTFBrYm8wc09NSGZFUS1SWkR0bFZpb3hyX2NhQUREMjExcURXOVNiS1U5ZFRGLTdtVVpzbGhXNExXNUJvLXZaWGRiQW1qekJqRWJrTU90Ynd6Z3BhN0NWd0NDdGx4WEJobzNSbVVRMg?oc=5",
+            "timestamp": 1789983060000,
+            "date": "2026-09-21"
         },
         {
-            "title": "마이크로소프트, 에이전틱 AI로 개발한 차세대 위상 양자 칩 '마요라나 2' 공개 - 인공지능신문",
-            "summary_kr": "마이크로소프트는 에이전틱 AI를 활용해 큐비트 수명과 신뢰성을 대폭 개선한 양자 칩 '마요라나 2'를 공개하며 2029년 상용급 양자 컴퓨터 구현을 앞당겼습니다. 또한, 과학 연구의 가설 생성부터 실험 설계까지 전 과정을 지원하는 AI 플랫폼 '마이크로소프트 디스커버리'를 출시하여 연구 개발의 패러다임 전환을 예고했습니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=40347",
-            "timestamp": 1780573552000,
-            "date": "2026-06-04"
+            "title": "메타와 구글이 AI의 전력 수요를 충족할 '슈퍼 배터리'를 개발했습니다. - Vietnam.vn",
+            "summary_kr": "메타와 구글이 급증하는 AI 데이터센터의 전력 수요를 안정적으로 충족하기 위해 차세대 에너지 저장 장치인 '슈퍼 배터리'를 공동 개발했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWVMSkdHcEVxZ1B6VmoxUGM0VXV4OWlmS0pkd01uZHlBWHNkVlVFNVB3d2tVcnp1SzVXakt5a2xvdG85aDBXU1hhT0dlb3pFRmpTVjdKWF8xSTdXUElkTEU1Zld3Q2ZMQjNPeXdRQnVHNXRqMUxoTW5xbXpubnBHaXprRXZhelZyTFE?oc=5",
+            "timestamp": 1789981806000,
+            "date": "2026-09-21"
         },
         {
-            "title": "FTC, MS 겨냥 칼 빼들었다…클라우드·AI·묶음 판매 전방위 조사 - cio.com",
-            "summary_kr": "미국 연방거래위원회(FTC)는 마이크로소프트가 클라우드 및 보안 소프트웨어를 자사 제품과 묶어 판매하는 관행과 라이선스 정책을 반독점 위반 혐의로 조사하고 있습니다. 특히 AI 기능인 '코파일럿'까지 통합하는 방식이 시장 경쟁을 저해하는지 여부를 집중적으로 들여다보고 있습니다.",
-            "link": "https://www.cio.com/article/4181145/ftc-ms-%EA%B2%A8%EB%83%A5-%EC%B9%BC-%EB%B9%BC%EB%93%A4%EC%97%88%EB%8B%A4%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%C2%B7ai%C2%B7%EB%AC%B6%EC%9D%8C-%ED%8C%90%EB%A7%A4-%EC%A0%84%EB%B0%A9%EC%9C%84.html",
-            "timestamp": 1780560962000,
-            "date": "2026-06-04"
+            "title": "액센추어, 앤트로픽과 AI 협력·10억달러 이상 투자…주가 2%↑ - 마켓인",
+            "summary_kr": "액센추어가 앤트로픽과 전략적 AI 협력 관계를 맺고 10억 달러 이상을 투자하기로 결정했으며, 이 소식에 힘입어 액센추어의 주가는 2% 상승했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQTNCN3YxNHhZTVY1M0Q4V0RYMzNBLTFUclFnMENyYnV3VHZUQTFRS1R1OThDWEhObTZLNVhXcWRpd3QxWFFkSUtJNlRLWThvUE1sLTlFMkNNNkdxenR4TWVCbWtfVDVRUlQ5R3FjWFJlNXM?oc=5",
+            "timestamp": 1790013940000,
+            "date": "2026-09-21"
         },
         {
-            "title": "[헬로티 HelloT] 영국 CMA 구글 AI 검색에 새 규제...출판사 콘텐츠 사용 거부권 부여 - 헬로티",
-            "summary_kr": "영국 경쟁시장청(CMA)은 구글의 AI 검색 서비스가 출판사 콘텐츠를 무단 사용하는 문제를 해결하기 위해, 출판사가 자사 콘텐츠 사용 여부를 직접 결정할 수 있는 새로운 규제를 도입했습니다. 구글은 향후 AI 검색 결과에 명확한 출처 링크를 표시하고 관리 기능을 제공해야 합니다.",
-            "link": "https://www.hellot.net/mobile/article.html?no=112999",
-            "timestamp": 1780552499000,
-            "date": "2026-06-04"
+            "title": "애플, 시리 탑재한 가정용 ‘AI 허브’ 출시 예정 - 조선일보",
+            "summary_kr": "애플이 인공지능 비서 시리를 탑재한 가정용 AI 허브 신제품을 출시하여 스마트홈 시장에서의 영향력 확대를 꾀할 예정입니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYU95enBCb2VrQmJaNUtvZkRUMVgzRlNNXzVBUE5rT3dIMWdHenI2OW5DUlgyWWpjR1M0MXdlaGZMX0VGYmZnbl9RdTd6cl9mMWJVaTRDOF9zUk45aVA3N04wYWVVajVYR1Jmdk9mSU9GNjhmbEdFSWRJMUVFVzAyWnp0MA?oc=5",
+            "timestamp": 1789976369000,
+            "date": "2026-09-21"
         },
         {
-            "title": "챗GPT 다음 전장은 로봇…샘 올트먼, ‘피지컬 AI’ 스타트업에 베팅 - 월요신문",
-            "summary_kr": "샘 올트먼 오픈AI CEO는 물리적 환경에서 판단하고 움직이는 '피지컬 AI' 기술을 확보하기 위해 로봇 및 자동차 소프트웨어 스타트업 '알프레드'에 투자했습니다. 이는 향후 AI가 가상 공간을 넘어 공장, 가정 등 실제 작업 현장으로 영향력을 확대하는 로봇 산업의 본격적인 성장을 예고합니다.",
-            "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=313127",
-            "timestamp": 1780585800000,
-            "date": "2026-06-04"
+            "title": "[AI+제약] 오젬픽 제약사 노보 노디스크, 앤트로픽 클로드 도입해 AI 신약 개발 본격화 - 녹색경제신문",
+            "summary_kr": "글로벌 제약사 노보 노디스크가 앤트로픽의 거대언어모델인 클로드를 도입하여 신약 개발 공정에 AI 기술을 본격적으로 접목합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yYlZEc3Fwb0hZNUpYUW9pNXVtd3haaDlFbUxMYjF1U3JTWkhGcHV0Y1ppaXRORG5TOENVZ1d2WW4tZmVIbk9ObF9FLWVHQXh5MDNYVTYxNk5iaDhQNjlTNmg0Q0hIN2N0?oc=5",
+            "timestamp": 1789973053000,
+            "date": "2026-09-21"
         },
         {
-            "title": "엔비디아, 윈도우용 DGX 스테이션 공개...기업 환경에 1조 파라미터 AI 슈퍼컴퓨터 제공 - 미디어픽",
-            "summary_kr": "엔비디아는 윈도우 환경에서 최대 1조 파라미터 규모의 AI 모델을 로컬로 구동할 수 있는 데스크사이드 슈퍼컴퓨터 '윈도우용 DGX 스테이션'을 발표했습니다. 이 시스템은 기업들이 보안성이 확보된 윈도우 환경에서 자율형 AI 에이전트를 안전하게 구축하고 실행할 수 있도록 지원합니다.",
-            "link": "https://www.mediapic.co.kr/news/articleView.html?idxno=2719",
-            "timestamp": 1780559609000,
-            "date": "2026-06-04"
+            "title": "구광모·젠슨 황 피지컬 AI 동맹 속도…LG전자-엔비디아, 실무 협력 돌입 - 아주경제",
+            "summary_kr": "LG전자와 엔비디아가 구광모 회장과 젠슨 황 CEO의 경영진 차원 협력을 바탕으로 물리 AI 분야의 실무 협업을 본격화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fQ1Z1YmdRUEN5OW5EUFAzQ3RNN3kyYjBtVk15TWNfVkRVaktZTmNSc3dsRkRiSlE2dXJneFp2QWtidGc5SWQ4S3BhVWNMellnZlNzMlQxTmPSAVhBVV95cUxOX0NWdWJnUVBDeTluRFBQM0N0TTd5MmIwbVZNeU1jX1ZEVWpLWU5jUnN3bEZEYkpRNnVyZ3hadkFrYnRnOUlkOEtwYVVjTHpZZ2ZTczJUMU5j?oc=5",
+            "timestamp": 1789972955000,
+            "date": "2026-09-21"
         },
         {
-            "title": "AI 거물들, 미 의회에 'AI발 생물학무기' 규제 촉구",
-            "summary_kr": "오픈AI와 앤트로픽 등 주요 AI 기업 경영진은 AI가 생물학 무기 제조에 악용되는 것을 방지하기 위해 합성 핵산 판매 시 고객 검증과 주문 기록 보관을 의무화하는 규제 도입을 연방의회에 촉구했습니다.",
-            "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1362631",
-            "timestamp": 1780556378000,
-            "date": "2026-06-04"
+            "title": "“논문 쓸 때 챗GPT 어디에 썼는지 공개 권고”…국가 R&D ‘AI 연구윤리 가이드’ 마련 - 조선일보",
+            "summary_kr": "정부가 국가 R&D 수행 시 생성형 AI 활용 여부와 범위를 투명하게 밝히도록 권고하는 ‘AI 연구윤리 가이드라인’을 마련했습니다.",
+            "link": "https://www.chosun.com/economy/tech_it/2026/09/20/6ZMZQCVRYFBWXCMJ7PWLJ2J7OE",
+            "timestamp": 1789894122000,
+            "date": "2026-09-20"
         },
         {
-            "title": "마이크로소프트-메이요 클리닉 “최첨단 의료AI 개발”",
-            "summary_kr": "마이크로소프트와 메이요 클리닉은 임상 데이터를 활용한 질병 조기 진단 및 맞춤형 치료를 위해 의료 특화 파운데이션 모델을 공동 개발하며, 해당 모델은 마이크로소프트의 애저 파운드리 API를 통해 배포될 예정입니다.",
-            "link": "https://www.dailymedi.com/news/news_view.php?wr_id=937049",
-            "timestamp": 1780535160000,
-            "date": "2026-06-04"
+            "title": "1년 연구를 20초만에…K폴드 구글에 도전장 - KBS 뉴스",
+            "summary_kr": "국내 연구진이 개발한 바이오 AI 'K-폴드'가 기존 구글 알파폴드 대비 단백질 구조 예측 속도를 최대 25배까지 단축하며 신약 개발 혁신에 나섰습니다.",
+            "link": "https://news.kbs.co.kr/news/view.do?ncd=8668055",
+            "timestamp": 1789908660000,
+            "date": "2026-09-20"
         }
     ]
 }
