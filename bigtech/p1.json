@@ -1,6 +1,123 @@
 {
-    "last_update": "2026-10-20 19:45:24",
+    "last_update": "2026-10-21 19:51:52",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1792607990000,
+            "date": "2026-10-21",
+            "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture - Microsoft Research",
+            "summary_kr": "마이크로소프트 연구진이 인간과 AI의 협업을 통해 31년간 난제로 남아있던 고차원 기하학의 'KLS 추측'을 증명하며 복잡한 고차원 공간에서의 알고리즘 효율성을 보장하는 핵심 원리를 규명했습니다.",
+            "summary_en": "Microsoft researchers, in collaboration with AI, have resolved the 31-year-old KLS conjecture in high-dimensional geometry, establishing a fundamental principle that ensures the efficiency of algorithms in complex, high-dimensional spaces.",
+            "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792602000000,
+            "date": "2026-10-21",
+            "title": "How AT&T is rethinking in-house legal work with OpenAI",
+            "summary_kr": "AT&T는 OpenAI와 협력하여 방대한 법률 데이터를 분석하고 우선순위를 자동으로 분류하는 AI 시스템을 도입함으로써 사내 변호사들이 법적 판단과 전략적 업무에 집중할 수 있는 환경을 구축하고 있습니다.",
+            "summary_en": "AT&T is partnering with OpenAI to integrate AI into its legal operations, automating data synthesis and request prioritization so that in-house counsel can focus more effectively on high-level legal judgment.",
+            "link": "https://openai.com/index/att-legal"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792587600000,
+            "date": "2026-10-21",
+            "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+            "summary_kr": "ChatGPT 광고 서비스가 26개국으로 확대되어 전 세계 89개국에서 이용 가능해졌으며, 10만 개 이상의 광고주가 사용자 접점 확대에 참여하고 있습니다.",
+            "summary_en": "ChatGPT Ads has expanded to 26 additional countries, reaching a total of 89 markets with over 100,000 advertisers leveraging the platform to engage users during decision-making.",
+            "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1792585800000,
+            "date": "2026-10-21",
+            "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+            "summary_kr": "NVIDIA와 워싱턴 대학이 공동 개발한 RFD4-Proteina는 보상 기반 추론 시간 탐색을 통해 단백질 서열과 구조를 효율적으로 동시 설계하는 혁신적인 오픈 모델입니다.",
+            "summary_en": "RFD4-Proteina, co-developed by NVIDIA and the University of Washington, is an innovative open model that efficiently co-designs protein sequences and structures using reward-guided inference-time search.",
+            "link": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792584000000,
+            "date": "2026-10-21",
+            "title": "OpenAI models are coming to Google Cloud",
+            "summary_kr": "구글 클라우드가 자사 모델 가든(Model Garden)에 OpenAI의 최신 모델을 통합하여, 기업 고객들이 구글의 강력한 보안 및 인프라 환경에서 OpenAI 모델을 활용할 수 있도록 지원합니다.",
+            "summary_en": "Google Cloud is integrating OpenAI’s frontier models into its Model Garden, enabling enterprise customers to leverage these models within Google's secure, high-performance infrastructure.",
+            "link": "https://openai.com/index/openai-models-google-cloud"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1792576336000,
+            "date": "2026-10-21",
+            "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+            "summary_kr": "엔비디아 센트리(NVIDIA Sentry)는 블루필드(BlueField) DPU를 활용해 AI 에이전트와 독립된 하드웨어 영역에서 실시간 보안 모니터링과 접근 제어를 수행하여 에이전트의 오작동 및 보안 위협을 방지합니다.",
+            "summary_en": "NVIDIA Sentry leverages BlueField DPUs to provide hardware-isolated runtime protection, independently monitoring and enforcing security policies for AI agents to prevent unauthorized behavior.",
+            "link": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1792576214000,
+            "date": "2026-10-21",
+            "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+            "summary_kr": "엔비디아 오픈쉘(OpenShell)은 자율형 AI 에이전트가 안전하게 작동할 수 있도록 인프라 수준에서 제어 및 보안 정책을 강제하는 오픈소스 런타임 아키텍처입니다.",
+            "summary_en": "NVIDIA OpenShell is an open-source runtime architecture that secures autonomous AI agent workloads by enforcing governance and safety controls directly within the underlying computing infrastructure.",
+            "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1792575529000,
+            "date": "2026-10-21",
+            "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+            "summary_kr": "NVIDIA Omniverse DSX Blueprint는 AI 에이전트를 활용하여 설계 데이터와 엔지니어링 요구사항을 OpenUSD 기반의 디지털 트윈 모델로 통합 및 최적화하는 효율적인 워크플로우를 제공합니다.",
+            "summary_en": "The NVIDIA Omniverse DSX Blueprint provides an efficient workflow that leverages AI agents to integrate design data and engineering requirements into optimized OpenUSD-based digital twin models.",
+            "link": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1792575332000,
+            "date": "2026-10-21",
+            "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+            "summary_kr": "NVIDIA DSX POD는 복잡한 AI 인프라 구축 과정을 공장 내 사전 조립 및 검증 단계로 이전하여, 데이터 센터 운영자가 AI 생산 역량을 더욱 빠르고 예측 가능하게 확보하도록 지원합니다.",
+            "summary_en": "NVIDIA DSX POD shifts complex AI infrastructure integration to a controlled factory environment, enabling operators to achieve productive AI capacity more quickly and predictably through standardized, pre-validated designs.",
+            "link": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792566000000,
+            "date": "2026-10-21",
+            "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+            "summary_kr": "OpenAI는 대화의 맥락과 사용자 의도를 지속적으로 파악하는 맞춤형 LLM 기반 광고 시스템을 구축하여, 사용자 경험을 저해하지 않으면서도 정교한 타겟팅과 신뢰도를 동시에 확보했습니다.",
+            "summary_en": "OpenAI has developed a custom LLM-based ad stack that interprets evolving conversation context and user intent to deliver relevant advertising without compromising the neutrality or flow of the ChatGPT experience.",
+            "link": "https://openai.com/index/building-chatgpt-ad-stack"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792558200000,
+            "date": "2026-10-21",
+            "title": "Using thousands of AI agents to uncover new leads in biological data",
+            "summary_kr": "OpenAI와 스크립스 연구소는 수천 개의 AI 에이전트를 활용해 방대한 생물학적 데이터를 수 분 만에 분석하고, 질병 연구를 위한 새로운 잠재적 통찰을 도출하는 '분산형 생물학적 추론' 방식을 선보였습니다.",
+            "summary_en": "OpenAI and Scripps Research have introduced 'distributed biological reasoning,' utilizing thousands of AI agents to analyze massive datasets in minutes and uncover novel leads for disease research.",
+            "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792540800000,
+            "date": "2026-10-21",
+            "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+            "summary_kr": "본 보고서는 AI가 사이버 보안 환경을 변화시키는 가운데, 공격자보다 방어자에게 먼저 최첨단 AI 기술을 지원하고 안전망을 구축해야 한다는 민주적 거버넌스 전략을 제시합니다.",
+            "summary_en": "This blueprint outlines a strategic framework for empowering cyber defenders with advanced AI, emphasizing the urgent need for robust safety standards, modernized security infrastructure, and collaborative public-private governance.",
+            "link": "https://openai.com/index/empowering-cyber-defenders"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787702400000,
+            "date": "2026-08-26",
+            "title": "Enabling independent research on how people use Claude",
+            "summary_kr": "앤스로픽은 외부 연구 기관들이 자사의 비공개 데이터를 독립적으로 분석할 수 있도록 지원하는 프로그램을 도입하여, AI와 인간의 실제 상호작용에 대한 투명하고 객관적인 연구 환경을 마련했습니다.",
+            "summary_en": "Anthropic has launched a program enabling external researchers to independently analyze proprietary usage data, fostering transparent and objective insights into real-world human-AI interactions.",
+            "link": "https://www.anthropic.com/research/enabling-independent-research"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1792513775000,
@@ -783,123 +900,6 @@
             "summary_kr": "OpenAI는 청소년을 위한 'College Planner' 기능을 도입하고 학습 도구를 강화하여, 청소년들이 ChatGPT를 통해 효율적으로 학습하고 대학 진학 준비를 체계적으로 할 수 있도록 지원합니다.",
             "summary_en": "OpenAI is enhancing its teen-focused platform by introducing 'College Planner' and advanced learning tools, empowering students to navigate academic development and college preparation more effectively.",
             "link": "https://openai.com/index/teens-learn-and-plan"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1791356400000,
-            "date": "2026-10-07",
-            "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-            "summary_kr": "래디슨 호텔 그룹은 액센츄어와 협력하여 챗GPT 플러그인을 개발, 여행자가 대화형 AI 내에서 직접 호텔을 탐색하고 예약할 수 있게 하여 기존 검색 대비 1.5배 높은 전환율을 달성했습니다.",
-            "summary_en": "Radisson Hotel Group partnered with Accenture to launch a ChatGPT plugin that allows users to discover and book hotels directly within the chat interface, achieving a 1.5x higher conversion rate than organic search.",
-            "link": "https://openai.com/index/radisson"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1791331200000,
-            "date": "2026-10-07",
-            "title": "GPT-6 and Intelligent UI for everyone",
-            "summary_kr": "GPT-6가 도입한 '인텔리전트 UI'는 사용자의 질문에 맞춰 그래픽, 도표, 대화형 도구 등을 실시간으로 생성하여 시각적 상호작용을 극대화하며, 응답과 사고 과정을 병렬 처리해 사용자 대기 시간을 획기적으로 단축합니다.",
-            "summary_en": "GPT-6 introduces 'Intelligent UI,' which dynamically generates visual and interactive components to enhance user engagement, while enabling the model to interleave reasoning with response generation to significantly reduce wait times.",
-            "link": "https://openai.com/index/gpt-6-for-everyone"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1791326487000,
-            "date": "2026-10-06",
-            "title": "How physical AI is transforming manufacturing operations | The Microsoft Cloud Blog",
-            "summary_kr": "물리적 AI는 기계가 주변 환경을 인식하고 스스로 판단해 행동하는 지능형 시스템을 통해 기존의 정형화된 자동화를 넘어 제조 공정의 효율성과 자율성을 극대화하고 있습니다.",
-            "summary_en": "Physical AI transforms manufacturing by enabling systems to perceive, reason, and act in the real world, moving beyond pre-programmed automation toward autonomous, enterprise-wide operational intelligence.",
-            "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/manufacturing/2026/10/06/physical-ai-in-manufacturing-from-intelligent-machines-to-coordinated-operations"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1791288000000,
-            "date": "2026-10-06",
-            "title": "How Jump Trading is scaling quant research with ChatGPT",
-            "summary_kr": "점프 트레이딩은 GPT-6 Astra를 도입하여 복잡하고 긴 호흡의 양적 연구를 자율적으로 수행하는 에이전트 시스템을 구축함으로써 연구 효율성과 규모를 획기적으로 확장하고 있습니다.",
-            "summary_en": "Jump Trading is scaling its quantitative research by leveraging GPT-6 Astra to deploy autonomous agents capable of handling complex, long-horizon tasks within a secure and human-reviewed framework.",
-            "link": "https://openai.com/index/jump-trading"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1791288000000,
-            "date": "2026-10-06",
-            "title": "Sharing AI progress in mathematics",
-            "summary_kr": "AI 모델이 도출한 수학적 성과를 투명하게 공개하며, 수학계와의 협력을 통해 학술적 검증 및 활용을 지원하는 새로운 표준을 제시합니다.",
-            "summary_en": "The company is releasing AI-generated mathematical proofs with increased transparency and rigorous documentation, setting new standards for collaboration with the scientific community.",
-            "link": "https://openai.com/index/sharing-ai-progress-in-mathematics"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1791313622000,
-            "date": "2026-10-06",
-            "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
-            "summary_kr": "NVIDIA의 DOCA GPUNetIO는 CPU 개입 없이 GPU가 네트워크 연산을 직접 제어하게 함으로써 지연 시간을 줄이고, 파편화된 통신 라이브러리들을 통합하여 개발 효율성과 생태계 확장성을 극대화합니다.",
-            "summary_en": "NVIDIA's DOCA GPUNetIO minimizes latency by enabling GPU-initiated networking without CPU intervention, while providing a unified architectural foundation that streamlines development across diverse communication libraries.",
-            "link": "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1791309600000,
-            "date": "2026-10-06",
-            "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
-            "summary_kr": "구글 연구진은 비전문 의료인도 간단한 초음파 촬영을 할 수 있도록 돕는 AI 모델을 개발하여, 의료 인프라가 부족한 지역의 임산부들에게 정확한 태아 정보를 제공함으로써 의료 접근성을 개선하고 있습니다.",
-            "summary_en": "Google researchers have developed an AI model that enables non-specialized healthcare workers to perform and interpret ultrasounds, significantly improving prenatal care access for pregnant women in resource-limited regions.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1791303546000,
-            "date": "2026-10-06",
-            "title": "What AI gets wrong and what failure teaches us - Microsoft Research",
-            "summary_kr": "마이크로소프트의 제니퍼 네빌 박사는 AI 모델의 성능을 향상시키기 위해 전통적인 벤치마크를 넘어선 평가의 중요성을 강조하며, 예기치 못한 실패 사례에서 배우는 데이터 분석의 통찰을 공유합니다.",
-            "summary_en": "Microsoft's Jennifer Neville highlights the necessity of evaluating AI beyond traditional benchmarks to push performance boundaries, emphasizing the value of analyzing unexpected model failures to gain deeper insights.",
-            "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1791303227000,
-            "date": "2026-10-06",
-            "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
-            "summary_kr": "NVIDIA의 AICR v1.0은 복잡한 GPU 쿠버네티스 클러스터 구성의 호환성 문제를 해결하기 위해 검증된 '레시피'와 버전 잠금 방식을 제공하여 신뢰할 수 있는 표준화된 배포 환경을 구축합니다.",
-            "summary_en": "NVIDIA’s AICR v1.0 introduces version-locked, validated configuration recipes to resolve complex compatibility issues in GPU-accelerated Kubernetes clusters, enabling reproducible and verifiable deployments.",
-            "link": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1791302400000,
-            "date": "2026-10-06",
-            "title": "Producers can now vibe code their own music production tools using Google Flow Music.",
-            "summary_kr": "구글 플로우 뮤직(Google Flow Music)의 'Spaces' 기능을 통해 프로듀서들은 코딩 없이 자연어 명령만으로 맞춤형 악기와 효과를 제작하고, 이를 VST3/AU 플러그인으로 내보내 실제 작업 환경에서 활용할 수 있게 되었습니다.",
-            "summary_en": "Google Flow Music’s 'Spaces' now allows producers to build custom instruments and effects using natural language, which can be exported as VST3/AU plugins for seamless integration into professional DAWs.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1791302400000,
-            "date": "2026-10-06",
-            "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-            "summary_kr": "아틀라시안과 오픈AI의 파트너십 확대로 아틀라시안의 플랫폼 전반에 최신 GPT 모델이 통합되며, '팀워크 그래프'를 기반으로 한 AI 에이전트가 기업의 복잡한 업무 맥락을 파악하고 실행을 지원하게 됩니다.",
-            "summary_en": "Atlassian and OpenAI are expanding their partnership to integrate frontier GPT models into the Atlassian platform, leveraging the 'Teamwork Graph' to power AI agents that transform enterprise knowledge into actionable workflows.",
-            "link": "https://openai.com/index/atlassian-partnership"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1791298800000,
-            "date": "2026-10-06",
-            "title": "Control How Your GPU Shares Work with Green Contexts",
-            "summary_kr": "NVIDIA의 'Green Contexts'는 GPU 내 연산 자원과 작업 대기열을 명시적으로 분할하여, 복합적인 AI 워크로드 간의 간섭을 줄이고 실행 효율을 극대화하는 경량화된 프로그래밍 모델을 제공합니다.",
-            "summary_en": "NVIDIA's 'Green Contexts' introduce a lightweight, explicit programming model that allows applications to partition GPU execution resources and workqueues, effectively minimizing interference between concurrent workloads.",
-            "link": "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1791280800000,
-            "date": "2026-10-06",
-            "title": "Advancing computer use with Ironclad",
-            "summary_kr": "OpenAI는 법률 기술 기업 아이언클래드(Ironclad)와 협력하여 복잡한 실무 워크플로우를 처리하는 AI 에이전트의 성능을 고도화하고 있으며, 최신 모델인 GPT-6 Astra는 이전 모델 대비 성능과 효율성 면에서 큰 성과를 거두었습니다.",
-            "summary_en": "OpenAI is partnering with Ironclad to train AI agents on complex professional workflows, with the new GPT-6 Astra model demonstrating significant improvements in task accuracy and processing efficiency compared to its predecessor.",
-            "link": "https://openai.com/index/advancing-computer-use-with-ironclad"
         }
     ]
 }
