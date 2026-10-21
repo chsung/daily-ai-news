@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-20 08:21:18",
+    "last_update": "2026-10-21 08:26:20",
     "articles": [
+        {
+            "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development - SiliconANGLE",
+            "summary_en": "OpenAI has acquired the drug development software startup Orchestra Bio to integrate its AI agents into the Rosalind life sciences unit. The acquisition aims to streamline pharmaceutical development by automating complex administrative tasks and scheduling in clinical trials, which currently can take up to 15 years.",
+            "link": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development",
+            "timestamp": 1792539600000,
+            "date": "2026-10-20"
+        },
+        {
+            "title": "Siemens partners with NVIDIA to advance\nAI-driven, autonomous fact ... - Siemens press",
+            "summary_en": "Siemens is partnering with NVIDIA to advance AI-driven, autonomous industrial operations. This collaboration leverages NVIDIA’s computing power to enhance Siemens' industrial automation and digital twin capabilities.",
+            "link": "https://press.siemens.com/global/en/pressrelease/siemens-partners-nvidia-advance-ai-driven-autonomous-factories",
+            "timestamp": 1792411171000,
+            "date": "2026-10-19"
+        },
+        {
+            "title": "Amazon's TorchNeuron runs PyTorch on AWS Trainium chips - About Amazon",
+            "summary_en": "Amazon has introduced TorchNeuron, an open-source tool that allows developers to run existing PyTorch code on AWS Trainium chips without the need for manual rewrites. By removing the engineering burden of porting software to new hardware, the tool aims to reduce development costs and provide greater flexibility in AI infrastructure.",
+            "link": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
+            "timestamp": 1792415185000,
+            "date": "2026-10-19"
+        },
         {
             "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help - NVIDIA Blog",
             "summary_en": "Germany is positioning itself as a global leader in industrial AI, with NVIDIA providing the necessary technological infrastructure and support to drive this initiative.",
@@ -679,27 +700,6 @@
             "link": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
             "timestamp": 1789390801000,
             "date": "2026-09-14"
-        },
-        {
-            "title": "Siri AI, a profoundly more capable and personal assistant powered by the next generation of Apple Intelligence, is here - Apple",
-            "summary_en": "Apple has launched its next-generation Apple Intelligence, featuring a reimagined Siri AI capable of deep personal context understanding, systemwide app actions, and onscreen awareness. Starting in 2027, the assistant will provide conversational support across emails, photos, and messages while expanding its language support to several major international markets.",
-            "link": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-            "timestamp": 1789405991000,
-            "date": "2026-09-14"
-        },
-        {
-            "title": "OpenAI urges UK lawmakers to rein in technology amid growing safety fears - The Guardian",
-            "summary_en": "OpenAI is advocating for the UK government to implement targeted legislation to regulate the most advanced AI labs, amidst growing parliamentary concerns over potential societal risks like deepfakes and AI-driven cyber threats. The company’s policy leaders are urging lawmakers to act quickly to establish an oversight framework that balances safety while distinguishing major developers from smaller startups.",
-            "link": "https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords",
-            "timestamp": 1789384020000,
-            "date": "2026-09-14"
-        },
-        {
-            "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China - PBS",
-            "summary_en": "Former President Donald Trump has expressed opposition to strict AI regulations, arguing that the U.S. must prioritize rapid development to maintain a competitive advantage over China.",
-            "link": "https://www.pbs.org/newshour/politics/trump-downplays-the-need-to-check-ai-development-and-says-he-doesnt-want-to-cede-edge-to-china",
-            "timestamp": 1789337305000,
-            "date": "2026-09-13"
         }
     ]
 }
