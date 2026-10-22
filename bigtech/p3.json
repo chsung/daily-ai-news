@@ -1,6 +1,123 @@
 {
-    "last_update": "2026-10-21 19:51:52",
+    "last_update": "2026-10-22 19:37:41",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1790176500000,
+            "date": "2026-09-23",
+            "title": "Gemini 3.8 text-to-speech says hello",
+            "summary_kr": "구글은 자연어 프롬프트 기반의 고품질 음성 생성과 정밀한 연출이 가능한 새로운 Gemini 3.8 TTS 모델 2종을 출시하여 창작자와 기업에 혁신적인 오디오 경험을 제공합니다.",
+            "summary_en": "Google has introduced two new Gemini 3.8 TTS models that enable high-quality, expressive voice generation and precise performance control via natural language, empowering creators and enterprises to scale custom audio experiences.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790168400000,
+            "date": "2026-09-23",
+            "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+            "summary_kr": "OpenAI가 우크라이나 정부에 'Daybreak' 프로그램을 제공하여 민간 인프라를 보호하기 위한 AI 기반 사이버 방어 역량을 강화합니다.",
+            "summary_en": "OpenAI is providing its 'Daybreak' program to the Ukrainian government to bolster civilian infrastructure protection through AI-powered cyber defense capabilities.",
+            "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790164800000,
+            "date": "2026-09-23",
+            "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+            "summary_kr": "인비디오(invideo)는 GPT-6 Astra를 도입하여 색 보정 성공률을 3배 높이고, 복잡한 영상 효과 제작 효율을 획기적으로 개선했습니다.",
+            "summary_en": "Invideo has integrated GPT-6 Astra to triple its color grading success rate and significantly accelerate the production of complex, custom video effects.",
+            "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790164800000,
+            "date": "2026-09-23",
+            "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+            "summary_kr": "Ringg는 OpenAI의 모델을 도입하여 고객 문의의 65%를 자동 해결하고, 비용을 90% 절감하는 고효율 엔터프라이즈 AI 에이전트 플랫폼을 구축했습니다.",
+            "summary_en": "Ringg has built a high-efficiency enterprise AI agent platform leveraging OpenAI models, resolving up to 65% of customer inquiries while reducing operational costs by 90%.",
+            "link": "https://openai.com/index/ringg"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790164800000,
+            "date": "2026-09-23",
+            "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+            "summary_kr": "법률 AI 플랫폼 Harvey가 GPT-6 Astra를 도입하여 법률 문서의 맥락 이해도와 구조적 완성도를 높임으로써, 변호사들이 전략적 업무에 더 집중할 수 있게 지원합니다.",
+            "summary_en": "Harvey has integrated GPT-6 Astra to enhance context awareness and document structuring in legal drafting, allowing lawyers to focus more on high-level strategy.",
+            "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790121600000,
+            "date": "2026-09-23",
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+            "summary_kr": "앤스로픽은 생명과학 연구 그룹을 신설하여 AI 모델 '클로드'를 활용해 CRISPR와 유사한 특성을 가진 새로운 효소 시스템을 자율적으로 발견하는 성과를 거두었습니다.",
+            "summary_en": "Anthropic has launched a dedicated life sciences research group, utilizing its AI model, Claude, to autonomously discover a novel enzyme system with CRISPR-like characteristics.",
+            "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790121600000,
+            "date": "2026-09-23",
+            "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+            "summary_kr": "Grab과 OpenAI는 동남아시아 파트너 3만 명을 대상으로 실무형 AI 활용 교육 프로그램 'GO Forward with AI'를 런칭하여 기술 격차를 해소하고 경제적 기회를 확대합니다.",
+            "summary_en": "Grab and OpenAI have launched 'GO Forward with AI' to equip 30,000 Southeast Asian partners with practical AI skills, aiming to foster business growth and bridge the digital divide.",
+            "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790110800000,
+            "date": "2026-09-22",
+            "title": "Better prompt caching for GPT-6",
+            "summary_kr": "OpenAI는 GPT-6에서 프롬프트 캐싱 시스템을 고도화하여 캐시 적중률을 높이고, 개발자가 캐시 성능을 최적화하고 비용을 최대 90%까지 절감할 수 있는 새로운 모니터링 및 제어 도구를 제공합니다.",
+            "summary_en": "OpenAI has enhanced its prompt caching for GPT-6, delivering higher hit rates and providing new diagnostic tools that enable developers to optimize performance and reduce input token costs by up to 90%.",
+            "link": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790078400000,
+            "date": "2026-09-22",
+            "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+            "summary_kr": "AI 에이전트 기업 Parallel은 GPT-6 Astra를 도입하여 연구 작업의 효율성을 높임으로써, 이전 모델 대비 연구 시간과 비용을 50% 절감하는 성과를 거두었습니다.",
+            "summary_en": "AI agent firm Parallel has achieved a 50% reduction in research time and costs by leveraging GPT-6 Astra, which enables more targeted and efficient execution of complex knowledge tasks.",
+            "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790100373000,
+            "date": "2026-09-22",
+            "title": "Disrupting EvilTokens: The AI Chatbot Built for Cybercrime - Microsoft On the Issues",
+            "summary_kr": "마이크로소프트는 이메일 계정 탈취부터 정교한 금융 사기 전략 수립까지 자동화한 AI 기반 사이버 범죄 플랫폼 'EvilTokens'를 성공적으로 차단했습니다. 이번 조치는 AI가 사이버 공격의 전 과정을 자동화하고 진입 장벽을 낮추는 새로운 위협 양상을 보여줍니다.",
+            "summary_en": "Microsoft has dismantled 'EvilTokens,' an AI-powered cybercrime platform that automated every stage of attack, from account compromise to sophisticated financial fraud. This operation underscores the evolving threat of AI lowering barriers for cybercriminals to execute complex, large-scale attacks.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/22/disrupting-eviltokens-the-ai-chatbot-built-for-cybercrime"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790100060000,
+            "date": "2026-09-22",
+            "title": "The continued state of global AI diffusion in 2026",
+            "summary_kr": "2026년 2분기 글로벌 AI 확산은 전 세계적으로 꾸준히 증가했으나, 북반구와 남반구 간의 격차는 더욱 심화되었습니다. 오픈 웨이트 모델의 확산은 저비용 접근성을 높여 남반구의 AI 활용을 촉진할 잠재적 대안으로 주목받고 있습니다.",
+            "summary_en": "Global AI diffusion continued to rise in Q2 2026, though the digital divide between the Global North and South persists. The growing adoption of open-weight models offers a promising path to lower access barriers and support localized AI implementation in the Global South.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790100000000,
+            "date": "2026-09-22",
+            "title": "Introducing GPT-6 Sol and Luna",
+            "summary_kr": "오픈AI가 고성능 모델인 GPT-6 Astra의 성능을 유지하면서 비용 효율성을 극대화한 보급형 모델 'GPT-6 Sol'과 'Luna'를 출시했습니다. 이 모델들은 기존 대비 50% 저렴한 가격으로 전문 업무, 코딩, 추론 영역에서 뛰어난 가성비를 제공하여 AI의 대중적 활용 범위를 넓힐 전망입니다.",
+            "summary_en": "OpenAI has expanded its GPT-6 lineup with 'Sol' and 'Luna,' high-efficiency models that deliver state-of-the-art performance at 50% lower API costs. These models make advanced AI more accessible for complex professional tasks and large-scale applications by optimizing the cost-to-intelligence ratio.",
+            "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790098061000,
+            "date": "2026-09-22",
+            "title": "Enabling Private High-Performance Production AI Inference with NVIDIA Confidential Computing",
+            "summary_kr": "NVIDIA 기밀 컴퓨팅(Confidential Computing)은 데이터 보안과 고성능 추론을 동시에 달성하기 위해 하드웨어 최적화된 프레임워크와 결합된 보안 환경을 제공합니다. 이를 통해 기업은 보안 요구 사항을 준수하면서도 TensorRT-LLM과 같은 플랫폼에서 성능 손실을 최소화하며 안전한 AI 추론을 구현할 수 있습니다.",
+            "summary_en": "NVIDIA Confidential Computing enables secure, privacy-preserving AI inference by integrating hardware-level protection with optimized frameworks like TensorRT-LLM. This approach allows enterprises to maintain high-performance production workloads while ensuring data security within a trusted environment.",
+            "link": "https://developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1790097388000,
@@ -783,123 +900,6 @@
             "summary_kr": "마이크로소프트는 미국 정부의 사이버 보안 강화를 위해 복잡한 소프트웨어 취약점을 정밀하게 탐지하는 멀티 에이전트 AI 스캐닝 시스템 'MDASH'를 Azure Government에 도입했습니다.",
             "summary_en": "Microsoft has deployed MDASH, an agentic AI scanning system that uses multiple models to proactively detect and validate complex software vulnerabilities, to its Azure Government platform to enhance national cybersecurity.",
             "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788886800000,
-            "date": "2026-09-08",
-            "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-            "summary_kr": "MIT 연구진은 GPT-5.6 Sol을 실험실 소프트웨어에 통합하여 양자 칩 측정 및 보정 작업을 자동화함으로써, 연구자가 고차원적인 분석과 실험 설계에 집중할 수 있는 효율적인 워크플로우를 구축했습니다.",
-            "summary_en": "MIT researchers successfully integrated GPT-5.6 Sol with laboratory software to automate routine quantum chip measurements and calibration, allowing researchers to focus on higher-level experiment design and data analysis.",
-            "link": "https://openai.com/index/codex-quantum-computing-experiments"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788825600000,
-            "date": "2026-09-08",
-            "title": "1Password increases engineering productivity 21% with Codex",
-            "summary_kr": "1Password는 Codex를 도입하여 소프트웨어 개발 전 과정에 AI를 통합함으로써, 보안 기준을 유지하면서도 엔지니어링 생산성을 21% 향상하고 풀 리퀘스트 처리 시간을 11% 단축했습니다.",
-            "summary_en": "1Password has integrated Codex across its entire software development lifecycle, resulting in a 21% increase in engineering productivity and an 11% reduction in pull request cycle times while maintaining rigorous security standards.",
-            "link": "https://openai.com/index/1password"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788877662000,
-            "date": "2026-09-08",
-            "title": "Why trust will determine Africa's AI future",
-            "summary_kr": "아프리카의 AI 미래는 기술에 대한 신뢰 구축에 달려 있으며, 이를 위해서는 개방적인 기술 선택권 보장, 현지 역량 강화를 위한 다각적 파트너십, 그리고 책임감 있는 배포 체계가 필수적입니다.",
-            "summary_en": "Africa's AI future depends on building institutional trust through accessible technology choices, strategic partnerships for local capability, and the responsible deployment of AI to drive sustainable economic growth.",
-            "link": "https://news.microsoft.com/source/emea/features/building-africas-ai-future-on-trust"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1788876000000,
-            "date": "2026-09-08",
-            "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-            "summary_kr": "구글 딥마인드가 공개한 '알파게놈 아틀라스'는 AI를 활용해 인간 DNA의 모든 단일 뉴클레오타이드 변이 영향을 예측한 데이터베이스로, 질병 연구 및 유전적 특성 분석을 획기적으로 가속화합니다.",
-            "summary_en": "Google DeepMind's AlphaGenome Atlas is an AI-powered database that predicts the impact of every possible human genetic variant, significantly accelerating research into rare diseases and complex biological traits.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788872400000,
-            "date": "2026-09-08",
-            "title": "The Work Now Within Reach",
-            "summary_kr": "OpenAI는 최첨단 모델인 GPT-6 Astra와 효율적인 풀스택 컴퓨팅 전략을 통해 AI의 활용 범위를 넓히고, 개인과 기업의 생산성을 극대화하여 새로운 시장과 혁신을 창출하고자 합니다.",
-            "summary_en": "OpenAI is expanding the boundaries of human achievement by leveraging its state-of-the-art GPT-6 Astra model and a full-stack compute strategy to make advanced AI accessible and scalable for both individuals and enterprises.",
-            "link": "https://openai.com/index/the-work-now-within-reach"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1788868800000,
-            "date": "2026-09-08",
-            "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-            "summary_kr": "엔비디아가 GPU 커널을 Rust로 직접 작성하고 컴파일할 수 있도록 지원하는 'CUDA Rust'를 발표하며, SIMT와 Tile 프로그래밍 모델을 통해 성능과 안전성을 동시에 확보했습니다.",
-            "summary_en": "NVIDIA has introduced 'CUDA Rust' to enable native GPU kernel development in Rust, offering both SIMT and Tile programming models to enhance performance and code safety.",
-            "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788867000000,
-            "date": "2026-09-08",
-            "title": "Introducing ChatGPT Images 2.5",
-            "summary_kr": "OpenAI는 화질 개선, 생성 속도 2배 향상, 정교한 편집 기능을 갖춘 차세대 이미지 모델 'ChatGPT Images 2.5'를 출시했습니다.",
-            "summary_en": "OpenAI has launched 'ChatGPT Images 2.5,' a state-of-the-art model featuring enhanced image quality, 50% faster generation, and more precise editing capabilities.",
-            "link": "https://openai.com/index/introducing-chatgpt-images-2-5"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788861600000,
-            "date": "2026-09-08",
-            "title": "On the Navier–Stokes Millennium Prize Problem",
-            "summary_kr": "OpenAI가 차세대 AI 모델을 통해 90년 동안 미해결 과제였던 나비에-스토크스 방정식의 해를 증명하며 수학계의 난제인 밀레니엄 문제 해결을 공식화했습니다.",
-            "summary_en": "OpenAI has resolved the long-standing Navier–Stokes Millennium Prize problem using a next-generation AI model, demonstrating that fluid dynamics can develop a singularity in finite time.",
-            "link": "https://openai.com/index/navier-stokes-solution"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788858000000,
-            "date": "2026-09-08",
-            "title": "Funding grants for new research into AI and teen development",
-            "summary_kr": "OpenAI는 생성형 AI가 13~17세 청소년의 발달에 미치는 영향을 체계적으로 분석하기 위해 500만 달러 규모의 독립 연구 지원 프로그램을 시작합니다.",
-            "summary_en": "OpenAI is committing $5 million to fund independent research exploring how generative AI impacts the social, emotional, and developmental well-being of teenagers aged 13–17.",
-            "link": "https://openai.com/index/teen-development-research-grants"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788825600000,
-            "date": "2026-09-08",
-            "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-            "summary_kr": "OpenAI는 저널리즘 교육 현장과의 협력을 통해 차세대 언론인들에게 AI 도구와 교육을 제공함으로써 미디어 산업의 디지털 전환과 역량 강화를 지원합니다.",
-            "summary_en": "OpenAI is expanding its support for journalism by providing AI tools and resources to leading journalism schools, aiming to equip the next generation of reporters with the skills to navigate and shape the future of the industry.",
-            "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1788768000000,
-            "date": "2026-09-07",
-            "title": "Our new contrail avoidance trial in Asia-Pacific",
-            "summary_kr": "구글은 캐세이퍼시픽항공과 협력하여 AI 기반 비행 고도 조정을 통해 항공기 비행운으로 인한 온난화 영향을 약 40% 저감하는 아시아-태평양 지역 실증 사업을 확대하고 있습니다.",
-            "summary_en": "Google is expanding its AI-powered contrail avoidance trials in the Asia-Pacific region in partnership with Cathay Pacific, successfully reducing the warming impact of contrails by approximately 40% through optimized flight altitude adjustments.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1788742800000,
-            "date": "2026-09-07",
-            "title": "Backing 16 green AI projects in Asia-Pacific",
-            "summary_kr": "구글 딥마인드는 아시아·태평양 지역의 환경 난제를 해결하기 위해 16개 유망 스타트업 및 연구 조직을 선발하여 AI 기술 지원과 멘토링을 제공하는 액셀러레이터 프로그램을 시작합니다.",
-            "summary_en": "Google DeepMind has launched an accelerator program to support 16 APAC-based organizations by providing access to advanced AI models and mentorship to scale innovative solutions for environmental and climate challenges.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1788739200000,
-            "date": "2026-09-07",
-            "title": "Supporting independent journalism in Ukraine",
-            "summary_kr": "OpenAI와 WAN-IFRA, AIRPPU는 우크라이나 독립 언론의 회복력과 지속 가능성을 높이기 위해 AI 기술 도입 및 비즈니스 혁신을 지원하는 협력 프로그램을 시작합니다.",
-            "summary_en": "OpenAI, WAN-IFRA, and AIRPPU have launched a joint initiative to support Ukrainian independent news publishers by integrating AI technologies and fostering operational innovation for long-term resilience.",
-            "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
         }
     ]
 }
