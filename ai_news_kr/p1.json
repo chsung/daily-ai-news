@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-21 08:25:31",
+    "last_update": "2026-10-22 08:29:14",
     "articles": [
+        {
+            "title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시 - AI타임스",
+            "summary_kr": "앤트로픽은 코드 취약점 탐지 및 수정 추적을 자동화하는 기업용 보안 도구 ‘클로드 시큐리티’ 최신 버전을 출시했습니다. 이는 일회성 검사에서 지속적인 분석 체계로 전환하여 코드 변경 시마다 위협 요소를 실시간 점검하고, 기업별 보안 정책에 맞춘 대응 우선순위를 제공합니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216549",
+            "timestamp": 1792656759000,
+            "date": "2026-10-22"
+        },
+        {
+            "title": "엔비디아, 휴머노이드·AI 학습 기술 확대...범용 로봇 개발 위한 아이작 플랫폼 고도화 - 인공지능신문",
+            "summary_kr": "엔비디아는 범용 로봇 개발을 위한 ‘아이작’ 플랫폼의 고도화를 통해 로봇 학습부터 시뮬레이션, 실제 현장 배포까지의 과정을 통합 지원합니다. 특히 휴머노이드 플랫폼 ‘애자일 원 SN’과 로봇 학습 프레임워크 ‘아이작 랩 3.0’을 공개하며 산업용 피지컬 AI 생태계 확장에 나섰습니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42386",
+            "timestamp": 1792628696000,
+            "date": "2026-10-22"
+        },
+        {
+            "title": "[AI는 지금] 구글도 GPT 품었다…오픈AI, 3대 클라우드 확보로 기업 공략 가속 - 지디넷코리아",
+            "summary_kr": "오픈AI가 자사 모델 3종을 구글클라우드 ‘모델 가든’에 공급하며 마이크로소프트, AWS에 이어 3대 클라우드 유통망을 모두 확보했습니다. 이로써 기업 고객은 구글클라우드 환경에서 오픈AI의 고성능 모델을 통합 관리하고, 데이터 보안이 보장된 상태로 업무 자동화에 활용할 수 있게 되었습니다.",
+            "link": "https://zdnet.co.kr/view/?no=20261022085909",
+            "timestamp": 1792629946000,
+            "date": "2026-10-22"
+        },
         {
             "title": "제미나이 4 아르곤: 가장 까다로운 난제를 해결하도록 설계된 모델 - blog.google",
             "summary_kr": "구글이 출시한 '제미나이 4 아르곤'은 금융·법률·코딩 등 고난도 전문 분야에서 추론 능력을 극대화한 AI 모델로, 벤치마크 1위를 기록하며 기업 워크플로우 효율을 혁신하고 있습니다. 특히 내부 테스트 결과, 에이전트 기반 코드 작업 처리량이 35% 증가하고 주요 리팩토링 기간을 수개월에서 수주로 단축하는 등 압도적인 엔지니어링 성능을 입증했습니다.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUWE1Mm1ILXFZeFljc3FRbFI2QUdjUWdIdkc4NVNKR2xucVhCcDhTUlBPd2dkQXJsU1Vvck1VcU52RGNmc1Z5RDJTeTZTaEx4LVBHTkJHdDlIenBydVBnUEdHb0g?oc=5",
             "timestamp": 1790044361000,
             "date": "2026-09-22"
-        },
-        {
-            "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개 - 지디넷코리아",
-            "summary_kr": "퀄컴과 구글이 전략적 기술 동맹을 맺고 제미나이 AI를 탑재한 새로운 PC 브랜드 '구글북'을 시장에 전격 공개했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ZGt1Vk5SRldZVmk2cGVQNlBJLXRmZTdMblRSMjlfX00yZVp6ZktMOFN5Q1BZWVphZmprUjlGb3ZOTi04Sk50SndhN3p5NVR5eFhWUVpR?oc=5",
-            "timestamp": 1789995603000,
-            "date": "2026-09-21"
-        },
-        {
-            "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\" - AI타임스",
-            "summary_kr": "마이크로소프트가 기업의 AI 전환을 돕기 위한 실무 지침서 '프런티어 플레이북'을 발표하며, 성공의 핵심 요건으로 조직의 전면적인 재설계를 제시했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yLXB3VGhUVFhrWTFzNjQ2YnRmcW81M0w3WDh1cFdRT01MOGN4QVZ2elFZck5XS05KYVBfZTlvLVoxelY2WktMV1J4WmdERkRDM290T2gwY1FhTUZWODQyM3FWbVl3WWtTS0E?oc=5",
-            "timestamp": 1789978106000,
-            "date": "2026-09-21"
-        },
-        {
-            "title": "AI 신모델 주기 125일→44일… ‘AI가 AI 만드는 시대’, 검증 시간도 짧아진다 - 국민일보",
-            "summary_kr": "AI 모델 개발 주기가 기존 125일에서 44일로 급격히 단축되면서 AI가 스스로 차세대 모델을 설계하는 시대가 도래했고, 이에 따라 기술 검증 프로세스 또한 가속화되고 있습니다.",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrYm8wc09NSGZFUS1SWkR0bFZpb3hyX2NhQUREMjExcURXOVNiS1U5ZFRGLTdtVVpzbGhXNExXNUJvLXZaWGRiQW1qekJqRWJrTU90Ynd6Z3BhN0NWd0NDdGx4WEJobzNSbVVRMtIBbEFVX3lxTFBrYm8wc09NSGZFUS1SWkR0bFZpb3hyX2NhQUREMjExcURXOVNiS1U5ZFRGLTdtVVpzbGhXNExXNUJvLXZaWGRiQW1qekJqRWJrTU90Ynd6Z3BhN0NWd0NDdGx4WEJobzNSbVVRMg?oc=5",
-            "timestamp": 1789983060000,
-            "date": "2026-09-21"
         }
     ]
 }
