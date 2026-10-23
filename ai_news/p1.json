@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-23 08:24:24",
+    "last_update": "2026-10-23 19:00:04",
     "articles": [
+        {
+            "title": "OpenAI signs AI safety research deal with Poland’s NASK institute - The Next Web",
+            "summary_en": "OpenAI has partnered with Poland’s NASK National Research Institute to enhance AI safety, specifically focusing on evaluating autonomous agents and identifying system vulnerabilities. This collaboration builds on previous successful work where OpenAI models helped CERT Polska, a NASK-operated unit, fix six critical software security flaws.",
+            "link": "https://thenextweb.com/news/openai-nask-poland-ai-safety-research",
+            "timestamp": 1792747551000,
+            "date": "2026-10-23"
+        },
+        {
+            "title": "Anthropic Opens Claude Duet Research Preview to US Pro and Max Users - Unite.AI",
+            "summary_en": "Anthropic has launched a research preview of 'Claude Duet,' an agent-based app designed to proactively manage tasks, monitor connected apps, and perform actions like scheduling or payments. The system operates on a virtual machine and mandates human approval for sensitive tasks to ensure safety and prevent unauthorized financial transactions.",
+            "link": "https://www.unite.ai/anthropic-opens-claude-duet-research-preview-to-us-pro-and-max-users",
+            "timestamp": 1792610592000,
+            "date": "2026-10-21"
+        },
+        {
+            "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI | TechCrunch - TechCrunch",
+            "summary_en": "AI startup Recursive has released 'Flint,' a free, open-source coding model built largely through its proprietary 'Eureka Machine' system of recursive self-improvement. Designed for local execution on laptops, the 40-billion-parameter model uses mixture-of-experts architecture to deliver high-speed performance without the need for cloud servers.",
+            "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+            "timestamp": 1792614461000,
+            "date": "2026-10-21"
+        },
         {
             "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io",
             "summary_en": "Wiz Research utilized frontier AI models to uncover 'PHP2Shell,' a set of critical remote code execution vulnerabilities affecting nearly every PHP version released in the last decade. By significantly lowering the barrier to chaining complex exploits, this discovery highlights a dangerous shift where AI can rapidly turn long-standing software flaws into immediate security threats.",
@@ -679,27 +700,6 @@
             "link": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior",
             "timestamp": 1789627489000,
             "date": "2026-09-17"
-        },
-        {
-            "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary' - CNBC",
-            "summary_en": "Nvidia CEO Jensen Huang has rejected Anthropic's proposal to seek antitrust exemptions for coordinating a slowdown in AI development, arguing that safety is an engineering challenge that companies can resolve independently. Huang maintains that existing regulations are sufficient and that firms should simply withhold product releases until internal testing confirms they are safe.",
-            "link": "https://www.cnbc.com/2026/09/15/nvidia-huang-ai-slowdown-antitrust.html",
-            "timestamp": 1789510432000,
-            "date": "2026-09-15"
-        },
-        {
-            "title": "Novo looks to Anthropic’s AI models to ‘supercharge’ drug development - BioPharma Dive",
-            "summary_en": "Novo Nordisk has partnered with Anthropic to utilize Claude Science and frontier models to accelerate R&D workflows and pharmaceutical drug discovery. The collaboration emphasizes responsible AI adoption through robust data governance and human oversight to address concerns regarding LLM accuracy.",
-            "link": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540",
-            "timestamp": 1789574686000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "Microsoft bundles AI development tools in Foundry Dev Pack - Techzine Global",
-            "summary_en": "Microsoft has introduced the Foundry Dev Pack, a new initiative designed to bundle essential AI development tools for developers. This move aims to streamline the creation and deployment of AI applications within the Microsoft ecosystem.",
-            "link": "https://www.techzine.eu/news/devops/144333/microsoft-bundles-ai-development-tools-in-foundry-dev-pack",
-            "timestamp": 1789560892000,
-            "date": "2026-09-16"
         }
     ]
 }
