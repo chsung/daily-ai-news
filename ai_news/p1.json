@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-10-22 08:30:06",
+    "last_update": "2026-10-23 08:24:24",
     "articles": [
+        {
+            "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io",
+            "summary_en": "Wiz Research utilized frontier AI models to uncover 'PHP2Shell,' a set of critical remote code execution vulnerabilities affecting nearly every PHP version released in the last decade. By significantly lowering the barrier to chaining complex exploits, this discovery highlights a dangerous shift where AI can rapidly turn long-standing software flaws into immediate security threats.",
+            "link": "https://www.wiz.io/blog/php2shell-php-rce",
+            "timestamp": 1792597553000,
+            "date": "2026-10-21"
+        },
+        {
+            "title": "Boehringer Microsoft partner AI-backed clinical development - Boehringer Ingelheim",
+            "summary_en": "Boehringer Ingelheim and Microsoft have entered a strategic partnership to integrate AI technologies into the clinical development process. This collaboration aims to accelerate drug discovery and optimize research workflows by leveraging advanced computational capabilities.",
+            "link": "https://www.boehringer-ingelheim.com/about-us/boehringer-microsoft-partner-ai-backed-clinical-development",
+            "timestamp": 1792675800000,
+            "date": "2026-10-22"
+        },
+        {
+            "title": "Google Open-Sources TorchTPU to Challenge Nvidia’s Grip on AI Development - AI Insider",
+            "summary_en": "Google has open-sourced TorchTPU, a tool designed to allow PyTorch-based AI models to run on Google’s custom Tensor Processing Units without requiring code rewrites. This initiative mirrors Amazon's TorchNeuron, representing a broader industry push to reduce dependence on Nvidia’s dominant GPU hardware ecosystem.",
+            "link": "https://theaiinsider.tech/2026/10/22/google-open-sources-torchtpu-to-challenge-nvidias-grip-on-ai-development",
+            "timestamp": 1792686274000,
+            "date": "2026-10-22"
+        },
+        {
+            "title": "Anthropic takes on Muse with Claude Duet, its new AI agent - The Verge",
+            "summary_en": "Anthropic has introduced Claude Duet, an AI agent powered by Claude Opus 5.5 capable of managing administrative tasks, building dashboards, and executing complex workflows through connected apps. The tool, currently in research preview for US Pro and Max subscribers, features a specialized safety classifier to protect sensitive user data during autonomous actions.",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+            "timestamp": 1792612400000,
+            "date": "2026-10-21"
+        },
         {
             "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
             "summary_en": "Meta is reportedly positioning its Muse AI agent at the center of its long-term development strategy. To support the massive capital requirements for this initiative, the company is planning a new stock issuance.",
@@ -672,34 +700,6 @@
             "link": "https://www.techzine.eu/news/devops/144333/microsoft-bundles-ai-development-tools-in-foundry-dev-pack",
             "timestamp": 1789560892000,
             "date": "2026-09-16"
-        },
-        {
-            "title": "Coder Brings Claude Code to Agent Relay, Unlocking Agentic Development for the World’s Most Regulated Enterprises - AiThority",
-            "summary_en": "Coder has integrated Claude Code with its Agent Relay platform, allowing highly regulated enterprises like financial services to deploy AI coding agents on their own secure, sandboxed infrastructure. This solution enables organizations to maintain strict control over source code and internal credentials while leveraging Anthropic’s agentic development capabilities.",
-            "link": "https://aithority.com/machine-learning/coder-brings-claude-code-to-agent-relay-unlocking-agentic-development-for-the-worlds-most-regulated-enterprises",
-            "timestamp": 1789560493000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "Anthropic, Nvidia CEOs lay out visions for safe AI development - Reuters",
-            "summary_en": "Anthropic and Nvidia CEOs have publicly outlined their strategic visions for ensuring the safe and responsible development of advanced artificial intelligence technologies.",
-            "link": "https://www.reuters.com/video/watch/idRW306516092026RP1",
-            "timestamp": 1789529719000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research",
-            "summary_en": "Google Research has introduced the 'Retrieve-for-Train' framework, which uses offline reinforcement learning to replace expensive inference-time reasoning with a lightweight, efficient diffusion model. This method enables instant, high-quality search results by pre-compiling complex query-decomposition logic into the model's training process.",
-            "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
-            "timestamp": 1789502472000,
-            "date": "2026-09-15"
-        },
-        {
-            "title": "UNC Lineberger Secures $40M from OpenAI Foundation to Make Cancer Vaccines More Effective | Newsroom - UNC Health",
-            "summary_en": "The OpenAI Foundation has awarded $40 million to the UNC Lineberger Comprehensive Cancer Center to accelerate the development of personalized cancer vaccines through high-quality AI-driven data analysis. This initiative is part of the foundation's 'Public Data for Health' program, aimed at creating open-access datasets to advance global life science research.",
-            "link": "https://news.unchealthcare.org/2026/09/unc-lineberger-secures-40m-from-openai-foundation-to-make-cancer-vaccines-more-effective",
-            "timestamp": 1789473638000,
-            "date": "2026-09-15"
         }
     ]
 }

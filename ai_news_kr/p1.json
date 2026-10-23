@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-22 08:29:14",
+    "last_update": "2026-10-23 08:23:24",
     "articles": [
+        {
+            "title": "\"AI 판단 속도 10배↑\"…오픈AI, '디시전스 API' 정식 출시 - 지디넷코리아",
+            "summary_kr": "오픈AI가 'GPT-6 루나' 기반의 '디시전스 API'를 출시하며 고객 분류 및 작업 판단 속도를 최대 10배 높였습니다. 이 서비스는 반복적인 판단 업무를 자동화하고 프롬프트 캐싱을 통해 운영 효율성을 극대화했습니다.",
+            "link": "https://zdnet.co.kr/view/?no=20261023155121",
+            "timestamp": 1792738402000,
+            "date": "2026-10-23"
+        },
+        {
+            "title": "MS \"의사보다 3.7배 정확한 AI 진단도구 개발\"...사이언스 게재 - YTN 사이언스",
+            "summary_kr": "마이크로소프트가 여러 AI가 협업해 진단하는 '진단 오케스트레이터'를 개발했으며, 고난도 임상 사례에서 일반 의사보다 3.7배 높은 83%의 정확도를 기록했습니다. 현재 보스턴의 대형 메디컬 센터와 실제 환자 대상 임상 연구에 착수했습니다.",
+            "link": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610231605301536",
+            "timestamp": 1792739130000,
+            "date": "2026-10-23"
+        },
+        {
+            "title": "[M이코노미뉴스] 앤트로픽, 개인용 AI 에이전트 ‘클로드 듀엣’ 공개...업무 관리부터 결제까지 수행 - M이코노미뉴스",
+            "summary_kr": "앤트로픽이 업무 연동과 결제까지 수행하는 개인용 AI 에이전트 '클로드 듀엣'을 공개하며 시장 경쟁에 합류했습니다. 가상 컴퓨터를 활용해 상시 업무 처리가 가능하며, 민감한 작업은 이용자의 명시적 승인을 거치도록 안전장치를 마련했습니다.",
+            "link": "https://www.m-economynews.com/news/article.html?no=72008",
+            "timestamp": 1792711734000,
+            "date": "2026-10-22"
+        },
         {
             "title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시 - AI타임스",
             "summary_kr": "앤트로픽은 코드 취약점 탐지 및 수정 추적을 자동화하는 기업용 보안 도구 ‘클로드 시큐리티’ 최신 버전을 출시했습니다. 이는 일회성 검사에서 지속적인 분석 체계로 전환하여 코드 변경 시마다 위협 요소를 실시간 점검하고, 기업별 보안 정책에 맞춘 대응 우선순위를 제공합니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "오픈AI가 자사 연구 성과에 대한 수학계의 비판과 신뢰성 논란을 해소하고자 검증을 전담할 독립 자문 기구를 신설했습니다.",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSXU1TzY4dlJNOHFGd21oYjFtbU9IYUQ2QVUyNGg3R0RmNGVYU215aHFsSndsdEZIWk5XekxOYUx4QTNEczJpdFpRVmdOaS0xR1RycDlIQmY4cmZjQUtBVndkMFoydC1FM2c?oc=5",
             "timestamp": 1790066764000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "딥시크, 美 엔비디아 의존 줄인다…中 화웨이 AI칩으로 추론 넘어 ‘학습’ 도전 - 조선일보",
-            "summary_kr": "중국의 딥시크가 엔비디아 의존도를 낮추기 위해 화웨이 AI 칩을 도입하며 추론을 넘어 모델 학습 분야까지 기술 독립을 추진합니다.",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHR6X09tMEZFS0FpNnhqeERhUmVNTkVnQ3hoZzlpVlNWRXk3VE9UMGNXT3JWX0taa1hwLWV1RU9LSUFpX3VrWmwtM0lBZmpXRkRLYjdOaGwyc2JmNWZpMmUtZlVicWhsdVZJcGhob1B0RnVtNzNCOWRodW1pMGU5RkkzUQ?oc=5",
-            "timestamp": 1790062380000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "메타 ‘생활밀착 AI 비서’ 돌풍...AI 위기론도 날렸다 - 조선일보",
-            "summary_kr": "메타가 선보인 생활 밀착형 AI 비서가 시장에서 큰 호응을 얻으며, 일각에서 제기된 AI 거품론과 위기론을 불식시키고 있습니다.",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXdCQkJPOWlPRktyRnFhTk1vQ2t1WjNJcjJKcmFfelR3MkQzdV9sTTBoeGFLQnhIY3FRNGJ2R2pCODhTVnZmOUNKUDN0azA2dWxNX09hRzZ5d3pfQjlndUtKZ1MtZGlLcnN3VGwtNVFRc0wxd1B1UGF2LXJtd1FLcC1Ydw?oc=5",
-            "timestamp": 1790064859000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "오픈AI·앤트로픽, 경쟁사에 AI모델 열어 ‘상호검증’ 추진 - 디지털데일리",
-            "summary_kr": "오픈AI와 앤트로픽이 AI 모델의 안전성과 신뢰성을 확보하기 위해 경쟁사와 자사 모델을 공유하고 상호 검증하는 체계를 마련합니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUWE1Mm1ILXFZeFljc3FRbFI2QUdjUWdIdkc4NVNKR2xucVhCcDhTUlBPd2dkQXJsU1Vvck1VcU52RGNmc1Z5RDJTeTZTaEx4LVBHTkJHdDlIenBydVBnUEdHb0g?oc=5",
-            "timestamp": 1790044361000,
             "date": "2026-09-22"
         }
     ]
