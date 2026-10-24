@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-23 18:59:01",
+    "last_update": "2026-10-24 17:59:40",
     "articles": [
+        {
+            "title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입” - AI타임스",
+            "summary_kr": "구글은 첨단 AI 모델 개발을 기업의 최우선 과제로 삼고, 클라우드 단기 매출 손실을 감수하면서까지 연구진에 우선적으로 컴퓨팅 자원을 배분하고 있습니다. 이는 AI가 검색과 클라우드를 포함한 구글 전 사업의 경쟁력을 좌우하는 핵심 기술이라는 판단에 따른 전략적 결정입니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+            "timestamp": 1792841939000,
+            "date": "2026-10-24"
+        },
+        {
+            "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리 - AI타임스",
+            "summary_kr": "구글 클라우드는 기업용 AI 에이전트의 보안성과 확장성을 보장하기 위해 각 세션을 마이크로VM으로 격리하는 '에이전트 컴퓨트 엔진'을 출시했습니다. 이 서비스는 에이전트의 유휴 자원을 효율적으로 관리하는 스냅샷 기술을 통해 기존 대비 컴퓨팅 밀도를 최대 10배 높였습니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+            "timestamp": 1792830612000,
+            "date": "2026-10-24"
+        },
+        {
+            "title": "“HBM4 12개냐 8개냐”…AI칩 설계 갈리자 삼성·SK하닉 ‘맞춤형 메모리’ 승부수 - 쿠키뉴스",
+            "summary_kr": "삼성전자와 SK하이닉스가 AI 칩 설계의 다양화에 대응하기 위해 고대역폭 메모리(HBM4) 적층 구조를 최적화하는 등 맞춤형 메모리 시장 선점을 위한 기술 경쟁에 나섰습니다.",
+            "link": "https://www.kukinews.com/article/view/kuk202608260214",
+            "timestamp": 1792836545000,
+            "date": "2026-10-24"
+        },
         {
             "title": "오픈AI 전 과학 책임자, 신약 개발 ‘완전 자동화 연구소’ 구축 나서 - AI타임스",
             "summary_kr": "오픈AI 전 과학 책임자 케빈 웨일이 설립한 '워프 사이언스'가 2억 1,500만 달러 규모의 투자를 유치하며 신약 개발 실험 자동화 시장에 진출했습니다. 로봇과 AI를 결합해 제약사의 의약품 합성 및 최적화 작업을 자동화함으로써, 중국 외주 의존도를 낮추고 미국 내 신약 연구 효율을 획기적으로 높일 계획입니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "글로벌 전기기술 기업 ABB가 급증하는 AI 데이터센터의 전력 수요를 효율적으로 관리하기 위한 통합 직류(DC) 솔루션을 선보였습니다.",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWjR2b1hWNWNwNTFUMkMxWUtRcTRkMG9XcndjUU5WQkoyekd6dExTZUFtQzRNcEdFVnRVVDRLVXRWZnRPRVhMSjl1Mmo2aU5QMm5vNDFOY2pFWER3UklQTmwxQzZ4UQ?oc=5",
             "timestamp": 1790150386000,
-            "date": "2026-09-23"
-        },
-        {
-            "title": "오픈AI, 모델 개발 초기부터 외부 안전성 검증 받는다 - AI타임스",
-            "summary_kr": "오픈AI가 AI 모델 개발 초기 단계부터 외부 기관의 안전성 검증을 도입하며 기술적 신뢰도와 안전성 강화에 나섰습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52bnI0blBmeFFqdU1YR2x0Q2U3bkFRd0E1MlhNaW9LUnJfeHQxNkVDNU1NRm9Iak1VUHFCazZWQ2tHOFhialF3T0JwWUlhUkhCdzhKdjNvVkc5OVdSRWlISExuMV9jZTRId2c?oc=5",
-            "timestamp": 1790145626000,
-            "date": "2026-09-23"
-        },
-        {
-            "title": "앤트로픽, ‘클로드 오퍼스 5.5’ 출시...토큰값 내리고 코딩 효율 올려 - 더에이아이",
-            "summary_kr": "앤트로픽은 신규 모델 '클로드 오퍼스 5.5'를 출시하여 토큰 가격을 인하하고 코딩 처리 효율성을 대폭 개선했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZTBOSlQ0QkU4S3kya0JUa1NqV2pQX2lxZnlOSmgtQndldHRGM00zRE5vZlFFVWFKeGVuemp6c2ZoRFVoMmN2MmRHdUh0NXlrd1FPR3VxY2hISHAzajlxYzhDRVZKRzRGRFdF?oc=5",
-            "timestamp": 1790130596000,
-            "date": "2026-09-23"
-        },
-        {
-            "title": "\"최고 성능보다 싸고 자주 쓰는 AI\"… 빅테크, AI 대중화 총력전 - 뉴시스",
-            "summary_kr": "글로벌 빅테크 기업들이 초고성능 모델 경쟁에서 벗어나 비용 효율성과 실용성을 갖춘 AI 모델을 통해 시장 대중화에 집중하고 있습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4dEVBS1VJSzVDd01YQzFhb0V0YlpwMHc5ZUItU0Jrbm9OWGdSWURIN1BnSGJnbDFDeHVvWVF0S28zYm5LcVI4RTVfYzY2TEEzazl5a1ZTZUY5RFZTNEp6d9IBeEFVX3lxTE5ZMUhQMGpKM1NxNnhwQ3hSb0ZvVzB3UXBVSEVxcHhXdmpDSnJCaHdLZ1RjZFFsYllkTmwtVGNzRDdWOWV0TDJxYUlfVlVJdmRnalBGWmJPdW5lNVoybTlNcExzeVloenk4dlN2NjRVZ1U0YS1vd1I2Yw?oc=5",
-            "timestamp": 1790146485000,
             "date": "2026-09-23"
         }
     ]
