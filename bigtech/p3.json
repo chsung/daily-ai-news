@@ -1,6 +1,15 @@
 {
-    "last_update": "2026-10-23 19:36:26",
+    "last_update": "2026-10-24 18:24:26",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1790192719000,
+            "date": "2026-09-23",
+            "title": "Validate GPU Cluster Readiness Before AI Workloads Land",
+            "summary_kr": "NVIDIA Cluster Readiness Engine(NVCRE)은 쿠버네티스 환경에서 실제 분산 워크로드를 사전 검증하여, 표준 진단으로 발견하기 어려운 GPU 클러스터의 미세한 성능 저하나 하드웨어 결함을 배포 전에 선제적으로 식별합니다.",
+            "summary_en": "NVIDIA Cluster Readiness Engine (NVCRE) proactively identifies subtle GPU cluster performance issues and hardware failures by running real distributed workloads before production deployment, filling a critical gap that standard diagnostics often miss.",
+            "link": "https://developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1790187949000,
@@ -891,15 +900,6 @@
             "summary_kr": "GPT-Live-1 API는 지연 시간이 짧은 단일 모델 아키텍처를 통해 자연스러운 대화와 유연한 도구 호출 기능을 제공하여, 개발자들이 보다 고도화된 실시간 음성 기반 애플리케이션을 구축할 수 있게 합니다.",
             "summary_en": "The GPT-Live-1 API offers a low-latency, single-model architecture that enables natural, full-duplex conversations and flexible tool delegation, empowering developers to build advanced real-time voice applications.",
             "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1788992980000,
-            "date": "2026-09-09",
-            "title": "What a battery breakthrough reveals about AI and scientific memory",
-            "summary_kr": "마이크로소프트의 'Discovery' 플랫폼은 실패 사례를 지식화하는 'Discovery Bookshelf'와 AI 에이전트를 결합하여, 단순한 아이디어 생성을 넘어 과학적 시행착오를 학습하고 실제 실험 검증까지 수행하는 새로운 연구 패러다임을 제시했습니다.",
-            "summary_en": "Microsoft’s 'Discovery' platform integrates AI agents with the 'Discovery Bookshelf' to turn experimental failures into durable knowledge, shifting scientific AI from mere generation to an end-to-end closed-loop system that accelerates discovery.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/reinventing-organic-redox-flow-batteries-with-microsoft-discovery/4552343"
         }
     ]
 }
