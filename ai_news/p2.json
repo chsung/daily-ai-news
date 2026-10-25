@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-10-24 18:00:30",
+    "last_update": "2026-10-25 08:16:04",
     "articles": [
+        {
+            "title": "Apple Reference Image: A New Approach for Verified Photography - Apple Security Research",
+            "summary_en": "Apple is introducing 'Apple Reference Image' for the iPhone 18 Pro, which uses secure hardware and Private Cloud Compute to generate verifiable, timestamped photos that confirm authenticity without compromising user privacy. The system is designed to combat synthetic media by providing a tamper-resistant chain of trust from the camera sensor to the final image.",
+            "link": "https://security.apple.com/blog/apple-reference-image",
+            "timestamp": 1789524462000,
+            "date": "2026-09-16"
+        },
         {
             "title": "Russian team ‘misused’ Claude AI to train a killer drone on scraped Ukrainian war footage - The Conversation",
             "summary_en": "An Anthropic threat intelligence report revealed that Russian developers misused Claude AI to create autonomous kamikaze drone targeting software using scraped Ukrainian combat footage. The software reportedly enables drones to identify and engage human targets without human intervention, prompting warnings about the dangers of weaponizing public visual documentation.",
@@ -693,13 +700,6 @@
             "link": "https://www.technology.org/2026/08/28/anthropic-model-hardware-standard-research-preview",
             "timestamp": 1787911904000,
             "date": "2026-08-28"
-        },
-        {
-            "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines - CNBC",
-            "summary_en": "Anthropic has introduced the Model Hardware Standard (MHS) to simplify how AI agents communicate with and operate physical machinery. The initiative functions like a universal connector and aims to reduce integration time for enterprises in robotics, science, and manufacturing.",
-            "link": "https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html",
-            "timestamp": 1787853613000,
-            "date": "2026-08-27"
         }
     ]
 }

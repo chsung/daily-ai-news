@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-10-24 17:59:40",
+    "last_update": "2026-10-25 08:15:19",
     "articles": [
+        {
+            "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 '네모트론 3.5 볼트' 출시 - AI타임스",
+            "summary_kr": "엔비디아가 4GB 메모리 환경에서 구동 가능한 오픈소스 경량 모델 ‘네모트론 3.5 볼트 E4B’를 출시하며 온디바이스 AI 및 로보틱스 시장 공략을 강화했습니다. 이 모델은 기존 모델 대비 대화형 벤치마크 점수를 40% 향상시켰으며, 도구 호출과 추론 기능을 결합해 다양한 산업 현장에 최적화된 실시간 서비스를 지원합니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216625",
+            "timestamp": 1792914623000,
+            "date": "2026-10-25"
+        },
+        {
+            "title": "英 정부, 6억 파운드 이상 AI 투자 승부수…바이오안보·사이버방어·피지컬 AI 집중 육성 - 인공지능신문",
+            "summary_kr": "영국 정부가 AI 국가안보와 산업 경쟁력 확보를 위해 약 1조 원 이상의 대규모 투자 계획을 발표했습니다. 특히 바이오안보 연구소 설립과 사이버 방어 체계 구축에 집중하며, 오픈AI·앤트로픽과의 협력을 통해 피지컬 AI 및 첨단 반도체 설계 등 국가 기술 자립도를 높일 방침입니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42419",
+            "timestamp": 1792895601000,
+            "date": "2026-10-25"
+        },
+        {
+            "title": "리퀴드 AI, 실시간 추론 엔진 ‘RIPL’ 출시...AI 응답 지연 50ms 미만 겨냥 - AI타임스",
+            "summary_kr": "리퀴드 AI가 실시간 업무에 특화된 추론 엔진 ‘RIPL’을 출시하며 응답 지연 시간을 50ms 미만으로 단축했습니다. 검색 및 결제와 같이 즉각적인 처리가 필수적인 분야에서 기존 모델 대비 최대 28배 빠른 성능을 구현하여 기업들의 실시간 의사결정을 지원합니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216627",
+            "timestamp": 1792913531000,
+            "date": "2026-10-25"
+        },
+        {
+            "title": "아마존, AI 수요 폭증에 2027년 클라우드 용량 완판...2028년 예약도 몰려 - AI타임스",
+            "summary_kr": "아마존웹서비스(AWS)의 컴퓨팅 용량이 AI 인프라 수요 폭증으로 인해 2027년까지 사실상 완판되었으며, 2028년 물량까지 예약이 몰리고 있습니다. 앤디 재시 CEO는 수요를 맞추기 위해 2,200억 달러 규모의 공격적인 투자를 단행하는 한편, 자체 AI 칩인 ‘트레이니움’을 통해 가격 대비 성능 우위를 확보할 계획입니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216620",
+            "timestamp": 1792915830000,
+            "date": "2026-10-25"
+        },
         {
             "title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입” - AI타임스",
             "summary_kr": "구글은 첨단 AI 모델 개발을 기업의 최우선 과제로 삼고, 클라우드 단기 매출 손실을 감수하면서까지 연구진에 우선적으로 컴퓨팅 자원을 배분하고 있습니다. 이는 AI가 검색과 클라우드를 포함한 구글 전 사업의 경쟁력을 좌우하는 핵심 기술이라는 판단에 따른 전략적 결정입니다.",
@@ -672,34 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnQtZ1J1UXpnUWRJNVhub0ZNWDkzOUdIS21wYmNuTVoyWUdPb0tFQjYxQzF6TFRFd1UzNGg2QXhlRmR0cHlZM2pYUWJNWTFuUXFMbnZLWS14YUZPNXloU1BUbTFDWVpybmtPRGFGMUxaNC0tYUVIc25jRklwTGFMaA?oc=5",
             "timestamp": 1790215261000,
             "date": "2026-09-24"
-        },
-        {
-            "title": "애플, M6 '맥 미니'·M5 울트라 '맥 스튜디오' 출시… 온디바이스 AI 성능 강화 - 인공지능신문",
-            "summary_kr": "애플이 차세대 M6 칩을 탑재한 맥 미니와 M5 울트라 기반의 맥 스튜디오를 출시하며 온디바이스 AI 성능을 대폭 강화했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fQ3dldHVtX0NKOVh1cDJ5ZGd6LTU4TFdnZ0VGVC1kSUg2X3FtbVdxWDR6QTZ3ekpsQlRLVGRacjVncGdWdXE3MGNmTExFdWFJS1l0MUg0Nml3cjBpWXVocm5UWDdNdTA?oc=5",
-            "timestamp": 1790172283000,
-            "date": "2026-09-23"
-        },
-        {
-            "title": "추론하고 가설 세우고 실험까지···‘Scientific AI’, 과학 연구 판 바꾼다 - 스포츠경향",
-            "summary_kr": "데이터 분석을 넘어 가설 설정과 실험 수행이 가능한 'Scientific AI'가 등장하며 과학 연구 패러다임의 혁신을 이끌고 있습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4X0FUUmJiSVo5dnZaM1JLVmoteFFNaExURE1RMmVkQ0dSbVNWWTdvNHU4bE5qWTJhN3lrcG4yZzdId3FUQk5ITlo1SWpJUUJQbVJZenp2Unl0b05NNFHSAWNBVV95cUxQMjZoM1NwRUx6RERkdWhpMkJrWEhTVVRDOTRxdnpQRFZmaW4zSERmVGJ3a3RYSTBDRlRvMko3dlNqdW8yTTdCbi1BeXlMS0dIekFKREUzbVVab1RQeEJ3UFZIZkk?oc=5",
-            "timestamp": 1790177880000,
-            "date": "2026-09-23"
-        },
-        {
-            "title": "[SDG 9] 딥마인드 출신들이 만든 AI 과학자 ‘패러데이’…오픈AI·앤트로픽 대형 모델 넘어섰다 - SDG뉴스",
-            "summary_kr": "딥마인드 출신들이 개발한 AI 과학자 '패러데이'가 오픈AI와 앤트로픽의 대형 모델 성능을 추월하며 과학 연구 분야의 새로운 기준을 제시했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44eXF5NU9LZnYxQ2xxbkNJLTBzR0xwakJ6am9McHhnMFZJQVNRTTduWTc3MUY4ODJtcllMX1MzU05NeG9HTkU1dVpySFd1MHNNbHNFQ0NfWF83dmhSekFxMXJlaldzd3pudERV0gFrQVVfeXFMTjh5cXk1T0tmdjFDbHFuQ0ktMHNHTHBqQnpqb0xweGcwVklBU1FNN25ZNzcxRjg4Mm1yWUxfUzNTTk14b0dORTV1WnJIV3Uwc01sc0VDQ19YXzd2aFJ6QXExcmVqV3N3em50RFU?oc=5",
-            "timestamp": 1790148183000,
-            "date": "2026-09-23"
-        },
-        {
-            "title": "ABB, AI 데이터센터용 통합 DC 솔루션 출시 - 디일렉",
-            "summary_kr": "글로벌 전기기술 기업 ABB가 급증하는 AI 데이터센터의 전력 수요를 효율적으로 관리하기 위한 통합 직류(DC) 솔루션을 선보였습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZWjR2b1hWNWNwNTFUMkMxWUtRcTRkMG9XcndjUU5WQkoyekd6dExTZUFtQzRNcEdFVnRVVDRLVXRWZnRPRVhMSjl1Mmo2aU5QMm5vNDFOY2pFWER3UklQTmwxQzZ4UQ?oc=5",
-            "timestamp": 1790150386000,
-            "date": "2026-09-23"
         }
     ]
 }
