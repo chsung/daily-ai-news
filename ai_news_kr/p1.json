@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-25 08:15:19",
+    "last_update": "2026-10-26 08:42:02",
     "articles": [
+        {
+            "title": "[데일리연합 (SNSJTV)] [심층분석] GTC Berlin 2026과 엔비디아의 'Physical AI' 전환, 개방 모델·레퍼런스 휴머노이드 - 데일리연합",
+            "summary_kr": "엔비디아는 GTC Berlin 2026에서 물리적 세계와 상호작용하는 'Physical AI'와 휴머노이드 플랫폼을 공개하며 산업 생태계 주도권을 강화하고 있습니다. 개방형 모델 전략을 내세웠으나, 이는 자사 하드웨어와 소프트웨어 스택에 대한 시장 종속성을 심화시켜 글로벌 공급망 재편과 함께 한국 기업의 기술적 대응 과제를 안겨줄 전망입니다.",
+            "link": "https://dailyan.com/news/article.html?no=782224",
+            "timestamp": 1792987203000,
+            "date": "2026-10-26"
+        },
+        {
+            "title": "메타, AI 비서 ‘뮤즈’ 일본 출시…북미 밖 첫 진출 - AI 매터스",
+            "summary_kr": "메타가 자사의 AI 비서 서비스인 '뮤즈'를 일본 시장에 출시하며 북미 이외 지역으로 본격적인 서비스 확장에 나섰습니다.",
+            "link": "https://aimatters.co.kr/news-report/56970",
+            "timestamp": 1792999651000,
+            "date": "2026-10-26"
+        },
+        {
+            "title": "삼성·SK, 내년 2월 HBM4 8단 양산 출하...엔비디아향 공급 - 지디넷코리아",
+            "summary_kr": "삼성전자와 SK하이닉스가 엔비디아의 차세대 AI 가속기 '루빈 울트라' 탑재용 HBM4 8단 제품을 내년 2분기부터 본격 양산할 예정입니다. 이는 12단 적층 구조에서 발생한 발열 및 수율 문제를 해결하기 위해 엔비디아가 수급 전략을 수정한 데 따른 조치입니다.",
+            "link": "https://zdnet.co.kr/view/?no=20261026115227",
+            "timestamp": 1793001261000,
+            "date": "2026-10-26"
+        },
         {
             "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 '네모트론 3.5 볼트' 출시 - AI타임스",
             "summary_kr": "엔비디아가 4GB 메모리 환경에서 구동 가능한 오픈소스 경량 모델 ‘네모트론 3.5 볼트 E4B’를 출시하며 온디바이스 AI 및 로보틱스 시장 공략을 강화했습니다. 이 모델은 기존 모델 대비 대화형 벤치마크 점수를 40% 향상시켰으며, 도구 호출과 추론 기능을 결합해 다양한 산업 현장에 최적화된 실시간 서비스를 지원합니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "오픈AI와 앤트로픽 등 주요 AI 기업 경영진이 유엔 안보리 회의에 참석해, AI 기술의 안전한 통제를 위한 국제적 차원의 공조 필요성을 역설했습니다.",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1NGpicU10WDlReTJHR3NYUzk5N21RUGU0ek13bHBDSG1IcURSRzZxMUtjczFnYU84a0tNLXFfNnFHc3drOWNnQy1PWW9kZXpFc05wdENlajdLMkVmZWV1eHh0TEtJYmVmRkxGLXRsUTZCV2l0T0E?oc=5",
             "timestamp": 1790258340000,
-            "date": "2026-09-24"
-        },
-        {
-            "title": "앤트로픽, AI 활용해 크리스퍼 유사 효소 시스템 발견…21시간 만에 성과 - ajunews.com",
-            "summary_kr": "앤트로픽이 AI를 활용해 크리스퍼(CRISPR) 기술과 유사한 효소 시스템을 21시간 만에 발견하며 생명공학 연구의 획기적인 효율성을 입증했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyOHVqVDdHdm56S0dXVW1hWEdvNGRaYUJfNFgzeVpZcVY5ckk3SXhCOHFBaHRUZTRud0lpRTlzT3FQb0wzQTZrZEZYUEdlZUdYZlR2Z095LUzSAVhBVV95cUxQMjh1alQ3R3ZuektHV1VtYVhHbzRkWmFCXzRYM3laWXFWOXJJN0l4QjhxQWh0VGU0bndJaUU5c09xUG9MM0E2a2RGWFBHZWVHWGZUdmdPeS1M?oc=5",
-            "timestamp": 1790218800000,
-            "date": "2026-09-24"
-        },
-        {
-            "title": "“AI 통제력 상실, 현실적이고 임박한 위협”… 오픈AI·앤트로픽, 유엔 안보리 긴급 브리핑 - 인공지능신문",
-            "summary_kr": "오픈AI와 앤트로픽이 유엔 안보리 긴급 브리핑에 참석해 AI 기술 발전으로 인한 통제력 상실 가능성을 현실적이고 임박한 위협으로 경고했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jSnhNWk9UODFUcTV2dk9rN0hTT3Z2bFFJVlRBcXNPMFJuUEZZcEtHVktvcG5PR0UtLWxDRHBkbUhBMmNuQmtPemlKUkRXWlhWUmozVVBEd01QWGVaSDloNE9rMHkyMDA?oc=5",
-            "timestamp": 1790208253000,
-            "date": "2026-09-24"
-        },
-        {
-            "title": "[신약개발 나선 빅테크 上] 구글, 빅테크 최초 '직접 임상' 나선다…신약개발 판도 흔들까 - edaily.co.kr",
-            "summary_kr": "구글이 빅테크 기업 중 최초로 직접 임상 시험에 착수하며 AI 기술을 활용한 신약 개발 시장의 주도권 확보에 나섰습니다.",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnQtZ1J1UXpnUWRJNVhub0ZNWDkzOUdIS21wYmNuTVoyWUdPb0tFQjYxQzF6TFRFd1UzNGg2QXhlRmR0cHlZM2pYUWJNWTFuUXFMbnZLWS14YUZPNXloU1BUbTFDWVpybmtPRGFGMUxaNC0tYUVIc25jRklwTGFMaA?oc=5",
-            "timestamp": 1790215261000,
             "date": "2026-09-24"
         }
     ]

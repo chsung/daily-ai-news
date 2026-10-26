@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-10-25 08:16:04",
+    "last_update": "2026-10-26 08:42:46",
     "articles": [
+        {
+            "title": "Anthropic Opens AI Standard for Physical Machines - Technology Org",
+            "summary_en": "Anthropic has introduced a new AI standard specifically designed for the integration and operation of physical machines. This initiative aims to bridge the gap between advanced generative models and the control or management of robotic and hardware-based systems.",
+            "link": "https://www.technology.org/2026/08/28/anthropic-model-hardware-standard-research-preview",
+            "timestamp": 1787911904000,
+            "date": "2026-08-28"
+        },
         {
             "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines - CNBC",
             "summary_en": "Anthropic has introduced the Model Hardware Standard (MHS) to simplify how AI agents communicate with and operate physical machinery. The initiative functions like a universal connector and aims to reduce integration time for enterprises in robotics, science, and manufacturing.",
@@ -693,13 +700,6 @@
             "link": "https://futurumgroup.com/insights/nvidia-ai-storage-goes-open-at-fms-2026-is-open-source-the-new-moat",
             "timestamp": 1786154950000,
             "date": "2026-08-08"
-        },
-        {
-            "title": "Behind Google's AI Business Restructuring: Commercialization Pressures Force a Retreat from Research Ambitions - Moomoo",
-            "summary_en": "Google is reportedly restructuring its AI division to shift focus toward immediate commercialization. This strategic pivot signals a move away from pure research ambitions in favor of generating tangible revenue and responding to intense market pressure.",
-            "link": "https://www.moomoo.com/news/post/74348382/behind-google-s-ai-business-restructuring-commercialization-pressures-force-a",
-            "timestamp": 1786118036000,
-            "date": "2026-08-07"
         }
     ]
 }
