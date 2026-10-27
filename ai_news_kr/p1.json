@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-10-27 08:48:08",
+    "last_update": "2026-10-27 19:57:40",
     "articles": [
+        {
+            "title": "메타, 엔비디아 독점 허물고 AMD ‘인스틴크트’ 전격 채택… AI 반도체 다변화 가속 - 테크데일리",
+            "summary_kr": "메타는 엔비디아 의존도를 낮추고 AI 인프라 비용을 절감하기 위해 AMD의 ‘인스틴크트 MI300X’를 전격 도입했습니다. 대용량 HBM3를 탑재한 AMD 칩은 메타의 오픈소스 모델 ‘라마’의 추론 효율을 극대화하며, 파이토치 기반의 생태계 확장과 맞물려 기술 주권 확보의 전략적 요충지가 될 전망입니다.",
+            "link": "https://www.techdaily.co.kr/news/articleViewAmp.html?idxno=30088",
+            "timestamp": 1793123627000,
+            "date": "2026-10-27"
+        },
+        {
+            "title": "오픈AI, GPT-6.1 테라 출시…AI 업무 처리 비용 50% 절감 - 데일리뉴스",
+            "summary_kr": "오픈AI가 출시한 ‘GPT-6.1 테라’는 이미지 해석과 컴퓨터 조작 능력을 강화한 에이전트 모델로, 이전 모델 대비 표준 API 가격을 50% 인하하여 기업의 운영 비용 부담을 획기적으로 낮췄습니다. 전문 업무 처리 역량 평가에서 성능을 입증하며 보안 등급 또한 최고 단계인 ‘크리티컬’ 수준을 확보했습니다.",
+            "link": "https://idailynews.co.kr/article/%EC%98%A4%ED%94%88ai-gpt-61-%ED%85%8C%EB%9D%BC-%EC%B6%9C%EC%8B%9Cai-%EC%97%85%EB%AC%B4-%EC%B2%98%EB%A6%AC-%EB%B9%84%EC%9A%A9-50-%EC%A0%88%EA%B0%90",
+            "timestamp": 1793088101000,
+            "date": "2026-10-27"
+        },
+        {
+            "title": "오라클 OCI, 구글 TPU 서비스 제공한다 – 바이라인네트워크 - 바이라인네트워크",
+            "summary_kr": "오라클이 클라우드 인프라(OCI) 내에서 구글의 텐서 프로세싱 유닛(TPU)을 서비스하는 첫 외부 하이퍼스케일러가 되었습니다. 고객은 2027년부터 오라클 환경에서 구글의 8세대 TPU를 활용해 AI 워크로드의 특성에 맞는 최적의 성능과 비용 효율성을 선택할 수 있게 됩니다.",
+            "link": "https://byline.network/2026/10/27-694",
+            "timestamp": 1793118302000,
+            "date": "2026-10-27"
+        },
+        {
+            "title": "앤트로픽, 역대 최대 IPO 도전…‘기적의 시대’ 열겠다는데 통제 상실·투자 부담 시험대 - 경향신문",
+            "summary_kr": "앤트로픽은 최대 2조 달러의 기업가치를 목표로 11월 사상 최대 규모의 IPO를 추진합니다. 매출이 전년 대비 14배 급성장했으나, 막대한 인프라 투자 비용과 AI 안전을 위한 개발 속도 조절이라는 과제를 안고 있어 상장 이후 수익성 입증이 시장의 핵심 시험대가 될 전망입니다.",
+            "link": "https://www.khan.co.kr/article/202610271659001/amp",
+            "timestamp": 1793087940000,
+            "date": "2026-10-27"
+        },
         {
             "title": "“AI로 인간 뇌 신경망 지도 만든다”…구글 리서치·스탠퍼드대 공동 개발 ‘폴라 피크스’ 출시 - 인공지능신문",
             "summary_kr": "구글 리서치와 스탠퍼드대가 공동 개발한 ‘폴라 피크스’는 청소년들이 뇌 신경세포 데이터 분석과 모델 검증을 체험하며 AI 리터러시를 기를 수 있도록 설계된 교육 프로그램입니다. 이는 단순한 AI 활용법 교육을 넘어, 과학적 문제 해결 과정에서 인간의 비판적 사고와 감독이 필수적임을 강조합니다.",
@@ -671,34 +699,6 @@
             "summary_kr": "엔비디아의 젠슨 황 CEO가 안전 기준을 준수하지 않거나 통제가 불가능한 AI 연구소에 대해, 단순한 규제를 넘어 즉각적인 폐쇄 조치를 취해야 한다는 강경한 입장을 밝혔습니다.",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUld3aVZITlFZZDdNdmRUVTd0U21vNGtzMGZjZXV0UGZaaHlYNVl1Rm1RLUhrOENwdGI2SHd3MVF6NmNfWmU3a19xbEFwSlJSN1QwSDRtLWNzemx2Uk8zeVhGdENCblEyTUE?oc=5",
             "timestamp": 1790343398000,
-            "date": "2026-09-25"
-        },
-        {
-            "title": "\"AI 멸망설 10%? 극히 희박\"…팔로알토·엔비디아 CEO, ‘AI 속도 조절론’에 일침 - AI포스트",
-            "summary_kr": "팔로알토와 엔비디아의 최고경영자들은 AI가 인류를 멸망시킬 확률이 10%라는 일각의 주장을 일축하며, AI 발전 속도를 억제해야 한다는 '속도 조절론'에 대해 강한 회의적 입장을 표명했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJSGYyWU9CM0NFTmNzZmVhWHZPU2U4RzRQWXhWeGpOUzZxLTBKcHYxc0tKNlVTWFVYUFl6cWRVdTd5d3M5MTJ6VDhJREJ5bldxUjkzUldNVFRkeF8zOHZMb3hKeGFKM0NrbWpDZkJR0gFyQVVfeXFMT2ZZdHVveE4xR0xXQW1wbUpHdTNfY1JUR2FFLTVOdEVZRUhMNTlPWDczdmJiXy1YRVg3d0R0T1NZaG5HOV9pTjZkUm9qSkJMRTU1anBDa2g3WXVxNFNfSkVtZVZBcXBNMUw0Y3dKMldENnZn?oc=5",
-            "timestamp": 1790312851000,
-            "date": "2026-09-25"
-        },
-        {
-            "title": "퀄컴, 모듈러 품고 ‘탈엔비디아’ 생태계 구상… 40억달러 베팅한 이유 - 조선비즈 - Chosunbiz",
-            "summary_kr": "퀄컴이 40억 달러 규모의 대규모 투자를 단행하며 자체 모듈러 생태계를 구축하고, 엔비디아 의존도를 낮추기 위한 독자적인 AI 하드웨어 생태계 확보에 나섰습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3ZNMU9Cc201V0k4N0F1YWgxalhtLVM2QnFMM0liWUlDQ0FJVnRkM2Vqb0RNQnVMN2R1Ymt1QTFiSEZmalhKSkt3M2pJaTZpXzZkUGdkX3ZDQmpSZ0lSQk44R0RmM2RSWm0xNThtNmJvQzV3bXJsRlY1Yjdwa1EwQlFR0gGWAUFVX3lxTE13ZE1WYTgyTUN3a2haQlk3RGZpV0x0NHpFbHg2eFM2c2xiTjRnTm1BWmllR1Voc1FCdl81MUN4TVprcGNqRFVLcm1GdC1PdW01Um44YlhQSU9lbDBJZHhuekpMcnFYaHhtS1JYV2VsNXV1SVBFQ1FJamlocnFEUkwwdWMwTEF5LTI2S0pjNk8tTDR1eENoZw?oc=5",
-            "timestamp": 1790294525000,
-            "date": "2026-09-25"
-        },
-        {
-            "title": "LG전자, AI 데이터센터 냉각사업 확장…2.5MW CDU 엔비디아 'DSX 레디' 승인 - 웹이코노미",
-            "summary_kr": "LG전자가 2.5MW급 냉각분배장치(CDU)에 대해 엔비디아의 'DSX 레디' 인증을 획득하며, 급성장하는 AI 데이터센터 냉각 시장에서의 사업 경쟁력을 대폭 강화했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iU0tmai00ZkpGdkl4UGtqT0VSNkhnNHdjYjc1QXFDRHZpTHZzM01JZk5NTE5XRkpvV3gxZjdxbkhGbXlNRm1pekt5elZ6S1k5bmVRbUVyaG5aN3hEd0xmejFPMGhMYTc3ZUtpUWtPdDhiUQ?oc=5",
-            "timestamp": 1790317072000,
-            "date": "2026-09-25"
-        },
-        {
-            "title": "구글, AI 칩 4개 우주로 보낸다…10월 1일 '우주 데이터센터' 첫 시험 - 디지털투데이",
-            "summary_kr": "구글은 오는 10월 1일 자사의 AI 칩 4개를 우주로 쏘아 올려 극한 환경에서의 데이터 처리 능력을 검증하는 '우주 데이터센터' 시험을 시작할 예정입니다.",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zVXNNYWhIOG9BSmFmVVBUc0o0Z2ZyU3NEOXFtNnpVTldIbjJ0XzdjQUZJb0xNc3VwdXdXU3huV3hjQVZNVmxQUGpLU0cyMHZTRXl4VUF0bTUxMXpsUlNPRXVzaEdEeGJZc21mRGtkdTJTUVk?oc=5",
-            "timestamp": 1790314140000,
             "date": "2026-09-25"
         }
     ]
