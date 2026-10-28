@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-28 09:30:31",
+    "last_update": "2026-10-28 20:10:40",
     "articles": [
+        {
+            "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs - The Decoder",
+            "summary_en": "Google has expanded Android Studio with 'Bring Your Own Agent' support for over 40 coding assistants and new CLI tools that utilize Android Skills to improve development efficiency. Internal testing revealed that these AI integrations helped agents complete UI tasks 77 percent faster while significantly reducing token consumption.",
+            "link": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis",
+            "timestamp": 1793206874000,
+            "date": "2026-10-28"
+        },
+        {
+            "title": "Apple unveils new iMac with M6, delivering a major boost in performance and AI capabilities - Apple",
+            "summary_en": "Apple introduced the new iMac powered by the M6 chip, which features a 12-core CPU and GPU with specialized Neural Accelerators for enhanced performance. The hardware delivers up to 5x faster on-device AI capabilities compared to the M4, supporting advanced features like Siri AI and local model processing.",
+            "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6",
+            "timestamp": 1793146885000,
+            "date": "2026-10-28"
+        },
+        {
+            "title": "An update from Amazon engineering leadership on the role of the developer in the age of AI - About Amazon",
+            "summary_en": "Amazon engineering leadership has updated its software developer guidelines to embrace the 'Renaissance Developer' model, which integrates AI tools with human judgment. While the company acknowledges that AI is fundamentally shifting engineering practices, it emphasizes that long-term outcomes and customer impact remain the core metrics for success.",
+            "link": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+            "timestamp": 1793123814000,
+            "date": "2026-10-27"
+        },
         {
             "title": "Anthropic lays out drug R&D ambitions, risks in mammoth IPO filing - Fierce Biotech",
             "summary_en": "In its recent IPO filing, Anthropic announced plans to pivot beyond software by building its own molecular biology lab and deploying AI agents to operate laboratory equipment. The company aims to leverage its 'Powerful AI' to accelerate drug discovery, though it acknowledges significant scientific and operational risks in this strategic expansion.",
@@ -678,27 +699,6 @@
             "summary_en": "Anthropic has launched a dedicated biology wet lab in the San Francisco Bay Area that utilizes AI-controlled robotics to automate scientific research. By leveraging its Model Hardware Standard (MHS) protocol, the company aims to enhance protein design efficiency and explore biological phenomena, potentially licensing findings to pharmaceutical partners.",
             "link": "https://siliconangle.com/2026/09/18/anthropic-opens-ai-powered-biology-research-lab",
             "timestamp": 1789762500000,
-            "date": "2026-09-18"
-        },
-        {
-            "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - PBS",
-            "summary_en": "A lawsuit has been filed against major AI developers including Anthropic, OpenAI, and Google, alleging that these companies entered into an illegal agreement to collectively slow down the pace of AI advancement.",
-            "link": "https://www.pbs.org/newshour/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
-            "timestamp": 1789837844000,
-            "date": "2026-09-19"
-        },
-        {
-            "title": "Anthropic Picks Accenture For Third-Party AI Safety Evaluations - Engadget",
-            "summary_en": "Anthropic has partnered with Accenture in a five-year, $1 billion joint investment to embed third-party safety evaluators into its operations. This initiative aligns with CEO Dario Amodei’s strategic roadmap to ensure rigorous safety compliance and model alignment as AI capabilities continue to evolve.",
-            "link": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations",
-            "timestamp": 1789842826000,
-            "date": "2026-09-19"
-        },
-        {
-            "title": "Novo furthers AI push with Anthropic partnership - NJBIZ",
-            "summary_en": "The pharmaceutical giant Novo has partnered with Anthropic to integrate Claude AI models into its drug discovery and R&D workflows, aiming to accelerate the development of treatments for chronic diseases. This collaboration builds on Novo's broader AI-driven strategy, which already includes partnerships with OpenAI and Amazon Web Services.",
-            "link": "https://njbiz.com/novo-anthropic-ai-partnership",
-            "timestamp": 1789766591000,
             "date": "2026-09-18"
         }
     ]
