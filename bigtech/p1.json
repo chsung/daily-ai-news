@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-10-27 20:20:49",
+    "last_update": "2026-10-28 20:38:20",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1793206800000,
+            "date": "2026-10-28",
+            "title": "Gemini 4 Carbon: our next frontier model",
+            "summary_kr": "구글은 사이버 보안과 장기적 에이전트 작업에 특화된 차세대 프론티어 모델 'Gemini 4 Carbon'을 공개하며 보안 성능과 복잡한 엔지니어링 문제 해결 능력을 대폭 강화했습니다.",
+            "summary_en": "Google has unveiled its next-generation frontier model, Gemini 4 Carbon, which delivers state-of-the-art capabilities in cybersecurity defense and sustained agentic workflows for complex engineering tasks.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793193300000,
+            "date": "2026-10-28",
+            "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+            "summary_kr": "OpenAI와 ServiceNow가 파트너십을 확대하여 엔터프라이즈 워크플로우 전반에 AI 모델과 에이전트를 통합하고, 애플리케이션 개발, 보안, 음성 제어 등 실무 효율성을 혁신합니다.",
+            "summary_en": "OpenAI and ServiceNow are expanding their partnership to integrate advanced AI models and agents into enterprise workflows, driving efficiency in application development, cybersecurity, and operational automation.",
+            "link": "https://openai.com/index/openai-servicenow-partnership-expansion"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793181600000,
+            "date": "2026-10-28",
+            "title": "The future of the firm",
+            "summary_kr": "AI는 기업 조직도 내에 '하부 보조자', '수평적 동료', '중간 관리자'라는 세 가지 형태로 통합되며, 인간은 단순 업무를 넘어 AI를 관리하고 조율하는 새로운 형태의 하이브리드 조직으로 진화할 것입니다.",
+            "summary_en": "AI is reshaping corporate structures by integrating as subordinates, peers, or intermediaries, effectively evolving the workforce into a hybrid model where humans increasingly act as managers and orchestrators of AI labor.",
+            "link": "https://openai.com/index/the-future-of-the-firm"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793179800000,
+            "date": "2026-10-28",
+            "title": "Legora is building the agentic operating system for legal work",
+            "summary_kr": "Legora는 OpenAI 모델과 코딩 에이전트를 활용해 법률 업무의 효율성을 극대화하는 '에이전트형 운영체제(OS)'를 구축하여 법률 팀의 업무 시간을 대폭 절감하고 생산성을 혁신하고 있습니다.",
+            "summary_en": "Legora is building an 'agentic operating system' for legal work powered by OpenAI models and coding agents, significantly reducing manual workloads and enhancing productivity for legal teams.",
+            "link": "https://openai.com/index/legora"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1793145600000,
+            "date": "2026-10-28",
+            "title": "AI for Science expands to foundations and research institutions",
+            "summary_kr": "앤스로픽은 'AI for Science' 프로그램을 확장하여 전 세계 주요 연구 기관 및 재단과 협력하고, 과학 연구 가속화를 위해 연구자들에게 클로드(Claude) 크레딧과 기술적 자원을 대거 지원합니다.",
+            "summary_en": "Anthropic is expanding its 'AI for Science' program by partnering with global research institutions and foundations to provide Claude credits and collaborative resources, accelerating scientific discovery across various disciplines.",
+            "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793134239000,
+            "date": "2026-10-27",
+            "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+            "summary_kr": "엔비디아 CUDA 13.4의 새로운 메모리 제한 기능을 쿠버네티스에서 활용할 수 있게 해주는 'GPU Fractioning' 오픈소스 오퍼레이터가 공개되어, 효율적인 GPU 자원 분할 및 공유가 가능해졌습니다.",
+            "summary_en": "The new open-source 'GPU Fractioning' operator enables Kubernetes to leverage NVIDIA CUDA 13.4's memory enforcement, allowing for efficient GPU resource partitioning and sharing.",
+            "link": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793113200000,
+            "date": "2026-10-27",
+            "title": "Retell uses OpenAI models to help power 100M monthly calls",
+            "summary_kr": "Retell AI는 OpenAI 모델을 활용해 월 1억 건 이상의 고객 응대를 처리하며, 80% 이상의 높은 문제 해결률과 우수한 운영 효율을 달성하고 있습니다.",
+            "summary_en": "Retell AI leverages OpenAI models to handle over 100 million monthly calls, achieving an 80% customer resolution rate and high operational efficiency.",
+            "link": "https://openai.com/index/retell-ai"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1793059200000,
+            "date": "2026-10-27",
+            "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+            "summary_kr": "앤스로픽은 GSA와의 파트너십을 확장하여 미국 전역의 공공기관에 클로드 솔루션을 40% 할인된 가격으로 제공하고, 이를 통해 예산 절감 및 공공 부문의 AI 도입을 가속화합니다.",
+            "summary_en": "Anthropic is expanding its partnership with the GSA to offer a 40% discount on Claude solutions across all levels of U.S. government, aiming to accelerate AI adoption and drive significant cost savings in the public sector.",
+            "link": "https://www.anthropic.com/news/expanding-partnership-gsa"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1793059200000,
+            "date": "2026-10-27",
+            "title": "Early progress on accelerating drug development with Claude",
+            "summary_kr": "앤스로픽은 제약 파트너사들과의 협업 및 자체 신약 개발 프로젝트를 통해 클로드(Claude)의 신약 개발 전 과정 최적화 및 가속화에 본격적으로 나섰습니다.",
+            "summary_en": "Anthropic is scaling its efforts to accelerate end-to-end drug discovery by integrating Claude into diverse development tasks through strategic partnerships and internal research projects.",
+            "link": "https://www.anthropic.com/research/early-progress-drug-development"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1793120400000,
@@ -819,87 +900,6 @@
             "summary_kr": "Anthropic의 AI 모델 Claude가 수십 년간 미스터리였던 NIST 타원 곡선 암호(ECDSA)의 시드값 생성 원리가 단순한 유닉스 타임스탬프 기반 난수 생성이었음을 밝혀냈습니다. 이는 암호 표준에 대한 보안 우려를 해소하고 설계상 백도어 가능성을 일축하는 결정적 근거가 되었습니다.",
             "summary_en": "Anthropic's Claude AI has solved the decades-old mystery of NIST ECDSA curve origins, revealing they were generated using simple Unix timestamp-based pseudorandom number generation. This discovery effectively dispels long-standing concerns regarding potential backdoors and confirms the integrity of these widely used cryptographic standards.",
             "link": "https://www.anthropic.com/research/ecdsa-curve-origins"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792090800000,
-            "date": "2026-10-15",
-            "title": "Bringing GPT-Rosalind to academic research labs",
-            "summary_kr": "OpenAI가 생명과학 특화 모델인 'GPT-Rosalind'를 학계 연구실에 무상으로 제공하는 'Rosalind Academic Plan'을 출시하여 과학적 발견 가속화를 지원합니다.",
-            "summary_en": "OpenAI has launched the 'Rosalind Academic Plan,' providing academic labs with free access to its specialized life sciences model, GPT-Rosalind, to accelerate scientific discovery.",
-            "link": "https://openai.com/index/introducing-the-rosalind-academic-plan"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792022400000,
-            "date": "2026-10-15",
-            "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-            "summary_kr": "설리번 앤 크롬웰은 OpenAI와 협력하여 자사의 법률 전문성과 최신 AI 추론 능력을 결합한 계약서 검토 도구 'Agreement Analyzer'를 개발해 업무 효율성을 높였습니다.",
-            "summary_en": "Sullivan & Cromwell has partnered with OpenAI to develop 'Agreement Analyzer,' an AI tool that integrates the firm's legal expertise with advanced reasoning capabilities to enhance complex contract review workflows.",
-            "link": "https://openai.com/index/sullivan-cromwell"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1792087260000,
-            "date": "2026-10-15",
-            "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
-            "summary_kr": "NVIDIA의 Nemotron 3.5 Super VL은 멀티모달 추론과 툴 사용 능력을 갖춘 120B 파라미터 모델로, 기업 특화 워크플로우에서 뛰어난 효율성과 처리 성능을 제공합니다.",
-            "summary_en": "NVIDIA’s Nemotron 3.5 Super VL is a 120B-parameter multimodal model designed to enhance specialized enterprise workflows by integrating superior reasoning, tool use, and visual understanding with high-efficiency throughput.",
-            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1792087201000,
-            "date": "2026-10-15",
-            "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
-            "summary_kr": "메타가 엔비디아의 Blackwell Ultra GPU에 최적화된 816B 파라미터의 멀티모달 코딩 모델 'Muse Spark Open'을 공개하며, 1M 토큰의 긴 컨텍스트 윈도우와 에이전트 기반 워크플로우를 통한 차세대 개발 생산성 혁신을 제시했습니다.",
-            "summary_en": "Meta has introduced 'Muse Spark Open,' an 816B parameter multimodal model optimized for NVIDIA Blackwell Ultra, featuring a 1M token context window to enable advanced agentic coding workflows and sustained multi-step development tasks.",
-            "link": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1792087200000,
-            "date": "2026-10-15",
-            "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
-            "summary_kr": "구글 퀀텀 AI는 '매직 스테이트 배양' 기술을 통해 윌로우 프로세서의 오류를 40배 줄이며 양자 컴퓨팅의 핵심 자원 병목 현상을 해결했습니다.",
-            "summary_en": "Google Quantum AI has overcome a critical quantum computing bottleneck by using 'magic state cultivation' to achieve a 40-fold reduction in errors on its Willow processor.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1792083211000,
-            "date": "2026-10-15",
-            "title": "What will new developers do when AI writes the code?",
-            "summary_kr": "마이크로소프트와 카네기 멜론 대학은 AI 시대에 주니어 개발자가 단순 코딩을 넘어 시스템 사고와 판단력을 갖춘 시니어 엔지니어로 성장할 수 있도록 'PRAISE' 멘토링 프로그램을 도입했습니다.",
-            "summary_en": "Microsoft and Carnegie Mellon University launched the 'PRAISE' program to transition junior developers into senior engineers by fostering critical systems thinking and judgment in an AI-driven coding environment.",
-            "link": "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1792080000000,
-            "date": "2026-10-15",
-            "title": "How we're helping the world prepare for natural disasters",
-            "summary_kr": "구글은 지진 경보 시스템부터 홍수, 태풍, 산불 예측까지 AI 기술을 활용하여 전 세계 사람들이 자연재해에 선제적으로 대응할 수 있도록 돕는 위기 복원력 전략을 강화하고 있습니다.",
-            "summary_en": "Google is strengthening its global crisis resilience by leveraging AI-powered forecasting and alert systems for earthquakes, floods, cyclones, and wildfires to ensure proactive disaster preparedness.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1792069200000,
-            "date": "2026-10-15",
-            "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-            "summary_kr": "구글의 SynthID가 생성형 AI 콘텐츠에 보이지 않는 디지털 워터마크를 삽입해 투명성을 높인 공로를 인정받아 타임지 '2026년 최고의 발명품'에 선정되었습니다.",
-            "summary_en": "Google's SynthID has been named one of TIME's Best Inventions of 2026 for its role in enhancing transparency by embedding durable, invisible watermarks into AI-generated media.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792069200000,
-            "date": "2026-10-15",
-            "title": "Teaching students to think and learn through questions",
-            "summary_kr": "OpenAI는 교육자들이 AI를 효과적으로 활용해 학생들의 사고력과 학습을 도울 수 있도록 '교육자를 위한 AI' 과정과 '학습 모드(Study Mode)'를 새롭게 선보였습니다.",
-            "summary_en": "OpenAI has introduced a new 'AI for Educators' course and 'Study Mode' to help teachers leverage AI tools in fostering student critical thinking and active learning.",
-            "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
         }
     ]
 }

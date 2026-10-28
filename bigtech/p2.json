@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-10-27 20:20:49",
+    "last_update": "2026-10-28 20:38:20",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1792090800000,
+            "date": "2026-10-15",
+            "title": "Bringing GPT-Rosalind to academic research labs",
+            "summary_kr": "OpenAI가 생명과학 특화 모델인 'GPT-Rosalind'를 학계 연구실에 무상으로 제공하는 'Rosalind Academic Plan'을 출시하여 과학적 발견 가속화를 지원합니다.",
+            "summary_en": "OpenAI has launched the 'Rosalind Academic Plan,' providing academic labs with free access to its specialized life sciences model, GPT-Rosalind, to accelerate scientific discovery.",
+            "link": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792022400000,
+            "date": "2026-10-15",
+            "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+            "summary_kr": "설리번 앤 크롬웰은 OpenAI와 협력하여 자사의 법률 전문성과 최신 AI 추론 능력을 결합한 계약서 검토 도구 'Agreement Analyzer'를 개발해 업무 효율성을 높였습니다.",
+            "summary_en": "Sullivan & Cromwell has partnered with OpenAI to develop 'Agreement Analyzer,' an AI tool that integrates the firm's legal expertise with advanced reasoning capabilities to enhance complex contract review workflows.",
+            "link": "https://openai.com/index/sullivan-cromwell"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1792087260000,
+            "date": "2026-10-15",
+            "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+            "summary_kr": "NVIDIA의 Nemotron 3.5 Super VL은 멀티모달 추론과 툴 사용 능력을 갖춘 120B 파라미터 모델로, 기업 특화 워크플로우에서 뛰어난 효율성과 처리 성능을 제공합니다.",
+            "summary_en": "NVIDIA’s Nemotron 3.5 Super VL is a 120B-parameter multimodal model designed to enhance specialized enterprise workflows by integrating superior reasoning, tool use, and visual understanding with high-efficiency throughput.",
+            "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1792087201000,
+            "date": "2026-10-15",
+            "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+            "summary_kr": "메타가 엔비디아의 Blackwell Ultra GPU에 최적화된 816B 파라미터의 멀티모달 코딩 모델 'Muse Spark Open'을 공개하며, 1M 토큰의 긴 컨텍스트 윈도우와 에이전트 기반 워크플로우를 통한 차세대 개발 생산성 혁신을 제시했습니다.",
+            "summary_en": "Meta has introduced 'Muse Spark Open,' an 816B parameter multimodal model optimized for NVIDIA Blackwell Ultra, featuring a 1M token context window to enable advanced agentic coding workflows and sustained multi-step development tasks.",
+            "link": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1792087200000,
+            "date": "2026-10-15",
+            "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+            "summary_kr": "구글 퀀텀 AI는 '매직 스테이트 배양' 기술을 통해 윌로우 프로세서의 오류를 40배 줄이며 양자 컴퓨팅의 핵심 자원 병목 현상을 해결했습니다.",
+            "summary_en": "Google Quantum AI has overcome a critical quantum computing bottleneck by using 'magic state cultivation' to achieve a 40-fold reduction in errors on its Willow processor.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1792083211000,
+            "date": "2026-10-15",
+            "title": "What will new developers do when AI writes the code?",
+            "summary_kr": "마이크로소프트와 카네기 멜론 대학은 AI 시대에 주니어 개발자가 단순 코딩을 넘어 시스템 사고와 판단력을 갖춘 시니어 엔지니어로 성장할 수 있도록 'PRAISE' 멘토링 프로그램을 도입했습니다.",
+            "summary_en": "Microsoft and Carnegie Mellon University launched the 'PRAISE' program to transition junior developers into senior engineers by fostering critical systems thinking and judgment in an AI-driven coding environment.",
+            "link": "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1792080000000,
+            "date": "2026-10-15",
+            "title": "How we're helping the world prepare for natural disasters",
+            "summary_kr": "구글은 지진 경보 시스템부터 홍수, 태풍, 산불 예측까지 AI 기술을 활용하여 전 세계 사람들이 자연재해에 선제적으로 대응할 수 있도록 돕는 위기 복원력 전략을 강화하고 있습니다.",
+            "summary_en": "Google is strengthening its global crisis resilience by leveraging AI-powered forecasting and alert systems for earthquakes, floods, cyclones, and wildfires to ensure proactive disaster preparedness.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1792069200000,
+            "date": "2026-10-15",
+            "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+            "summary_kr": "구글의 SynthID가 생성형 AI 콘텐츠에 보이지 않는 디지털 워터마크를 삽입해 투명성을 높인 공로를 인정받아 타임지 '2026년 최고의 발명품'에 선정되었습니다.",
+            "summary_en": "Google's SynthID has been named one of TIME's Best Inventions of 2026 for its role in enhancing transparency by embedding durable, invisible watermarks into AI-generated media.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792069200000,
+            "date": "2026-10-15",
+            "title": "Teaching students to think and learn through questions",
+            "summary_kr": "OpenAI는 교육자들이 AI를 효과적으로 활용해 학생들의 사고력과 학습을 도울 수 있도록 '교육자를 위한 AI' 과정과 '학습 모드(Study Mode)'를 새롭게 선보였습니다.",
+            "summary_en": "OpenAI has introduced a new 'AI for Educators' course and 'Study Mode' to help teachers leverage AI tools in fostering student critical thinking and active learning.",
+            "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1792022400000,
@@ -819,87 +900,6 @@
             "summary_kr": "OpenAI는 모델의 내부 추론 과정을 무단으로 추출하려는 대규모 '적대적 증류(adversarial distillation)' 공격을 적발하여 차단했으며, 이를 업계와 공유하여 AI 보안 방어 체계를 강화하고 있습니다.",
             "summary_en": "OpenAI has identified and disrupted a large-scale adversarial distillation campaign aimed at extracting protected internal reasoning, sharing findings with industry partners to strengthen collective AI security defenses.",
             "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790762400000,
-            "date": "2026-09-30",
-            "title": "Helping small businesses put AI to work",
-            "summary_kr": "OpenAI는 미국 SBDC와 파트너십을 맺고 중소기업 경영자를 위한 AI 교육 및 컨설팅을 제공하여 비즈니스 효율성을 극대화하도록 지원합니다.",
-            "summary_en": "OpenAI has partnered with America’s SBDC to provide AI training and consulting for small businesses, empowering them to enhance operational efficiency and scale their capabilities.",
-            "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790726400000,
-            "date": "2026-09-30",
-            "title": "What work can robots do?",
-            "summary_kr": "현재 로봇은 전체 육체 노동의 74%를 수행할 수 있으나 높은 비용과 기술적 제약으로 인해 실제 비용 경쟁력을 갖춘 업무는 0.3%에 불과하며, 완전한 자동화까지는 상당한 시간이 소요될 전망입니다.",
-            "summary_en": "While robots can technically perform 74% of physical tasks, high costs and technological barriers limit their current cost-competitive reach to just 0.3% of jobs, suggesting a long road to widespread automation.",
-            "link": "https://www.anthropic.com/research/what-work-can-robots-do"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790709051000,
-            "date": "2026-09-29",
-            "title": "AI Native by Design: Lessons Learned from Building NVIDIA TensorRT Model Connect",
-            "summary_kr": "NVIDIA TensorRT Model Connect는 AI 에이전트의 생산성을 극대화하기 위해 작업을 수평적으로 분할하고 철저한 자동 검증 시스템을 도입하는 'AI 네이티브' 설계 철학을 제시합니다.",
-            "summary_en": "NVIDIA TensorRT Model Connect introduces an 'AI-native' development philosophy that maximizes agent productivity through horizontally scalable tasks and rigorous automated validation frameworks.",
-            "link": "https://developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790706909000,
-            "date": "2026-09-29",
-            "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3",
-            "summary_kr": "NVIDIA VSS Blueprint 3.3은 새로운 비전 에이전트 구축 기능과 적응형 효율적 영상 샘플링(EVS) 기술을 도입하여 시각적 AI 에이전트의 개발 시간과 운영 비용을 획기적으로 절감합니다.",
-            "summary_en": "NVIDIA VSS Blueprint 3.3 significantly reduces the development time and operational costs of visual AI agents by introducing a new vision agent building skill and Adaptive Efficient Video Sampling (EVS) technology.",
-            "link": "https://developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790698474000,
-            "date": "2026-09-29",
-            "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-            "summary_kr": "마이크로소프트가 생물학의 복잡성을 통합적으로 해석하고 연구자와 도구, 데이터를 연결해 과학적 발견을 가속화하는 AI 시스템 'Quine'을 공개했습니다.",
-            "summary_en": "Microsoft has introduced Quine, an AI research system that integrates multimodal biological models with scientific tools and literature to accelerate discovery by addressing the inherent complexity of biological systems.",
-            "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790689915000,
-            "date": "2026-09-29",
-            "title": "New Microsoft data innovations unlock what only your business knows - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 기업 고유의 데이터와 비즈니스 맥락을 AI에 결합하는 'Fabric IQ'를 통해, 조직이 신뢰할 수 있는 데이터를 바탕으로 AI 성과를 극대화할 수 있도록 지원합니다.",
-            "summary_en": "Microsoft is launching 'Fabric IQ' to integrate unique organizational data and business context into AI, enabling companies to maximize AI performance based on trusted, governed business intelligence.",
-            "link": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790676000000,
-            "date": "2026-09-29",
-            "title": "DevDay 2026 Recap",
-            "summary_kr": "OpenAI의 DevDay 2026은 자율적인 작업을 수행하는 'Dots' 에이전트와 고성능 모델인 'GPT-6.1 Sol'을 중심으로 인간과 AI의 협업 체계를 확장하고 개발자 생태계를 대폭 강화했습니다.",
-            "summary_en": "At DevDay 2026, OpenAI introduced autonomous 'Dots' agents and the high-performance 'GPT-6.1 Sol' model, significantly expanding human-AI collaboration and developer ecosystem capabilities.",
-            "link": "https://openai.com/index/devday-2026-recap"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790676000000,
-            "date": "2026-09-29",
-            "title": "Introducing GPT-6.1 Sol",
-            "summary_kr": "GPT-6.1 Sol은 GPT-6 Astra급의 고성능을 유지하면서 비용을 5분의 1로 대폭 낮추어, 코딩 및 복잡한 업무 자동화 분야에서 가성비를 극대화한 모델입니다.",
-            "summary_en": "GPT-6.1 Sol offers near-Astra level intelligence for agentic coding and professional tasks at one-fifth the cost, significantly improving efficiency for complex business workflows.",
-            "link": "https://openai.com/index/introducing-gpt-6-1-sol"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790640000000,
-            "date": "2026-09-29",
-            "title": "What do you want from AI?",
-            "summary_kr": "앤스로픽은 AI의 혜택과 위험에 대한 사회적 합의를 이끌어내기 위해 사용자의 경험과 의견을 수집하는 설문 프로젝트를 시작하며, 이를 통해 향후 AI 개발 및 정책 수립에 대중의 목소리를 반영하고자 합니다.",
-            "summary_en": "Anthropic has launched an initiative to gather public feedback on AI experiences, aiming to incorporate diverse user perspectives into future AI development and policy-making.",
-            "link": "https://www.anthropic.com/research/your-thoughts-on-ai"
         }
     ]
 }
