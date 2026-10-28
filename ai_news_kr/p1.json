@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-27 19:57:40",
+    "last_update": "2026-10-28 09:28:17",
     "articles": [
+        {
+            "title": "[AI는 지금] 앤트로픽, AI 공급 넘어 직접 신약 연구…바이오 공략 속도 - 지디넷코리아",
+            "summary_kr": "앤트로픽은 자사 AI '클로드'의 성능 고도화와 신약 개발 역량 입증을 위해 바이오 기업 '미스릴 메디슨'을 인수하고 제약사와 협력하며 실무 데이터를 확보하고 있습니다. 이러한 행보는 클로드가 사무 업무를 넘어 고도의 전문 연구 영역에서도 활용 가능함을 투자자에게 입증하여, 최근 추진 중인 기업공개(IPO) 성공의 핵심 근거로 삼으려는 전략입니다.",
+            "link": "https://zdnet.co.kr/view/?no=20261028165306",
+            "timestamp": 1793174176000,
+            "date": "2026-10-28"
+        },
+        {
+            "title": "\"오픈AI도 구글 AI칩 TPU 구매 추진…엔비디아 독주 흔들까\" - 뉴시스",
+            "summary_kr": "오픈AI가 연산 자원 확보와 공급처 다변화를 위해 그간 의존해 온 엔비디아 대신 구글의 자체 AI 칩인 'TPU' 도입을 추진하고 있습니다. 구글 역시 오라클에 TPU를 재임대하는 등 생태계를 확장하고 있어, 향후 AI 반도체 시장 내 엔비디아의 독점적 지위와 가격 결정력이 점진적인 변화를 맞이할 전망입니다.",
+            "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261028_0003844594",
+            "timestamp": 1793164208000,
+            "date": "2026-10-28"
+        },
+        {
+            "title": "[AI는 지금] 구글, 로봇 훈련할 가상세계 만든다…월드모델 '지니4' 공개 - 지디넷코리아",
+            "summary_kr": "구글 딥마인드가 공개한 월드모델 '지니4'는 실시간으로 영상과 소리를 생성해 영화·게임 제작 및 로봇 훈련을 위한 가상 환경을 구현합니다. 특히 '제미나이' 모델과 결합하여 로봇의 행동 계획을 수립하고 가상 공간에서 사전 검증함으로써, 향후 범용인공지능(AGI) 개발을 위한 핵심 시뮬레이션 도구로 활용될 예정입니다.",
+            "link": "https://zdnet.co.kr/view/?no=20261028081116",
+            "timestamp": 1793145284000,
+            "date": "2026-10-27"
+        },
         {
             "title": "메타, 엔비디아 독점 허물고 AMD ‘인스틴크트’ 전격 채택… AI 반도체 다변화 가속 - 테크데일리",
             "summary_kr": "메타는 엔비디아 의존도를 낮추고 AI 인프라 비용을 절감하기 위해 AMD의 ‘인스틴크트 MI300X’를 전격 도입했습니다. 대용량 HBM3를 탑재한 AMD 칩은 메타의 오픈소스 모델 ‘라마’의 추론 효율을 극대화하며, 파이토치 기반의 생태계 확장과 맞물려 기술 주권 확보의 전략적 요충지가 될 전망입니다.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rbllnUWNwZFNyR3JFZWJQNEFjS2F2bW9Jc1o0OElkNmUwY1IyTUE1S3lNT01PcVFpeFNCLTV1SlhYMzU0VkdabVA0MmNtc2tSRDNzZGRDRi0yc2x4eC1MbGJlNlJMdFVjRktVbmFvdw?oc=5",
             "timestamp": 1790413500000,
             "date": "2026-09-26"
-        },
-        {
-            "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 연내 출범 추진 - AI타임스",
-            "summary_kr": "구글, 오픈AI, 앤트로픽 등 주요 AI 기업들이 인공지능 기술의 안전성과 윤리적 책임을 강화하기 위한 자율 규제 기구인 'SAFA'를 연내 출범할 계획입니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MMG5TVEh0T05PbjQwd2FzRFJOM05JYmFGbzFlekFuSWFTb05DOW9Ga2dYV0ZLUERKZGNEZjQtcHFWb1V4WkpsNjdRTWZaenNYRi02TUVZYkM1aUQtaEdhR190NjRTLXgtQUE?oc=5",
-            "timestamp": 1790334772000,
-            "date": "2026-09-25"
-        },
-        {
-            "title": "\"앱 열지 말고 AI에 시켜라\" MS 코파일럿, AI 운영체제로 - Hankookilbo",
-            "summary_kr": "마이크로소프트가 코파일럿을 단순한 도구에서 차세대 AI 운영체제로 격상시켜, 사용자가 개별 앱을 실행하지 않고도 AI가 직접 작업을 수행하는 사용자 경험을 구현하고자 합니다.",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BSFpTTlczVnpOS1Q4Q0drNmIzZjZaZUk4QzMyYzZwdllvQWZPX0FDUkxTLTA0TWJhZEx5cE9fbGdOYTlMVlJ6M25PdFlCS25IT3JSYTItcWkyRWlKZ2RzZV9UaEVZX055QmpTbnV30gFzQVVfeXFMUDB6V2hCb05fUzZMNWhfT3UzSmNvYWIxR0tMRVJiOXp3Wjlnd0tOcGNFeWk0cGdLaW1ncXJwakJic3pVaVRzcHdyclpETlJlV3Z4aUpQbVdVUTZqb25URVFyQzhYMTdRSlZDRFgtZTJVRmlYUQ?oc=5",
-            "timestamp": 1790337600000,
-            "date": "2026-09-25"
-        },
-        {
-            "title": "젠슨 황 \"통제 불가능한 AI 연구소, 규제 아닌 폐쇄해야\" - AI타임스",
-            "summary_kr": "엔비디아의 젠슨 황 CEO가 안전 기준을 준수하지 않거나 통제가 불가능한 AI 연구소에 대해, 단순한 규제를 넘어 즉각적인 폐쇄 조치를 취해야 한다는 강경한 입장을 밝혔습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUld3aVZITlFZZDdNdmRUVTd0U21vNGtzMGZjZXV0UGZaaHlYNVl1Rm1RLUhrOENwdGI2SHd3MVF6NmNfWmU3a19xbEFwSlJSN1QwSDRtLWNzemx2Uk8zeVhGdENCblEyTUE?oc=5",
-            "timestamp": 1790343398000,
-            "date": "2026-09-25"
         }
     ]
 }

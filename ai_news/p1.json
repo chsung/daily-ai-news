@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-27 19:58:29",
+    "last_update": "2026-10-28 09:30:31",
     "articles": [
+        {
+            "title": "Anthropic lays out drug R&D ambitions, risks in mammoth IPO filing - Fierce Biotech",
+            "summary_en": "In its recent IPO filing, Anthropic announced plans to pivot beyond software by building its own molecular biology lab and deploying AI agents to operate laboratory equipment. The company aims to leverage its 'Powerful AI' to accelerate drug discovery, though it acknowledges significant scientific and operational risks in this strategic expansion.",
+            "link": "https://www.fiercebiotech.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing",
+            "timestamp": 1793029474000,
+            "date": "2026-10-26"
+        },
+        {
+            "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering | TechCrunch - TechCrunch",
+            "summary_en": "Google DeepMind has introduced Genie 4, a world model capable of generating photorealistic, interactive environments with real-time audio and physics-based interactions. The model, now in research preview, integrates with Gemini to support advanced use cases like robotic simulation and rapid creative prototyping.",
+            "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
+            "timestamp": 1793118657000,
+            "date": "2026-10-27"
+        },
+        {
+            "title": "OpenAI Plans to Buy Google AI Chips to Further Diversify Compute Strategy as Nvidia Faces New Competition - TradingKey",
+            "summary_en": "OpenAI is in talks to purchase Google’s Tensor Processing Units (TPUs) as part of a broader strategy to diversify its infrastructure beyond Nvidia and reduce rising computing costs. This move, coupled with its collaboration with Broadcom on custom 'Jalapeno' chips, signals a significant shift toward a multi-vendor hardware ecosystem.",
+            "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262245456-openai-plans-purchase-google-ai-chips-nvidia-competition-tradingkey",
+            "timestamp": 1793167965000,
+            "date": "2026-10-28"
+        },
         {
             "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says - Al Jazeera",
             "summary_en": "OpenAI announced that its AI models have achieved significant scientific breakthroughs, including proving the local smoothing conjecture in harmonic analysis and providing rigorous proof for quantum chromodynamics. These findings, verified by external experts, demonstrate the potential for AI to rapidly accelerate discoveries in complex fields like mathematics, physics, and computer science.",
@@ -679,27 +700,6 @@
             "link": "https://njbiz.com/novo-anthropic-ai-partnership",
             "timestamp": 1789766591000,
             "date": "2026-09-18"
-        },
-        {
-            "title": "Anthropic is operating a lab that conducts biology experiments | TechCrunch - TechCrunch",
-            "summary_en": "Anthropic has confirmed the operation of a Bay Area-based wet biology lab aimed at conducting fundamental physical experiments to enhance its AI models' understanding of life sciences. Despite company claims that the facility is not focused on drug discovery, the initiative has sparked industry concern regarding the safety of AI-driven biological research.",
-            "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
-            "timestamp": 1789773211000,
-            "date": "2026-09-18"
-        },
-        {
-            "title": "OpenAI Launches AI System Designed for Legal Research and Law Firm Work - - - MSME Africa",
-            "summary_en": "OpenAI has introduced Astra for Law, a specialized system powered by GPT-6 that integrates a legal index of over 230 million URLs to assist firms with complex research, drafting, and analysis. The tool demonstrated significant performance gains in legal reasoning benchmarks and is currently being deployed to select partners with strict data privacy controls.",
-            "link": "https://msmeafricaonline.com/openai-launches-ai-system-designed-for-legal-research-and-law-firm-work",
-            "timestamp": 1789820055000,
-            "date": "2026-09-19"
-        },
-        {
-            "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development - Politico",
-            "summary_en": "Major AI developers including Anthropic, OpenAI, xAI, and Google are facing legal action over their public calls to 'pace' or regulate the development of artificial intelligence technologies.",
-            "link": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-            "timestamp": 1789779840000,
-            "date": "2026-09-19"
         }
     ]
 }
