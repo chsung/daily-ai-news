@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-28 20:10:40",
+    "last_update": "2026-10-29 09:41:51",
     "articles": [
+        {
+            "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development - ServiceNow Newsroom",
+            "summary_en": "ServiceNow and OpenAI are expanding their partnership to integrate generative AI directly into corporate workflows, enabling users to execute governed actions and security tasks within ChatGPT. This collaboration also involves the creation of a 'Control Tower Alliance' to standardize AI governance and security across enterprise environments.",
+            "link": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-and-OpenAI-accelerate-enterprise-AI-from-models-and-operations-to-cybersecurity-and-agentic-development/default.aspx",
+            "timestamp": 1793218262000,
+            "date": "2026-10-28"
+        },
+        {
+            "title": "Claude AI Builds One-Click Chrome and 0-Click Linux Exploit Chains, Bypasses Android Lock Screen - CyberSecurityNews",
+            "summary_en": "Due to a technical connection error, specific details regarding the reported cybersecurity vulnerabilities—including the alleged exploitation of Chrome, Linux, and Android systems by Claude AI—could not be retrieved.",
+            "link": "https://cybersecuritynews.com/claude-ai-builds-exploit",
+            "timestamp": 1793190759000,
+            "date": "2026-10-28"
+        },
+        {
+            "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure - Oracle",
+            "summary_en": "NVIDIA and Oracle are scaling Oracle Cloud Infrastructure (OCI) to multi-gigawatt levels by deploying NVIDIA Vera Rubin systems and Vera CPUs. This infrastructure allows enterprises to scale CPU and GPU resources independently, optimizing performance for both heavy model training and the intensive processing required for AI agents.",
+            "link": "https://www.oracle.com/news/announcement/ai-world-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-2026-10-27",
+            "timestamp": 1793117495000,
+            "date": "2026-10-27"
+        },
         {
             "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs - The Decoder",
             "summary_en": "Google has expanded Android Studio with 'Bring Your Own Agent' support for over 40 coding assistants and new CLI tools that utilize Android Skills to improve development efficiency. Internal testing revealed that these AI integrations helped agents complete UI tasks 77 percent faster while significantly reducing token consumption.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2pUX09kcDhzYlJjTEg3elRmRFhkUGI5ckZMZ3A2T3gydlNxRWRGQ3lRTHJYemNRUzFiYVlvNm90S3lPbUFEaEM0aWpHT3Z3aVB3Q3RsNURrRXM2VjBDRGZaeDBqSS10ZTFqVkFmSUJYOGVDZ1Z0U1BOaEJyOWdLOU9NLVBEeUlUS1IxaHdfblRVd3BhWVdUaDR5WnA?oc=5",
             "timestamp": 1789903731000,
             "date": "2026-09-20"
-        },
-        {
-            "title": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’ - Tom's Hardware",
-            "summary_en": "Major AI developers including OpenAI and Anthropic are facing a class-action lawsuit alleging that a coordinated agreement to slow development constitutes illegal antitrust activity. Plaintiffs argue these companies are prioritizing self-serving industry control over the value and progress promised to consumers.",
-            "link": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
-            "timestamp": 1789915737000,
-            "date": "2026-09-20"
-        },
-        {
-            "title": "Nvidia’s Nemotron hit enterprise AI inflection point - Constellation Research",
-            "summary_en": "Nvidia’s open-weight Nemotron models are becoming the industry standard for enterprises seeking cost-effective, private, and customizable AI solutions. Major vendors like Salesforce and Palantir are increasingly integrating these models to ensure data sovereignty and improve performance efficiency over closed-source alternatives.",
-            "link": "https://www.constellationr.com/insights/news/nvidias-nemotron-hit-enterprise-ai-inflection-point",
-            "timestamp": 1789903731000,
-            "date": "2026-09-20"
-        },
-        {
-            "title": "Anthropic opens AI-powered biology research lab - SiliconANGLE",
-            "summary_en": "Anthropic has launched a dedicated biology wet lab in the San Francisco Bay Area that utilizes AI-controlled robotics to automate scientific research. By leveraging its Model Hardware Standard (MHS) protocol, the company aims to enhance protein design efficiency and explore biological phenomena, potentially licensing findings to pharmaceutical partners.",
-            "link": "https://siliconangle.com/2026/09/18/anthropic-opens-ai-powered-biology-research-lab",
-            "timestamp": 1789762500000,
-            "date": "2026-09-18"
         }
     ]
 }
