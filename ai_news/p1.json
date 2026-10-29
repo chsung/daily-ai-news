@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-29 09:41:51",
+    "last_update": "2026-10-29 20:08:18",
     "articles": [
+        {
+            "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’ - WIRED",
+            "summary_en": "OpenAI and Anthropic have reportedly disproved the 27-year-old exponential time hypothesis, potentially rendering significant portions of theoretical computer science research obsolete. While the proofs await independent verification, the rapid pace of AI-driven scientific discovery is causing widespread professional disruption and psychological distress within the academic community.",
+            "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant",
+            "timestamp": 1793270700000,
+            "date": "2026-10-29"
+        },
+        {
+            "title": "Anthropic buys Mithril to test AI-assisted drug development - The Pharma Letter",
+            "summary_en": "Anthropic has acquired the drug discovery startup Mithril to leverage artificial intelligence for the development of new pharmaceutical treatments.",
+            "link": "https://www.thepharmaletter.com/biotech-news/anthropic-buys-mithril-to-test-ai-assisted-drug-development",
+            "timestamp": 1793268912000,
+            "date": "2026-10-29"
+        },
+        {
+            "title": "FIA brings AWS technology into future F1 rule development - Grandprix.com",
+            "summary_en": "The FIA has partnered with Amazon Web Services to utilize cloud computing and AI-powered aerodynamic simulations to test and refine future Formula 1 technical regulations. This collaboration aims to enhance the governing body's ability to assess safety, performance, and sustainability impacts before physical vehicle components are constructed.",
+            "link": "https://www.grandprix.com/news/fia-brings-aws-technology-into-future-f1-rule-development.html",
+            "timestamp": 1793191140000,
+            "date": "2026-10-28"
+        },
         {
             "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development - ServiceNow Newsroom",
             "summary_en": "ServiceNow and OpenAI are expanding their partnership to integrate generative AI directly into corporate workflows, enabling users to execute governed actions and security tasks within ChatGPT. This collaboration also involves the creation of a 'Control Tower Alliance' to standardize AI governance and security across enterprise environments.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
             "timestamp": 1789855500000,
             "date": "2026-09-19"
-        },
-        {
-            "title": "Google 뉴스 - Tom's Hardware",
-            "summary_en": "Google is navigating a shifting landscape in the tech industry, facing continued scrutiny and competition as it integrates advanced AI across its search and hardware ecosystem.",
-            "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWkxCQWN6Yl9tc3JjbVlLUGg1S1diMFM4RHhTYS1nQkRUTWdxQjloeW1LR2oxY1NUSjFBZkV0WWd1ZzRSV1FJeUltaE5jNjFLVC1UTGhDVEFyc2g0Q0NFaFZBOW9vOHNsVkU3eU1XRU41Z1ViaFhFSkp2YjdXLWhyUEhMVTRLNHlIcHRPS3M4YVJxSVl0R0F5YWhLYmRVV3ZYUzQyQWhlLTdVeUJQcHRBMGVVc0NkbkoyUU1uNWc1cVpuc1FaNHd3d2xjSkdqWjQ5Z2ZiWElldXNRUlQtalJjdk95cGNPM1RyWjdoczdQQlNmaWpkNERqR2p6Vi1KQ2RxZUlLcjJUaVhrSlZzNWtPVmFBbGFwdXFKX0JRUW5oaEFHRWttZDdWZkhUelI4N0R5QzIwNjJLc3F0TF82SUhyX1pCd1FDWVlTWndjcGZkeUtsMUU?oc=5",
-            "timestamp": 1789915737000,
-            "date": "2026-09-20"
-        },
-        {
-            "title": "Google 뉴스 - infoq.com",
-            "summary_en": "InfoQ continues to provide critical technical analysis and architectural insights into the rapidly evolving landscape of enterprise-grade AI software development.",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xd2FRVWExLU9xc0RKT0QwREJXak1PbTlqM00zTXM0cmF6SG55RWlXYmNqVzdmaE1mcnMtaUdnU0R6ajRlSVFzV05DWXJqT0VOM0o4ME85VmhJRkFRbkI3bDdiVF9wMU1DYnF3?oc=5",
-            "timestamp": 1789898999000,
-            "date": "2026-09-20"
-        },
-        {
-            "title": "Nvidia’s Nemotron hit enterprise AI inflection point - Constellation Research",
-            "summary_en": "Nvidia’s Nemotron model represents a pivotal shift for enterprise AI, offering organizations a more efficient path toward deploying custom, high-performance generative applications.",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2pUX09kcDhzYlJjTEg3elRmRFhkUGI5ckZMZ3A2T3gydlNxRWRGQ3lRTHJYemNRUzFiYVlvNm90S3lPbUFEaEM0aWpHT3Z3aVB3Q3RsNURrRXM2VjBDRGZaeDBqSS10ZTFqVkFmSUJYOGVDZ1Z0U1BOaEJyOWdLOU9NLVBEeUlUS1IxaHdfblRVd3BhWVdUaDR5WnA?oc=5",
-            "timestamp": 1789903731000,
-            "date": "2026-09-20"
         }
     ]
 }

@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-10-29 09:41:02",
+    "last_update": "2026-10-29 20:07:20",
     "articles": [
+        {
+            "title": "메타 에이전트 ‘뮤즈’ 확산세 무섭다…구독 해지·쇼핑·예약·결제까지 직접 수행 [AI 클로즈업] - 디지털데일리",
+            "summary_kr": "메타가 개발한 AI 에이전트 '뮤즈'가 구독 관리부터 쇼핑, 예약, 결제까지 사용자의 일상 업무를 직접 수행하며 서비스 영역을 빠르게 확장하고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DclJVTXJoQ3QwMmFDQzU1QXAwREVxRGpsWklVN2tyS0QyMHZXa25tUTc3blBvNWZ3Yi1pUnNlUlF4V2IxUHBhX1ZqVXpKdnludno4cUpsbDFxc0g3ZWRtdzdQTXA?oc=5",
+            "timestamp": 1790629200000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "엔비디아, AI 에이전트 보안 플랫폼 공개…\"속도조절 대신 기술\" - 마켓인",
+            "summary_kr": "엔비디아가 AI 에이전트의 보안을 강화하는 전용 플랫폼을 새롭게 공개하며, 기술적 고도화를 통해 시장 경쟁력을 지속하겠다는 의지를 밝혔습니다.",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OOFRLZmtLQ0pLMjlCMExTN1V6SzRXV3FJQmppX0hZbkZycXNnWFhOWUVEMXRPdldlMVJGTkhZLXh6LXJKSS00Ni1zdUFMM2pZVkxCLXZDa3pnRlFVV3l4ZnJlTFBnY24yVXN6bE1rZkthNTA?oc=5",
+            "timestamp": 1790590328000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "오픈AI, ‘답하는 AI’ 다음은 ‘일하는 AI’…데브데이서 에이전트 승부수 - 아이티데일리",
+            "summary_kr": "오픈AI가 데브데이를 통해 기존의 질의응답형 모델을 넘어 실질적인 업무를 수행하는 에이전트 AI로 서비스 영역을 확장합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGU1R6V2o3bXhGSy02bHN1eUdhOHhRMEtUTGd0T21rZTVHOHFxcmpzQ0tfT3kwWXl4TlNXZFFuSkZ3MGk4X2ppQ1dRVWFyaXlOM2NjQmd0amdkTFdBVnkxdWZFQlNKcURh?oc=5",
+            "timestamp": 1790578979000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "빅파마는 AI에 수조원 베팅…국내 제약사 신약개발 성과는 - 머니투데이 - 머니투데이",
+            "summary_kr": "글로벌 제약사들이 신약 개발 효율화를 위해 AI 분야에 수조 원대 투자를 단행하는 가운데, 국내 제약업계의 관련 R&D 성과와 경쟁력 확보가 주목받고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yNThnWUo0Z1RRNGFxSE5qRFVXVUVzMGZGMEtJNkp5UnlGYTJPUVBsWm9TOUw1bGFrRnZFbDlGLThWUVpER0FCQXhmUUlPQkJRbnhwOG5MMnVmQXQ2dU1WNkR4azlfTGo5b0HSAW9BVV95cUxNMWZKdUFJWGVTeHc5NjBwZzJIWFVxSmNyRlhmMDJ5R25FOXNHaEs0OTlBaEJnZUFuMzl6WkVVRkhRV3RKbllJVnFidkU1Y0MtQUdJcjI1SDk1bFFmLVNkM2NYX2NrSkpoUEIyUUN1cHc?oc=5",
+            "timestamp": 1790581116000,
+            "date": "2026-09-28"
+        },
         {
             "title": "\"트럼프, 앤트로픽 CEO와 단독 만찬\"...AI 규제갈등 해빙 신호? - 머니투데이 - 머니투데이",
             "summary_kr": "트럼프 전 대통령과 앤트로픽 CEO의 만찬 회동을 계기로, 차기 정부의 AI 산업 규제 정책과 빅테크 기업 간의 갈등 완화 가능성이 제기되었습니다.",
@@ -672,34 +700,6 @@
             "link": "https://www.aitimes.com/news/articleView.html?idxno=215205",
             "timestamp": 1789267023000,
             "date": "2026-09-13"
-        },
-        {
-            "title": "2028년 엔비디아, 2029년 자체 '아트리아 AI'…현대차그룹, 자율주행 '투트랙' 양산 속도전 - 전자신문",
-            "summary_kr": "현대차그룹은 2028년 엔비디아 솔루션을 도입해 자율주행 양산을 시작하고, 2029년에는 독자 모델 '아트리아 AI'를 탑재하는 투트랙 전략을 발표했습니다. 연간 700만 대 이상의 양산 역량을 기반으로 데이터 플라이휠 체계를 구축해 자율주행 시장 내 학습 속도 경쟁력을 강화할 전망입니다.",
-            "link": "https://www.etnews.com/20260913000001",
-            "timestamp": 1789257600000,
-            "date": "2026-09-13"
-        },
-        {
-            "title": "구글, AI 도구 학습 '툴그래드' 공개...\"답부터 만들고 질문 붙여 성공률 99.8%\" - AI타임스",
-            "summary_kr": "구글이 도입한 데이터 생성 프레임워크 '툴그래드(ToolGrad)'는 정답 경로를 먼저 생성하는 방식으로 데이터 구축 성공률을 99.8%까지 끌어올렸습니다. 이를 통해 소규모 데이터만으로도 최상위 모델 수준의 도구 활용 능력을 확보하여 AI 에이전트의 효율성을 비약적으로 높였습니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=215188",
-            "timestamp": 1789201473000,
-            "date": "2026-09-12"
-        },
-        {
-            "title": "[딥마인드, 90억 개 인간 DNA 돌연변이 지도 완성]     대신 딥마인드는 자사 AI 모델 '알파게놈(AlphaGenome)'으로 이들의 분자적 영향을 예측했다. 딥마인드는:ainet - AI넷",
-            "summary_kr": "구글 딥마인드가 AI 모델 '알파게놈'을 활용해 인간 DNA 돌연변이 90억 개가 생물학적 과정에 미치는 영향을 예측한 '알파게놈 아틀라스'를 공개했습니다. 1페타바이트 규모의 이 지도는 'AVI 점수'를 통해 유해 변이를 선별함으로써 희귀질환 진단 및 개인 맞춤형 의학 연구의 효율을 획기적으로 개선할 전망입니다.",
-            "link": "http://www.ainet.link/28580",
-            "timestamp": 1789223910000,
-            "date": "2026-09-12"
-        },
-        {
-            "title": "GPT-6 Astra: 새로운 세대의 지능 - OpenAI",
-            "summary_kr": "오픈AI가 고도화된 컴퓨터 사용 능력과 전문 업무 처리 역량을 갖춘 GPT-6 Astra를 공개했습니다. 이 모델은 FrontierMath 등 주요 벤치마크에서 최고 수준의 성능을 입증했으며, 오늘부터 순차적으로 전 세계 사용자 및 기업용 API를 통해 제공될 예정입니다.",
-            "link": "https://openai.com/ko-KR/index/gpt-6-astra",
-            "timestamp": 1789194250000,
-            "date": "2026-09-12"
         }
     ]
 }
