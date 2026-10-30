@@ -1,6 +1,96 @@
 {
-    "last_update": "2026-10-29 20:43:17",
+    "last_update": "2026-10-30 20:13:38",
     "articles": [
+        {
+            "company": "Microsoft",
+            "timestamp": 1793382645000,
+            "date": "2026-10-30",
+            "title": "Estée Lauder Companies infuses AI across global operations with Microsoft cloud tools",
+            "summary_kr": "에스티 로더는 마이크로소프트의 클라우드 및 AI 도구를 도입해 데이터 플랫폼을 통합하고, 제품 혁신과 개인화된 고객 경험을 강화하는 전사적 디지털 전환을 추진합니다.",
+            "summary_en": "Estée Lauder is undergoing a digital transformation by leveraging Microsoft’s cloud and AI tools to unify its data platform, thereby accelerating product innovation and delivering personalized consumer experiences.",
+            "link": "https://news.microsoft.com/source/features/digital-transformation/estee-lauder-expands-ai-across-beauty-business"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1793379600000,
+            "date": "2026-10-30",
+            "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+            "summary_kr": "프로젝트 선캐처(Project Suncatcher)가 궤도 위 데이터 센터급 TPU에서 AI 모델을 성공적으로 구동하며, 우주 공간에서의 AI 컴퓨팅 성능 검증이라는 중요한 이정표를 달성했습니다.",
+            "summary_en": "Project Suncatcher has achieved a key milestone by successfully running an AI model on a data-center-class TPU in orbit, proving the feasibility of space-based AI computing.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793376000000,
+            "date": "2026-10-30",
+            "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+            "summary_kr": "NVIDIA NemoClaw는 오픈 블루프린트를 통해 기존 에이전트 하네스와 최적화된 모델, 보안 런타임을 결합하여 기업 환경에 적합한 신뢰성 높은 자율형 에이전트 구축을 지원합니다.",
+            "summary_en": "NVIDIA NemoClaw provides open blueprints to integrate existing agent harnesses with optimized models and secure runtimes, enabling the development of reliable, production-grade autonomous agents.",
+            "link": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793372496000,
+            "date": "2026-10-30",
+            "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+            "summary_kr": "NVIDIA는 GPUDirect Storage(GDS)의 구성을 간소화하고 최적화하기 위해 명령줄 도구 및 AI 에이전트 인터페이스를 제공하는 'gds-diag' 유틸리티를 소개했습니다.",
+            "summary_en": "NVIDIA introduced the 'gds-diag' utility, which provides both command-line and AI-agent interfaces to simplify and optimize the configuration and diagnostic process for GPUDirect Storage (GDS).",
+            "link": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793365528000,
+            "date": "2026-10-30",
+            "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence - Microsoft Research",
+            "summary_kr": "마이크로소프트는 기업 고객의 민감한 데이터를 보호하면서도 복잡한 실제 비즈니스 환경을 정밀하게 테스트하기 위해 공개 데이터를 기반으로 한 대규모 합성 데이터 평가 플랫폼을 구축했습니다.",
+            "summary_en": "Microsoft has developed a large-scale synthetic data evaluation platform, utilizing publicly available information to rigorously test enterprise AI performance without compromising sensitive customer data.",
+            "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793352600000,
+            "date": "2026-10-30",
+            "title": "Making it easier for websites to express AI training preferences",
+            "summary_kr": "OpenAI는 웹사이트 운영자가 AI 학습 데이터 활용 여부를 일괄적으로 설정할 수 있도록 robots.txt 내 통합 신호 체계를 도입합니다.",
+            "summary_en": "OpenAI is adopting a standardized robots.txt signal to allow website operators to easily manage AI training data preferences across multiple providers simultaneously.",
+            "link": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793350800000,
+            "date": "2026-10-30",
+            "title": "Community safety report and new protections for teens",
+            "summary_kr": "OpenAI는 커뮤니티 안전 보고서 발간을 통해 투명성을 강화하고, 청소년 보호를 위해 총기 관련 콘텐츠 제한 및 폭력 위험 감지 대응을 더욱 엄격하게 시행합니다.",
+            "summary_en": "OpenAI is enhancing transparency through a new Community Safety Report and tightening restrictions on firearm-related content and sensitive information to better protect minors and prevent violence.",
+            "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793232000000,
+            "date": "2026-10-29",
+            "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+            "summary_kr": "크레딧 세이손은 ChatGPT 엔터프라이즈 파일럿 프로젝트를 통해 954%의 투자 수익률(ROI)과 인당 월 14시간의 업무 시간 절감을 달성하며 전사적 도입을 성공적으로 이끌어냈습니다.",
+            "summary_en": "Credit Saison successfully scaled ChatGPT Enterprise companywide after a pilot program achieved a 954% ROI and saved 14 hours of work per employee each month.",
+            "link": "https://openai.com/index/credit-saison"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793125475000,
+            "date": "2026-10-27",
+            "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 '프론티어 트랜스포메이션(Frontier Transformation)' 전략을 통해 인간의 야망, 지능, 신뢰를 중심으로 AI를 단순한 생산성 도구가 아닌 비즈니스 가치를 창출하는 플랫폼으로 진화시키고 있습니다.",
+            "summary_en": "Microsoft is advancing 'Frontier Transformation' by positioning its AI stack as a comprehensive platform that drives business outcomes by integrating human ambition, intelligence, and trust.",
+            "link": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793122445000,
+            "date": "2026-10-27",
+            "title": "The AI advantage your company can keep | Microsoft Copilot Blog",
+            "summary_kr": "기업이 AI 에이전트를 효율적으로 운영하고 성과를 창출하려면 공유된 지식 체계인 '지식 중추(Knowledge Spine)'를 구축하여 에이전트의 학습 데이터를 조직적 자산으로 통합해야 합니다.",
+            "summary_en": "To gain an operational edge, enterprises must transition from manual agent coordination to a 'knowledge spine' architecture that transforms AI-driven lessons into scalable, proprietary organizational intelligence.",
+            "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1793293200000,
@@ -810,96 +900,6 @@
             "summary_kr": "Anthropic이 공개한 '모델 하드웨어 표준(MHS)'은 파편화된 연구 및 제조 장비를 통합하여 AI 에이전트가 복잡한 물리적 작업을 자율적으로 수행할 수 있도록 지원하는 범용 표준입니다.",
             "summary_en": "Anthropic's 'Model Hardware Standard (MHS)' provides a universal framework to integrate fragmented research and manufacturing equipment, enabling AI agents to autonomously orchestrate complex physical tasks.",
             "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787788800000,
-            "date": "2026-08-27",
-            "title": "Expanding our support for scientists",
-            "summary_kr": "앤스로픽은 과학 연구 가속화를 위해 1만 명의 연구자에게 Claude 구독 할인을 제공하고 'AI for Science' 프로그램을 전 분야로 확대합니다.",
-            "summary_en": "Anthropic is expanding its support for the scientific community by offering 10,000 discounted Claude subscriptions and broadening its 'AI for Science' program across all research fields.",
-            "link": "https://www.anthropic.com/news/expanding-support-for-scientists"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787616000000,
-            "date": "2026-08-25",
-            "title": "Funding better evaluations of AI’s impact on wellbeing",
-            "summary_kr": "AI 기업이 사용자의 웰빙에 미치는 영향을 독립적으로 연구할 수 있도록 500만 달러 규모의 보조금 프로그램을 출범하며, 오픈소스 평가 기준 구축을 지원합니다.",
-            "summary_en": "The company is launching a $5 million grant program to fund independent, open-source research aimed at establishing rigorous evaluation standards for how AI models impact user wellbeing.",
-            "link": "https://www.anthropic.com/news/wellbeing-research-grants"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1792429200000,
-            "date": "2026-10-19",
-            "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
-            "summary_kr": "제인 스트릿과 NVIDIA는 파이썬 기반의 GPU 프로그래밍 모델인 cuTile을 활용해 Mamba-2 모델의 연산을 최적화하고 텐서 코어 효율성을 극대화했습니다.",
-            "summary_en": "Jane Street and NVIDIA optimized the Mamba-2 model by leveraging cuTile, a Python-based GPU programming model that enables high-performance kernel development and maximizes Tensor Core utilization.",
-            "link": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1792419030000,
-            "date": "2026-10-19",
-            "title": "Securing the agentic insider - The Official Microsoft Blog",
-            "summary_kr": "기업 내 AI 에이전트의 자율성과 예측 불가능성이 새로운 보안 위협인 '에이전트 내부자' 문제를 야기함에 따라, 마이크로소프트는 실시간 감독과 제어를 수행하는 '가디언 에이전트' 기반의 Project Perception을 통해 이를 해결하고자 합니다.",
-            "summary_en": "As the autonomy and unpredictability of enterprise AI agents create risks from 'agentic insiders,' Microsoft is addressing these threats through Project Perception, which utilizes 'Guardian Agents' to provide real-time, continuous supervision and control.",
-            "link": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792281600000,
-            "date": "2026-10-18",
-            "title": "Investing in the public benefit",
-            "summary_kr": "앤스로픽은 기업 성장에 따라 지분 출연 규모가 확대되는 '앤스로픽 공익 펀드'를 설립하여 AI가 가져올 사회적 변화에 대응하고 공익적 가치를 실현하고자 합니다.",
-            "summary_en": "Anthropic has established the 'Anthropic Public Benefit Fund,' which scales its equity contributions alongside company growth to proactively address AI-driven societal impacts and advance the public good.",
-            "link": "https://www.anthropic.com/news/public-benefit-fund"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1792178004000,
-            "date": "2026-10-16",
-            "title": "How AI is Helping Formula One Teams Win | Signal magazine",
-            "summary_kr": "포뮬러 원 레이스 전략가들은 실시간 데이터와 AI 시뮬레이션을 활용해 타이어 선택과 피트스톱 타이밍 등 변수가 많은 경기 상황에서 승리를 위한 최적의 결정을 내립니다.",
-            "summary_en": "Formula 1 race strategists leverage real-time data and AI simulations to make critical decisions, such as tire selection and pit stop timing, to secure a competitive edge in highly unpredictable race conditions.",
-            "link": "https://news.microsoft.com/microsoft-signal/magazine/issue/06/the-winning-formula-formula-one-data-ai-microsoft-interview"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792177200000,
-            "date": "2026-10-16",
-            "title": "How Itaú is building generative AI for its entire customer base",
-            "summary_kr": "브라질 최대 은행 이타우(Itaú)는 생성형 AI 기반의 대화형 인터페이스 'ia.i'와 거버넌스 플랫폼 'IARA'를 도입해 고객에게 개인화된 금융 서비스를 제공하고 운영 효율성을 극대화하고 있습니다.",
-            "summary_en": "Itaú is leveraging its generative AI-powered conversational interface 'ia.i' and the 'IARA' governance platform to deliver hyper-personalized financial experiences at scale while optimizing operational efficiency.",
-            "link": "https://openai.com/index/itau-generative-ai"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "The AI expectations gap",
-            "summary_kr": "AI 산업 종사자들과 일반 대중은 현재의 AI 성능에 대해서는 의견을 같이하지만, 향후 기술 발전 속도와 업무 자동화 범위에 대해서는 산업 종사자들이 훨씬 더 낙관적이고 급진적인 전망을 보이고 있습니다.",
-            "summary_en": "While AI industry professionals and the general public agree on current AI capabilities, the former hold significantly more aggressive expectations regarding the pace of future advancements and the extent of job automation.",
-            "link": "https://www.anthropic.com/research/ai-expectations-gap"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "How employment is changing at Anthropic",
-            "summary_kr": "앤스로픽은 AI 에이전트가 인간보다 6배 더 많은 업무를 수행함에 따라 주니어 개발직 채용을 줄이고, 기술적 숙련도보다 인간의 판단력과 자율성을 중시하는 방향으로 채용 기준을 재편하고 있습니다.",
-            "summary_en": "As AI agents perform six times more work than humans at Anthropic, the company has shifted its hiring strategy to prioritize human autonomy and judgment over junior-level technical expertise.",
-            "link": "https://www.anthropic.com/research/employment-at-anthropic"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "Working at the frontier shapes expectations for the future",
-            "summary_kr": "앤스로픽은 AI 에이전트 도입으로 생산성이 비약적으로 향상된 자사의 경험이 AI 기술의 실질적 역량에 대한 이해 차이를 만들고, 이것이 일반 대중보다 더 급진적인 미래 노동 시장 전망으로 이어진다고 분석했습니다.",
-            "summary_en": "Anthropic reports that its internal experience with AI agents has led to significant productivity gains and fundamentally different expectations for the future of work compared to the general public, driven by a deeper understanding of current AI capabilities.",
-            "link": "https://www.anthropic.com/research/expectations-for-the-future"
         }
     ]
 }
