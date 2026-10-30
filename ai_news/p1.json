@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-29 20:08:18",
+    "last_update": "2026-10-30 09:47:39",
     "articles": [
+        {
+            "title": "Purdue is first U.S. university to deploy Google TPU AI infrastructure - Purdue University",
+            "summary_en": "Purdue University has partnered with Google Public Sector to become the first U.S. academic institution to integrate custom Google Tensor Processing Units into its campus computing infrastructure. This deployment, scheduled for January 2027, will boost the university's AI research capacity by 30% and support advancements in fields like robotics and autonomous systems.",
+            "link": "https://www.purdue.edu/newsroom/2026/Q4/purdue-is-first-u-s-university-to-deploy-google-tpu-ai-infrastructure",
+            "timestamp": 1793302976000,
+            "date": "2026-10-29"
+        },
+        {
+            "title": "AI breakthrough disproves Exponential Time Hypothesis, upending decades of computer science research - Nacionale",
+            "summary_en": "Recent research has achieved a significant breakthrough by disproving the Exponential Time Hypothesis, a foundational assumption in computer science. This development challenges decades of established academic theory regarding the computational limits of algorithmic complexity.",
+            "link": "https://www.nacionale.com/en/articles/ai-breakthrough-disproves-exponential-time-hypothesis-upending-decades-of-comput-723273",
+            "timestamp": 1793320749000,
+            "date": "2026-10-30"
+        },
+        {
+            "title": "Google has announced research findings introducing a 'sleep phase' to AI, a system that allows AI models to continuously acquire new knowledge even after they are completed. - GIGAZINE",
+            "summary_en": "Google has introduced a 'sleep framework' that enables AI models to integrate new information continuously without suffering from 'catastrophic forgetting,' where previously learned data is lost. By alternating between an active processing phase and a consolidation-focused sleep phase, models can perform self-improvement and maintain updated knowledge bases.",
+            "link": "https://gigazine.net/gsc_news/en/20261030-ai-sleep-knowledge",
+            "timestamp": 1793314800000,
+            "date": "2026-10-29"
+        },
         {
             "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’ - WIRED",
             "summary_en": "OpenAI and Anthropic have reportedly disproved the 27-year-old exponential time hypothesis, potentially rendering significant portions of theoretical computer science research obsolete. While the proofs await independent verification, the rapid pace of AI-driven scientific discovery is causing widespread professional disruption and psychological distress within the academic community.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU9LeWNlenVyRTZpZ201VnI3NEIzYXZFQXE2by1iWFZDV1gtVWVvbUJ6YWNWVnAzdm90bjFNM2N2YlM5VXlaa2lIWW9GSWxTcllHS3RuS2ZQeWRueHZTVFlGS1RZOEVQU2NtaG5pR3d3ZE5YMGtXUVMxOFEza2xUMWdsWVBLRXI0X28xVW5Fdld1Ty1zR05XNU8zbW1hbEtEOFl2ZDFMSVphc2ticTlyeGVWTThmd3NKTUZOdlhMNm1zSnE0NGxVeDdod3lqckprY0dsd3Bfakc0QXJNbnc?oc=5",
             "timestamp": 1789987257000,
             "date": "2026-09-21"
-        },
-        {
-            "title": "Measurements for understanding the pace of AI development inside frontier labs - anthropic.com",
-            "summary_en": "Anthropic has introduced a new framework designed to measure and evaluate the developmental pace and safety benchmarks of AI models within frontier laboratories.",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
-            "timestamp": 1790014861000,
-            "date": "2026-09-21"
-        },
-        {
-            "title": "RetroChimera: New research advances AI-assisted molecule synthesis - Microsoft Source",
-            "summary_en": "Microsoft researchers have unveiled RetroChimera, a new AI-driven methodology aimed at optimizing and advancing the synthesis of complex molecules.",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVi1YQW1LVkhJSDdVQ2NkdVg5UkJDbGxEQjBPWHk2dkdBWlpNTXBPM0l3NUtWVFFHbHFMSzNwZXdrQjNLUFBobG8teVR6dHU3SEQ1UEFlTjA2Y0tXVHlJY2R3Y2ZwMDRsZTN4Z2RRYXFyUHR5N3ZDMU9kY3p6eVAzN1YwTnhaUHoxX3dHWnpMYXNJWVZ4c1p2eUxUN0g4Y3h2U2lyUUVENUtOMl9BbmZucXpn?oc=5",
-            "timestamp": 1790002805000,
-            "date": "2026-09-21"
-        },
-        {
-            "title": "Google 뉴스 - AP News",
-            "summary_en": "Google News continues to serve as a primary aggregator for global developments, reflecting the evolving landscape of the AI industry as reported by AP News.",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
-            "timestamp": 1789855500000,
-            "date": "2026-09-19"
         }
     ]
 }
