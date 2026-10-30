@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-10-30 09:46:54",
+    "last_update": "2026-10-30 19:53:46",
     "articles": [
+        {
+            "title": "오픈AI, AI 행동 원칙 전면 개편…지시 따르는 AI 넘어 인간 의도 이해하는 AI로 - 인공지능신문",
+            "summary_kr": "오픈AI가 AI 모델의 행동 원칙인 '모델 스펙'을 개편하며, 단순 지시 이행을 넘어 인간의 의도와 가치를 이해하고 부작용까지 고려하는 에이전틱 AI 중심의 기준을 수립했습니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42515",
+            "timestamp": 1793355950000,
+            "date": "2026-10-30"
+        },
+        {
+            "title": "구글, 25년 만에 검색창 전면 개편…AI 검색 넘어 ‘디지털 생활 플랫폼’으로 대전환 - 데일리뉴스",
+            "summary_kr": "구글이 25년 만에 검색창을 전면 개편하여 제미나이 3.5 플래시 기반의 AI 검색과 사무 자동화, 콘텐츠 제작까지 아우르는 '디지털 생활 플랫폼'으로의 대전환을 선언했습니다.",
+            "link": "https://idailynews.co.kr/article/%EA%B5%AC%EA%B8%80-25%EB%85%84-%EB%A7%8C%EC%97%90-%EA%B2%80%EC%83%89%EC%B0%BD-%EC%A0%84%EB%A9%B4-%EA%B0%9C%ED%8E%B8ai-%EA%B2%80%EC%83%89-%EB%84%98%EC%96%B4-%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%9D%ED%99%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%BC%EB%A1%9C-%EB%8C%80%EC%A0%84%ED%99%98-2",
+            "timestamp": 1793363306000,
+            "date": "2026-10-30"
+        },
+        {
+            "title": "텍사스주, 오픈AI와 샘 올트먼 CEO 제소…미성년자 ChatGPT 사용 금지 요구 - Martin Cid Magazine",
+            "summary_kr": "미국 텍사스주 당국이 오픈AI와 샘 올트먼 CEO를 상대로 소송을 제기하며, 미성년자의 챗GPT 사용 금지 및 AI 안전 조치 강화를 강력히 요구했습니다.",
+            "link": "https://ko.martincid.com/technology-ko/tech-ai-ko/%ED%85%8D%EC%82%AC%EC%8A%A4%EC%A3%BC-%EC%98%A4%ED%94%88ai%EC%99%80-%EC%83%98-%EC%98%AC%ED%8A%B8%EB%A8%BC-ceo-%EC%A0%9C%EC%86%8C%EB%AF%B8%EC%84%B1%EB%85%84%EC%9E%90-chatgpt",
+            "timestamp": 1793367673000,
+            "date": "2026-10-30"
+        },
+        {
+            "title": "아마존 앤디 재시 CEO, “AWS, 향후 2년간 40% 이상 성장”…AI 인프라 투자 성과 본격화 - 인공지능신문",
+            "summary_kr": "아마존 AWS는 3분기 매출이 39.3% 급증하는 등 AI 인프라 수요에 힘입어 기록적인 성장을 달성했으며, 향후 2년간 40% 이상의 매출 성장세를 이어갈 것으로 전망했습니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42511",
+            "timestamp": 1793352238000,
+            "date": "2026-10-30"
+        },
         {
             "title": "오픈AI '코덱스' 등 인기 AI 개발 도구 5종서 '보안 허점' 무더기 발견 - 디일렉",
             "summary_kr": "오픈AI의 코덱스를 비롯한 5개 주요 AI 개발 도구에서 시스템 접근 권한을 악용한 보안 취약점 '엠브레이스'가 발견되었습니다. 현재 일부 도구는 패치가 적용되었으나, 코덱스와 VS 코드 등은 여전히 보안 허점이 방치되어 있어 사용자들의 각별한 주의가 요구됩니다.",
@@ -671,34 +699,6 @@
             "summary_kr": "오픈AI가 사용자의 목표 설정만으로 복잡한 업무를 스스로 처리하는 AI 에이전트 '닷츠'를 출시하며 자율형 AI 시장 경쟁에 본격적으로 뛰어들었습니다.",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OQUVaVV9tZkNXRjZrLWFaWTlERkZKeF9STzVpRGpNb1lYUXNMVG5qUTFXWFg5ZmYyX0lBMUdjcW4zQlVnTHJrSVYtSUR1bFhMWklkVlEtV2IxUQ?oc=5",
             "timestamp": 1790707222000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "오픈AI, 안전성 미충족 'GPT-6.1 아스트라' 출시 철회 - 지디넷코리아",
-            "summary_kr": "오픈AI가 내부 안전성 기준을 충족하지 못한 차세대 모델 'GPT-6.1 아스트라'의 출시 계획을 전격 철회했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMS1Vcmw3clVsNWVqNlRZZFJGcmNRbDlrN3Z5b1M2akNiTnJHdHFTc2pfRDVTeGwzN0V0Z2Nyb2FiX3NZM3RWVFBqZW1aZUFURUF6cUlB?oc=5",
-            "timestamp": 1790668966000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "AI가 통제선 넘으려 하면 밀리초 안에 격리…엔비디아, '하드웨어 감시망' 공개 - 뉴시스",
-            "summary_kr": "엔비디아가 AI의 이상 작동을 밀리초 단위로 감지하고 즉각 격리하는 하드웨어 기반의 새로운 보안 감시망 기술을 공개했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FNTJUSXBQYjFNVnpoZTE5MHE5QnFlb1VXWThMRzYzb0Y5TFpWb0tsQnpYM2ZfMTg2Q0UzVmxpRU1fRmJSVS10YlhRTTQwalNYdk1yYUlIc0pnYVdJM2xPbjE4aVJfZ3ZaU3YxN1BiQU1vTzAteExlaNIBeEFVX3lxTE5FNTJUSXBQYjFNVnpoZTE5MHE5QnFlb1VXWThMRzYzb0Y5TFpWb0tsQnpYM2ZfMTg2Q0UzVmxpRU1fRmJSVS10YlhRTTQwalNYdk1yYUlIc0pnYVdJM2xPbjE4aVJfZ3ZaU3YxN1BiQU1vTzAteExlaA?oc=5",
-            "timestamp": 1790673217000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "[구글 딥마인드 CEO 데미스 하사비스, \"AI를 챗봇 너머 과학적 발견의 도구로\"] 하사비스는 또한 AI가 신약 개발에 직접적인 역할을 하는 이소모픽 랩스의 CEO이기도 하다. - AI넷",
-            "summary_kr": "데미스 하사비스 구글 딥마인드 CEO는 AI를 단순한 챗봇의 수준을 넘어 신약 개발 등 과학적 난제를 해결하는 도구로 발전시켜야 한다고 강조했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFByNHFqdG1uclp1eUpkd3RBcC02WFcxS3BZV0tTSTF6enlpY0JDNEMyZGxua3VxUE9ZMk5HQlJVYjk?oc=5",
-            "timestamp": 1790689056000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "오픈AI·앤트로픽 \"AI가 AI 개발하는 시대…인간 통제 벗어날 위험\" - 지디넷코리아",
-            "summary_kr": "오픈AI와 앤트로픽 등 주요 AI 기업들이 AI가 스스로 AI를 개발하는 시대를 예견하며, 이 과정에서 인간의 통제를 벗어날 수 있는 잠재적 위험성에 대해 경고했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sdW85dDVfWTVYLW5mYjNhQlYtbUkweDlOQ19HYjgwUVBWOXlmRmpQUGRueHpZZmhabkRIUnlwT21RWGlOY1dEd1dqemdEMHlNV0ZmNjlB?oc=5",
-            "timestamp": 1790669015000,
             "date": "2026-09-29"
         }
     ]

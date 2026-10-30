@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-30 09:47:39",
+    "last_update": "2026-10-30 19:54:29",
     "articles": [
+        {
+            "title": "Cal Poly Unveils NVIDIA-Powered AI Factory to Expand AI Education and Research - Cal Poly",
+            "summary_en": "Cal Poly has launched a $3 million NVIDIA-powered AI Factory, featuring four DGX B200 systems to provide students and faculty with the local computing power necessary for training large-scale AI models. This initiative enables academic research on sensitive medical data and specialized projects, allowing the university to maintain control over AI development independent of private sector services.",
+            "link": "https://ucm.calpoly.edu/news/cal-poly-unveils-nvidia-powered-ai-factory-expand-ai-education-and-research",
+            "timestamp": 1793275200000,
+            "date": "2026-10-29"
+        },
+        {
+            "title": "Meta to fund radiology AI research at Ohio State - Radiology Business",
+            "summary_en": "Meta has committed to funding radiology-focused artificial intelligence research at The Ohio State University to advance medical diagnostic capabilities.",
+            "link": "https://radiologybusiness.com/topics/artificial-intelligence/meta-fund-radiology-ai-research-ohio-state",
+            "timestamp": 1793297041000,
+            "date": "2026-10-29"
+        },
+        {
+            "title": "Formula 1 News: FIA to use AWS AI in F1 rule development - AutoRacing1.com",
+            "summary_en": "The FIA is partnering with AWS to integrate artificial intelligence into the development and refinement of Formula 1 racing regulations.",
+            "link": "https://www.autoracing1.com/pl/507773/formula-1-news-fia-to-use-aws-ai-in-f1-rule-development",
+            "timestamp": 1793269641000,
+            "date": "2026-10-29"
+        },
         {
             "title": "Purdue is first U.S. university to deploy Google TPU AI infrastructure - Purdue University",
             "summary_en": "Purdue University has partnered with Google Public Sector to become the first U.S. academic institution to integrate custom Google Tensor Processing Units into its campus computing infrastructure. This deployment, scheduled for January 2027, will boost the university's AI research capacity by 30% and support advancements in fields like robotics and autonomous systems.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGtzVlI1aXZFQ3QxUnloMGhRdU1ITU11aUQ3aThUem14c2RZdVgtckpVWkJLRGk2TnRMeEIxT3NLZk9OeWF2djM1M3labG5iSzVmZC1jRDRRN3RoOEp1b3pxcXV2UnZiRGhzS1pySTZGZWlUZjlzV0VtX2YyalM5SThFbjJrLUxmakxhNXFFUWUxQXdaUXN1dm5xZ0xVV00?oc=5",
             "timestamp": 1790089200000,
             "date": "2026-09-22"
-        },
-        {
-            "title": "Google 뉴스 - benzinga.com",
-            "summary_en": "Google News continues to serve as a primary aggregator for real-time reporting on the rapidly evolving artificial intelligence industry.",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZHNDOTgtUEhCV0VzQmkzOUd6YWYya09WZldnRDJmbm1sVzctM3FCaW5mTjREaEQ4RjhZWFhmZmhrdHJmZjNROHFtMjRtQlNRUkFXZWVmbVdoVkg5VXNjU2dfUGlrRGNfY0pIbGZoU3g2UjZyYUJhRndhanVEVlVlVDJ4cnFiVjRma1pibWN4QmNkZ0hDd081cnRaNWlwSlVXeU83ZFFVczdHUnVHanZHb3hfUGRlLWJON1FmMENJMmVLZVdiT0Q0QjhWRkFXRlR1WDNqZzJR?oc=5",
-            "timestamp": 1790074873000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems - TechCrunch",
-            "summary_en": "OpenAI has established a dedicated mathematics advisory group to oversee its systems, which have now successfully solved over 100 complex, open-ended mathematical problems.",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2Z0dXVEUmlxTTRyQVBvdlYtVlVyMkNlOUQyWDJGRWxjcXBoU0lsaHpfTGNNVEQtMnVfMkd1bnRDRk1BdGFoMjZXeWxtVGMxMS1KWWw5NXpMSS11bTQtSEhkMWZzaFdoMU5Gc0lEOW9ySTV0ZXhaM09kcWNLb0RneXU0RXp5eXZ0Tm9IYWNNOEthR1MxT2tIS2NOblVpR1FmRTNFcUhmTDR2NVNXb3BnQmtHWGk?oc=5",
-            "timestamp": 1790021758000,
-            "date": "2026-09-21"
-        },
-        {
-            "title": "Anthropic moves fast on AI safety concerns with Accenture “embedded evaluator” partnership - IT Pro",
-            "summary_en": "Anthropic is accelerating its AI safety initiatives by partnering with Accenture to implement an 'embedded evaluator' framework for enterprise deployments.",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU9LeWNlenVyRTZpZ201VnI3NEIzYXZFQXE2by1iWFZDV1gtVWVvbUJ6YWNWVnAzdm90bjFNM2N2YlM5VXlaa2lIWW9GSWxTcllHS3RuS2ZQeWRueHZTVFlGS1RZOEVQU2NtaG5pR3d3ZE5YMGtXUVMxOFEza2xUMWdsWVBLRXI0X28xVW5Fdld1Ty1zR05XNU8zbW1hbEtEOFl2ZDFMSVphc2ticTlyeGVWTThmd3NKTUZOdlhMNm1zSnE0NGxVeDdod3lqckprY0dsd3Bfakc0QXJNbnc?oc=5",
-            "timestamp": 1789987257000,
-            "date": "2026-09-21"
         }
     ]
 }
