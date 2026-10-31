@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-10-30 20:13:38",
+    "last_update": "2026-10-31 19:36:41",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793396131000,
+            "date": "2026-10-30",
+            "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+            "summary_kr": "NVIDIA는 복잡한 인프라 종속성을 해결하고 배포 과정을 간소화하기 위해, NVIDIA Dynamo를 위한 검증된 레시피 기반의 AI 클러스터 런타임(AICR)을 제공합니다.",
+            "summary_en": "NVIDIA provides the AI Cluster Runtime (AICR) to simplify deployment by bundling NVIDIA Dynamo with validated recipes that resolve complex infrastructure dependencies.",
+            "link": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793392398000,
+            "date": "2026-10-30",
+            "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+            "summary_kr": "NVIDIA DGX Spark와 TensorRT Edge-LLM은 임베디드 개발자가 복잡한 설정 없이 몇 개의 명령어로 AI 모델을 프로토타이핑하고 엣지 환경에 최적화된 추론을 배포할 수 있도록 지원합니다.",
+            "summary_en": "NVIDIA DGX Spark and TensorRT Edge-LLM enable embedded developers to prototype AI models and deploy optimized inference for edge applications with minimal setup using simple CLI commands.",
+            "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1789603200000,
+            "date": "2026-09-17",
+            "title": "Introducing the Life Sciences Verification Program",
+            "summary_kr": "생명과학 전문가들을 위한 'LSVP' 프로그램이 출시되어, 검증된 연구 기관은 약물 발견 및 바이오 연구를 위해 강화된 모델 권한과 안전한 가이드라인을 제공받게 됩니다.",
+            "summary_en": "The new Life Sciences Verification Program (LSVP) provides vetted research institutions with specialized access to AI models for complex biological tasks while maintaining rigorous safety and ethical oversight.",
+            "link": "https://www.anthropic.com/news/life-sciences-verification-program"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1793382645000,
@@ -873,33 +900,6 @@
             "summary_kr": "앤스로픽의 AI 모델 클로드(Claude)가 인간의 최소한의 개입만으로 방대한 DNA 데이터를 분석해 CRISPR와 유사한 특성을 가진 새로운 효소 시스템을 독자적으로 발견했습니다.",
             "summary_en": "Anthropic's AI model, Claude, autonomously discovered a novel enzyme system with CRISPR-like properties by analyzing massive DNA datasets with minimal human intervention.",
             "link": "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788220800000,
-            "date": "2026-09-01",
-            "title": "Developing Enterprise Frontier Safeguards with our customers",
-            "summary_kr": "앤스로픽은 고객이 직접 제어하는 클라우드 인프라에 데이터를 저장하여 제로 데이터 보존(ZDR)의 프라이버시와 고도화된 오남용 탐지 기능을 동시에 제공하는 '엔터프라이즈 프런티어 세이프가드(EFS)'를 발표했습니다.",
-            "summary_en": "Anthropic has announced 'Enterprise Frontier Safeguards' (EFS), a solution that balances zero data retention privacy with advanced misuse detection by storing data in customer-controlled cloud infrastructure.",
-            "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788134400000,
-            "date": "2026-08-31",
-            "title": "Improving our alignment and security efforts",
-            "summary_kr": "앤스로픽은 최근 클로드 모델의 보안 사고 이후 평가 환경의 안전 조치를 강화하고, 인공지능의 정렬 문제 해결과 업계 차원의 안전한 기술 개발 속도 조절을 위한 협력을 강조했습니다.",
-            "summary_en": "Following recent security incidents involving Claude, Anthropic is strengthening containment measures for evaluation environments while prioritizing AI alignment and advocating for industry-wide coordination on responsible development pacing.",
-            "link": "https://www.anthropic.com/news/improving-alignment-security-efforts"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787788800000,
-            "date": "2026-08-27",
-            "title": "Previewing the Model Hardware Standard",
-            "summary_kr": "Anthropic이 공개한 '모델 하드웨어 표준(MHS)'은 파편화된 연구 및 제조 장비를 통합하여 AI 에이전트가 복잡한 물리적 작업을 자율적으로 수행할 수 있도록 지원하는 범용 표준입니다.",
-            "summary_en": "Anthropic's 'Model Hardware Standard (MHS)' provides a universal framework to integrate fragmented research and manufacturing equipment, enabling AI agents to autonomously orchestrate complex physical tasks.",
-            "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
         }
     ]
 }
