@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-10-30 19:54:29",
+    "last_update": "2026-10-31 19:11:56",
     "articles": [
+        {
+            "title": "Anthropic's IPO filing shows how it's boosting biotech research - Business Insider",
+            "summary_en": "Anthropic is prioritizing the life sciences sector in its IPO strategy, leveraging its Claude AI models for drug discovery and biological research as part of a long-term goal to accelerate medical innovation. The company has already begun heavy investment in the field, including the acquisition of Coefficient Bio, the establishment of a molecular biology lab, and strategic partnerships with major pharmaceutical firms like Eli Lilly.",
+            "link": "https://www.businessinsider.com/anthropic-ipo-filing-boosting-biotech-research-2026-10",
+            "timestamp": 1793445000000,
+            "date": "2026-10-31"
+        },
+        {
+            "title": "Samsung executives meet OpenAI's Altman to discuss AI strategy - The Korea Herald",
+            "summary_en": "Samsung executives met with OpenAI CEO Sam Altman to discuss AI transformation across corporate management, marking a deepening partnership that extends from memory chip supply to enterprise-wide AI deployment. This collaboration follows Samsung’s ongoing internal initiative to train its workforce in generative AI and integrate OpenAI’s enterprise solutions into its global operations.",
+            "link": "https://www.koreaherald.com/article/10921312",
+            "timestamp": 1793427215000,
+            "date": "2026-10-31"
+        },
+        {
+            "title": "Amazon Q3 ads hit US$19.64B as AI buying evolves - ContentGrip",
+            "summary_en": "Amazon's advertising revenue reached $19.64 billion in Q3 2026, driven by the rollout of new AI-driven tools like the Amazon Ads Agent that streamline media buying. While these automated systems simplify cross-format campaign management, they have sparked industry debate regarding the trade-off between execution efficiency and the level of control advertisers retain over their marketing strategies.",
+            "link": "https://www.contentgrip.com/amazon-ad-revenue-agent-controls",
+            "timestamp": 1793424107000,
+            "date": "2026-10-31"
+        },
         {
             "title": "Cal Poly Unveils NVIDIA-Powered AI Factory to Expand AI Education and Research - Cal Poly",
             "summary_en": "Cal Poly has launched a $3 million NVIDIA-powered AI Factory, featuring four DGX B200 systems to provide students and faculty with the local computing power necessary for training large-scale AI models. This initiative enables academic research on sensitive medical data and specialized projects, allowing the university to maintain control over AI development independent of private sector services.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WME1ORVY5SFFXdGNuNkxaRUVVamVNSVB1dm1WUDNhbDZGWU9qUFhDUm1JQ2ZETXJpNDZ0ZjBwUWZ1THlNMTRwZWpyanhHR05iaUhkMzFwQzNweHFIQWk0SXNTNVFXUEl2bEE?oc=5",
             "timestamp": 1790142720000,
             "date": "2026-09-23"
-        },
-        {
-            "title": "Google 뉴스 - UK Parliament",
-            "summary_en": "The UK Parliament is actively monitoring and deliberating on the ongoing developments and regulatory implications surrounding Google News.",
-            "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbUdva1dCZHBxOEFPWnFEeGRmOTU3ZDNsSEYyOVlOcEEyS3R1OFNRWnRRSFE1Mkxta1JwVVBQVlNjaGhzNmIzb2F3bUFtbEhtYVJGSW5GRGt2X09LWXRWUm9XaVU5U2w2OGd1eG1zYy1VbG1wYUNwd2RRcVU1SzhOOGhyOXNVaC1lYlVKeTNMQUVJdmRSMlJMcWZJTUpJcUtxU1ZPS0Y0REVHLXRVUE5fcUI1bk1CUFVxUUFFVTlTNGxHYXUwSHFTTXVhWl84X1pZRU9iVk8xYWVVYkxSZFFoYVJxM20wMDZGQ2VpdnJiVXpVV0tqS2tZLXpLU3RJOGdIdlg1cnNFN2Z3YVNfaUFzZTFlS0tkcXBtXzJsWnFfNHZZQ2FfMFZnV0RyTlpxbDFjeUhjX2dTb2xncGMy?oc=5",
-            "timestamp": 1790108100000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development - NVIDIA Blog",
-            "summary_en": "NVIDIA has released Isaac ROS 5.0, an open-source platform designed to accelerate the development of autonomous, agentic robotics applications.",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-            "timestamp": 1790078795000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "Amazon Expands Custom-Silicon Strategy With Major Qualcomm Collaboration - Cloud Wars",
-            "summary_en": "Amazon is deepening its custom-silicon strategy through a significant new collaboration with Qualcomm to enhance its cloud infrastructure capabilities.",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGtzVlI1aXZFQ3QxUnloMGhRdU1ITU11aUQ3aThUem14c2RZdVgtckpVWkJLRGk2TnRMeEIxT3NLZk9OeWF2djM1M3labG5iSzVmZC1jRDRRN3RoOEp1b3pxcXV2UnZiRGhzS1pySTZGZWlUZjlzV0VtX2YyalM5SThFbjJrLUxmakxhNXFFUWUxQXdaUXN1dm5xZ0xVV00?oc=5",
-            "timestamp": 1790089200000,
-            "date": "2026-09-22"
         }
     ]
 }
