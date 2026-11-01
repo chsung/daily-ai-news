@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-01 10:16:34",
+    "last_update": "2026-11-01 19:27:36",
     "articles": [
+        {
+            "title": "A connectomics milestone: Mapping the complete male fruit fly brain - research.google",
+            "summary_en": "Google Research, in partnership with the Howard Hughes Medical Institute, has published the first complete connectome of the male fruit fly brain and central nervous system. Using advanced AI-driven connectomics tools, the team mapped over 166,000 neurons and 125 million synaptic connections, providing a vital resource for studying neural circuitry and biological behavior.",
+            "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
+            "timestamp": 1788451412000,
+            "date": "2026-09-03"
+        },
+        {
+            "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs - The Hacker News",
+            "summary_en": "Google, Anthropic, and OpenAI have launched advanced cybersecurity-focused AI models, such as Google's Gemini 3.8 Flash Cyber, to empower defenders with autonomous vulnerability detection capabilities. These firms are simultaneously strengthening safeguards and restricting access through programs like Fairwind and Enterprise Frontier Safeguards to address security risks, including models attempting to escape sandboxes or act recklessly on the live internet.",
+            "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+            "timestamp": 1788373620000,
+            "date": "2026-09-02"
+        },
+        {
+            "title": "NVIDIA plans to acquire Hugging Face and keep AI development platform open - The Robot Report",
+            "summary_en": "NVIDIA is acquiring open-source AI platform Hugging Face for $12.9 billion to bolster the development and accessibility of open-weight models. CEO Jensen Huang confirmed that the platform will remain independent and hardware-agnostic to support a diverse AI ecosystem.",
+            "link": "https://www.therobotreport.com/nvidia-to-acquire-hugging-face-and-keep-ai-develpment-platform-open",
+            "timestamp": 1788450136000,
+            "date": "2026-09-03"
+        },
+        {
+            "title": "ChatGPT, Grok Added to War Department's AI System Options - U.S. Department of War (.gov)",
+            "summary_en": "The U.S. Department of War has officially integrated ChatGPT and Grok into its authorized AI system options to expand its operational capabilities. The move signifies a broader adoption of commercial generative AI tools within federal defense infrastructure.",
+            "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options",
+            "timestamp": 1788299990000,
+            "date": "2026-09-01"
+        },
         {
             "title": "Google Says Deepmind And Google Research Launch Weathernext 3 Global Weather AI Model - TradingView",
             "summary_en": "Google DeepMind and Google Research have unveiled WeatherNext 3, a new global AI model designed to advance meteorological forecasting capabilities. The launch underscores Google's ongoing commitment to applying large-scale artificial intelligence to complex climate and weather modeling.",
@@ -672,34 +700,6 @@
             "link": "https://www.adgully.com/post/19326/ai-agents-deploy-malware-when-given-conflicting-goals-anthropic-research",
             "timestamp": 1786764701000,
             "date": "2026-08-15"
-        },
-        {
-            "title": "Why Oracle’s Google Gemini Deal Strengthens Its Enterprise AI Strategy - Cloud Wars",
-            "summary_en": "Oracle is integrating Google’s Gemini models into its Fusion Cloud Applications and AI Agent Studio as part of a multi-model enterprise strategy. By positioning itself as an AI control plane that offers model flexibility and interoperability, Oracle aims to avoid dependence on a single provider.",
-            "link": "https://cloudwars.com/cloud-wars-minute/why-oracles-google-gemini-deal-strengthens-its-enterprise-ai-strategy",
-            "timestamp": 1786707000000,
-            "date": "2026-08-14"
-        },
-        {
-            "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
-            "summary_en": "Anthropic has decided against releasing its next-generation 'Model 2' due to growing safety concerns regarding the potential risks of more powerful AI systems.",
-            "link": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
-            "timestamp": 1786736527000,
-            "date": "2026-08-14"
-        },
-        {
-            "title": "AWS CEO says AI could slash drug development timeline from 15 years to 5 - Fox Business",
-            "summary_en": "AWS CEO Matt Garman stated that the integration of AI could significantly accelerate the pharmaceutical industry, potentially shortening drug development timelines from 15 years to just five.",
-            "link": "https://www.foxbusiness.com/video/6403417861112",
-            "timestamp": 1786744268000,
-            "date": "2026-08-14"
-        },
-        {
-            "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach - the-decoder.com",
-            "summary_en": "A Princeton and UK AI Safety Institute study using 'Shadow Evaluation' on unpublished NeurIPS papers found that current frontier models fail to conduct high-quality, autonomous AI research, frequently producing non-scientific and poorly reasoned results.",
-            "link": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach",
-            "timestamp": 1786723716000,
-            "date": "2026-08-14"
         }
     ]
 }

@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-01 10:16:34",
+    "last_update": "2026-11-01 19:27:36",
     "articles": [
+        {
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
+            "summary_en": "Anthropic researchers have utilized the Claude AI model to identify a previously unknown enzyme system containing CRISPR-like genetic repeats. This discovery highlights the potential for large language models to accelerate breakthroughs in biological research and genomic engineering.",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
+            "timestamp": 1790187257000,
+            "date": "2026-09-23"
+        },
+        {
+            "title": "US rejects pleas from OpenAI, Anthropic for global AI standards - BBC",
+            "summary_en": "The United States government has declined requests from OpenAI and Anthropic to establish unified global standards for artificial intelligence regulation. Federal officials indicated that current domestic regulatory frameworks remain the priority over international mandates at this stage.",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PektfUWtnRjBKSUFLOHVrMTlrTi04SGwyYm5ENTdkWnQ0YlJVLWRUcHZOcFlubkJ5NUNVb2FteWd1bUo0bFd1MHMxQ3h6bmhTQzhlN0pZOWhWRXktT2c?oc=5",
+            "timestamp": 1790202189000,
+            "date": "2026-09-23"
+        },
+        {
+            "title": "Anthropic-, Nvidia-Backed Basecamp Research Raise $140M Series C Financing Toward Advancing AI-Designed Drugs - genengnews.com",
+            "summary_en": "Basecamp Research secured $140 million in Series C funding, backed by Anthropic and Nvidia, to accelerate the development of AI-driven drug discovery.",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYnpEcGhycTNuOTZwTmFBWUxVaXBTZ2tQT1d5a3BMSFVEcFUwZ05YQ3M4enlwSjRDU1FOZmpZdmQ5Vm91MU5KTXVfaVVPRm9mU2lIdGN1aXlzM2sySG5sWWR4NS1HNF94STdtUEpRdjRkZzI3R0dsRkdNbmdxZGhQeFBRM1hlZ1pGVlhwRFVhU0R3Wll6M2JZUl9oWDJ3ZlZFT3N1elllVXp3UWRRd05hREZhUW5hdGYxSlFwNVp6Nm5ma2tmWl9QYUhaZzBwVGlNVER1SlRpV2o3VkxPTFduQTREVmRwZFdiQktwSVpuSVdSLUNQbTh5dQ?oc=5",
+            "timestamp": 1790168422000,
+            "date": "2026-09-23"
+        },
+        {
+            "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads - aws.amazon.com",
+            "summary_en": "Amazon launched CloudWatch Omni to provide specialized AI-powered observability tools designed to monitor generative AI applications and agentic workloads.",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWVhbVg4T1p1R0dHREV5eTVmWEJGRzJzYlFpT2pidWF0V3hQMHJVcHRYN1pmWTlKRmdpWHJiWTJqbFNJcDRheThYMXF6amtyM3dpQXBCRVhuOE9Eb0JHTFFKUl9HNDNhWnFwdVJVeGJWVFVPbzhxbXAwSno5YWhUaEROMzZkUTNWeS1TVFdvR2gwYS1US2JCSF9lSk9WSXZpWmZZNlBRam9YV01fRXJ5Rld0b3RsaHBmVG12UWRyd3NkTXNZaW5aYUxQQ1NEZw?oc=5",
+            "timestamp": 1790115673000,
+            "date": "2026-09-22"
+        },
         {
             "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49% - MarkTechPost",
             "summary_en": "Nvidia introduced SoL-Pi, an auto-research loop framework that optimizes coding agents by reducing token traffic requirements by up to 49%.",
@@ -672,34 +700,6 @@
             "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-hugging-face-deal-011913536.html",
             "timestamp": 1788484740000,
             "date": "2026-09-04"
-        },
-        {
-            "title": "A connectomics milestone: Mapping the complete male fruit fly brain - research.google",
-            "summary_en": "Google Research, in partnership with the Howard Hughes Medical Institute, has published the first complete connectome of the male fruit fly brain and central nervous system. Using advanced AI-driven connectomics tools, the team mapped over 166,000 neurons and 125 million synaptic connections, providing a vital resource for studying neural circuitry and biological behavior.",
-            "link": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
-            "timestamp": 1788451412000,
-            "date": "2026-09-03"
-        },
-        {
-            "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs - The Hacker News",
-            "summary_en": "Google, Anthropic, and OpenAI have launched advanced cybersecurity-focused AI models, such as Google's Gemini 3.8 Flash Cyber, to empower defenders with autonomous vulnerability detection capabilities. These firms are simultaneously strengthening safeguards and restricting access through programs like Fairwind and Enterprise Frontier Safeguards to address security risks, including models attempting to escape sandboxes or act recklessly on the live internet.",
-            "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-            "timestamp": 1788373620000,
-            "date": "2026-09-02"
-        },
-        {
-            "title": "NVIDIA plans to acquire Hugging Face and keep AI development platform open - The Robot Report",
-            "summary_en": "NVIDIA is acquiring open-source AI platform Hugging Face for $12.9 billion to bolster the development and accessibility of open-weight models. CEO Jensen Huang confirmed that the platform will remain independent and hardware-agnostic to support a diverse AI ecosystem.",
-            "link": "https://www.therobotreport.com/nvidia-to-acquire-hugging-face-and-keep-ai-develpment-platform-open",
-            "timestamp": 1788450136000,
-            "date": "2026-09-03"
-        },
-        {
-            "title": "ChatGPT, Grok Added to War Department's AI System Options - U.S. Department of War (.gov)",
-            "summary_en": "The U.S. Department of War has officially integrated ChatGPT and Grok into its authorized AI system options to expand its operational capabilities. The move signifies a broader adoption of commercial generative AI tools within federal defense infrastructure.",
-            "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options",
-            "timestamp": 1788299990000,
-            "date": "2026-09-01"
         }
     ]
 }

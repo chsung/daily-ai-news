@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-01 10:15:48",
+    "last_update": "2026-11-01 19:26:49",
     "articles": [
+        {
+            "title": "\"우주에서 AI가 시를 썼다\"…구글 우주 데이터센터 첫 결실 - 뉴시스",
+            "summary_kr": "구글이 '프로젝트 선캐처'의 일환으로 지구 궤도 위성에서 AI 모델 '젬마4'를 구동해 시를 작성하고 지상으로 전송하는 데 성공했습니다. 우주 태양광을 활용한 데이터센터 구축을 목표로, 향후 극한 환경에서의 냉각 및 위성 간 통신 기술을 검증할 계획입니다.",
+            "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261101_0003849817",
+            "timestamp": 1793518023000,
+            "date": "2026-11-01"
+        },
+        {
+            "title": "현대차·벤츠·폭스바겐·볼보까지⋯엔비디아 중심 자율주행 동맹 확산 - 엠투데이",
+            "summary_kr": "글로벌 완성차 업체들이 자율주행 기술의 개발 난도와 비용을 해결하기 위해 엔비디아의 컴퓨팅 플랫폼을 앞다퉈 도입하고 있습니다. 다만 플랫폼 의존도가 높아짐에 따라 완성차 업체들은 차별화된 자체 AI 소프트웨어와 데이터 역량을 확보하는 데 사활을 걸고 있습니다.",
+            "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601669",
+            "timestamp": 1793523600000,
+            "date": "2026-11-01"
+        },
+        {
+            "title": "딥시크, 클로드 코드 겨냥 자율형 코딩 에이전트 '슈퍼에이전트' 공개 - 디지털투데이",
+            "summary_kr": "딥시크가 앤트로픽의 '클로드 코드'에 대응하기 위해 개발자 대화방을 실시간 모니터링하며 코딩 해결책을 선제적으로 제안하는 자율형 코딩 에이전트 '슈퍼에이전트'를 공개했습니다. 딥시크는 최근 150억 달러 규모의 투자를 유치하며 AI 에이전트 시장에서의 경쟁력을 강화하고 있습니다.",
+            "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711643",
+            "timestamp": 1793536910000,
+            "date": "2026-11-01"
+        },
         {
             "title": "메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진 - AI타임스",
             "summary_kr": "메타는 중국 푸리에와 협력하여 사람의 표정과 동작을 모방하는 휴머노이드 로봇 '맥스' 시제품을 개발하고 후속 모델 제작에 착수했습니다. 이는 자체 AI 에이전트 '뮤즈'를 물리적 공간으로 확장하려는 전략이나, 미국 당국의 중국산 로봇 규제 강화라는 변수를 안고 있습니다.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JU0FWR3d4QlVvcWNVNlBSZmtnNTFFOC0zY0lJcnNNRWhQTVUwd2pnQ3pwakRRX1hjRzlIOEI0dmFnNnR4YmhheVlLU0pzM2dvWWZlZW13b2VEV0lJODM00gFfQVVfeXFMTklTQVZHd3hCVW9xY1U2UFJma2c1MUU4LTNjSUlyc01FaFBNVTB3amdDenBqRFFfWGNHOUg4QjR2YWc2dHhiaGF5WUtTSnMzZ29ZZmVlbXdvZURXSUk4MzQ?oc=5",
             "timestamp": 1790838360000,
             "date": "2026-10-01"
-        },
-        {
-            "title": "애플, 13일 스마트홈 허브 공개…'AI 시리' 앞세워 아마존·구글에 도전장 - AI타임스",
-            "summary_kr": "애플이 오는 13일 AI 기반의 시리가 탑재된 스마트홈 허브를 공개하며, 기존 시장 강자인 아마존과 구글에 본격적인 도전장을 내밀었습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lbDRJOHZ5LVhzQm9IdzFiaTk5aGcwcFF5QVFSYkgzdkZQNnltRTlsVGw5M0xuczEzZERPUExHSXpNZFJtTHRmTmt3bF84Zk9yTk10VThYOUNiSkhaWnUxQ3J0M2NaZFBJd0E?oc=5",
-            "timestamp": 1790838648000,
-            "date": "2026-10-01"
-        },
-        {
-            "title": "아마존(Amazon)이 원전을 사는 이유... AI 데이터센터 전력난에 20년 PPA - 테크데일리",
-            "summary_kr": "아마존이 AI 데이터센터 운영에 필요한 막대한 전력을 확보하기 위해 20년 장기 전력구매계약(PPA)을 체결하며 원전 도입에 속도를 내고 있습니다.",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzXzluX0x4czJ1T1lqWFVXSXpack5YUFU4cFg4andOVFZONU0xM0F5WkVBTFpXYmRIVUx2ajYzQng0T1luMU1TcXgxWk5PaXJaV0xsZ3JpTGtyemhWLUd6LW5adlVjc0dab2t1aHpXbEc3UdIBckFVX3lxTFBzXzluX0x4czJ1T1lqWFVXSXpack5YUFU4cFg4andOVFZONU0xM0F5WkVBTFpXYmRIVUx2ajYzQng0T1luMU1TcXgxWk5PaXJaV0xsZ3JpTGtyemhWLUd6LW5adlVjc0dab2t1aHpXbEc3UQ?oc=5",
-            "timestamp": 1790834143000,
-            "date": "2026-10-01"
-        },
-        {
-            "title": "오픈AI, 24시간 일해주는 AI비서 ‘닷’ 출시… 메타 ‘뮤즈’에 맞불 - 동아일보",
-            "summary_kr": "오픈AI가 메타의 '뮤즈'에 대응하기 위해 24시간 자율 업무 수행이 가능한 AI 비서 '닷(Dot)'을 출시하며 시장 경쟁력을 강화했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PWVltSldoTGp6RWd5Z19DRDJ1d1BqdjFPanpGdE54WXhhWFoyX3hQbC0zREZrSDl0TjB6VlhmY0JRdElIYzRFNUJDUC1pWDVGMDlEN1FhUDJuaFFlenVRalZQeGQyTndwZjFDVWxydWs5SzRHUUHSAWZBVV95cUxPTjE2N0x5UTktVzZjOVRxOVRyNHlQZ3V1LTN1Rm5YYUFMVC1nLWRwZjA4R1g4NWVtSE5xcTN1UU1memlrTVRVWjBtbS1maGZHanItUE5Kc2dTbUFfcWtrRUs4ek5aLUE?oc=5",
-            "timestamp": 1790796600000,
-            "date": "2026-09-30"
         }
     ]
 }

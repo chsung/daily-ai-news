@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-01 10:15:48",
+    "last_update": "2026-11-01 19:26:49",
     "articles": [
+        {
+            "title": "애플, 13일 스마트홈 허브 공개…'AI 시리' 앞세워 아마존·구글에 도전장 - AI타임스",
+            "summary_kr": "애플이 오는 13일 AI 기반의 시리가 탑재된 스마트홈 허브를 공개하며, 기존 시장 강자인 아마존과 구글에 본격적인 도전장을 내밀었습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lbDRJOHZ5LVhzQm9IdzFiaTk5aGcwcFF5QVFSYkgzdkZQNnltRTlsVGw5M0xuczEzZERPUExHSXpNZFJtTHRmTmt3bF84Zk9yTk10VThYOUNiSkhaWnUxQ3J0M2NaZFBJd0E?oc=5",
+            "timestamp": 1790838648000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "아마존(Amazon)이 원전을 사는 이유... AI 데이터센터 전력난에 20년 PPA - 테크데일리",
+            "summary_kr": "아마존이 AI 데이터센터 운영에 필요한 막대한 전력을 확보하기 위해 20년 장기 전력구매계약(PPA)을 체결하며 원전 도입에 속도를 내고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzXzluX0x4czJ1T1lqWFVXSXpack5YUFU4cFg4andOVFZONU0xM0F5WkVBTFpXYmRIVUx2ajYzQng0T1luMU1TcXgxWk5PaXJaV0xsZ3JpTGtyemhWLUd6LW5adlVjc0dab2t1aHpXbEc3UdIBckFVX3lxTFBzXzluX0x4czJ1T1lqWFVXSXpack5YUFU4cFg4andOVFZONU0xM0F5WkVBTFpXYmRIVUx2ajYzQng0T1luMU1TcXgxWk5PaXJaV0xsZ3JpTGtyemhWLUd6LW5adlVjc0dab2t1aHpXbEc3UQ?oc=5",
+            "timestamp": 1790834143000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "오픈AI, 24시간 일해주는 AI비서 ‘닷’ 출시… 메타 ‘뮤즈’에 맞불 - 동아일보",
+            "summary_kr": "오픈AI가 메타의 '뮤즈'에 대응하기 위해 24시간 자율 업무 수행이 가능한 AI 비서 '닷(Dot)'을 출시하며 시장 경쟁력을 강화했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PWVltSldoTGp6RWd5Z19DRDJ1d1BqdjFPanpGdE54WXhhWFoyX3hQbC0zREZrSDl0TjB6VlhmY0JRdElIYzRFNUJDUC1pWDVGMDlEN1FhUDJuaFFlenVRalZQeGQyTndwZjFDVWxydWs5SzRHUUHSAWZBVV95cUxPTjE2N0x5UTktVzZjOVRxOVRyNHlQZ3V1LTN1Rm5YYUFMVC1nLWRwZjA4R1g4NWVtSE5xcTN1UU1memlrTVRVWjBtbS1maGZHanItUE5Kc2dTbUFfcWtrRUs4ek5aLUE?oc=5",
+            "timestamp": 1790796600000,
+            "date": "2026-09-30"
+        },
         {
             "title": "美 FTC, 앤스로픽·오픈AI 등 조사 확대…AI 위험성 관련 사상 최초 - fnnews.com",
             "summary_kr": "미국 연방거래위원회(FTC)가 AI 산업의 잠재적 위험성을 규명하기 위해 앤스로픽과 오픈AI 등 주요 기업을 대상으로 사상 첫 공식 조사에 착수했습니다.",
@@ -679,27 +700,6 @@
             "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423735",
             "timestamp": 1789539000000,
             "date": "2026-09-16"
-        },
-        {
-            "title": "오픈AI, '몸값 40% 뛴' 1.2조달러 가치로 추가 투자 유치 추진 - AI타임스",
-            "summary_kr": "오픈AI가 최신 모델의 흥행으로 연간 반복 매출 400억 달러를 돌파함에 따라 기업 가치 1조 2천억 달러를 목표로 추가 투자 유치를 추진합니다. 이는 수개월 전 대비 약 40% 상승한 평가액으로, 급증하는 AI 모델 개발 및 데이터센터 운영 비용을 충당하기 위한 전략적 행보로 풀이됩니다.",
-            "link": "https://www.aitimes.com/news/articleView.html?idxno=215324",
-            "timestamp": 1789528417000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "오픈AI, 폰 카메라 화질 개선 스타트업 인수 - 조선일보",
-            "summary_kr": "오픈AI가 스마트폰 카메라 화질 개선 기술을 보유한 ‘글래스 이미징’을 3억 달러 규모에 인수하며 소비자용 AI 기기 개발을 가속화하고 있습니다. 이번 인수는 조니 아이브와의 협업을 포함해 하드웨어 기기 내에서 주변 환경을 정밀하게 인식하기 위한 AI의 시각적 역량을 강화하려는 전략으로 풀이됩니다.",
-            "link": "https://www.chosun.com/economy/tech_it/2026/09/16/X7M2ACGSZFHTHIQ73BK6TM74CU",
-            "timestamp": 1789486440000,
-            "date": "2026-09-15"
-        },
-        {
-            "title": "세일즈포스, 고객관리 AI모델 자체개발…엔비디아 개방형 AI활용 - v.daum.net",
-            "summary_kr": "세일즈포스가 엔비디아의 개방형 모델을 기반으로 기업 데이터 유출 우려 없는 CRM 특화 추론 모델 ‘코아’를 자체 개발해 공개했습니다. 해당 모델은 100% 가상 데이터 학습만으로 오류율을 기존 대비 3분의 1 수준으로 낮췄으며, 향후 슬랙 등 다양한 업무 도구와 연동해 실무 효율을 높일 전망입니다.",
-            "link": "https://v.daum.net/v/20260915210214478",
-            "timestamp": 1789473720000,
-            "date": "2026-09-15"
         }
     ]
 }
