@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-10-31 19:36:41",
+    "last_update": "2026-11-01 19:56:19",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1793318400000,
+            "date": "2026-10-30",
+            "title": "Fair use benefits everyone",
+            "summary_kr": "다양한 분야의 전문가들은 AI 학습이 저작권법상 '공정 이용(Fair Use)' 원칙에 해당하며, 이는 혁신을 촉진하고 공익을 증진하는 필수적인 과정이라고 주장합니다.",
+            "summary_en": "Experts across diverse fields argue that AI training constitutes 'fair use' under copyright law, asserting it is a vital practice that fosters innovation and delivers broad public benefits.",
+            "link": "https://openai.com/index/fair-use-benefits-everyone"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1789603200000,
+            "date": "2026-09-17",
+            "title": "How Claude is uplifting biomolecular modeling",
+            "summary_kr": "앤스로픽은 클로드의 추론 최적화 기술을 통해 단백질 설계 및 구조 예측 모델의 연산 효율을 최대 4배 향상시켰으며, 이를 오픈소스로 공개하여 신약 개발 연구의 접근성을 대폭 높였습니다.",
+            "summary_en": "Anthropic has optimized Claude to accelerate biological modeling tasks by up to 4x, significantly increasing research accessibility in drug discovery by open-sourcing these efficient models.",
+            "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1793396131000,
@@ -882,24 +900,6 @@
             "summary_kr": "앤스로픽은 AI 에이전트의 폭발적인 코드 생성량으로 인한 기존 깃(Git)의 한계를 극복하기 위해, 상시 연결 환경에 최적화된 독자적인 버전 관리 시스템 'Scion'을 구축했습니다.",
             "summary_en": "To overcome the limitations of Git in the face of explosive code generation by AI agents, Anthropic built 'Scion,' a proprietary version control system optimized for always-online agentic workflows.",
             "link": "https://www.anthropic.com/research/redesigning-source-control"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1791763200000,
-            "date": "2026-10-12",
-            "title": "Strengthening our defenses against distillation attacks",
-            "summary_kr": "앤스로픽(Anthropic)은 모델의 추론 과정을 보호하는 신규 방어 체계를 도입하여, 인가되지 않은 모델 복제(지식 증류) 시도를 90~99% 차단하는 성과를 거두었습니다. 이는 기술 유출 방지 및 국가 안보 리스크 관리를 위해 필수적인 조치입니다.",
-            "summary_en": "Anthropic has implemented new defense mechanisms to protect model reasoning, successfully reducing unauthorized model distillation attempts by 90-99% to mitigate security risks and prevent the illicit replication of frontier capabilities.",
-            "link": "https://www.anthropic.com/news/distillation-defenses"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790121600000,
-            "date": "2026-09-23",
-            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-            "summary_kr": "앤스로픽의 AI 모델 클로드(Claude)가 인간의 최소한의 개입만으로 방대한 DNA 데이터를 분석해 CRISPR와 유사한 특성을 가진 새로운 효소 시스템을 독자적으로 발견했습니다.",
-            "summary_en": "Anthropic's AI model, Claude, autonomously discovered a novel enzyme system with CRISPR-like properties by analyzing massive DNA datasets with minimal human intervention.",
-            "link": "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system"
         }
     ]
 }

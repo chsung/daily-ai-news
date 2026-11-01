@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-10-31 19:36:41",
+    "last_update": "2026-11-01 19:56:19",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1790899200000,
+            "date": "2026-10-02",
+            "title": "Chatham scales its capital markets expertise with OpenAI",
+            "summary_kr": "채텀 파이낸셜(Chatham Financial)은 오픈AI의 코덱스(Codex)와 GPT 모델을 도입하여 자본 시장 워크플로우를 혁신하고, 거래 검증 시간을 30분에서 4분 미만으로 단축하며 업무 효율성을 극대화했습니다.",
+            "summary_en": "Chatham Financial has optimized its capital markets operations by integrating OpenAI’s Codex and GPT models, successfully reducing trade validation time from 30 minutes to under 4 minutes while enhancing workflow accuracy.",
+            "link": "https://openai.com/index/chatham-financial"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1790897400000,
+            "date": "2026-10-01",
+            "title": "Our Project Suncatcher prototype satellite is in orbit.",
+            "summary_kr": "구글이 스페이스X와 협력하여 우주 환경에서 머신러닝 인프라의 확장 가능성을 검증하기 위한 '프로젝트 선캐처'의 프로토타입 위성을 성공적으로 발사했습니다.",
+            "summary_en": "Google has successfully launched its 'Project Suncatcher' prototype satellite with SpaceX to explore the viability of scalable machine learning infrastructure in space.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1790890553000,
@@ -882,24 +900,6 @@
             "summary_kr": "Hex는 GPT-6 Astra를 도입하여 데이터 분석의 기술적 처리와 시각화 역량을 강화함으로써, 누구나 복잡한 데이터를 직관적이고 설득력 있는 비즈니스 인사이트로 쉽게 변환할 수 있게 지원합니다.",
             "summary_en": "Hex has integrated GPT-6 Astra to enhance its data platform, enabling users to transform complex analysis into interactive, visually compelling reports that drive better business decision-making.",
             "link": "https://openai.com/index/hex-gpt-6-astra"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1789752107000,
-            "date": "2026-09-18",
-            "title": "Why the basics still matter for cybersecurity in the AI era",
-            "summary_kr": "AI 시대에도 사이버 보안의 핵심은 기본적인 취약점 관리이며, 자율적 공격이 고도화됨에 따라 공격 경로를 차단하기 위한 지속적인 노출 관리와 보안 통제가 필수적입니다.",
-            "summary_en": "In the AI era, fundamental cybersecurity practices remain critical, as autonomous threats rapidly exploit traditional weaknesses; therefore, continuous exposure management and robust security controls are essential to neutralize emerging attack paths.",
-            "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1789689600000,
-            "date": "2026-09-18",
-            "title": "Introducing Grok Voice Transcribe 2.0",
-            "summary_kr": "SpaceXAI가 이전 모델 대비 정확도를 두 배 높이고 실환경 음성 인식 성능을 극대화한 'Grok Voice Transcribe 2.0'을 동일한 가격에 출시했습니다.",
-            "summary_en": "SpaceXAI has launched 'Grok Voice Transcribe 2.0,' which doubles the accuracy of its predecessor and optimizes real-world speech recognition performance at the same price point.",
-            "link": "https://x.ai/news/grok-voice-transcribe-2"
         }
     ]
 }
