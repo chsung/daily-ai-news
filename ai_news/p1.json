@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-10-31 19:11:56",
+    "last_update": "2026-11-01 10:16:34",
     "articles": [
+        {
+            "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo - SiliconANGLE",
+            "summary_en": "Dulo, an AI engineering startup co-founded by Google X creator Sebastian Thrun, has secured $130 million to develop foundation models optimized for hardware design and industrial simulation. The funding round drew high-profile support from investors including Eric Schmidt, Marc Benioff, and John Doerr, as the company seeks to accelerate the manufacturing of complex systems like robotics and autonomous vehicles.",
+            "link": "https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo",
+            "timestamp": 1793404740000,
+            "date": "2026-10-30"
+        },
+        {
+            "title": "Samsung executives meet OpenAI CEO Sam Altman on AI strategy - Korea JoongAng Daily",
+            "summary_en": "Samsung executives and SK Group Chairman Chey Tae-won held strategic discussions with OpenAI CEO Sam Altman regarding the future of enterprise AI and infrastructure collaboration. These talks highlight Samsung's ongoing efforts to supply high bandwidth memory chips for OpenAI’s global 'Stargate' data center project while integrating generative AI across its corporate management systems.",
+            "link": "https://www.koreajoongangdaily.com/business/samsung-sk-and-openai-chief-discuss-ais-impact-on-future-business-strategies/12948294",
+            "timestamp": 1793428756000,
+            "date": "2026-10-31"
+        },
         {
             "title": "Anthropic's IPO filing shows how it's boosting biotech research - Business Insider",
             "summary_en": "Anthropic is prioritizing the life sciences sector in its IPO strategy, leveraging its Claude AI models for drug discovery and biological research as part of a long-term goal to accelerate medical innovation. The company has already begun heavy investment in the field, including the acquisition of Coefficient Bio, the establishment of a molecular biology lab, and strategic partnerships with major pharmaceutical firms like Eli Lilly.",
@@ -686,20 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWVhbVg4T1p1R0dHREV5eTVmWEJGRzJzYlFpT2pidWF0V3hQMHJVcHRYN1pmWTlKRmdpWHJiWTJqbFNJcDRheThYMXF6amtyM3dpQXBCRVhuOE9Eb0JHTFFKUl9HNDNhWnFwdVJVeGJWVFVPbzhxbXAwSno5YWhUaEROMzZkUTNWeS1TVFdvR2gwYS1US2JCSF9lSk9WSXZpWmZZNlBRam9YV01fRXJ5Rld0b3RsaHBmVG12UWRyd3NkTXNZaW5aYUxQQ1NEZw?oc=5",
             "timestamp": 1790115673000,
             "date": "2026-09-22"
-        },
-        {
-            "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49% - MarkTechPost",
-            "summary_en": "Nvidia introduced SoL-Pi, an auto-research loop framework that optimizes coding agents by reducing token traffic requirements by up to 49%.",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNTU5X254UFg1Ukk1VndZMnp6cDZmSmNUNkZwcktKWjNUUG44Zk5OZGVPelRtSWxrZTZvdW4tZnFDcDV2Y3dyTzVEV0hwUzNBYlEzVmdDdHF3UXh4M0p2eUdtU3lZTUNadU9TQ0o4NmNsS3hrVFFKaWJyS3BRdWVSVmctd2VCS0HSAYwBQVVfeXFMTktfNlN6SkxzR2ZOSE1UU0hSbWh3d0UwNDFjTnNkSHVqWHh0dl9BNTd6X1NlMWRTLVA3cGt4d1lyYWpnZVN4T0JKLWxoSHdFRnFZOTRhZWtBdmdkZUlsMXRBOVAtMjFfSkgyUlFPbHMwcXZGSElLaWFQUE9PNjJ5dE1UMEp4Q3NYN2dZcGQ?oc=5",
-            "timestamp": 1790053483000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "Nvidia establishes Israeli research group focused on AI for medicine and science - calcalistech.com",
-            "summary_en": "Nvidia is establishing a dedicated research group in Israel to advance the development of artificial intelligence applications tailored for the medical and scientific sectors.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WME1ORVY5SFFXdGNuNkxaRUVVamVNSVB1dm1WUDNhbDZGWU9qUFhDUm1JQ2ZETXJpNDZ0ZjBwUWZ1THlNMTRwZWpyanhHR05iaUhkMzFwQzNweHFIQWk0SXNTNVFXUEl2bEE?oc=5",
-            "timestamp": 1790142720000,
-            "date": "2026-09-23"
         }
     ]
 }

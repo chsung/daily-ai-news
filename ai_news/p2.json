@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-10-31 19:11:56",
+    "last_update": "2026-11-01 10:16:34",
     "articles": [
+        {
+            "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49% - MarkTechPost",
+            "summary_en": "Nvidia introduced SoL-Pi, an auto-research loop framework that optimizes coding agents by reducing token traffic requirements by up to 49%.",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNTU5X254UFg1Ukk1VndZMnp6cDZmSmNUNkZwcktKWjNUUG44Zk5OZGVPelRtSWxrZTZvdW4tZnFDcDV2Y3dyTzVEV0hwUzNBYlEzVmdDdHF3UXh4M0p2eUdtU3lZTUNadU9TQ0o4NmNsS3hrVFFKaWJyS3BRdWVSVmctd2VCS0HSAYwBQVVfeXFMTktfNlN6SkxzR2ZOSE1UU0hSbWh3d0UwNDFjTnNkSHVqWHh0dl9BNTd6X1NlMWRTLVA3cGt4d1lyYWpnZVN4T0JKLWxoSHdFRnFZOTRhZWtBdmdkZUlsMXRBOVAtMjFfSkgyUlFPbHMwcXZGSElLaWFQUE9PNjJ5dE1UMEp4Q3NYN2dZcGQ?oc=5",
+            "timestamp": 1790053483000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "Nvidia establishes Israeli research group focused on AI for medicine and science - calcalistech.com",
+            "summary_en": "Nvidia is establishing a dedicated research group in Israel to advance the development of artificial intelligence applications tailored for the medical and scientific sectors.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WME1ORVY5SFFXdGNuNkxaRUVVamVNSVB1dm1WUDNhbDZGWU9qUFhDUm1JQ2ZETXJpNDZ0ZjBwUWZ1THlNMTRwZWpyanhHR05iaUhkMzFwQzNweHFIQWk0SXNTNVFXUEl2bEE?oc=5",
+            "timestamp": 1790142720000,
+            "date": "2026-09-23"
+        },
         {
             "title": "Google 뉴스 - UK Parliament",
             "summary_en": "The UK Parliament is actively monitoring and deliberating on the ongoing developments and regulatory implications surrounding Google News.",
@@ -686,20 +700,6 @@
             "link": "https://www.war.gov/News/News-Stories/Article/Article/4588244/chatgpt-grok-added-to-war-departments-ai-system-options",
             "timestamp": 1788299990000,
             "date": "2026-09-01"
-        },
-        {
-            "title": "Google Says Deepmind And Google Research Launch Weathernext 3 Global Weather AI Model - TradingView",
-            "summary_en": "Google DeepMind and Google Research have unveiled WeatherNext 3, a new global AI model designed to advance meteorological forecasting capabilities. The launch underscores Google's ongoing commitment to applying large-scale artificial intelligence to complex climate and weather modeling.",
-            "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN44V16D:0-google-says-deepmind-and-google-research-launch-weathernext-3-global-weather-ai-model",
-            "timestamp": 1788451574000,
-            "date": "2026-09-03"
-        },
-        {
-            "title": "Equinix Accelerates AI Inference for Enterprises with NVIDIA and Together AI - Equinix Newsroom",
-            "summary_en": "Equinix has launched the 'Inference Exchange' in partnership with NVIDIA and Together AI to provide a distributed infrastructure for deploying enterprise-grade open-source models. The solution combines NVIDIA’s reference architectures with Together AI’s platform to deliver low-latency AI performance across global data centers.",
-            "link": "https://newsroom.equinix.com/2026-09-02-Equinix-Accelerates-AI-Inference-for-Enterprises-with-NVIDIA-and-Together-AI",
-            "timestamp": 1788350812000,
-            "date": "2026-09-02"
         }
     ]
 }
