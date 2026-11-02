@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-01 19:27:36",
+    "last_update": "2026-11-02 10:46:37",
     "articles": [
+        {
+            "title": "Google 뉴스 - Groupe BNP Paribas",
+            "summary_en": "BNP Paribas is actively leveraging Google News as a strategic platform to monitor global developments and maintain intelligence on the rapidly evolving artificial intelligence sector.",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWZFekQ2Nm5fcjlmR19uMm5KeTJaVHdpaUxVZUdrRmE5WkJaOHBFa1NmN050bm9la09CZzExTnc2c3Y5c2hlMnBhcHZ6Wk5jYkEwa0FPSmt2ckQ3NDcyOWpWMWYtclo1ZTdWOXEwQ1ZYb2hMbjZQQ1N3TnZaNURURFEwMXM1QVhWQnB0QnNHdThOVnlFQV9jckFUaUlKSVJRdmxFVXJXZ3oxSnd3Z3lNcEFtbmpuWWFmbFhSNVY3Q0YxX3d2QU5oZ2tB?oc=5",
+            "timestamp": 1790265628000,
+            "date": "2026-09-24"
+        },
+        {
+            "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
+            "summary_en": "OpenAI CEO Sam Altman addressed the United Nations Security Council to discuss the implications and governance of rapidly advancing artificial intelligence technologies. His remarks emphasized the need for international cooperation to manage the risks and safety challenges posed by global AI deployment.",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
+            "timestamp": 1790196976000,
+            "date": "2026-09-23"
+        },
         {
             "title": "Claude discovers a novel enzyme system with CRISPR-like repeats - Anthropic",
             "summary_en": "Anthropic researchers have utilized the Claude AI model to identify a previously unknown enzyme system containing CRISPR-like genetic repeats. This discovery highlights the potential for large language models to accelerate breakthroughs in biological research and genomic engineering.",
@@ -685,20 +699,6 @@
             "summary_en": "Google DeepMind has introduced WeatherNext 3, a high-resolution forecasting model that integrates real-time satellite data to achieve a 60% improvement in rain prediction accuracy. The model outperforms traditional systems and key industry competitors, and will be directly implemented into core Google services like Search, Maps, and Gemini.",
             "link": "https://theaiinsider.tech/2026/09/04/google-deepmind-releases-weathernext-3-its-most-accurate-ai-weather-forecasting-model-yet",
             "timestamp": 1788541823000,
-            "date": "2026-09-04"
-        },
-        {
-            "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting - research.google",
-            "summary_en": "Google has introduced TimesFM-3, a 330-million parameter time-series foundation model trained on over 1 trillion data points to enable native multivariate forecasting. Unlike its univariate predecessors, the model utilizes a 'lookahead' strategy and contiguous patch masking to perform complex, multi-variable predictions in a single forward pass without needing fine-tuning.",
-            "link": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
-            "timestamp": 1788503532000,
-            "date": "2026-09-04"
-        },
-        {
-            "title": "NVIDIA (NVDA)’s Hugging Face Deal Tests the Next Phase of its AI Strategy - Yahoo Finance",
-            "summary_en": "NVIDIA has agreed to acquire Hugging Face for approximately $12.93 billion, a strategic move to secure a stronger foothold in the open-source AI ecosystem and drive demand for its computing infrastructure. While the deal expands Nvidia’s influence over model development and deployment, it faces industry scrutiny regarding potential conflicts of interest and the risk of compromising the platform's neutrality.",
-            "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-hugging-face-deal-011913536.html",
-            "timestamp": 1788484740000,
             "date": "2026-09-04"
         }
     ]

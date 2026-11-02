@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-01 19:27:36",
+    "last_update": "2026-11-02 10:46:37",
     "articles": [
+        {
+            "title": "Samsung Executives Discuss AI Strategy With OpenAI CEO Sam Altman - www.thelec.net",
+            "summary_en": "Samsung is intensifying its company-wide AI transformation by partnering with OpenAI on infrastructure projects, such as the Stargate memory supply, and training its entire workforce to adopt AI in decision-making by February 2027. This strategic shift follows high-level meetings between executive leadership and Sam Altman to address the integration of AI across Samsung's global semiconductor, data center, and manufacturing divisions.",
+            "link": "https://www.thelec.net/news/articleView.html?idxno=15165",
+            "timestamp": 1793610944000,
+            "date": "2026-11-02"
+        },
+        {
+            "title": "Anthropic wants to use Claude AI to help discover new lifesaving drugs, says 'the best way to identify and work through these bottlenecks is to get deeply involved in real drug programs' - TechRadar",
+            "summary_en": "Anthropic is embedding its Claude AI into active pharmaceutical research, achieving significant breakthroughs such as a 70% reduction in CAR T-cell component length and the rapid generation of 35,000 potential antibody designs. By collaborating with biotech firms, the company is demonstrating how AI can accelerate drug development timelines and reduce manual administrative burdens by up to 89% in laboratory documentation.",
+            "link": "https://www.techradar.com/pro/anthropic-wants-to-use-claude-ai-to-help-discover-new-lifesaving-drugs-says-the-best-way-to-identify-and-work-through-these-bottlenecks-is-to-get-deeply-involved-in-real-drug-programs",
+            "timestamp": 1793585700000,
+            "date": "2026-11-02"
+        },
         {
             "title": "Nvidia's web of AI bets: Smart strategy or bubble risk? - Japan Today",
             "summary_en": "Nvidia’s significant influence and deep investments in the AI sector have sparked debate among industry analysts regarding whether the company's strategy represents a calculated long-term advantage or an unsustainable market bubble.",
@@ -686,20 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BYaU0yYTZra0M4eWktSXVydEJjbTVtM0JLZUtpTlZUNWZPb2RqUHR0V1hEdlczMkZyOU90MW83eDhCWVJMSnhXLWxvcWhJMDdiNkUtZEJLR0ExN0xnMS1YdGJOaWJyRXZmZlJGQnJNVWJKbDl5dG1uMGtsRk9VbVRCcWpKVjlnUnVfMXU2VjNJOGdhOGt4UEZpeGpyNndSTUpodXphZV9jUQ?oc=5",
             "timestamp": 1790255800000,
             "date": "2026-09-24"
-        },
-        {
-            "title": "Google 뉴스 - Groupe BNP Paribas",
-            "summary_en": "BNP Paribas is actively leveraging Google News as a strategic platform to monitor global developments and maintain intelligence on the rapidly evolving artificial intelligence sector.",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWZFekQ2Nm5fcjlmR19uMm5KeTJaVHdpaUxVZUdrRmE5WkJaOHBFa1NmN050bm9la09CZzExTnc2c3Y5c2hlMnBhcHZ6Wk5jYkEwa0FPSmt2ckQ3NDcyOWpWMWYtclo1ZTdWOXEwQ1ZYb2hMbjZQQ1N3TnZaNURURFEwMXM1QVhWQnB0QnNHdThOVnlFQV9jckFUaUlKSVJRdmxFVXJXZ3oxSnd3Z3lNcEFtbmpuWWFmbFhSNVY3Q0YxX3d2QU5oZ2tB?oc=5",
-            "timestamp": 1790265628000,
-            "date": "2026-09-24"
-        },
-        {
-            "title": "Sam Altman’s remarks at the United Nations Security Council - OpenAI",
-            "summary_en": "OpenAI CEO Sam Altman addressed the United Nations Security Council to discuss the implications and governance of rapidly advancing artificial intelligence technologies. His remarks emphasized the need for international cooperation to manage the risks and safety challenges posed by global AI deployment.",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSllHMS1Cb2QyZVQ5QVh2SEJzamI0N2tfSjE0OGJYQ2hzdERiMldGZnpGZ3AtYUk2NU1FNGVLNGEwcU9pQUJUa0F4V0lZVXVfd1RGbGZQZF81b29EMWFoYUp5X051YkNsYjJmclJLR3Z4dw?oc=5",
-            "timestamp": 1790196976000,
-            "date": "2026-09-23"
         }
     ]
 }

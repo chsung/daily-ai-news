@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-11-01 19:26:49",
+    "last_update": "2026-11-02 10:45:53",
     "articles": [
+        {
+            "title": "구글, 장기 작업 겨냥한 ‘제미나이 4 아르곤’ 출시...“한 번에 100만 토큰” - 더에이아이",
+            "summary_kr": "구글이 장기 작업 처리에 최적화된 AI 모델 '제미나이 4 아르곤'을 공개하며, 한 번에 100만 토큰을 처리할 수 있는 대규모 컨텍스트 창 성능을 앞세워 시장을 공략합니다.",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWN3FwcTdqdlhwdXh2TS1WNmlKT0NGX1htRC0yNEtiQjN4OHNFZUo2Wmk5a202RVprXzhkT3JjMmoyeXFPTVhxSGVTTVUwZURvMkNpWHAzR0FfaHRrcUVzRzQybUFNM1BYOWow?oc=5",
+            "timestamp": 1790844065000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "\"엔비디아 쿠다 물렀거라\" 딥시크, 화웨이 AI칩용 개발도구 공개 - 뉴시스",
+            "summary_kr": "중국의 딥시크가 엔비디아의 쿠다(CUDA) 생태계에 대응하기 위해 화웨이 AI 칩 전용 개발 도구를 공개하며 독자적인 AI 인프라 구축에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pOHgxak9DTk9ibzI4SjVZTm9CbEptS2hBdldsOXNoOXFJYllFU3Fnd3ZHSjJmektGSXVhYkhyMExSTDVTdWszU3JJajlPR2J1RnJiTjY5ZEVfZXplRmNVR2o2YTFxT29UQlhCX0xrSGc5WjlwTkl5WtIBeEFVX3lxTE5pOHgxak9DTk9ibzI4SjVZTm9CbEptS2hBdldsOXNoOXFJYllFU3Fnd3ZHSjJmektGSXVhYkhyMExSTDVTdWszU3JJajlPR2J1RnJiTjY5ZEVfZXplRmNVR2o2YTFxT29UQlhCX0xrSGc5WjlwTkl5Wg?oc=5",
+            "timestamp": 1790842638000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "오픈AI, 반도체 설계 전용 'GPT-시놉시스' 개발 합의…'수익 공유' 적용 - AI타임스",
+            "summary_kr": "오픈AI가 시놉시스와 협력해 반도체 설계 전용 AI 모델을 개발하며, 수익 공유 모델을 도입해 산업 현장 최적화에 나섰습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82dWF5NmkwQkZhQTBGMnJPLVF5d1p6YlhTS19rR2cwb1lZcjA5b1h0cWJxY0wtMEI5NmwzaTloNUxsd0hxSVBhVEdidWx3ZWp0WHlObTljS1hWc29PLU9UaUVObzdZb2dCZ0E?oc=5",
+            "timestamp": 1790834595000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "글·사진 이어 단백질에도 ‘AI 워터마크’…바이오안보 새 안전장치 될까 - 조선일보",
+            "summary_kr": "단백질 데이터에도 AI 워터마크 기술이 도입되어, 바이오 분야의 보안 강화와 디지털 콘텐츠의 신뢰성을 높이는 새로운 안전장치로 주목받고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPalY5Y2lmRkJIUDdIVlVyaFkzc25TS3JBYmZyVU1PM1AzbDFJclZGd0xRakdLYWI2enpfQ0M5dHJKYzNMOVQ0ODQ1Zk5DMUM3WGRvU3Y1RDlpZENRdEU2Sk4zTV8waXlJVGRWckJmaTJ2eDJ6clZQaXhkcDhfNzBXU0tlZw?oc=5",
+            "timestamp": 1790843040000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "구글, 7개월 만에 최상위모델 ‘제미나이 4’ 출시…속도조절론 속 불붙은 추격전 - 경향신문",
+            "summary_kr": "구글이 최신 모델 '제미나이 4'를 출시하며 AI 시장의 경쟁을 가속화하는 가운데, 업계의 기술 개발 속도 조절론과 추격전이 동시에 맞물리고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JU0FWR3d4QlVvcWNVNlBSZmtnNTFFOC0zY0lJcnNNRWhQTVUwd2pnQ3pwakRRX1hjRzlIOEI0dmFnNnR4YmhheVlLU0pzM2dvWWZlZW13b2VEV0lJODM00gFfQVVfeXFMTklTQVZHd3hCVW9xY1U2UFJma2c1MUU4LTNjSUlyc01FaFBNVTB3amdDenBqRFFfWGNHOUg4QjR2YWc2dHhiaGF5WUtTSnMzZ29ZZmVlbXdvZURXSUk4MzQ?oc=5",
+            "timestamp": 1790838360000,
+            "date": "2026-10-01"
+        },
         {
             "title": "애플, 13일 스마트홈 허브 공개…'AI 시리' 앞세워 아마존·구글에 도전장 - AI타임스",
             "summary_kr": "애플이 오는 13일 AI 기반의 시리가 탑재된 스마트홈 허브를 공개하며, 기존 시장 강자인 아마존과 구글에 본격적인 도전장을 내밀었습니다.",
@@ -664,41 +699,6 @@
             "summary_kr": "애플이 자체적인 AI 추론 역량 강화를 위해 엔비디아의 고속 인터커넥트 기술인 'NV링크 퓨전' 도입을 검토하며, 이르면 2029년 자체 AI 서버 출시를 추진합니다.",
             "link": "https://bloomingbit.io/feed/news/120475",
             "timestamp": 1789565673000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "쿨스, 엔비디아 '루빈 울트라' 겨냥 초대형 패키지 접합 기술 개발 - 디일렉",
-            "summary_kr": "쿨스가 엔비디아의 차세대 '루빈 울트라'와 같은 초대형 AI 반도체 패키지에서 발생하는 휨 현상을 억제하고 공정 시간을 기존 대비 6배 이상 단축할 수 있는 신규 접합 기술을 개발했습니다.",
-            "link": "https://www.thelec.kr/news/articleView.html?idxno=62406",
-            "timestamp": 1789552893000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "텍사스 데이터센터 규제 폭탄… 엔비디아, 구글 출신 에너지 총괄 영입 | 임팩트온 - 임팩트온",
-            "summary_kr": "텍사스주가 데이터센터의 수자원 사용 실태 조사 및 전력망 연결 제한 등 고강도 규제에 나서자, 엔비디아는 구글 출신의 에너지 전문가를 영입하여 AI 인프라의 전력 및 수자원 리스크 관리에 대응하고 있습니다.",
-            "link": "http://www.impacton.net/news/articleView.html?idxno=20350",
-            "timestamp": 1789542857000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "메타, 자체 개발 저비용 AI 칩 내년 순차 도입 - 조선비즈 - biz.chosun.com",
-            "summary_kr": "메타가 내년부터 3세대 AI 칩 'MTIA 450'을 시작으로 자체 개발한 고효율 반도체를 데이터센터에 순차 투입하며 운영 비용 및 전력 효율 최적화에 나섭니다. 이번 프로젝트는 TSMC와의 협력을 통해 범용 추론 작업의 성능을 강화하고, 향후 외부 공급업체 대비 확실한 기술 경쟁력을 확보하려는 전략입니다.",
-            "link": "https://biz.chosun.com/it-science/ict/2026/09/16/IOXIN3DUXFDQRPRLAREAW7IPQE",
-            "timestamp": 1789537680000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "AI 속도 조절 논란에 참전한 저커버그 \"각 연구소가 안전성 확보해야\" - 연합인포맥스",
-            "summary_kr": "마크 저커버그 메타 CEO가 AI 개발 속도 조절 논란에 대해 각 연구소의 자율적인 안전성 확보와 독립적인 평가 기관 생태계 확대를 대안으로 제시했습니다. 메타는 실제로 자체 AI 도구인 '뮤즈'의 출시를 수개월 연기하며 안전 검증을 우선시하는 등 책임 있는 개발 행보를 이어가고 있습니다.",
-            "link": "https://news.einfomax.co.kr/news/articleViewAmp.html?idxno=4435188",
-            "timestamp": 1789530937000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "오픈AI·앤트로픽·구글, AI 안전표준기구 설립 논의 - 시사저널e",
-            "summary_kr": "오픈AI, 앤트로픽, 구글 등 주요 AI 기업들이 7월부터 프런티어 AI 표준기구 설립을 위한 실무 논의를 진행하며 안전 기준 마련에 속도를 내고 있습니다. 다만, 공동 규제가 중소업체의 진입장벽이 되거나 반독점법에 저촉될 수 있다는 우려와 함께 트럼프 행정부의 속도 조절 반대 기류가 변수로 작용할 전망입니다.",
-            "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=423735",
-            "timestamp": 1789539000000,
             "date": "2026-09-16"
         }
     ]
