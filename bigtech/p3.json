@@ -1,6 +1,96 @@
 {
-    "last_update": "2026-11-01 19:56:19",
+    "last_update": "2026-11-02 23:15:31",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1791298800000,
+            "date": "2026-10-06",
+            "title": "Control How Your GPU Shares Work with Green Contexts",
+            "summary_kr": "NVIDIA의 'Green Contexts'는 GPU 내 연산 자원과 작업 대기열을 명시적으로 분할하여, 복합적인 AI 워크로드 간의 간섭을 줄이고 실행 효율을 극대화하는 경량화된 프로그래밍 모델을 제공합니다.",
+            "summary_en": "NVIDIA's 'Green Contexts' introduce a lightweight, explicit programming model that allows applications to partition GPU execution resources and workqueues, effectively minimizing interference between concurrent workloads.",
+            "link": "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791280800000,
+            "date": "2026-10-06",
+            "title": "Advancing computer use with Ironclad",
+            "summary_kr": "OpenAI는 법률 기술 기업 아이언클래드(Ironclad)와 협력하여 복잡한 실무 워크플로우를 처리하는 AI 에이전트의 성능을 고도화하고 있으며, 최신 모델인 GPT-6 Astra는 이전 모델 대비 성능과 효율성 면에서 큰 성과를 거두었습니다.",
+            "summary_en": "OpenAI is partnering with Ironclad to train AI agents on complex professional workflows, with the new GPT-6 Astra model demonstrating significant improvements in task accuracy and processing efficiency compared to its predecessor.",
+            "link": "https://openai.com/index/advancing-computer-use-with-ironclad"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791244800000,
+            "date": "2026-10-06",
+            "title": "Expanding the Cyber Verification Program",
+            "summary_kr": "앤스로픽은 보안 전문가들이 자사의 고성능 AI 모델을 안전하게 활용할 수 있도록 지원하는 '사이버 검증 프로그램(CVP)'을 3단계 접근 권한 체계로 개편 및 확대합니다.",
+            "summary_en": "Anthropic has expanded its Cyber Verification Program (CVP) into a three-tiered access system, enabling vetted security professionals to utilize advanced AI models for defensive and authorized offensive cybersecurity tasks.",
+            "link": "https://www.anthropic.com/news/cyber-verification-program"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791221536000,
+            "date": "2026-10-05",
+            "title": "Power Apps and AI transformation: Register for PPCC 2026 - Microsoft Power Platform Blog",
+            "summary_kr": "마이크로소프트 파워 플랫폼은 기존 비즈니스 자산에 AI와 에이전트를 통합하여 업무 효율을 높이고, 기업이 AI 혁신을 가속화할 수 있도록 지원합니다.",
+            "summary_en": "Microsoft Power Platform enables organizations to accelerate AI transformation by integrating agents and intelligence into existing business applications and workflows.",
+            "link": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/your-ai-transformation-starts-with-what-youve-already-built"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791212400000,
+            "date": "2026-10-05",
+            "title": "Our approach to EU text provenance rules",
+            "summary_kr": "OpenAI는 EU AI 법 준수를 위해 텍스트 워터마킹 기술 'textGrain'을 도입하며, 기술적 한계를 고려해 단계적으로 API 고객 및 연구기관에 이를 제공하기로 했습니다.",
+            "summary_en": "OpenAI is implementing its 'textGrain' watermarking technology to comply with the EU AI Act, while adopting a phased rollout to researchers and API users due to current technical limitations.",
+            "link": "https://openai.com/index/eu-text-provenance"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1791194400000,
+            "date": "2026-10-05",
+            "title": "Building advertising for the way people use AI",
+            "summary_kr": "OpenAI는 ChatGPT 내 새로운 시각적 광고 형식을 도입하고, 고도화된 측정 도구 및 파트너십을 통해 광고주들에게 더욱 효과적인 성과 분석과 브랜드 안전성을 제공합니다.",
+            "summary_en": "OpenAI is introducing a new visual ad format within ChatGPT while expanding measurement tools and partnerships to provide advertisers with enhanced performance insights and robust brand suitability protections.",
+            "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1790963111000,
+            "date": "2026-10-02",
+            "title": "Insights from the 2026 Microsoft Digital Defense Report  | Microsoft Security Blog",
+            "summary_kr": "2026 마이크로소프트 디지털 방어 보고서는 AI가 공격자의 역량을 고도화하고 시스템 연결성을 확장함에 따라, 기존의 보안 기본 원칙을 AI 생태계 전반에 통합하는 포괄적인 방어 전략이 필수적임을 강조합니다.",
+            "summary_en": "The 2026 Microsoft Digital Defense Report highlights that as AI enhances attacker capabilities and system interconnectedness, organizations must integrate foundational security principles into their broader, evolving AI ecosystems.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1790957700000,
+            "date": "2026-10-02",
+            "title": "A model guide for the GPT-6 family",
+            "summary_kr": "GPT-6 제품군은 작업 성격에 맞춰 적절한 모델과 추론 강도를 선택하고, 캐싱 및 압축 기술을 통해 효율성과 비용을 최적화하는 전략적 운영 가이드를 제시합니다.",
+            "summary_en": "This guide outlines strategies for optimizing GPT-6 performance by matching models and reasoning levels to specific tasks while leveraging caching and compaction to balance efficiency, latency, and cost.",
+            "link": "https://openai.com/index/practical-guide-building-gpt-6"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1790953200000,
+            "date": "2026-10-02",
+            "title": "The latest AI news we announced in September 2026",
+            "summary_kr": "구글은 2026년 9월, 고도화된 추론 능력과 100만 토큰 컨텍스트 윈도우를 갖춘 'Gemini 4 Argon'을 필두로 사이버 보안, 음성 모델, 앱 연동성을 강화한 차세대 AI 기술을 대거 발표했습니다.",
+            "summary_en": "In September 2026, Google unveiled its next-generation AI portfolio, headlined by the advanced Gemini 4 Argon model, alongside significant updates in cybersecurity, expressive voice capabilities, and integrated application workflows.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790899200000,
+            "date": "2026-10-02",
+            "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+            "summary_kr": "앤스로픽은 기업 현장의 AI 인재 부족 문제를 해결하기 위해 1억 달러를 투자하여 2027년까지 1만 명의 '프런티어 배포 엔지니어(FDE)'를 양성하는 '클로드 프런티어 아카데미'를 출범했습니다.",
+            "summary_en": "Anthropic has launched the 'Claude Frontier Academy' with a $100 million investment, aiming to train 10,000 'Frontier Deployed Engineers' by 2027 to bridge the critical enterprise AI talent gap.",
+            "link": "https://www.anthropic.com/news/claude-frontier-academy"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1790899200000,
@@ -810,96 +900,6 @@
             "summary_kr": "마이크로소프트와 주요 제약사들이 개발한 'RetroChimera'는 여러 AI 모델을 결합해 복잡한 분자 합성 경로를 정확하게 예측하며, 실제 신약 개발 현장에 최적화된 맞춤형 솔루션을 제공합니다.",
             "summary_en": "Microsoft and its partners developed 'RetroChimera,' an AI model that combines multiple approaches to accurately predict complex molecular synthesis pathways, offering a scalable solution for real-world drug discovery.",
             "link": "https://news.microsoft.com/source/features/ai/retrochimera-new-research-advances-ai-assisted-molecule-synthesis"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789992000000,
-            "date": "2026-09-21",
-            "title": "Advisory Group on Mathematics and Artificial Intelligence",
-            "summary_kr": "OpenAI는 자사 AI 모델이 수학계의 난제들을 급격히 해결함에 따라, 학계와의 협력을 강화하고 독립적인 수학 자문 그룹을 구성하여 책임 있는 기술 개발과 소통을 도모하기로 했습니다.",
-            "summary_en": "As OpenAI's AI model rapidly solves long-standing mathematical problems, the company is establishing an independent advisory group to ensure responsible development and transparent engagement with the global mathematics community.",
-            "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789992000000,
-            "date": "2026-09-21",
-            "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-            "summary_kr": "Higgsfield AI는 GPT-6 Astra를 도입하여 소상공인을 위한 비디오 광고 제작 효율을 높이고, 단일 엔지니어가 하루 만에 신규 기능을 개발할 수 있는 혁신적인 개발 속도를 달성했습니다.",
-            "summary_en": "Higgsfield AI has integrated GPT-6 Astra to streamline video ad creation for small businesses while enabling a single engineer to deploy new features in just one day.",
-            "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789984800000,
-            "date": "2026-09-21",
-            "title": "Building standards for the next phase of AI",
-            "summary_kr": "오픈AI는 범용 인공지능(AGI)의 혜택을 인류에게 안전하게 전달하기 위해 자동화된 AI 연구 체계 구축과 강력한 정렬 연구, 그리고 국제적인 안전 표준 수립을 강조합니다.",
-            "summary_en": "OpenAI emphasizes the need for automated AI research, rigorous alignment, and international safety standards to safely harness the benefits of AGI for humanity while maintaining human control.",
-            "link": "https://openai.com/index/building-standards-next-phase-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789974000000,
-            "date": "2026-09-21",
-            "title": "Expanding OpenAI Academy with new learning paths",
-            "summary_kr": "OpenAI는 개발자, 리더, 교육자, 학생 등 다양한 직무별 맞춤형 교육 과정을 통해 실무 중심의 AI 역량 강화와 안전한 AI 활용을 지원하는 'OpenAI Academy'를 확대합니다.",
-            "summary_en": "OpenAI is expanding its 'OpenAI Academy' by introducing role-based learning paths for developers, leaders, educators, and students, designed to foster practical AI skills and ensure effective, secure integration into professional and academic workflows.",
-            "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789948800000,
-            "date": "2026-09-21",
-            "title": "How V7 gives AI agents institutional memory",
-            "summary_kr": "V7 Go는 기업의 방대한 데이터를 '컨텍스트 그래프'로 구조화하여 AI 에이전트가 비즈니스 맥락을 정확히 이해하고 복잡한 업무를 자동화하도록 지원합니다.",
-            "summary_en": "V7 Go structures vast enterprise data into a 'Context Graph,' enabling AI agents to accurately understand business nuances and automate complex, mission-critical workflows.",
-            "link": "https://openai.com/index/v7"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1789948800000,
-            "date": "2026-09-21",
-            "title": "IntroducingGrok 4.7",
-            "summary_kr": "xAI가 코딩 및 지식 작업에 최적화된 Grok 4.7을 출시하며, 향상된 추론 능력과 강화된 안전성, 그리고 업계 최고 수준의 가격 대비 성능을 확보했습니다.",
-            "summary_en": "xAI has launched Grok 4.7, an optimized model for coding and knowledge work that delivers superior reasoning, robust safety guardrails, and industry-leading price-performance.",
-            "link": "https://x.ai/news/grok-4-7"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1789758281000,
-            "date": "2026-09-18",
-            "title": "Benchmarking LLM Inference at Scale with AIPerf",
-            "summary_kr": "엔비디아의 AIPerf는 멀티프로세스 아키텍처를 도입하여 기존 벤치마킹 도구의 성능 병목 현상을 해결하고, LLM 추론 성능을 정밀하고 확장성 있게 측정할 수 있도록 설계된 차세대 도구입니다.",
-            "summary_en": "NVIDIA's AIPerf is a next-generation benchmarking tool designed to eliminate client-side bottlenecks through a multi-process architecture, enabling scalable and precise evaluation of LLM inference performance.",
-            "link": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789732800000,
-            "date": "2026-09-18",
-            "title": "Introducing the Australian Youth Safety Blueprint",
-            "summary_kr": "OpenAI는 호주 청소년의 AI 사용 안전을 강화하기 위해 6대 핵심 원칙을 담은 '호주 청소년 안전 청사진'을 발표하고 관련 보호 기능을 지속적으로 확대하고 있습니다.",
-            "summary_en": "OpenAI has introduced the 'Australian Youth Safety Blueprint,' outlining six pillars to enhance AI safety and protection for young users while committing to ongoing product-level safeguards.",
-            "link": "https://openai.com/index/australian-youth-safety-blueprint"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1789689600000,
-            "date": "2026-09-18",
-            "title": "Partnering with Accenture on embedded evaluation",
-            "summary_kr": "앤스로픽은 액센츄어와 파트너십을 맺고 AI 모델 개발 내부 과정에 외부 평가자를 배치하는 '임베디드 평가' 체계를 구축하며, 향후 5년간 10억 달러 이상을 투자해 AI 안전성 검증을 강화할 계획입니다.",
-            "summary_en": "Anthropic has partnered with Accenture to implement 'embedded evaluation,' integrating independent evaluators directly into its internal AI development processes, with a commitment to invest at least $1 billion over five years to enhance AI safety verification.",
-            "link": "https://www.anthropic.com/news/accenture-embedded-evaluation"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1789560000000,
-            "date": "2026-09-16",
-            "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-            "summary_kr": "Hex는 GPT-6 Astra를 도입하여 데이터 분석의 기술적 처리와 시각화 역량을 강화함으로써, 누구나 복잡한 데이터를 직관적이고 설득력 있는 비즈니스 인사이트로 쉽게 변환할 수 있게 지원합니다.",
-            "summary_en": "Hex has integrated GPT-6 Astra to enhance its data platform, enabling users to transform complex analysis into interactive, visually compelling reports that drive better business decision-making.",
-            "link": "https://openai.com/index/hex-gpt-6-astra"
         }
     ]
 }
