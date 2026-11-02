@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-02 10:45:53",
+    "last_update": "2026-11-02 23:02:03",
     "articles": [
+        {
+            "title": "엔비디아, ‘AI 데이 서울 2026’서 에이전틱 AI·피지컬 AI·AI 인프라 최신 혁신 공개 - 올포칩",
+            "summary_kr": "엔비디아가 ‘AI 데이 서울 2026’에서 에이전틱 AI, 피지컬 AI, 그리고 이를 뒷받침할 차세대 AI 인프라 혁신 기술을 대거 공개하며 기술 리더십을 강조했습니다.",
+            "link": "https://all4chip.com/archive/all4chip_view.php?no=22131",
+            "timestamp": 1793644230000,
+            "date": "2026-11-02"
+        },
+        {
+            "title": "청와대, 국가AI정책비서관에 이지수 전 삼성전자 상무 임명 - 데일리시큐",
+            "summary_kr": "삼성전자에서 빅스비 개발과 AI 플랫폼 전략을 주도했던 이지수 전 상무가 국가AI정책비서관으로 임명되었습니다. 이번 인사는 연구 역량에 민간 기업의 실무적 AI 서비스 구현 경험을 더해 국가 AI 정책의 실행력을 강화하려는 의도로 풀이됩니다.",
+            "link": "https://www.dailysecu.com/news/articleView.html?idxno=209276",
+            "timestamp": 1793635847000,
+            "date": "2026-11-02"
+        },
+        {
+            "title": "오픈AI 투자 바이오실, 항생제 분해효소 후보군 최대 9100만달러 인수 - 바이오북미디어",
+            "summary_kr": "오픈AI가 투자한 바이오실 랩스가 테리바 바이올로직스의 항생제 분해효소 포트폴리오를 최대 9,100만 달러에 인수했습니다. 바이오실은 AI 기술을 활용해 제약사가 우선순위에서 밀어낸 후보 물질의 가치를 재발견하고 개발을 이어가는 전략을 구사하고 있습니다.",
+            "link": "https://www.biobookmedia.com/articles/9221",
+            "timestamp": 1793635620000,
+            "date": "2026-11-02"
+        },
+        {
+            "title": "앤트로픽, 美IPO로 日서만 4조7천억원 조달…해외기업 역대 최대 - 파이낸셜뉴스",
+            "summary_kr": "생성형 AI '클로드' 개발사 앤트로픽이 미국 나스닥 상장을 앞두고 일본에서만 최대 4조 7천억 원 규모의 공모주를 조달할 계획입니다. 이는 해외 기업의 일본 내 IPO 모집액 중 역대 최대 규모로, 앤트로픽의 예상 시가총액은 최대 2조 달러에 달할 전망입니다.",
+            "link": "https://www.fnnews.com/news/202611022058418585",
+            "timestamp": 1793620767000,
+            "date": "2026-11-02"
+        },
         {
             "title": "라이트LLM, 악성코드 감염 경로에 '클로드 코드' 의혹…AI 개발 도구 보안 허점 - 보안뉴스",
             "summary_kr": "AI 게이트웨이 라이트LLM의 배포 버전에서 개발자 인증정보가 탈취되는 보안 사고가 발생했습니다. 공격자는 클로드 코드 도구 사용 과정에서 노출된 깃허브 토큰을 악용해 배포 자동화 권한을 가로챘으며, 이를 통해 악성코드가 포함된 패키지를 유포한 것으로 파악됩니다.",
@@ -672,34 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NVS1zcVZ2TXZncUlEdlMyc3Y0LVA1ZzRlU3pwSk00eE1ZZnBfMG9wTGJ4NVZRVDdRZW16X3Jza3NwOTl5c00wT3FCdUU4X0x5cDVpYkppYnZlY0EyWmJrdjZWREdNYlk?oc=5",
             "timestamp": 1790917796000,
             "date": "2026-10-02"
-        },
-        {
-            "title": "오픈AI, '안전 우려' 제기하던 연구원 3명 전격 해고…\"외부 연구 기관에 기밀 넘겼다\" - AI포스트",
-            "summary_kr": "오픈AI가 기밀 정보를 외부 연구 기관에 유출했다는 이유로 안전성 문제를 지속적으로 제기해온 연구원 3명을 해고했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wVklHYVAyb1VWVXA2REltU2FBOWJLS1Z1SWlQVHhFeTR1d0k3bE9mMmU2ZFVvcEp4Q190eU81QmJyeXJ1WG9BSC13bnBJMkdDVE01RXp3d3ExNkpLSDZlalJwSWZETUZ6cUhMaWZn0gFyQVVfeXFMTy1yTFhJUjEzYUZDSVptbUpOUVF6aTFCeHNDZmQ4enVmVGdhNkRZYXAwclFxMGl4U0g3dmZTbUFDOXB5VFZzQVhLWHl1SC1TYUxETHFlbnR4X3VtRFRqZFRCVFdrbFN5VkticU5MUUxiRUZn?oc=5",
-            "timestamp": 1790915877000,
-            "date": "2026-10-02"
-        },
-        {
-            "title": "앤트로픽 클로드, 美 연방기관 속으로…정부 전용 AI 출시 - digitaltoday.co.kr",
-            "summary_kr": "앤트로픽이 미국 연방 정부 기관의 보안 요구사항을 충족하는 정부 전용 클로드 모델을 출시하며 공공 부문 AI 시장 공략을 본격화했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QTHRRNVFyUFp4N1RVMU9jdXZUNnlrVkZ3S1cxUjdxVzhJSWxfdi1wMzdhYlRoSzVfZjZMbl9DanVzeVBCZnNSaFpNdHdKbTUxMUNrWmZIREFBTmc5V2NZYVMxSDkwazFlb0NwMXhWVVdPNms?oc=5",
-            "timestamp": 1790898532000,
-            "date": "2026-10-01"
-        },
-        {
-            "title": "현대차그룹 포티투닷, 구글·아마존·엔비디아 출신 전문가 3명 영입 - 뉴시스",
-            "summary_kr": "현대차그룹의 소프트웨어 중심 자동차(SDV) 자회사인 포티투닷이 구글, 아마존, 엔비디아 출신 핵심 인재 3명을 영입하며 AI 기술 역량 강화에 나섰습니다.",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nbW9PQnRmN19jTUpVQ291Nm1iVnQ3YmxqVWh1cHFyWncxRGc0OWZiUVV5d2xwS3p1MkUzVWVBc2tVMEhrcXg1T3BXTFZnUjRUNGhqdGZObkVEWWVrVHZ6ZFFhWUlQWFNiSVBqdjZHMi1GYlg4U2x4ZtIBeEFVX3lxTE1nbW9PQnRmN19jTUpVQ291Nm1iVnQ3YmxqVWh1cHFyWncxRGc0OWZiUVV5d2xwS3p1MkUzVWVBc2tVMEhrcXg1T3BXTFZnUjRUNGhqdGZObkVEWWVrVHZ6ZFFhWUlQWFNiSVBqdjZHMi1GYlg4U2x4Zg?oc=5",
-            "timestamp": 1790901767000,
-            "date": "2026-10-02"
-        },
-        {
-            "title": "젠슨 황·저커버그 vs 아모데이…백악관서 ‘AI 규제’ 두고 설전 - 한겨레",
-            "summary_kr": "백악관 주재 회의에서 젠슨 황, 마크 저커버그, 다리오 아모데이 등 빅테크 수장들이 참석해 AI 규제 방향과 산업 진흥책을 두고 심도 있는 논의를 진행했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0FKaFNhYTh5WjREVjJwSFo5ZE50b0tmb2k5cWxXRlBDQ2tkSGd4VnhXVnUwb19SUlVXd3gwVkRMZzJiLWxVbExSRS1NTFRyMTV1eFBEeTJ4OUpBdHhlT21NNnRiX2RzeG94SXdLZDNJcUJpTkw2eTljS1ZTUHZXM0VB?oc=5",
-            "timestamp": 1790857200000,
-            "date": "2026-10-01"
         }
     ]
 }

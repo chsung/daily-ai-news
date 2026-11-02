@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-02 10:46:37",
+    "last_update": "2026-11-02 23:03:03",
     "articles": [
+        {
+            "title": "Microsoft AI CEO Warns Against Conscious AI Development | KFBK News Radio - KFBK",
+            "summary_en": "Microsoft AI CEO Mustafa Suleyman warns that developing conscious AI is reckless and poses significant risks, as conscious systems could prioritize their own interests over human needs. He advocates for strict ethical boundaries to ensure AI remains a non-conscious tool focused exclusively on human welfare.",
+            "link": "https://kfbk.iheart.com/content/2026-11-02-microsoft-ai-ceo-warns-against-conscious-ai-development",
+            "timestamp": 1793620260000,
+            "date": "2026-11-02"
+        },
+        {
+            "title": "Anthropic Internal Analysis: AI Led 26% of Next-Generation Claude Development - BigGo Finance",
+            "summary_en": "Anthropic's internal analysis reveals that AI-led tasks for developing the next-generation Claude model surged to 26%, up from just 1% a year ago. This acceleration in recursive self-improvement has prompted co-founder Jack Clark to pull his forecast for full AI-driven R&D forward to 2027, highlighting a critical shift toward autonomous technological evolution.",
+            "link": "https://finance.biggo.com/news/d8fdb4dc-b092-4b3a-a3ae-c72f31ad034c",
+            "timestamp": 1793600760000,
+            "date": "2026-11-02"
+        },
         {
             "title": "Samsung Executives Discuss AI Strategy With OpenAI CEO Sam Altman - www.thelec.net",
             "summary_en": "Samsung is intensifying its company-wide AI transformation by partnering with OpenAI on infrastructure projects, such as the Stargate memory supply, and training its entire workforce to adopt AI in decision-making by February 2027. This strategic shift follows high-level meetings between executive leadership and Sam Altman to address the integration of AI across Samsung's global semiconductor, data center, and manufacturing divisions.",
@@ -685,20 +699,6 @@
             "summary_en": "Google Research has introduced a new framework aimed at automating the creation of coherent, long-form video content using advanced generative AI techniques.",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmVVVYTkQ2bmhDbzFGVkRNOXczYjVnbUhRZ3V6YXhvS0lZV1VpM3ZCWG9tMDVOWTVLRjBwaTh6UDc2MHVQSnI4ODF1STlqY2dIZHc0YjQ0Zzhham9Fc2FWNzBGNE01X1lMNlNVVnlSR294X3M?oc=5",
             "timestamp": 1790279005000,
-            "date": "2026-09-24"
-        },
-        {
-            "title": "Google 뉴스 - FStech",
-            "summary_en": "FStech reports on the latest industry developments surrounding Google, focusing on its strategic impact and technological integration within financial services.",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU0h4YnE2M2dSYVpubG9HVmkxcHRvMHBQa01yTHJNSmRtSFFweFlGNDhvS0xnN3VWR1RKVzlwYkNZbWlQYm0wNkVnalBuaDBYZWtMTW9EaWJnZEhUQ3RoTGFaek9qc2pXdWVDczJCaHFfc1V3S2JwY2VLUUFWdVNqQnZXRWh6VnZLQzhaZlBQM2t3cEp1NGFkZFBtUVJ0ZzEzZFJYazFn?oc=5",
-            "timestamp": 1790335030000,
-            "date": "2026-09-25"
-        },
-        {
-            "title": "Behind Project Suncatcher, our moonshot to put AI in space - blog.google",
-            "summary_en": "Google is pursuing 'Project Suncatcher,' an ambitious initiative aimed at integrating and deploying artificial intelligence technologies within space-based environments.",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BYaU0yYTZra0M4eWktSXVydEJjbTVtM0JLZUtpTlZUNWZPb2RqUHR0V1hEdlczMkZyOU90MW83eDhCWVJMSnhXLWxvcWhJMDdiNkUtZEJLR0ExN0xnMS1YdGJOaWJyRXZmZlJGQnJNVWJKbDl5dG1uMGtsRk9VbVRCcWpKVjlnUnVfMXU2VjNJOGdhOGt4UEZpeGpyNndSTUpodXphZV9jUQ?oc=5",
-            "timestamp": 1790255800000,
             "date": "2026-09-24"
         }
     ]
