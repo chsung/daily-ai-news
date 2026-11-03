@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-02 23:02:03",
+    "last_update": "2026-11-03 10:40:32",
     "articles": [
+        {
+            "title": "“유전 개발계획 수개월에서 수시간으로”…아드녹, 오픈AI·G42와 에너지 산업 AI 혁신 착수 - 인공지능신문",
+            "summary_kr": "아드녹(ADNOC)이 오픈AI 및 G42와 협력하여 유전 개발부터 물류까지 에너지 가치사슬 전반에 AI 에이전트를 도입합니다. 이를 통해 수개월이 소요되던 유전 개발계획 수립 시간을 수시간 단위로 단축하고 핵심 운영체계의 효율성을 극대화할 전망입니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42559",
+            "timestamp": 1793670257000,
+            "date": "2026-11-03"
+        },
+        {
+            "title": "“사람 속이던 해커, 이젠 AI도 속인다”…MS 연구진 경고 - 동아일보",
+            "summary_kr": "마이크로소프트 연구진은 AI 에이전트의 자율성이 높아짐에 따라 공격자가 AI를 속여 잘못된 의사결정을 유도하는 '설득 공격'의 위험을 경고했습니다. 이를 방지하기 위해 모델 내부 목적을 분석하는 '프리즘' 기술과 상시 레드팀 테스트 도입을 강조했습니다.",
+            "link": "https://www.donga.com/news/It/article/all/20261103/134958013/1",
+            "timestamp": 1793686362000,
+            "date": "2026-11-03"
+        },
+        {
+            "title": "센티넬원, '클로드 코워크' 연동…AI 에이전트 활동 직접 감시 - 전자신문",
+            "summary_kr": "센티넬원이 앤트로픽의 AI 에이전트 '클로드 코워크'와 보안 플랫폼을 연동하여 가상머신 내부의 활동을 실시간으로 감시합니다. 그간 EDR 솔루션의 사각지대였던 AI 에이전트의 작업을 직접 통제함으로써 비정상적인 의도와 위협을 사전에 차단할 계획입니다.",
+            "link": "https://www.etnews.com/20261103000335",
+            "timestamp": 1793687288000,
+            "date": "2026-11-03"
+        },
+        {
+            "title": "NC AI, 초경량 VLM ‘배키 비전 3B’ 개발…피지컬 AI 적용 확대 - 테크월드",
+            "summary_kr": "NC AI가 로봇 및 산업용 엣지 장비에 특화된 초경량 VLM '배키 비전 3B'를 개발하여 피지컬 AI 기술력을 강화했습니다. 이 모델은 제한된 자원 환경에서도 높은 공간 지각력과 추론 성능을 발휘하며, 용접 등 제조 현장의 자율 작업 로봇 고도화에 활용될 예정입니다.",
+            "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409204",
+            "timestamp": 1793688000000,
+            "date": "2026-11-03"
+        },
         {
             "title": "엔비디아, ‘AI 데이 서울 2026’서 에이전틱 AI·피지컬 AI·AI 인프라 최신 혁신 공개 - 올포칩",
             "summary_kr": "엔비디아가 ‘AI 데이 서울 2026’에서 에이전틱 AI, 피지컬 AI, 그리고 이를 뒷받침할 차세대 AI 인프라 혁신 기술을 대거 공개하며 기술 리더십을 강조했습니다.",
@@ -672,34 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44Q0JRZmFYbUt6R1V0aDd1d3N5SWRDdkFXR1dqM3NnY2xQd1FwVXVvVEJ0ZVV4VHMzdjlxbnU3VU95aUgzVVd5bktWNEhhWnJ4QnZfUw?oc=5",
             "timestamp": 1790989908000,
             "date": "2026-10-03"
-        },
-        {
-            "title": "[AI 리뷰] “AI도 뇌처럼 연산한다”…중국과학원, 400만 토큰서 100배 가속한 ‘스파이킹브레인’ - 인공지능신문",
-            "summary_kr": "중국과학원이 인간 뇌의 연산 방식을 모방한 '스파이킹브레인'을 개발하여, 400만 토큰 규모의 연산 속도를 기존 대비 100배 가속화하는 성과를 거두었습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvQkJ0UGpCclMzQmRlblhCQ0ZaSDNuc20ybVRvVnhEdjNfZC1pV01vVW5GZmEwYWVQNFhXS3VFUmhkdFhPUjFLUUpFRlFpVVVHTW9MQTk2S0JKUThoZWUxZXdnTTVSdTQ?oc=5",
-            "timestamp": 1790935454000,
-            "date": "2026-10-02"
-        },
-        {
-            "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아 데이터센터 확보 - AI타임스",
-            "summary_kr": "텐센트가 미국의 대중국 AI 반도체 수출 규제를 우회하기 위해 오라클로부터 AI 칩 10만 개를 임대하고, 동남아시아 지역에 데이터센터를 구축하여 인프라를 확보했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Eek9ZOUx0YThCU2Z5czZpZkk2X1dCU1Rjc0daaklaN2o2b25VMUE5SHdSMlJWUDJOdHJHNlF6bHJVTFBkQnQ1OWFsRm9kd1VDU0tORUlzZGExUWpyMHpESWN1NmdrOGxEMGc?oc=5",
-            "timestamp": 1790929115000,
-            "date": "2026-10-02"
-        },
-        {
-            "title": "[마이크로소프트 코파일럿, '슈퍼 앱'으로 진화… 채팅 넘어 자율 에이전트·코딩까지 품는다] Microsoft Copilot은 AI 비서에서 대화형 AI, 생산성 소프트웨어, 자율 에이전트를 결합한 더 넓은 플랫폼으로 확장 - AI넷",
-            "summary_kr": "마이크로소프트 코파일럿이 단순 AI 비서를 넘어 자율 에이전트와 코딩 기능을 결합한 종합 생산성 플랫폼인 '슈퍼 앱'으로 진화합니다.",
-            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5CY1pFSjNkUi1Iend4dktjQkx0a0thX21UWkxCbThUWmRsVEtyWnAySG1EME4zd2ZvWFBjbUo1QWM?oc=5",
-            "timestamp": 1790950352000,
-            "date": "2026-10-02"
-        },
-        {
-            "title": "英 바클레이스, 전사에 클로드 확대…\"운영 효율성 향상 및 고객 경험 개선\" - 인공지능신문",
-            "summary_kr": "영국 바클레이스가 앤트로픽의 생성형 AI 모델 '클로드'를 전사적으로 도입하여 운영 효율성을 높이고 고객 경험을 개선합니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NVS1zcVZ2TXZncUlEdlMyc3Y0LVA1ZzRlU3pwSk00eE1ZZnBfMG9wTGJ4NVZRVDdRZW16X3Jza3NwOTl5c00wT3FCdUU4X0x5cDVpYkppYnZlY0EyWmJrdjZWREdNYlk?oc=5",
-            "timestamp": 1790917796000,
-            "date": "2026-10-02"
         }
     ]
 }

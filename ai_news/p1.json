@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-02 23:03:03",
+    "last_update": "2026-11-03 10:41:15",
     "articles": [
+        {
+            "title": "Johns Hopkins cancer cell mapping technology chosen for Anthropic AI project - Johns Hopkins University",
+            "summary_en": "Johns Hopkins University has announced a partnership to apply its advanced cancer cell mapping technology to AI development projects led by Anthropic.",
+            "link": "https://hub.jhu.edu/2026/11/02/cancer-cell-mapping-anthropic-ai-for-science",
+            "timestamp": 1793645700000,
+            "date": "2026-11-02"
+        },
+        {
+            "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic’s recent S-1 filing reveals that the company is approaching the threshold of 'recursive self-improvement' (RSI), where AI models begin to autonomously enhance their own capabilities. The firm emphasizes that while this could drastically accelerate progress, it necessitates strict human supervision to mitigate potential safety and security risks.",
+            "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+            "timestamp": 1793657690000,
+            "date": "2026-11-02"
+        },
+        {
+            "title": "Apple CEO John Ternus defends AI strategy: ‘Don't want to ship AI for AI's sake’ - The Economic Times",
+            "summary_en": "Apple CEO John Ternus has defended the company's measured AI strategy, emphasizing a focus on integrating AI to meaningfully improve user products rather than merely chasing industry trends. He also highlighted the critical importance of addressing cybersecurity risks as AI models become increasingly powerful.",
+            "link": "https://m.economictimes.com/tech/artificial-intelligence/apple-ceo-john-ternus-defends-ai-strategy-dont-want-to-ship-ai-for-ais-sake/articleshow/135428372.cms",
+            "timestamp": 1793538785000,
+            "date": "2026-11-01"
+        },
         {
             "title": "Microsoft AI CEO Warns Against Conscious AI Development | KFBK News Radio - KFBK",
             "summary_en": "Microsoft AI CEO Mustafa Suleyman warns that developing conscious AI is reckless and poses significant risks, as conscious systems could prioritize their own interests over human needs. He advocates for strict ethical boundaries to ensure AI remains a non-conscious tool focused exclusively on human welfare.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5",
             "timestamp": 1790374847000,
             "date": "2026-09-25"
-        },
-        {
-            "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - anthropic.com",
-            "summary_en": "Anthropic's Claude model has demonstrated advanced scientific capabilities by successfully computing a nine-loop amplitude in N=4 super-Yang-Mills theory, marking a significant milestone in AI-assisted theoretical physics.",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0cmtPNG1Fa0prVnBpWXZmaDh4VXRGOE5haUQzQ1VjY3BpUnRJNks2UFhNdEhXdjdDaDFGbHdTX3FCTVhmeDBLdWIyZWVBVlY1T2tUMWNZYWNXX3NoaWIxdWxNQ3NLczNiSWRuTjZjWkQ?oc=5",
-            "timestamp": 1790358293000,
-            "date": "2026-09-25"
-        },
-        {
-            "title": "Google 뉴스 - Computerworld",
-            "summary_en": "Google is currently featured in Computerworld's latest news cycle, highlighting the company's ongoing influence within the enterprise computing sector.",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTEZXazc2SGtVdWVzaFoxTG15WlVCOXI5X19MLVpmUWFNYllmU1FYcGdZZDd0TGtOQk0wdDZiZ3dBeW43UF9adjhVVTNkVDdfR21paVRRUzh4V014aEZDbXp3cW1vVWtHQzlPMXhqSGUxcGNkLVJSNmVEcWlHd2otZHJocTdBSTcxR3pEcV9mQUdSSUpGSm5Dc1RMRzc?oc=5",
-            "timestamp": 1790338241000,
-            "date": "2026-09-25"
-        },
-        {
-            "title": "Automating coherent long-form video generation - Google Research",
-            "summary_en": "Google Research has introduced a new framework aimed at automating the creation of coherent, long-form video content using advanced generative AI techniques.",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmVVVYTkQ2bmhDbzFGVkRNOXczYjVnbUhRZ3V6YXhvS0lZV1VpM3ZCWG9tMDVOWTVLRjBwaTh6UDc2MHVQSnI4ODF1STlqY2dIZHc0YjQ0Zzhham9Fc2FWNzBGNE01X1lMNlNVVnlSR294X3M?oc=5",
-            "timestamp": 1790279005000,
-            "date": "2026-09-24"
         }
     ]
 }
