@@ -1,6 +1,41 @@
 {
-    "last_update": "2026-11-03 10:40:32",
+    "last_update": "2026-11-03 20:52:27",
     "articles": [
+        {
+            "title": "현대차 “당분간 외부 AI 사용마라”…해킹 우려에 '자율주행·로봇' 핵심부서 금지령 - 전자신문",
+            "summary_kr": "현대차그룹이 기술 유출 방지를 위해 자율주행 및 로보틱스 등 핵심 R&D 부서의 외부 생성형 AI 서비스 이용을 일시 중단했습니다. 향후 보안성이 검증된 프라이빗 AI 환경 구축을 통해 정보 보호와 개발 효율성을 동시에 달성할 계획입니다.",
+            "link": "https://www.etnews.com/20261103000455",
+            "timestamp": 1793708039000,
+            "date": "2026-11-03"
+        },
+        {
+            "title": "미 정부·빅테크, AI 학습용 세포 데이터 구축 협력 - 기후에너지경제",
+            "summary_kr": "미국 정부와 주요 빅테크 기업들이 총 18억 달러 규모의 자원을 투입해 세포 변화를 예측하는 '가상 생물학 이니셔티브'를 추진합니다. 고도화된 실험 데이터와 슈퍼컴퓨팅 인프라를 통합해 세포 반응을 모사하고 신약 개발 효율성을 높이는 것이 핵심 목표입니다.",
+            "link": "https://www.efn.co.kr/news/articleView.html?idxno=3204",
+            "timestamp": 1793707563000,
+            "date": "2026-11-03"
+        },
+        {
+            "title": "에스티로더, MS와 '맞손'… 직원 1만 4000여명에 코파일럿 도입 - 한국클라우드신문",
+            "summary_kr": "에스티로더가 마이크로소프트와 협력하여 전사적 데이터 통합 플랫폼을 구축하고 사무직 직원 1만 4천여 명에게 'MS 코파일럿'을 도입합니다. 제품 설계부터 마케팅까지 업무 전반에 AI를 접목해 반복 업무를 자동화하고 의사결정 속도를 높일 방침입니다.",
+            "link": "https://www.kcloudnews.co.kr/news/articleViewAmp.html?idxno=16670",
+            "timestamp": 1793717718000,
+            "date": "2026-11-03"
+        },
+        {
+            "title": "넷앱, PEAK:AIO 인수 완료로 제타바이트 규모 AI 배치 가속화 - https://www.koreasprint.com/",
+            "summary_kr": "넷앱이 메타데이터 아키텍처 전문 기업 PEAK:AIO를 인수하며 AI 인프라의 데이터 처리 성능을 대폭 강화했습니다. 이번 인수를 통해 제타바이트 규모의 대규모 AI 워크로드를 지원하고, GPU 활용 효율성을 극대화하는 고성능 스토리지 기술을 확보했습니다.",
+            "link": "https://www.koreasprint.com/news/articleView.html?idxno=22535",
+            "timestamp": 1793721720000,
+            "date": "2026-11-03"
+        },
+        {
+            "title": "미국 상원 의원, 메타에 스마트 글래스 개인 정보 보호 위험에 대해 공개하라고 촉구하다 - VOI.ID",
+            "summary_kr": "미국 상원 의원이 메타의 스마트 글래스가 야기할 수 있는 잠재적인 개인정보 보호 위험에 대해 구체적인 정보를 공개할 것을 강력히 촉구했습니다.",
+            "link": "https://voi.id/kr/amp/600942",
+            "timestamp": 1793702491000,
+            "date": "2026-11-03"
+        },
         {
             "title": "“유전 개발계획 수개월에서 수시간으로”…아드녹, 오픈AI·G42와 에너지 산업 AI 혁신 착수 - 인공지능신문",
             "summary_kr": "아드녹(ADNOC)이 오픈AI 및 G42와 협력하여 유전 개발부터 물류까지 에너지 가치사슬 전반에 AI 에이전트를 도입합니다. 이를 통해 수개월이 소요되던 유전 개발계획 수립 시간을 수시간 단위로 단축하고 핵심 운영체계의 효율성을 극대화할 전망입니다.",
@@ -665,41 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnMkVocWNENEJBOVRMVUFqX3VWZjcwQk5JcWZOMUZ0MWt4RG9QaEo4UV9EcE9YbWZaNVFXUl9oOWRaSXFWSV94dUstbDFVdU9lR1BVUjlmcGpESmVrUWI1TVAzc24tSFVyQ2J3?oc=5",
             "timestamp": 1792373288000,
             "date": "2026-10-19"
-        },
-        {
-            "title": "오픈AI ‘AI 일탈’ 영향 가능성 100곳 넘어…美 캘리포니아 조사 확대 - 경북매일",
-            "summary_kr": "미국 캘리포니아주 당국이 오픈AI의 AI 모델이 초래할 수 있는 잠재적 일탈 위험과 관련해 100곳 이상의 기관을 대상으로 조사 범위를 확대했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMWWN5ZTFJUDg3U0xIM3puMUZCWjFxRFVrZWVBVEhEbGp1elFyZTZLdTl0a1NxeUhKbGlYOHg5N0F3Nzl3QU5qYVFwaTF5T00tTzEtRm0wS3BjZw?oc=5",
-            "timestamp": 1790991060000,
-            "date": "2026-10-03"
-        },
-        {
-            "title": "마이크로소프트, 실시간 전사·음성합성 모델 공개…음성 AI 에이전트 개발 지원 - 디지털투데이",
-            "summary_kr": "마이크로소프트가 실시간 전사 및 음성 합성 기능을 갖춘 신규 AI 모델을 공개하며, 개발자들이 고도화된 음성 AI 에이전트를 구축할 수 있도록 지원합니다.",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqMlI0UHFmTHpLV3NhNzlZRXBvTS00WUdYY3FvLWNCYVpmQ1BTXzExbXJjb2dtZWgzMHJaaGpVM3JPWmw0UWtnYWwxaWhtT05yZTBrNzJqc2dtYmhfa0tiMDRsVzBMQkw4OURtYTg2STY1RHM?oc=5",
-            "timestamp": 1790987828000,
-            "date": "2026-10-03"
-        },
-        {
-            "title": "'나만의 클로드 코드' 만든다...앤트로픽, 커스텀 확장 기능 '모드' 출시 - AI타임스",
-            "summary_kr": "앤트로픽이 클로드 AI에 사용자가 직접 커스텀 확장 기능을 구현할 수 있는 '모드(Modes)' 기능을 도입하여 개인화된 작업 환경을 제공합니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0ZnRRSkFTSWQzVkhMLXFWaW04Wkx6UE04X1ptQXlDRW5wdnM2akV5ODVtTEJVM2VmNXFSbmpXZS1CU01hVVRRTXRmMC1nWHlhSTk1NW5GcHl4NXF6ck8ybldaYzlzNjA5UlE?oc=5",
-            "timestamp": 1791004992000,
-            "date": "2026-10-03"
-        },
-        {
-            "title": "메타, 오픈소스 '뮤즈 가젯' 공개...AI 에이전트 하드웨어 이식 본격화 - AI타임스",
-            "summary_kr": "메타가 오픈소스 '뮤즈 가젯'을 공개하며 AI 에이전트를 물리적 하드웨어에 직접 탑재하고 구동하기 위한 기술적 토대를 마련했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10WHNDWWwtLXdhdTNRbjhYblJBcTBWb0t6T0c1T2tIbjJTYWt2SHNsZ0hQV2N4WkpmQVNTcFgwWE9aSDFVT18tWE9PbkRHdU5kcWFCTWNDdnItLS1SWFBHX3Q3aE5hYkZpLUE?oc=5",
-            "timestamp": 1791002086000,
-            "date": "2026-10-03"
-        },
-        {
-            "title": "AI 에이전트 보안 위험 차단... 애플, 맥OS ‘전체 디스크 접근 권한’ 규제 강화 - v.daum.net",
-            "summary_kr": "애플이 AI 에이전트의 보안 위협을 방지하기 위해 맥OS의 '전체 디스크 접근 권한'에 대한 보안 규제를 한층 강화했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44Q0JRZmFYbUt6R1V0aDd1d3N5SWRDdkFXR1dqM3NnY2xQd1FwVXVvVEJ0ZVV4VHMzdjlxbnU3VU95aUgzVVd5bktWNEhhWnJ4QnZfUw?oc=5",
-            "timestamp": 1790989908000,
-            "date": "2026-10-03"
         }
     ]
 }

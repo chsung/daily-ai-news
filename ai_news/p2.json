@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-03 10:41:15",
+    "last_update": "2026-11-03 20:53:10",
     "articles": [
+        {
+            "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge - TechCrunch",
+            "summary_en": "A security oversight led to 53 user images being inadvertently exposed on the internet, highlighting critical privacy vulnerabilities in OpenAI's agent-based systems.",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5",
+            "timestamp": 1790374847000,
+            "date": "2026-09-25"
+        },
         {
             "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills - anthropic.com",
             "summary_en": "Anthropic's Claude model has demonstrated advanced scientific capabilities by successfully computing a nine-loop amplitude in N=4 super-Yang-Mills theory, marking a significant milestone in AI-assisted theoretical physics.",
@@ -692,13 +699,6 @@
             "summary_en": "OpenAI has begun rolling out GPT-6 Astra, its most capable model to date, which features advanced cybersecurity and software engineering functions while undergoing rigorous safety reviews following a previous security breach.",
             "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
             "timestamp": 1788458402000,
-            "date": "2026-09-03"
-        },
-        {
-            "title": "OpenAI launches Astra, its powerful (and controversial) new model | TechCrunch - TechCrunch",
-            "summary_en": "OpenAI’s new Astra model is being launched with a focus on advanced computer use, though it has sparked controversy for its use of 'opaque recurrence,' a reasoning technique that complicates the auditability of the AI's decision-making process.",
-            "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
-            "timestamp": 1788458505000,
             "date": "2026-09-03"
         }
     ]

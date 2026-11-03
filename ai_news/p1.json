@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-03 10:41:15",
+    "last_update": "2026-11-03 20:53:10",
     "articles": [
+        {
+            "title": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules - Reuters",
+            "summary_en": "An EU court adviser has warned that Google's AI chatbot may violate copyright regulations, signaling a potential legal hurdle for the company's generative AI ambitions.",
+            "link": "https://www.reuters.com/world/googles-use-press-by-ai-chatbot-may-infringe-copyright-rules-eu-court-adviser-2026-11-03",
+            "timestamp": 1793733377000,
+            "date": "2026-11-03"
+        },
         {
             "title": "Johns Hopkins cancer cell mapping technology chosen for Anthropic AI project - Johns Hopkins University",
             "summary_en": "Johns Hopkins University has announced a partnership to apply its advanced cancer cell mapping technology to AI development projects led by Anthropic.",
@@ -693,13 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkpYcmpwT09BN3BCWmZlUlY2VFJWWDNWcW9Ma0JZUWY1UXVBbm9GZzdLdElSbWdVaURMUlAwNjdtNlFsc0N2SV9CVmNGaWVUalVtRVJxanpmNThJSFJFNm0wSTdvTUItVlAtQlJBcG44T08wMlRRQW5rYi1jYnkxRWY5WmNqa1JoM2xQQ3ZRdl9zLUxxbUxmVGpNS3lLRVpHZ3BEbTZEVWltSU5Mb0dIa0s4STEwczNlazRwTEJBS1BRbVdvYW96QlR5YTdrYUU?oc=5",
             "timestamp": 1790400279000,
             "date": "2026-09-26"
-        },
-        {
-            "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge - TechCrunch",
-            "summary_en": "A security oversight led to 53 user images being inadvertently exposed on the internet, highlighting critical privacy vulnerabilities in OpenAI's agent-based systems.",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5",
-            "timestamp": 1790374847000,
-            "date": "2026-09-25"
         }
     ]
 }

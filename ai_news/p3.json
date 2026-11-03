@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-03 10:41:15",
+    "last_update": "2026-11-03 20:53:10",
     "articles": [
+        {
+            "title": "OpenAI launches Astra, its powerful (and controversial) new model | TechCrunch - TechCrunch",
+            "summary_en": "OpenAI’s new Astra model is being launched with a focus on advanced computer use, though it has sparked controversy for its use of 'opaque recurrence,' a reasoning technique that complicates the auditability of the AI's decision-making process.",
+            "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+            "timestamp": 1788458505000,
+            "date": "2026-09-03"
+        },
         {
             "title": "OpenAI launches Learning Lab to build evidence base for AI in education - EdTech Innovation Hub",
             "summary_en": "OpenAI has launched the 'Learning Lab,' a collaborative research network designed to study the long-term impact of AI on education and develop evidence-based approaches to teaching and learning.",
@@ -692,13 +699,6 @@
             "summary_en": "Trane Technologies and Eaton have launched an integrated power design based on the Nvidia DSX AI Factory Reference Design to support high-power data centers. This solution aims to increase energy efficiency by up to 15% and reduce installation costs by up to 30%.",
             "link": "https://www.benzinga.com/markets/large-cap/26/08/61247869/trane-tech-and-eaton-plug-into-nvidia-ai-data-center-boom",
             "timestamp": 1786975186000,
-            "date": "2026-08-17"
-        },
-        {
-            "title": "Unrestricted AI: Meta is pushing for open source AI models with the release of Muse Glimmer - Open Magazine",
-            "summary_en": "Meta has released 'Muse Glimmer,' an open-source version of its Muse Spark model designed to run locally on consumer-grade hardware. This move emphasizes Meta's commitment to open-source development as a counterweight to the closed-model approach favored by competitors like OpenAI.",
-            "link": "https://openthemagazine.com/technology/unrestricted-ai-meta-is-pushing-for-open-source-ai-models-with-the-release-of-muse-glimmer",
-            "timestamp": 1786940134000,
             "date": "2026-08-17"
         }
     ]
