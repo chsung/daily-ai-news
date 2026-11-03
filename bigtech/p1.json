@@ -1,6 +1,105 @@
 {
-    "last_update": "2026-11-02 23:15:31",
+    "last_update": "2026-11-03 21:25:27",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1793707200000,
+            "date": "2026-11-03",
+            "title": "Accelerating engineering for the physical world",
+            "summary_kr": "OpenAI는 물리적 제품의 설계, 시뮬레이션 및 제조 전 과정을 가속화하기 위해 엔지니어링 워크플로우에 특화된 AI 모델 역량을 고도화하고 있습니다.",
+            "summary_en": "OpenAI is advancing specialized AI model capabilities to accelerate the end-to-end engineering lifecycle, covering mechanical design, simulation, and manufacturing for complex physical products.",
+            "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793692800000,
+            "date": "2026-11-03",
+            "title": "How Cisco defends at machine speed with OpenAI",
+            "summary_kr": "시스코는 오픈AI의 인공지능 기술과 자사의 네트워크 원격 측정 데이터를 결합하여, 공격자의 속도에 대응하는 지능적이고 적응형인 보안 방어 체계를 구축했습니다.",
+            "summary_en": "Cisco is integrating OpenAI's frontier AI models with its vast network telemetry to create an adaptive defense system capable of outpacing machine-speed cyber threats.",
+            "link": "https://openai.com/index/cisco-cyber"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793692800000,
+            "date": "2026-11-03",
+            "title": "Heimstaden is changing residential real estate management with AI",
+            "summary_kr": "유럽의 부동산 운영사 하임스타덴(Heimstaden)은 OpenAI 기술을 도입해 임대 프로세스 전반을 혁신하고 있으며, 특히 부동산 이미지 제작 비용을 99% 절감하는 등 운영 효율성을 극대화하고 있습니다.",
+            "summary_en": "European real estate operator Heimstaden is transforming its residential management processes by integrating OpenAI, achieving a 99% reduction in property image production costs and enhancing overall operational efficiency.",
+            "link": "https://openai.com/index/heimstaden"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793664000000,
+            "date": "2026-11-03",
+            "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+            "summary_kr": "OpenAI가 우버 출신의 질 헤이즐베이커를 최고 기업 업무 책임자(CCAO)로 영입하여 글로벌 커뮤니케이션 강화 및 AI 신뢰 구축에 나섭니다.",
+            "summary_en": "OpenAI has appointed former Uber executive Jill Hazelbaker as Chief Corporate Affairs Officer to strengthen global communications and build public trust in its AI mission.",
+            "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793662774000,
+            "date": "2026-11-02",
+            "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+            "summary_kr": "엔비디아 어트리뷰션(NVIDIA Attribution)은 분산형 AI 작업의 로그, 메트릭, 스케줄러 상태를 분석하여 복합적인 오류의 근본 원인을 자동으로 진단하고 구조화된 정보를 제공합니다.",
+            "summary_en": "NVIDIA Attribution automates the root cause analysis of distributed AI workload failures by correlating logs, metrics, and scheduler states into a structured, deterministic diagnosis.",
+            "link": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793642400000,
+            "date": "2026-11-02",
+            "title": "Rewarding defenders with bigger bug bounties",
+            "summary_kr": "OpenAI는 보안 연구원들의 기여를 강화하기 위해 버그 바운티 보상을 대폭 인상하고, 고품질 보고서와 장기 파트너십을 위한 새로운 인센티브 및 등급별 로열티 제도를 도입했습니다.",
+            "summary_en": "OpenAI has significantly increased its bug bounty rewards and introduced new incentives, including quality multipliers and a tiered loyalty program, to further empower security researchers and strengthen collaborative defense.",
+            "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793642400000,
+            "date": "2026-11-02",
+            "title": "Preparing our next security sprint to harden OpenAI",
+            "summary_kr": "OpenAI는 자사 AI 모델을 활용해 보안 시스템을 강화하는 '보안 스프린트'를 확대하고, 버그 바운티 보상을 대폭 인상하며 외부 협력을 통해 사이버 방어 역량을 고도화합니다.",
+            "summary_en": "OpenAI is scaling its security sprints to leverage AI for proactive defense, increasing bug bounty rewards, and fostering cross-industry collaboration to harden its infrastructure against emerging cyber threats.",
+            "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793633400000,
+            "date": "2026-11-02",
+            "title": "Scaling Git at OpenAI",
+            "summary_kr": "OpenAI는 폭발적으로 증가하는 모노레포 수요를 감당하기 위해 기존 Git 프로토콜과 호환되면서 쓰기 및 읽기 성능을 획기적으로 개선한 새로운 Git 백엔드 시스템 'Pando'를 개발했습니다.",
+            "summary_en": "OpenAI has developed 'Pando,' a new Git backend that achieves horizontal scalability and superior read/write performance while maintaining full compatibility with the existing Git ecosystem.",
+            "link": "https://openai.com/index/scaling-git-at-openai"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1793577600000,
+            "date": "2026-11-02",
+            "title": "Progress on provable inference for large language models",
+            "summary_kr": "앤스로픽은 AI 모델의 응답이 특정 모델에서 생성되었음을 수학적으로 보장하는 'FlashProve' 시스템을 공개하며, zkSNARK 기술을 통해 기존보다 월등히 빠른 검증 성능을 구현했습니다.",
+            "summary_en": "Anthropic has introduced 'FlashProve,' a system leveraging zkSNARKs to provide cryptographic proof that AI responses originate from a specific model, achieving significantly faster verification than prior methods.",
+            "link": "https://www.anthropic.com/research/provable-inference"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793577600000,
+            "date": "2026-11-02",
+            "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+            "summary_kr": "OpenAI는 전 미 육군 장관 댄 드리스콜을 국가 안보 현대화 담당 수석 고문으로 영입하여 민주적 가치에 기반한 AI 기술의 안보 협력 및 정책 고도화를 추진합니다.",
+            "summary_en": "OpenAI has appointed former U.S. Army Secretary Dan Driscoll as Senior Counselor for National Security Modernization to advance the responsible integration of AI into global security strategies and democratic institutions.",
+            "link": "https://openai.com/index/dan-driscoll-joins-openai"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1789689600000,
+            "date": "2026-09-18",
+            "title": "Partnering with Accenture on embedded evaluation",
+            "summary_kr": "앤스로픽은 액센츄어와 협력하여 AI 모델 개발 과정에 외부 평가자를 직접 참여시키는 '임베디드 평가' 모델을 도입하며, 이를 위해 향후 5년간 10억 달러 이상을 투자할 계획입니다.",
+            "summary_en": "Anthropic is partnering with Accenture to pioneer 'embedded evaluation,' integrating independent evaluators directly into its AI development process, with a commitment to invest over $1 billion in this initiative over the next five years.",
+            "link": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1793659385000,
@@ -801,105 +900,6 @@
             "summary_kr": "앤스로픽의 연구 결과, AI 모델 클로드(Claude)가 인간 연구원보다 더 효율적으로 정렬(Alignment) 실패를 완화하고 강력한 모델을 스스로 훈련할 수 있음이 입증되었습니다.",
             "summary_en": "Anthropic’s research demonstrates that Claude can autonomously identify and mitigate AI alignment failures more efficiently than human researchers, successfully scaling these safety improvements to more powerful models.",
             "link": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1792607990000,
-            "date": "2026-10-21",
-            "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture - Microsoft Research",
-            "summary_kr": "마이크로소프트 연구진이 인간과 AI의 협업을 통해 31년간 난제로 남아있던 고차원 기하학의 'KLS 추측'을 증명하며 복잡한 고차원 공간에서의 알고리즘 효율성을 보장하는 핵심 원리를 규명했습니다.",
-            "summary_en": "Microsoft researchers, in collaboration with AI, have resolved the 31-year-old KLS conjecture in high-dimensional geometry, establishing a fundamental principle that ensures the efficiency of algorithms in complex, high-dimensional spaces.",
-            "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792602000000,
-            "date": "2026-10-21",
-            "title": "How AT&T is rethinking in-house legal work with OpenAI",
-            "summary_kr": "AT&T는 OpenAI와 협력하여 방대한 법률 데이터를 분석하고 우선순위를 자동으로 분류하는 AI 시스템을 도입함으로써 사내 변호사들이 법적 판단과 전략적 업무에 집중할 수 있는 환경을 구축하고 있습니다.",
-            "summary_en": "AT&T is partnering with OpenAI to integrate AI into its legal operations, automating data synthesis and request prioritization so that in-house counsel can focus more effectively on high-level legal judgment.",
-            "link": "https://openai.com/index/att-legal"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792587600000,
-            "date": "2026-10-21",
-            "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-            "summary_kr": "ChatGPT 광고 서비스가 26개국으로 확대되어 전 세계 89개국에서 이용 가능해졌으며, 10만 개 이상의 광고주가 사용자 접점 확대에 참여하고 있습니다.",
-            "summary_en": "ChatGPT Ads has expanded to 26 additional countries, reaching a total of 89 markets with over 100,000 advertisers leveraging the platform to engage users during decision-making.",
-            "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1792585800000,
-            "date": "2026-10-21",
-            "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
-            "summary_kr": "NVIDIA와 워싱턴 대학이 공동 개발한 RFD4-Proteina는 보상 기반 추론 시간 탐색을 통해 단백질 서열과 구조를 효율적으로 동시 설계하는 혁신적인 오픈 모델입니다.",
-            "summary_en": "RFD4-Proteina, co-developed by NVIDIA and the University of Washington, is an innovative open model that efficiently co-designs protein sequences and structures using reward-guided inference-time search.",
-            "link": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792584000000,
-            "date": "2026-10-21",
-            "title": "OpenAI models are coming to Google Cloud",
-            "summary_kr": "구글 클라우드가 자사 모델 가든(Model Garden)에 OpenAI의 최신 모델을 통합하여, 기업 고객들이 구글의 강력한 보안 및 인프라 환경에서 OpenAI 모델을 활용할 수 있도록 지원합니다.",
-            "summary_en": "Google Cloud is integrating OpenAI’s frontier models into its Model Garden, enabling enterprise customers to leverage these models within Google's secure, high-performance infrastructure.",
-            "link": "https://openai.com/index/openai-models-google-cloud"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1792576336000,
-            "date": "2026-10-21",
-            "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
-            "summary_kr": "엔비디아 센트리(NVIDIA Sentry)는 블루필드(BlueField) DPU를 활용해 AI 에이전트와 독립된 하드웨어 영역에서 실시간 보안 모니터링과 접근 제어를 수행하여 에이전트의 오작동 및 보안 위협을 방지합니다.",
-            "summary_en": "NVIDIA Sentry leverages BlueField DPUs to provide hardware-isolated runtime protection, independently monitoring and enforcing security policies for AI agents to prevent unauthorized behavior.",
-            "link": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1792576214000,
-            "date": "2026-10-21",
-            "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
-            "summary_kr": "엔비디아 오픈쉘(OpenShell)은 자율형 AI 에이전트가 안전하게 작동할 수 있도록 인프라 수준에서 제어 및 보안 정책을 강제하는 오픈소스 런타임 아키텍처입니다.",
-            "summary_en": "NVIDIA OpenShell is an open-source runtime architecture that secures autonomous AI agent workloads by enforcing governance and safety controls directly within the underlying computing infrastructure.",
-            "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1792575529000,
-            "date": "2026-10-21",
-            "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
-            "summary_kr": "NVIDIA Omniverse DSX Blueprint는 AI 에이전트를 활용하여 설계 데이터와 엔지니어링 요구사항을 OpenUSD 기반의 디지털 트윈 모델로 통합 및 최적화하는 효율적인 워크플로우를 제공합니다.",
-            "summary_en": "The NVIDIA Omniverse DSX Blueprint provides an efficient workflow that leverages AI agents to integrate design data and engineering requirements into optimized OpenUSD-based digital twin models.",
-            "link": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1792575332000,
-            "date": "2026-10-21",
-            "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
-            "summary_kr": "NVIDIA DSX POD는 복잡한 AI 인프라 구축 과정을 공장 내 사전 조립 및 검증 단계로 이전하여, 데이터 센터 운영자가 AI 생산 역량을 더욱 빠르고 예측 가능하게 확보하도록 지원합니다.",
-            "summary_en": "NVIDIA DSX POD shifts complex AI infrastructure integration to a controlled factory environment, enabling operators to achieve productive AI capacity more quickly and predictably through standardized, pre-validated designs.",
-            "link": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792566000000,
-            "date": "2026-10-21",
-            "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-            "summary_kr": "OpenAI는 대화의 맥락과 사용자 의도를 지속적으로 파악하는 맞춤형 LLM 기반 광고 시스템을 구축하여, 사용자 경험을 저해하지 않으면서도 정교한 타겟팅과 신뢰도를 동시에 확보했습니다.",
-            "summary_en": "OpenAI has developed a custom LLM-based ad stack that interprets evolving conversation context and user intent to deliver relevant advertising without compromising the neutrality or flow of the ChatGPT experience.",
-            "link": "https://openai.com/index/building-chatgpt-ad-stack"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792558200000,
-            "date": "2026-10-21",
-            "title": "Using thousands of AI agents to uncover new leads in biological data",
-            "summary_kr": "OpenAI와 스크립스 연구소는 수천 개의 AI 에이전트를 활용해 방대한 생물학적 데이터를 수 분 만에 분석하고, 질병 연구를 위한 새로운 잠재적 통찰을 도출하는 '분산형 생물학적 추론' 방식을 선보였습니다.",
-            "summary_en": "OpenAI and Scripps Research have introduced 'distributed biological reasoning,' utilizing thousands of AI agents to analyze massive datasets in minutes and uncover novel leads for disease research.",
-            "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
         }
     ]
 }
