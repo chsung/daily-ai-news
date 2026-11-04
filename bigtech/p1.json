@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-11-03 21:25:27",
+    "last_update": "2026-11-04 21:36:29",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793817967000,
+            "date": "2026-11-04",
+            "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+            "summary_kr": "NVIDIA CUDA 13.5는 Vera Rubin 아키텍처에 대한 정식 지원을 시작하고, GPU 자원 활용 효율과 유연한 워크로드 스케줄링을 극대화하는 다양한 최적화 기능을 도입했습니다.",
+            "summary_en": "NVIDIA CUDA 13.5 introduces general availability for the Vera Rubin architecture and delivers advanced features to optimize GPU resource allocation and workload scheduling flexibility.",
+            "link": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793811600000,
+            "date": "2026-11-04",
+            "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+            "summary_kr": "NVIDIA의 Factory Operations Blueprint(FOX)는 공장 내 AI 에이전트들을 통합 관리하여 실시간 문제 해결과 공정 최적화를 지원하며, 생산성 향상과 비용 절감을 실현합니다.",
+            "summary_en": "NVIDIA's Factory Operations Blueprint (FOX) coordinates specialized AI agents to streamline real-time problem solving and process optimization, significantly enhancing production efficiency and cost reduction.",
+            "link": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793808000000,
+            "date": "2026-11-04",
+            "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+            "summary_kr": "엔비디아 NeMo Compass와 Eval Author를 활용하면 운영 데이터(trace)에서 에이전트의 오류를 식별하고 이를 기반으로 효과적인 평가 체계를 구축해 성능을 최적화할 수 있습니다.",
+            "summary_en": "NVIDIA NeMo Compass and Eval Author enable developers to identify agent failures from production traces and create targeted evaluations to systematically optimize agent performance.",
+            "link": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793802600000,
+            "date": "2026-11-04",
+            "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+            "summary_kr": "OpenAI는 코딩 에이전트 개발 및 Git 워크플로우 고도화를 위해 개발자 도구 기업 '피에르(Pierre)'를 인수하여 자사의 Codex 플랫폼 기능을 강화할 계획입니다.",
+            "summary_en": "OpenAI is acquiring Pierre Computer Company to integrate its developer tools and Git expertise into the Codex platform, aiming to advance the future of source control for coding agents.",
+            "link": "https://openai.com/index/openai-to-acquire-pierre"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793775600000,
+            "date": "2026-11-04",
+            "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+            "summary_kr": "OpenAI의 사이버 보안 특화 모델인 GPT-5.6 Cyber가 AWS GovCloud(US-East)에서 공식 제공되어, 정부 기관이 보안 검증 및 취약점 대응 업무에 고도화된 AI 역량을 활용할 수 있게 되었습니다.",
+            "summary_en": "OpenAI's specialized cybersecurity model, GPT-5.6 Cyber, is now available in AWS GovCloud (US-East), enabling government agencies to leverage advanced AI for vulnerability research and security operations.",
+            "link": "https://openai.com/index/daybreak-red-aws-govcloud"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1793750400000,
+            "date": "2026-11-04",
+            "title": "Investigating vault particles with Claude",
+            "summary_kr": "앤스로픽은 자사의 AI 모델 클로드(Claude)를 활용해 원핵생물에서 발견되는 볼트 입자의 최초 3D 구조를 규명하며, 그동안 베일에 싸여 있던 생물학적 미스터리 해결의 돌파구를 마련했습니다.",
+            "summary_en": "Anthropic utilized its AI model, Claude, to determine the first 3D structure of a vault particle in prokaryotic cells, providing a significant breakthrough in understanding these long-standing biological enigmas.",
+            "link": "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1793680200000,
+            "date": "2026-11-03",
+            "title": "Advancing research and partnering with universities in Singapore",
+            "summary_kr": "구글이 싱가포르의 NUS 및 NTU와 600만 달러 규모의 연구 협력을 체결하며 AI 기반 과학 연구, 안전성 확보, 인재 양성을 위한 생태계 강화에 나섭니다.",
+            "summary_en": "Google is investing over $6 million to partner with NUS and NTU in Singapore, focusing on advancing AI-driven scientific research, enhancing safety frameworks, and building long-term academic capacity.",
+            "link": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1793707200000,
@@ -837,69 +900,6 @@
             "summary_kr": "xAI가 Grok 기반의 제품과 서비스를 개발하는 기업들을 지원하기 위해 'SpaceX Super Intelligence Partner Network'를 공식 출범했습니다. 이 네트워크는 다양한 산업 분야의 기업들과 협력하여 기업용 AI 소프트웨어 개발 환경과 생산성을 혁신하는 것을 목표로 합니다.",
             "summary_en": "xAI has launched the 'SpaceX Super Intelligence Partner Network' to support companies building products and services with Grok. This initiative aims to collaborate with industry leaders to accelerate the shift toward AI-led software development and enhance enterprise productivity.",
             "link": "https://x.ai/news/partnernetworkannouncement"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792616400000,
-            "date": "2026-10-21",
-            "title": "Broad access through consistent standards",
-            "summary_kr": "OpenAI는 자사 모델의 사용 정책을 표준화하고 파트너사와의 협력을 강화하여, 다양한 서비스 환경에서 일관된 안전 가드레일을 구축하고 있습니다.",
-            "summary_en": "OpenAI is standardizing usage policies and strengthening partner collaboration to ensure consistent safety safeguards across all platforms and services.",
-            "link": "https://openai.com/index/broad-access-through-consistent-standards"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792566000000,
-            "date": "2026-10-21",
-            "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-            "summary_kr": "AI를 활용해 PHP의 치명적인 취약점을 선제적으로 발견하고 해결한 사례를 통해, AI 시대에 걸맞은 새로운 보안 대응 프레임워크와 방어 체계 강화의 필요성을 제시했습니다.",
-            "summary_en": "By leveraging AI to preemptively identify and resolve critical PHP vulnerabilities, this initiative establishes a new security response framework and underscores the urgent need to bolster defensive capabilities in the AI era.",
-            "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792540800000,
-            "date": "2026-10-21",
-            "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-            "summary_kr": "하버드 대학교 물리학자 크리스토퍼 스텁스(Christopher Stubbs)가 앤스로픽의 장기 이익 신탁(Long-Term Benefit Trust) 위원으로 합류하여, AI의 안전한 개발과 인류를 위한 사회적 책임 완수를 감독합니다.",
-            "summary_en": "Harvard physicist Christopher Stubbs has joined Anthropic's Long-Term Benefit Trust, leveraging his scientific expertise to help ensure the responsible development of AI for humanity's long-term benefit.",
-            "link": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792540800000,
-            "date": "2026-10-21",
-            "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-            "summary_kr": "클라우드플레어는 OpenAI 모델을 활용해 취약점 탐지부터 패치 제안까지의 보안 과정을 자동화하고, 내부 개발 생산성을 획기적으로 향상시켰습니다.",
-            "summary_en": "Cloudflare leverages OpenAI models to automate the end-to-end vulnerability management process, from threat detection to remediation, while significantly boosting developer productivity.",
-            "link": "https://openai.com/index/cloudflare-cyber"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792479600000,
-            "date": "2026-10-20",
-            "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-            "summary_kr": "Terminal X는 GPT-6.1을 도입해 투자 판단의 정확도를 88.6%까지 높이고, 펀드 운용 지침 위반 사례를 25% 더 효과적으로 적발하며 운영 비용을 30% 절감했습니다.",
-            "summary_en": "Terminal X has integrated GPT-6.1 to achieve an 88.6% alignment with senior investor judgment, improving mandate compliance detection by 25% while reducing query costs by 30%.",
-            "link": "https://openai.com/index/terminal-x"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788480000000,
-            "date": "2026-09-04",
-            "title": "Formalizing Fermat's Last Theorem",
-            "summary_kr": "Anthropic의 AI 모델 Claude가 11일간의 자율적인 작업을 통해 '페르마의 마지막 정리'를 Lean 언어로 완벽하게 형식화(formalization)하여 자동 검증에 성공했습니다. 이는 복잡한 수학적 증명을 AI가 스스로 검증할 수 있음을 입증하며, 향후 수학 연구의 신뢰성과 효율성을 혁신할 중요한 전환점이 될 것입니다.",
-            "summary_en": "Anthropic’s Claude model has successfully produced the first computer-checked, end-to-end formalization of Fermat’s Last Theorem in the Lean programming language in just 11 days. This achievement demonstrates that AI can autonomously verify complex mathematical proofs, signaling a transformative shift in the reliability and efficiency of future mathematical research.",
-            "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787875200000,
-            "date": "2026-08-28",
-            "title": "Automated researchers can reliably mitigate alignment failures",
-            "summary_kr": "앤스로픽의 연구 결과, AI 모델 클로드(Claude)가 인간 연구원보다 더 효율적으로 정렬(Alignment) 실패를 완화하고 강력한 모델을 스스로 훈련할 수 있음이 입증되었습니다.",
-            "summary_en": "Anthropic’s research demonstrates that Claude can autonomously identify and mitigate AI alignment failures more efficiently than human researchers, successfully scaling these safety improvements to more powerful models.",
-            "link": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"
         }
     ]
 }
