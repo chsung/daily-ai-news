@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-03 20:53:10",
+    "last_update": "2026-11-04 10:42:28",
     "articles": [
+        {
+            "title": "Apple Readies Launch of AI-Powered Health App | PYMNTS.com - PYMNTS.com",
+            "summary_en": "Apple is rolling out a redesigned Health app powered by Apple Intelligence, featuring advanced metrics like a 'Health Age' score and at-home movement evaluations. Additionally, the company is enabling developers to integrate third-party app actions directly into Siri AI using new App Intents capabilities.",
+            "link": "https://www.pymnts.com/fitness/2026/apple-readies-launch-of-ai-powered-health-app",
+            "timestamp": 1793753424000,
+            "date": "2026-11-04"
+        },
+        {
+            "title": "Apple AI tools come to China after two-year delay - Yahoo News Singapore",
+            "summary_en": "Apple has initiated a trial rollout of its AI tools in China, partnering with Alibaba’s Qwen to navigate strict local data and regulatory compliance requirements. While the launch addresses a significant market gap, analysts note the company faces intense competition from local smartphone makers who have already established advanced AI agent ecosystems.",
+            "link": "https://sg.news.yahoo.com/apple-ai-tools-come-china-051903077.html",
+            "timestamp": 1793769540000,
+            "date": "2026-11-04"
+        },
+        {
+            "title": "AWS Launches Semarak AI Malaysia With Three Pillars To Drive AI Adoption - BusinessToday Malaysia",
+            "summary_en": "AWS has introduced 'Semarak AI Malaysia,' a strategic initiative built on three core pillars designed to accelerate the adoption and integration of artificial intelligence technologies across the Malaysian market.",
+            "link": "https://www.businesstoday.com.my/2026/11/04/aws-launches-semarak-ai-malaysia-with-three-pillars-to-drive-ai-adoption",
+            "timestamp": 1793786825000,
+            "date": "2026-11-04"
+        },
         {
             "title": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules - Reuters",
             "summary_en": "An EU court adviser has warned that Google's AI chatbot may violate copyright regulations, signaling a potential legal hurdle for the company's generative AI ambitions.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
             "timestamp": 1790368620000,
             "date": "2026-09-25"
-        },
-        {
-            "title": "Waters Demands OpenAI Investigations and AI Model Release Moratorium - Unite.AI",
-            "summary_en": "Representative Maxine Waters has formally requested investigations into OpenAI and is calling for a moratorium on the release of new AI models to address safety concerns.",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORi1keFBjNnZnTS1wTW55dXlCMHo5ZFlwOWJ3LXA3VUxWY1FhbDZjbGlKTFJPRFB4SXczdHg1UkY1d0VlUjBBempVY2U1c2w1N1dVN055cjJ3a21QcklSNG5CZDZ6QXk2c3d1by1xVk02UWJWM0NuT0VGVmVOeWRyRmNmdmxDOFhibkl3UTY3djFodnNl?oc=5",
-            "timestamp": 1790480467000,
-            "date": "2026-09-27"
-        },
-        {
-            "title": "Anthropic’s 950 AI Agents Uncover CRISPR-Like Enzyme System: A New Frontier in Biological Discovery - forkast.news",
-            "summary_en": "Anthropic has successfully utilized a fleet of 950 AI agents to identify a CRISPR-like enzyme system, signaling a significant breakthrough in biological research capabilities.",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc29KcHo1UTI3SjlsdlhDaUpWODhfVW5VdTY0TFpxbTFPVjdYMm1LdTVFUXZnVm1wVUpQem9PTHpGX29FZ3lneDJnS2Y5MmgtZ21QVlA4RE5VanMtVDNMWlVpd3I4YlNubWkxNHlRbWV3R1g4aDlKWHNraFdLUTNnaFhJU2cxbkpEUkVRQWJtNHJvTm9vd09acEQwSWxQc3hvNlMwUTh4UXo1b3RoaVVUaTRqWXdYZnZBUGlJ?oc=5",
-            "timestamp": 1790400000000,
-            "date": "2026-09-26"
-        },
-        {
-            "title": "Ready to Put Your Work on 'Autopilot'? Microsoft Readies Its AI Agent for Release - PCMag Middle East",
-            "summary_en": "Microsoft is preparing to launch its AI agent technology, designed to automate complex workplace tasks and shift organizational workflows toward an 'autopilot' model.",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkpYcmpwT09BN3BCWmZlUlY2VFJWWDNWcW9Ma0JZUWY1UXVBbm9GZzdLdElSbWdVaURMUlAwNjdtNlFsc0N2SV9CVmNGaWVUalVtRVJxanpmNThJSFJFNm0wSTdvTUItVlAtQlJBcG44T08wMlRRQW5rYi1jYnkxRWY5WmNqa1JoM2xQQ3ZRdl9zLUxxbUxmVGpNS3lLRVpHZ3BEbTZEVWltSU5Mb0dIa0s4STEwczNlazRwTEJBS1BRbVdvYW96QlR5YTdrYUU?oc=5",
-            "timestamp": 1790400279000,
-            "date": "2026-09-26"
         }
     ]
 }
