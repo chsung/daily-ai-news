@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-04 10:42:28",
+    "last_update": "2026-11-04 21:09:44",
     "articles": [
+        {
+            "title": "Google Unveils Safety Framework for Medical AI Development - The Tech Buzz",
+            "summary_en": "Google has introduced a comprehensive framework for medical AI to address the critical 'safety gap' in healthcare, focusing on rigorous testing protocols for bias detection, data quality, and continuous post-deployment monitoring. The initiative aims to standardize performance benchmarks for health algorithms, which are increasingly being utilized for diagnosis and patient triage.",
+            "link": "https://www.techbuzz.ai/articles/google-unveils-safety-framework-for-medical-ai-development",
+            "timestamp": 1793804451000,
+            "date": "2026-11-04"
+        },
+        {
+            "title": "OpenAI Just Bought Another AI Coding Startup. Here's What It Wants To Build - Benzinga",
+            "summary_en": "OpenAI has expanded its technological capabilities by acquiring another AI coding startup, reflecting the company’s ongoing strategy to strengthen its software development toolset and artificial intelligence infrastructure.",
+            "link": "https://www.benzinga.com/markets/private-markets/26/11/62880116/openai-just-bought-another-ai-coding-startup-heres-what-it-wants-to-build",
+            "timestamp": 1793816363000,
+            "date": "2026-11-04"
+        },
+        {
+            "title": "Amazon rewrites its software engineering playbook for an era when AI writes the code - GeekWire",
+            "summary_en": "Amazon has overhauled its software engineering practices as AI now generates the majority of its code, shifting focus from traditional metrics like lines of code to customer-centric outcomes. The company established 'Velocity Labs' to accelerate prototype development and issued new guidelines to ensure engineers prioritize high-value work over mere AI tool usage volume.",
+            "link": "https://www.geekwire.com/2026/amazon-rewrites-its-software-engineering-playbook-for-an-era-when-ai-writes-the-code",
+            "timestamp": 1793737614000,
+            "date": "2026-11-03"
+        },
         {
             "title": "Apple Readies Launch of AI-Powered Health App | PYMNTS.com - PYMNTS.com",
             "summary_en": "Apple is rolling out a redesigned Health app powered by Apple Intelligence, featuring advanced metrics like a 'Health Age' score and at-home movement evaluations. Additionally, the company is enabling developers to integrate third-party app actions directly into Siri AI using new App Intents capabilities.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5",
             "timestamp": 1790586002000,
             "date": "2026-09-28"
-        },
-        {
-            "title": "Google 뉴스 - MarkTechPost",
-            "summary_en": "MarkTechPost continues to provide curated coverage and technical insights into the rapidly evolving landscape of artificial intelligence research and development.",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUEctSWl4M20wZV9BdVdDRjlrRjBLdVc1MDhGSVVqenltY2VQd1ZiMDBBT2VEMlFOQ2llek1uVlpfUk5yWkVqSVNVZ3Y3LUlvZFg4RjdHcTdYN3g5NV81QkRvRkJwVk1hYVJJOFlRdExfbFpvbmtVQ0hMYXhYQUEyNklTaUNfRm1LTk9PZHR1YkEyV0JVZ1J3SG5YUkZrQ2ZZU1FaQWlGcVFzQk1JQl9HZ0xjNVRyQ2NHeERRMlc5bVZBNHV0eG5VQnQxb2sxaEV1Q3F4STJxSGptRXVUX1RBQ2N5VFgyZmtibGdr0gHwAUFVX3lxTE16TXJ5djVUV2dYZUJJc3UyOGJ1dFhybjZVRTU5RWtJdFpMdGhJVVJmSFQtLWNBYnFHcTFhLWJEUmhmaHgyM0cwYXBvZGRnMDczaXRmeFBoNUMwRzFWQml4WGtjaVVRb0FsNUR2NmR4MVVPMTdUSURDOGUzUDZjd0w1RGwxN1JIZ09yRHR2VUNJNU1xN05lWGxxd1JoMFpHbXowOERuZ1N6cUpzZmR4YS1vU0dUQ1FwaG1QdTJ1SWVBbDZiNURrRUIwUmNyV0h3N0thbFhxY04wS3RORlpaeHdZRUdnYnkwVmZ4YlFUWHgzUw?oc=5",
-            "timestamp": 1790563467000,
-            "date": "2026-09-28"
-        },
-        {
-            "title": "Google 뉴스 - STT Info",
-            "summary_en": "STT Info remains a source for news aggregation, focusing on developments within the broader technology sector and the AI industry.",
-            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb01kOEVOeS1fQktnWEpFWTJYUHF3QXdHbVBYSThwMjN3TmJpbUQ2Y21yVlZBRzdNbEs0OWJpaUx0eXpNRmNraGRXekd3bWRtbU03bFJEeWpzVkdrX1hnUzdLbG1JeU9uZHRjNHNTMWlxd2w4QnYzRE5oSFp6dkdRZnVsWUp3bG84NkxCRUxlS2VEMnkyakJsV3FMa01nbEM3dHpvUXhsTGtwS2FpbWRzMmRUZWlPV3VmZUZ0Q01tcVRjaWV6bGhGYk5fNlpxZXMtTmFSV3hvVzBpdWxSbURReHpoS3dsQQ?oc=5",
-            "timestamp": 1790578980000,
-            "date": "2026-09-28"
-        },
-        {
-            "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
-            "summary_en": "OpenAI is reportedly conducting an internal investigation to determine the extent of agent activity following the emergence of a user data leak.",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
-            "timestamp": 1790368620000,
-            "date": "2026-09-25"
         }
     ]
 }

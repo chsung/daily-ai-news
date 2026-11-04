@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-04 10:41:28",
+    "last_update": "2026-11-04 21:09:02",
     "articles": [
+        {
+            "title": "훼스토, 엔비디아와 협력해 Physical AI를 위한 디지털 트윈 개발 - MFG Inc",
+            "summary_kr": "훼스토가 엔비디아의 아이작 심 및 옴니버스 플랫폼을 활용해 산업용 로봇의 디지털 트윈을 고도화하며, 실제 설비 데이터와 시뮬레이션을 정밀하게 결합해 자율 생산 환경 구축을 가속화합니다.",
+            "link": "https://www.mfgkr.com/news/articleView.html?idxno=28435",
+            "timestamp": 1793794804000,
+            "date": "2026-11-04"
+        },
+        {
+            "title": "볼보자동차, 엔비디아와 파트너십 확대 - 차세대 자율주행 안전 기술 개발 가속화 - 차세대 모델에 엔비디아 하이페리온 및 할로스 기술 결합한 신기술 도입 예정 - Naver Blog",
+            "summary_kr": "볼보자동차가 엔비디아와 파트너십을 확대하여 하이페리온 및 할로스 기술을 차세대 전기차에 도입하고, 운전자가 주행에 관여하지 않는 차세대 자율주행 안전 기술 개발을 본격화합니다.",
+            "link": "https://blog.naver.com/PostView.naver?blogId=racer_r1&logNo=224465018708",
+            "timestamp": 1793797945000,
+            "date": "2026-11-04"
+        },
+        {
+            "title": "유전 계획 수개월→수시간 목표…오픈AI·아부다비 국영석유사 협약 - 토큰포스트",
+            "summary_kr": "아부다비국영석유회사(ADNOC)가 오픈AI의 기업용 플랫폼 '프론티어'를 도입해 유전 개발 계획 수립 시간을 수개월에서 수 시간 단위로 단축하고, 원유 생산부터 판매까지의 의사결정을 AI로 통합 최적화합니다.",
+            "link": "https://www.tokenpost.kr/news/ai/432621",
+            "timestamp": 1793793462000,
+            "date": "2026-11-04"
+        },
         {
             "title": "앤트로픽, AI 출력물의 출처 증명하는 오픈소스 기술 공개 - 디일렉",
             "summary_kr": "앤트로픽은 AI 모델의 결과물이 특정 모델에서 생성되었음을 암호학적으로 검증하는 '플래시프루브' 기술을 공개했습니다. 이 기술은 모델 가중치를 공개하지 않고도 모델 고유의 '지문'을 대조해 AI 서비스의 신뢰성과 투명성을 확보하는 데 기여할 전망입니다.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WVkZpLTROUWZZdmZLbkk5cExOSjkyUXgxaHBnTGtFMGNWRTd6YzFxWkRTSTZ4cXBsdUl4V0JiS2h2blNlTk1sel8xZV9DWkZNRVVz?oc=5",
             "timestamp": 1792462794000,
             "date": "2026-10-20"
-        },
-        {
-            "title": "마이크로소프트, 2.8조 파라미터 'MAI-베이스-2' 사전학습 완료 - 디일렉",
-            "summary_kr": "마이크로소프트가 2.8조 개의 파라미터를 갖춘 대규모 언어 모델 'MAI-베이스-2'의 사전학습을 완료했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yZ3dta0EtQ05SWmxBd1JHcE9MMzNoXzlPcHZ0N0UyYWkxVDNzNHE3Y0MxaE5FX0xGU0tscFhPdlprX1RIOWsxek90Q2Ixc0tpMWlLWkpGc0tCa29PUzBNakpQMUY5dw?oc=5",
-            "timestamp": 1792399339000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "MS, 英 에식스 1조6000억원 AI 데이터센터서 발 빼다…앵커 고객 이탈이 바꾸는 AI 인프라 판세 - https://www.didimkorea.net/",
-            "summary_kr": "마이크로소프트가 영국 에식스 지역의 1조 6,000억 원 규모 AI 데이터센터 건립 계획을 철회하며 AI 인프라 전략에 변화를 예고했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3NGE1eGVWeFk3UnBiVTZMbVFYaVNSczNSSjFPU3hJSFFsdncyRlMxVW50dnZDZnFndnphYW4tczlaZmtnMlBtRU41SVBzTG8?oc=5",
-            "timestamp": 1792426144000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "일레븐랩스, 대화형 AI 에이전트 구축 도구 '일레븐에이전트 아키텍트' 공개 - 디지틀조선일보",
-            "summary_kr": "일레븐랩스가 사용자들의 대화형 AI 에이전트 구축을 지원하는 전문 도구인 '일레븐에이전트 아키텍트'를 새롭게 공개했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TUnFrelZrWVZiQTgzSTdJZzJrcm1CQzhURHRYY2hwYkZIaTkxcHUxenNtaGdMMk1sbWVXODFYUUdlZjFuYnNkQW5yRS1yTUFZaWhLMEZUQUlnUFJuVjdXQWgtandDeW5rZWl4dUdLelQyblhBeWdoRHdPQdIBe0FVX3lxTE9TUnFrelZrWVZiQTgzSTdJZzJrcm1CQzhURHRYY2hwYkZIaTkxcHUxenNtaGdMMk1sbWVXODFYUUdlZjFuYnNkQW5yRS1yTUFZaWhLMEZUQUlnUFJuVjdXQWgtandDeW5rZWl4dUdLelQyblhBeWdoRHdPQQ?oc=5",
-            "timestamp": 1792409165000,
-            "date": "2026-10-19"
         }
     ]
 }
