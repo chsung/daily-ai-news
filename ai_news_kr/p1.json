@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-04 21:09:02",
+    "last_update": "2026-11-05 10:35:08",
     "articles": [
+        {
+            "title": "메타, AI 코딩 스타트업 컨덕터 인수…멀티에이전트 코딩 툴 경쟁 가세 - 디일렉",
+            "summary_kr": "메타가 다수 기업의 AI 코딩 에이전트를 통합 운영할 수 있는 스타트업 컨덕터를 인수하며 멀티벤더 기반의 개발 생태계 주도권 확보에 나섰습니다. 이번 인수를 통해 메타는 AI 에이전트 간 병렬 작업 및 관리 효율을 높여 자체 코딩 도구의 경쟁력을 강화할 전망입니다.",
+            "link": "https://www.thelec.kr/news/articleView.html?idxno=64972",
+            "timestamp": 1793869731000,
+            "date": "2026-11-05"
+        },
+        {
+            "title": "오픈AI, AI로 리눅스 권한 상승 취약점 948건 식별…공격 가능성 검증하고 패치 후보까지 생성 - 인공지능신문",
+            "summary_kr": "오픈AI가 자사 보안 AI 모델을 활용해 리눅스 커널에서 948건의 고유한 로컬 권한 상승 취약점을 식별하고 패치 후보까지 생성하는 성과를 거두었습니다. 이는 AI를 통한 사이버보안 취약점 탐색 및 수정의 자동화 가능성을 입증했으나, 악용 위험에 따른 패치 검증의 중요성도 함께 제기됐습니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42595",
+            "timestamp": 1793839663000,
+            "date": "2026-11-05"
+        },
+        {
+            "title": "오픈AI, 코드 저장 스타트업 피에르 인수...코덱스로 깃허브에 도전 - AI타임스",
+            "summary_kr": "오픈AI가 코드 저장 및 관리 스타트업 피에르를 인수하며 자사 AI 코딩 에이전트 '코덱스'의 통합 개발 플랫폼화에 속도를 내고 있습니다. 기존 깃 워크플로를 고도화한 자체 시스템 '판도'와 결합해 깃허브가 장악한 개발 인프라 시장에 본격적인 도전장을 내밀었습니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=217046",
+            "timestamp": 1793863500000,
+            "date": "2026-11-05"
+        },
+        {
+            "title": "\"AI 생물학 무기, 코로나보다 위험\"…빌 게이츠, 美에 규제 촉구 - 머니투데이",
+            "summary_kr": "빌 게이츠가 AI가 생물학 무기 제조 등 팬데믹보다 치명적인 재앙을 초래할 수 있다고 경고하며 미국 정부 차원의 강력한 AI 규제와 감시 체계 도입을 촉구했습니다. 특히 자율 규제를 고수하는 트럼프 행정부의 태도가 국제 공조의 걸림돌이 되고 있음을 지적하며 제3자 감독의 필요성을 강조했습니다.",
+            "link": "https://www.mt.co.kr/amp/world/2026/11/05/2026110510573132718",
+            "timestamp": 1793845243000,
+            "date": "2026-11-05"
+        },
         {
             "title": "훼스토, 엔비디아와 협력해 Physical AI를 위한 디지털 트윈 개발 - MFG Inc",
             "summary_kr": "훼스토가 엔비디아의 아이작 심 및 옴니버스 플랫폼을 활용해 산업용 로봇의 디지털 트윈을 고도화하며, 실제 설비 데이터와 시뮬레이션을 정밀하게 결합해 자율 생산 환경 구축을 가속화합니다.",
@@ -671,34 +699,6 @@
             "summary_kr": "마이크로소프트가 인간의 뇌 신호를 해석하고 장기 기억을 구현하는 기술을 통해 인간과 긴밀히 협업하는 AI 생태계 구축에 나섰습니다.",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rOU1vWUxPazVnVEJNZUNtclhOUTltT3FtQzIxVkVXUU1FQmJzYk9RTUdib21jZ3hwOUpCRjBhREdObkpMR1gtdU9tTWRERktsSVJqdUZn?oc=5",
             "timestamp": 1792483040000,
-            "date": "2026-10-20"
-        },
-        {
-            "title": "아마존, 파이토치 개발자에 트레이니엄 AI 칩 개방…코드 재작성 없이 바로 실행 - 인공지능신문",
-            "summary_kr": "아마존이 자사 전용 AI 칩 '트레이니엄'을 파이토치 개발자에게 개방하여, 별도의 코드 수정 없이 즉시 모델 학습을 지원합니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tamJneHFENWlQYmJEZHlwZzNFdkNsM0ZVTjRFTEJJSE5PbTlqa1lzdDltM3RscTNiQ3pHZU9fQk10ZDBSa0l4WFFqLXZkb191M2dzS29adnlpWmY5QWZCdFBXVkpqdEE?oc=5",
-            "timestamp": 1792459144000,
-            "date": "2026-10-20"
-        },
-        {
-            "title": "삼성전자 11월 'AI 글래스' 전격 출시, 노태문 구글과 손잡고 메타 아성에 도전장 - 비즈니스포스트",
-            "summary_kr": "삼성전자가 오는 11월 구글과 협력한 'AI 글래스'를 출시하며, 메타가 선점한 웨어러블 AI 시장에 본격적으로 도전합니다.",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uLV9oLWdOTlhDLVdTSUZfVm5neHQxNW5TLURzLWFXR3pLNFFSUXI5VXJtSXJ5WkFKcWF0dml3TnBRdnZMa05RZndxaktwcU54cmMtSDNOaUVSUXQwRUdVcnRNVTJTZFdnTFVlSVlfdU8zQXM?oc=5",
-            "timestamp": 1792476724000,
-            "date": "2026-10-20"
-        },
-        {
-            "title": "[분석] 국산 AI 5사 동맹 체결 ··· 엔비디아 의존 탈피 - 데이터솜",
-            "summary_kr": "국내 AI 기업 5개사가 기술 동맹을 체결하여 엔비디아 중심의 AI 인프라 생태계에 대한 의존도를 낮추고 독자적인 경쟁력을 강화합니다.",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QOXkxSzRhWjVadG84RkdMdUk0My1ma3BBV0U5Z2NvbUk4b0hySV9yM0Z5V2RIT2QzR0ZWY1hQejhwTmIxREJSR1J5UVVYQUY5VEdfZGdUNm5Ob2RSTjFRWXgySGFGVHE5QkxXRtIBcEFVX3lxTFBzSlhmQzRHamZmUklKWDJleXhUQkpFdkZUVm5ScVh4VDlDblJVdnlDb19IaHlrVlRZMlJKeWs2bWhyY3dEenJBRFZyT1JhTDRmODFDckpoQkxjU2NEZXpkTnVlUHR2dGJfdHA0cmFZSGI?oc=5",
-            "timestamp": 1792465200000,
-            "date": "2026-10-20"
-        },
-        {
-            "title": "독일, 엔비디아 손잡고 산업용 AI모델 개발 나선다 - 뉴스1",
-            "summary_kr": "독일 정부가 엔비디아와 협력하여 제조 및 산업 현장에 특화된 고성능 AI 모델 개발을 추진합니다.",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WVkZpLTROUWZZdmZLbkk5cExOSjkyUXgxaHBnTGtFMGNWRTd6YzFxWkRTSTZ4cXBsdUl4V0JiS2h2blNlTk1sel8xZV9DWkZNRVVz?oc=5",
-            "timestamp": 1792462794000,
             "date": "2026-10-20"
         }
     ]

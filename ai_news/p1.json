@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-04 21:09:44",
+    "last_update": "2026-11-05 10:35:47",
     "articles": [
+        {
+            "title": "Meta acquires Conductor as AI coding shifts toward multi-agent development - InfoWorld",
+            "summary_en": "Meta has acquired AI coding startup Conductor to advance its strategy in multi-agent development, aiming to provide a platform that coordinates various third-party AI coding agents. While analysts view this as a step toward enterprise development tools, Meta must still overcome significant hurdles regarding security, governance, and integration to challenge established leaders like Microsoft.",
+            "link": "https://www.infoworld.com/article/4245065/meta-acquires-conductor-as-ai-coding-shifts-toward-multi-agent-development.html",
+            "timestamp": 1793874325000,
+            "date": "2026-11-05"
+        },
         {
             "title": "Google Unveils Safety Framework for Medical AI Development - The Tech Buzz",
             "summary_en": "Google has introduced a comprehensive framework for medical AI to address the critical 'safety gap' in healthcare, focusing on rigorous testing protocols for bias detection, data quality, and continuous post-deployment monitoring. The initiative aims to standardize performance benchmarks for health algorithms, which are increasingly being utilized for diagnosis and patient triage.",
@@ -692,13 +699,6 @@
             "summary_en": "Anthropic has released a more cost-effective AI model, marking its second major product launch since the company's leadership previously advocated for a moderated pace of industry development.",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qRGtiMER0c2RNRG5wOWl1ZWd4aEszaTJqWW5hWnI3cXpVaHBtTzlGYnQ2bTBsMnhXSkxONXdLVVpXQ0IxSG9RR2tXTnNiM2J0Qk5sbXJqVTVQRUFERXBSNEVPa2NmWHpYMDNOaktSNUNlUdIBd0FVX3lxTE9VUlRzOG8tVjJtWXpKb0hFNlduRU1QU1dlS2xPaHpBSzlxcWxzbFRBT19oMEJMdjgyd0c2elZXcV9vT1lGNU9VR0VqZGZxTThIRW5kLTlMTEUxdEhhUEs2NjJabER2UUdpaTVFdzZxWTVkX0JTeGU4?oc=5",
             "timestamp": 1790618406000,
-            "date": "2026-09-28"
-        },
-        {
-            "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
-            "summary_en": "Nvidia has launched a new software platform designed to establish safety guardrails for AI agents, aimed at preventing unpredictable or harmful behaviors during autonomous operation.",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5",
-            "timestamp": 1790586002000,
             "date": "2026-09-28"
         }
     ]

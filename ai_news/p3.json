@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-04 21:09:44",
+    "last_update": "2026-11-05 10:35:47",
     "articles": [
+        {
+            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
+            "summary_en": "Major AI firms are engaging in a frenetic release cycle of frequent model updates, causing 'model fatigue' among corporate users and experts who struggle to manage the associated costs and cybersecurity risks. This intense competition for a share of the projected $2.59 trillion AI market is driven by top labs aiming to prove their dominance ahead of public market entry.",
+            "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+            "timestamp": 1788696001000,
+            "date": "2026-09-06"
+        },
         {
             "title": "Meta FAIR Introduces AI Research Preference Models (RPMs): Ranking ML Experiments Before Spending GPU Hours - MarkTechPost",
             "summary_en": "Meta FAIR has introduced AI Research Preference Models (RPMs), a new methodology designed to evaluate and rank machine learning experiments before committing expensive GPU resources. This approach helps optimize computational efficiency by filtering out ineffective models prior to full-scale training.",
@@ -693,13 +700,6 @@
             "link": "https://cloudwars.com/cloud-wars-minute/microsoft-research-and-paige-unveil-prism-2-pathology-ai-model",
             "timestamp": 1787052600000,
             "date": "2026-08-18"
-        },
-        {
-            "title": "Google buys Spirit Airlines data for AI model development - Business Insider",
-            "summary_en": "Google has acquired Spirit Airlines' corporate data and software for $10 million through a bankruptcy auction to enhance its AI model training capabilities. This move reflects a growing industry trend where tech giants target private corporate operational data to overcome the exhaustion of high-quality training materials from the public internet.",
-            "link": "https://www.businessinsider.com/google-buys-spirit-airlines-data-ai-model-development-2026-8",
-            "timestamp": 1786996140000,
-            "date": "2026-08-17"
         }
     ]
 }

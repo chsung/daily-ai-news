@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-04 21:09:44",
+    "last_update": "2026-11-05 10:35:47",
     "articles": [
+        {
+            "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
+            "summary_en": "Nvidia has launched a new software platform designed to establish safety guardrails for AI agents, aimed at preventing unpredictable or harmful behaviors during autonomous operation.",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5",
+            "timestamp": 1790586002000,
+            "date": "2026-09-28"
+        },
         {
             "title": "Google 뉴스 - MarkTechPost",
             "summary_en": "MarkTechPost continues to provide curated coverage and technical insights into the rapidly evolving landscape of artificial intelligence research and development.",
@@ -693,13 +700,6 @@
             "link": "https://cxotoday.com/media-coverage/cathay-pacific-and-google-partner-to-research-and-trial-ai-powered-contrail-avoidance",
             "timestamp": 1788797893000,
             "date": "2026-09-07"
-        },
-        {
-            "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace - CNBC",
-            "summary_en": "Major AI firms are engaging in a frenetic release cycle of frequent model updates, causing 'model fatigue' among corporate users and experts who struggle to manage the associated costs and cybersecurity risks. This intense competition for a share of the projected $2.59 trillion AI market is driven by top labs aiming to prove their dominance ahead of public market entry.",
-            "link": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-            "timestamp": 1788696001000,
-            "date": "2026-09-06"
         }
     ]
 }
