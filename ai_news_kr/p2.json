@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-06 10:37:38",
+    "last_update": "2026-11-06 20:45:49",
     "articles": [
+        {
+            "title": "[AI는 지금] 구글도 GPT 품었다…오픈AI, 3대 클라우드 확보로 기업 공략 가속 - 지디넷코리아",
+            "summary_kr": "오픈AI가 자사 모델 3종을 구글클라우드 ‘모델 가든’에 공급하며 마이크로소프트, AWS에 이어 3대 클라우드 유통망을 모두 확보했습니다. 이로써 기업 고객은 구글클라우드 환경에서 오픈AI의 고성능 모델을 통합 관리하고, 데이터 보안이 보장된 상태로 업무 자동화에 활용할 수 있게 되었습니다.",
+            "link": "https://zdnet.co.kr/view/?no=20261022085909",
+            "timestamp": 1792629946000,
+            "date": "2026-10-22"
+        },
+        {
+            "title": "제미나이 4 아르곤: 가장 까다로운 난제를 해결하도록 설계된 모델 - blog.google",
+            "summary_kr": "구글이 출시한 '제미나이 4 아르곤'은 금융·법률·코딩 등 고난도 전문 분야에서 추론 능력을 극대화한 AI 모델로, 벤치마크 1위를 기록하며 기업 워크플로우 효율을 혁신하고 있습니다. 특히 내부 테스트 결과, 에이전트 기반 코드 작업 처리량이 35% 증가하고 주요 리팩토링 기간을 수개월에서 수주로 단축하는 등 압도적인 엔지니어링 성능을 입증했습니다.",
+            "link": "https://blog.google/intl/ko-kr/products/introducing-gemini-4-argon-kr",
+            "timestamp": 1792563998000,
+            "date": "2026-10-21"
+        },
+        {
+            "title": "오픈AI, 신약 개발 조율하는 AI 에이전트 만든다…신약 개발 플랫폼 '오케스트라 바이오' 인수 - 인공지능신문",
+            "summary_kr": "오픈AI가 신약 개발 플랫폼 기업 '오케스트라 바이오'를 인수하며, 신약 개발 전 과정을 조율하는 AI 에이전트 구축에 본격 착수했습니다. 이는 기존 로잘린드 연구 도구와 결합하여, 평균 10~15년이 소요되는 복잡한 제약 개발 공정에서 업무 간 의존성을 분석하고 병목 현상을 해결하여 상용화 속도를 높이려는 전략입니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42379",
+            "timestamp": 1792559933000,
+            "date": "2026-10-21"
+        },
         {
             "title": "전 오픈AI 연구총괄의 '아르다', 15억달러 밸류에 1억6000만달러 투자유치 - 와우테일",
             "summary_kr": "전 오픈AI 연구총괄이 설립한 아르다(Arda)가 CAD 설계도를 즉시 제조 공정으로 변환하는 AI 에이전트로 15억 달러의 기업가치를 인정받으며 1억 6,000만 달러 규모의 시리즈A 투자를 유치했습니다. 아르다는 방산 및 데이터센터 공급망을 시작으로, 향후 스마트폰 등 소비자 가전 제조의 자동화를 지원하며 미국 내 제조업의 설계 변경 대응 속도를 획기적으로 개선할 계획입니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "마이크로소프트가 기업의 AI 전환을 돕기 위한 실무 지침서 '프런티어 플레이북'을 발표하며, 성공의 핵심 요건으로 조직의 전면적인 재설계를 제시했습니다.",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yLXB3VGhUVFhrWTFzNjQ2YnRmcW81M0w3WDh1cFdRT01MOGN4QVZ2elFZck5XS05KYVBfZTlvLVoxelY2WktMV1J4WmdERkRDM290T2gwY1FhTUZWODQyM3FWbVl3WWtTS0E?oc=5",
             "timestamp": 1789978106000,
-            "date": "2026-09-21"
-        },
-        {
-            "title": "AI 신모델 주기 125일→44일… ‘AI가 AI 만드는 시대’, 검증 시간도 짧아진다 - 국민일보",
-            "summary_kr": "AI 모델 개발 주기가 기존 125일에서 44일로 급격히 단축되면서 AI가 스스로 차세대 모델을 설계하는 시대가 도래했고, 이에 따라 기술 검증 프로세스 또한 가속화되고 있습니다.",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrYm8wc09NSGZFUS1SWkR0bFZpb3hyX2NhQUREMjExcURXOVNiS1U5ZFRGLTdtVVpzbGhXNExXNUJvLXZaWGRiQW1qekJqRWJrTU90Ynd6Z3BhN0NWd0NDdGx4WEJobzNSbVVRMtIBbEFVX3lxTFBrYm8wc09NSGZFUS1SWkR0bFZpb3hyX2NhQUREMjExcURXOVNiS1U5ZFRGLTdtVVpzbGhXNExXNUJvLXZaWGRiQW1qekJqRWJrTU90Ynd6Z3BhN0NWd0NDdGx4WEJobzNSbVVRMg?oc=5",
-            "timestamp": 1789983060000,
-            "date": "2026-09-21"
-        },
-        {
-            "title": "메타와 구글이 AI의 전력 수요를 충족할 '슈퍼 배터리'를 개발했습니다. - Vietnam.vn",
-            "summary_kr": "메타와 구글이 급증하는 AI 데이터센터의 전력 수요를 안정적으로 충족하기 위해 차세대 에너지 저장 장치인 '슈퍼 배터리'를 공동 개발했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWVMSkdHcEVxZ1B6VmoxUGM0VXV4OWlmS0pkd01uZHlBWHNkVlVFNVB3d2tVcnp1SzVXakt5a2xvdG85aDBXU1hhT0dlb3pFRmpTVjdKWF8xSTdXUElkTEU1Zld3Q2ZMQjNPeXdRQnVHNXRqMUxoTW5xbXpubnBHaXprRXZhelZyTFE?oc=5",
-            "timestamp": 1789981806000,
-            "date": "2026-09-21"
-        },
-        {
-            "title": "액센추어, 앤트로픽과 AI 협력·10억달러 이상 투자…주가 2%↑ - 마켓인",
-            "summary_kr": "액센추어가 앤트로픽과 전략적 AI 협력 관계를 맺고 10억 달러 이상을 투자하기로 결정했으며, 이 소식에 힘입어 액센추어의 주가는 2% 상승했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQTNCN3YxNHhZTVY1M0Q4V0RYMzNBLTFUclFnMENyYnV3VHZUQTFRS1R1OThDWEhObTZLNVhXcWRpd3QxWFFkSUtJNlRLWThvUE1sLTlFMkNNNkdxenR4TWVCbWtfVDVRUlQ5R3FjWFJlNXM?oc=5",
-            "timestamp": 1790013940000,
             "date": "2026-09-21"
         }
     ]
