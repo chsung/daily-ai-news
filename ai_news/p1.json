@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-05 21:25:11",
+    "last_update": "2026-11-06 10:38:26",
     "articles": [
+        {
+            "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 - METR",
+            "summary_en": "A 2026 METR evaluation reports that Anthropic’s model development pace has doubled, largely driven by AI-assisted R&D rather than compute scaling. However, the report’s transparency is hindered by Anthropic’s extensive redaction of evidence, which the company claims is necessary to prevent competitors from accelerating their own development.",
+            "link": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
+            "timestamp": 1793865600000,
+            "date": "2026-11-05"
+        },
+        {
+            "title": "Authorities tighten restrictions on data centres amid AI boom - Reuters",
+            "summary_en": "Regulatory authorities are intensifying restrictions on the construction and operation of data centers as the rapid expansion of AI infrastructure places unprecedented demands on local resources.",
+            "link": "https://www.reuters.com/legal/litigation/where-authorities-are-restricting-data-centres-amid-ai-boom-2026-11-05",
+            "timestamp": 1793890846000,
+            "date": "2026-11-05"
+        },
+        {
+            "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults - CoinDesk",
+            "summary_en": "Google has reportedly secured an option to acquire a stake in bitcoin miner TeraWulf’s $19 billion AI data center project in the event that Anthropic fails to meet its contractual obligations.",
+            "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+            "timestamp": 1793885380000,
+            "date": "2026-11-05"
+        },
         {
             "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research - SecurityWeek",
             "summary_en": "OpenAI successfully utilized an autonomous research pipeline to identify and create functional exploits for 948 Linux kernel vulnerabilities at a cost of $1.2 million, uncovering 10 novel exploitation techniques. This feat underscores the potential for AI to dramatically accelerate cyber offensive capabilities, prompting OpenAI to increase its security bug bounty payouts to further strengthen its defensive research.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXpsNWh1cDF0aEVHajNxNTBUU1V5TWp1cFFCZmJYVGQ5bEJxT241cXd5Tmk4SGFYckpMdTU3cFZ3U1A4REtYcWtWc0M1RTlFeGc0d0VpR0dtOEVWd1c4QlZNdC1SbE0yV1RRUUlYWGNjbnhJalE0cEFlb25wa21EeXdFU3JYMk5PRW5adXBMLXg3TlRSUS1v0gGcAUFVX3lxTFBaTndFYldrdnVTaTU0dEFiZERuVEhBc3ZrOE5faHBDV0Q0WFZQdU56TlpOdlVyYzkwWEZUaTZBMzN0UVRlN3JGMnRFa2RiNE42MEEtVHR2VTkxWnJNdEYtQjFRczFBSExaSWtMMmZQMWplRnk1TEhzel80NXdxS0ZJODQyTG13QjdFWFpQbW1KejJ2bG1uM2VLVER4Xw?oc=5",
             "timestamp": 1790596801000,
             "date": "2026-09-28"
-        },
-        {
-            "title": "OpenAI shelves new AI model release over safety concerns - Reuters",
-            "summary_en": "OpenAI has reportedly decided to postpone the launch of its next-generation AI model due to unresolved internal safety and risk assessments.",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5",
-            "timestamp": 1790634840000,
-            "date": "2026-09-28"
-        },
-        {
-            "title": "Florida AG seeks injunction to hamper OpenAI development - politico.com",
-            "summary_en": "The Attorney General of Florida is pursuing a legal injunction aimed at restricting OpenAI’s ongoing artificial intelligence development practices.",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFpqVmlDUVNFZlZMVjBEQVpaZmRfTmM5WjF3STJLeWdJaFlKM2YyQjZNN1V3SHY4bEhpdUhSTWRhYTVQU1dscXF2TlZwWVFBXzl2ZkJoTUVHZFBjR1JiNjQ5SjczWENWYktFTWk1cFp5OUV2UjRnbWxuaDR6aHJSTjVObGVTcG1vR2V4dURnQmU?oc=5",
-            "timestamp": 1790616180000,
-            "date": "2026-09-28"
-        },
-        {
-            "title": "CSL partners with AWS on AI for drug research and development - Investing.com",
-            "summary_en": "Biotechnology company CSL has entered a strategic partnership with Amazon Web Services to leverage cloud-based AI for accelerating pharmaceutical research and drug discovery.",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjRwQlpJVWp6RUIxOEU1SEdCdkNhWjFHaHE1RE1ZLTA2bzBWNGg3X042MDJSQTF0aFJ1bmc5MXJWUlQybzE2WWt4MmVsNkt6WXpGWEVFZ2t3UnUyRFhyR2hXZkJSOWJrN2RKODZYMjFFS1lIWE5mT21tU1pPeVJRME82RlNLOWtOdmxOejUxZ2VpQmhDR2JQN3pRYmVsaGN2di1FTGxGcWVVREtQQUQ3SWJMODdKQV9nUGxyb1cwMmg?oc=5",
-            "timestamp": 1790644475000,
-            "date": "2026-09-29"
         }
     ]
 }
