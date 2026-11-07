@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-11-06 21:09:19",
+    "last_update": "2026-11-07 19:41:49",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794003620000,
+            "date": "2026-11-06",
+            "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+            "summary_kr": "NVIDIA Blackwell GPU와 TensorRT LLM VisualGen의 최적화 기술을 활용하면 FLUX 3 Image Klein 모델의 이미지 생성 속도를 최대 4.45배까지 획기적으로 높일 수 있습니다.",
+            "summary_en": "Leveraging NVIDIA Blackwell GPUs and TensorRT LLM VisualGen optimizations can accelerate FLUX 3 Image Klein image generation by up to 4.45x.",
+            "link": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1793923200000,
+            "date": "2026-11-06",
+            "title": "The components of agent memory",
+            "summary_kr": "AI 에이전트의 기억 체계는 인간의 뇌가 경험을 통합하고 학습하는 방식을 모방하여, 유휴 시간에 기록을 재구성하는 '드림(dreaming)' 과정을 통해 효율적인 장기 기억을 구축합니다.",
+            "summary_en": "AI agent memory architectures are increasingly mimicking human brain processes, utilizing 'dreaming' during idle time to consolidate experiences into effective, long-term knowledge.",
+            "link": "https://www.anthropic.com/research/components-of-agent-memory"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1793988206000,
@@ -882,24 +900,6 @@
             "summary_kr": "OpenAI는 Codex의 'Ultrafast' 모드를 통해 보안 및 시스템 사고 대응 시간을 수 시간에서 수 분 내외로 단축하며 엔지니어의 업무 효율성과 집중력을 극대화하고 있습니다.",
             "summary_en": "OpenAI has drastically reduced incident response times from hours to minutes using the 'Ultrafast' mode in Codex, significantly improving engineering efficiency and maintaining focus.",
             "link": "https://openai.com/index/openai-cut-incident-investigation"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792972800000,
-            "date": "2026-10-26",
-            "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-            "summary_kr": "AI 기업 앤스로픽(Anthropic)이 나스닥 상장을 위해 미국 증권거래위원회(SEC)에 S-1 신고서를 제출하며 IPO 절차를 공식화했습니다.",
-            "summary_en": "Anthropic has officially initiated its IPO process by filing a registration statement on Form S-1 with the SEC, intending to list its common stock on the Nasdaq.",
-            "link": "https://www.anthropic.com/news/s1-sec"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792972800000,
-            "date": "2026-10-26",
-            "title": "Introducing GPT-6.1 Terra",
-            "summary_kr": "GPT-6.1 Terra는 시각적 추론과 컴퓨터 제어 능력을 강화하면서도 비용 효율성을 획기적으로 높여, 이전 모델 대비 뛰어난 성능과 경제성을 동시에 확보했습니다.",
-            "summary_en": "GPT-6.1 Terra delivers enhanced visual reasoning and computer-use capabilities at a significantly lower cost, offering a superior balance of performance and efficiency compared to its predecessors.",
-            "link": "https://openai.com/index/introducing-gpt-6-1-terra"
         }
     ]
 }

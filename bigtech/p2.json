@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-11-06 21:09:19",
+    "last_update": "2026-11-07 19:41:49",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1792972800000,
+            "date": "2026-10-26",
+            "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+            "summary_kr": "AI 기업 앤스로픽(Anthropic)이 나스닥 상장을 위해 미국 증권거래위원회(SEC)에 S-1 신고서를 제출하며 IPO 절차를 공식화했습니다.",
+            "summary_en": "Anthropic has officially initiated its IPO process by filing a registration statement on Form S-1 with the SEC, intending to list its common stock on the Nasdaq.",
+            "link": "https://www.anthropic.com/news/s1-sec"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792972800000,
+            "date": "2026-10-26",
+            "title": "Introducing GPT-6.1 Terra",
+            "summary_kr": "GPT-6.1 Terra는 시각적 추론과 컴퓨터 제어 능력을 강화하면서도 비용 효율성을 획기적으로 높여, 이전 모델 대비 뛰어난 성능과 경제성을 동시에 확보했습니다.",
+            "summary_en": "GPT-6.1 Terra delivers enhanced visual reasoning and computer-use capabilities at a significantly lower cost, offering a superior balance of performance and efficiency compared to its predecessors.",
+            "link": "https://openai.com/index/introducing-gpt-6-1-terra"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1792713600000,
@@ -882,24 +900,6 @@
             "summary_kr": "앤스로픽(Anthropic)은 무단으로 모델의 성능을 복제하는 증류 공격(distillation attacks)을 방어하기 위해 추론 과정 노출을 차단하는 기술적 조치를 강화했으며, 이를 통해 데이터 탈취를 90~99% 감소시켰습니다.",
             "summary_en": "Anthropic has significantly strengthened its defenses against unauthorized model distillation attacks by restricting access to its reasoning processes, successfully reducing data harvesting by 90-99%.",
             "link": "https://www.anthropic.com/research/distillation-defenses"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1791763200000,
-            "date": "2026-10-12",
-            "title": "Introducing The X Subscription",
-            "summary_kr": "x.ai는 그록(Grok), 커서(Cursor), X 프리미엄을 하나의 통합 구독 모델로 결합하여, 사용자들에게 기존 대비 더 높은 가성비와 유연한 통합 AI 사용 환경을 제공합니다.",
-            "summary_en": "x.ai has launched 'The X Subscription,' bundling Grok, Cursor, and X Premium into a single, cost-effective plan that offers users a unified, high-value AI experience with flexible usage across platforms.",
-            "link": "https://x.ai/news/x-subscription"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1791827248000,
-            "date": "2026-10-12",
-            "title": "Simulating student learning for better AI tutoring",
-            "summary_kr": "StudentSim은 실시간 학습자 연구의 비용과 시간적 한계를 극복하기 위해 학생의 행동 패턴을 정교하게 모사하여 AI 튜터의 성능을 개발 단계에서 사전 검증할 수 있게 돕는 연구 도구입니다.",
-            "summary_en": "StudentSim is a research system that simulates personalized student responses and learning behaviors, enabling rapid iteration and evaluation of AI tutors without the constraints of costly human learner studies.",
-            "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring"
         }
     ]
 }

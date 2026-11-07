@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-11-06 21:09:19",
+    "last_update": "2026-11-07 19:41:49",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1791763200000,
+            "date": "2026-10-12",
+            "title": "Introducing The X Subscription",
+            "summary_kr": "x.ai는 그록(Grok), 커서(Cursor), X 프리미엄을 하나의 통합 구독 모델로 결합하여, 사용자들에게 기존 대비 더 높은 가성비와 유연한 통합 AI 사용 환경을 제공합니다.",
+            "summary_en": "x.ai has launched 'The X Subscription,' bundling Grok, Cursor, and X Premium into a single, cost-effective plan that offers users a unified, high-value AI experience with flexible usage across platforms.",
+            "link": "https://x.ai/news/x-subscription"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1791827248000,
+            "date": "2026-10-12",
+            "title": "Simulating student learning for better AI tutoring",
+            "summary_kr": "StudentSim은 실시간 학습자 연구의 비용과 시간적 한계를 극복하기 위해 학생의 행동 패턴을 정교하게 모사하여 AI 튜터의 성능을 개발 단계에서 사전 검증할 수 있게 돕는 연구 도구입니다.",
+            "summary_en": "StudentSim is a research system that simulates personalized student responses and learning behaviors, enabling rapid iteration and evaluation of AI tutors without the constraints of costly human learner studies.",
+            "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1791825604000,
@@ -882,24 +900,6 @@
             "summary_kr": "NVIDIA Transformer Engine은 전문가 모델(MoE) 구조의 연산 병목 현상을 해결하고, GroupedLinear 및 MXFP8 커널을 통해 생물학적 파운데이션 모델의 학습 효율과 확장성을 극대화합니다.",
             "summary_en": "NVIDIA Transformer Engine maximizes the efficiency and scalability of biological foundation models by utilizing GroupedLinear and MXFP8 kernels to address computational bottlenecks in MoE architectures.",
             "link": "https://developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790261220000,
-            "date": "2026-09-24",
-            "title": "Rockwell Automation’s Singapore Factory Uses AI Copilot to Drive Efficiency and Global Transformation",
-            "summary_kr": "록웰 오토메이션은 싱가포르 공장에 생성형 AI 기반 유지보수 코파일럿을 도입하여 숙련공의 노하우를 디지털화하고, 가동 중단 시간을 33% 단축하며 신규 인력 교육 기간을 대폭 줄였습니다.",
-            "summary_en": "Rockwell Automation has implemented a GenAI-powered maintenance copilot at its Singapore plant, digitizing expert knowledge to reduce machine downtime by 33% and significantly accelerate onboarding for new technicians.",
-            "link": "https://news.microsoft.com/source/features/digital-transformation/rockwell-automation-pairs-ai-with-decades-of-shop-floor-know-how-so-workers-can-solve-glitches-faster"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790254800000,
-            "date": "2026-09-24",
-            "title": "Behind Project Suncatcher, our moonshot to put AI in space",
-            "summary_kr": "구글은 차세대 AI 인프라 확장을 위해 우주 환경에서 자사 TPU의 성능과 안정성을 검증하는 '프로젝트 선캐처(Project Suncatcher)'를 본격화합니다.",
-            "summary_en": "Google has launched 'Project Suncatcher' to test the performance and durability of its TPU chips in space, aiming to develop scalable AI infrastructure beyond Earth.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts"
         }
     ]
 }
