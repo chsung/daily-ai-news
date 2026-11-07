@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-07 09:48:06",
+    "last_update": "2026-11-07 19:19:01",
     "articles": [
+        {
+            "title": "엔비디아의 전신 제어 AI 파운데이션 모델...VR·영상·언어 입력을 하나의 모델로 구동 - www.atlasreview.co.kr",
+            "summary_kr": "엔비디아가 휴머노이드 로봇의 전신 동작을 단일 모델로 제어하는 파운데이션 모델 '소닉(SONIC)'을 개발했습니다. 1억 개의 모션캡처 프레임을 학습한 이 모델은 VR, 영상, 언어 등 다양한 입력을 통해 로봇의 유연한 움직임을 구현하며, 향후 로봇 소프트웨어 개발 비용을 크게 절감할 것으로 기대됩니다.",
+            "link": "https://www.atlasreview.co.kr/news/articleView.html?idxno=10059",
+            "timestamp": 1792742342000,
+            "date": "2026-10-23"
+        },
+        {
+            "title": "슈나이더 일렉트릭, AI 데이터센터용 차세대 모듈형 전력 솔루션 공개… 전력 인프라 최단 6개월 구축 지원 - 올포칩",
+            "summary_kr": "슈나이더 일렉트릭이 AI 데이터센터 전용 모듈형 전력 솔루션을 새롭게 공개했습니다. 해당 솔루션은 전력 인프라 구축 기간을 최단 6개월로 단축해 급증하는 AI 데이터센터 수요에 대응할 계획입니다.",
+            "link": "https://all4chip.com/archive/all4chip_view.php?no=22084",
+            "timestamp": 1792777300000,
+            "date": "2026-10-23"
+        },
+        {
+            "title": "\"AI 판단 속도 10배↑\"…오픈AI, '디시전스 API' 정식 출시 - 지디넷코리아",
+            "summary_kr": "오픈AI가 'GPT-6 루나' 기반의 '디시전스 API'를 출시하며 고객 분류 및 작업 판단 속도를 최대 10배 높였습니다. 이 서비스는 반복적인 판단 업무를 자동화하고 프롬프트 캐싱을 통해 운영 효율성을 극대화했습니다.",
+            "link": "https://zdnet.co.kr/view/?no=20261023155121",
+            "timestamp": 1792738402000,
+            "date": "2026-10-23"
+        },
         {
             "title": "MS \"의사보다 3.7배 정확한 AI 진단도구 개발\"...사이언스 게재 - YTN 사이언스",
             "summary_kr": "마이크로소프트가 여러 AI가 협업해 진단하는 '진단 오케스트레이터'를 개발했으며, 고난도 임상 사례에서 일반 의사보다 3.7배 높은 83%의 정확도를 기록했습니다. 현재 보스턴의 대형 메디컬 센터와 실제 환자 대상 임상 연구에 착수했습니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "오픈AI는 미국이 글로벌 AI 안전 표준을 주도해야 한다고 강조하며, 한국을 포함한 10개국과의 긴밀한 협력 체계 구축을 제안했습니다.",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJcElka2QxeWFsWXBBLUJsQzR1X1dJTDBfMGpHMUxuWGY4WnZXXzI0dnpudXNRd2dxRldoQXRuMEVYc2lrY0JEVFVJYWxVMzUyY0Q4TjFuNFEwZURReEtjZw?oc=5",
             "timestamp": 1790074320000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "[AI 브리프] LG, MS와 AI 전략 협력 확대…AIDC·피지컬 AI·AX 전방위 추진 - 아이티데일리",
-            "summary_kr": "LG가 마이크로소프트와 협력을 강화하여 AI 데이터센터, 피지컬 AI, 디지털 전환 분야를 아우르는 전방위적인 AI 전략을 추진합니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IVW16Q3p1X2dkSXlwQ3lRMlFwSTJBZXhxR3g5VXN4N2hfRWlIS09XOTMzRWxHcy1RU3dHbFc1MkdTWkJOdTBBeHJoeTRZTWtPZVlIRkRRWEw3NktreDFRZ3VFQWRVejA?oc=5",
-            "timestamp": 1790066686000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "오픈AI, 수학계 반발에 독립 자문 기구 신설...연구 성과 검증 담당 - AI타임스",
-            "summary_kr": "오픈AI가 자사 연구 성과에 대한 수학계의 비판과 신뢰성 논란을 해소하고자 검증을 전담할 독립 자문 기구를 신설했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSXU1TzY4dlJNOHFGd21oYjFtbU9IYUQ2QVUyNGg3R0RmNGVYU215aHFsSndsdEZIWk5XekxOYUx4QTNEczJpdFpRVmdOaS0xR1RycDlIQmY4cmZjQUtBVndkMFoydC1FM2c?oc=5",
-            "timestamp": 1790066764000,
-            "date": "2026-09-22"
-        },
-        {
-            "title": "딥시크, 美 엔비디아 의존 줄인다…中 화웨이 AI칩으로 추론 넘어 ‘학습’ 도전 - 조선일보",
-            "summary_kr": "중국의 딥시크가 엔비디아 의존도를 낮추기 위해 화웨이 AI 칩을 도입하며 추론을 넘어 모델 학습 분야까지 기술 독립을 추진합니다.",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHR6X09tMEZFS0FpNnhqeERhUmVNTkVnQ3hoZzlpVlNWRXk3VE9UMGNXT3JWX0taa1hwLWV1RU9LSUFpX3VrWmwtM0lBZmpXRkRLYjdOaGwyc2JmNWZpMmUtZlVicWhsdVZJcGhob1B0RnVtNzNCOWRodW1pMGU5RkkzUQ?oc=5",
-            "timestamp": 1790062380000,
             "date": "2026-09-22"
         }
     ]
