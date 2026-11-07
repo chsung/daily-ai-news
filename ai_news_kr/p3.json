@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-06 20:45:49",
+    "last_update": "2026-11-07 09:48:06",
     "articles": [
+        {
+            "title": "메타 ‘생활밀착 AI 비서’ 돌풍...AI 위기론도 날렸다 - 조선일보",
+            "summary_kr": "메타가 선보인 생활 밀착형 AI 비서가 시장에서 큰 호응을 얻으며, 일각에서 제기된 AI 거품론과 위기론을 불식시키고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXdCQkJPOWlPRktyRnFhTk1vQ2t1WjNJcjJKcmFfelR3MkQzdV9sTTBoeGFLQnhIY3FRNGJ2R2pCODhTVnZmOUNKUDN0azA2dWxNX09hRzZ5d3pfQjlndUtKZ1MtZGlLcnN3VGwtNVFRc0wxd1B1UGF2LXJtd1FLcC1Ydw?oc=5",
+            "timestamp": 1790064859000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "오픈AI·앤트로픽, 경쟁사에 AI모델 열어 ‘상호검증’ 추진 - 디지털데일리",
+            "summary_kr": "오픈AI와 앤트로픽이 AI 모델의 안전성과 신뢰성을 확보하기 위해 경쟁사와 자사 모델을 공유하고 상호 검증하는 체계를 마련합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUWE1Mm1ILXFZeFljc3FRbFI2QUdjUWdIdkc4NVNKR2xucVhCcDhTUlBPd2dkQXJsU1Vvck1VcU52RGNmc1Z5RDJTeTZTaEx4LVBHTkJHdDlIenBydVBnUEdHb0g?oc=5",
+            "timestamp": 1790044361000,
+            "date": "2026-09-22"
+        },
+        {
+            "title": "퀄컴·구글 AI 동맹…제미나이 품은 PC '구글북' 전격 공개 - 지디넷코리아",
+            "summary_kr": "퀄컴과 구글이 전략적 기술 동맹을 맺고 제미나이 AI를 탑재한 새로운 PC 브랜드 '구글북'을 시장에 전격 공개했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ZGt1Vk5SRldZVmk2cGVQNlBJLXRmZTdMblRSMjlfX00yZVp6ZktMOFN5Q1BZWVphZmprUjlGb3ZOTi04Sk50SndhN3p5NVR5eFhWUVpR?oc=5",
+            "timestamp": 1789995603000,
+            "date": "2026-09-21"
+        },
+        {
+            "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\" - AI타임스",
+            "summary_kr": "마이크로소프트가 기업의 AI 전환을 돕기 위한 실무 지침서 '프런티어 플레이북'을 발표하며, 성공의 핵심 요건으로 조직의 전면적인 재설계를 제시했습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yLXB3VGhUVFhrWTFzNjQ2YnRmcW81M0w3WDh1cFdRT01MOGN4QVZ2elFZck5XS05KYVBfZTlvLVoxelY2WktMV1J4WmdERkRDM290T2gwY1FhTUZWODQyM3FWbVl3WWtTS0E?oc=5",
+            "timestamp": 1789978106000,
+            "date": "2026-09-21"
+        },
         {
             "title": "AI 신모델 주기 125일→44일… ‘AI가 AI 만드는 시대’, 검증 시간도 짧아진다 - 국민일보",
             "summary_kr": "AI 모델 개발 주기가 기존 125일에서 44일로 급격히 단축되면서 AI가 스스로 차세대 모델을 설계하는 시대가 도래했고, 이에 따라 기술 검증 프로세스 또한 가속화되고 있습니다.",
@@ -672,34 +700,6 @@
             "link": "https://www.aitimes.com/news/articleView.html?idxno=214904",
             "timestamp": 1788679619000,
             "date": "2026-09-06"
-        },
-        {
-            "title": "엔비디아, 허깅페이스 인수…17조원으로 개방형 AI 생태계 삼켰다 | KB의 생각 - KB Think",
-            "summary_kr": "엔비디아가 17조 5천억 원에 AI 모델 공유 플랫폼 허깅페이스를 인수하며 개방형 AI 생태계 주도권을 확보했습니다. 1,800만 명의 개발자가 사용하는 개방형 플랫폼을 품에 안은 엔비디아는 기존의 GPU 하드웨어 강자를 넘어 종합 AI 기업으로 도약할 전망입니다.",
-            "link": "https://kbthink.com/news-list/view.html?newsId=20260906120140144",
-            "timestamp": 1788663699000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "“대통령과 전화 한 통으로 AI 규제 무산?”…저커버그-트럼프 비밀 통화에 의회 발칵 - AI포스트",
-            "summary_kr": "마크 저커버그 메타 CEO가 트럼프 대통령과의 비공개 통화를 통해 AI 독립 규제기구 신설을 저지하려 했다는 정황이 드러나 미 의회의 강한 반발을 사고 있습니다. 사전 검증을 골자로 한 'FINRA 모델' 도입을 둘러싼 빅테크의 막후 로비와 이에 대응하는 의회의 청문회 소환 경고로 인해 향후 AI 규제 정책의 향방이 불투명해졌습니다.",
-            "link": "https://www.aipostkorea.com/news/articleView.html?idxno=12592",
-            "timestamp": 1788672968000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "[산업 HOT 뉴스] \"피지컬AI부터 빅테크 연대까지\"…LG, 마곡서 역대 최대 'AI 혁신 축제' 개최 - bizwnews.com",
-            "summary_kr": "LG그룹이 7일부터 'LG 스파크 2026'을 개최하여 피지컬AI와 AI 데이터센터 등 3대 핵심축을 중심으로 한 41건의 혁신 기술과 68건의 현업 적용 사례를 공개합니다. 이번 행사에는 엔비디아, 구글 등 글로벌 빅테크 기업이 참여해 AX 가속화와 기술 연대를 도모하며 그룹의 미래 성장동력을 구체화할 전망입니다.",
-            "link": "https://www.bizwnews.com/news/articleView.html?idxno=145376",
-            "timestamp": 1788594360000,
-            "date": "2026-09-05"
-        },
-        {
-            "title": "OpenAI와 구글은 소프트웨어 취약점을 독립적으로 찾아내고, 감지하고, 패치할 수 있는 AI를 출시했습니다. - vietnam.vn",
-            "summary_kr": "오픈AI와 구글이 각각 소프트웨어 취약점을 자율적으로 탐색하고 패치하는 AI 모델 'GPT-6 아스트라'와 '제미니 3.8 플래시 사이버'를 공개했습니다. 다만, 고도의 자율성에 따른 위험성 관리가 중요해짐에 따라 AI 기업들은 시스템 접근 권한 제한과 엄격한 보안 프로토콜 마련이라는 과제에 직면했습니다.",
-            "link": "https://www.vietnam.vn/ko/openai-va-google-ra-mat-ai-co-the-tu-tim-phat-hien-va-va-lo-hong-phan-mem",
-            "timestamp": 1788613379000,
-            "date": "2026-09-05"
         }
     ]
 }

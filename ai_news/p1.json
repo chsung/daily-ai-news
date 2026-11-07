@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-06 20:46:43",
+    "last_update": "2026-11-07 09:49:02",
     "articles": [
+        {
+            "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe - Reuters",
+            "summary_en": "Google has acquired a data center site in Wyoming from AI infrastructure provider Crusoe to bolster its expanding computational capacity.",
+            "link": "https://www.reuters.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-2026-11-06",
+            "timestamp": 1793995414000,
+            "date": "2026-11-06"
+        },
+        {
+            "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
+            "summary_en": "A recent study indicates that Anthropic's AI models are accelerating their improvement rate by nearly two times through the strategic implementation of AI-assisted development techniques.",
+            "link": "https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05",
+            "timestamp": 1793909263000,
+            "date": "2026-11-05"
+        },
+        {
+            "title": "AWS launches agentic AI Kiro bots with memory and support for recurring development jobs - VentureBeat",
+            "summary_en": "AWS has launched 'Kiro bots,' persistent agentic tools for its development workspace designed to manage recurring tasks, coordinate multiple AI agents, and maintain long-term project context. By assigning specific responsibilities and memory to these bots, AWS aims to reduce human management overhead in complex, multi-stage engineering workflows.",
+            "link": "https://venturebeat.com/technology/aws-launches-agentic-ai-kiro-bots-with-memory-and-support-for-recurring-development-jobs",
+            "timestamp": 1793916816000,
+            "date": "2026-11-05"
+        },
         {
             "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News",
             "summary_en": "OpenAI has introduced GPT-6 Cyber, a specialized model that achieved a 48.5% score on the ExploitGym benchmark and successfully identified nearly 1,000 Linux and Firefox vulnerabilities. The model demonstrates significantly improved safety guardrails, maintaining 99.93% adherence to operational boundaries even when tested without specific deployment safety prompts.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4R0gxZ2RzNURmYjgwTUVuemhuT201TFc5a2FjaFRqMXo2OXUwck8yNTFraEtkY2swOWdIb2liQXZGVTRrTGFhVV82S2JBRFJybExmQ28zcGdaT1U?oc=5",
             "timestamp": 1790745493000,
             "date": "2026-09-30"
-        },
-        {
-            "title": "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards - Al Jazeera",
-            "summary_en": "Donald Trump and several major technology executives have signed a voluntary agreement committing to the implementation of robust safety measures for artificial intelligence development.",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmkxaXdpblpjU0EzRG9nUUJTWGt2VE9EYzlWd2Nlak5SQ0xfMmRfVnBQTG8zTy1oRTByUHZxSXFSNzFVMFF6b3BtU3BGUy04bkxDcVh6YUQtNTdINk1rRnk0QzZMWlpvVFpLbGs5dEdpNk91YnpqTFphQkRTV0NwZlMwUnVjT2JlZUJYUVBsazM0bHBWY19Cd1FkVlVuQ2RFdGhqdG9B0gGrAUFVX3lxTE11LV9UV3QxeF9VMU9YZS1JUmotR24zNGc2UVVHUWxRMU53NnQ0eVl1clpaOWdSWlRuaVBhS1RPQVM0Wlk4ZU1xQkxvTjBGWFIweEd1Uzl4bEk0Q2ozVG95bXhOUWtzUFBVTHFpNzRUYmFZVE1kYl9iRDQ4bENCUm9sUkttcm5rR1BmT2I4aHZqZVBPYmpGOFYtZnZ2SXo4bnFPYU53X1J1WWpmRQ?oc=5",
-            "timestamp": 1790748102000,
-            "date": "2026-09-30"
-        },
-        {
-            "title": "How Diffusion Controller unifies and simplifies AI image generation - Google Research",
-            "summary_en": "Google Research has introduced Diffusion Controller, a new framework designed to unify and streamline the complex processes involved in AI-driven image generation.",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMG04YmVLc0pHcnBsQTJQYXRCdFpFVzdGbF8ySjc1RkNMTElSMEx5RUYwdnZDNkltelByaWtWRWpQZTEzQmJ4Ujg1Y2xlekFNd2dVbzhNQmp2ZUNnTmFnYjJaMk1RdXMzQ0tIcEhpZjhjWjh6bkd0eHpZMzhZLXVjNFhRWlBQTGRQT3I5X3A3R3dNZXNCZkNiWG9CSWRmUQ?oc=5",
-            "timestamp": 1790707349000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "Introducing Quine: An AI research system designed for the complexity of biology - Microsoft",
-            "summary_en": "Microsoft has introduced Quine, a specialized AI research system engineered to tackle the intricate data and complexities inherent in biological sciences.",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzN5R2VTM0J2X2ttXzNpSE1XRnRpYVlrTE1ScDQtU1EyZ2dpYzNlNk1jUkVBelhpVlkyU0lxaTBaaHo2S0xSUmhIMXJoejVXNzNsel9EdnNNTV80UTBiRmR6U1ZTbGg2azQ2bmpqU0ZCblZfQlVETGp0OF95ZThfYm9WLUV3d3ZvMVA3TF9mOVlmNEQ1dVZsY01GNXBvcnVXamxpLXI2c0ZuZUV0T3JyaG9relV1T2xhOGtVYm4tQ3pzbFk?oc=5",
-            "timestamp": 1790690402000,
-            "date": "2026-09-29"
         }
     ]
 }
