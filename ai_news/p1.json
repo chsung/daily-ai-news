@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-08 10:01:18",
+    "last_update": "2026-11-08 19:27:53",
     "articles": [
+        {
+            "title": "DeepMind's Kohli Sees a 'Phase Transition' in AI Science - FourWeekMBA",
+            "summary_en": "Google DeepMind VP Pushmeet Kohli announced a 'phase transition' in the pace of scientific discovery, signaling that upcoming releases will demonstrate significant advancements in agentic research. These developments are expected to leverage Google's 'Antigravity' platform, which streamlines complex workflows like drug design into much faster, automated processes.",
+            "link": "https://fourweekmba.com/ai-deepmind-kohli-phase-transition-in-ai-science",
+            "timestamp": 1794138169000,
+            "date": "2026-11-08"
+        },
+        {
+            "title": "Meta strategy chief Dave Wehner leaves to become CFO of AI inference startup Fireworks - MLQ.ai",
+            "summary_en": "Dave Wehner, Meta’s chief strategy officer, has stepped down from his position to join AI inference startup Fireworks AI as its new CFO. His departure highlights a growing trend of high-level tech executives transitioning to specialized infrastructure and inference companies within the AI sector.",
+            "link": "https://mlq.ai/news/meta-strategy-chief-dave-wehner-leaves-to-become-cfo-of-ai-inference-startup-fireworks",
+            "timestamp": 1794044388000,
+            "date": "2026-11-07"
+        },
         {
             "title": "Facing Backlash, Meta Pulls Down Terms of Service That Pushed New AI Media Strategy | San Jose Inside - San Jose Inside",
             "summary_en": "Meta has indefinitely postponed its controversial plan to scrape data from business account websites to train AI models following intense backlash from news publishers and lawmakers. Critics, including European press associations, argued the policy violated federal IP protections and the EU's Digital Markets Act by forcing publishers to provide content for competing AI products without compensation.",
@@ -686,20 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PX3hWVnRiNjdFdVFOWXVGM3R6RXJPOEd4ektLc3lqczcwc3Y0N3VfeVhMejhySC1tV3N0dE1Fa25OM2dJa0ZBbFZJYWhna3FIbUpLa1NEcUM3WktfTXl6RTgzaWdPSWl0QmdZY0pFNA?oc=5",
             "timestamp": 1790781192000,
             "date": "2026-09-30"
-        },
-        {
-            "title": "Kodiak AI Chooses AWS for AI-Powered Autonomous Trucking Technology Development Ahead of Driverless Highway Launch - markets.businessinsider.com",
-            "summary_en": "Kodiak Robotics has selected AWS as its primary cloud provider to accelerate the development of its AI-driven autonomous trucking technology ahead of its planned driverless highway operations.",
-            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPekdCX1RHajZhVk5fS3llay1JQWpiZURkenliUVVhSXZGQjN3c3pqVUJHRjN4akpaeHVTRTdzQ2tkaGhhcXNBZlVKeGlVR1lZTnJwOFV6REphZkVnS3VPdmRoaloyakotUUI5aWdjUkxFTjJuLWctQXB4YVN6MzRQYU1ydl9JZ1ZaS2psNVlQN0VTcDRmczZpM0dOclQtMHY2d0FDVUZfVkJhUGlHbFc0Q2o5aEJ5TFFESFozVDNORS1RRC15Yk1DWFI2dUlBcnJJSVg3Q0J6REJaNmN6ODYydE92QzBMbmFwX2lKNmQxVEM0V3paaGZhNE5zSUViYnY1aVM0?oc=5",
-            "timestamp": 1790864126000,
-            "date": "2026-10-01"
-        },
-        {
-            "title": "DeepSeek and Huawei release open-source Ascend AI programming tools to reduce reliance on Nvidia CUDA ecosystem — tools include compute and communication libraries, as well as Ascend support for TileLang - tomshardware.com",
-            "summary_en": "DeepSeek and Huawei have introduced open-source Ascend AI programming tools, including specialized compute and communication libraries, to minimize industry dependence on Nvidia’s CUDA ecosystem.",
-            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdDJFV0hheDJFSlF1ZzF3X0R6WUlCTlE1bEVweU5iYmoxejNtMTRSVzJpekVZTTRMV2ZxamI3b05IMU55Tm9aMlRWMGRvWEJQS3RqMFpQM09qaVZRbFFyS1hSN0Y0SnpKRmF2VTl2U3R3c1RmWk1yRFJfVU5VcmUzZjhYVlhITUg1X1JOanFaSVlXVnRaQ2l4d3dURDdlekt3OF9MQS1UUXE4dzU5amtMMzQwdTAzdklUNWxnV3lSRmRLQndEYTBBU0lwWmNpdGtXUjdQTHBWTDF2RkljNXd6UjVhVXdhZTB1aWI5MDdjTmVxVFVjSzYwdE15MmNaelpDLUltVG5VSHFwaGl2d1luMjVrRkIzNzB0emJQZDFBZ21FUXpJOC1ieUpxNHp3a2VvNkw5aWROWkZBMTlOMmU0NHRyNkZyMmpBZjRMSmM3c19pQVlHVnJaZGFqTDhnMEZBVWJ5OElLUnIyUS15aGJqemgxa2FIUHlnVkE?oc=5",
-            "timestamp": 1790863200000,
-            "date": "2026-10-01"
         }
     ]
 }

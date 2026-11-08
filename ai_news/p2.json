@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-08 10:01:18",
+    "last_update": "2026-11-08 19:27:53",
     "articles": [
+        {
+            "title": "Kodiak AI Chooses AWS for AI-Powered Autonomous Trucking Technology Development Ahead of Driverless Highway Launch - markets.businessinsider.com",
+            "summary_en": "Kodiak Robotics has selected AWS as its primary cloud provider to accelerate the development of its AI-driven autonomous trucking technology ahead of its planned driverless highway operations.",
+            "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPekdCX1RHajZhVk5fS3llay1JQWpiZURkenliUVVhSXZGQjN3c3pqVUJHRjN4akpaeHVTRTdzQ2tkaGhhcXNBZlVKeGlVR1lZTnJwOFV6REphZkVnS3VPdmRoaloyakotUUI5aWdjUkxFTjJuLWctQXB4YVN6MzRQYU1ydl9JZ1ZaS2psNVlQN0VTcDRmczZpM0dOclQtMHY2d0FDVUZfVkJhUGlHbFc0Q2o5aEJ5TFFESFozVDNORS1RRC15Yk1DWFI2dUlBcnJJSVg3Q0J6REJaNmN6ODYydE92QzBMbmFwX2lKNmQxVEM0V3paaGZhNE5zSUViYnY1aVM0?oc=5",
+            "timestamp": 1790864126000,
+            "date": "2026-10-01"
+        },
+        {
+            "title": "DeepSeek and Huawei release open-source Ascend AI programming tools to reduce reliance on Nvidia CUDA ecosystem — tools include compute and communication libraries, as well as Ascend support for TileLang - tomshardware.com",
+            "summary_en": "DeepSeek and Huawei have introduced open-source Ascend AI programming tools, including specialized compute and communication libraries, to minimize industry dependence on Nvidia’s CUDA ecosystem.",
+            "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdDJFV0hheDJFSlF1ZzF3X0R6WUlCTlE1bEVweU5iYmoxejNtMTRSVzJpekVZTTRMV2ZxamI3b05IMU55Tm9aMlRWMGRvWEJQS3RqMFpQM09qaVZRbFFyS1hSN0Y0SnpKRmF2VTl2U3R3c1RmWk1yRFJfVU5VcmUzZjhYVlhITUg1X1JOanFaSVlXVnRaQ2l4d3dURDdlekt3OF9MQS1UUXE4dzU5amtMMzQwdTAzdklUNWxnV3lSRmRLQndEYTBBU0lwWmNpdGtXUjdQTHBWTDF2RkljNXd6UjVhVXdhZTB1aWI5MDdjTmVxVFVjSzYwdE15MmNaelpDLUltVG5VSHFwaGl2d1luMjVrRkIzNzB0emJQZDFBZ21FUXpJOC1ieUpxNHp3a2VvNkw5aWROWkZBMTlOMmU0NHRyNkZyMmpBZjRMSmM3c19pQVlHVnJaZGFqTDhnMEZBVWJ5OElLUnIyUS15aGJqemgxa2FIUHlnVkE?oc=5",
+            "timestamp": 1790863200000,
+            "date": "2026-10-01"
+        },
         {
             "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI - theguardian.com",
             "summary_en": "The U.S. Federal Trade Commission has launched an antitrust investigation into major AI developers, including Anthropic and OpenAI, to examine competitive practices in the sector.",
@@ -685,20 +699,6 @@
             "summary_en": "Apple's iPhone Duo event showcased a comprehensive AI integration strategy, headlined by the generative Siri AI and high-performance Mac hardware capable of running massive 1 trillion-parameter models. This pivot addresses prior criticisms regarding Apple's slow AI adoption by embedding intelligent features across the iPhone, Watch, and AirPod product lines.",
             "link": "https://finance.yahoo.com/technology/article/apples-ai-strategy-took-center-stage-at-its-iphone-duo-event-150456038.html",
             "timestamp": 1789052696000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "Apple advances health and fitness capabilities using Apple Intelligence and the most accurate heart rate sensing in a wearable - Apple",
-            "summary_en": "Apple introduced the Health Sensing System for the Watch Series 12 and Ultra 4, utilizing Apple Intelligence to transform high-frequency biometric data into actionable longevity and readiness insights. Validated by a 1,000-participant study, the system increases heart rate and HRV monitoring frequency to provide a more precise, privacy-focused view of user health.",
-            "link": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
-            "timestamp": 1788976539000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "Bad actors in China and Russia are already weaponizing Anthropic’s AI - Politico",
-            "summary_en": "Recent reports indicate that state-sponsored actors from China and Russia are actively attempting to weaponize Anthropic's AI models for malicious purposes.",
-            "link": "https://www.politico.com/news/2026/09/10/bad-actors-china-russia-weaponizing-anthropic-01070435",
-            "timestamp": 1789059600000,
             "date": "2026-09-10"
         }
     ]
