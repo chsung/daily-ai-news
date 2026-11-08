@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-07 19:20:02",
+    "last_update": "2026-11-08 10:01:18",
     "articles": [
+        {
+            "title": "Facing Backlash, Meta Pulls Down Terms of Service That Pushed New AI Media Strategy | San Jose Inside - San Jose Inside",
+            "summary_en": "Meta has indefinitely postponed its controversial plan to scrape data from business account websites to train AI models following intense backlash from news publishers and lawmakers. Critics, including European press associations, argued the policy violated federal IP protections and the EU's Digital Markets Act by forcing publishers to provide content for competing AI products without compensation.",
+            "link": "https://www.sanjoseinside.com/business/facing-backlash-meta-pulls-down-terms-of-service-that-pushed-new-ai-media-strategy",
+            "timestamp": 1793989287000,
+            "date": "2026-11-06"
+        },
+        {
+            "title": "Google Acquires Crusoe’s Wyoming Data Center Site - Crusoe",
+            "summary_en": "Google has acquired a pre-developed data center site in Wyoming from Crusoe, which includes a hybrid power strategy utilizing fuel cells and natural gas turbines. The deal marks a strategic move by Google to secure AI-ready infrastructure, leveraging Crusoe's work on governmental approvals and carbon capture integration.",
+            "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+            "timestamp": 1793991587000,
+            "date": "2026-11-06"
+        },
+        {
+            "title": "Democrats planning flood of AI bills when they take control of Congress - Reuters",
+            "summary_en": "Democratic lawmakers in the U.S. are reportedly preparing to introduce a significant volume of artificial intelligence-focused legislation upon gaining control of Congress.",
+            "link": "https://www.reuters.com/business/media-telecom/democrats-planning-flood-ai-bills-when-they-take-control-congress-2026-11-06",
+            "timestamp": 1794002202000,
+            "date": "2026-11-06"
+        },
+        {
+            "title": "Microsoft Researcher John Langford Exits as AI Frontiers Group Is Declared Finished - Business Examiner",
+            "summary_en": "Prominent researcher John Langford has departed Microsoft following the dissolution of his AI Frontiers group, citing a shift in Microsoft AI’s leadership toward pure scaling over fundamental research. Langford expressed frustration that his team's innovations in AI agents, such as Autogen, lacked a clear path to practical implementation within the current corporate structure.",
+            "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
+            "timestamp": 1794070591000,
+            "date": "2026-11-07"
+        },
         {
             "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff - The Decoder",
             "summary_en": "Google Research has developed an AI model that utilizes standard smartwatch pulse and motion sensors to detect high blood pressure without the need for a physical cuff. In a study of 196 participants, the system identified hypertension with higher accuracy than standard office measurements, though it is currently intended as a research tool to encourage clinical check-ups.",
@@ -672,34 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdDJFV0hheDJFSlF1ZzF3X0R6WUlCTlE1bEVweU5iYmoxejNtMTRSVzJpekVZTTRMV2ZxamI3b05IMU55Tm9aMlRWMGRvWEJQS3RqMFpQM09qaVZRbFFyS1hSN0Y0SnpKRmF2VTl2U3R3c1RmWk1yRFJfVU5VcmUzZjhYVlhITUg1X1JOanFaSVlXVnRaQ2l4d3dURDdlekt3OF9MQS1UUXE4dzU5amtMMzQwdTAzdklUNWxnV3lSRmRLQndEYTBBU0lwWmNpdGtXUjdQTHBWTDF2RkljNXd6UjVhVXdhZTB1aWI5MDdjTmVxVFVjSzYwdE15MmNaelpDLUltVG5VSHFwaGl2d1luMjVrRkIzNzB0emJQZDFBZ21FUXpJOC1ieUpxNHp3a2VvNkw5aWROWkZBMTlOMmU0NHRyNkZyMmpBZjRMSmM3c19pQVlHVnJaZGFqTDhnMEZBVWJ5OElLUnIyUS15aGJqemgxa2FIUHlnVkE?oc=5",
             "timestamp": 1790863200000,
             "date": "2026-10-01"
-        },
-        {
-            "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI - theguardian.com",
-            "summary_en": "The U.S. Federal Trade Commission has launched an antitrust investigation into major AI developers, including Anthropic and OpenAI, to examine competitive practices in the sector.",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWF1VUlLZVBPSkduVjFQcVdFR3VYbFNtbTdMU1hkUndzUFNnREVMTEIxR3o4WDFzSWxRcG9IbzRYODFnWXRsdWRKclNOVXdVSXRhYlJ4c3ZKU3NpbS1FZFBBUGZpVTFKXzc1V2hPczFqOTRSVVhEMjB4dDloZE42RC12bE9jXzNtZlE?oc=5",
-            "timestamp": 1790793300000,
-            "date": "2026-09-30"
-        },
-        {
-            "title": "Google 뉴스 - VentureBeat",
-            "summary_en": "VentureBeat continues to track the latest developments in the global artificial intelligence industry, providing ongoing coverage of Google's strategic shifts and product updates.",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5",
-            "timestamp": 1790799809000,
-            "date": "2026-09-30"
-        },
-        {
-            "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
-            "summary_en": "Google has announced Gemini 4 Argon, representing the next generation of its frontier artificial intelligence models.",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
-            "timestamp": 1790798783000,
-            "date": "2026-09-30"
-        },
-        {
-            "title": "Introducing GPT-6.1 Sol - openai.com",
-            "summary_en": "OpenAI has introduced GPT-6.1 Sol, marking the latest iteration in its series of advanced large language models.",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
-            "timestamp": 1790701811000,
-            "date": "2026-09-29"
         }
     ]
 }

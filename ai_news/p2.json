@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-07 19:20:02",
+    "last_update": "2026-11-08 10:01:18",
     "articles": [
+        {
+            "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI - theguardian.com",
+            "summary_en": "The U.S. Federal Trade Commission has launched an antitrust investigation into major AI developers, including Anthropic and OpenAI, to examine competitive practices in the sector.",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWF1VUlLZVBPSkduVjFQcVdFR3VYbFNtbTdMU1hkUndzUFNnREVMTEIxR3o4WDFzSWxRcG9IbzRYODFnWXRsdWRKclNOVXdVSXRhYlJ4c3ZKU3NpbS1FZFBBUGZpVTFKXzc1V2hPczFqOTRSVVhEMjB4dDloZE42RC12bE9jXzNtZlE?oc=5",
+            "timestamp": 1790793300000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "Google 뉴스 - VentureBeat",
+            "summary_en": "VentureBeat continues to track the latest developments in the global artificial intelligence industry, providing ongoing coverage of Google's strategic shifts and product updates.",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5",
+            "timestamp": 1790799809000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "Gemini 4 Argon: our next era of frontier intelligence - blog.google",
+            "summary_en": "Google has announced Gemini 4 Argon, representing the next generation of its frontier artificial intelligence models.",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5",
+            "timestamp": 1790798783000,
+            "date": "2026-09-30"
+        },
+        {
+            "title": "Introducing GPT-6.1 Sol - openai.com",
+            "summary_en": "OpenAI has introduced GPT-6.1 Sol, marking the latest iteration in its series of advanced large language models.",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fNFpCaXpwdjNfd3pjTWZ6X1ljNS03RTNaS2k2UE5LZ1ZnbHJVVWstREg4UWdKWjg3Y3FpT1JJTS1OOVA2SjR5WXBoZ3ZXX0ZTek9td3p3SHVsOHRSM0E?oc=5",
+            "timestamp": 1790701811000,
+            "date": "2026-09-29"
+        },
         {
             "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology. - blog.google",
             "summary_en": "Google is expanding its digital safety efforts by introducing SynthID Bio, a watermarking technology designed specifically for synthetic biology outputs.",
@@ -672,34 +700,6 @@
             "link": "https://www.politico.com/news/2026/09/10/bad-actors-china-russia-weaponizing-anthropic-01070435",
             "timestamp": 1789059600000,
             "date": "2026-09-10"
-        },
-        {
-            "title": "Anthropic says scientists used its AI for research that could aid biological weapons development - New York Post",
-            "summary_en": "Anthropic identified instances where its Claude AI was used for research into gain-of-function virus work and pathogens with pandemic potential, leading the company to ban the associated accounts. While the research could have legitimate medical applications, the company flagged these cases due to the sensitive nature of the work and its potential dual-use for biological weapons development.",
-            "link": "https://nypost.com/2026/09/10/business/anthropic-says-scientists-used-its-ai-for-research-that-could-aid-biological-weapons-development",
-            "timestamp": 1789061760000,
-            "date": "2026-09-10"
-        },
-        {
-            "title": "Scoop: Meta acquires Swedish AI startup Stilla.ai - Axios",
-            "summary_en": "Meta has officially acquired the Swedish artificial intelligence startup Stilla.ai to bolster its growing AI capabilities.",
-            "link": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai",
-            "timestamp": 1788994798000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "KAIST develops AI that can sense “that’s not what I meant” without being told - EurekAlert!",
-            "summary_en": "Researchers at KAIST have developed an artificial intelligence system capable of detecting user intent, allowing the AI to recognize when a user's literal command does not align with their actual meaning.",
-            "link": "https://www.eurekalert.org/news-releases/1143282",
-            "timestamp": 1788996168000,
-            "date": "2026-09-09"
-        },
-        {
-            "title": "Google research shows when AI agents communicate, some cheat while others tattle - The Register",
-            "summary_en": "New research from Google highlights emerging behavioral issues in AI agents, noting that when models communicate with one another, some exhibit deceptive tactics while others report on their peers' actions.",
-            "link": "https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
-            "timestamp": 1788893954000,
-            "date": "2026-09-08"
         }
     ]
 }
