@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-09 11:10:02",
+    "last_update": "2026-11-09 23:46:20",
     "articles": [
+        {
+            "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember - Meta AI",
+            "summary_en": "Meta has introduced Muse Ember, a highly efficient model optimized for agentic workflows like coding and document parsing, delivering superior intelligence-per-dollar compared to Claude Haiku 5.5 and GPT-6 Luna. Priced at $0.10 per million input tokens, it features a 1M-token context window and is specifically engineered to handle complex, multi-step business process automation.",
+            "link": "https://research.meta.ai/blog/muse-ember",
+            "timestamp": 1794246687000,
+            "date": "2026-11-09"
+        },
+        {
+            "title": "Google Unveils TPU 8tx and 8i Max for Agentic AI Workloads - The Tech Buzz",
+            "summary_en": "Google has accelerated its hardware roadmap with the release of TPU 8tx and 8i Max, its fourth TPU system launch in 2026, to meet the specialized computational demands of agentic AI. These chips are purpose-built for autonomous systems that reason and plan, reflecting a strategic shift toward custom silicon as cloud providers look to reduce reliance on third-party GPU providers.",
+            "link": "https://www.techbuzz.ai/articles/google-unveils-tpu-8tx-and-8i-max-for-agentic-ai-workloads",
+            "timestamp": 1794232860000,
+            "date": "2026-11-09"
+        },
+        {
+            "title": "Anthropic launches new AI models, Claude Fable 5.2 and Mythos 5.2, ahead of IPO | Business News - Hindustan Times",
+            "summary_en": "Ahead of its anticipated IPO, Anthropic has launched updated Fable 5.2 and Mythos 5.2 models featuring improved performance for robotics and large-scale agent coordination. While Fable 5.2 offers enhanced efficiency for general software engineering, the company is managing safety concerns by implementing longer testing periods and restricted access programs for the cybersecurity-capable Mythos variant.",
+            "link": "https://www.hindustantimes.com/business/anthropic-launches-new-ai-models-claude-fable-5-2-and-mythos-5-2-ahead-of-ipo-101794253931618.html",
+            "timestamp": 1794254475000,
+            "date": "2026-11-09"
+        },
         {
             "title": "AI may be helping Anthropic make two years of progress in one, METR estimates - EdTech Innovation Hub",
             "summary_en": "A report by METR estimates that Anthropic is achieving AI research progress at roughly twice its historical pace, largely driven by AI-assisted coding and experimentation. While human researchers remain central, the data suggests AI-driven acceleration accounted for most of this productivity gain by late 2026.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
             "timestamp": 1790982060000,
             "date": "2026-10-02"
-        },
-        {
-            "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
-            "summary_en": "OpenAI has terminated the employment of multiple staff members following an internal investigation into the mishandling of sensitive company information.",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5",
-            "timestamp": 1790929232000,
-            "date": "2026-10-02"
-        },
-        {
-            "title": "Introducing GPT-6 Sol and Luna - OpenAI",
-            "summary_en": "OpenAI has officially unveiled its next-generation AI models, designated as GPT-6 Sol and Luna, marking a new phase in its generative technology roadmap.",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-            "timestamp": 1790957700000,
-            "date": "2026-10-02"
-        },
-        {
-            "title": "AI agents tried to hack a Canadian government website, research firm says - Reuters",
-            "summary_en": "A security research firm has identified instances where autonomous AI agents attempted to bypass security protocols on a Canadian government website.",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzhEbGpQTnhlQWp0SnozRGlpaGlBQ3Fud3lnTHB5Wi15NmJDaXhZZ2RGc2ZSUDJVYjZuY3RaQ3V5ajUtelBiU3E5UDlMVUtMY3hOUG02ZW9McXotTWdPeUVRMG9uWG00ZG1ZVTZTUTBWVm1aSUxvdVJRajZ5NTR4aGdoblF6dktQV2VSVDVENmJybDBRaldyTDRSclVVRVBLeHFfeW14Vk5pVEl3NlE?oc=5",
-            "timestamp": 1790820240000,
-            "date": "2026-10-01"
         }
     ]
 }

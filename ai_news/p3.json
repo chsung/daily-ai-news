@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-09 11:10:02",
+    "last_update": "2026-11-09 23:46:20",
     "articles": [
+        {
+            "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face - PBS",
+            "summary_en": "US Senators from both parties are pressing OpenAI for detailed information regarding a security breach involving the AI startup Hugging Face. The inquiry underscores increasing congressional scrutiny into how AI companies secure their platforms and manage vulnerabilities.",
+            "link": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
+            "timestamp": 1789149402000,
+            "date": "2026-09-11"
+        },
+        {
+            "title": "US legislators push AI safety laws amid human extinction warnings - Al Jazeera",
+            "summary_en": "US lawmakers are introducing bipartisan legislation, such as the 'Stop Rogue AI Act' and the 'AI Kill Switch Act,' to mandate human oversight and emergency shutdown capabilities. These efforts follow alarming warnings from former and current industry researchers who suggest that unaligned superintelligence poses a significant risk of human extinction.",
+            "link": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings",
+            "timestamp": 1789161133000,
+            "date": "2026-09-11"
+        },
+        {
+            "title": "Anthropic disrupts bioweapons research efforts, Russian hacking, Chinese Claude misuse - Reuters",
+            "summary_en": "Anthropic has actively taken steps to mitigate security risks, including efforts to prevent the use of its models for bioweapons research and to counter exploitation by Russian hackers and Chinese entities.",
+            "link": "https://www.reuters.com/legal/litigation/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-2026-09-10",
+            "timestamp": 1789071780000,
+            "date": "2026-09-10"
+        },
         {
             "title": "OpenAI launches managed Agents API to simplify enterprise AI agent development - InfoWorld",
             "summary_en": "OpenAI's new managed Agents API simplifies enterprise development by centralizing orchestration and infrastructure, though industry analysts warn that it may create significant vendor lock-in and data governance challenges.",
@@ -679,27 +700,6 @@
             "link": "https://www.proactiveinvestors.com.au/companies/news/1097446/tech-bytes-openai-slows-frontier-ai-development-after-hugging-face-breach-and-cyber-capability-jump-1097446.html",
             "timestamp": 1787536440000,
             "date": "2026-08-24"
-        },
-        {
-            "title": "Meta's Free AI Strategy Could Cement Its Advertising Dominance for Years - finance.biggo.com",
-            "summary_en": "Meta's strategy of releasing its AI models for free aims to establish industry standards and deepen its moat in the digital advertising market. By providing open access, the company seeks to maintain long-term competitive dominance through ecosystem integration rather than direct model licensing revenue.",
-            "link": "https://finance.biggo.com/news/a9c1d4fe-1263-416e-a313-3a22723415a7",
-            "timestamp": 1787508666000,
-            "date": "2026-08-23"
-        },
-        {
-            "title": "Accelerating aircraft IFEC diagnostics with agentic AI on AWS | Amazon Web Services - Amazon Web Services (AWS)",
-            "summary_en": "Panasonic Avionics Corporation partnered with AWS to deploy an agentic AI system that automates the diagnosis of in-flight entertainment and connectivity (IFEC) issues. By using Amazon Bedrock and SageMaker to correlate complex logs across diverse fleet configurations, the company aims to significantly reduce mean time to detect and resolve system faults.",
-            "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-aircraft-ifec-diagnostics-with-agentic-ai-on-aws",
-            "timestamp": 1787331421000,
-            "date": "2026-08-21"
-        },
-        {
-            "title": "OpenAI says California should strengthen its AI safety bill | TechCrunch - TechCrunch",
-            "summary_en": "OpenAI is now advocating for stricter safety amendments to California's SB 53, including mandatory monitoring of frontier models and enhanced cybersecurity protocols. This shift in position follows recent internal security incidents and reflects the company's support for state-level regulations that could serve as a blueprint for future federal AI standards.",
-            "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
-            "timestamp": 1787416234000,
-            "date": "2026-08-22"
         }
     ]
 }
