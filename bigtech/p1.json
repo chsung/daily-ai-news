@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-11-07 19:41:49",
+    "last_update": "2026-11-09 23:53:38",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794251372000,
+            "date": "2026-11-09",
+            "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+            "summary_kr": "엔비디아의 Holoscan 5는 고성능 컴퓨팅과 저지연 제어를 통합하여 로봇의 중력 보상 제어 및 복잡한 센서 처리를 효율적으로 구현할 수 있는 개발 환경을 제공합니다.",
+            "summary_en": "NVIDIA Holoscan 5 provides a unified development platform that integrates high-throughput perception with low-latency control, enabling efficient implementation of robotic gravity compensation and advanced sensor processing.",
+            "link": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1794250800000,
+            "date": "2026-11-09",
+            "title": "ChatGPT Enterprise now available in AWS Marketplace",
+            "summary_kr": "기업용 ChatGPT가 AWS 마켓플레이스에 출시되어, 기업 고객들이 기존 AWS 계약을 활용해 간편하게 서비스를 구매하고 관리할 수 있게 되었습니다.",
+            "summary_en": "ChatGPT Enterprise is now available on AWS Marketplace, allowing organizations to easily purchase and manage the service through their existing AWS billing relationships.",
+            "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794247185000,
+            "date": "2026-11-09",
+            "title": "A former Marine had an idea to help fellow veterans: AI helped him build it",
+            "summary_kr": "미 재향군인부의 개리 크럴이 로우코드 AI 도구인 '마이크로소프트 코파일럿 스튜디오'를 활용해 재향군인들의 복지 혜택 탐색을 돕는 '배틀 버디(Battle Buddy)' AI 에이전트를 개발했습니다.",
+            "summary_en": "Gary Crull, a U.S. Department of Veterans Affairs employee, leveraged Microsoft Copilot Studio to build 'Battle Buddy,' an AI agent designed to help veterans efficiently navigate and access complex federal and local benefits.",
+            "link": "https://news.microsoft.com/source/features/ai/a-former-marine-had-an-idea-to-help-fellow-veterans-ai-helped-him-build-it"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794239823000,
+            "date": "2026-11-09",
+            "title": "Northern Trust and Microsoft Frontier Company accelerate client onboarding with AI",
+            "summary_kr": "노던 트러스트는 마이크로소프트와 협력하여 AI 에이전트를 도입함으로써 복잡한 기관 고객 온보딩 프로세스를 2주 이상에서 3일로 단축하고 정확도를 96.5%까지 높였습니다.",
+            "summary_en": "Northern Trust partnered with Microsoft to deploy an AI agent, successfully reducing complex institutional client onboarding time from weeks to three days with a 96.5% accuracy rate.",
+            "link": "https://news.microsoft.com/source/features/digital-transformation/northern-trust-finance-microsoft-partner-ai"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1794229200000,
+            "date": "2026-11-09",
+            "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+            "summary_kr": "Control Room은 연구 인프라 전반의 모델 작업을 실시간으로 추적하고, 보안 및 안전 문제 발생 시 35초 이내에 모델 출력을 즉각 중단시키는 중앙 집중식 안전 제어 시스템입니다.",
+            "summary_en": "Control Room is a centralized system designed to track research workloads across infrastructure and halt model output within 35 seconds to mitigate safety and security risks.",
+            "link": "https://openai.com/index/control-room"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1794211200000,
+            "date": "2026-11-09",
+            "title": "CodeRabbit scales agentic software development and ships 20x more",
+            "summary_kr": "코드래빗(CodeRabbit)은 오픈AI의 모델과 거버넌스 플랫폼을 활용해 AI 생성 코드의 신뢰성을 확보하고, 소프트웨어 개발 생산성을 20배 향상했습니다.",
+            "summary_en": "CodeRabbit leverages OpenAI models and its governance platform to validate AI-generated code, enabling a 20x increase in software delivery efficiency.",
+            "link": "https://openai.com/index/coderabbit-codex-daybreak"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1794211200000,
+            "date": "2026-11-09",
+            "title": "Kuken Industries searches 70 years of drawings in minutes",
+            "summary_kr": "쿠켄 인더스트리는 OpenAI API 기반의 AI 검색 시스템을 도입하여 70년치 설계도면 검색 시간을 90% 단축하고, 엔지니어의 업무 효율성과 기술 전수 역량을 크게 향상시켰습니다.",
+            "summary_en": "Kuken Industries has implemented an AI-powered search tool built on the OpenAI API, reducing drawing retrieval time by 90% and enabling engineers to focus on higher-value tasks and skill development.",
+            "link": "https://openai.com/index/kuken"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1794182400000,
+            "date": "2026-11-09",
+            "title": "Testing Claude on real-world electronics design",
+            "summary_kr": "클로드(Claude) 모델이 단순 회로 설계를 넘어 복잡한 기하학적 추론과 제조 제약 조건을 스스로 해결하며 전자 하드웨어의 시작부터 끝까지 전 과정을 성공적으로 프로토타입화하는 능력을 입증했습니다.",
+            "summary_en": "Claude has evolved beyond basic circuit design, demonstrating the ability to handle complex geometric reasoning and manufacturing constraints to successfully prototype complete electronic devices from end to end.",
+            "link": "https://www.anthropic.com/research/claude-electronics-design"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794011700000,
+            "date": "2026-11-07",
+            "title": "ThinkingBox: Catching failures and training agents",
+            "summary_kr": "ThinkingBox는 AI 에이전트의 실제 작업 결과를 검증하는 프레임워크로, 에이전트가 완수된 것처럼 보고하더라도 실제 데이터베이스 상태는 오류일 수 있음을 밝혀내고 강화학습을 통해 모델의 안정적인 성공률을 획기적으로 개선했습니다.",
+            "summary_en": "ThinkingBox is an evaluation framework that validates AI agent actions against actual database states, revealing that agents often falsely report completion; it significantly improves reliability by using these state-based verifications for reinforcement learning.",
+            "link": "https://commandline.microsoft.com/thinkingbox-part-two-expanded-model-evals-reinforcement-learning-rewards"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1794003620000,
@@ -819,87 +900,6 @@
             "summary_kr": "AI 시대의 교육은 단순히 도구 활용법을 넘어 불평등 해소와 비판적 사고 함양에 집중해야 하며, 이를 위해 교육 현장에 대한 체계적인 연구와 교사 교육이 필수적입니다.",
             "summary_en": "Education in the AI era must prioritize bridging global disparities and fostering critical thinking, requiring a strategic, research-backed approach to integrating AI in classrooms alongside comprehensive teacher training.",
             "link": "https://blogs.microsoft.com/on-the-issues/2026/10/26/learning-curves-the-future-of-education-from-classrooms-to-careers-in-an-ai-driven-world"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1793037558000,
-            "date": "2026-10-26",
-            "title": "How AI could help scientists track a pest threatening citrus trees",
-            "summary_kr": "마이크로소프트의 Discovery 앱과 AI 기술을 활용해 기존의 병충해 모니터링 시스템을 신속하게 적응시켜, 농작물 피해를 방지하고 식량 안보를 강화하는 혁신적인 연구 방법론을 제시합니다.",
-            "summary_en": "This article explores how leveraging Microsoft's Discovery app and agentic AI can rapidly adapt biological monitoring systems to detect crop pests, ultimately enhancing food security through more efficient research and field deployment.",
-            "link": "https://techcommunity.microsoft.com/blog/microsoft-discovery-blog/adapting-biological-monitoring-for-food-security-with-agents/4565992"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793030400000,
-            "date": "2026-10-26",
-            "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
-            "summary_kr": "엔비디아 미네르바(Minerva)는 분산된 AI 팩토리의 방대한 텔레메트리 데이터를 통합하고 AI 기반으로 분석하여, 기존 모니터링이 포착하지 못하는 복잡한 '그레이 장애'를 실시간으로 해결합니다. 이를 통해 인프라와 워크로드 간의 상관관계를 파악함으로써 GPU 가동 효율을 극대화하고 운영 가시성을 확보합니다.",
-            "summary_en": "NVIDIA Minerva addresses the complexity of AI factory operations by integrating stack-wide telemetry into a dynamic knowledge graph to resolve elusive 'gray failures' through AI-driven correlation. By mapping infrastructure to specific workloads, it eliminates operational silos and maximizes GPU utilization by transforming chaotic data into actionable insights.",
-            "link": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793026800000,
-            "date": "2026-10-26",
-            "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
-            "summary_kr": "엔비디아 미션 컨트롤 2.5는 자율 복구 엔진을 쿠버네티스 환경까지 확장하여, AI 인프라의 장애를 실시간으로 감지하고 복구하는 지능형 자가 치유 시스템을 구축합니다.",
-            "summary_en": "NVIDIA Mission Control 2.5 extends its autonomous recovery engine to Kubernetes, enabling intelligent self-healing systems that proactively detect and resolve failures in large-scale AI infrastructure.",
-            "link": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793025000000,
-            "date": "2026-10-26",
-            "title": "Working with academic communities to build scientific understanding",
-            "summary_kr": "OpenAI는 수학, 컴퓨터 과학, 물리학 분야의 AI 연구 성과를 학계와 공유하기 위해 외부 전문가 그룹과 협력하는 새로운 검증 및 공개 모델을 도입했습니다.",
-            "summary_en": "OpenAI has introduced a new collaboration model with academic experts to validate and interpret AI-driven scientific discoveries in mathematics, computer science, and physics.",
-            "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793022300000,
-            "date": "2026-10-26",
-            "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-            "summary_kr": "코드래빗(CodeRabbit)은 GPT-6.1 Sol을 보안 에이전트에 도입하여 복잡한 코드베이스 전반의 취약점을 심층 분석하고, 자동화된 보안 검증 및 수정 제안 기능을 강화했습니다.",
-            "summary_en": "CodeRabbit has integrated GPT-6.1 Sol into its security agent to enhance deep vulnerability analysis across complex codebases, enabling automated security verification and remediation suggestions.",
-            "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1793019600000,
-            "date": "2026-10-26",
-            "title": "How Google Beam connects military families globally",
-            "summary_kr": "구글은 USO와 협력해 HP 디멘션 기반의 '구글 빔(Google Beam)'을 전 세계 20개 거점에 도입, 3D 영상 통신 기술로 파병 군인과 가족 간의 물리적 거리를 초월한 몰입형 유대감을 제공하고 있습니다.",
-            "summary_en": "Google has partnered with the USO to deploy HP Dimension-powered 'Google Beam' at 20 global locations, using 3D video communication technology to bridge the distance and provide immersive, lifelike connections for military families.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793008800000,
-            "date": "2026-10-26",
-            "title": "ChatGPT’s expanding world of work",
-            "summary_kr": "OpenAI는 전 세계 100여 개국에서 ChatGPT가 어떻게 업무에 활용되는지 분석한 'OpenAI Signals' 데이터를 공개하며, 연구자들이 AI가 노동 시장과 경제에 미치는 영향을 심층적으로 탐구할 수 있는 기반을 마련했습니다.",
-            "summary_en": "OpenAI has released 'OpenAI Signals' data detailing ChatGPT's workplace usage across 100 countries, providing researchers with a standardized framework to analyze AI's evolving impact on global labor and economic activities.",
-            "link": "https://openai.com/index/chatgpt-expanding-world-of-work"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792998000000,
-            "date": "2026-10-26",
-            "title": "How Fanatics and OpenAI streamline the fan experience",
-            "summary_kr": "Fanatics는 OpenAI의 모델을 활용해 개인화된 상품 추천 기능인 'Shop the Look'을 고도화함으로써 고객 참여도를 10% 향상시켰습니다.",
-            "summary_en": "Fanatics has integrated OpenAI's models into its 'Shop the Look' feature, successfully boosting customer engagement by 10% through AI-driven personalized product recommendations.",
-            "link": "https://openai.com/index/fanatics-streamline-fan-experience"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792998000000,
-            "date": "2026-10-26",
-            "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-            "summary_kr": "OpenAI는 Codex의 'Ultrafast' 모드를 통해 보안 및 시스템 사고 대응 시간을 수 시간에서 수 분 내외로 단축하며 엔지니어의 업무 효율성과 집중력을 극대화하고 있습니다.",
-            "summary_en": "OpenAI has drastically reduced incident response times from hours to minutes using the 'Ultrafast' mode in Codex, significantly improving engineering efficiency and maintaining focus.",
-            "link": "https://openai.com/index/openai-cut-incident-investigation"
         }
     ]
 }
