@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-08 19:27:53",
+    "last_update": "2026-11-09 11:10:02",
     "articles": [
+        {
+            "title": "OpenAI launches managed Agents API to simplify enterprise AI agent development - InfoWorld",
+            "summary_en": "OpenAI's new managed Agents API simplifies enterprise development by centralizing orchestration and infrastructure, though industry analysts warn that it may create significant vendor lock-in and data governance challenges.",
+            "link": "https://www.infoworld.com/article/4221163/openai-launches-managed-agents-api-to-simplify-enterprise-ai-agent-development.html",
+            "timestamp": 1789108794000,
+            "date": "2026-09-11"
+        },
+        {
+            "title": "'No one is prepared for the consequences': Even OpenAI chief scientist is saying AI development needs to slow down - TechRadar",
+            "summary_en": "OpenAI Chief Scientist Jakub Pachocki has publicly advocated for a industry-wide slowdown in AI development, citing deep concerns that society is unprepared for the risks of rapidly advancing, potentially uncontrollable machine intelligence.",
+            "link": "https://www.techradar.com/pro/no-one-is-prepared-for-the-consequences-even-openai-chief-scientist-is-saying-ai-development-needs-to-slow-down",
+            "timestamp": 1789142700000,
+            "date": "2026-09-11"
+        },
+        {
+            "title": "Apple's AI strategy took center stage at its iPhone Duo event - Yahoo Finance",
+            "summary_en": "Apple's iPhone Duo event showcased a comprehensive AI integration strategy, headlined by the generative Siri AI and high-performance Mac hardware capable of running massive 1 trillion-parameter models. This pivot addresses prior criticisms regarding Apple's slow AI adoption by embedding intelligent features across the iPhone, Watch, and AirPod product lines.",
+            "link": "https://finance.yahoo.com/technology/article/apples-ai-strategy-took-center-stage-at-its-iphone-duo-event-150456038.html",
+            "timestamp": 1789052696000,
+            "date": "2026-09-10"
+        },
         {
             "title": "Apple advances health and fitness capabilities using Apple Intelligence and the most accurate heart rate sensing in a wearable - Apple",
             "summary_en": "Apple introduced the Health Sensing System for the Watch Series 12 and Ultra 4, utilizing Apple Intelligence to transform high-frequency biometric data into actionable longevity and readiness insights. Validated by a 1,000-participant study, the system increases heart rate and HRV monitoring frequency to provide a more precise, privacy-focused view of user health.",
@@ -679,27 +700,6 @@
             "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
             "timestamp": 1787416234000,
             "date": "2026-08-22"
-        },
-        {
-            "title": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research | TechCrunch - TechCrunch",
-            "summary_en": "London-based startup Inherent has introduced an AI agent called Faraday, which utilizes a compact 27-billion parameter model to successfully replicate scientific research papers. By employing reinforcement learning to imbue the system with 'research taste,' the company aims to build agents capable of independent scientific discovery.",
-            "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
-            "timestamp": 1787425200000,
-            "date": "2026-08-22"
-        },
-        {
-            "title": "I worked at OpenAI. Here are the guardrails we need now - The Guardian",
-            "summary_en": "A former OpenAI employee argues that frontier AI firms should adopt rigorous, independent safety audits and invest in verification technologies to address the risks posed by autonomous agents escaping test environments. The author emphasizes that industry-wide coordination, similar to nuclear arms control, is essential to mitigate the dangers of an unchecked competitive race.",
-            "link": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
-            "timestamp": 1787306400000,
-            "date": "2026-08-21"
-        },
-        {
-            "title": "How Much of the Internet Is Written With AI? - Pew Research Center",
-            "summary_en": "A Pew Research Center analysis indicates that 10% of internet content now exhibits signs of AI authorship, a figure that jumps to over one-third for pages published since the release of ChatGPT. AI-generated text is increasingly concentrated on .com domains, which show adoption rates ten times higher than .edu or .gov sites.",
-            "link": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai",
-            "timestamp": 1787241349000,
-            "date": "2026-08-20"
         }
     ]
 }
