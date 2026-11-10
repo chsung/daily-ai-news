@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-10 10:55:26",
+    "last_update": "2026-11-10 21:16:09",
     "articles": [
+        {
+            "title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements - The Quantum Insider",
+            "summary_en": "Researchers from QuEra, Harvard, and Anthropic used Claude to significantly optimize quantum circuit designs, achieving up to a 39-fold reduction in resource requirements for key computational building blocks. This collaboration demonstrates how AI can accelerate the practical utility of fault-tolerant quantum computers by decreasing gate counts and qubit demands.",
+            "link": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements",
+            "timestamp": 1794334401000,
+            "date": "2026-11-10"
+        },
+        {
+            "title": "AWS Commits $100 Million To Expand AI Use In Healthcare - CIO Africa",
+            "summary_en": "AWS has launched a $100 million initiative to provide cloud infrastructure and AI tools to healthcare organizations, aiming to address critical resource gaps in underserved regions over the next five years. The program specifically targets three pillars: expanding healthcare access, advancing research in women’s and children’s health, and tackling global food insecurity.",
+            "link": "https://cioafrica.co/aws-commits-100-million-to-expand-ai-use-in-healthcare-targeting-underserved-markets",
+            "timestamp": 1794297180000,
+            "date": "2026-11-10"
+        },
         {
             "title": "NVIDIA and KAIST Partner to Build 1 Million Korean AI Datasets - 조선일보",
             "summary_en": "NVIDIA is partnering with KAIST to address the scarcity of Korean-language training data by investing $300 million over five years to produce 1 million high-quality datasets. The initiative focuses on utilizing synthetic data technology to improve AI proficiency in Korean while providing domestic researchers with essential GPU resources and expertise.",
@@ -686,20 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdNIBmAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdA?oc=5",
             "timestamp": 1792311304000,
             "date": "2026-10-18"
-        },
-        {
-            "title": "New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft",
-            "summary_en": "Microsoft has introduced a new AI framework designed to improve the accuracy and reliability of mid-range weather forecasting systems. This development aims to address significant gaps in predictive meteorological modeling through advanced machine learning techniques.",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5",
-            "timestamp": 1792382120000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "Google 뉴스 - Research Information",
-            "summary_en": "Google is actively disseminating new research findings and technical insights to the public through its specialized news and research information portal. The platform serves as a central hub for the company's latest contributions to the global AI and scientific community.",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzBkVVFtRmIzZXdQbEMxUFNaS0RBZEtDR2tBQ2RBSnA5dUtBT0JYVWRtbTgxSXZmTGlCYVpMQ0F5VWRucjU4S0RLM0UyallIbzRjbUx3MV90bWlvN2R1WjRiR1lwYUt6enlHU1FPUWFJa20tQXI1Tjd3eTE4clBXUUxnZmtnYVc5RmY3TzI4SlRSNndPcWR4ZFY2NDktMko3Yko3MXFRTWNqR1JjOUhLWURR?oc=5",
-            "timestamp": 1792396564000,
-            "date": "2026-10-19"
         }
     ]
 }
