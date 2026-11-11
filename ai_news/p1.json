@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-10 21:16:09",
+    "last_update": "2026-11-11 10:34:49",
     "articles": [
+        {
+            "title": "OpenAI builds a kill switch for its research models - The Register",
+            "summary_en": "OpenAI developers are reportedly implementing a 'kill switch' mechanism for research models to prevent unauthorized reverse engineering by malicious agents. This move is part of broader security efforts within the AI industry to protect proprietary model architecture.",
+            "link": "https://www.theregister.com/ai-and-ml/2026/11/11/openai-builds-a-kill-switch-for-its-research-models/5309006",
+            "timestamp": 1794374456000,
+            "date": "2026-11-11"
+        },
+        {
+            "title": "Apple's 'Harbor' app will make running local AI across multiple Macs trivial - AppleInsider",
+            "summary_en": "Apple is developing a new application called 'Harbor' designed to simplify the process of running local artificial intelligence models across multiple Mac devices. The tool aims to improve accessibility for users looking to manage AI workloads within the Apple hardware ecosystem.",
+            "link": "https://appleinsider.com/articles/26/11/10/apples-harbor-app-will-make-running-local-ai-across-multiple-macs-trivial",
+            "timestamp": 1794342445000,
+            "date": "2026-11-10"
+        },
+        {
+            "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic has launched a suite of workplace productivity features, including 'Claude Meetings,' which integrates an AI assistant into video calls to generate real-time action items and visual plans. These tools compete directly with offerings from OpenAI and Google by enabling collaborative, app-integrated workflows for enterprise users.",
+            "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+            "timestamp": 1794331800000,
+            "date": "2026-11-10"
+        },
         {
             "title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements - The Quantum Insider",
             "summary_en": "Researchers from QuEra, Harvard, and Anthropic used Claude to significantly optimize quantum circuit designs, achieving up to a 39-fold reduction in resource requirements for key computational building blocks. This collaboration demonstrates how AI can accelerate the practical utility of fault-tolerant quantum computers by decreasing gate counts and qubit demands.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZE5EZmU0cVlEcWh0OUJQU0NCQ21jTWRtTnZiWGdTLUUtVGVCMy1qTTdiRmRyRU1PSjRSdGJZNmlJUnVoRmpuNnZkTGhJTTQwVGZqRXpISHBsT1VtUWkyUnM0SE5CTlo4TG0xUmRORXZnZ0RuUWJyS01kWHJFSy11Yl9QeE9JZi1Q?oc=5",
             "timestamp": 1792475300000,
             "date": "2026-10-20"
-        },
-        {
-            "title": "Microsoft Has a Strategy to Secure AI Agents - Thurrott.com",
-            "summary_en": "Microsoft is implementing a comprehensive strategic plan to enhance the security architecture and reliability of its emerging AI agent ecosystem.",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFRoVVdUa2NaUDhNcE9FbUJyWEhwTDFzR3o2MVpTeXJMVUpDQV9ZMHAzamFvQVp4eEF2Yzg0Qk5oY0VYeGJMOTlWU2RaekMyYWF2ZHdCNlZJbjBOZ1RieWQ5RzNvMV94UjFZZXY2NndmYVV1NC1sc3lIWFFTakFUaVdSeUR1Ulk?oc=5",
-            "timestamp": 1792429395000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration - MarkTechPost",
-            "summary_en": "NVIDIA has open-sourced its Run:ai software under the Apache 2.0 license to standardize and optimize GPU orchestration across Kubernetes clusters. This move aims to simplify the management of AI computing resources for developers and infrastructure teams.",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2JIR2puYk1SMlQwVlBzTHhMcTRDNGxpOG9fenpOWjhGbDZvRWYwUHdIRHB6YzNMQ1JUNTFjc0RvSmFmTnN2UFdKRnlQNl8wWW9oeVZpWlNJTFJ6UVpnSVRJVUdicGl6T2ttUHRlV0VnSWtiNnlpUkhwMHNoNTFqX0JlOV9jVnN3M3FIZzM0bUlFR2o1Y20wV2dB0gGaAUFVX3lxTFBDYkhHam5iTVIyVDBWUHNMeExxNEM0bGk4b196ek5aOEZsNm9FZjBQd0hEcHpjM0xDUlQ1MWNzRG9KYWZOc3ZQV0pGeVA2XzBZb2h5VmlaU0lMUnpRWmdJVElVR2JwaXpPa21QdGVXRWdJa2I2eWlSSHAwc2g1MWpfQmU5X2NWc3czcUhnMzRtSUVHajVjbTBXZ0E?oc=5",
-            "timestamp": 1792379958000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "Google 뉴스 - MarkTechPost",
-            "summary_en": "Google is actively leveraging its news aggregation platform to distribute the latest artificial intelligence research and industry developments from MarkTechPost. The integration highlights Google's ongoing commitment to organizing and disseminating specialized technical information to a global audience.",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdNIBmAFBVV95cUxQU01Pdmx0bjRMaGliTFl6ejlMcDhSSnMwbU4yZ0dkMFY2bXJuVGVQRzB1UFpGR3k1bU5lUmtuOERydHc5bkJRZllOcWo3aXk1YnduejJ4U0YySV9Ua2Y1UWIzTkRIWTFxSnV0N1RWLVJObTJGS2Z5NG41M1VDUGtEcUNEajE3Wm9fRVhscVJJTVM3RWdncmVLdA?oc=5",
-            "timestamp": 1792311304000,
-            "date": "2026-10-18"
         }
     ]
 }
