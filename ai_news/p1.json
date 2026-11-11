@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-11 10:34:49",
+    "last_update": "2026-11-11 21:49:58",
     "articles": [
+        {
+            "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model - SiliconANGLE",
+            "summary_en": "Google DeepMind has introduced Gemini Robotics 2.5, which delivers significant performance gains in dexterity and task completion speed, alongside AlphaGenome 2, a model designed to predict the impact of DNA variations on specific cell types. These advancements aim to transition robots into complex real-world environments while providing drug researchers with deeper insights into gene activity.",
+            "link": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model",
+            "timestamp": 1794414600000,
+            "date": "2026-11-11"
+        },
+        {
+            "title": "Amazon Built AWS Emulator Entirely With AI Agents - The Tech Buzz",
+            "summary_en": "Amazon Web Services has launched its AWS Emulator tool, marking a milestone as the first production software developed entirely by thousands of autonomous AI agents without human-written code. This release signals a shift in software engineering, demonstrating that AI agents can manage complex architectural requirements to deliver stable, enterprise-grade tools.",
+            "link": "https://www.techbuzz.ai/articles/amazon-built-aws-emulator-entirely-with-ai-agents",
+            "timestamp": 1794420254000,
+            "date": "2026-11-11"
+        },
+        {
+            "title": "GOSH & AWS Partner to Advance AI in Paediatric Healthcare - Healthcare Digital",
+            "summary_en": "Great Ormond Street Hospital (GOSH) has renewed its strategic partnership with AWS through 2030 to integrate cloud and AI technologies into paediatric healthcare. The collaboration focuses on improving clinical outcomes, operational efficiency, and research capabilities, building on existing AI initiatives like diagnostic tools for childhood wrist fractures.",
+            "link": "https://healthcare-digital.com/news/gosh-aws-partner-to-advance-ai-in-paediatric-healthcare",
+            "timestamp": 1794314857000,
+            "date": "2026-11-10"
+        },
         {
             "title": "OpenAI builds a kill switch for its research models - The Register",
             "summary_en": "OpenAI developers are reportedly implementing a 'kill switch' mechanism for research models to prevent unauthorized reverse engineering by malicious agents. This move is part of broader security efforts within the AI industry to protect proprietary model architecture.",
@@ -679,27 +700,6 @@
             "link": "https://press.siemens.com/global/en/pressrelease/siemens-partners-nvidia-advance-ai-driven-autonomous-factories",
             "timestamp": 1792411171000,
             "date": "2026-10-19"
-        },
-        {
-            "title": "Amazon's TorchNeuron runs PyTorch on AWS Trainium chips - About Amazon",
-            "summary_en": "Amazon has introduced TorchNeuron, an open-source tool that allows developers to run existing PyTorch code on AWS Trainium chips without the need for manual rewrites. By removing the engineering burden of porting software to new hardware, the tool aims to reduce development costs and provide greater flexibility in AI infrastructure.",
-            "link": "https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai",
-            "timestamp": 1792415185000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help - NVIDIA Blog",
-            "summary_en": "Germany is positioning itself as a global leader in industrial AI, with NVIDIA providing the necessary technological infrastructure and support to drive this initiative.",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE?oc=5",
-            "timestamp": 1792438439000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "OpenAI CEO Sam Altman Proposes Three Measures for Safe AI Development - 조선일보",
-            "summary_en": "OpenAI CEO Sam Altman has unveiled a three-point framework aimed at establishing safety standards and best practices for the responsible development of AI systems.",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZE5EZmU0cVlEcWh0OUJQU0NCQ21jTWRtTnZiWGdTLUUtVGVCMy1qTTdiRmRyRU1PSjRSdGJZNmlJUnVoRmpuNnZkTGhJTTQwVGZqRXpISHBsT1VtUWkyUnM0SE5CTlo4TG0xUmRORXZnZ0RuUWJyS01kWHJFSy11Yl9QeE9JZi1Q?oc=5",
-            "timestamp": 1792475300000,
-            "date": "2026-10-20"
         }
     ]
 }
