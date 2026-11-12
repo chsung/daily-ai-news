@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-11-11 22:20:47",
+    "last_update": "2026-11-12 21:57:54",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1794515400000,
+            "date": "2026-11-12",
+            "title": "5 new Google Flow Tools designed by visual artists",
+            "summary_kr": "구글은 비주얼 아티스트들과 협업하여 캐릭터 일관성 유지, 특수 효과 구현, 영상 품질 향상 등을 돕는 5가지 새로운 AI 창작 도구를 'Google Flow'에 공개했습니다.",
+            "summary_en": "Google has released five new AI-powered tools within its 'Google Flow' creative studio, designed by visual artists to enhance character consistency, visual effects, and production quality.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1794506400000,
+            "date": "2026-11-12",
+            "title": "Introducing Gemini 4 Hydrogen",
+            "summary_kr": "구글이 일상적인 코딩과 에이전트 워크플로우에 최적화된 고효율 모델 'Gemini 4 Hydrogen'을 출시하며, 이를 멀티 모델 워크플로우와 결합해 성능과 비용 효율을 극대화했습니다.",
+            "summary_en": "Google has introduced 'Gemini 4 Hydrogen,' a high-efficiency model optimized for everyday coding and agentic workflows, designed to maximize performance and cost-effectiveness when integrated into multi-model systems.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794499202000,
+            "date": "2026-11-12",
+            "title": "How a new AI model could help crushed rock fight climate change",
+            "summary_kr": "테라닷과 마이크로소프트는 AI 모델 '테라노바'를 통해 농경지 내 암석 풍화 작용을 예측함으로써, 탄소 제거 비용을 절감하고 관련 기후 솔루션의 확장을 가속화하고 있습니다.",
+            "summary_en": "Terradot and Microsoft have developed an AI model called TerraNova to predict enhanced rock weathering in soil, significantly reducing the cost and complexity of scaling carbon removal solutions.",
+            "link": "https://news.microsoft.com/source/features/ai/how-a-new-ai-model-could-help-crushed-rock-fight-climate-change"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790726400000,
+            "date": "2026-09-30",
+            "title": "What work can robots do?",
+            "summary_kr": "현재 로봇은 물리적 작업의 74%를 수행할 수 있으나 높은 비용과 환경적 제약으로 인해 실질적인 자동화 경쟁력은 낮습니다. 하지만 기술 발전과 비용 감소가 지속됨에 따라 로봇 노출도가 높은 직군부터 점진적인 노동 시장의 변화가 예상됩니다.",
+            "summary_en": "While robots can perform 74% of physical tasks, high costs and environmental constraints limit their current commercial competitiveness. As capabilities improve and prices decline, jobs with higher robot exposure will experience gradual, long-term automation shifts.",
+            "link": "https://www.anthropic.com/research/what-work-can-robots-do"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790640000000,
+            "date": "2026-09-29",
+            "title": "What do you want from AI?",
+            "summary_kr": "앤스로픽은 AI의 발전 속도와 위험성이 공존하는 전환기를 맞아, 정책 결정과 기술 개발 방향에 시민의 목소리를 반영하기 위한 대규모 사용자 의견 수렴 프로젝트를 시작했습니다.",
+            "summary_en": "Anthropic has launched a public consultation initiative to gather diverse user perspectives on AI, aiming to incorporate public input into its development roadmap and policymaking during this critical juncture of rapid AI advancement.",
+            "link": "https://www.anthropic.com/research/your-thoughts-on-ai"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1794441600000,
@@ -855,51 +900,6 @@
             "summary_kr": "OpenAI는 커뮤니티 안전 보고서 발간을 통해 투명성을 강화하고, 청소년 보호를 위해 총기 관련 콘텐츠 제한 및 폭력 위험 감지 대응을 더욱 엄격하게 시행합니다.",
             "summary_en": "OpenAI is enhancing transparency through a new Community Safety Report and tightening restrictions on firearm-related content and sensitive information to better protect minors and prevent violence.",
             "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793232000000,
-            "date": "2026-10-29",
-            "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-            "summary_kr": "크레딧 세이손은 ChatGPT 엔터프라이즈 파일럿 프로젝트를 통해 954%의 투자 수익률(ROI)과 인당 월 14시간의 업무 시간 절감을 달성하며 전사적 도입을 성공적으로 이끌어냈습니다.",
-            "summary_en": "Credit Saison successfully scaled ChatGPT Enterprise companywide after a pilot program achieved a 954% ROI and saved 14 hours of work per employee each month.",
-            "link": "https://openai.com/index/credit-saison"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1793125475000,
-            "date": "2026-10-27",
-            "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 '프론티어 트랜스포메이션(Frontier Transformation)' 전략을 통해 인간의 야망, 지능, 신뢰를 중심으로 AI를 단순한 생산성 도구가 아닌 비즈니스 가치를 창출하는 플랫폼으로 진화시키고 있습니다.",
-            "summary_en": "Microsoft is advancing 'Frontier Transformation' by positioning its AI stack as a comprehensive platform that drives business outcomes by integrating human ambition, intelligence, and trust.",
-            "link": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1793122445000,
-            "date": "2026-10-27",
-            "title": "The AI advantage your company can keep | Microsoft Copilot Blog",
-            "summary_kr": "기업이 AI 에이전트를 효율적으로 운영하고 성과를 창출하려면 공유된 지식 체계인 '지식 중추(Knowledge Spine)'를 구축하여 에이전트의 학습 데이터를 조직적 자산으로 통합해야 합니다.",
-            "summary_en": "To gain an operational edge, enterprises must transition from manual agent coordination to a 'knowledge spine' architecture that transforms AI-driven lessons into scalable, proprietary organizational intelligence.",
-            "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793293200000,
-            "date": "2026-10-29",
-            "title": "An updated Model Spec for more capable and beneficial AI",
-            "summary_kr": "OpenAI는 인간의 의도를 깊이 이해하고 윤리적 판단력을 강화하기 위해 5가지 핵심 가치를 중심으로 AI 모델의 행동 지침인 '모델 사양(Model Spec)'을 개정했습니다.",
-            "summary_en": "OpenAI has updated its Model Spec, centering on five core values to ensure AI models better align with human intent and exercise responsible judgment beyond simple instruction following.",
-            "link": "https://openai.com/index/updated-model-spec"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793286000000,
-            "date": "2026-10-29",
-            "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
-            "summary_kr": "기존 FP32 연산의 정밀도를 유지하면서 NVIDIA 텐서 코어의 고속 행렬 연산 성능을 활용하는 'Tensor Core FP32' 기법이 머신러닝 기반 원자 간 퍼텐셜(MLIP) 시뮬레이션의 효율성을 획기적으로 개선합니다.",
-            "summary_en": "The implementation of 'Tensor Core FP32' methods enables machine learning interatomic potentials (MLIPs) to achieve significant performance gains by leveraging high-throughput Tensor Core operations while maintaining the numerical precision required for stable molecular dynamics simulations.",
-            "link": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials"
         }
     ]
 }

@@ -1,6 +1,51 @@
 {
-    "last_update": "2026-11-11 22:20:47",
+    "last_update": "2026-11-12 21:57:54",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1793232000000,
+            "date": "2026-10-29",
+            "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+            "summary_kr": "크레딧 세이손은 ChatGPT 엔터프라이즈 파일럿 프로젝트를 통해 954%의 투자 수익률(ROI)과 인당 월 14시간의 업무 시간 절감을 달성하며 전사적 도입을 성공적으로 이끌어냈습니다.",
+            "summary_en": "Credit Saison successfully scaled ChatGPT Enterprise companywide after a pilot program achieved a 954% ROI and saved 14 hours of work per employee each month.",
+            "link": "https://openai.com/index/credit-saison"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793125475000,
+            "date": "2026-10-27",
+            "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 '프론티어 트랜스포메이션(Frontier Transformation)' 전략을 통해 인간의 야망, 지능, 신뢰를 중심으로 AI를 단순한 생산성 도구가 아닌 비즈니스 가치를 창출하는 플랫폼으로 진화시키고 있습니다.",
+            "summary_en": "Microsoft is advancing 'Frontier Transformation' by positioning its AI stack as a comprehensive platform that drives business outcomes by integrating human ambition, intelligence, and trust.",
+            "link": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793122445000,
+            "date": "2026-10-27",
+            "title": "The AI advantage your company can keep | Microsoft Copilot Blog",
+            "summary_kr": "기업이 AI 에이전트를 효율적으로 운영하고 성과를 창출하려면 공유된 지식 체계인 '지식 중추(Knowledge Spine)'를 구축하여 에이전트의 학습 데이터를 조직적 자산으로 통합해야 합니다.",
+            "summary_en": "To gain an operational edge, enterprises must transition from manual agent coordination to a 'knowledge spine' architecture that transforms AI-driven lessons into scalable, proprietary organizational intelligence.",
+            "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793293200000,
+            "date": "2026-10-29",
+            "title": "An updated Model Spec for more capable and beneficial AI",
+            "summary_kr": "OpenAI는 인간의 의도를 깊이 이해하고 윤리적 판단력을 강화하기 위해 5가지 핵심 가치를 중심으로 AI 모델의 행동 지침인 '모델 사양(Model Spec)'을 개정했습니다.",
+            "summary_en": "OpenAI has updated its Model Spec, centering on five core values to ensure AI models better align with human intent and exercise responsible judgment beyond simple instruction following.",
+            "link": "https://openai.com/index/updated-model-spec"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793286000000,
+            "date": "2026-10-29",
+            "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+            "summary_kr": "기존 FP32 연산의 정밀도를 유지하면서 NVIDIA 텐서 코어의 고속 행렬 연산 성능을 활용하는 'Tensor Core FP32' 기법이 머신러닝 기반 원자 간 퍼텐셜(MLIP) 시뮬레이션의 효율성을 획기적으로 개선합니다.",
+            "summary_en": "The implementation of 'Tensor Core FP32' methods enables machine learning interatomic potentials (MLIPs) to achieve significant performance gains by leveraging high-throughput Tensor Core operations while maintaining the numerical precision required for stable molecular dynamics simulations.",
+            "link": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1793285976000,
@@ -855,51 +900,6 @@
             "summary_kr": "브라질 최대 은행 이타우(Itaú)는 생성형 AI 기반의 대화형 인터페이스 'ia.i'와 거버넌스 플랫폼 'IARA'를 도입해 고객에게 개인화된 금융 서비스를 제공하고 운영 효율성을 극대화하고 있습니다.",
             "summary_en": "Itaú is leveraging its generative AI-powered conversational interface 'ia.i' and the 'IARA' governance platform to deliver hyper-personalized financial experiences at scale while optimizing operational efficiency.",
             "link": "https://openai.com/index/itau-generative-ai"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "The AI expectations gap",
-            "summary_kr": "AI 산업 종사자들과 일반 대중은 현재의 AI 성능에 대해서는 의견을 같이하지만, 향후 기술 발전 속도와 업무 자동화 범위에 대해서는 산업 종사자들이 훨씬 더 낙관적이고 급진적인 전망을 보이고 있습니다.",
-            "summary_en": "While AI industry professionals and the general public agree on current AI capabilities, the former hold significantly more aggressive expectations regarding the pace of future advancements and the extent of job automation.",
-            "link": "https://www.anthropic.com/research/ai-expectations-gap"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "How employment is changing at Anthropic",
-            "summary_kr": "앤스로픽은 AI 에이전트가 인간보다 6배 더 많은 업무를 수행함에 따라 주니어 개발직 채용을 줄이고, 기술적 숙련도보다 인간의 판단력과 자율성을 중시하는 방향으로 채용 기준을 재편하고 있습니다.",
-            "summary_en": "As AI agents perform six times more work than humans at Anthropic, the company has shifted its hiring strategy to prioritize human autonomy and judgment over junior-level technical expertise.",
-            "link": "https://www.anthropic.com/research/employment-at-anthropic"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "Working at the frontier shapes expectations for the future",
-            "summary_kr": "앤스로픽은 AI 에이전트 도입으로 생산성이 비약적으로 향상된 자사의 경험이 AI 기술의 실질적 역량에 대한 이해 차이를 만들고, 이것이 일반 대중보다 더 급진적인 미래 노동 시장 전망으로 이어진다고 분석했습니다.",
-            "summary_en": "Anthropic reports that its internal experience with AI agents has led to significant productivity gains and fundamentally different expectations for the future of work compared to the general public, driven by a deeper understanding of current AI capabilities.",
-            "link": "https://www.anthropic.com/research/expectations-for-the-future"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "Benefit Street Partners answers questions faster with Codex",
-            "summary_kr": "베네핏 스트리트 파트너스는 AI 모델 코덱스(Codex)를 도입하여 복잡한 대출 가치 평가 및 신용 계약 분석 업무를 자동화함으로써, 분석 시간을 대폭 단축하고 투자 의사결정의 정교함을 높였습니다.",
-            "summary_en": "Benefit Street Partners has significantly accelerated loan valuation and credit agreement analysis by leveraging Codex to automate development tasks, enabling faster investment insights and more rigorous decision-making.",
-            "link": "https://openai.com/index/benefit-street-partners"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-            "summary_kr": "스택 오버플로우는 OpenAI의 모델과 ChatGPT 플러그인을 활용해 제품 개발 속도를 대폭 높이고, 'Stack Overflow for Agents'의 가입자를 3배 이상 증가시키며 효율적인 지식 플랫폼으로 도약하고 있습니다.",
-            "summary_en": "Stack Overflow is accelerating product development and scaling its 'Stack Overflow for Agents' platform by leveraging OpenAI models and a ChatGPT plugin, which drove a 3x increase in registrations.",
-            "link": "https://openai.com/index/stack-overflow-chatgpt-plugin"
         }
     ]
 }
