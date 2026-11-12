@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-12 10:49:15",
+    "last_update": "2026-11-12 21:49:40",
     "articles": [
+        {
+            "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic has proposed a draft federal bill that would grant the U.S. government power to block AI models if they pose an imminent risk of causing over 50 deaths or $1 billion in property damage. The framework suggests using independent evaluators to monitor high-risk models, moving beyond the industry's typical preference for purely voluntary safety measures.",
+            "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+            "timestamp": 1792537283000,
+            "date": "2026-10-20"
+        },
+        {
+            "title": "ASUS Unveils Enterprise Agentic AI Solution and Full-Stack Agent Computer at NVIDIA GTC Berlin 2026 - ASUS Pressroom",
+            "summary_en": "ASUS launched an integrated enterprise agentic AI solution at NVIDIA GTC Berlin 2026, featuring full-stack infrastructure powered by NVIDIA’s Vera Rubin and Blackwell architectures. This platform is designed to scale AI workflows from data centers to edge computing, providing specialized hardware for industries like healthcare and manufacturing.",
+            "link": "https://press.asus.com/news/press-releases/asus-enterprise-agentic-ai-solution-gtc-berlin-2026",
+            "timestamp": 1792582392000,
+            "date": "2026-10-21"
+        },
         {
             "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development - SiliconANGLE",
             "summary_en": "OpenAI has acquired the drug development software startup Orchestra Bio to integrate its AI agents into the Rosalind life sciences unit. The acquisition aims to streamline pharmaceutical development by automating complex administrative tasks and scheduling in clinical trials, which currently can take up to 15 years.",
@@ -686,20 +700,6 @@
             "link": "https://www.googlecloudpresscorner.com/2026-09-15-Google-Opens-Singapore-Engineering-Center-to-Build-and-Export-Enterprise-Cloud-and-AI-to-the-World",
             "timestamp": 1789471186000,
             "date": "2026-09-15"
-        },
-        {
-            "title": "Pinterest builds a new foundation for multimodal AI with NVIDIA - Pinterest Newsroom",
-            "summary_en": "Pinterest has partnered with NVIDIA to develop a unified multimodal AI foundation powered by Blackwell GPUs, enabling faster visual search and discovery. The new infrastructure delivers an 85x improvement in response startup times and a 7.3x reduction in latency, allowing the platform to scale its visual-language models more efficiently.",
-            "link": "https://newsroom.pinterest.com/news/newsroom-pinterest-x-nvidia",
-            "timestamp": 1789398343000,
-            "date": "2026-09-14"
-        },
-        {
-            "title": "Microsoft sets limits for future AI models as industry throttles frontier development - CNBC",
-            "summary_en": "Microsoft has introduced a provisional code of conduct to restrict its AI models from harmful activities, such as weapons manufacturing and deceptive reasoning, following industry-wide calls for safety and responsible development. This initiative, developed with expert consultation, aims to establish self-pacing standards before a full update for 2027 development.",
-            "link": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
-            "timestamp": 1789390801000,
-            "date": "2026-09-14"
         }
     ]
 }

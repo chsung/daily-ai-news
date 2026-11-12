@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-12 10:49:15",
+    "last_update": "2026-11-12 21:49:40",
     "articles": [
+        {
+            "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
+            "summary_en": "A coalition of plaintiffs has filed a lawsuit demanding an immediate halt to the development of frontier AI models, citing systemic legal and safety concerns.",
+            "link": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12",
+            "timestamp": 1794515749000,
+            "date": "2026-11-12"
+        },
+        {
+            "title": "Google and Samsung to release AI smart glasses in December - The Seattle Times",
+            "summary_en": "Google and Samsung are planning a joint launch of AI-powered smart glasses, scheduled to hit the market this December.",
+            "link": "https://www.seattletimes.com/business/google-and-samsung-to-release-ai-smart-glasses-in-december",
+            "timestamp": 1794513026000,
+            "date": "2026-11-12"
+        },
         {
             "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO - Yahoo Finance",
             "summary_en": "Anthropic has officially triggered a key safety alarm after its AI systems reached a predefined speedup threshold in research and development, necessitating stricter safety measures ahead of its potential $1.4 trillion IPO. The company confirmed that its models are now improving at a rate capable of doubling annual progress, a move independently verified by the nonprofit research group METR.",
@@ -685,20 +699,6 @@
             "summary_en": "Meta is reportedly positioning its Muse AI agent at the center of its long-term development strategy. To support the massive capital requirements for this initiative, the company is planning a new stock issuance.",
             "link": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21",
             "timestamp": 1792613100000,
-            "date": "2026-10-21"
-        },
-        {
-            "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch - TechCrunch",
-            "summary_en": "Anthropic has proposed a draft federal bill that would grant the U.S. government power to block AI models if they pose an imminent risk of causing over 50 deaths or $1 billion in property damage. The framework suggests using independent evaluators to monitor high-risk models, moving beyond the industry's typical preference for purely voluntary safety measures.",
-            "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
-            "timestamp": 1792537283000,
-            "date": "2026-10-20"
-        },
-        {
-            "title": "ASUS Unveils Enterprise Agentic AI Solution and Full-Stack Agent Computer at NVIDIA GTC Berlin 2026 - ASUS Pressroom",
-            "summary_en": "ASUS launched an integrated enterprise agentic AI solution at NVIDIA GTC Berlin 2026, featuring full-stack infrastructure powered by NVIDIA’s Vera Rubin and Blackwell architectures. This platform is designed to scale AI workflows from data centers to edge computing, providing specialized hardware for industries like healthcare and manufacturing.",
-            "link": "https://press.asus.com/news/press-releases/asus-enterprise-agentic-ai-solution-gtc-berlin-2026",
-            "timestamp": 1792582392000,
             "date": "2026-10-21"
         }
     ]
