@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-11 21:49:08",
+    "last_update": "2026-11-12 10:48:33",
     "articles": [
+        {
+            "title": "안두릴·퀄컴, 국방·공공·안전 분야 미국산 AI 노트북 개발…컴퓨터 제조 주권 탈환 나서 - 인공지능신문",
+            "summary_kr": "안두릴과 퀄컴이 국방 및 공공 분야의 하드웨어 공급망 안정을 위해 미국 내에서 생산하는 '블루칩' 노트북 개발을 시작했으며, 2027년 양산을 목표로 90% 이상의 부품을 미국 및 동맹국에서 조달할 계획입니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42495",
+            "timestamp": 1793278787000,
+            "date": "2026-10-29"
+        },
+        {
+            "title": "선박 도장 결함도 AI가 찾아낸다…HD현대중공업, 국내 조선업계 최초 자동 검사 시스템 개발 - 인공지능신문",
+            "summary_kr": "HD현대중공업이 국내 조선업계 최초로 비전 AI 기반의 도장 결함 자동 검사 시스템 'AI CIP'를 개발하여, 기존 인력의 육안 검사에 의존하던 방식에서 벗어나 객관적이고 데이터 중심적인 품질 관리로 전환합니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42491",
+            "timestamp": 1793264647000,
+            "date": "2026-10-29"
+        },
+        {
+            "title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발 - AI타임스",
+            "summary_kr": "앤트로픽이 1인 신약 개발 스타트업 '미스릴 메디신'을 인수하며 AI 클로드를 활용한 자체 신약 개발 사업을 본격화했습니다. 연구원 한 명이 클로드의 조율을 통해 전임상까지 18개월 만에 도달한 성과를 바탕으로, 2028년 인체 임상시험 진입을 목표로 하고 있습니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216778",
+            "timestamp": 1793264415000,
+            "date": "2026-10-29"
+        },
         {
             "title": "“구글 미쳤다”…2주 만에 또 최강 AI 공개, 지능지수 59점 세계 1위 '제미나이 4 카본' 출시 - 인공지능신문",
             "summary_kr": "구글이 추론 성능과 사이버보안 능력을 대폭 강화한 '제미나이 4 카본'을 공개하며 프론티어 AI 개발 속도를 높였습니다. 아티피셜 애널리시스 평가에서 1위를 차지한 해당 모델은 보안 취약점 탐지 및 코드 수정에 특화되어 있으며, 악용 방지를 위해 보안 전문가 대상의 단계적 공개가 진행됩니다.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OOFRLZmtLQ0pLMjlCMExTN1V6SzRXV3FJQmppX0hZbkZycXNnWFhOWUVEMXRPdldlMVJGTkhZLXh6LXJKSS00Ni1zdUFMM2pZVkxCLXZDa3pnRlFVV3l4ZnJlTFBnY24yVXN6bE1rZkthNTA?oc=5",
             "timestamp": 1790590328000,
             "date": "2026-09-28"
-        },
-        {
-            "title": "오픈AI, ‘답하는 AI’ 다음은 ‘일하는 AI’…데브데이서 에이전트 승부수 - 아이티데일리",
-            "summary_kr": "오픈AI가 데브데이를 통해 기존의 질의응답형 모델을 넘어 실질적인 업무를 수행하는 에이전트 AI로 서비스 영역을 확장합니다.",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGU1R6V2o3bXhGSy02bHN1eUdhOHhRMEtUTGd0T21rZTVHOHFxcmpzQ0tfT3kwWXl4TlNXZFFuSkZ3MGk4X2ppQ1dRVWFyaXlOM2NjQmd0amdkTFdBVnkxdWZFQlNKcURh?oc=5",
-            "timestamp": 1790578979000,
-            "date": "2026-09-28"
-        },
-        {
-            "title": "빅파마는 AI에 수조원 베팅…국내 제약사 신약개발 성과는 - 머니투데이 - 머니투데이",
-            "summary_kr": "글로벌 제약사들이 신약 개발 효율화를 위해 AI 분야에 수조 원대 투자를 단행하는 가운데, 국내 제약업계의 관련 R&D 성과와 경쟁력 확보가 주목받고 있습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yNThnWUo0Z1RRNGFxSE5qRFVXVUVzMGZGMEtJNkp5UnlGYTJPUVBsWm9TOUw1bGFrRnZFbDlGLThWUVpER0FCQXhmUUlPQkJRbnhwOG5MMnVmQXQ2dU1WNkR4azlfTGo5b0HSAW9BVV95cUxNMWZKdUFJWGVTeHc5NjBwZzJIWFVxSmNyRlhmMDJ5R25FOXNHaEs0OTlBaEJnZUFuMzl6WkVVRkhRV3RKbllJVnFidkU1Y0MtQUdJcjI1SDk1bFFmLVNkM2NYX2NrSkpoUEIyUUN1cHc?oc=5",
-            "timestamp": 1790581116000,
-            "date": "2026-09-28"
-        },
-        {
-            "title": "\"트럼프, 앤트로픽 CEO와 단독 만찬\"...AI 규제갈등 해빙 신호? - 머니투데이 - 머니투데이",
-            "summary_kr": "트럼프 전 대통령과 앤트로픽 CEO의 만찬 회동을 계기로, 차기 정부의 AI 산업 규제 정책과 빅테크 기업 간의 갈등 완화 가능성이 제기되었습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTGI5NVUwb2ZzMkt0TlJmdEcteWVUeUNHMGRySUx0UjZzbWl6SS1hZEtzWjNmUWJVQTBKLXVhQXBWU0pZMkI3bEhsVWNjaHhBdkVYOUVQdElGQ05RaXF4cmNHdExwamEt0gFuQVVfeXFMTl85T3FaUzBSVmNhYW5uTmhTTWd3TkRKQ0I2eTJPZUFOeS10WEdrLWoyUjlvSzIwR2djYS03Y0RTZHRXa3FraHpnQUJIekVJQUNBTE91VmRWS2M2V3JPX1RTeTNLZm5La1ZPbnJQOVE?oc=5",
-            "timestamp": 1790546539000,
-            "date": "2026-09-27"
         }
     ]
 }

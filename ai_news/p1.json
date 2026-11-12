@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-11 21:49:58",
+    "last_update": "2026-11-12 10:49:15",
     "articles": [
+        {
+            "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO - Yahoo Finance",
+            "summary_en": "Anthropic has officially triggered a key safety alarm after its AI systems reached a predefined speedup threshold in research and development, necessitating stricter safety measures ahead of its potential $1.4 trillion IPO. The company confirmed that its models are now improving at a rate capable of doubling annual progress, a move independently verified by the nonprofit research group METR.",
+            "link": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+            "timestamp": 1794376800000,
+            "date": "2026-11-11"
+        },
+        {
+            "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons - The Hacker News",
+            "summary_en": "Microsoft researchers have developed a method called 'Lazarus' that allows attackers to plant backdoors in AI models by modifying fewer than 10 neurons, bypassing the need for full retraining. This technique enables models to execute malicious commands when triggered, posing a significant security risk to any agent-based system where an attacker can alter the underlying model weights.",
+            "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+            "timestamp": 1794381660000,
+            "date": "2026-11-11"
+        },
         {
             "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model - SiliconANGLE",
             "summary_en": "Google DeepMind has introduced Gemini Robotics 2.5, which delivers significant performance gains in dexterity and task completion speed, alongside AlphaGenome 2, a model designed to predict the impact of DNA variations on specific cell types. These advancements aim to transition robots into complex real-world environments while providing drug researchers with deeper insights into gene activity.",
@@ -686,20 +700,6 @@
             "link": "https://press.asus.com/news/press-releases/asus-enterprise-agentic-ai-solution-gtc-berlin-2026",
             "timestamp": 1792582392000,
             "date": "2026-10-21"
-        },
-        {
-            "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development - SiliconANGLE",
-            "summary_en": "OpenAI has acquired the drug development software startup Orchestra Bio to integrate its AI agents into the Rosalind life sciences unit. The acquisition aims to streamline pharmaceutical development by automating complex administrative tasks and scheduling in clinical trials, which currently can take up to 15 years.",
-            "link": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development",
-            "timestamp": 1792539600000,
-            "date": "2026-10-20"
-        },
-        {
-            "title": "Siemens partners with NVIDIA to advance\nAI-driven, autonomous fact ... - Siemens press",
-            "summary_en": "Siemens is partnering with NVIDIA to advance AI-driven, autonomous industrial operations. This collaboration leverages NVIDIA’s computing power to enhance Siemens' industrial automation and digital twin capabilities.",
-            "link": "https://press.siemens.com/global/en/pressrelease/siemens-partners-nvidia-advance-ai-driven-autonomous-factories",
-            "timestamp": 1792411171000,
-            "date": "2026-10-19"
         }
     ]
 }

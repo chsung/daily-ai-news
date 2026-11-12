@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-11 21:49:08",
+    "last_update": "2026-11-12 10:48:33",
     "articles": [
+        {
+            "title": "오픈AI, ‘답하는 AI’ 다음은 ‘일하는 AI’…데브데이서 에이전트 승부수 - 아이티데일리",
+            "summary_kr": "오픈AI가 데브데이를 통해 기존의 질의응답형 모델을 넘어 실질적인 업무를 수행하는 에이전트 AI로 서비스 영역을 확장합니다.",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGU1R6V2o3bXhGSy02bHN1eUdhOHhRMEtUTGd0T21rZTVHOHFxcmpzQ0tfT3kwWXl4TlNXZFFuSkZ3MGk4X2ppQ1dRVWFyaXlOM2NjQmd0amdkTFdBVnkxdWZFQlNKcURh?oc=5",
+            "timestamp": 1790578979000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "빅파마는 AI에 수조원 베팅…국내 제약사 신약개발 성과는 - 머니투데이 - 머니투데이",
+            "summary_kr": "글로벌 제약사들이 신약 개발 효율화를 위해 AI 분야에 수조 원대 투자를 단행하는 가운데, 국내 제약업계의 관련 R&D 성과와 경쟁력 확보가 주목받고 있습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yNThnWUo0Z1RRNGFxSE5qRFVXVUVzMGZGMEtJNkp5UnlGYTJPUVBsWm9TOUw1bGFrRnZFbDlGLThWUVpER0FCQXhmUUlPQkJRbnhwOG5MMnVmQXQ2dU1WNkR4azlfTGo5b0HSAW9BVV95cUxNMWZKdUFJWGVTeHc5NjBwZzJIWFVxSmNyRlhmMDJ5R25FOXNHaEs0OTlBaEJnZUFuMzl6WkVVRkhRV3RKbllJVnFidkU1Y0MtQUdJcjI1SDk1bFFmLVNkM2NYX2NrSkpoUEIyUUN1cHc?oc=5",
+            "timestamp": 1790581116000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "\"트럼프, 앤트로픽 CEO와 단독 만찬\"...AI 규제갈등 해빙 신호? - 머니투데이 - 머니투데이",
+            "summary_kr": "트럼프 전 대통령과 앤트로픽 CEO의 만찬 회동을 계기로, 차기 정부의 AI 산업 규제 정책과 빅테크 기업 간의 갈등 완화 가능성이 제기되었습니다.",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYTGI5NVUwb2ZzMkt0TlJmdEcteWVUeUNHMGRySUx0UjZzbWl6SS1hZEtzWjNmUWJVQTBKLXVhQXBWU0pZMkI3bEhsVWNjaHhBdkVYOUVQdElGQ05RaXF4cmNHdExwamEt0gFuQVVfeXFMTl85T3FaUzBSVmNhYW5uTmhTTWd3TkRKQ0I2eTJPZUFOeS10WEdrLWoyUjlvSzIwR2djYS03Y0RTZHRXa3FraHpnQUJIekVJQUNBTE91VmRWS2M2V3JPX1RTeTNLZm5La1ZPbnJQOVE?oc=5",
+            "timestamp": 1790546539000,
+            "date": "2026-09-27"
+        },
         {
             "title": "구글, 연내 제미나이 4 출시 계획 공식화 - itworld.co.kr",
             "summary_kr": "구글이 차세대 모델인 제미나이 4의 연내 출시 계획을 공식화하며 AI 시장의 주도권을 유지하기 위한 기술 경쟁을 가속화합니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "구글이 도입한 데이터 생성 프레임워크 '툴그래드(ToolGrad)'는 정답 경로를 먼저 생성하는 방식으로 데이터 구축 성공률을 99.8%까지 끌어올렸습니다. 이를 통해 소규모 데이터만으로도 최상위 모델 수준의 도구 활용 능력을 확보하여 AI 에이전트의 효율성을 비약적으로 높였습니다.",
             "link": "https://www.aitimes.com/news/articleView.html?idxno=215188",
             "timestamp": 1789201473000,
-            "date": "2026-09-12"
-        },
-        {
-            "title": "[딥마인드, 90억 개 인간 DNA 돌연변이 지도 완성]     대신 딥마인드는 자사 AI 모델 '알파게놈(AlphaGenome)'으로 이들의 분자적 영향을 예측했다. 딥마인드는:ainet - AI넷",
-            "summary_kr": "구글 딥마인드가 AI 모델 '알파게놈'을 활용해 인간 DNA 돌연변이 90억 개가 생물학적 과정에 미치는 영향을 예측한 '알파게놈 아틀라스'를 공개했습니다. 1페타바이트 규모의 이 지도는 'AVI 점수'를 통해 유해 변이를 선별함으로써 희귀질환 진단 및 개인 맞춤형 의학 연구의 효율을 획기적으로 개선할 전망입니다.",
-            "link": "http://www.ainet.link/28580",
-            "timestamp": 1789223910000,
-            "date": "2026-09-12"
-        },
-        {
-            "title": "GPT-6 Astra: 새로운 세대의 지능 - OpenAI",
-            "summary_kr": "오픈AI가 고도화된 컴퓨터 사용 능력과 전문 업무 처리 역량을 갖춘 GPT-6 Astra를 공개했습니다. 이 모델은 FrontierMath 등 주요 벤치마크에서 최고 수준의 성능을 입증했으며, 오늘부터 순차적으로 전 세계 사용자 및 기업용 API를 통해 제공될 예정입니다.",
-            "link": "https://openai.com/ko-KR/index/gpt-6-astra",
-            "timestamp": 1789194250000,
-            "date": "2026-09-12"
-        },
-        {
-            "title": "\"예멘 무기조직, AI '클로드'로 탄도미사일 개발…시험발사까지\" - 뉴스1",
-            "summary_kr": "예멘의 한 무기 조직이 앤트로픽의 AI 모델인 '클로드(Claude)'를 활용해 탄도미사일 개발 및 시험 발사를 시도했다는 정황이 포착되었습니다.",
-            "link": "https://www.news1.kr/world/usa-canada/6288333",
-            "timestamp": 1789181115000,
             "date": "2026-09-12"
         }
     ]
