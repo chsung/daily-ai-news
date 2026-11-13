@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-13 10:44:38",
+    "last_update": "2026-11-13 21:18:50",
     "articles": [
+        {
+            "title": "오픈AI, AI 대리구매 돕는 챗GPT 월렛 출시 - 뉴시스",
+            "summary_kr": "오픈AI가 주요 카드사와 협력해 사용자의 카드 정보를 토큰화하여 안전하게 결제하는 '챗GPT 월렛'을 출시했습니다. 이는 자사 AI 에이전트 '닷(Dots)'을 통해 일상 업무를 능동적으로 처리하려는 사용자 수요를 겨냥한 행보입니다.",
+            "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261114_0003867929",
+            "timestamp": 1794597007000,
+            "date": "2026-11-13"
+        },
+        {
+            "title": "조달청, 평가위원 189명 얼굴 사진 유출... AI 프로그램 개발 중 챗GPT에 전송 - 보안뉴스",
+            "summary_kr": "조달청이 내부 AI 프로그램 개발 과정에서 평가위원 189명의 얼굴 사진을 챗GPT에 전송하는 개인정보 유출 사고가 발생했습니다. 조달청은 데이터 삭제 및 관계기관 신고 등 긴급 대응에 나섰으며, 전문가들은 실제 데이터를 활용한 AI 학습 환경의 위험성을 경고했습니다.",
+            "link": "https://www.boannews.com/news/articleView.html?idxno=147168",
+            "timestamp": 1794564960000,
+            "date": "2026-11-13"
+        },
+        {
+            "title": "정부, '젠슨 황 없는 엔비디아' 긴급 점검…\"GPU 26만 장 공급 유지·국산 NPU 다변화 병행\" - https://www.sisaworld.kr/",
+            "summary_kr": "정부는 엔비디아 젠슨 황 CEO 사임 이후에도 기존에 약속된 첨단 GPU 26만 장 공급과 핵심 사업이 차질 없이 추진됨을 확인했습니다. 아울러 특정 기업 의존도를 낮추기 위해 국산 신경망처리장치(NPU) 도입 등 AI 컴퓨팅 자원 다변화 전략을 본격화할 전망입니다.",
+            "link": "https://www.sisaworld.kr/news/articleView.html?idxno=26586",
+            "timestamp": 1794577196000,
+            "date": "2026-11-13"
+        },
         {
             "title": "젠슨 황 사임에 정부 긴급 점검…엔비디아 \"GPU 공급 차질 없어\" - 한국일보",
             "summary_kr": "젠슨 황 엔비디아 CEO 사임 이후 정부는 국내 GPU 수급 및 AI 인프라 사업에 미칠 영향을 긴급 점검했습니다. 엔비디아 측은 기존에 약속한 26만 장 이상의 GPU 공급을 포함한 한국 기업과의 협력 사업이 회사 차원에서 차질 없이 진행될 것임을 공식 확인했습니다.",
@@ -679,27 +700,6 @@
             "link": "https://www.aitimes.com/news/articleView.html?idxno=216850",
             "timestamp": 1793440382000,
             "date": "2026-10-31"
-        },
-        {
-            "title": "오픈AI, AI 행동 원칙 전면 개편…지시 따르는 AI 넘어 인간 의도 이해하는 AI로 - 인공지능신문",
-            "summary_kr": "오픈AI가 AI 모델의 행동 원칙인 '모델 스펙'을 개편하며, 단순 지시 이행을 넘어 인간의 의도와 가치를 이해하고 부작용까지 고려하는 에이전틱 AI 중심의 기준을 수립했습니다.",
-            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42515",
-            "timestamp": 1793355950000,
-            "date": "2026-10-30"
-        },
-        {
-            "title": "구글, 25년 만에 검색창 전면 개편…AI 검색 넘어 ‘디지털 생활 플랫폼’으로 대전환 - 데일리뉴스",
-            "summary_kr": "구글이 25년 만에 검색창을 전면 개편하여 제미나이 3.5 플래시 기반의 AI 검색과 사무 자동화, 콘텐츠 제작까지 아우르는 '디지털 생활 플랫폼'으로의 대전환을 선언했습니다.",
-            "link": "https://idailynews.co.kr/article/%EA%B5%AC%EA%B8%80-25%EB%85%84-%EB%A7%8C%EC%97%90-%EA%B2%80%EC%83%89%EC%B0%BD-%EC%A0%84%EB%A9%B4-%EA%B0%9C%ED%8E%B8ai-%EA%B2%80%EC%83%89-%EB%84%98%EC%96%B4-%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%9D%ED%99%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%BC%EB%A1%9C-%EB%8C%80%EC%A0%84%ED%99%98-2",
-            "timestamp": 1793363306000,
-            "date": "2026-10-30"
-        },
-        {
-            "title": "텍사스주, 오픈AI와 샘 올트먼 CEO 제소…미성년자 ChatGPT 사용 금지 요구 - Martin Cid Magazine",
-            "summary_kr": "미국 텍사스주 당국이 오픈AI와 샘 올트먼 CEO를 상대로 소송을 제기하며, 미성년자의 챗GPT 사용 금지 및 AI 안전 조치 강화를 강력히 요구했습니다.",
-            "link": "https://ko.martincid.com/technology-ko/tech-ai-ko/%ED%85%8D%EC%82%AC%EC%8A%A4%EC%A3%BC-%EC%98%A4%ED%94%88ai%EC%99%80-%EC%83%98-%EC%98%AC%ED%8A%B8%EB%A8%BC-ceo-%EC%A0%9C%EC%86%8C%EB%AF%B8%EC%84%B1%EB%85%84%EC%9E%90-chatgpt",
-            "timestamp": 1793367673000,
-            "date": "2026-10-30"
         }
     ]
 }

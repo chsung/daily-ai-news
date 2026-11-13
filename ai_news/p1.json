@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-13 10:45:26",
+    "last_update": "2026-11-13 21:19:31",
     "articles": [
+        {
+            "title": "Coalition of Nonprofits Files Landmark Lawsuit to Stop Development of Advanced AI Systems at Anthropic, Google, Meta, OpenAI, and SpaceXSI that Proliferate Bioweapons and Cyberattacks - Benton Institute for Broadband & Society",
+            "summary_en": "A coalition of nonprofits has filed a landmark lawsuit in California seeking to freeze the development of advanced AI models, citing concerns that these systems could facilitate bioweapons and cyberattacks. The plaintiffs argue that current AI safeguards are insufficient and invoke California’s Unfair Competition Law to preemptively address the catastrophic risks posed by uncontrolled AI.",
+            "link": "https://www.benton.org/headlines/coalition-nonprofits-files-landmark-lawsuit-stop-development-advanced-ai-systems-anthropic",
+            "timestamp": 1794570621000,
+            "date": "2026-11-13"
+        },
+        {
+            "title": "Future of AI faces new questions after Nvidia CEO resigns - WKYT",
+            "summary_en": "Nvidia CEO Jensen Huang has resigned amid personal and national security scandals, prompting the company to appoint CFO Colette Kress as interim CEO. While analysts believe the leadership change will not disrupt Nvidia's dominant market supply of AI chips, the event has intensified calls for greater government oversight of the high-stakes AI industry.",
+            "link": "https://www.wkyt.com/2026/11/13/future-ai-faces-new-questions-after-nvidia-ceo-resigns",
+            "timestamp": 1794541500000,
+            "date": "2026-11-13"
+        },
+        {
+            "title": "Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: \"A small team will be able to build worlds that today demand hundreds of developers\" - Eurogamer.net",
+            "summary_en": "Xbox leader Asha Sharma has signaled a major shift toward generative AI in gaming, suggesting that the technology will eventually allow small teams to build complex worlds that currently require hundreds of developers. Her comments indicate that Microsoft aims to break the traditional resource-heavy constraints of game development to increase production scale and creative ambition.",
+            "link": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
+            "timestamp": 1794504740000,
+            "date": "2026-11-12"
+        },
         {
             "title": "What could happen to AI development and chip production as Huang resigns from Nvidia - CBS News",
             "summary_en": "Following the announced resignation of CEO Jensen Huang, concerns have emerged regarding the future stability of Nvidia's leadership and its impact on the broader AI development landscape.",
@@ -679,27 +700,6 @@
             "link": "https://www.unite.ai/anthropic-opens-claude-duet-research-preview-to-us-pro-and-max-users",
             "timestamp": 1792610592000,
             "date": "2026-10-21"
-        },
-        {
-            "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI | TechCrunch - TechCrunch",
-            "summary_en": "AI startup Recursive has released 'Flint,' a free, open-source coding model built largely through its proprietary 'Eureka Machine' system of recursive self-improvement. Designed for local execution on laptops, the 40-billion-parameter model uses mixture-of-experts architecture to deliver high-speed performance without the need for cloud servers.",
-            "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
-            "timestamp": 1792614461000,
-            "date": "2026-10-21"
-        },
-        {
-            "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io",
-            "summary_en": "Wiz Research utilized frontier AI models to uncover 'PHP2Shell,' a set of critical remote code execution vulnerabilities affecting nearly every PHP version released in the last decade. By significantly lowering the barrier to chaining complex exploits, this discovery highlights a dangerous shift where AI can rapidly turn long-standing software flaws into immediate security threats.",
-            "link": "https://www.wiz.io/blog/php2shell-php-rce",
-            "timestamp": 1792597553000,
-            "date": "2026-10-21"
-        },
-        {
-            "title": "Boehringer Microsoft partner AI-backed clinical development - Boehringer Ingelheim",
-            "summary_en": "Boehringer Ingelheim and Microsoft have entered a strategic partnership to integrate AI technologies into the clinical development process. This collaboration aims to accelerate drug discovery and optimize research workflows by leveraging advanced computational capabilities.",
-            "link": "https://www.boehringer-ingelheim.com/about-us/boehringer-microsoft-partner-ai-backed-clinical-development",
-            "timestamp": 1792675800000,
-            "date": "2026-10-22"
         }
     ]
 }

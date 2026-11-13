@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-13 10:45:26",
+    "last_update": "2026-11-13 21:19:31",
     "articles": [
+        {
+            "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI | TechCrunch - TechCrunch",
+            "summary_en": "AI startup Recursive has released 'Flint,' a free, open-source coding model built largely through its proprietary 'Eureka Machine' system of recursive self-improvement. Designed for local execution on laptops, the 40-billion-parameter model uses mixture-of-experts architecture to deliver high-speed performance without the need for cloud servers.",
+            "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+            "timestamp": 1792614461000,
+            "date": "2026-10-21"
+        },
+        {
+            "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet - wiz.io",
+            "summary_en": "Wiz Research utilized frontier AI models to uncover 'PHP2Shell,' a set of critical remote code execution vulnerabilities affecting nearly every PHP version released in the last decade. By significantly lowering the barrier to chaining complex exploits, this discovery highlights a dangerous shift where AI can rapidly turn long-standing software flaws into immediate security threats.",
+            "link": "https://www.wiz.io/blog/php2shell-php-rce",
+            "timestamp": 1792597553000,
+            "date": "2026-10-21"
+        },
+        {
+            "title": "Boehringer Microsoft partner AI-backed clinical development - Boehringer Ingelheim",
+            "summary_en": "Boehringer Ingelheim and Microsoft have entered a strategic partnership to integrate AI technologies into the clinical development process. This collaboration aims to accelerate drug discovery and optimize research workflows by leveraging advanced computational capabilities.",
+            "link": "https://www.boehringer-ingelheim.com/about-us/boehringer-microsoft-partner-ai-backed-clinical-development",
+            "timestamp": 1792675800000,
+            "date": "2026-10-22"
+        },
         {
             "title": "Google Open-Sources TorchTPU to Challenge Nvidia’s Grip on AI Development - AI Insider",
             "summary_en": "Google has open-sourced TorchTPU, a tool designed to allow PyTorch-based AI models to run on Google’s custom Tensor Processing Units without requiring code rewrites. This initiative mirrors Amazon's TorchNeuron, representing a broader industry push to reduce dependence on Nvidia’s dominant GPU hardware ecosystem.",
@@ -678,27 +699,6 @@
             "summary_en": "Novo Nordisk has partnered with Anthropic to utilize Claude Science and frontier models to accelerate R&D workflows and pharmaceutical drug discovery. The collaboration emphasizes responsible AI adoption through robust data governance and human oversight to address concerns regarding LLM accuracy.",
             "link": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540",
             "timestamp": 1789574686000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "Microsoft bundles AI development tools in Foundry Dev Pack - Techzine Global",
-            "summary_en": "Microsoft has introduced the Foundry Dev Pack, a new initiative designed to bundle essential AI development tools for developers. This move aims to streamline the creation and deployment of AI applications within the Microsoft ecosystem.",
-            "link": "https://www.techzine.eu/news/devops/144333/microsoft-bundles-ai-development-tools-in-foundry-dev-pack",
-            "timestamp": 1789560892000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "Coder Brings Claude Code to Agent Relay, Unlocking Agentic Development for the World’s Most Regulated Enterprises - AiThority",
-            "summary_en": "Coder has integrated Claude Code with its Agent Relay platform, allowing highly regulated enterprises like financial services to deploy AI coding agents on their own secure, sandboxed infrastructure. This solution enables organizations to maintain strict control over source code and internal credentials while leveraging Anthropic’s agentic development capabilities.",
-            "link": "https://aithority.com/machine-learning/coder-brings-claude-code-to-agent-relay-unlocking-agentic-development-for-the-worlds-most-regulated-enterprises",
-            "timestamp": 1789560493000,
-            "date": "2026-09-16"
-        },
-        {
-            "title": "Anthropic, Nvidia CEOs lay out visions for safe AI development - Reuters",
-            "summary_en": "Anthropic and Nvidia CEOs have publicly outlined their strategic visions for ensuring the safe and responsible development of advanced artificial intelligence technologies.",
-            "link": "https://www.reuters.com/video/watch/idRW306516092026RP1",
-            "timestamp": 1789529719000,
             "date": "2026-09-16"
         }
     ]

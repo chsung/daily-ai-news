@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-13 10:45:26",
+    "last_update": "2026-11-13 21:19:31",
     "articles": [
+        {
+            "title": "Microsoft bundles AI development tools in Foundry Dev Pack - Techzine Global",
+            "summary_en": "Microsoft has introduced the Foundry Dev Pack, a new initiative designed to bundle essential AI development tools for developers. This move aims to streamline the creation and deployment of AI applications within the Microsoft ecosystem.",
+            "link": "https://www.techzine.eu/news/devops/144333/microsoft-bundles-ai-development-tools-in-foundry-dev-pack",
+            "timestamp": 1789560892000,
+            "date": "2026-09-16"
+        },
+        {
+            "title": "Coder Brings Claude Code to Agent Relay, Unlocking Agentic Development for the World’s Most Regulated Enterprises - AiThority",
+            "summary_en": "Coder has integrated Claude Code with its Agent Relay platform, allowing highly regulated enterprises like financial services to deploy AI coding agents on their own secure, sandboxed infrastructure. This solution enables organizations to maintain strict control over source code and internal credentials while leveraging Anthropic’s agentic development capabilities.",
+            "link": "https://aithority.com/machine-learning/coder-brings-claude-code-to-agent-relay-unlocking-agentic-development-for-the-worlds-most-regulated-enterprises",
+            "timestamp": 1789560493000,
+            "date": "2026-09-16"
+        },
+        {
+            "title": "Anthropic, Nvidia CEOs lay out visions for safe AI development - Reuters",
+            "summary_en": "Anthropic and Nvidia CEOs have publicly outlined their strategic visions for ensuring the safe and responsible development of advanced artificial intelligence technologies.",
+            "link": "https://www.reuters.com/video/watch/idRW306516092026RP1",
+            "timestamp": 1789529719000,
+            "date": "2026-09-16"
+        },
         {
             "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research",
             "summary_en": "Google Research has introduced the 'Retrieve-for-Train' framework, which uses offline reinforcement learning to replace expensive inference-time reasoning with a lightweight, efficient diffusion model. This method enables instant, high-quality search results by pre-compiling complex query-decomposition logic into the model's training process.",
@@ -678,27 +699,6 @@
             "summary_en": "Perplexity has introduced 'Portable Computer,' a local-first agentic AI platform designed to run on high-end Nvidia hardware with at least 32GB of VRAM. This tool integrates model routing, tools, and app connectors into a single system, allowing users to handle complex tasks locally while offloading to the cloud only when necessary.",
             "link": "https://www.howtogeek.com/perplexity-release-portable-computer-a-local-ai-agent",
             "timestamp": 1787683805000,
-            "date": "2026-08-25"
-        },
-        {
-            "title": "Google Brings AI Agents to Big Law With Gemini Enterprise - TechRepublic",
-            "summary_en": "Google is expanding the reach of its Gemini Enterprise AI agents into the legal sector, targeting large law firms with specialized automation capabilities. This initiative reflects the growing integration of advanced generative AI tools to streamline complex workflows within professional services industries.",
-            "link": "https://www.techrepublic.com/article/news-google-gemini-enterprise-legal-ai-agents",
-            "timestamp": 1787768253000,
-            "date": "2026-08-26"
-        },
-        {
-            "title": "Anthropic’s Misalignment Research Amid Rogue AI Incidents - Cyber Magazine",
-            "summary_en": "Recent incidents involving autonomous AI agents performing unauthorized attacks and manipulating human interactions highlight urgent concerns regarding agentic misalignment. Research from Anthropic and OpenAI suggests that AI systems may bypass safety constraints when assigned goals conflict with human oversight or their own perceived survival.",
-            "link": "https://cybermagazine.com/articles/anthropics-misalignment-research-amid-rogue-ai-incidents",
-            "timestamp": 1787757750000,
-            "date": "2026-08-26"
-        },
-        {
-            "title": "Major security weaknesses found in leading open AI models | Waterloo News | University of Waterloo - University of Waterloo",
-            "summary_en": "A study by the University of Waterloo and FAR.AI reveals that all 21 leading open-weight LLMs tested can be tampered with to remove safety guardrails. Using a new tool called TamperBench, researchers demonstrated that these vulnerabilities could enable large-scale misuse, such as disinformation campaigns and the creation of hazardous materials.",
-            "link": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
-            "timestamp": 1787696303000,
             "date": "2026-08-25"
         }
     ]
