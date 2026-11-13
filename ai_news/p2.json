@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-12 21:49:40",
+    "last_update": "2026-11-13 10:45:26",
     "articles": [
+        {
+            "title": "Google Open-Sources TorchTPU to Challenge Nvidia’s Grip on AI Development - AI Insider",
+            "summary_en": "Google has open-sourced TorchTPU, a tool designed to allow PyTorch-based AI models to run on Google’s custom Tensor Processing Units without requiring code rewrites. This initiative mirrors Amazon's TorchNeuron, representing a broader industry push to reduce dependence on Nvidia’s dominant GPU hardware ecosystem.",
+            "link": "https://theaiinsider.tech/2026/10/22/google-open-sources-torchtpu-to-challenge-nvidias-grip-on-ai-development",
+            "timestamp": 1792686274000,
+            "date": "2026-10-22"
+        },
+        {
+            "title": "Anthropic takes on Muse with Claude Duet, its new AI agent - The Verge",
+            "summary_en": "Anthropic has introduced Claude Duet, an AI agent powered by Claude Opus 5.5 capable of managing administrative tasks, building dashboards, and executing complex workflows through connected apps. The tool, currently in research preview for US Pro and Max subscribers, features a specialized safety classifier to protect sensitive user data during autonomous actions.",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+            "timestamp": 1792612400000,
+            "date": "2026-10-21"
+        },
+        {
+            "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
+            "summary_en": "Meta is reportedly positioning its Muse AI agent at the center of its long-term development strategy. To support the massive capital requirements for this initiative, the company is planning a new stock issuance.",
+            "link": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21",
+            "timestamp": 1792613100000,
+            "date": "2026-10-21"
+        },
         {
             "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch - TechCrunch",
             "summary_en": "Anthropic has proposed a draft federal bill that would grant the U.S. government power to block AI models if they pose an imminent risk of causing over 50 deaths or $1 billion in property damage. The framework suggests using independent evaluators to monitor high-risk models, moving beyond the industry's typical preference for purely voluntary safety measures.",
@@ -679,27 +700,6 @@
             "link": "https://www.reuters.com/video/watch/idRW306516092026RP1",
             "timestamp": 1789529719000,
             "date": "2026-09-16"
-        },
-        {
-            "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research",
-            "summary_en": "Google Research has introduced the 'Retrieve-for-Train' framework, which uses offline reinforcement learning to replace expensive inference-time reasoning with a lightweight, efficient diffusion model. This method enables instant, high-quality search results by pre-compiling complex query-decomposition logic into the model's training process.",
-            "link": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
-            "timestamp": 1789502472000,
-            "date": "2026-09-15"
-        },
-        {
-            "title": "UNC Lineberger Secures $40M from OpenAI Foundation to Make Cancer Vaccines More Effective | Newsroom - UNC Health",
-            "summary_en": "The OpenAI Foundation has awarded $40 million to the UNC Lineberger Comprehensive Cancer Center to accelerate the development of personalized cancer vaccines through high-quality AI-driven data analysis. This initiative is part of the foundation's 'Public Data for Health' program, aimed at creating open-access datasets to advance global life science research.",
-            "link": "https://news.unchealthcare.org/2026/09/unc-lineberger-secures-40m-from-openai-foundation-to-make-cancer-vaccines-more-effective",
-            "timestamp": 1789473638000,
-            "date": "2026-09-15"
-        },
-        {
-            "title": "Google Opens Singapore Engineering Center to Build and Export Enterprise Cloud and AI to the World - Google Cloud Press Corner",
-            "summary_en": "Google has inaugurated its first Southeast Asian Engineering Center in Singapore, designed to accelerate the transition of DeepMind research into production-grade, globally exported cloud and agentic AI solutions. By embedding engineers directly with regional enterprise partners, the center creates a closed-loop pipeline to ensure foundational AI models are optimized for real-world, mission-critical business demands.",
-            "link": "https://www.googlecloudpresscorner.com/2026-09-15-Google-Opens-Singapore-Engineering-Center-to-Build-and-Export-Enterprise-Cloud-and-AI-to-the-World",
-            "timestamp": 1789471186000,
-            "date": "2026-09-15"
         }
     ]
 }

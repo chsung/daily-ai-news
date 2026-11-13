@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-12 21:47:27",
+    "last_update": "2026-11-13 10:44:38",
     "articles": [
+        {
+            "title": "아마존 앤디 재시 CEO, “AWS, 향후 2년간 40% 이상 성장”…AI 인프라 투자 성과 본격화 - 인공지능신문",
+            "summary_kr": "아마존 AWS는 3분기 매출이 39.3% 급증하는 등 AI 인프라 수요에 힘입어 기록적인 성장을 달성했으며, 향후 2년간 40% 이상의 매출 성장세를 이어갈 것으로 전망했습니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42511",
+            "timestamp": 1793352238000,
+            "date": "2026-10-30"
+        },
+        {
+            "title": "오픈AI '코덱스' 등 인기 AI 개발 도구 5종서 '보안 허점' 무더기 발견 - 디일렉",
+            "summary_kr": "오픈AI의 코덱스를 비롯한 5개 주요 AI 개발 도구에서 시스템 접근 권한을 악용한 보안 취약점 '엠브레이스'가 발견되었습니다. 현재 일부 도구는 패치가 적용되었으나, 코덱스와 VS 코드 등은 여전히 보안 허점이 방치되어 있어 사용자들의 각별한 주의가 요구됩니다.",
+            "link": "https://www.thelec.kr/news/articleView.html?idxno=64619",
+            "timestamp": 1793346974000,
+            "date": "2026-10-30"
+        },
+        {
+            "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지 - AI타임스",
+            "summary_kr": "앤트로픽이 AI 모델이 답변 직후 자신의 대화를 스스로 평가하여 유해성을 판단하는 '자기 평가' 기술을 도입했습니다. 이 기술은 추가 연산 비용을 2% 미만으로 억제하면서도 기존 분류 모델이 포착하지 못한 대규모 사기 및 불법 활동을 78% 탐지하는 성과를 거두었습니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+            "timestamp": 1793312519000,
+            "date": "2026-10-29"
+        },
+        {
+            "title": "아마존, 자체 AI칩 트레이니엄 외부 판매 - 공감신문",
+            "summary_kr": "아마존이 자체 AI 반도체 '트레이니엄'을 2027년 후반부터 외부 기업에 판매하며 엔비디아·AMD와 정면 대결에 나섭니다. 이는 고가의 GPU 의존도를 낮추려는 클라우드 업계의 전략적 행보로, 향후 AI 반도체 시장이 범용 제품에서 맞춤형 칩 중심으로 재편될 전망입니다.",
+            "link": "https://www.gokorea.kr/news/articleView.html?idxno=883410",
+            "timestamp": 1793320194000,
+            "date": "2026-10-30"
+        },
         {
             "title": "구글, 양자컴퓨터 핵심 오류 40배 줄였다…20년 기술 난제 돌파구 - 이코노미사이언스",
             "summary_kr": "구글 퀀텀AI가 양자 프로세서 '윌로우'를 통해 20년 난제였던 양자 상태 오류보정 기술을 구현하며 오류를 40배 줄이는 데 성공했습니다. 이번 돌파구 마련으로 신약 및 신소재 개발 등 첨단산업 분야에서 양자컴퓨터의 실질적인 활용 가능성이 한층 높아졌습니다.",
@@ -671,34 +699,6 @@
             "summary_kr": "데미스 하사비스 구글 딥마인드 CEO는 AI를 단순한 챗봇의 수준을 넘어 신약 개발 등 과학적 난제를 해결하는 도구로 발전시켜야 한다고 강조했습니다.",
             "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFByNHFqdG1uclp1eUpkd3RBcC02WFcxS3BZV0tTSTF6enlpY0JDNEMyZGxua3VxUE9ZMk5HQlJVYjk?oc=5",
             "timestamp": 1790689056000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "오픈AI·앤트로픽 \"AI가 AI 개발하는 시대…인간 통제 벗어날 위험\" - 지디넷코리아",
-            "summary_kr": "오픈AI와 앤트로픽 등 주요 AI 기업들이 AI가 스스로 AI를 개발하는 시대를 예견하며, 이 과정에서 인간의 통제를 벗어날 수 있는 잠재적 위험성에 대해 경고했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sdW85dDVfWTVYLW5mYjNhQlYtbUkweDlOQ19HYjgwUVBWOXlmRmpQUGRueHpZZmhabkRIUnlwT21RWGlOY1dEd1dqemdEMHlNV0ZmNjlB?oc=5",
-            "timestamp": 1790669015000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "앤트로픽 ‘클로드 소넷 5.5’ 출시...오퍼스 5.5와 역할 분배 - newstheai.com",
-            "summary_kr": "앤트로픽이 최신 모델인 '클로드 소넷 5.5'를 출시하고, 기존 '오퍼스 5.5'와의 효율적인 역할 분배를 통해 모델 운용의 최적화를 도모합니다.",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrUUxmUEZVdWFKVHdSWGpuVGk0U2psZU1udm9iMG5qVEZOX1QxMEJOQzQ3V0p5aURvRUFhSlh3MWF5N3QySkV5Y3JXaTg2eEhMZlZFcUZ1T2ZlSDJoaEQ1N3FsenFIUlRjdndV?oc=5",
-            "timestamp": 1790671879000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "미국 플로리다주, 법원에 \"오픈AI 감시없이 개발금지\" 요청 - v.daum.net",
-            "summary_kr": "미국 플로리다주가 법원에 오픈AI를 상대로 외부의 감시나 통제 없는 AI 개발을 금지해 달라는 가처분 신청을 제기했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40VlhTOHdqMWU4VXFkVDgtM2ozQmswVGtIQW5JSGFZZTFTSTN1blBmN3haYm9SZ0FHaUpteVFyeXlmOXJrY3JucTR3SW1uWXM?oc=5",
-            "timestamp": 1790666519000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "\"RSI 통제력 잃기 전에 규제해야\"...세계 최고 AI 연구자 20인 공동 경고 - AI타임스",
-            "summary_kr": "세계 최고 수준의 AI 연구자 20인이 공동 성명을 통해, 강력한 AI 시스템(RSI)이 통제력을 상실하기 전 조속한 법적·제도적 규제 마련이 필요하다고 강조했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qcndFcXNuck1oUUVxUVhSek83eE45V0xVckRELV81WFRxR0lPY0oyYU5XWEpRUmF2enlNSy13N0ZfTWVHVUh6Q0cyS1BBYmNmWGctTE5HR2FJeDhXZWhVTjdoRzllR0YtVmc?oc=5",
-            "timestamp": 1790651611000,
             "date": "2026-09-29"
         }
     ]

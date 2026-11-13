@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-12 21:49:40",
+    "last_update": "2026-11-13 10:45:26",
     "articles": [
+        {
+            "title": "What could happen to AI development and chip production as Huang resigns from Nvidia - CBS News",
+            "summary_en": "Following the announced resignation of CEO Jensen Huang, concerns have emerged regarding the future stability of Nvidia's leadership and its impact on the broader AI development landscape.",
+            "link": "https://www.cbsnews.com/video/what-could-happen-to-ai-development-and-chip-production-as-huang-resigns-from-nvidia",
+            "timestamp": 1794526260000,
+            "date": "2026-11-12"
+        },
+        {
+            "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way to See the World - samsung.com",
+            "summary_en": "Samsung is launching intelligent eyewear in December, starting at $395, featuring a 12MP camera, Gemini integration, and a split-computing system to balance performance with a lightweight design. The devices prioritize privacy with physical recording indicators, automatic face redaction for bystanders, and a policy that prohibits using collected visuals for AI model training.",
+            "link": "https://news.samsung.com/us/samsung-announces-u-s-release-intelligent-eyewear-bringing-smart-way-world",
+            "timestamp": 1794504346000,
+            "date": "2026-11-12"
+        },
+        {
+            "title": "National AI Strategy Committee Holds Emergency Review Meeting Over NVIDIA Leadership Change - 파이낸셜뉴스",
+            "summary_en": "South Korea's National AI Strategy Committee held an emergency meeting to address the risks posed by Nvidia's leadership transition to domestic GPU procurement and ongoing collaborative projects. The committee is now prioritizing the diversification of computing resources and the acceleration of domestically developed AI semiconductors to ensure national infrastructure resilience.",
+            "link": "https://en.fnnews.com/news/202611131510288841",
+            "timestamp": 1794550482000,
+            "date": "2026-11-13"
+        },
         {
             "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
             "summary_en": "A coalition of plaintiffs has filed a lawsuit demanding an immediate halt to the development of frontier AI models, citing systemic legal and safety concerns.",
@@ -679,27 +700,6 @@
             "link": "https://www.boehringer-ingelheim.com/about-us/boehringer-microsoft-partner-ai-backed-clinical-development",
             "timestamp": 1792675800000,
             "date": "2026-10-22"
-        },
-        {
-            "title": "Google Open-Sources TorchTPU to Challenge Nvidia’s Grip on AI Development - AI Insider",
-            "summary_en": "Google has open-sourced TorchTPU, a tool designed to allow PyTorch-based AI models to run on Google’s custom Tensor Processing Units without requiring code rewrites. This initiative mirrors Amazon's TorchNeuron, representing a broader industry push to reduce dependence on Nvidia’s dominant GPU hardware ecosystem.",
-            "link": "https://theaiinsider.tech/2026/10/22/google-open-sources-torchtpu-to-challenge-nvidias-grip-on-ai-development",
-            "timestamp": 1792686274000,
-            "date": "2026-10-22"
-        },
-        {
-            "title": "Anthropic takes on Muse with Claude Duet, its new AI agent - The Verge",
-            "summary_en": "Anthropic has introduced Claude Duet, an AI agent powered by Claude Opus 5.5 capable of managing administrative tasks, building dashboards, and executing complex workflows through connected apps. The tool, currently in research preview for US Pro and Max subscribers, features a specialized safety classifier to protect sensitive user data during autonomous actions.",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-            "timestamp": 1792612400000,
-            "date": "2026-10-21"
-        },
-        {
-            "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
-            "summary_en": "Meta is reportedly positioning its Muse AI agent at the center of its long-term development strategy. To support the massive capital requirements for this initiative, the company is planning a new stock issuance.",
-            "link": "https://www.reuters.com/business/meta-issue-new-class-shares-it-tightens-ai-spending-forecast-2026-10-21",
-            "timestamp": 1792613100000,
-            "date": "2026-10-21"
         }
     ]
 }
