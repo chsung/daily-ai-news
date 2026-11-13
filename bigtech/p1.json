@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-11-12 21:57:54",
+    "last_update": "2026-11-13 21:42:25",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794604637000,
+            "date": "2026-11-13",
+            "title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+            "summary_kr": "엔비디아의 cuPhoton.xBeam 기술은 GPU 가속을 통해 블랙홀 관측 데이터를 기존 CPU 대비 460배 빠르게 처리함으로써 차세대 사건 지평선 망원경(ngEHT)의 데이터 분석 효율을 획기적으로 개선했습니다.",
+            "summary_en": "NVIDIA's cuPhoton.xBeam technology accelerates black hole observational data processing by 460x compared to CPUs, significantly enhancing the efficiency of the next-generation Event Horizon Telescope (ngEHT).",
+            "link": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794596230000,
+            "date": "2026-11-13",
+            "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+            "summary_kr": "NVIDIA가 공개한 cuDLA 파이썬 바인딩을 통해 개발자는 C++ 없이도 Jetson AGX Orin 환경에서 DLA 하드웨어를 활용해 효율적인 AI 추론을 구현할 수 있게 되었습니다.",
+            "summary_en": "NVIDIA's new cuDLA Python bindings enable developers to execute efficient AI inference on Jetson AGX Orin hardware directly through Python, eliminating the need for C++ runtime management.",
+            "link": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794589200000,
+            "date": "2026-11-13",
+            "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+            "summary_kr": "본 기사는 7530억 파라미터 규모의 GLM-5.3 모델을 단일 GPU 용량 한계를 넘어, RDMA로 연결된 두 대의 NVIDIA DGX 스테이션에서 vLLM과 텐서 병렬 처리를 통해 구동하는 방법을 설명합니다.",
+            "summary_en": "This article demonstrates how to serve the 753B-parameter GLM-5.3 model by leveraging vLLM and tensor parallelism to split model weights across two RDMA-connected NVIDIA DGX Stations.",
+            "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794589200000,
+            "date": "2026-11-13",
+            "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+            "summary_kr": "엔비디아의 오픈소스 SOMA Retargeter는 인간의 움직임 데이터를 로봇의 고유한 신체 구조와 관절 범위에 맞게 정밀하게 변환하여 휴머노이드 학습을 가속화합니다.",
+            "summary_en": "NVIDIA's open-source SOMA Retargeter accelerates humanoid learning by precisely adapting human motion data to fit the unique proportions and joint ranges of diverse robot embodiments.",
+            "link": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1794528000000,
+            "date": "2026-11-13",
+            "title": "Building strong safety evaluations",
+            "summary_kr": "AI 모델의 안전성 평가는 모델의 위험성을 측정하는 핵심적인 지표이나, 그 설계가 어렵고 조작 가능성이 큽니다. 따라서 심리학 분야의 검증 체계를 참고하여 다학제적 전문가 팀을 구성하고 안전한 평가 환경을 구축하는 것이 필수적입니다.",
+            "summary_en": "AI safety evaluations are critical for measuring model risk but are prone to flaws and manipulation. To improve reliability, developers should adopt rigorous psychological research standards, build multidisciplinary teams, and implement secure, monitored testing environments.",
+            "link": "https://www.anthropic.com/research/building-strong-safety-evaluations"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794499398000,
+            "date": "2026-11-12",
+            "title": "From AI ambition to business impact - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 단순한 AI 기술 시연을 넘어, 기업의 운영 모델을 재설계하고 실질적인 비즈니스 성과를 창출하는 '현장 배치 엔지니어링'을 통해 AI의 실질적인 가치를 증명하고 있습니다.",
+            "summary_en": "Microsoft is moving beyond AI demonstrations to drive tangible business impact by deploying engineering teams directly into organizations to redesign workflows and integrate AI into core operations.",
+            "link": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact"
+        },
         {
             "company": "Google",
             "timestamp": 1794515400000,
@@ -846,60 +900,6 @@
             "summary_kr": "에스티 로더는 마이크로소프트의 클라우드 및 AI 도구를 도입해 데이터 플랫폼을 통합하고, 제품 혁신과 개인화된 고객 경험을 강화하는 전사적 디지털 전환을 추진합니다.",
             "summary_en": "Estée Lauder is undergoing a digital transformation by leveraging Microsoft’s cloud and AI tools to unify its data platform, thereby accelerating product innovation and delivering personalized consumer experiences.",
             "link": "https://news.microsoft.com/source/features/digital-transformation/estee-lauder-expands-ai-across-beauty-business"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1793379600000,
-            "date": "2026-10-30",
-            "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-            "summary_kr": "프로젝트 선캐처(Project Suncatcher)가 궤도 위 데이터 센터급 TPU에서 AI 모델을 성공적으로 구동하며, 우주 공간에서의 AI 컴퓨팅 성능 검증이라는 중요한 이정표를 달성했습니다.",
-            "summary_en": "Project Suncatcher has achieved a key milestone by successfully running an AI model on a data-center-class TPU in orbit, proving the feasibility of space-based AI computing.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793376000000,
-            "date": "2026-10-30",
-            "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
-            "summary_kr": "NVIDIA NemoClaw는 오픈 블루프린트를 통해 기존 에이전트 하네스와 최적화된 모델, 보안 런타임을 결합하여 기업 환경에 적합한 신뢰성 높은 자율형 에이전트 구축을 지원합니다.",
-            "summary_en": "NVIDIA NemoClaw provides open blueprints to integrate existing agent harnesses with optimized models and secure runtimes, enabling the development of reliable, production-grade autonomous agents.",
-            "link": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793372496000,
-            "date": "2026-10-30",
-            "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
-            "summary_kr": "NVIDIA는 GPUDirect Storage(GDS)의 구성을 간소화하고 최적화하기 위해 명령줄 도구 및 AI 에이전트 인터페이스를 제공하는 'gds-diag' 유틸리티를 소개했습니다.",
-            "summary_en": "NVIDIA introduced the 'gds-diag' utility, which provides both command-line and AI-agent interfaces to simplify and optimize the configuration and diagnostic process for GPUDirect Storage (GDS).",
-            "link": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1793365528000,
-            "date": "2026-10-30",
-            "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence - Microsoft Research",
-            "summary_kr": "마이크로소프트는 기업 고객의 민감한 데이터를 보호하면서도 복잡한 실제 비즈니스 환경을 정밀하게 테스트하기 위해 공개 데이터를 기반으로 한 대규모 합성 데이터 평가 플랫폼을 구축했습니다.",
-            "summary_en": "Microsoft has developed a large-scale synthetic data evaluation platform, utilizing publicly available information to rigorously test enterprise AI performance without compromising sensitive customer data.",
-            "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793352600000,
-            "date": "2026-10-30",
-            "title": "Making it easier for websites to express AI training preferences",
-            "summary_kr": "OpenAI는 웹사이트 운영자가 AI 학습 데이터 활용 여부를 일괄적으로 설정할 수 있도록 robots.txt 내 통합 신호 체계를 도입합니다.",
-            "summary_en": "OpenAI is adopting a standardized robots.txt signal to allow website operators to easily manage AI training data preferences across multiple providers simultaneously.",
-            "link": "https://openai.com/index/helping-websites-express-ai-training-preferences"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793350800000,
-            "date": "2026-10-30",
-            "title": "Community safety report and new protections for teens",
-            "summary_kr": "OpenAI는 커뮤니티 안전 보고서 발간을 통해 투명성을 강화하고, 청소년 보호를 위해 총기 관련 콘텐츠 제한 및 폭력 위험 감지 대응을 더욱 엄격하게 시행합니다.",
-            "summary_en": "OpenAI is enhancing transparency through a new Community Safety Report and tightening restrictions on firearm-related content and sensitive information to better protect minors and prevent violence.",
-            "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
         }
     ]
 }
