@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-11-13 21:42:25",
+    "last_update": "2026-11-14 20:11:13",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793392398000,
+            "date": "2026-10-30",
+            "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+            "summary_kr": "NVIDIA DGX Spark와 TensorRT Edge-LLM은 임베디드 개발자가 복잡한 설정 없이 몇 개의 명령어로 AI 모델을 프로토타이핑하고 엣지 환경에 최적화된 추론을 배포할 수 있도록 지원합니다.",
+            "summary_en": "NVIDIA DGX Spark and TensorRT Edge-LLM enable embedded developers to prototype AI models and deploy optimized inference for edge applications with minimal setup using simple CLI commands.",
+            "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1789603200000,
+            "date": "2026-09-17",
+            "title": "Introducing the Life Sciences Verification Program",
+            "summary_kr": "생명과학 전문가들을 위한 'LSVP' 프로그램이 출시되어, 검증된 연구 기관은 약물 발견 및 바이오 연구를 위해 강화된 모델 권한과 안전한 가이드라인을 제공받게 됩니다.",
+            "summary_en": "The new Life Sciences Verification Program (LSVP) provides vetted research institutions with specialized access to AI models for complex biological tasks while maintaining rigorous safety and ethical oversight.",
+            "link": "https://www.anthropic.com/news/life-sciences-verification-program"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793382645000,
+            "date": "2026-10-30",
+            "title": "Estée Lauder Companies infuses AI across global operations with Microsoft cloud tools",
+            "summary_kr": "에스티 로더는 마이크로소프트의 클라우드 및 AI 도구를 도입해 데이터 플랫폼을 통합하고, 제품 혁신과 개인화된 고객 경험을 강화하는 전사적 디지털 전환을 추진합니다.",
+            "summary_en": "Estée Lauder is undergoing a digital transformation by leveraging Microsoft’s cloud and AI tools to unify its data platform, thereby accelerating product innovation and delivering personalized consumer experiences.",
+            "link": "https://news.microsoft.com/source/features/digital-transformation/estee-lauder-expands-ai-across-beauty-business"
+        },
         {
             "company": "Google",
             "timestamp": 1793379600000,
@@ -873,33 +900,6 @@
             "summary_kr": "앤스로픽은 고객이 직접 제어하는 클라우드 인프라에 데이터를 저장하여 제로 데이터 보존(ZDR)의 프라이버시와 고도화된 오남용 탐지 기능을 동시에 제공하는 '엔터프라이즈 프런티어 세이프가드(EFS)'를 발표했습니다.",
             "summary_en": "Anthropic has announced 'Enterprise Frontier Safeguards' (EFS), a solution that balances zero data retention privacy with advanced misuse detection by storing data in customer-controlled cloud infrastructure.",
             "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1788134400000,
-            "date": "2026-08-31",
-            "title": "Improving our alignment and security efforts",
-            "summary_kr": "앤스로픽은 최근 클로드 모델의 보안 사고 이후 평가 환경의 안전 조치를 강화하고, 인공지능의 정렬 문제 해결과 업계 차원의 안전한 기술 개발 속도 조절을 위한 협력을 강조했습니다.",
-            "summary_en": "Following recent security incidents involving Claude, Anthropic is strengthening containment measures for evaluation environments while prioritizing AI alignment and advocating for industry-wide coordination on responsible development pacing.",
-            "link": "https://www.anthropic.com/news/improving-alignment-security-efforts"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787788800000,
-            "date": "2026-08-27",
-            "title": "Previewing the Model Hardware Standard",
-            "summary_kr": "Anthropic이 공개한 '모델 하드웨어 표준(MHS)'은 파편화된 연구 및 제조 장비를 통합하여 AI 에이전트가 복잡한 물리적 작업을 자율적으로 수행할 수 있도록 지원하는 범용 표준입니다.",
-            "summary_en": "Anthropic's 'Model Hardware Standard (MHS)' provides a universal framework to integrate fragmented research and manufacturing equipment, enabling AI agents to autonomously orchestrate complex physical tasks.",
-            "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787788800000,
-            "date": "2026-08-27",
-            "title": "Expanding our support for scientists",
-            "summary_kr": "앤스로픽은 과학 연구 가속화를 위해 1만 명의 연구자에게 Claude 구독 할인을 제공하고 'AI for Science' 프로그램을 전 분야로 확대합니다.",
-            "summary_en": "Anthropic is expanding its support for the scientific community by offering 10,000 discounted Claude subscriptions and broadening its 'AI for Science' program across all research fields.",
-            "link": "https://www.anthropic.com/news/expanding-support-for-scientists"
         }
     ]
 }

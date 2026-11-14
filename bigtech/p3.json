@@ -1,6 +1,33 @@
 {
-    "last_update": "2026-11-13 21:42:25",
+    "last_update": "2026-11-14 20:11:13",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1788134400000,
+            "date": "2026-08-31",
+            "title": "Improving our alignment and security efforts",
+            "summary_kr": "앤스로픽은 최근 클로드 모델의 보안 사고 이후 평가 환경의 안전 조치를 강화하고, 인공지능의 정렬 문제 해결과 업계 차원의 안전한 기술 개발 속도 조절을 위한 협력을 강조했습니다.",
+            "summary_en": "Following recent security incidents involving Claude, Anthropic is strengthening containment measures for evaluation environments while prioritizing AI alignment and advocating for industry-wide coordination on responsible development pacing.",
+            "link": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787788800000,
+            "date": "2026-08-27",
+            "title": "Previewing the Model Hardware Standard",
+            "summary_kr": "Anthropic이 공개한 '모델 하드웨어 표준(MHS)'은 파편화된 연구 및 제조 장비를 통합하여 AI 에이전트가 복잡한 물리적 작업을 자율적으로 수행할 수 있도록 지원하는 범용 표준입니다.",
+            "summary_en": "Anthropic's 'Model Hardware Standard (MHS)' provides a universal framework to integrate fragmented research and manufacturing equipment, enabling AI agents to autonomously orchestrate complex physical tasks.",
+            "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1787788800000,
+            "date": "2026-08-27",
+            "title": "Expanding our support for scientists",
+            "summary_kr": "앤스로픽은 과학 연구 가속화를 위해 1만 명의 연구자에게 Claude 구독 할인을 제공하고 'AI for Science' 프로그램을 전 분야로 확대합니다.",
+            "summary_en": "Anthropic is expanding its support for the scientific community by offering 10,000 discounted Claude subscriptions and broadening its 'AI for Science' program across all research fields.",
+            "link": "https://www.anthropic.com/news/expanding-support-for-scientists"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1787616000000,
@@ -873,33 +900,6 @@
             "summary_kr": "마이크로소프트가 업계 최고 수준의 정확도와 저지연성을 갖춘 실시간 음성 인식 모델 'MAI-Transcribe-2-Streaming'과 다국어 지원에 최적화된 'MAI-Voice-2.1' 시리즈를 출시했습니다.",
             "summary_en": "Microsoft has launched its top-ranked, low-latency 'MAI-Transcribe-2-Streaming' model alongside the versatile 'MAI-Voice-2.1' series, enabling faster, high-quality, and seamless conversational AI experiences.",
             "link": "https://microsoft.ai/news/our-first-streaming-transcription-model"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790812800000,
-            "date": "2026-10-01",
-            "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-            "summary_kr": "소셜 클럽 '더 덴(The Den)'은 ChatGPT Work를 도입하여 행정 업무 시간을 주당 최대 15시간 단축하고, 복잡한 인허가 및 보조금 신청 과정을 획기적으로 개선하며 사업 확장에 집중하고 있습니다.",
-            "summary_en": "The Den has leveraged ChatGPT Work to save up to 15 hours per week on administrative tasks, significantly accelerating licensing and grant application processes to fuel its business expansion.",
-            "link": "https://openai.com/index/the-den-family-social"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790878409000,
-            "date": "2026-10-01",
-            "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
-            "summary_kr": "엔비디아는 일반 AI 에이전트의 인프라 개발 오류를 줄이기 위해 검증된 API 규격과 하드웨어 제약 조건을 담은 'DOCA 에이전트 스킬'을 공개했습니다. 이를 통해 개발자는 블루필드(BlueField) DPU 기반 애플리케이션을 더 빠르고 안정적으로 구축할 수 있습니다.",
-            "summary_en": "NVIDIA has released 'DOCA Agent Skills,' providing verified API signatures and hardware constraints to enable AI agents to develop NVIDIA BlueField-based infrastructure more accurately. This foundation allows developers to build faster and deploy more stable code by bridging the gap in general-purpose AI's domain-specific expertise.",
-            "link": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1790877567000,
-            "date": "2026-10-01",
-            "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
-            "summary_kr": "엔비디아의 'DIN Deploy'는 ONNX Runtime과 TensorRT RTX를 결합하여, 개발자들이 AI 모델을 로컬 환경에서 하드웨어 가속이 적용된 고성능 C++ 애플리케이션으로 손쉽게 배포할 수 있도록 지원합니다.",
-            "summary_en": "NVIDIA's 'DIN Deploy' leverages ONNX Runtime and TensorRT RTX to enable developers to seamlessly deploy AI models into high-performance, hardware-accelerated C++ applications for local environments.",
-            "link": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples"
         }
     ]
 }
