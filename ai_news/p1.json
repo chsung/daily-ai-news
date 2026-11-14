@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-13 21:19:31",
+    "last_update": "2026-11-14 09:59:21",
     "articles": [
+        {
+            "title": "Mirendil raises $1B in funding to speed up AI model development - SiliconANGLE",
+            "summary_en": "Mirendil, a startup founded by former Google DeepMind and Anthropic researchers, has raised $1 billion to scale its automated AI development platform, Lor. The platform utilizes AI agents to autonomously manage model training and infrastructure, a process demonstrated by successfully developing the 'Mirendil-Base' model with minimal human intervention.",
+            "link": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development",
+            "timestamp": 1794604920000,
+            "date": "2026-11-13"
+        },
+        {
+            "title": "NVIDIA, AMD and Intel Join Forces for SGLang - igor´sLAB",
+            "summary_en": "NVIDIA, AMD, and Intel have formed the SGLang Consortium under the nonprofit LMSYS to standardize open-source inference software across diverse hardware. This collaboration aims to optimize the efficiency of increasingly complex AI workloads, which are projected to shift significantly toward inference-based computing by 2026.",
+            "link": "https://www.igorslab.de/en/nvidia-amd-intel-establish-sglang-consortium-open-ai-inference",
+            "timestamp": 1794632400000,
+            "date": "2026-11-14"
+        },
         {
             "title": "Coalition of Nonprofits Files Landmark Lawsuit to Stop Development of Advanced AI Systems at Anthropic, Google, Meta, OpenAI, and SpaceXSI that Proliferate Bioweapons and Cyberattacks - Benton Institute for Broadband & Society",
             "summary_en": "A coalition of nonprofits has filed a landmark lawsuit in California seeking to freeze the development of advanced AI models, citing concerns that these systems could facilitate bioweapons and cyberattacks. The plaintiffs argue that current AI safeguards are insufficient and invoke California’s Unfair Competition Law to preemptively address the catastrophic risks posed by uncontrolled AI.",
@@ -686,20 +700,6 @@
             "link": "https://thenextweb.com/news/openai-ai-agents-mouse-brain-crispr-atlas",
             "timestamp": 1792760864000,
             "date": "2026-10-23"
-        },
-        {
-            "title": "OpenAI signs AI safety research deal with Poland’s NASK institute - The Next Web",
-            "summary_en": "OpenAI has partnered with Poland’s NASK National Research Institute to enhance AI safety, specifically focusing on evaluating autonomous agents and identifying system vulnerabilities. This collaboration builds on previous successful work where OpenAI models helped CERT Polska, a NASK-operated unit, fix six critical software security flaws.",
-            "link": "https://thenextweb.com/news/openai-nask-poland-ai-safety-research",
-            "timestamp": 1792747551000,
-            "date": "2026-10-23"
-        },
-        {
-            "title": "Anthropic Opens Claude Duet Research Preview to US Pro and Max Users - Unite.AI",
-            "summary_en": "Anthropic has launched a research preview of 'Claude Duet,' an agent-based app designed to proactively manage tasks, monitor connected apps, and perform actions like scheduling or payments. The system operates on a virtual machine and mandates human approval for sensitive tasks to ensure safety and prevent unauthorized financial transactions.",
-            "link": "https://www.unite.ai/anthropic-opens-claude-duet-research-preview-to-us-pro-and-max-users",
-            "timestamp": 1792610592000,
-            "date": "2026-10-21"
         }
     ]
 }

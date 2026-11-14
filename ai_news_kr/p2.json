@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-13 21:18:50",
+    "last_update": "2026-11-14 09:58:43",
     "articles": [
+        {
+            "title": "오픈AI, 생명과학 모델 ‘GPT-로잘린드-6’ 공개…승인 기관만 사용 - AI 매터스",
+            "summary_kr": "오픈AI가 생명과학 분야에 특화된 AI 모델인 'GPT-로잘린드-6'를 새롭게 공개했습니다. 해당 모델은 전문성과 안전성을 고려하여 일반 대중이 아닌 승인된 공식 기관들만이 접근하고 사용할 수 있도록 제한되었습니다.",
+            "link": "https://aimatters.co.kr/news-report/58118",
+            "timestamp": 1793512057000,
+            "date": "2026-11-01"
+        },
+        {
+            "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망 - AI타임스",
+            "summary_kr": "구글이 인터넷 연결 없이도 실시간 음성 대화를 지원하는 '제미나이 라이브' 오프라인 모드를 개발 중인 것으로 확인되었습니다. 이는 스마트폰의 온디바이스 AI 모델인 '제미나이 나노'를 활용해 네트워크 제약 없이 AI 비서 기능을 구현하려는 시도로 풀이됩니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
+            "timestamp": 1793436940000,
+            "date": "2026-10-31"
+        },
+        {
+            "title": "애플, 중국 AI 시장 뚫으려 알리바바와 손잡았다…삼성 생존 경쟁 - OBC 뉴스",
+            "summary_kr": "애플이 중국 내 AI 시장 진입을 위해 오는 12월부터 알리바바의 '큐원' 모델을 연동한 애플 인텔리전스를 출시합니다. 이는 중국의 엄격한 생성형 AI 규제를 준수하는 동시에, 현지 시장에서의 AI 경쟁력을 확보하기 위한 전략적 선택으로 분석됩니다.",
+            "link": "http://www.theonetv.kr/news/articleView.html?idxno=254484",
+            "timestamp": 1793466054000,
+            "date": "2026-10-31"
+        },
+        {
+            "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\" - AI타임스",
+            "summary_kr": "샘 알트먼 오픈AI CEO는 AI 기반 수학 연구에 수억 달러를 투입했으며, 효율적 알고리즘 도입으로 연구 비용을 100분의 1 수준으로 절감할 수 있다고 밝혔습니다. 또한, 그는 자원 효율성을 위해 메모리 자원을 데이터센터에 집중해야 하며, 초지능은 단일 모델보다 다수의 AI 에이전트가 협력하는 구조가 안전하다고 강조했습니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=216850",
+            "timestamp": 1793440382000,
+            "date": "2026-10-31"
+        },
         {
             "title": "오픈AI, AI 행동 원칙 전면 개편…지시 따르는 AI 넘어 인간 의도 이해하는 AI로 - 인공지능신문",
             "summary_kr": "오픈AI가 AI 모델의 행동 원칙인 '모델 스펙'을 개편하며, 단순 지시 이행을 넘어 인간의 의도와 가치를 이해하고 부작용까지 고려하는 에이전틱 AI 중심의 기준을 수립했습니다.",
@@ -672,34 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oLXRVYk11aFdFa2xzWHVicVFIbXh2WVMxOVg1R1Bsa2tMVDE5Z3NTSVR6VnBSa2dtUmtGSHItUFROOHhoOGdUVUx0WnQ3TGJTcU1aanoyemNIVGFxYlE?oc=5",
             "timestamp": 1790755500000,
             "date": "2026-09-30"
-        },
-        {
-            "title": "앤트로픽, 10년간 AI 인프라에 700조원 쓴다 - 지디넷코리아",
-            "summary_kr": "앤트로픽이 향후 10년간 약 700조 원 규모의 대규모 자금을 투입하여 AI 인프라를 확충할 계획입니다.",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CcFJxS2hGajBZRi14ZFh1ZzZvMmFyN3QwT2dVaFNiQkk3bUxyZlJISmJiWXpHMjNqTHZRalpCNUt2SkN4RVliWnhhZk5xMGhNWVRsckZR?oc=5",
-            "timestamp": 1790754050000,
-            "date": "2026-09-30"
-        },
-        {
-            "title": "엔비디아 의존 축소…딥시크, 화웨이 AI칩용 개발도구 공개 - KBS 뉴스",
-            "summary_kr": "딥시크가 엔비디아 의존도를 낮추기 위해 화웨이 AI 칩에서도 구동 가능한 전용 개발 도구를 공개했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54b05XR1BlWlZGSFNIVU5QM2M0MTg1Y1dFSFd6aC1SMTFEclo1VDBPbmFDZGFrTVl6VXR4U3dRejZvOXVmLTZlT2FhX2ZiaUQ3SDhBU0lyWFRjbUU?oc=5",
-            "timestamp": 1790748420000,
-            "date": "2026-09-30"
-        },
-        {
-            "title": "트럼프, 'AI 멈춤 버튼' 킬 스위치 거부…빅테크 수장들과 자율규제 합의 - 더구루",
-            "summary_kr": "트럼프 당선인은 AI 기술을 강제로 중단시키는 킬 스위치 도입을 거부하고, 빅테크 기업들과 자율 규제 체계를 구축하기로 합의했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xUm5Pa2hfNHI0OTJPX1pNd2Q4SDhMNTV4Sm9fczhkS0xVMGZVMUpNQTJNT29sVEFxNXdaNHJjS08xaVpyTmJTb3owMmVjSTNNUE1YcGpraG1VcXZ2bEE?oc=5",
-            "timestamp": 1790744125000,
-            "date": "2026-09-30"
-        },
-        {
-            "title": "오픈AI, AI 에이전트 '닷츠' 출시…\"목표만 주면 쉼 없이 알아서 처리\" - 파이낸셜뉴스",
-            "summary_kr": "오픈AI가 사용자의 목표 설정만으로 복잡한 업무를 스스로 처리하는 AI 에이전트 '닷츠'를 출시하며 자율형 AI 시장 경쟁에 본격적으로 뛰어들었습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OQUVaVV9tZkNXRjZrLWFaWTlERkZKeF9STzVpRGpNb1lYUXNMVG5qUTFXWFg5ZmYyX0lBMUdjcW4zQlVnTHJrSVYtSUR1bFhMWklkVlEtV2IxUQ?oc=5",
-            "timestamp": 1790707222000,
-            "date": "2026-09-29"
         }
     ]
 }
