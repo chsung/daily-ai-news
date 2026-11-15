@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-15 10:36:26",
+    "last_update": "2026-11-15 20:14:58",
     "articles": [
+        {
+            "title": "Oracle Brings Google TPUs to Oracle Cloud Infrastructure - Oracle",
+            "summary_en": "In a strategic move to diversify AI compute options, Oracle will become the first hyperscale cloud provider to offer Google’s custom Tensor Processing Units (TPUs) via its Oracle Cloud Infrastructure (OCI). Starting in 2027, this integration will provide customers with optimized performance and economics for large-scale model training and agentic AI workloads.",
+            "link": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27",
+            "timestamp": 1793117495000,
+            "date": "2026-10-27"
+        },
         {
             "title": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test - Reuters",
             "summary_en": "Anthropic's financial performance is under intense scrutiny as its rapid revenue growth faces a critical test regarding its path to profitability ahead of a potential IPO.",
@@ -693,13 +700,6 @@
             "link": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18",
             "timestamp": 1789751910000,
             "date": "2026-09-18"
-        },
-        {
-            "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
-            "summary_en": "Anthropic reports that its Claude AI model is now utilized for 25% of the development and coding tasks required to build its next generation of artificial intelligence.",
-            "link": "https://www.reuters.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-2026-09-17",
-            "timestamp": 1789689583000,
-            "date": "2026-09-17"
         }
     ]
 }

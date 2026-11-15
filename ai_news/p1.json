@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-15 10:36:26",
+    "last_update": "2026-11-15 20:14:58",
     "articles": [
+        {
+            "title": "\"No path to real use\": a veteran Microsoft AI scientist quits, says research that could halve AI costs wasn't even seriously considered - Windows Latest",
+            "summary_en": "Veteran Microsoft AI researcher John Langford has resigned, citing a shift in leadership strategy toward aggressive model scaling over fundamental research. He contends that Microsoft ignored his 'Full Bandwidth Transformer' innovation, which could significantly reduce AI training and inference costs, a technology ByteDance has since validated at a larger scale.",
+            "link": "https://www.windowslatest.com/2026/11/14/no-path-to-real-use-a-veteran-microsoft-ai-scientist-quits-says-research-that-could-halve-ai-costs-wasnt-even-seriously-considered",
+            "timestamp": 1794609907000,
+            "date": "2026-11-13"
+        },
         {
             "title": "Advocacy groups sue to stop development of artificial intelligence, citing dangers - Jurist.org",
             "summary_en": "A coalition of five nonprofit groups has filed a lawsuit in San Francisco Superior Court, labeling AI systems a public nuisance and demanding an injunction to halt further development. The plaintiffs cite concerns over illegal business practices and potential existential threats, referencing warnings from industry leaders regarding AI's capability for large-scale biological attacks and societal harm.",
@@ -691,13 +698,6 @@
             "title": "Oracle Reinvents Enterprise Computing for the AI Era with OpenAI - Oracle",
             "summary_en": "Oracle and OpenAI have partnered to integrate frontier AI models directly into Oracle’s cloud infrastructure and business applications through a new 'Oracle AI Workspace.' This initiative enables enterprises to deploy autonomous agents, enhance cybersecurity via an AI-driven security mesh, and build custom applications without requiring coding expertise.",
             "link": "https://www.oracle.com/news/announcement/ai-world-oracle-reinvents-enterprise-computing-for-the-ai-era-with-openai-2026-10-27",
-            "timestamp": 1793117495000,
-            "date": "2026-10-27"
-        },
-        {
-            "title": "Oracle Brings Google TPUs to Oracle Cloud Infrastructure - Oracle",
-            "summary_en": "In a strategic move to diversify AI compute options, Oracle will become the first hyperscale cloud provider to offer Google’s custom Tensor Processing Units (TPUs) via its Oracle Cloud Infrastructure (OCI). Starting in 2027, this integration will provide customers with optimized performance and economics for large-scale model training and agentic AI workloads.",
-            "link": "https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27",
             "timestamp": 1793117495000,
             "date": "2026-10-27"
         }
