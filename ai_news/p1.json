@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-15 20:14:58",
+    "last_update": "2026-11-16 10:51:57",
     "articles": [
+        {
+            "title": "Apple launches research study to explore the use of AI for health - Apple",
+            "summary_en": "Apple has launched a research study with OpenEvidence to investigate how users interact with conversational health AI, aiming to improve the responsible design of future tools. The study, involving up to 200,000 participants, will analyze trust and comprehension while strictly prohibiting the use of collected data for model training.",
+            "link": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health",
+            "timestamp": 1794792268000,
+            "date": "2026-11-16"
+        },
+        {
+            "title": "Apple to Unveil AI Glasses, Joining Meta and Samsung in Market Battle - 조선일보",
+            "summary_en": "Apple is reportedly developing AI glasses, codenamed 'N50,' for a potential 2027 release to challenge market leaders like Meta and Samsung. The device is expected to rely on Siri and camera-based object recognition rather than an AR display, focusing on deep integration with the existing iPhone app ecosystem.",
+            "link": "https://www.chosun.com/english/industry-en/2026/11/16/QQ5AYZMJ6RA57GUZBNJ3E6MR2Y",
+            "timestamp": 1794813074000,
+            "date": "2026-11-16"
+        },
+        {
+            "title": "OpenAI describes Control Room for stopping research AI workloads - CASRAI",
+            "summary_en": "OpenAI has introduced 'Control Room,' an internal system designed to instantaneously revoke an AI research job's access to model outputs to prevent unsafe autonomous activity. While it offers a 35-second maximum latency for intervention, the company emphasizes that this is an enforcement tool separate from the detection and monitoring processes.",
+            "link": "https://casrai.org/news/openai-control-room-research-inference-oversight-2026",
+            "timestamp": 1794779948000,
+            "date": "2026-11-15"
+        },
         {
             "title": "\"No path to real use\": a veteran Microsoft AI scientist quits, says research that could halve AI costs wasn't even seriously considered - Windows Latest",
             "summary_en": "Veteran Microsoft AI researcher John Langford has resigned, citing a shift in leadership strategy toward aggressive model scaling over fundamental research. He contends that Microsoft ignored his 'Full Bandwidth Transformer' innovation, which could significantly reduce AI training and inference costs, a technology ByteDance has since validated at a larger scale.",
@@ -679,27 +700,6 @@
             "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262245456-openai-plans-purchase-google-ai-chips-nvidia-competition-tradingkey",
             "timestamp": 1793167965000,
             "date": "2026-10-28"
-        },
-        {
-            "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says - Al Jazeera",
-            "summary_en": "OpenAI announced that its AI models have achieved significant scientific breakthroughs, including proving the local smoothing conjecture in harmonic analysis and providing rigorous proof for quantum chromodynamics. These findings, verified by external experts, demonstrate the potential for AI to rapidly accelerate discoveries in complex fields like mathematics, physics, and computer science.",
-            "link": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says",
-            "timestamp": 1793113029000,
-            "date": "2026-10-27"
-        },
-        {
-            "title": "Google DeepMind Rolls Out Genie 4 World Model in Research Preview - Unite.AI",
-            "summary_en": "Google DeepMind has introduced Genie 4, a natively multimodal world model capable of real-time interactive simulation that generates coherent environments with synchronized audio and physics. Currently in research preview, the model utilizes the Gemini family to support complex reasoning, enabling users to steer simulations through natural language inputs.",
-            "link": "https://www.unite.ai/google-deepmind-rolls-out-genie-4-world-model-in-research-preview",
-            "timestamp": 1793118062000,
-            "date": "2026-10-27"
-        },
-        {
-            "title": "Oracle Reinvents Enterprise Computing for the AI Era with OpenAI - Oracle",
-            "summary_en": "Oracle and OpenAI have partnered to integrate frontier AI models directly into Oracle’s cloud infrastructure and business applications through a new 'Oracle AI Workspace.' This initiative enables enterprises to deploy autonomous agents, enhance cybersecurity via an AI-driven security mesh, and build custom applications without requiring coding expertise.",
-            "link": "https://www.oracle.com/news/announcement/ai-world-oracle-reinvents-enterprise-computing-for-the-ai-era-with-openai-2026-10-27",
-            "timestamp": 1793117495000,
-            "date": "2026-10-27"
         }
     ]
 }
