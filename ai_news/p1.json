@@ -1,6 +1,34 @@
 {
-    "last_update": "2026-11-16 10:51:57",
+    "last_update": "2026-11-16 23:42:12",
     "articles": [
+        {
+            "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold - Google Cloud",
+            "summary_en": "Google Threat Intelligence reports that cyber adversaries have reached a critical inflection point by moving beyond manual prompting to using autonomous multi-agent frameworks like ARTEX and PentAGI. These tools enable threat actors to execute multi-stage intrusions at machine speed, automate vulnerability exploitation, and scale operations across the cybercrime spectrum.",
+            "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+            "timestamp": 1794842949000,
+            "date": "2026-11-16"
+        },
+        {
+            "title": "California sues OpenAI, alleging AI development lacked adequate safeguards - Breaking News, Latest News and Videos",
+            "summary_en": "The California Attorney General’s office has filed a lawsuit against OpenAI, alleging that the company failed to implement adequate safeguards during the development of its advanced AI models. The suit claims that these oversights have endangered the public, marking a significant legal challenge regarding AI responsibility.",
+            "link": "https://abcnews.com/Business/california-sues-openai-alleging-ai-development-lacked-adequate/story?id=138187223",
+            "timestamp": 1794859378000,
+            "date": "2026-11-16"
+        },
+        {
+            "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches - The Hacker News",
+            "summary_en": "Google’s latest report highlights that hackers are increasingly using LLM-driven pipelines to reverse-engineer software patches and weaponize n-day vulnerabilities. By leveraging frameworks like Agent Zero, threat actors are compressing the window between patch disclosure and exploitation, while simultaneously profiting from 'LLMJacking' to resell compromised cloud resources.",
+            "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+            "timestamp": 1794837600000,
+            "date": "2026-11-16"
+        },
+        {
+            "title": "OpenAI reportedly folds robotics team into core research - The Rundown AI",
+            "summary_en": "OpenAI has reportedly integrated its robotics team into its core research division, signaling a strategic shift toward utilizing general-purpose models like GPT-6 Astra to control robotic systems. While internal staff have disputed reports of a formal reorganization, the move highlights an industry-wide effort to determine if foundation models can replace specialized hardware-focused AI.",
+            "link": "https://www.therundown.ai/news/openai-robotics-team-core-research-general-models",
+            "timestamp": 1794840318000,
+            "date": "2026-11-16"
+        },
         {
             "title": "Apple launches research study to explore the use of AI for health - Apple",
             "summary_en": "Apple has launched a research study with OpenEvidence to investigate how users interact with conversational health AI, aiming to improve the responsible design of future tools. The study, involving up to 200,000 participants, will analyze trust and comprehension while strictly prohibiting the use of collected data for model training.",
@@ -671,34 +699,6 @@
             "summary_en": "Apple introduced the new iMac powered by the M6 chip, which features a 12-core CPU and GPU with specialized Neural Accelerators for enhanced performance. The hardware delivers up to 5x faster on-device AI capabilities compared to the M4, supporting advanced features like Siri AI and local model processing.",
             "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6",
             "timestamp": 1793146885000,
-            "date": "2026-10-28"
-        },
-        {
-            "title": "An update from Amazon engineering leadership on the role of the developer in the age of AI - About Amazon",
-            "summary_en": "Amazon engineering leadership has updated its software developer guidelines to embrace the 'Renaissance Developer' model, which integrates AI tools with human judgment. While the company acknowledges that AI is fundamentally shifting engineering practices, it emphasizes that long-term outcomes and customer impact remain the core metrics for success.",
-            "link": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
-            "timestamp": 1793123814000,
-            "date": "2026-10-27"
-        },
-        {
-            "title": "Anthropic lays out drug R&D ambitions, risks in mammoth IPO filing - Fierce Biotech",
-            "summary_en": "In its recent IPO filing, Anthropic announced plans to pivot beyond software by building its own molecular biology lab and deploying AI agents to operate laboratory equipment. The company aims to leverage its 'Powerful AI' to accelerate drug discovery, though it acknowledges significant scientific and operational risks in this strategic expansion.",
-            "link": "https://www.fiercebiotech.com/biotech/anthropic-extols-ais-drug-rd-potential-including-risks-mammoth-ipo-filing",
-            "timestamp": 1793029474000,
-            "date": "2026-10-26"
-        },
-        {
-            "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering | TechCrunch - TechCrunch",
-            "summary_en": "Google DeepMind has introduced Genie 4, a world model capable of generating photorealistic, interactive environments with real-time audio and physics-based interactions. The model, now in research preview, integrates with Gemini to support advanced use cases like robotic simulation and rapid creative prototyping.",
-            "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
-            "timestamp": 1793118657000,
-            "date": "2026-10-27"
-        },
-        {
-            "title": "OpenAI Plans to Buy Google AI Chips to Further Diversify Compute Strategy as Nvidia Faces New Competition - TradingKey",
-            "summary_en": "OpenAI is in talks to purchase Google’s Tensor Processing Units (TPUs) as part of a broader strategy to diversify its infrastructure beyond Nvidia and reduce rising computing costs. This move, coupled with its collaboration with Broadcom on custom 'Jalapeno' chips, signals a significant shift toward a multi-vendor hardware ecosystem.",
-            "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262245456-openai-plans-purchase-google-ai-chips-nvidia-competition-tradingkey",
-            "timestamp": 1793167965000,
             "date": "2026-10-28"
         }
     ]
