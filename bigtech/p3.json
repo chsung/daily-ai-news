@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-11-14 20:11:13",
+    "last_update": "2026-11-16 23:53:03",
     "articles": [
+        {
+            "company": "xAI",
+            "timestamp": 1792454400000,
+            "date": "2026-10-20",
+            "title": "Using Grok Bot to detect and respond to incidents",
+            "summary_kr": "Grok Bot의 새로운 AI 기능인 IncidentWatch와 IncidentSweep은 실시간 티켓 급증을 감지하여 사고를 조기에 파악하고, 승인 기반의 배치 처리를 통해 대규모 티켓 응대 효율을 획기적으로 개선합니다.",
+            "summary_en": "Grok Bot's new AI features, IncidentWatch and IncidentSweep, enable early incident detection through ticket spike monitoring and drastically improve response efficiency via automated, approval-based batch ticket resolution.",
+            "link": "https://x.ai/news/incident-sweep"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1792411200000,
+            "date": "2026-10-19",
+            "title": "Advancing coding in low‑resource programming languages",
+            "summary_kr": "최신 AI 모델은 코볼과 포트란 등 데이터가 부족한 프로그래밍 언어의 코드 생성 및 마이그레이션 성능을 획기적으로 개선하며, 비용 효율성까지 동시에 확보했습니다.",
+            "summary_en": "The latest AI models demonstrate significant improvements in coding and migration capabilities for low-resource languages like COBOL and Fortran, while delivering higher accuracy at a lower cost.",
+            "link": "https://openai.com/index/low-resource-programming-languages"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791849600000,
+            "date": "2026-10-13",
+            "title": "Redesigning source control at Anthropic",
+            "summary_kr": "앤스로픽은 AI 에이전트의 폭발적인 코드 생성량으로 인한 기존 깃(Git)의 한계를 극복하기 위해, 상시 연결 환경에 최적화된 독자적인 버전 관리 시스템 'Scion'을 구축했습니다.",
+            "summary_en": "To overcome the limitations of Git in the face of explosive code generation by AI agents, Anthropic built 'Scion,' a proprietary version control system optimized for always-online agentic workflows.",
+            "link": "https://www.anthropic.com/research/redesigning-source-control"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791763200000,
+            "date": "2026-10-12",
+            "title": "Strengthening our defenses against distillation attacks",
+            "summary_kr": "앤스로픽(Anthropic)은 모델의 추론 과정을 보호하는 신규 방어 체계를 도입하여, 인가되지 않은 모델 복제(지식 증류) 시도를 90~99% 차단하는 성과를 거두었습니다. 이는 기술 유출 방지 및 국가 안보 리스크 관리를 위해 필수적인 조치입니다.",
+            "summary_en": "Anthropic has implemented new defense mechanisms to protect model reasoning, successfully reducing unauthorized model distillation attempts by 90-99% to mitigate security risks and prevent the illicit replication of frontier capabilities.",
+            "link": "https://www.anthropic.com/news/distillation-defenses"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790121600000,
+            "date": "2026-09-23",
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+            "summary_kr": "앤스로픽의 AI 모델 클로드(Claude)가 인간의 최소한의 개입만으로 방대한 DNA 데이터를 분석해 CRISPR와 유사한 특성을 가진 새로운 효소 시스템을 독자적으로 발견했습니다.",
+            "summary_en": "Anthropic's AI model, Claude, autonomously discovered a novel enzyme system with CRISPR-like properties by analyzing massive DNA datasets with minimal human intervention.",
+            "link": "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1788220800000,
+            "date": "2026-09-01",
+            "title": "Developing Enterprise Frontier Safeguards with our customers",
+            "summary_kr": "앤스로픽은 고객이 직접 제어하는 클라우드 인프라에 데이터를 저장하여 제로 데이터 보존(ZDR)의 프라이버시와 고도화된 오남용 탐지 기능을 동시에 제공하는 '엔터프라이즈 프런티어 세이프가드(EFS)'를 발표했습니다.",
+            "summary_en": "Anthropic has announced 'Enterprise Frontier Safeguards' (EFS), a solution that balances zero data retention privacy with advanced misuse detection by storing data in customer-controlled cloud infrastructure.",
+            "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
+        },
         {
             "company": "Anthropic",
             "timestamp": 1788134400000,
@@ -846,60 +900,6 @@
             "summary_kr": "2026 마이크로소프트 디지털 방어 보고서는 AI가 공격자의 역량을 고도화하고 시스템 연결성을 확장함에 따라, 기존의 보안 기본 원칙을 AI 생태계 전반에 통합하는 포괄적인 방어 전략이 필수적임을 강조합니다.",
             "summary_en": "The 2026 Microsoft Digital Defense Report highlights that as AI enhances attacker capabilities and system interconnectedness, organizations must integrate foundational security principles into their broader, evolving AI ecosystems.",
             "link": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790957700000,
-            "date": "2026-10-02",
-            "title": "A model guide for the GPT-6 family",
-            "summary_kr": "GPT-6 제품군은 작업 성격에 맞춰 적절한 모델과 추론 강도를 선택하고, 캐싱 및 압축 기술을 통해 효율성과 비용을 최적화하는 전략적 운영 가이드를 제시합니다.",
-            "summary_en": "This guide outlines strategies for optimizing GPT-6 performance by matching models and reasoning levels to specific tasks while leveraging caching and compaction to balance efficiency, latency, and cost.",
-            "link": "https://openai.com/index/practical-guide-building-gpt-6"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790953200000,
-            "date": "2026-10-02",
-            "title": "The latest AI news we announced in September 2026",
-            "summary_kr": "구글은 2026년 9월, 고도화된 추론 능력과 100만 토큰 컨텍스트 윈도우를 갖춘 'Gemini 4 Argon'을 필두로 사이버 보안, 음성 모델, 앱 연동성을 강화한 차세대 AI 기술을 대거 발표했습니다.",
-            "summary_en": "In September 2026, Google unveiled its next-generation AI portfolio, headlined by the advanced Gemini 4 Argon model, alongside significant updates in cybersecurity, expressive voice capabilities, and integrated application workflows.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790899200000,
-            "date": "2026-10-02",
-            "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-            "summary_kr": "앤스로픽은 기업 현장의 AI 인재 부족 문제를 해결하기 위해 1억 달러를 투자하여 2027년까지 1만 명의 '프런티어 배포 엔지니어(FDE)'를 양성하는 '클로드 프런티어 아카데미'를 출범했습니다.",
-            "summary_en": "Anthropic has launched the 'Claude Frontier Academy' with a $100 million investment, aiming to train 10,000 'Frontier Deployed Engineers' by 2027 to bridge the critical enterprise AI talent gap.",
-            "link": "https://www.anthropic.com/news/claude-frontier-academy"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1790899200000,
-            "date": "2026-10-02",
-            "title": "Chatham scales its capital markets expertise with OpenAI",
-            "summary_kr": "채텀 파이낸셜(Chatham Financial)은 오픈AI의 코덱스(Codex)와 GPT 모델을 도입하여 자본 시장 워크플로우를 혁신하고, 거래 검증 시간을 30분에서 4분 미만으로 단축하며 업무 효율성을 극대화했습니다.",
-            "summary_en": "Chatham Financial has optimized its capital markets operations by integrating OpenAI’s Codex and GPT models, successfully reducing trade validation time from 30 minutes to under 4 minutes while enhancing workflow accuracy.",
-            "link": "https://openai.com/index/chatham-financial"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1790897400000,
-            "date": "2026-10-01",
-            "title": "Our Project Suncatcher prototype satellite is in orbit.",
-            "summary_kr": "구글이 스페이스X와 협력하여 우주 환경에서 머신러닝 인프라의 확장 가능성을 검증하기 위한 '프로젝트 선캐처'의 프로토타입 위성을 성공적으로 발사했습니다.",
-            "summary_en": "Google has successfully launched its 'Project Suncatcher' prototype satellite with SpaceX to explore the viability of scalable machine learning infrastructure in space.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1790890553000,
-            "date": "2026-10-01",
-            "title": "Our first streaming transcription model debuts at no. 1 on Artificial Analysis | Microsoft AI",
-            "summary_kr": "마이크로소프트가 업계 최고 수준의 정확도와 저지연성을 갖춘 실시간 음성 인식 모델 'MAI-Transcribe-2-Streaming'과 다국어 지원에 최적화된 'MAI-Voice-2.1' 시리즈를 출시했습니다.",
-            "summary_en": "Microsoft has launched its top-ranked, low-latency 'MAI-Transcribe-2-Streaming' model alongside the versatile 'MAI-Voice-2.1' series, enabling faster, high-quality, and seamless conversational AI experiences.",
-            "link": "https://microsoft.ai/news/our-first-streaming-transcription-model"
         }
     ]
 }
