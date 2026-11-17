@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-11-16 23:53:03",
+    "last_update": "2026-11-17 23:12:28",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1794952800000,
+            "date": "2026-11-17",
+            "title": "How genome mapping can help researchers better understand disease",
+            "summary_kr": "구글 딥마인드의 AlphaGenome은 90억 개의 DNA 변이 영향을 예측하는 AlphaGenome Atlas를 통해 유전 질환의 원인 규명 및 치료제 개발을 가속화하고 있습니다.",
+            "summary_en": "Google DeepMind's AlphaGenome accelerates the identification of disease-causing genetic variants and drug discovery by providing predictive impact scores through its comprehensive AlphaGenome Atlas.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794939016000,
+            "date": "2026-11-17",
+            "title": "Microsoft and Salesforce Announce Copilotforce Partnership at Ignite",
+            "summary_kr": "마이크로소프트와 세일즈포스가 파트너십을 통해 세일즈포스의 데이터와 업무 프로세스를 마이크로소프트 코파일럿 환경에 통합하여 엔터프라이즈 생산성을 극대화합니다.",
+            "summary_en": "Microsoft and Salesforce have partnered to integrate Salesforce data and business processes into Microsoft Copilot, enabling seamless enterprise productivity and AI-driven decision-making.",
+            "link": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794938424000,
+            "date": "2026-11-17",
+            "title": "Apollo Hospitals and Microsoft build AI-powered DTH agent to transform patient safety reviews",
+            "summary_kr": "아폴로 병원과 마이크로소프트는 환자 안전 검토 과정을 자동화하는 AI 에이전트를 도입하여, 데이터 분석 시간을 대폭 단축하고 의료진이 고위험 사례 관리에 집중할 수 있는 환경을 구축했습니다.",
+            "summary_en": "Apollo Hospitals and Microsoft have developed an AI-powered agent to automate patient safety reviews, significantly reducing data analysis time and allowing clinicians to focus on complex, high-priority medical cases.",
+            "link": "https://news.microsoft.com/source/features/digital-transformation/at-apollo-hospitals-clinicians-use-a-continuous-learning-ai-system-to-improve-patient-safety-reviews"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794936600000,
+            "date": "2026-11-17",
+            "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+            "summary_kr": "긴 문맥 처리 시 발생하는 연산 비용을 줄이기 위해 핵심 토큰만 선택적으로 참조하는 '희소 어텐션(Sparse Attention)'의 하드웨어 친화적 설계 전략과 최적화 가이드를 제시합니다.",
+            "summary_en": "This article provides a hardware-aware design guide and strategies for implementing sparse attention to mitigate the computational burden of processing long-context sequences in LLMs.",
+            "link": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794934800000,
+            "date": "2026-11-17",
+            "title": "Integrating QPUs into Supercomputing Centers Using Slurm HRES Plugins",
+            "summary_kr": "Slurm 26.11에 도입된 Hierarchical Resources(HRES) 플러그인은 양자 프로세서(QPU)를 HPC 클러스터의 네이티브 리소스로 통합하여, 파편화된 기존의 복잡한 스케줄링 문제를 해결하고 양자-고전 하이브리드 슈퍼컴퓨팅의 표준화를 앞당기고 있습니다.",
+            "summary_en": "The introduction of Hierarchical Resources (HRES) plugins in Slurm 26.11 enables native, cluster-level scheduling of QPUs, resolving existing integration fragmentation and accelerating the standardization of hybrid quantum-classical supercomputing.",
+            "link": "https://developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794934337000,
+            "date": "2026-11-17",
+            "title": "Can AI help build a healthier future? - Microsoft Research",
+            "summary_kr": "마이크로소프트 리서치의 전문가들이 모여 AI가 의료 분야에서 미치는 혁신적 영향력을 분석하고, 향후 기술 발전과 실제 임상 적용을 위한 과제 및 미래 청사진을 논의합니다.",
+            "summary_en": "Microsoft Research experts explore the transformative potential of AI in medicine, discussing future breakthroughs in healthcare and the critical steps needed to bridge the gap between research and clinical application.",
+            "link": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794863189000,
+            "date": "2026-11-16",
+            "title": "What drives the cost of AI at work - Source",
+            "summary_kr": "제공된 텍스트는 마이크로소프트의 기업 웹사이트 내비게이션 및 카테고리 정보일 뿐, AI 비용의 동인에 대한 구체적인 분석 내용을 담고 있지 않습니다.",
+            "summary_en": "The provided text contains only website navigation and category information for Microsoft, lacking any substantive analysis regarding the drivers of AI costs.",
+            "link": "https://news.microsoft.com/source/2026/11/16/what-ai-at-work-really-costs"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790899200000,
+            "date": "2026-10-02",
+            "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+            "summary_kr": "앤스로픽은 기업 내 AI 도입의 핵심인 기술 인력 부족 문제를 해결하기 위해 1억 달러를 투자하여 2027년까지 1만 명의 '프론티어 배포 엔지니어'를 양성할 계획입니다.",
+            "summary_en": "Anthropic is investing $100 million to train 10,000 'Frontier Deployed Engineers' by 2027, aiming to bridge the critical AI talent gap within global enterprises.",
+            "link": "https://www.anthropic.com/news/claude-frontier-academy"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1794868200000,
@@ -828,78 +900,6 @@
             "summary_kr": "OpenAI는 전 미 육군 장관 댄 드리스콜을 국가 안보 현대화 담당 수석 고문으로 영입하여 민주적 가치에 기반한 AI 기술의 안보 협력 및 정책 고도화를 추진합니다.",
             "summary_en": "OpenAI has appointed former U.S. Army Secretary Dan Driscoll as Senior Counselor for National Security Modernization to advance the responsible integration of AI into global security strategies and democratic institutions.",
             "link": "https://openai.com/index/dan-driscoll-joins-openai"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1789689600000,
-            "date": "2026-09-18",
-            "title": "Partnering with Accenture on embedded evaluation",
-            "summary_kr": "앤스로픽은 액센츄어와 협력하여 AI 모델 개발 과정에 외부 평가자를 직접 참여시키는 '임베디드 평가' 모델을 도입하며, 이를 위해 향후 5년간 10억 달러 이상을 투자할 계획입니다.",
-            "summary_en": "Anthropic is partnering with Accenture to pioneer 'embedded evaluation,' integrating independent evaluators directly into its AI development process, with a commitment to invest over $1 billion in this initiative over the next five years.",
-            "link": "https://www.anthropic.com/news/accenture-embedded-evaluation"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793659385000,
-            "date": "2026-11-02",
-            "title": "Keep Distributed Training Running with Automated Workload Recovery",
-            "summary_kr": "NVIDIA Recovery는 AI 분산 학습 시 발생하는 하드웨어 및 소프트웨어 장애를 자동 감지하고 복구하여, 수동 개입을 최소화하고 학습 효율성과 생산성을 극대화하는 클러스터 수준의 자동화 서비스입니다.",
-            "summary_en": "NVIDIA Recovery is a cluster-level automated service that detects and restores distributed AI training jobs from interruptions, minimizing manual intervention to maximize compute efficiency and training throughput.",
-            "link": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1793656105000,
-            "date": "2026-11-02",
-            "title": "Lessons from building Copilot Cowork",
-            "summary_kr": "마이크로소프트는 AI 에이전트를 활용해 4.5개월 만에 'Copilot Cowork'를 개발했으며, 명확한 명세 작성과 좁은 범위의 에이전트 운용이라는 핵심 원칙을 통해 개발 효율성과 안정성을 동시에 확보했습니다.",
-            "summary_en": "Microsoft developed 'Copilot Cowork' in just 4.5 months by leveraging AI agents, establishing a high-velocity development model centered on precise technical specifications and narrow, bounded agent tasks.",
-            "link": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793642400000,
-            "date": "2026-11-02",
-            "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
-            "summary_kr": "엔비디아의 'AI 클러스터 런타임(AICR)'은 복잡한 설정 과정을 자동화하여 차세대 Vera Rubin GPU 아키텍처를 쿠버네티스 환경에서 즉시 안정적으로 운영할 수 있도록 지원합니다.",
-            "summary_en": "NVIDIA’s AI Cluster Runtime (AICR) simplifies complex configurations, enabling seamless Day 1 deployment and optimization of the next-generation Vera Rubin GPU architecture within Kubernetes environments.",
-            "link": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1793641500000,
-            "date": "2026-11-02",
-            "title": "The latest AI news we announced in October 2026",
-            "summary_kr": "구글은 2026년 10월, 최신 AI 모델인 Gemini 4 시리즈(Argon·Carbon)와 실시간 시뮬레이션 Genie 4를 공개하며 혁신을 가속화했습니다. 또한 SynthID 탐지기 확대와 안드로이드 보안 강화 등 AI 안전성과 활용성을 높이는 다양한 기술적 성과를 발표했습니다.",
-            "summary_en": "Google accelerated AI innovation in October 2026 by launching the Gemini 4 series and Genie 4 for real-time simulation while bolstering ecosystem safety through expanded SynthID detection and advanced Android scam protection.",
-            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793638800000,
-            "date": "2026-11-02",
-            "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
-            "summary_kr": "NVIDIA Cosmos는 물리 AI 개발을 위한 세계 모델 플랫폼으로, 학습부터 추론, 배포까지 전 과정을 지원하는 모듈형 프레임워크와 NIM 마이크로서비스를 제공합니다.",
-            "summary_en": "NVIDIA Cosmos is a world foundation model platform that provides a modular framework and NIM microservices to streamline the development, training, and deployment of physical AI applications.",
-            "link": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793635200000,
-            "date": "2026-11-02",
-            "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
-            "summary_kr": "NVIDIA Workload Map은 다양한 쿠버네티스 워크로드에 대한 공통된 추상화 계층을 제공하여, 프레임워크별 어댑터 개발 없이도 효율적인 AI 인프라 운영과 스케줄링을 가능하게 합니다.",
-            "summary_en": "NVIDIA Workload Map provides a unified abstraction for Kubernetes workloads, enabling seamless integration and scaling across various AI frameworks without the need for custom, framework-specific adapters.",
-            "link": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793631600000,
-            "date": "2026-11-02",
-            "title": "Introducing the Grid Protectors Program",
-            "summary_kr": "AI 데이터 센터의 급증하는 전력 수요에 대응하여, 전력망 과부하 시 유연하게 전력 소비를 줄이고 인프라 비용을 분담하는 '그리드 프로텍터스(Grid Protectors)' 프로그램을 도입합니다.",
-            "summary_en": "The 'Grid Protectors Program' was launched to manage the rising electricity demand of AI data centers by implementing flexible power consumption and sharing infrastructure costs to ensure grid reliability for local communities.",
-            "link": "https://openai.com/index/grid-protectors-program"
         }
     ]
 }

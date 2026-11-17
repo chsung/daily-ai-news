@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-11-16 23:53:03",
+    "last_update": "2026-11-17 23:12:28",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1789689600000,
+            "date": "2026-09-18",
+            "title": "Partnering with Accenture on embedded evaluation",
+            "summary_kr": "앤스로픽은 액센츄어와 협력하여 AI 모델 개발 과정에 외부 평가자를 직접 참여시키는 '임베디드 평가' 모델을 도입하며, 이를 위해 향후 5년간 10억 달러 이상을 투자할 계획입니다.",
+            "summary_en": "Anthropic is partnering with Accenture to pioneer 'embedded evaluation,' integrating independent evaluators directly into its AI development process, with a commitment to invest over $1 billion in this initiative over the next five years.",
+            "link": "https://www.anthropic.com/news/accenture-embedded-evaluation"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793659385000,
+            "date": "2026-11-02",
+            "title": "Keep Distributed Training Running with Automated Workload Recovery",
+            "summary_kr": "NVIDIA Recovery는 AI 분산 학습 시 발생하는 하드웨어 및 소프트웨어 장애를 자동 감지하고 복구하여, 수동 개입을 최소화하고 학습 효율성과 생산성을 극대화하는 클러스터 수준의 자동화 서비스입니다.",
+            "summary_en": "NVIDIA Recovery is a cluster-level automated service that detects and restores distributed AI training jobs from interruptions, minimizing manual intervention to maximize compute efficiency and training throughput.",
+            "link": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793656105000,
+            "date": "2026-11-02",
+            "title": "Lessons from building Copilot Cowork",
+            "summary_kr": "마이크로소프트는 AI 에이전트를 활용해 4.5개월 만에 'Copilot Cowork'를 개발했으며, 명확한 명세 작성과 좁은 범위의 에이전트 운용이라는 핵심 원칙을 통해 개발 효율성과 안정성을 동시에 확보했습니다.",
+            "summary_en": "Microsoft developed 'Copilot Cowork' in just 4.5 months by leveraging AI agents, establishing a high-velocity development model centered on precise technical specifications and narrow, bounded agent tasks.",
+            "link": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793642400000,
+            "date": "2026-11-02",
+            "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+            "summary_kr": "엔비디아의 'AI 클러스터 런타임(AICR)'은 복잡한 설정 과정을 자동화하여 차세대 Vera Rubin GPU 아키텍처를 쿠버네티스 환경에서 즉시 안정적으로 운영할 수 있도록 지원합니다.",
+            "summary_en": "NVIDIA’s AI Cluster Runtime (AICR) simplifies complex configurations, enabling seamless Day 1 deployment and optimization of the next-generation Vera Rubin GPU architecture within Kubernetes environments.",
+            "link": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1793641500000,
+            "date": "2026-11-02",
+            "title": "The latest AI news we announced in October 2026",
+            "summary_kr": "구글은 2026년 10월, 최신 AI 모델인 Gemini 4 시리즈(Argon·Carbon)와 실시간 시뮬레이션 Genie 4를 공개하며 혁신을 가속화했습니다. 또한 SynthID 탐지기 확대와 안드로이드 보안 강화 등 AI 안전성과 활용성을 높이는 다양한 기술적 성과를 발표했습니다.",
+            "summary_en": "Google accelerated AI innovation in October 2026 by launching the Gemini 4 series and Genie 4 for real-time simulation while bolstering ecosystem safety through expanded SynthID detection and advanced Android scam protection.",
+            "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793638800000,
+            "date": "2026-11-02",
+            "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+            "summary_kr": "NVIDIA Cosmos는 물리 AI 개발을 위한 세계 모델 플랫폼으로, 학습부터 추론, 배포까지 전 과정을 지원하는 모듈형 프레임워크와 NIM 마이크로서비스를 제공합니다.",
+            "summary_en": "NVIDIA Cosmos is a world foundation model platform that provides a modular framework and NIM microservices to streamline the development, training, and deployment of physical AI applications.",
+            "link": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793635200000,
+            "date": "2026-11-02",
+            "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
+            "summary_kr": "NVIDIA Workload Map은 다양한 쿠버네티스 워크로드에 대한 공통된 추상화 계층을 제공하여, 프레임워크별 어댑터 개발 없이도 효율적인 AI 인프라 운영과 스케줄링을 가능하게 합니다.",
+            "summary_en": "NVIDIA Workload Map provides a unified abstraction for Kubernetes workloads, enabling seamless integration and scaling across various AI frameworks without the need for custom, framework-specific adapters.",
+            "link": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793631600000,
+            "date": "2026-11-02",
+            "title": "Introducing the Grid Protectors Program",
+            "summary_kr": "AI 데이터 센터의 급증하는 전력 수요에 대응하여, 전력망 과부하 시 유연하게 전력 소비를 줄이고 인프라 비용을 분담하는 '그리드 프로텍터스(Grid Protectors)' 프로그램을 도입합니다.",
+            "summary_en": "The 'Grid Protectors Program' was launched to manage the rising electricity demand of AI data centers by implementing flexible power consumption and sharing infrastructure costs to ensure grid reliability for local communities.",
+            "link": "https://openai.com/index/grid-protectors-program"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1793610000000,
@@ -828,78 +900,6 @@
             "summary_kr": "OpenAI는 대화의 맥락과 사용자 의도를 지속적으로 파악하는 맞춤형 LLM 기반 광고 시스템을 구축하여, 사용자 경험을 저해하지 않으면서도 정교한 타겟팅과 신뢰도를 동시에 확보했습니다.",
             "summary_en": "OpenAI has developed a custom LLM-based ad stack that interprets evolving conversation context and user intent to deliver relevant advertising without compromising the neutrality or flow of the ChatGPT experience.",
             "link": "https://openai.com/index/building-chatgpt-ad-stack"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792558200000,
-            "date": "2026-10-21",
-            "title": "Using thousands of AI agents to uncover new leads in biological data",
-            "summary_kr": "OpenAI와 스크립스 연구소는 수천 개의 AI 에이전트를 활용해 방대한 생물학적 데이터를 수 분 만에 분석하고, 질병 연구를 위한 새로운 잠재적 통찰을 도출하는 '분산형 생물학적 추론' 방식을 선보였습니다.",
-            "summary_en": "OpenAI and Scripps Research have introduced 'distributed biological reasoning,' utilizing thousands of AI agents to analyze massive datasets in minutes and uncover novel leads for disease research.",
-            "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792540800000,
-            "date": "2026-10-21",
-            "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-            "summary_kr": "본 보고서는 AI가 사이버 보안 환경을 변화시키는 가운데, 공격자보다 방어자에게 먼저 최첨단 AI 기술을 지원하고 안전망을 구축해야 한다는 민주적 거버넌스 전략을 제시합니다.",
-            "summary_en": "This blueprint outlines a strategic framework for empowering cyber defenders with advanced AI, emphasizing the urgent need for robust safety standards, modernized security infrastructure, and collaborative public-private governance.",
-            "link": "https://openai.com/index/empowering-cyber-defenders"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1787702400000,
-            "date": "2026-08-26",
-            "title": "Enabling independent research on how people use Claude",
-            "summary_kr": "앤스로픽은 외부 연구 기관들이 자사의 비공개 데이터를 독립적으로 분석할 수 있도록 지원하는 프로그램을 도입하여, AI와 인간의 실제 상호작용에 대한 투명하고 객관적인 연구 환경을 마련했습니다.",
-            "summary_en": "Anthropic has launched a program enabling external researchers to independently analyze proprietary usage data, fostering transparent and objective insights into real-world human-AI interactions.",
-            "link": "https://www.anthropic.com/research/enabling-independent-research"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1792513775000,
-            "date": "2026-10-20",
-            "title": "Microsoft opens €1m Dream Space hub at its data centre campus in Grange Castle to bring STEM and AI skills to young people in surrounding communities - Source EMEA",
-            "summary_kr": "마이크로소프트가 아일랜드 그레인지 캐슬 데이터센터 캠퍼스에 100만 유로 규모의 '드림 스페이스' 허브를 개소하여 지역 학생들에게 STEM 및 AI 교육과 디지털 인프라 분야의 진로 탐색 기회를 제공합니다.",
-            "summary_en": "Microsoft has opened a €1 million 'Dream Space' hub at its Grange Castle data centre campus, providing local students with STEM and AI education along with insights into careers within the digital infrastructure sector.",
-            "link": "https://news.microsoft.com/source/emea/features/microsoft-opens-e1m-dream-space-hub-at-its-data-centre-campus-in-grange-castle-to-bring-stem-and-ai-skills-to-young-people-in-surrounding-communities"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1792512000000,
-            "date": "2026-10-20",
-            "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
-            "summary_kr": "구글의 AMIE는 AI가 진료 전 환자와 상세한 임상 대화를 수행해 정보를 수집함으로써, 의사가 행정적 절차 대신 환자와의 심층적인 협력 진료에 집중할 수 있도록 돕습니다.",
-            "summary_en": "Google's AMIE project leverages AI to conduct detailed clinical conversations with patients, allowing doctors to save time on information gathering and focus on collaborative care.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792490400000,
-            "date": "2026-10-20",
-            "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-            "summary_kr": "한 프랜차이즈 운영자가 ChatGPT Work를 활용해 메뉴 가격 책정 및 급여 정산 등 복잡한 데이터 분석 업무 시간을 최대 95% 단축하고, 연간 10만 달러 규모의 현금 흐름을 최적화했습니다.",
-            "summary_en": "A restaurant franchisee leveraged ChatGPT Work to automate complex data analysis, reducing pricing and payroll processing time by up to 95% while optimizing annual cash flow by $100,000.",
-            "link": "https://openai.com/index/ted-taylor-restaurant"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792454400000,
-            "date": "2026-10-20",
-            "title": "How Claude designed protein binders against scorpion neurotoxins",
-            "summary_kr": "앤스로픽의 AI 모델 '클로드'가 스콜피온 신경독에 결합하는 단백질 바인더 17종을 성공적으로 설계하며, AI가 소외 질환 치료제 개발의 속도를 획기적으로 높일 수 있는 가능성을 입증했습니다.",
-            "summary_en": "Anthropic’s Claude successfully designed 17 protein binders against scorpion neurotoxins, demonstrating the potential for AI to significantly accelerate drug discovery for neglected tropical diseases.",
-            "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792454400000,
-            "date": "2026-10-20",
-            "title": "OpenAI acquires Orchestra Bio",
-            "summary_kr": "OpenAI는 신약 개발의 복잡한 워크플로우를 자동화하는 'Orchestra Bio'를 인수하여, 자사의 생명과학 AI 플랫폼인 'Rosalind'와 결합함으로써 신약 개발 속도를 획기적으로 단축하고자 합니다.",
-            "summary_en": "OpenAI has acquired drug development platform Orchestra Bio to integrate its technology with 'Rosalind,' aiming to leverage AI agents to accelerate the complex process of bringing new medicines to patients.",
-            "link": "https://openai.com/index/openai-to-acquire-orchestra-bio"
         }
     ]
 }
