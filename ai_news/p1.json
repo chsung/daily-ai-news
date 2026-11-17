@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-16 23:42:12",
+    "last_update": "2026-11-17 11:38:06",
     "articles": [
+        {
+            "title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries - SiliconANGLE",
+            "summary_en": "Nvidia unveiled the Rubin HPC chip, slated for a 2028 release, which features over 50,000 CUDA cores and sparse data acceleration to significantly enhance high-performance scientific simulations. The company also expanded its CUDA-X library suite with new specialized tools for astrophysics and cellular biology research.",
+            "link": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries",
+            "timestamp": 1794879900000,
+            "date": "2026-11-17"
+        },
+        {
+            "title": "Nvidia launches Nemotron for Science to help researchers build AI agents for discovery - t2ONLINE",
+            "summary_en": "Nvidia launched Nemotron for Science, a toolkit comprising the Nemotron 3.5 Super VL model and the LitmusBench v0.2 chemistry dataset to help researchers develop specialized AI agents for drug discovery and protein design. Early adopters like Lila Sciences and Terray Therapeutics report that the model achieves high-performance results at significantly lower inference costs compared to existing frontier models.",
+            "link": "https://t2online.in/tech/tech-news/nvidia-launches-nemotron-for-science-to-help-researchers-build-ai-agents-for-discovery/2009296",
+            "timestamp": 1794898920000,
+            "date": "2026-11-17"
+        },
         {
             "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold - Google Cloud",
             "summary_en": "Google Threat Intelligence reports that cyber adversaries have reached a critical inflection point by moving beyond manual prompting to using autonomous multi-agent frameworks like ARTEX and PentAGI. These tools enable threat actors to execute multi-stage intrusions at machine speed, automate vulnerability exploitation, and scale operations across the cybercrime spectrum.",
@@ -686,20 +700,6 @@
             "link": "https://www.oracle.com/news/announcement/ai-world-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-2026-10-27",
             "timestamp": 1793117495000,
             "date": "2026-10-27"
-        },
-        {
-            "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs - The Decoder",
-            "summary_en": "Google has expanded Android Studio with 'Bring Your Own Agent' support for over 40 coding assistants and new CLI tools that utilize Android Skills to improve development efficiency. Internal testing revealed that these AI integrations helped agents complete UI tasks 77 percent faster while significantly reducing token consumption.",
-            "link": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis",
-            "timestamp": 1793206874000,
-            "date": "2026-10-28"
-        },
-        {
-            "title": "Apple unveils new iMac with M6, delivering a major boost in performance and AI capabilities - Apple",
-            "summary_en": "Apple introduced the new iMac powered by the M6 chip, which features a 12-core CPU and GPU with specialized Neural Accelerators for enhanced performance. The hardware delivers up to 5x faster on-device AI capabilities compared to the M4, supporting advanced features like Siri AI and local model processing.",
-            "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6",
-            "timestamp": 1793146885000,
-            "date": "2026-10-28"
         }
     ]
 }
