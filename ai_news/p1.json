@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-17 11:38:06",
+    "last_update": "2026-11-17 22:50:30",
     "articles": [
+        {
+            "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows | Amazon Web Services - Amazon Web Services (AWS)",
+            "summary_en": "AWS has introduced new AI data preparation capabilities for Amazon SageMaker, allowing developers to automate labeling, synthetic data generation, and quality evaluation through Python SDK APIs. This update aims to accelerate model development by enabling teams to build clean, representative datasets directly within their existing IDEs.",
+            "link": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows",
+            "timestamp": 1794944401000,
+            "date": "2026-11-17"
+        },
+        {
+            "title": "Apple, OpenEvidence launch conversational health AI study and app - Healthcare Dive",
+            "summary_en": "Apple is partnering with OpenEvidence to launch a research study involving up to 200,000 U.S. participants to analyze how users interact with and trust conversational AI in a healthcare context. The initiative seeks to improve the clarity and clinical accuracy of health-related AI responses while ensuring users retain control over their personal health data.",
+            "link": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714",
+            "timestamp": 1794839966000,
+            "date": "2026-11-16"
+        },
+        {
+            "title": "A governed AI-driven development lifecycle for financial services with Kiro and AWS Frontier Agents | Amazon Web Services - Amazon Web Services (AWS)",
+            "summary_en": "AWS has launched a governed AI-driven development lifecycle (AI-DLC) utilizing specialized agents—Kiro, AWS Security Agent, and AWS DevOps Agent—to help financial institutions meet strict DORA compliance requirements. This workflow enables faster code delivery by automating security scans and release readiness checks while maintaining human oversight and traceable evidence for all production changes.",
+            "link": "https://aws.amazon.com/blogs/devops/a-governed-ai-driven-development-lifecycle-for-financial-services-with-kiro-and-aws-frontier-agents",
+            "timestamp": 1794850393000,
+            "date": "2026-11-16"
+        },
         {
             "title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries - SiliconANGLE",
             "summary_en": "Nvidia unveiled the Rubin HPC chip, slated for a 2028 release, which features over 50,000 CUDA cores and sparse data acceleration to significantly enhance high-performance scientific simulations. The company also expanded its CUDA-X library suite with new specialized tools for astrophysics and cellular biology research.",
@@ -679,27 +700,6 @@
             "link": "https://www.grandprix.com/news/fia-brings-aws-technology-into-future-f1-rule-development.html",
             "timestamp": 1793191140000,
             "date": "2026-10-28"
-        },
-        {
-            "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development - ServiceNow Newsroom",
-            "summary_en": "ServiceNow and OpenAI are expanding their partnership to integrate generative AI directly into corporate workflows, enabling users to execute governed actions and security tasks within ChatGPT. This collaboration also involves the creation of a 'Control Tower Alliance' to standardize AI governance and security across enterprise environments.",
-            "link": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-and-OpenAI-accelerate-enterprise-AI-from-models-and-operations-to-cybersecurity-and-agentic-development/default.aspx",
-            "timestamp": 1793218262000,
-            "date": "2026-10-28"
-        },
-        {
-            "title": "Claude AI Builds One-Click Chrome and 0-Click Linux Exploit Chains, Bypasses Android Lock Screen - CyberSecurityNews",
-            "summary_en": "Due to a technical connection error, specific details regarding the reported cybersecurity vulnerabilities—including the alleged exploitation of Chrome, Linux, and Android systems by Claude AI—could not be retrieved.",
-            "link": "https://cybersecuritynews.com/claude-ai-builds-exploit",
-            "timestamp": 1793190759000,
-            "date": "2026-10-28"
-        },
-        {
-            "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure - Oracle",
-            "summary_en": "NVIDIA and Oracle are scaling Oracle Cloud Infrastructure (OCI) to multi-gigawatt levels by deploying NVIDIA Vera Rubin systems and Vera CPUs. This infrastructure allows enterprises to scale CPU and GPU resources independently, optimizing performance for both heavy model training and the intensive processing required for AI agents.",
-            "link": "https://www.oracle.com/news/announcement/ai-world-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-2026-10-27",
-            "timestamp": 1793117495000,
-            "date": "2026-10-27"
         }
     ]
 }
