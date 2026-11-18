@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-17 22:49:42",
+    "last_update": "2026-11-18 11:22:57",
     "articles": [
+        {
+            "title": "볼보자동차, 엔비디아와 파트너십 확대 - 차세대 자율주행 안전 기술 개발 가속화 - 차세대 모델에 엔비디아 하이페리온 및 할로스 기술 결합한 신기술 도입 예정 - Naver Blog",
+            "summary_kr": "볼보자동차가 엔비디아와 파트너십을 확대하여 하이페리온 및 할로스 기술을 차세대 전기차에 도입하고, 운전자가 주행에 관여하지 않는 차세대 자율주행 안전 기술 개발을 본격화합니다.",
+            "link": "https://blog.naver.com/PostView.naver?blogId=racer_r1&logNo=224465018708",
+            "timestamp": 1793797945000,
+            "date": "2026-11-04"
+        },
+        {
+            "title": "유전 계획 수개월→수시간 목표…오픈AI·아부다비 국영석유사 협약 - 토큰포스트",
+            "summary_kr": "아부다비국영석유회사(ADNOC)가 오픈AI의 기업용 플랫폼 '프론티어'를 도입해 유전 개발 계획 수립 시간을 수개월에서 수 시간 단위로 단축하고, 원유 생산부터 판매까지의 의사결정을 AI로 통합 최적화합니다.",
+            "link": "https://www.tokenpost.kr/news/ai/432621",
+            "timestamp": 1793793462000,
+            "date": "2026-11-04"
+        },
+        {
+            "title": "앤트로픽, AI 출력물의 출처 증명하는 오픈소스 기술 공개 - 디일렉",
+            "summary_kr": "앤트로픽은 AI 모델의 결과물이 특정 모델에서 생성되었음을 암호학적으로 검증하는 '플래시프루브' 기술을 공개했습니다. 이 기술은 모델 가중치를 공개하지 않고도 모델 고유의 '지문'을 대조해 AI 서비스의 신뢰성과 투명성을 확보하는 데 기여할 전망입니다.",
+            "link": "https://www.thelec.kr/news/articleView.html?idxno=64903",
+            "timestamp": 1793784982000,
+            "date": "2026-11-04"
+        },
         {
             "title": "오픈AI, 우버 출신 '질 헤이즐베이커' CCAO로 영입…“AI 시대, 대중의 신뢰 확보가 핵심 과제” - 인공지능신문",
             "summary_kr": "오픈AI는 우버 출신의 질 헤이즐베이커를 최고기업대외협력책임자로 영입하며 사회적 신뢰 구축에 나섰습니다. AI의 영향력이 커짐에 따라 정책당국 및 대중과의 원활한 소통을 통해 기업의 사회적 책임을 강화하려는 전략입니다.",
@@ -678,27 +699,6 @@
             "summary_kr": "마이크로소프트가 2.8조 개의 파라미터를 갖춘 대규모 언어 모델 'MAI-베이스-2'의 사전학습을 완료했습니다.",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yZ3dta0EtQ05SWmxBd1JHcE9MMzNoXzlPcHZ0N0UyYWkxVDNzNHE3Y0MxaE5FX0xGU0tscFhPdlprX1RIOWsxek90Q2Ixc0tpMWlLWkpGc0tCa29PUzBNakpQMUY5dw?oc=5",
             "timestamp": 1792399339000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "MS, 英 에식스 1조6000억원 AI 데이터센터서 발 빼다…앵커 고객 이탈이 바꾸는 AI 인프라 판세 - https://www.didimkorea.net/",
-            "summary_kr": "마이크로소프트가 영국 에식스 지역의 1조 6,000억 원 규모 AI 데이터센터 건립 계획을 철회하며 AI 인프라 전략에 변화를 예고했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3NGE1eGVWeFk3UnBiVTZMbVFYaVNSczNSSjFPU3hJSFFsdncyRlMxVW50dnZDZnFndnphYW4tczlaZmtnMlBtRU41SVBzTG8?oc=5",
-            "timestamp": 1792426144000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "일레븐랩스, 대화형 AI 에이전트 구축 도구 '일레븐에이전트 아키텍트' 공개 - 디지틀조선일보",
-            "summary_kr": "일레븐랩스가 사용자들의 대화형 AI 에이전트 구축을 지원하는 전문 도구인 '일레븐에이전트 아키텍트'를 새롭게 공개했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TUnFrelZrWVZiQTgzSTdJZzJrcm1CQzhURHRYY2hwYkZIaTkxcHUxenNtaGdMMk1sbWVXODFYUUdlZjFuYnNkQW5yRS1yTUFZaWhLMEZUQUlnUFJuVjdXQWgtandDeW5rZWl4dUdLelQyblhBeWdoRHdPQdIBe0FVX3lxTE9TUnFrelZrWVZiQTgzSTdJZzJrcm1CQzhURHRYY2hwYkZIaTkxcHUxenNtaGdMMk1sbWVXODFYUUdlZjFuYnNkQW5yRS1yTUFZaWhLMEZUQUlnUFJuVjdXQWgtandDeW5rZWl4dUdLelQyblhBeWdoRHdPQQ?oc=5",
-            "timestamp": 1792409165000,
-            "date": "2026-10-19"
-        },
-        {
-            "title": "개인 AI 비서 스타트업 인스팅트, 2억5000만달러 투자 유치… 기업가치 25억달러로 급등 - Yellow.com",
-            "summary_kr": "개인 AI 비서 스타트업 인스팅트가 2억 5,000만 달러의 투자를 유치하며 기업가치를 25억 달러 규모로 끌어올렸습니다.",
-            "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNR3RlSVlkT0RSRDY3TkZvc1VOaTZpZm5lX25Mc1JNR09GbVJRMzFXUjBoX2xiaElxNlNNX1l0LXpVdm1VNUFJTEp0WjN2bVFENE9xVzgyR00wSjdnM085cVBGdHZTdW9ZNVVjRWdob2taYlRPc3VBQTV6WjQtdTJ0dlR3SkxITkoxUEwtMmdnX1ZLME1KR1pkVjltS3ZPeWxJV01qZWFYYkFoWVNWMUVqVHB2QkE0QVhKTnVKeWtUeXJNVkF4aFdYb29vMTJ6bGF5V1lZQ2lMR1lHS2hqWWhHb0ZSSXM0YlgwWUpDblJvQkNVSGRkVk1xVlY4T2I2d1FIY1R2S293a2RDMzhoZ182V2tTMDhpenRFWFZGYTRFd19rMmktYWptSUc4THdXaHBBZE5fRy15encxXzBEUHdOVzItWGlsbk5KTEh0STluSzlkUmFqdVR4Q20yY1FxS2VKeFVwSkw2NVdtODNzQk5nUTgydGwyeHRqbEdMdWdQcS1UY01ZZFMyOVdVbHFlN2t3WkNOSkFsUDV3dw?oc=5",
-            "timestamp": 1792411939000,
             "date": "2026-10-19"
         }
     ]

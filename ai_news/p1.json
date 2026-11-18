@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-17 22:50:30",
+    "last_update": "2026-11-18 11:23:37",
     "articles": [
+        {
+            "title": "NVIDIA Launches Open Science AI Models and 50,000-Question Chemistry Dataset for Research Agents - CDO Magazine",
+            "summary_en": "NVIDIA has released 'Nemotron for Science,' an open-source model suite and a 50,000-question chemistry dataset designed to accelerate specialized AI agent development for drug discovery and protein design. By providing these resources via Hugging Face, NVIDIA aims to help researchers improve model reasoning in scientific workflows while emphasizing the critical need for domain-specific data governance.",
+            "link": "https://www.cdomagazine.tech/aiml/nvidia-launches-open-science-ai-models-and-50000-question-chemistry-dataset-for-research-agents",
+            "timestamp": 1794864000000,
+            "date": "2026-11-16"
+        },
         {
             "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows | Amazon Web Services - Amazon Web Services (AWS)",
             "summary_en": "AWS has introduced new AI data preparation capabilities for Amazon SageMaker, allowing developers to automate labeling, synthetic data generation, and quality evaluation through Python SDK APIs. This update aims to accelerate model development by enabling teams to build clean, representative datasets directly within their existing IDEs.",
@@ -693,13 +700,6 @@
             "link": "https://www.thepharmaletter.com/biotech-news/anthropic-buys-mithril-to-test-ai-assisted-drug-development",
             "timestamp": 1793268912000,
             "date": "2026-10-29"
-        },
-        {
-            "title": "FIA brings AWS technology into future F1 rule development - Grandprix.com",
-            "summary_en": "The FIA has partnered with Amazon Web Services to utilize cloud computing and AI-powered aerodynamic simulations to test and refine future Formula 1 technical regulations. This collaboration aims to enhance the governing body's ability to assess safety, performance, and sustainability impacts before physical vehicle components are constructed.",
-            "link": "https://www.grandprix.com/news/fia-brings-aws-technology-into-future-f1-rule-development.html",
-            "timestamp": 1793191140000,
-            "date": "2026-10-28"
         }
     ]
 }

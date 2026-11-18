@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-17 22:50:30",
+    "last_update": "2026-11-18 11:23:37",
     "articles": [
+        {
+            "title": "Nvidia’s Nemotron hit enterprise AI inflection point - Constellation Research",
+            "summary_en": "Nvidia’s Nemotron model represents a pivotal shift for enterprise AI, offering organizations a more efficient path toward deploying custom, high-performance generative applications.",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2pUX09kcDhzYlJjTEg3elRmRFhkUGI5ckZMZ3A2T3gydlNxRWRGQ3lRTHJYemNRUzFiYVlvNm90S3lPbUFEaEM0aWpHT3Z3aVB3Q3RsNURrRXM2VjBDRGZaeDBqSS10ZTFqVkFmSUJYOGVDZ1Z0U1BOaEJyOWdLOU9NLVBEeUlUS1IxaHdfblRVd3BhWVdUaDR5WnA?oc=5",
+            "timestamp": 1789903731000,
+            "date": "2026-09-20"
+        },
         {
             "title": "Anthropic, OpenAI, SpaceXAI, and Google face antitrust lawsuit for agreeing to slow AI development — plaintiffs say plan has been in motion for months before, calls agreement ‘self-serving’ - Tom's Hardware",
             "summary_en": "Major AI developers including OpenAI and Anthropic are facing a class-action lawsuit alleging that a coordinated agreement to slow development constitutes illegal antitrust activity. Plaintiffs argue these companies are prioritizing self-serving industry control over the value and progress promised to consumers.",
@@ -692,13 +699,6 @@
             "summary_en": "Microsoft Research introduced GigaPath-Flash, an optimized pathology model that retains 97% of its predecessor's performance while using 50 times less compute power. By distilling complex models into lightweight architectures, this innovation significantly lowers the cost and memory requirements for population-scale medical analysis.",
             "link": "https://www.startuphub.ai/ai-news/ai-research/2026/today-in-ai-gigapath-flash-slashes-compute-50x",
             "timestamp": 1788192833000,
-            "date": "2026-08-31"
-        },
-        {
-            "title": "Department of War Launches OpenAI's ChatGPT Mil on GenAI.mil - U.S. Department of War (.gov)",
-            "summary_en": "The U.S. Department of War has officially integrated OpenAI’s ChatGPT into its specialized GenAI.mil platform. This initiative marks a strategic move to leverage advanced generative AI for military-related applications.",
-            "link": "https://www.war.gov/News/Releases/Release/Article/4586352/department-of-war-launches-openais-chatgpt-mil-on-genaimil",
-            "timestamp": 1788184903000,
             "date": "2026-08-31"
         }
     ]

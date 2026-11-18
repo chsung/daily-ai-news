@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-17 22:50:30",
+    "last_update": "2026-11-18 11:23:37",
     "articles": [
+        {
+            "title": "FIA brings AWS technology into future F1 rule development - Grandprix.com",
+            "summary_en": "The FIA has partnered with Amazon Web Services to utilize cloud computing and AI-powered aerodynamic simulations to test and refine future Formula 1 technical regulations. This collaboration aims to enhance the governing body's ability to assess safety, performance, and sustainability impacts before physical vehicle components are constructed.",
+            "link": "https://www.grandprix.com/news/fia-brings-aws-technology-into-future-f1-rule-development.html",
+            "timestamp": 1793191140000,
+            "date": "2026-10-28"
+        },
         {
             "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development - ServiceNow Newsroom",
             "summary_en": "ServiceNow and OpenAI are expanding their partnership to integrate generative AI directly into corporate workflows, enabling users to execute governed actions and security tasks within ChatGPT. This collaboration also involves the creation of a 'Control Tower Alliance' to standardize AI governance and security across enterprise environments.",
@@ -692,13 +699,6 @@
             "summary_en": "InfoQ continues to provide critical technical analysis and architectural insights into the rapidly evolving landscape of enterprise-grade AI software development.",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xd2FRVWExLU9xc0RKT0QwREJXak1PbTlqM00zTXM0cmF6SG55RWlXYmNqVzdmaE1mcnMtaUdnU0R6ajRlSVFzV05DWXJqT0VOM0o4ME85VmhJRkFRbkI3bDdiVF9wMU1DYnF3?oc=5",
             "timestamp": 1789898999000,
-            "date": "2026-09-20"
-        },
-        {
-            "title": "Nvidia’s Nemotron hit enterprise AI inflection point - Constellation Research",
-            "summary_en": "Nvidia’s Nemotron model represents a pivotal shift for enterprise AI, offering organizations a more efficient path toward deploying custom, high-performance generative applications.",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2pUX09kcDhzYlJjTEg3elRmRFhkUGI5ckZMZ3A2T3gydlNxRWRGQ3lRTHJYemNRUzFiYVlvNm90S3lPbUFEaEM0aWpHT3Z3aVB3Q3RsNURrRXM2VjBDRGZaeDBqSS10ZTFqVkFmSUJYOGVDZ1Z0U1BOaEJyOWdLOU9NLVBEeUlUS1IxaHdfblRVd3BhWVdUaDR5WnA?oc=5",
-            "timestamp": 1789903731000,
             "date": "2026-09-20"
         }
     ]
