@@ -1,6 +1,96 @@
 {
-    "last_update": "2026-11-17 23:12:28",
+    "last_update": "2026-11-18 22:45:08",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1795035600000,
+            "date": "2026-11-18",
+            "title": "Introducing Gemini 4 Neon",
+            "summary_kr": "구글이 공개한 'Gemini 4 Neon'은 복잡한 소프트웨어 엔지니어링, 데이터 분석 및 과학적 작업에서 최고 수준의 성능과 효율성을 제공하며 기업용 AI 시장을 공략합니다.",
+            "summary_en": "Google's 'Gemini 4 Neon' delivers frontier-level performance and high efficiency across complex engineering, analytical, and scientific workflows, positioning itself as a robust solution for enterprise-grade AI applications.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1795034864000,
+            "date": "2026-11-18",
+            "title": "Seven new world-class models at scalable price-performance | Microsoft AI",
+            "summary_kr": "Microsoft AI(MAI)는 보안, 코딩, 이미지, 실시간 음성 등 다양한 영역에서 업계 최고 수준의 성능과 압도적인 가성비를 갖춘 7종의 신규 모델을 출시했습니다.",
+            "summary_en": "Microsoft AI(MAI) has launched seven new world-class models across security, coding, image generation, and real-time speech, delivering frontier performance with exceptional price-performance.",
+            "link": "https://microsoft.ai/news/microsoft-ignite-2026"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1795034196000,
+            "date": "2026-11-18",
+            "title": "Security for the agentic era, powered by Microsoft Perception  | Microsoft Security Blog",
+            "summary_kr": "AI의 발전으로 사이버 공격의 속도와 자동화 수준이 급격히 높아짐에 따라, 마이크로소프트는 이에 대응하기 위해 신호, 맥락, AI 에이전트로 구성된 새로운 계층적 보안 아키텍처를 도입했습니다.",
+            "summary_en": "As AI accelerates the speed and automation of cyber threats, Microsoft is introducing a new three-layer security stack—comprising signals, context, and AI agents—to defend against the evolving agentic era.",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1795024800000,
+            "date": "2026-11-18",
+            "title": "Genie 4 is now available",
+            "summary_kr": "구글이 인터랙티브 월드 생성 모델인 'Genie 4'를 공개하며, 실시간 환경 수정 및 오디오 생성을 통해 사용자가 더욱 몰입감 있고 정교하게 가상 세계를 구축하고 공유할 수 있도록 기능을 대폭 강화했습니다.",
+            "summary_en": "Google has launched 'Genie 4,' an interactive world-generation model that enables users to build and edit immersive virtual environments in real-time with integrated native audio and AI-assisted creative tools.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1795021200000,
+            "date": "2026-11-18",
+            "title": "Introducing Stitch Loop: A new way to build and evolve products",
+            "summary_kr": "구글 랩스가 출시한 'Stitch Loop'은 코드베이스와 실시간 메트릭을 연동해 제품 출시 후 유지보수와 최적화를 24시간 자율적으로 수행하는 AI 에이전트 서비스입니다.",
+            "summary_en": "Google Labs has introduced 'Stitch Loop,' an autonomous product agent that connects to your codebase and live metrics to continuously maintain and optimize products 24/7.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795021200000,
+            "date": "2026-11-18",
+            "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+            "summary_kr": "엔비디아의 'Cosmos Data Factory'는 두 개의 프롬프트만으로 물리 AI 학습을 위한 고품질 데이터를 자동 생성하고 관리할 수 있는 플랫폼으로, 데이터 구축의 비용과 시간을 획기적으로 단축합니다.",
+            "summary_en": "NVIDIA's 'Cosmos Data Factory' streamlines physical AI development by enabling users to curate and generate high-quality, diverse training datasets through a simplified, two-prompt orchestration process.",
+            "link": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795014000000,
+            "date": "2026-11-18",
+            "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+            "summary_kr": "엔비디아는 평면파 DFT 계산 시 K-포인트 배칭과 혼합 정밀도를 활용하는 'Daviator' 기술을 도입하여, GPU 병목 현상을 해결하고 기존 CPU 대비 최대 22배 빠른 연산 속도와 75%의 비용 절감을 달성했습니다.",
+            "summary_en": "NVIDIA introduced 'Daviator' to optimize plane-wave DFT by using k-point batching and mixed precision, overcoming GPU bottlenecks to achieve up to 22x faster performance and 75% cost reduction compared to CPU-based execution.",
+            "link": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1794873600000,
+            "date": "2026-11-17",
+            "title": "Claude solves two open problems in the physics of black holes",
+            "summary_kr": "AI 모델 클로드(Claude)가 20년 넘게 풀리지 않았던 블랙홀 물리학 난제들을 해결하며 양자 중력 이론 연구의 새로운 돌파구를 마련했습니다.",
+            "summary_en": "AI model Claude has solved long-standing challenges in black hole physics, marking a significant breakthrough in the pursuit of a unified theory of quantum gravity.",
+            "link": "https://www.anthropic.com/research/claude-black-hole-physics"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794863189000,
+            "date": "2026-11-16",
+            "title": "What AI at work really costs | Microsoft Copilot Blog",
+            "summary_kr": "마이크로소프트가 의뢰한 연구에 따르면, Copilot은 ChatGPT Enterprise 및 Claude Enterprise와 유사한 업무 품질을 유지하면서도 실제 사용량 기반 비용을 고려할 때 일반 및 고급 사용자 모두에게 가장 낮은 총소유비용(TCO)을 제공하는 것으로 나타났습니다.",
+            "summary_en": "A Microsoft-commissioned study reveals that Copilot offers the lowest total cost of ownership (TCO) for both everyday and advanced users compared to ChatGPT Enterprise and Claude Enterprise, while maintaining comparable output quality across identical workloads.",
+            "link": "https://www.microsoft.com/en-us/copilot/blog/2026/11/16/what-ai-at-work-really-costs"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791244800000,
+            "date": "2026-10-06",
+            "title": "Expanding the Cyber Verification Program",
+            "summary_kr": "사이버 보안 전문가들에게 자사의 고성능 AI 모델에 대한 맞춤형 접근 권한을 제공하는 '사이버 검증 프로그램(CVP)'을 3단계 접근 체계로 확대 개편했습니다.",
+            "summary_en": "The Cyber Verification Program (CVP) has been expanded into a three-tier access system, providing qualified security professionals with tailored access to advanced AI models for defensive and adversarial operations.",
+            "link": "https://www.anthropic.com/news/cyber-verification-program"
+        },
         {
             "company": "Google",
             "timestamp": 1794952800000,
@@ -810,96 +900,6 @@
             "summary_kr": "구글이 싱가포르의 NUS 및 NTU와 600만 달러 규모의 연구 협력을 체결하며 AI 기반 과학 연구, 안전성 확보, 인재 양성을 위한 생태계 강화에 나섭니다.",
             "summary_en": "Google is investing over $6 million to partner with NUS and NTU in Singapore, focusing on advancing AI-driven scientific research, enhancing safety frameworks, and building long-term academic capacity.",
             "link": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793707200000,
-            "date": "2026-11-03",
-            "title": "Accelerating engineering for the physical world",
-            "summary_kr": "OpenAI는 물리적 제품의 설계, 시뮬레이션 및 제조 전 과정을 가속화하기 위해 엔지니어링 워크플로우에 특화된 AI 모델 역량을 고도화하고 있습니다.",
-            "summary_en": "OpenAI is advancing specialized AI model capabilities to accelerate the end-to-end engineering lifecycle, covering mechanical design, simulation, and manufacturing for complex physical products.",
-            "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793692800000,
-            "date": "2026-11-03",
-            "title": "How Cisco defends at machine speed with OpenAI",
-            "summary_kr": "시스코는 오픈AI의 인공지능 기술과 자사의 네트워크 원격 측정 데이터를 결합하여, 공격자의 속도에 대응하는 지능적이고 적응형인 보안 방어 체계를 구축했습니다.",
-            "summary_en": "Cisco is integrating OpenAI's frontier AI models with its vast network telemetry to create an adaptive defense system capable of outpacing machine-speed cyber threats.",
-            "link": "https://openai.com/index/cisco-cyber"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793692800000,
-            "date": "2026-11-03",
-            "title": "Heimstaden is changing residential real estate management with AI",
-            "summary_kr": "유럽의 부동산 운영사 하임스타덴(Heimstaden)은 OpenAI 기술을 도입해 임대 프로세스 전반을 혁신하고 있으며, 특히 부동산 이미지 제작 비용을 99% 절감하는 등 운영 효율성을 극대화하고 있습니다.",
-            "summary_en": "European real estate operator Heimstaden is transforming its residential management processes by integrating OpenAI, achieving a 99% reduction in property image production costs and enhancing overall operational efficiency.",
-            "link": "https://openai.com/index/heimstaden"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793664000000,
-            "date": "2026-11-03",
-            "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-            "summary_kr": "OpenAI가 우버 출신의 질 헤이즐베이커를 최고 기업 업무 책임자(CCAO)로 영입하여 글로벌 커뮤니케이션 강화 및 AI 신뢰 구축에 나섭니다.",
-            "summary_en": "OpenAI has appointed former Uber executive Jill Hazelbaker as Chief Corporate Affairs Officer to strengthen global communications and build public trust in its AI mission.",
-            "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793662774000,
-            "date": "2026-11-02",
-            "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
-            "summary_kr": "엔비디아 어트리뷰션(NVIDIA Attribution)은 분산형 AI 작업의 로그, 메트릭, 스케줄러 상태를 분석하여 복합적인 오류의 근본 원인을 자동으로 진단하고 구조화된 정보를 제공합니다.",
-            "summary_en": "NVIDIA Attribution automates the root cause analysis of distributed AI workload failures by correlating logs, metrics, and scheduler states into a structured, deterministic diagnosis.",
-            "link": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793642400000,
-            "date": "2026-11-02",
-            "title": "Rewarding defenders with bigger bug bounties",
-            "summary_kr": "OpenAI는 보안 연구원들의 기여를 강화하기 위해 버그 바운티 보상을 대폭 인상하고, 고품질 보고서와 장기 파트너십을 위한 새로운 인센티브 및 등급별 로열티 제도를 도입했습니다.",
-            "summary_en": "OpenAI has significantly increased its bug bounty rewards and introduced new incentives, including quality multipliers and a tiered loyalty program, to further empower security researchers and strengthen collaborative defense.",
-            "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793642400000,
-            "date": "2026-11-02",
-            "title": "Preparing our next security sprint to harden OpenAI",
-            "summary_kr": "OpenAI는 자사 AI 모델을 활용해 보안 시스템을 강화하는 '보안 스프린트'를 확대하고, 버그 바운티 보상을 대폭 인상하며 외부 협력을 통해 사이버 방어 역량을 고도화합니다.",
-            "summary_en": "OpenAI is scaling its security sprints to leverage AI for proactive defense, increasing bug bounty rewards, and fostering cross-industry collaboration to harden its infrastructure against emerging cyber threats.",
-            "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793633400000,
-            "date": "2026-11-02",
-            "title": "Scaling Git at OpenAI",
-            "summary_kr": "OpenAI는 폭발적으로 증가하는 모노레포 수요를 감당하기 위해 기존 Git 프로토콜과 호환되면서 쓰기 및 읽기 성능을 획기적으로 개선한 새로운 Git 백엔드 시스템 'Pando'를 개발했습니다.",
-            "summary_en": "OpenAI has developed 'Pando,' a new Git backend that achieves horizontal scalability and superior read/write performance while maintaining full compatibility with the existing Git ecosystem.",
-            "link": "https://openai.com/index/scaling-git-at-openai"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1793577600000,
-            "date": "2026-11-02",
-            "title": "Progress on provable inference for large language models",
-            "summary_kr": "앤스로픽은 AI 모델의 응답이 특정 모델에서 생성되었음을 수학적으로 보장하는 'FlashProve' 시스템을 공개하며, zkSNARK 기술을 통해 기존보다 월등히 빠른 검증 성능을 구현했습니다.",
-            "summary_en": "Anthropic has introduced 'FlashProve,' a system leveraging zkSNARKs to provide cryptographic proof that AI responses originate from a specific model, achieving significantly faster verification than prior methods.",
-            "link": "https://www.anthropic.com/research/provable-inference"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793577600000,
-            "date": "2026-11-02",
-            "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-            "summary_kr": "OpenAI는 전 미 육군 장관 댄 드리스콜을 국가 안보 현대화 담당 수석 고문으로 영입하여 민주적 가치에 기반한 AI 기술의 안보 협력 및 정책 고도화를 추진합니다.",
-            "summary_en": "OpenAI has appointed former U.S. Army Secretary Dan Driscoll as Senior Counselor for National Security Modernization to advance the responsible integration of AI into global security strategies and democratic institutions.",
-            "link": "https://openai.com/index/dan-driscoll-joins-openai"
         }
     ]
 }
