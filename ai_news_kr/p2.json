@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-18 11:22:57",
+    "last_update": "2026-11-18 22:31:30",
     "articles": [
+        {
+            "title": "오픈AI, 코드 저장 스타트업 피에르 인수...코덱스로 깃허브에 도전 - AI타임스",
+            "summary_kr": "오픈AI가 코드 저장 및 관리 스타트업 피에르를 인수하며 자사 AI 코딩 에이전트 '코덱스'의 통합 개발 플랫폼화에 속도를 내고 있습니다. 기존 깃 워크플로를 고도화한 자체 시스템 '판도'와 결합해 깃허브가 장악한 개발 인프라 시장에 본격적인 도전장을 내밀었습니다.",
+            "link": "https://www.aitimes.com/news/articleView.html?idxno=217046",
+            "timestamp": 1793863500000,
+            "date": "2026-11-05"
+        },
+        {
+            "title": "\"AI 생물학 무기, 코로나보다 위험\"…빌 게이츠, 美에 규제 촉구 - 머니투데이",
+            "summary_kr": "빌 게이츠가 AI가 생물학 무기 제조 등 팬데믹보다 치명적인 재앙을 초래할 수 있다고 경고하며 미국 정부 차원의 강력한 AI 규제와 감시 체계 도입을 촉구했습니다. 특히 자율 규제를 고수하는 트럼프 행정부의 태도가 국제 공조의 걸림돌이 되고 있음을 지적하며 제3자 감독의 필요성을 강조했습니다.",
+            "link": "https://www.mt.co.kr/amp/world/2026/11/05/2026110510573132718",
+            "timestamp": 1793845243000,
+            "date": "2026-11-05"
+        },
+        {
+            "title": "훼스토, 엔비디아와 협력해 Physical AI를 위한 디지털 트윈 개발 - MFG Inc",
+            "summary_kr": "훼스토가 엔비디아의 아이작 심 및 옴니버스 플랫폼을 활용해 산업용 로봇의 디지털 트윈을 고도화하며, 실제 설비 데이터와 시뮬레이션을 정밀하게 결합해 자율 생산 환경 구축을 가속화합니다.",
+            "link": "https://www.mfgkr.com/news/articleView.html?idxno=28435",
+            "timestamp": 1793794804000,
+            "date": "2026-11-04"
+        },
         {
             "title": "볼보자동차, 엔비디아와 파트너십 확대 - 차세대 자율주행 안전 기술 개발 가속화 - 차세대 모델에 엔비디아 하이페리온 및 할로스 기술 결합한 신기술 도입 예정 - Naver Blog",
             "summary_kr": "볼보자동차가 엔비디아와 파트너십을 확대하여 하이페리온 및 할로스 기술을 차세대 전기차에 도입하고, 운전자가 주행에 관여하지 않는 차세대 자율주행 안전 기술 개발을 본격화합니다.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uLV9oLWdOTlhDLVdTSUZfVm5neHQxNW5TLURzLWFXR3pLNFFSUXI5VXJtSXJ5WkFKcWF0dml3TnBRdnZMa05RZndxaktwcU54cmMtSDNOaUVSUXQwRUdVcnRNVTJTZFdnTFVlSVlfdU8zQXM?oc=5",
             "timestamp": 1792476724000,
             "date": "2026-10-20"
-        },
-        {
-            "title": "[분석] 국산 AI 5사 동맹 체결 ··· 엔비디아 의존 탈피 - 데이터솜",
-            "summary_kr": "국내 AI 기업 5개사가 기술 동맹을 체결하여 엔비디아 중심의 AI 인프라 생태계에 대한 의존도를 낮추고 독자적인 경쟁력을 강화합니다.",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QOXkxSzRhWjVadG84RkdMdUk0My1ma3BBV0U5Z2NvbUk4b0hySV9yM0Z5V2RIT2QzR0ZWY1hQejhwTmIxREJSR1J5UVVYQUY5VEdfZGdUNm5Ob2RSTjFRWXgySGFGVHE5QkxXRtIBcEFVX3lxTFBzSlhmQzRHamZmUklKWDJleXhUQkpFdkZUVm5ScVh4VDlDblJVdnlDb19IaHlrVlRZMlJKeWs2bWhyY3dEenJBRFZyT1JhTDRmODFDckpoQkxjU2NEZXpkTnVlUHR2dGJfdHA0cmFZSGI?oc=5",
-            "timestamp": 1792465200000,
-            "date": "2026-10-20"
-        },
-        {
-            "title": "독일, 엔비디아 손잡고 산업용 AI모델 개발 나선다 - 뉴스1",
-            "summary_kr": "독일 정부가 엔비디아와 협력하여 제조 및 산업 현장에 특화된 고성능 AI 모델 개발을 추진합니다.",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WVkZpLTROUWZZdmZLbkk5cExOSjkyUXgxaHBnTGtFMGNWRTd6YzFxWkRTSTZ4cXBsdUl4V0JiS2h2blNlTk1sel8xZV9DWkZNRVVz?oc=5",
-            "timestamp": 1792462794000,
-            "date": "2026-10-20"
-        },
-        {
-            "title": "마이크로소프트, 2.8조 파라미터 'MAI-베이스-2' 사전학습 완료 - 디일렉",
-            "summary_kr": "마이크로소프트가 2.8조 개의 파라미터를 갖춘 대규모 언어 모델 'MAI-베이스-2'의 사전학습을 완료했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yZ3dta0EtQ05SWmxBd1JHcE9MMzNoXzlPcHZ0N0UyYWkxVDNzNHE3Y0MxaE5FX0xGU0tscFhPdlprX1RIOWsxek90Q2Ixc0tpMWlLWkpGc0tCa29PUzBNakpQMUY5dw?oc=5",
-            "timestamp": 1792399339000,
-            "date": "2026-10-19"
         }
     ]
 }

@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-18 11:23:37",
+    "last_update": "2026-11-18 22:32:13",
     "articles": [
+        {
+            "title": "Microsoft launches MAI Code 2 models to challenge OpenAI and Anthropic in AI coding - InfoWorld",
+            "summary_en": "Microsoft has introduced the MAI Code 2 and MAI Code 2 Flash models to strengthen its developer ecosystem and reduce reliance on external providers like OpenAI and Anthropic. These models target enterprise coding tasks and demonstrate high competitive performance at significantly lower price points than current industry alternatives.",
+            "link": "https://www.infoworld.com/article/4250152/microsoft-launches-mai-code-2-models-to-challenge-openai-and-anthropic-in-ai-coding.html",
+            "timestamp": 1795002323000,
+            "date": "2026-11-18"
+        },
+        {
+            "title": "'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users - VentureBeat",
+            "summary_en": "OpenAI’s newly released GPT-6.2 Astra and Sol models have faced significant backlash from power users who described them as 'unusable' due to inconsistencies in delegated work, creative tasks, and long-horizon project management. While Astra features a 20% price reduction for its API, critics highlighted a persistent 'house style' and difficulty in maintaining momentum during complex multi-step workflows.",
+            "link": "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users",
+            "timestamp": 1794954820000,
+            "date": "2026-11-17"
+        },
         {
             "title": "NVIDIA Launches Open Science AI Models and 50,000-Question Chemistry Dataset for Research Agents - CDO Magazine",
             "summary_en": "NVIDIA has released 'Nemotron for Science,' an open-source model suite and a 50,000-question chemistry dataset designed to accelerate specialized AI agent development for drug discovery and protein design. By providing these resources via Hugging Face, NVIDIA aims to help researchers improve model reasoning in scientific workflows while emphasizing the critical need for domain-specific data governance.",
@@ -685,20 +699,6 @@
             "summary_en": "Google has introduced a 'sleep framework' that enables AI models to integrate new information continuously without suffering from 'catastrophic forgetting,' where previously learned data is lost. By alternating between an active processing phase and a consolidation-focused sleep phase, models can perform self-improvement and maintain updated knowledge bases.",
             "link": "https://gigazine.net/gsc_news/en/20261030-ai-sleep-knowledge",
             "timestamp": 1793314800000,
-            "date": "2026-10-29"
-        },
-        {
-            "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’ - WIRED",
-            "summary_en": "OpenAI and Anthropic have reportedly disproved the 27-year-old exponential time hypothesis, potentially rendering significant portions of theoretical computer science research obsolete. While the proofs await independent verification, the rapid pace of AI-driven scientific discovery is causing widespread professional disruption and psychological distress within the academic community.",
-            "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant",
-            "timestamp": 1793270700000,
-            "date": "2026-10-29"
-        },
-        {
-            "title": "Anthropic buys Mithril to test AI-assisted drug development - The Pharma Letter",
-            "summary_en": "Anthropic has acquired the drug discovery startup Mithril to leverage artificial intelligence for the development of new pharmaceutical treatments.",
-            "link": "https://www.thepharmaletter.com/biotech-news/anthropic-buys-mithril-to-test-ai-assisted-drug-development",
-            "timestamp": 1793268912000,
             "date": "2026-10-29"
         }
     ]
