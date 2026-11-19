@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-19 11:21:35",
+    "last_update": "2026-11-19 22:38:10",
     "articles": [
+        {
+            "title": "Anthropic moves fast on AI safety concerns with Accenture “embedded evaluator” partnership - IT Pro",
+            "summary_en": "Anthropic is accelerating its AI safety initiatives by partnering with Accenture to implement an 'embedded evaluator' framework for enterprise deployments.",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMU9LeWNlenVyRTZpZ201VnI3NEIzYXZFQXE2by1iWFZDV1gtVWVvbUJ6YWNWVnAzdm90bjFNM2N2YlM5VXlaa2lIWW9GSWxTcllHS3RuS2ZQeWRueHZTVFlGS1RZOEVQU2NtaG5pR3d3ZE5YMGtXUVMxOFEza2xUMWdsWVBLRXI0X28xVW5Fdld1Ty1zR05XNU8zbW1hbEtEOFl2ZDFMSVphc2ticTlyeGVWTThmd3NKTUZOdlhMNm1zSnE0NGxVeDdod3lqckprY0dsd3Bfakc0QXJNbnc?oc=5",
+            "timestamp": 1789987257000,
+            "date": "2026-09-21"
+        },
+        {
+            "title": "Measurements for understanding the pace of AI development inside frontier labs - anthropic.com",
+            "summary_en": "Anthropic has introduced a new framework designed to measure and evaluate the developmental pace and safety benchmarks of AI models within frontier laboratories.",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+            "timestamp": 1790014861000,
+            "date": "2026-09-21"
+        },
         {
             "title": "RetroChimera: New research advances AI-assisted molecule synthesis - Microsoft Source",
             "summary_en": "Microsoft researchers have unveiled RetroChimera, a new AI-driven methodology aimed at optimizing and advancing the synthesis of complex molecules.",
@@ -686,20 +700,6 @@
             "link": "https://scienceblog.com/t-ai-confidence-less-critical-thinking-319-knowledge-workers",
             "timestamp": 1788359470000,
             "date": "2026-09-02"
-        },
-        {
-            "title": "Architect of British government’s AI strategy joins Anthropic - The Guardian",
-            "summary_en": "Matt Clifford, the former architect of the UK government’s AI strategy, has been appointed as managing director of international affairs at Anthropic. His transition has sparked concerns from critics regarding the 'revolving door' between high-level government advisory roles and the private AI sector.",
-            "link": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
-            "timestamp": 1788321960000,
-            "date": "2026-09-02"
-        },
-        {
-            "title": "OpenAI delayed its new model’s development after the Hugging Face hack - The Verge",
-            "summary_en": "OpenAI has delayed the release of its 'Astra' model suite to enhance safety testing and cybersecurity guardrails following a security breach at Hugging Face. The company identified Astra as its first model capable of exploiting secure systems, necessitating more rigorous monitoring to prevent cyber misuse.",
-            "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-            "timestamp": 1788295549000,
-            "date": "2026-09-01"
         }
     ]
 }
