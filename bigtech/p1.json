@@ -1,6 +1,69 @@
 {
-    "last_update": "2026-11-18 22:45:08",
+    "last_update": "2026-11-19 22:47:54",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795120093000,
+            "date": "2026-11-19",
+            "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+            "summary_kr": "NVIDIA Dynamo는 강화학습의 롤아웃 병목 현상을 해결하기 위해 KV 캐시 인식 라우팅과 효율적인 가중치 배포 시스템을 제공하여 GPU 활용도를 높이고 학습 속도를 가속화합니다.",
+            "summary_en": "NVIDIA Dynamo addresses reinforcement learning rollout bottlenecks by leveraging KV-aware routing and optimized weight distribution to maximize GPU utilization and accelerate training throughput.",
+            "link": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1795114800000,
+            "date": "2026-11-19",
+            "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+            "summary_kr": "구글 퀀텀 AI는 양자 알고리즘의 핵심 동력인 '문맥성(Contextuality)' 현상을 최대 105개 큐비트 규모에서 입증하며, 차세대 양자 컴퓨팅 하드웨어 검증 및 오류 탐지의 새로운 길을 열었습니다.",
+            "summary_en": "Google Quantum AI has demonstrated the scalability of 'contextuality'—a fundamental driver of quantum algorithms—across 105 qubits, providing a robust method for hardware validation and error detection in future quantum applications.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795107600000,
+            "date": "2026-11-19",
+            "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+            "summary_kr": "NVIDIA DAQIRI는 센서 데이터를 GPU 메모리로 직접 전송해 실시간 AI 분석을 가능하게 함으로써, 고대역폭 계측 장비의 처리 한계를 극복하고 연구 효율을 혁신합니다.",
+            "summary_en": "NVIDIA DAQIRI overcomes processing bottlenecks in high-bandwidth scientific instruments by streaming sensor data directly into GPU memory, enabling real-time AI analysis and feedback.",
+            "link": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795105846000,
+            "date": "2026-11-19",
+            "title": "Build Tool-Calling Parsers in Rust with AI Agents",
+            "summary_kr": "본 기사는 NVIDIA의 Rust 기반 'frontend-crates'를 활용해 AI 모델의 불완전하거나 파편화된 도구 호출 출력을 안정적으로 파싱하고 처리하는 기술적 방법론을 제시합니다.",
+            "summary_en": "This article outlines a technical approach to reliably parsing and processing fragmented or incomplete AI tool calls using NVIDIA's Rust-based 'frontend-crates' and a standardized Conformance Corpus.",
+            "link": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1795104000000,
+            "date": "2026-11-19",
+            "title": "See some of the work from Google Flow and Flow Music Sessions artists",
+            "summary_kr": "구글은 'Google Flow'와 'Flow Music Sessions'를 통해 아티스트들이 자사의 AI 도구로 애니메이션, 음악 플러그인 등 창의적인 결과물을 제작하도록 지원하며 협업 생태계를 확장하고 있습니다.",
+            "summary_en": "Google is expanding its creative ecosystem by collaborating with artists through 'Google Flow' and 'Flow Music Sessions' to develop innovative visual projects and custom audio tools using generative AI.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1795093200000,
+            "date": "2026-11-19",
+            "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+            "summary_kr": "AI 인프라 확장을 위한 '프로젝트 선캐쳐(Project Suncatcher)'의 일환으로, 블루 오리진의 뉴 글렌 로켓을 활용한 2029년 1분기 첫 중량급 위성 발사가 추진됩니다.",
+            "summary_en": "The company is partnering with Blue Origin to launch its 'Project Suncatcher' heavy-lift satellites in Q1 2029, aiming to scale space-based AI infrastructure using solar power.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1794960000000,
+            "date": "2026-11-18",
+            "title": "Anthropic prices initial public offering",
+            "summary_kr": "앤스로픽(Anthropic)이 기업공개(IPO) 공모가를 주당 83달러로 확정했으며, 오는 11월 19일 나스닥 시장에 상장될 예정입니다.",
+            "summary_en": "Anthropic has priced its IPO at $83.00 per share and is scheduled to begin trading on the Nasdaq under the ticker symbol 'ANT' on November 19, 2026.",
+            "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+        },
         {
             "company": "Google",
             "timestamp": 1795035600000,
@@ -837,69 +900,6 @@
             "summary_kr": "DevRev는 OpenAI의 GPT-6.1 Sol 모델을 도입하여 기업용 서비스 자동화를 위한 'Computer'와 'Operator' 시스템의 추론 능력, 속도, 비용 효율성을 최적화했습니다.",
             "summary_en": "DevRev has integrated OpenAI’s GPT-6.1 Sol to optimize the reasoning, speed, and cost-efficiency of its 'Computer' and 'Operator' systems for autonomous enterprise service.",
             "link": "https://openai.com/index/devrev-enterprise-self-service"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793817967000,
-            "date": "2026-11-04",
-            "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
-            "summary_kr": "NVIDIA CUDA 13.5는 Vera Rubin 아키텍처에 대한 정식 지원을 시작하고, GPU 자원 활용 효율과 유연한 워크로드 스케줄링을 극대화하는 다양한 최적화 기능을 도입했습니다.",
-            "summary_en": "NVIDIA CUDA 13.5 introduces general availability for the Vera Rubin architecture and delivers advanced features to optimize GPU resource allocation and workload scheduling flexibility.",
-            "link": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793811600000,
-            "date": "2026-11-04",
-            "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
-            "summary_kr": "NVIDIA의 Factory Operations Blueprint(FOX)는 공장 내 AI 에이전트들을 통합 관리하여 실시간 문제 해결과 공정 최적화를 지원하며, 생산성 향상과 비용 절감을 실현합니다.",
-            "summary_en": "NVIDIA's Factory Operations Blueprint (FOX) coordinates specialized AI agents to streamline real-time problem solving and process optimization, significantly enhancing production efficiency and cost reduction.",
-            "link": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793808000000,
-            "date": "2026-11-04",
-            "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
-            "summary_kr": "엔비디아 NeMo Compass와 Eval Author를 활용하면 운영 데이터(trace)에서 에이전트의 오류를 식별하고 이를 기반으로 효과적인 평가 체계를 구축해 성능을 최적화할 수 있습니다.",
-            "summary_en": "NVIDIA NeMo Compass and Eval Author enable developers to identify agent failures from production traces and create targeted evaluations to systematically optimize agent performance.",
-            "link": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793802600000,
-            "date": "2026-11-04",
-            "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-            "summary_kr": "OpenAI는 코딩 에이전트 개발 및 Git 워크플로우 고도화를 위해 개발자 도구 기업 '피에르(Pierre)'를 인수하여 자사의 Codex 플랫폼 기능을 강화할 계획입니다.",
-            "summary_en": "OpenAI is acquiring Pierre Computer Company to integrate its developer tools and Git expertise into the Codex platform, aiming to advance the future of source control for coding agents.",
-            "link": "https://openai.com/index/openai-to-acquire-pierre"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793775600000,
-            "date": "2026-11-04",
-            "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-            "summary_kr": "OpenAI의 사이버 보안 특화 모델인 GPT-5.6 Cyber가 AWS GovCloud(US-East)에서 공식 제공되어, 정부 기관이 보안 검증 및 취약점 대응 업무에 고도화된 AI 역량을 활용할 수 있게 되었습니다.",
-            "summary_en": "OpenAI's specialized cybersecurity model, GPT-5.6 Cyber, is now available in AWS GovCloud (US-East), enabling government agencies to leverage advanced AI for vulnerability research and security operations.",
-            "link": "https://openai.com/index/daybreak-red-aws-govcloud"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1793750400000,
-            "date": "2026-11-04",
-            "title": "Investigating vault particles with Claude",
-            "summary_kr": "앤스로픽은 자사의 AI 모델 클로드(Claude)를 활용해 원핵생물에서 발견되는 볼트 입자의 최초 3D 구조를 규명하며, 그동안 베일에 싸여 있던 생물학적 미스터리 해결의 돌파구를 마련했습니다.",
-            "summary_en": "Anthropic utilized its AI model, Claude, to determine the first 3D structure of a vault particle in prokaryotic cells, providing a significant breakthrough in understanding these long-standing biological enigmas.",
-            "link": "https://www.anthropic.com/research/investigating-vault-particles-with-claude"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1793680200000,
-            "date": "2026-11-03",
-            "title": "Advancing research and partnering with universities in Singapore",
-            "summary_kr": "구글이 싱가포르의 NUS 및 NTU와 600만 달러 규모의 연구 협력을 체결하며 AI 기반 과학 연구, 안전성 확보, 인재 양성을 위한 생태계 강화에 나섭니다.",
-            "summary_en": "Google is investing over $6 million to partner with NUS and NTU in Singapore, focusing on advancing AI-driven scientific research, enhancing safety frameworks, and building long-term academic capacity.",
-            "link": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery"
         }
     ]
 }
