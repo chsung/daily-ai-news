@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-20 11:09:19",
+    "last_update": "2026-11-20 22:11:45",
     "articles": [
+        {
+            "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines - Reuters",
+            "summary_en": "Pharmaceutical companies are increasingly partnering with AI firms like Anthropic to leverage machine learning, effectively shortening the extensive timelines typically required for drug discovery.",
+            "link": "https://www.reuters.com/legal/litigation/big-pharma-with-eye-anthropic-says-ai-is-shrinking-drug-discovery-timelines-2026-11-20",
+            "timestamp": 1795187495000,
+            "date": "2026-11-20"
+        },
+        {
+            "title": "Apple launches research into health AI usage | News | Research live - Research Live",
+            "summary_en": "Apple has launched a study involving up to 200,000 U.S. participants to evaluate how conversational AI, powered by OpenEvidence, enhances user trust and preparation for clinical consultations. The research emphasizes privacy by design, explicitly stating that participant data will not be utilized to train future AI models.",
+            "link": "https://www.research-live.com/article/news/apple-launches-research-into-health-ai-usage/id/5155006",
+            "timestamp": 1795088663000,
+            "date": "2026-11-19"
+        },
         {
             "title": "US Congress releases list of Chinese firms seeking Nvidia chips - South China Morning Post",
             "summary_en": "The US Congress has released a list of Chinese firms currently seeking to acquire advanced Nvidia chips. This move highlights ongoing legislative efforts to monitor and restrict the flow of high-end semiconductor technology to China.",
@@ -685,20 +699,6 @@
             "summary_en": "Samsung executives and SK Group Chairman Chey Tae-won held strategic discussions with OpenAI CEO Sam Altman regarding the future of enterprise AI and infrastructure collaboration. These talks highlight Samsung's ongoing efforts to supply high bandwidth memory chips for OpenAI’s global 'Stargate' data center project while integrating generative AI across its corporate management systems.",
             "link": "https://www.koreajoongangdaily.com/business/samsung-sk-and-openai-chief-discuss-ais-impact-on-future-business-strategies/12948294",
             "timestamp": 1793428756000,
-            "date": "2026-10-31"
-        },
-        {
-            "title": "Anthropic's IPO filing shows how it's boosting biotech research - Business Insider",
-            "summary_en": "Anthropic is prioritizing the life sciences sector in its IPO strategy, leveraging its Claude AI models for drug discovery and biological research as part of a long-term goal to accelerate medical innovation. The company has already begun heavy investment in the field, including the acquisition of Coefficient Bio, the establishment of a molecular biology lab, and strategic partnerships with major pharmaceutical firms like Eli Lilly.",
-            "link": "https://www.businessinsider.com/anthropic-ipo-filing-boosting-biotech-research-2026-10",
-            "timestamp": 1793445000000,
-            "date": "2026-10-31"
-        },
-        {
-            "title": "Samsung executives meet OpenAI's Altman to discuss AI strategy - The Korea Herald",
-            "summary_en": "Samsung executives met with OpenAI CEO Sam Altman to discuss AI transformation across corporate management, marking a deepening partnership that extends from memory chip supply to enterprise-wide AI deployment. This collaboration follows Samsung’s ongoing internal initiative to train its workforce in generative AI and integrate OpenAI’s enterprise solutions into its global operations.",
-            "link": "https://www.koreaherald.com/article/10921312",
-            "timestamp": 1793427215000,
             "date": "2026-10-31"
         }
     ]
