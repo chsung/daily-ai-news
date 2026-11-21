@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-21 10:50:56",
+    "last_update": "2026-11-21 20:51:34",
     "articles": [
+        {
+            "title": "How Google Duplex evolved to also call businesses for you in Gemini - Google Research",
+            "summary_en": "Google has integrated its decade-old Duplex technology into the Gemini app, transitioning from bespoke neural networks to a unified architecture powered by Gemini foundation models. This evolution enables autonomous, low-latency agentic calling to handle complex real-world tasks like business bookings and service inquiries.",
+            "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+            "timestamp": 1795217494000,
+            "date": "2026-11-20"
+        },
+        {
+            "title": "Nvidia faces further blow after shock US export permit data release: analysts - South China Morning Post",
+            "summary_en": "Nvidia is facing increased market scrutiny following the unexpected release of data regarding US export permits, which analysts view as a potential setback for the chipmaker.",
+            "link": "https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts",
+            "timestamp": 1795222813000,
+            "date": "2026-11-21"
+        },
+        {
+            "title": "Anthropic board director Vas Narasimhan bets AI can help Novartis solve ‘biological latency’ - Fierce Biotech",
+            "summary_en": "Novartis CEO and Anthropic board member Vas Narasimhan aims to reduce drug development timelines by four years using AI to address information and operational bottlenecks. While he has already achieved 90% AI-assisted workflow integration, he cautions that fully solving 'biological latency' remains a complex, decade-long challenge.",
+            "link": "https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency",
+            "timestamp": 1795127472000,
+            "date": "2026-11-19"
+        },
         {
             "title": "AI agents found a MONAI Label zero-day | VentureBeat - VentureBeat",
             "summary_en": "Amazon security researchers identified that AI agents exploited a zero-day vulnerability in the open-source medical imaging platform MONAI Label to gain server control within 11 minutes. While the vulnerability is addressed in the main code branch, no official patched release has been issued, leaving administrators to rely on temporary manual workarounds.",
@@ -679,27 +700,6 @@
             "link": "https://www.thelec.net/news/articleView.html?idxno=15165",
             "timestamp": 1793610944000,
             "date": "2026-11-02"
-        },
-        {
-            "title": "Anthropic wants to use Claude AI to help discover new lifesaving drugs, says 'the best way to identify and work through these bottlenecks is to get deeply involved in real drug programs' - TechRadar",
-            "summary_en": "Anthropic is embedding its Claude AI into active pharmaceutical research, achieving significant breakthroughs such as a 70% reduction in CAR T-cell component length and the rapid generation of 35,000 potential antibody designs. By collaborating with biotech firms, the company is demonstrating how AI can accelerate drug development timelines and reduce manual administrative burdens by up to 89% in laboratory documentation.",
-            "link": "https://www.techradar.com/pro/anthropic-wants-to-use-claude-ai-to-help-discover-new-lifesaving-drugs-says-the-best-way-to-identify-and-work-through-these-bottlenecks-is-to-get-deeply-involved-in-real-drug-programs",
-            "timestamp": 1793585700000,
-            "date": "2026-11-02"
-        },
-        {
-            "title": "Nvidia's web of AI bets: Smart strategy or bubble risk? - Japan Today",
-            "summary_en": "Nvidia’s significant influence and deep investments in the AI sector have sparked debate among industry analysts regarding whether the company's strategy represents a calculated long-term advantage or an unsustainable market bubble.",
-            "link": "https://japantoday.com/category/tech/nvidia's-web-of-ai-bets-smart-strategy-or-bubble-risk",
-            "timestamp": 1793476800000,
-            "date": "2026-10-31"
-        },
-        {
-            "title": "Mathematicians warn AI firms are keeping vital research in the field secret - The Observer",
-            "summary_en": "Leading mathematicians are concerned that private AI firms like OpenAI and Anthropic are hoarding fundamental knowledge behind paywalls and proprietary models. They argue that restricting access to these powerful research tools undermines the historical scientific tradition of open inquiry and peer review.",
-            "link": "https://observer.co.uk/news/national/article/mathematicians-warn-ai-firms-are-keeping-vital-research-in-the-field-secret",
-            "timestamp": 1793529275000,
-            "date": "2026-11-01"
         }
     ]
 }
