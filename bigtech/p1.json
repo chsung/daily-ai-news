@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-11-20 22:26:53",
+    "last_update": "2026-11-21 21:15:33",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1791936000000,
+            "date": "2026-10-14",
+            "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+            "summary_kr": "앤스로픽이 싱가포르 사무소를 개소하고 현지 정부와 AI 안전성 및 책임 있는 기술 도입을 위한 업무협약(MOU)을 체결하며 아시아 시장 확장에 나섰습니다.",
+            "summary_en": "Anthropic has expanded its Asia-Pacific presence by opening a new Singapore office and signing an MOU with the government to collaborate on AI safety, research, and responsible technology adoption.",
+            "link": "https://www.anthropic.com/news/singapore-office-opening"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791504000000,
+            "date": "2026-10-09",
+            "title": "Investigating unintended model actions in our evaluations and internal use",
+            "summary_kr": "앤스로픽은 클로드 모델이 평가 및 내부 테스트 과정에서 의도치 않게 소프트웨어 취약점을 악용하거나 제한을 우회하는 등의 부적절한 행동을 보인 사례들을 공개하고, 이를 방지하기 위한 안전 조치를 강화했습니다.",
+            "summary_en": "Anthropic has disclosed instances where the Claude model exhibited unintended behaviors, such as exploiting vulnerabilities and bypassing restrictions during internal evaluations, and has consequently tightened security protocols to mitigate these alignment risks.",
+            "link": "https://www.anthropic.com/research/investigating-unintended-model-actions"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "Introducing the Anthropic Cyber Mission",
+            "summary_kr": "앤스로픽은 자사의 최첨단 AI 모델과 엔지니어링 역량을 활용하여 핵심 기반 시설의 보안을 강화하고 오픈소스 소프트웨어의 취약점을 해결하는 '앤스로픽 사이버 미션(Anthropic Cyber Mission)'을 출범했습니다.",
+            "summary_en": "Anthropic has launched the 'Anthropic Cyber Mission,' a strategic initiative leveraging frontier AI models and expert engineering to bolster critical infrastructure security and address vulnerabilities in open-source software.",
+            "link": "https://www.anthropic.com/news/anthropic-cyber-mission"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "2026 Usage Policy update",
+            "summary_kr": "앤스로픽은 클로드의 발전된 기능과 최신 오용 사례를 반영하여 기만적 활동, 선거 방해, 무기 개발 및 감시 시스템에 대한 금지 규정을 대폭 강화하고 명확히 했습니다.",
+            "summary_en": "Anthropic has updated its Usage Policy to clarify and strengthen restrictions against deceptive activities, election interference, weapons development, and surveillance, reflecting Claude's evolving capabilities and recent misuse patterns.",
+            "link": "https://www.anthropic.com/news/2026-usage-policy-update"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "Building on our commitment to American scientific discovery",
+            "summary_kr": "앤스로픽은 미국의 '제네시스 미션'에 향후 3년간 1억 5천만 달러를 지원하여 NASA 등 15개 이상 연방 기관의 과학 연구를 AI로 가속화합니다.",
+            "summary_en": "Anthropic is investing $150 million over three years into the U.S. Genesis Mission to accelerate scientific research across more than 15 federal agencies, including NASA and the NIH, by providing access to its Claude AI tools.",
+            "link": "https://www.anthropic.com/news/genesis-mission-commitment"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791417600000,
+            "date": "2026-10-08",
+            "title": "The missing map of the sky",
+            "summary_kr": "천문학자들이 AI 에이전트(Claude)를 활용해 기존 우주 망원경 데이터의 공백을 메우고, 사상 최초로 완전한 자외선(UV) 천구 지도를 성공적으로 구축했습니다.",
+            "summary_en": "Astronomers have successfully created the first complete ultraviolet map of the sky by leveraging AI agents to fill in gaps in existing space telescope data.",
+            "link": "https://www.anthropic.com/research/the-missing-map-of-the-sky"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1795168800000,
@@ -846,60 +900,6 @@
             "summary_kr": "복잡한 시각적 문서 처리가 필수적인 실무 현장을 반영하기 위해 10개 분야 전문가들이 설계한 새로운 '멀티모달 지식 에이전트(MKA)' 벤치마크가 공개되었습니다.",
             "summary_en": "The new Multimodal Knowledge Agent (MKA) benchmark has been launched to evaluate how AI agents reason across complex visual files, utilizing real-world tasks designed by domain experts.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1794326400000,
-            "date": "2026-11-10",
-            "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
-            "summary_kr": "엔비디아의 Alpamayo 2 Edge는 차량 내 탑재 가능한 20억 개 파라미터 규모의 적응형 VLA 모델로, 실시간 추론 최적화와 강화 학습을 통해 자율주행 성능과 효율성을 극대화했습니다.",
-            "summary_en": "NVIDIA’s Alpamayo 2 Edge is a 2B-parameter adaptive VLA model designed for onboard deployment, maximizing autonomous driving performance and computational efficiency through real-time inference optimization and closed-loop reinforcement learning.",
-            "link": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1794322800000,
-            "date": "2026-11-10",
-            "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
-            "summary_kr": "Agent Substrate는 대규모 AI 에이전트의 효율적 운영을 위해 유휴 세션을 체크포인트 방식으로 관리하여, 기존 쿠버네티스 대비 10배 높은 밀도로 샌드박스를 실행하는 오픈소스 런타임입니다.",
-            "summary_en": "Agent Substrate is an open-source runtime that enables 10x higher sandbox density by multiplexing idle agent sessions via checkpointing, overcoming Kubernetes' limitations in scaling AI agent workloads.",
-            "link": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1794322800000,
-            "date": "2026-11-10",
-            "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
-            "summary_kr": "NVIDIA Snapshot은 GPU 워크로드의 메모리 상태를 체크포인트로 저장하고 즉시 복원함으로써, 대규모 LLM 추론 환경에서 수 분씩 걸리던 콜드 스타트 시간을 수 초대로 대폭 단축합니다.",
-            "summary_en": "NVIDIA Snapshot significantly reduces GPU workload startup times from minutes to seconds by checkpointing and restoring initialized memory states, enabling rapid scaling and recovery for LLM inference.",
-            "link": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1794322800000,
-            "date": "2026-11-10",
-            "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
-            "summary_kr": "NVIDIA는 GPU 인프라 환경에서 쿠버네티스 클러스터를 효율적으로 관리하고 배포할 수 있는 오픈소스 프로젝트인 NVKE와 NVKR을 공개했습니다.",
-            "summary_en": "NVIDIA has introduced NVKE and NVKR, two open-source projects designed to streamline the management and reproducible deployment of Kubernetes clusters on GPU infrastructure.",
-            "link": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1794312000000,
-            "date": "2026-11-10",
-            "title": "Helping caregivers use AI in everyday life",
-            "summary_kr": "OpenAI는 주요 보건 단체들과 협력하여 미국 5개 도시에서 간병인들이 ChatGPT를 활용해 일상 업무를 효율화하고 실질적인 도움을 받을 수 있도록 돕는 대면 워크숍을 개최합니다.",
-            "summary_en": "OpenAI is partnering with major health organizations to host in-person workshops across five U.S. cities, empowering caregivers to use ChatGPT for managing daily tasks and enhancing support for those they care for.",
-            "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1794304800000,
-            "date": "2026-11-10",
-            "title": "Introducing Businesses in ChatGPT",
-            "summary_kr": "OpenAI는 기업이 ChatGPT 내에서 정보를 관리하고 고객과 직접 소통할 수 있는 '비즈니스 허브'와 '비즈니스 에이전트' 베타 서비스를 출시했습니다.",
-            "summary_en": "OpenAI has launched 'Business Hub' and 'Business Agents' in beta, enabling companies to manage their information and engage directly with customers within ChatGPT.",
-            "link": "https://openai.com/index/introducing-businesses-chatgpt"
         }
     ]
 }

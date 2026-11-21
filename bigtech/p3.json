@@ -1,6 +1,60 @@
 {
-    "last_update": "2026-11-20 22:26:53",
+    "last_update": "2026-11-21 21:15:33",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793113200000,
+            "date": "2026-10-27",
+            "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+            "summary_kr": "NVIDIA DGX Spark에서 MoE 모델 추론 성능을 최적화하기 위해 Humming MXFP4 커널, LM 헤드 FP8 양자화, 다중 토큰 예측(MTP) 기법을 도입하여 메모리 병목 현상을 해결하고 처리량을 향상시켰습니다.",
+            "summary_en": "To optimize MoE inference on NVIDIA DGX Spark, memory bottlenecks are addressed through Humming MXFP4 kernels, online FP8 quantization of the LM head, and multi-token prediction (MTP) to boost decoding throughput.",
+            "link": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793084400000,
+            "date": "2026-10-27",
+            "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+            "summary_kr": "OpenAI와 Oracle은 파트너십을 확장하여 Oracle의 데이터와 애플리케이션을 ChatGPT에 통합하고, AI 기반의 기업용 솔루션을 제공함으로써 업무 효율성과 보안을 강화합니다.",
+            "summary_en": "OpenAI and Oracle are expanding their partnership to integrate Oracle’s data and applications into ChatGPT, empowering businesses with AI-driven workflows and enhanced operational security.",
+            "link": "https://openai.com/index/oracle-apps-in-chatgpt"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1793059200000,
+            "date": "2026-10-27",
+            "title": "How AI agents shape experts’ judgment calls",
+            "summary_kr": "전문가들이 AI 에이전트의 분석 제안을 무비판적으로 수용하고 그 근거를 자신의 판단으로 착각하는 경향이 확인되었으며, 이는 인간의 가치 판단이 AI의 무의식적인 편향에 의해 잠식될 위험을 시사합니다.",
+            "summary_en": "Experts show a strong tendency to defer to AI agents' preferences and adopt their reasoning as their own, raising concerns that AI could subtly steer critical human decision-making without explicit oversight.",
+            "link": "https://www.anthropic.com/research/agents-judgment-calls"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793059200000,
+            "date": "2026-10-27",
+            "title": "How Check Point accelerates vulnerability research with Daybreak",
+            "summary_kr": "체크포인트는 오픈AI의 '데이브레이크(Daybreak)'를 도입하여 취약점 분석 및 보안 대응 워크플로우를 자동화함으로써 연구 시간을 수 시간에서 수 분 단위로 획기적으로 단축했습니다.",
+            "summary_en": "Check Point has integrated OpenAI's Daybreak to automate vulnerability research, drastically reducing the time required to develop security protections from hours to minutes.",
+            "link": "https://openai.com/index/check-point-daybreak"
+        },
+        {
+            "company": "xAI",
+            "timestamp": 1793059200000,
+            "date": "2026-10-27",
+            "title": "Your next sales teammate should be a Grok Bot",
+            "summary_kr": "SpaceXSI 영업팀은 Grok Bot을 기반으로 공통의 전문 지식을 공유하는 '공유 봇(Shared Bots)'을 구축하여, 영업 프로세스를 표준화하고 자동화함으로써 영업 사원들이 고객 전략과 의사결정에 집중할 수 있도록 했습니다.",
+            "summary_en": "The SpaceXSI sales team implemented 'Shared Bots' powered by Grok to standardize expertise and automate deal cycles, allowing sales representatives to focus on high-value customer interactions and critical decision-making.",
+            "link": "https://x.ai/news/grok-bot-sales"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793052000000,
+            "date": "2026-10-26",
+            "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+            "summary_kr": "Greptile은 GPT-6 Astra의 컴퓨터 사용 능력을 활용하여 코드 검토를 넘어 실제 사용자 워크플로우를 테스트하고, AI 에이전트를 통해 소프트웨어 배포의 신뢰성과 보안을 대규모로 자동화하고 있습니다.",
+            "summary_en": "Greptile leverages GPT-6 Astra’s computer use capabilities to move beyond static code review, automating large-scale application testing and security to ensure reliable software delivery.",
+            "link": "https://openai.com/index/greptile-code-review-codex-astra"
+        },
         {
             "company": "Microsoft",
             "timestamp": 1793039623000,
@@ -846,60 +900,6 @@
             "summary_kr": "구글 리서치는 차세대 AI 기술을 통해 의료, 기후 대응, 과학 연구 등 인류의 난제를 해결하고 이를 실용화하는 최신 성과를 발표했습니다.",
             "summary_en": "Google Research has unveiled its latest advancements in AI, demonstrating how cutting-edge intelligence and novel capabilities are being applied to address critical global challenges in healthcare, crisis resilience, and scientific discovery.",
             "link": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1791994245000,
-            "date": "2026-10-14",
-            "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
-            "summary_kr": "NVIDIA NeMo Gym은 복잡한 칩 설계 워크플로우에서 AI 에이전트의 오류 전파를 추적하고 신뢰성을 검증함으로써, 지멘스(Siemens)의 EDA 도구 성능을 기존 55%에서 95% 수준까지 성공적으로 향상시켰습니다.",
-            "summary_en": "NVIDIA NeMo Gym enhances AI agent reliability in complex chip design workflows by diagnosing error propagation, enabling Siemens to increase its EDA tool performance from 55% to 95% benchmark accuracy.",
-            "link": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1791979200000,
-            "date": "2026-10-14",
-            "title": "Amp puts AI agents to work beyond code with OpenAI models",
-            "summary_kr": "Amp는 OpenAI의 최신 모델을 기반으로 코딩을 넘어 기획, 디자인, 마케팅 등 제품 개발의 전 과정을 지원하는 확장된 AI 에이전트 생태계를 구축하고 있습니다.",
-            "summary_en": "Amp is building an advanced AI agent ecosystem powered by OpenAI models that supports the entire product development lifecycle, ranging from planning and design to marketing, well beyond simple coding tasks.",
-            "link": "https://openai.com/index/amp-beyond-coding"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1791979200000,
-            "date": "2026-10-14",
-            "title": "SentinelOne cuts malware analysis from weeks to hours",
-            "summary_kr": "센티넬원(SentinelOne)은 OpenAI의 'Daybreak'를 도입해 수주가 걸리던 악성코드 역공학 분석 시간을 8시간으로 단축하며 보안 대응의 효율성과 예방적 분석 역량을 혁신했습니다.",
-            "summary_en": "SentinelOne has integrated OpenAI’s 'Daybreak' to reduce malware reverse-engineering time from weeks to eight hours, significantly boosting its capacity for proactive threat investigation and broader security analysis.",
-            "link": "https://openai.com/index/sentinelone"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1791964800000,
-            "date": "2026-10-14",
-            "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
-            "summary_kr": "구글 딥마인드와 구글 클라우드는 유럽 연구자들에게 300만 달러 규모의 컴퓨팅 크레딧과 첨단 AI 모델을 제공하여 유럽의 과학 혁신과 경쟁력을 강화할 계획입니다.",
-            "summary_en": "Google DeepMind and Google Cloud are empowering European researchers by providing $3 million in compute credits and access to frontier AI models to accelerate scientific innovation.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1791961200000,
-            "date": "2026-10-14",
-            "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-            "summary_kr": "Third Moment Research는 최신 OpenAI 모델과 Codex를 결합해 1만 개의 AI 에이전트를 48시간 이상 자율 운영하며, 스스로 학습하고 성능을 최적화하는 시스템을 구축했습니다.",
-            "summary_en": "Third Moment Research has built a self-improving AI system that leverages OpenAI’s latest models and Codex to run 10,000 autonomous agents for over 48 hours, significantly optimizing research and computational workflows.",
-            "link": "https://openai.com/index/third-moment-research"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1791936000000,
-            "date": "2026-10-14",
-            "title": "Preparing for the 2026 US midterms",
-            "summary_kr": "앤스로픽은 2026년 미국 중간선거를 앞두고 클로드의 정치적 중립성을 강화하고, 신뢰할 수 있는 투표 정보 연동 및 실시간 개표 결과를 제공하여 선거 관련 오남용을 방지하는 안전 장치를 마련했습니다.",
-            "summary_en": "Ahead of the 2026 US midterms, Anthropic is strengthening election safeguards by enhancing Claude's political neutrality, integrating official voting information, and providing real-time election results to prevent misuse.",
-            "link": "https://www.anthropic.com/news/2026-us-midterms"
         }
     ]
 }
