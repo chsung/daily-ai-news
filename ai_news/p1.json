@@ -1,6 +1,13 @@
 {
-    "last_update": "2026-11-21 20:51:34",
+    "last_update": "2026-11-22 10:57:27",
     "articles": [
+        {
+            "title": "London's urgent race to make AI safer - BBC",
+            "summary_en": "London is positioning itself as a global leader in AI safety by hosting approximately 50 specialized organizations, including the government-backed AI Security Institute and the new AI Biosecurity Lab. By prioritizing ethical development and defense against risks like cyber-threats and pathogenic misuse, the city aims to counterbalance the industry's rapid growth with rigorous safety oversight.",
+            "link": "https://www.bbc.com/news/articles/cmvg23q5xq31o",
+            "timestamp": 1795248532000,
+            "date": "2026-11-21"
+        },
         {
             "title": "How Google Duplex evolved to also call businesses for you in Gemini - Google Research",
             "summary_en": "Google has integrated its decade-old Duplex technology into the Gemini app, transitioning from bespoke neural networks to a unified architecture powered by Gemini foundation models. This evolution enables autonomous, low-latency agentic calling to handle complex real-world tasks like business bookings and service inquiries.",
@@ -692,13 +699,6 @@
             "summary_en": "Anthropic's internal analysis reveals that AI-led tasks for developing the next-generation Claude model surged to 26%, up from just 1% a year ago. This acceleration in recursive self-improvement has prompted co-founder Jack Clark to pull his forecast for full AI-driven R&D forward to 2027, highlighting a critical shift toward autonomous technological evolution.",
             "link": "https://finance.biggo.com/news/d8fdb4dc-b092-4b3a-a3ae-c72f31ad034c",
             "timestamp": 1793600760000,
-            "date": "2026-11-02"
-        },
-        {
-            "title": "Samsung Executives Discuss AI Strategy With OpenAI CEO Sam Altman - www.thelec.net",
-            "summary_en": "Samsung is intensifying its company-wide AI transformation by partnering with OpenAI on infrastructure projects, such as the Stargate memory supply, and training its entire workforce to adopt AI in decision-making by February 2027. This strategic shift follows high-level meetings between executive leadership and Sam Altman to address the integration of AI across Samsung's global semiconductor, data center, and manufacturing divisions.",
-            "link": "https://www.thelec.net/news/articleView.html?idxno=15165",
-            "timestamp": 1793610944000,
             "date": "2026-11-02"
         }
     ]
