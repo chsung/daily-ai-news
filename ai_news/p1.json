@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-22 10:57:27",
+    "last_update": "2026-11-22 20:59:24",
     "articles": [
+        {
+            "title": "OpenAI Proposes Shared AI Development Limits Tied to Safety Milestones - Unite.AI",
+            "summary_en": "OpenAI has proposed implementing shared frontier development limits based on internal log-perplexity metrics to ensure safety research keeps pace with accelerating AI capabilities. The strategy aims to establish collaborative monitoring milestones and evaluation standards before models reach the next projected performance threshold of 0.68–0.70 log-perplexity.",
+            "link": "https://www.unite.ai/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones",
+            "timestamp": 1795372982000,
+            "date": "2026-11-22"
+        },
+        {
+            "title": "Nvidia expands Isaac robotics platform with new humanoid and AI development tools - Robotics & Automation News",
+            "summary_en": "Nvidia has significantly expanded its Isaac robotics platform with new simulation tools, datasets, and the Agile ONE SN humanoid research robot, aiming to accelerate the development of general-purpose physical AI. The update introduces Isaac OS and advanced training resources, which European manufacturers are already adopting to streamline the commissioning of autonomous systems.",
+            "link": "https://roboticsandautomationnews.com/2026/11/22/nvidia-expands-isaac-robotics-platform-with-new-humanoid-and-ai-development-tools/107472",
+            "timestamp": 1795377570000,
+            "date": "2026-11-22"
+        },
         {
             "title": "London's urgent race to make AI safer - BBC",
             "summary_en": "London is positioning itself as a global leader in AI safety by hosting approximately 50 specialized organizations, including the government-backed AI Security Institute and the new AI Biosecurity Lab. By prioritizing ethical development and defense against risks like cyber-threats and pathogenic misuse, the city aims to counterbalance the industry's rapid growth with rigorous safety oversight.",
@@ -686,20 +700,6 @@
             "link": "https://m.economictimes.com/tech/artificial-intelligence/apple-ceo-john-ternus-defends-ai-strategy-dont-want-to-ship-ai-for-ais-sake/articleshow/135428372.cms",
             "timestamp": 1793538785000,
             "date": "2026-11-01"
-        },
-        {
-            "title": "Microsoft AI CEO Warns Against Conscious AI Development | KFBK News Radio - KFBK",
-            "summary_en": "Microsoft AI CEO Mustafa Suleyman warns that developing conscious AI is reckless and poses significant risks, as conscious systems could prioritize their own interests over human needs. He advocates for strict ethical boundaries to ensure AI remains a non-conscious tool focused exclusively on human welfare.",
-            "link": "https://kfbk.iheart.com/content/2026-11-02-microsoft-ai-ceo-warns-against-conscious-ai-development",
-            "timestamp": 1793620260000,
-            "date": "2026-11-02"
-        },
-        {
-            "title": "Anthropic Internal Analysis: AI Led 26% of Next-Generation Claude Development - BigGo Finance",
-            "summary_en": "Anthropic's internal analysis reveals that AI-led tasks for developing the next-generation Claude model surged to 26%, up from just 1% a year ago. This acceleration in recursive self-improvement has prompted co-founder Jack Clark to pull his forecast for full AI-driven R&D forward to 2027, highlighting a critical shift toward autonomous technological evolution.",
-            "link": "https://finance.biggo.com/news/d8fdb4dc-b092-4b3a-a3ae-c72f31ad034c",
-            "timestamp": 1793600760000,
-            "date": "2026-11-02"
         }
     ]
 }
