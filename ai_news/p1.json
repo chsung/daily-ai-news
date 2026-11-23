@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-22 20:59:24",
+    "last_update": "2026-11-23 12:04:06",
     "articles": [
+        {
+            "title": "After Blockbuster Anthropic IPO, OpenAI Wants AI Rivals To Agree On Development ‘Limits’, While Meta Calls For Controlled Approach - Yahoo Finance",
+            "summary_en": "OpenAI has proposed establishing industry-wide development limits based on 'perplexity' scores to ensure safety until AI behavior can be reliably monitored. This call for transparency comes amid increasing regulatory scrutiny and warnings from peers like Meta regarding the potential risks of superhuman AI capabilities.",
+            "link": "https://finance.yahoo.com/technology/ai/articles/blockbuster-anthropic-ipo-openai-wants-031510105.html",
+            "timestamp": 1795403700000,
+            "date": "2026-11-23"
+        },
+        {
+            "title": "Google commits $5 million to IIT Kharagpur to boost advanced AI research - tele.net",
+            "summary_en": "Google has committed $5 million to IIT Kharagpur to advance applied AI research and infrastructure. The funding, announced during the institute's platinum jubilee, will specifically support development in agriculture, material science, and Indic language technologies.",
+            "link": "https://tele.net.in/national-news/google-commits-5-million-to-iit-kharagpur-to-boost-advanced-ai-research-12833029",
+            "timestamp": 1795410167000,
+            "date": "2026-11-23"
+        },
+        {
+            "title": "Nadella Says AI Reshapes Software Development and Microsoft Jobs - Demokratis.co.id",
+            "summary_en": "Microsoft CEO Satya Nadella confirmed that the rise of AI-driven agentic workflows is fundamentally shifting software development, leading the company to restructure its workforce and offer voluntary buyouts to 60,000 employees. Nadella emphasized that software engineers must transition from manual coding to managing automated systems as AI tools like Anthropic’s Claude Code disrupt traditional development environments.",
+            "link": "https://demokratis.co.id/en/nadella-ai-software-development-microsoft",
+            "timestamp": 1795432140000,
+            "date": "2026-11-23"
+        },
         {
             "title": "OpenAI Proposes Shared AI Development Limits Tied to Safety Milestones - Unite.AI",
             "summary_en": "OpenAI has proposed implementing shared frontier development limits based on internal log-perplexity metrics to ensure safety research keeps pace with accelerating AI capabilities. The strategy aims to establish collaborative monitoring milestones and evaluation standards before models reach the next projected performance threshold of 0.68–0.70 log-perplexity.",
@@ -679,27 +700,6 @@
             "link": "https://www.reuters.com/world/googles-use-press-by-ai-chatbot-may-infringe-copyright-rules-eu-court-adviser-2026-11-03",
             "timestamp": 1793733377000,
             "date": "2026-11-03"
-        },
-        {
-            "title": "Johns Hopkins cancer cell mapping technology chosen for Anthropic AI project - Johns Hopkins University",
-            "summary_en": "Johns Hopkins University has announced a partnership to apply its advanced cancer cell mapping technology to AI development projects led by Anthropic.",
-            "link": "https://hub.jhu.edu/2026/11/02/cancer-cell-mapping-anthropic-ai-for-science",
-            "timestamp": 1793645700000,
-            "date": "2026-11-02"
-        },
-        {
-            "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI | TechCrunch - TechCrunch",
-            "summary_en": "Anthropic’s recent S-1 filing reveals that the company is approaching the threshold of 'recursive self-improvement' (RSI), where AI models begin to autonomously enhance their own capabilities. The firm emphasizes that while this could drastically accelerate progress, it necessitates strict human supervision to mitigate potential safety and security risks.",
-            "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
-            "timestamp": 1793657690000,
-            "date": "2026-11-02"
-        },
-        {
-            "title": "Apple CEO John Ternus defends AI strategy: ‘Don't want to ship AI for AI's sake’ - The Economic Times",
-            "summary_en": "Apple CEO John Ternus has defended the company's measured AI strategy, emphasizing a focus on integrating AI to meaningfully improve user products rather than merely chasing industry trends. He also highlighted the critical importance of addressing cybersecurity risks as AI models become increasingly powerful.",
-            "link": "https://m.economictimes.com/tech/artificial-intelligence/apple-ceo-john-ternus-defends-ai-strategy-dont-want-to-ship-ai-for-ais-sake/articleshow/135428372.cms",
-            "timestamp": 1793538785000,
-            "date": "2026-11-01"
         }
     ]
 }
