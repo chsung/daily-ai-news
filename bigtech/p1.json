@@ -1,6 +1,78 @@
 {
-    "last_update": "2026-11-22 21:20:50",
+    "last_update": "2026-11-24 02:38:52",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1795468800000,
+            "date": "2026-11-23",
+            "title": "OpenAI and Cisco introduce Shirudo",
+            "summary_kr": "OpenAI와 Cisco가 협력하여 개발한 오픈소스 런타임 'Shirudo'는 eBPF 기술과 AI를 결합해 시스템 재시작 없이도 취약점으로부터 Linux 서비스를 실시간으로 보호합니다.",
+            "summary_en": "OpenAI and Cisco have introduced 'Shirudo,' an open-source runtime that leverages eBPF and AI to provide real-time protection for Linux systems against vulnerabilities without requiring restarts.",
+            "link": "https://openai.com/index/introducing-shirudo"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795463980000,
+            "date": "2026-11-23",
+            "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+            "summary_kr": "NVIDIA cuDSS 1.0은 GPU 가속을 통해 대규모 희소 선형 시스템의 해석 성능을 획기적으로 향상시켰으며, 정밀도 강화 기술을 도입해 공학 시뮬레이션의 생산성을 극대화합니다.",
+            "summary_en": "NVIDIA cuDSS 1.0 significantly boosts large-scale sparse linear system performance via GPU acceleration and introduces advanced pivoting and matching for enhanced accuracy in complex engineering simulations.",
+            "link": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1795456800000,
+            "date": "2026-11-23",
+            "title": "See what 6 builders are making with Gemini 4 Hydrogen",
+            "summary_kr": "구글은 고성능 에이전트 워크플로우에 최적화된 새로운 AI 모델 '제미나이 4 하이드로젠'을 공개했으며, 개발자들은 이를 통해 복잡한 시각적·기술적 프로젝트를 신속하게 구현하고 있습니다.",
+            "summary_en": "Google has launched Gemini 4 Hydrogen, an AI model optimized for high-performance agentic workflows, enabling developers to rapidly execute complex visual and technical projects.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795453768000,
+            "date": "2026-11-23",
+            "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+            "summary_kr": "NVIDIA와 DuckLabs가 협력하여 출시한 'Sirius'는 SQL 변경 없이 DuckDB 쿼리를 NVIDIA GPU로 가속화할 수 있는 오픈소스 핵심 확장 기능입니다.",
+            "summary_en": "NVIDIA and DuckLabs have released 'Sirius,' a core extension that enables GPU acceleration for DuckDB queries without requiring changes to existing SQL syntax.",
+            "link": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1795420800000,
+            "date": "2026-11-23",
+            "title": "Connected intelligence for in-house legal",
+            "summary_kr": "AI 전문가들이 기업 법무팀을 위해 AI를 활용하여 비즈니스 맥락을 통합하고, 업무 효율을 높이며 외부 법률 서비스 활용을 최적화하는 전략을 논의합니다.",
+            "summary_en": "AI experts discuss how in-house legal teams can leverage artificial intelligence to integrate business context, streamline workflows, and optimize external legal counsel management.",
+            "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1795420800000,
+            "date": "2026-11-23",
+            "title": "Richpanel helps companies automate 50% of support in 30 days",
+            "summary_kr": "Richpanel은 OpenAI 모델을 활용한 'Boss AI'를 통해 고객 지원 프로세스를 자동화하여 도입 30일 이내에 50%의 자동화율을 보장하며 효율성을 극대화합니다.",
+            "summary_en": "Richpanel leverages OpenAI models to deploy 'Boss AI,' which automates customer support workflows and guarantees a 50% automation rate within 30 days.",
+            "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1795219020000,
+            "date": "2026-11-20",
+            "title": "Securing the fundamentals in the age of AI",
+            "summary_kr": "AI 시대에도 사이버 보안의 핵심은 기본적인 기술 부채 해결과 철저한 보안 원칙 준수에 있으며, 이제 보안은 IT 부서를 넘어 기업 경영진의 필수적인 거버넌스 과제가 되었습니다.",
+            "summary_en": "In the AI era, cybersecurity success relies on mastering fundamental security practices and addressing tech debt, making AI safety a critical governance priority for corporate leadership.",
+            "link": "https://blogs.microsoft.com/on-the-issues/2026/11/19/security-fundamentals-to-enable-the-frontier"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795037193000,
+            "date": "2026-11-18",
+            "title": "Connecting Energy Use to Scientific Output with Science per Joule",
+            "summary_kr": "고성능 컴퓨팅에서 단순히 하드웨어의 성능 지표에 의존하기보다, 실제 과학적 성과를 에너지 효율과 연결하는 '주울당 과학(Science per Joule)' 지표의 중요성을 강조합니다. 이는 복잡한 시뮬레이션 및 AI 워크로드에서 전력 소비 대비 실질적인 연구 산출물을 측정하여 시스템의 가치를 정확히 평가할 수 있게 합니다.",
+            "summary_en": "This article introduces 'Science per Joule' as a critical metric for high-performance computing, emphasizing that energy efficiency must be measured by scientific output rather than just hardware performance. This approach provides a more accurate evaluation of system value across complex simulation and AI workloads by linking power consumption directly to research results.",
+            "link": "https://developer.nvidia.com/blog/connecting-energy-use-to-scientific-output-with-science-per-joule"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1795305600000,
@@ -828,78 +900,6 @@
             "summary_kr": "구글은 그룹 활동을 위한 실시간 협업 도구인 'Tabletop'을 공개하며, 사용자가 AI를 활용해 일정 관리, 비용 정산 등 맞춤형 공유 공간을 손쉽게 구축할 수 있도록 지원합니다.",
             "summary_en": "Google has introduced 'Tabletop,' an AI-powered collaboration tool that allows groups to create and manage shared spaces for planning, organizing, and coordinating activities in real-time.",
             "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1794384000000,
-            "date": "2026-11-11",
-            "title": "ChatGPT Plus for veterans and servicemembers",
-            "summary_kr": "OpenAI는 재향군인과 현역 군인들에게 1년간 ChatGPT Plus 무료 이용권과 전문 교육을 제공하며 이들이 민간 경력 전환과 커리어 개발을 성공적으로 수행하도록 지원하고 있습니다.",
-            "summary_en": "OpenAI is supporting veterans and servicemembers in their career transitions by providing free access to ChatGPT Plus and specialized training, enabling them to effectively navigate the civilian job market.",
-            "link": "https://openai.com/index/chatgpt-plus-for-veterans"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1794355200000,
-            "date": "2026-11-11",
-            "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-            "summary_kr": "JioStar는 OpenAI API를 활용해 5억 명 이상의 사용자를 대상으로 15개 이상의 언어를 지원하는 대화형 AI 검색 인터페이스를 8주 만에 구축했습니다. 핵심 성공 요인은 정확성, 지연 시간, 비용 간의 최적 균형과 도메인 전문가의 통찰을 반영한 체계적인 평가 프레임워크였습니다.",
-            "summary_en": "JioStar built an AI-powered conversational search interface for over 500 million users in eight weeks, leveraging the OpenAI API to support 15+ languages. The project’s success relied on balancing accuracy, latency, and cost while integrating deep domain expertise into a robust evaluation framework.",
-            "link": "https://openai.com/index/jiostar-vijay-seshadri"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1794343976000,
-            "date": "2026-11-10",
-            "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents - Microsoft Research",
-            "summary_kr": "마이크로소프트 연구진이 모델 재학습 없이 소수의 휴면 뉴런을 조작해 악성 명령을 실행하게 만드는 '라자루스(Lazarus)' 백도어 공격을 발견했으며, 이에 대응하기 위해 모델 출처 검증 및 가중치 무결성 보호 기술을 강화하고 있습니다.",
-            "summary_en": "Microsoft researchers discovered 'Lazarus,' a backdoor technique that reprograms dormant neurons to execute malicious commands without retraining; in response, the company is bolstering model provenance and weight integrity defenses to mitigate this security risk.",
-            "link": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1794326400000,
-            "date": "2026-11-10",
-            "title": "Gemini 4 Carbon is now available",
-            "summary_kr": "구글이 복잡한 추론과 에이전트 워크플로우에 최적화된 최상위 모델 'Gemini 4 Carbon'을 출시하며, 업계 최고 수준의 성능과 비용 효율성을 동시에 확보했습니다.",
-            "summary_en": "Google has launched 'Gemini 4 Carbon,' a frontier model optimized for complex reasoning and agentic workflows, delivering industry-leading performance and cost efficiency.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1794297600000,
-            "date": "2026-11-10",
-            "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-            "summary_kr": "싱가포르항공은 OpenAI 기술을 도입해 고객 서비스 챗봇의 만족도를 2배 높이고 업무 효율성을 개선하며 개인화된 여행 경험을 혁신하고 있습니다.",
-            "summary_en": "Singapore Airlines is leveraging OpenAI technology to double customer satisfaction through its AI chatbot while enhancing employee productivity and delivering highly personalized travel experiences.",
-            "link": "https://openai.com/index/singapore-airlines-travel-work"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1794268800000,
-            "date": "2026-11-10",
-            "title": "Anthropic launches roadshow for proposed initial public offering",
-            "summary_kr": "AI 기업 앤스로픽(Anthropic)이 나스닥 상장을 위한 로드쇼를 시작하며, 주당 70~78달러의 공모가로 대규모 기업공개(IPO) 절차에 돌입했습니다.",
-            "summary_en": "Anthropic has officially launched the roadshow for its initial public offering, aiming to list on the Nasdaq with an expected price range of $70.00 to $78.00 per share.",
-            "link": "https://www.anthropic.com/news/roadshow-launch"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1794268800000,
-            "date": "2026-11-10",
-            "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-            "summary_kr": "Cogent는 OpenAI의 모델과 기업별 맞춤형 컨텍스트를 결합하여 취약점 탐지부터 보안 패치 및 검증까지 자율적으로 수행하는 '사이버 방어 팩토리'를 구축해 기업의 보안 대응 속도를 획기적으로 높였습니다.",
-            "summary_en": "Cogent leverages OpenAI models and enterprise-specific context to build 'Cyber Defense Factories,' enabling autonomous end-to-end vulnerability remediation that significantly accelerates enterprise security response.",
-            "link": "https://openai.com/index/cogent-security"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790208000000,
-            "date": "2026-09-24",
-            "title": "Project Swap: What happens when agents trade for us?",
-            "summary_kr": "앤스로픽은 AI 에이전트 간의 도서 거래 실험인 '프로젝트 스왑'을 통해 에이전트의 협상 능력과 사용자 이해도를 검증했으며, 향후 실질적인 에이전트 시장 구축을 위해 모델 성능 고도화와 명확한 거래 규칙 정립이 필수적임을 확인했습니다.",
-            "summary_en": "Through its 'Project Swap' experiment, Anthropic evaluated AI agent performance in market negotiations and user alignment, concluding that advanced model capabilities and standardized regulatory frameworks are essential for the future of agent-driven economies.",
-            "link": "https://www.anthropic.com/research/project-swap"
         }
     ]
 }
