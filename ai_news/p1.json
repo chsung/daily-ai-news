@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-24 02:04:54",
+    "last_update": "2026-11-24 23:49:36",
     "articles": [
+        {
+            "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
+            "summary_en": "Recent reports indicate that employees at OpenAI and Anthropic are increasingly concerned that their unreleased AI models possess safety risks that may be too severe for public deployment.",
+            "link": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+            "timestamp": 1795520778000,
+            "date": "2026-11-24"
+        },
+        {
+            "title": "Supercharging transformer residual connections - Google Research",
+            "summary_en": "Google Research introduced DeepCrossAttention (DCA), an architecture that mitigates information dilution in transformers by using dynamic routing to selectively retrieve features from previous layers. This innovation allows models to achieve equivalent performance up to three times faster while reducing parameter requirements by 30-40%.",
+            "link": "https://research.google/blog/supercharging-transformer-residual-connections",
+            "timestamp": 1795454957000,
+            "date": "2026-11-23"
+        },
+        {
+            "title": "Amazon to purchase Decart's AI optimization technology - About Amazon",
+            "summary_en": "Amazon has signed an agreement to acquire the Decart Optimization Stack and its engineering team to enhance the performance and efficiency of its custom AI silicon, including Trainium chips. This move aims to accelerate inference speeds and lower compute costs for customers running large-scale AI models.",
+            "link": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+            "timestamp": 1795441619000,
+            "date": "2026-11-23"
+        },
         {
             "title": "Meta AI Chief's Dire Warning Over Impact of Superintelligence - Newsweek",
             "summary_en": "Meta's AI chief and other industry experts are warning that the rapid, uncontrolled development of superintelligence poses significant risks to human agency. Critics are calling for concrete regulatory action rather than descriptive warnings, following reports of AI achieving milestones in advanced mathematics.",
@@ -678,27 +699,6 @@
             "summary_en": "Google has introduced a comprehensive framework for medical AI to address the critical 'safety gap' in healthcare, focusing on rigorous testing protocols for bias detection, data quality, and continuous post-deployment monitoring. The initiative aims to standardize performance benchmarks for health algorithms, which are increasingly being utilized for diagnosis and patient triage.",
             "link": "https://www.techbuzz.ai/articles/google-unveils-safety-framework-for-medical-ai-development",
             "timestamp": 1793804451000,
-            "date": "2026-11-04"
-        },
-        {
-            "title": "OpenAI Just Bought Another AI Coding Startup. Here's What It Wants To Build - Benzinga",
-            "summary_en": "OpenAI has expanded its technological capabilities by acquiring another AI coding startup, reflecting the company’s ongoing strategy to strengthen its software development toolset and artificial intelligence infrastructure.",
-            "link": "https://www.benzinga.com/markets/private-markets/26/11/62880116/openai-just-bought-another-ai-coding-startup-heres-what-it-wants-to-build",
-            "timestamp": 1793816363000,
-            "date": "2026-11-04"
-        },
-        {
-            "title": "Amazon rewrites its software engineering playbook for an era when AI writes the code - GeekWire",
-            "summary_en": "Amazon has overhauled its software engineering practices as AI now generates the majority of its code, shifting focus from traditional metrics like lines of code to customer-centric outcomes. The company established 'Velocity Labs' to accelerate prototype development and issued new guidelines to ensure engineers prioritize high-value work over mere AI tool usage volume.",
-            "link": "https://www.geekwire.com/2026/amazon-rewrites-its-software-engineering-playbook-for-an-era-when-ai-writes-the-code",
-            "timestamp": 1793737614000,
-            "date": "2026-11-03"
-        },
-        {
-            "title": "Apple Readies Launch of AI-Powered Health App | PYMNTS.com - PYMNTS.com",
-            "summary_en": "Apple is rolling out a redesigned Health app powered by Apple Intelligence, featuring advanced metrics like a 'Health Age' score and at-home movement evaluations. Additionally, the company is enabling developers to integrate third-party app actions directly into Siri AI using new App Intents capabilities.",
-            "link": "https://www.pymnts.com/fitness/2026/apple-readies-launch-of-ai-powered-health-app",
-            "timestamp": 1793753424000,
             "date": "2026-11-04"
         }
     ]
