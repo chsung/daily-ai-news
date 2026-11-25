@@ -1,6 +1,87 @@
 {
-    "last_update": "2026-11-25 00:12:09",
+    "last_update": "2026-11-25 23:50:51",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794844800000,
+            "date": "2026-11-16",
+            "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
+            "summary_kr": "엔비디아는 과학 연구의 정확도와 효율성을 높이기 위해 전문 모델인 'Nemotron for Science'를 출시하고, 연구자가 특정 도메인에 맞춰 모델을 최적화할 수 있는 사후 학습 가이드를 제공합니다.",
+            "summary_en": "NVIDIA has introduced 'Nemotron for Science' to enhance scientific research accuracy and efficiency, providing a practical framework for researchers to post-train and customize models for specific domain use cases.",
+            "link": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794844800000,
+            "date": "2026-11-16",
+            "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
+            "summary_kr": "엔비디아의 차세대 Vera Rubin NVL72 시스템은 MLPerf Endpoints v1.0 벤치마크에서 이전 세대인 GB300 대비 전력 효율당 처리량을 10배 이상 향상하며 에이전트 AI 추론 성능의 새로운 기준을 제시했습니다.",
+            "summary_en": "NVIDIA's Vera Rubin NVL72 system has set a new benchmark in agentic AI inference, delivering over 10x the throughput per kilowatt compared to the previous-generation GB300 in the MLPerf Endpoints v1.0 tests.",
+            "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794844800000,
+            "date": "2026-11-16",
+            "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+            "summary_kr": "NVIDIA의 차세대 Vera Rubin NVL72 플랫폼은 MLPerf Training v6.1에서 기존 GB300 대비 최대 2배 높은 학습 성능을 기록하며 전 모델 부문에서 업계 최고 수준의 효율성을 입증했습니다.",
+            "summary_en": "NVIDIA's next-generation Vera Rubin NVL72 platform debuted at MLPerf Training v6.1, delivering up to 2x the performance of the GB300 and demonstrating industry-leading efficiency across all tested AI benchmarks.",
+            "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1794787200000,
+            "date": "2026-11-16",
+            "title": "Updating our coordinated vulnerability disclosure policy timelines",
+            "summary_kr": "AI의 취약점 탐지 속도가 빨라짐에 따라, 고위험 취약점의 공개 대응 기간을 90일에서 30일로 단축하고 공개 표준을 최신화합니다.",
+            "summary_en": "To keep pace with accelerated AI-driven vulnerability discovery, the company is shortening its coordinated disclosure timeline for critical issues from 90 days to 30 days.",
+            "link": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794608031000,
+            "date": "2026-11-13",
+            "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+            "summary_kr": "NVIDIA cuBLAS의 새로운 알고리즘(Ozaki-II 및 2M)은 고성능 정수 텐서 코어를 활용해 FP64 정밀도를 유지하면서도 과학 시뮬레이션 연산 속도를 대폭 향상시켰습니다.",
+            "summary_en": "NVIDIA cuBLAS's new algorithms, Ozaki-II and 2M, leverage high-performance integer Tensor Cores to significantly accelerate scientific simulations while maintaining full FP64 precision.",
+            "link": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790812800000,
+            "date": "2026-10-01",
+            "title": "Barclays scales Claude to upgrade operations and improve client experience",
+            "summary_kr": "바클레이즈가 앤스로픽과의 협력을 확대하여 '클로드'를 전사적으로 도입함으로써 소프트웨어 개발 효율성을 높이고, AI 기반의 고객 지원 및 운영 혁신을 가속화합니다.",
+            "summary_en": "Barclays is expanding its partnership with Anthropic to integrate Claude across its operations, aiming to boost software development efficiency and drive AI-powered innovation in customer service and business processes.",
+            "link": "https://www.anthropic.com/news/barclays-scales-claude"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1790812800000,
+            "date": "2026-10-01",
+            "title": "Claude-shaped science",
+            "summary_kr": "현재 AI 모델과 연구자 간의 '임피던스 불일치(impedance mismatch)'를 극복하기 위해, AI의 강점에 맞춘 도구 세트인 '부트루프(BootLoops)'를 활용하여 과학적 난제를 해결하는 새로운 방법론을 제시합니다.",
+            "summary_en": "To overcome the 'impedance mismatch' between AI and researchers, the article proposes 'BootLoops,' a tool-suite methodology designed to align AI's strengths with specific scientific problems to drive substantive progress.",
+            "link": "https://www.anthropic.com/research/claude-shaped-science"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794604637000,
+            "date": "2026-11-13",
+            "title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+            "summary_kr": "엔비디아의 cuPhoton.xBeam 기술은 GPU 가속을 통해 블랙홀 관측 데이터를 기존 CPU 대비 460배 빠르게 처리함으로써 차세대 사건 지평선 망원경(ngEHT)의 데이터 분석 효율을 획기적으로 개선했습니다.",
+            "summary_en": "NVIDIA's cuPhoton.xBeam technology accelerates black hole observational data processing by 460x compared to CPUs, significantly enhancing the efficiency of the next-generation Event Horizon Telescope (ngEHT).",
+            "link": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794596230000,
+            "date": "2026-11-13",
+            "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+            "summary_kr": "NVIDIA가 공개한 cuDLA 파이썬 바인딩을 통해 개발자는 C++ 없이도 Jetson AGX Orin 환경에서 DLA 하드웨어를 활용해 효율적인 AI 추론을 구현할 수 있게 되었습니다.",
+            "summary_en": "NVIDIA's new cuDLA Python bindings enable developers to execute efficient AI inference on Jetson AGX Orin hardware directly through Python, eliminating the need for C++ runtime management.",
+            "link": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1794589200000,
@@ -819,87 +900,6 @@
             "summary_kr": "Qodo는 OpenAI의 Codex와 결합하여 조직의 코드베이스 문맥과 표준을 AI 코딩 에이전트에 제공함으로써 복잡한 종속성을 파악하고 치명적인 버그를 사전에 방지합니다.",
             "summary_en": "Qodo integrates organizational context and codebase standards into OpenAI's Codex, enabling AI agents to proactively identify dependencies and prevent critical bugs across complex repositories.",
             "link": "https://openai.com/index/qodo-codex-plugin"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1793577600000,
-            "date": "2026-11-02",
-            "title": "Giving every team a data scientist with Grok Bot",
-            "summary_kr": "SpaceXSI는 데이터 과학 팀의 전문 지식을 학습한 AI 에이전트 'Data Bot'을 개발하여, 모든 조직원이 실시간으로 전문적인 데이터 분석을 수행하고 업무 효율을 높일 수 있도록 지원합니다.",
-            "summary_en": "SpaceXSI developed 'Data Bot,' an AI agent trained with the data science team's expertise, enabling all employees to conduct professional-grade data analysis and receive insights in real-time.",
-            "link": "https://x.ai/news/data-bot"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793318400000,
-            "date": "2026-10-30",
-            "title": "Fair use benefits everyone",
-            "summary_kr": "다양한 분야의 전문가들은 AI 학습이 저작권법상 '공정 이용(Fair Use)' 원칙에 해당하며, 이는 혁신을 촉진하고 공익을 증진하는 필수적인 과정이라고 주장합니다.",
-            "summary_en": "Experts across diverse fields argue that AI training constitutes 'fair use' under copyright law, asserting it is a vital practice that fosters innovation and delivers broad public benefits.",
-            "link": "https://openai.com/index/fair-use-benefits-everyone"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1789603200000,
-            "date": "2026-09-17",
-            "title": "How Claude is uplifting biomolecular modeling",
-            "summary_kr": "앤스로픽은 클로드의 추론 최적화 기술을 통해 단백질 설계 및 구조 예측 모델의 연산 효율을 최대 4배 향상시켰으며, 이를 오픈소스로 공개하여 신약 개발 연구의 접근성을 대폭 높였습니다.",
-            "summary_en": "Anthropic has optimized Claude to accelerate biological modeling tasks by up to 4x, significantly increasing research accessibility in drug discovery by open-sourcing these efficient models.",
-            "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793396131000,
-            "date": "2026-10-30",
-            "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
-            "summary_kr": "NVIDIA는 복잡한 인프라 종속성을 해결하고 배포 과정을 간소화하기 위해, NVIDIA Dynamo를 위한 검증된 레시피 기반의 AI 클러스터 런타임(AICR)을 제공합니다.",
-            "summary_en": "NVIDIA provides the AI Cluster Runtime (AICR) to simplify deployment by bundling NVIDIA Dynamo with validated recipes that resolve complex infrastructure dependencies.",
-            "link": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793392398000,
-            "date": "2026-10-30",
-            "title": "Run AI Models for Edge Application Development with Just a Few Commands",
-            "summary_kr": "NVIDIA DGX Spark와 TensorRT Edge-LLM은 임베디드 개발자가 복잡한 설정 없이 몇 개의 명령어로 AI 모델을 프로토타이핑하고 엣지 환경에 최적화된 추론을 배포할 수 있도록 지원합니다.",
-            "summary_en": "NVIDIA DGX Spark and TensorRT Edge-LLM enable embedded developers to prototype AI models and deploy optimized inference for edge applications with minimal setup using simple CLI commands.",
-            "link": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1789603200000,
-            "date": "2026-09-17",
-            "title": "Introducing the Life Sciences Verification Program",
-            "summary_kr": "생명과학 전문가들을 위한 'LSVP' 프로그램이 출시되어, 검증된 연구 기관은 약물 발견 및 바이오 연구를 위해 강화된 모델 권한과 안전한 가이드라인을 제공받게 됩니다.",
-            "summary_en": "The new Life Sciences Verification Program (LSVP) provides vetted research institutions with specialized access to AI models for complex biological tasks while maintaining rigorous safety and ethical oversight.",
-            "link": "https://www.anthropic.com/news/life-sciences-verification-program"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1793382645000,
-            "date": "2026-10-30",
-            "title": "Estée Lauder Companies infuses AI across global operations with Microsoft cloud tools",
-            "summary_kr": "에스티 로더는 마이크로소프트의 클라우드 및 AI 도구를 도입해 데이터 플랫폼을 통합하고, 제품 혁신과 개인화된 고객 경험을 강화하는 전사적 디지털 전환을 추진합니다.",
-            "summary_en": "Estée Lauder is undergoing a digital transformation by leveraging Microsoft’s cloud and AI tools to unify its data platform, thereby accelerating product innovation and delivering personalized consumer experiences.",
-            "link": "https://news.microsoft.com/source/features/digital-transformation/estee-lauder-expands-ai-across-beauty-business"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1793379600000,
-            "date": "2026-10-30",
-            "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-            "summary_kr": "프로젝트 선캐처(Project Suncatcher)가 궤도 위 데이터 센터급 TPU에서 AI 모델을 성공적으로 구동하며, 우주 공간에서의 AI 컴퓨팅 성능 검증이라는 중요한 이정표를 달성했습니다.",
-            "summary_en": "Project Suncatcher has achieved a key milestone by successfully running an AI model on a data-center-class TPU in orbit, proving the feasibility of space-based AI computing.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1793376000000,
-            "date": "2026-10-30",
-            "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
-            "summary_kr": "NVIDIA NemoClaw는 오픈 블루프린트를 통해 기존 에이전트 하네스와 최적화된 모델, 보안 런타임을 결합하여 기업 환경에 적합한 신뢰성 높은 자율형 에이전트 구축을 지원합니다.",
-            "summary_en": "NVIDIA NemoClaw provides open blueprints to integrate existing agent harnesses with optimized models and secure runtimes, enabling the development of reliable, production-grade autonomous agents.",
-            "link": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw"
         }
     ]
 }
