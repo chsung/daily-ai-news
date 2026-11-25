@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-25 12:25:11",
+    "last_update": "2026-11-25 23:31:40",
     "articles": [
+        {
+            "title": "California sues OpenAI over alleged unsafe AI development practices - Jurist.org",
+            "summary_en": "California Attorney General Rob Bonta has sued OpenAI, alleging the company misled the public regarding safety protocols and created a public nuisance by failing to implement adequate safeguards for its AI models.",
+            "link": "https://www.jurist.org/news/2026/11/california-sues-openai-over-alleged-unsafe-ai-development-practices",
+            "timestamp": 1795632007000,
+            "date": "2026-11-25"
+        },
+        {
+            "title": "AWS CFO John Felton explains Amazon's record $220 billion AI push - Business Insider",
+            "summary_en": "AWS CFO John Felton announced a record $220 billion capital expenditure for AI infrastructure, emphasizing a strategy of securing long-term assets like power and land early while delaying server purchases to align with actual customer demand.",
+            "link": "https://www.businessinsider.com/aws-cfo-john-felton-amazon-record-220-billion-ai-push-2026-11",
+            "timestamp": 1795600800000,
+            "date": "2026-11-25"
+        },
+        {
+            "title": "Google's Cogentic agent posts six math papers, led by a claimed proven L[1/3] bound for factoring integers - MLQ.ai",
+            "summary_en": "Google's AI agent, Cogentic, has published six research papers in the field of mathematics, including a notable claim regarding the proof of an L[1/3] bound for factoring integers.",
+            "link": "https://mlq.ai/news/googles-cogentic-agent-posts-six-math-papers-led-by-a-claimed-proven-l13-bound-for-factoring-integers",
+            "timestamp": 1795623886000,
+            "date": "2026-11-25"
+        },
         {
             "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes | TechCrunch - TechCrunch",
             "summary_en": "Anthropic has launched 'Claude Ship,' a suite of AI agents designed to automate the review, repair, and approval of routine code changes for GitHub repositories. By allowing developers to set natural language approval policies, the tool aims to resolve bottlenecks caused by AI-generated code that outpaces human review capacity.",
@@ -678,27 +699,6 @@
             "summary_en": "Regulatory authorities are intensifying restrictions on the construction and operation of data centers as the rapid expansion of AI infrastructure places unprecedented demands on local resources.",
             "link": "https://www.reuters.com/legal/litigation/where-authorities-are-restricting-data-centres-amid-ai-boom-2026-11-05",
             "timestamp": 1793890846000,
-            "date": "2026-11-05"
-        },
-        {
-            "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults - CoinDesk",
-            "summary_en": "Google has reportedly secured an option to acquire a stake in bitcoin miner TeraWulf’s $19 billion AI data center project in the event that Anthropic fails to meet its contractual obligations.",
-            "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-            "timestamp": 1793885380000,
-            "date": "2026-11-05"
-        },
-        {
-            "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research - SecurityWeek",
-            "summary_en": "OpenAI successfully utilized an autonomous research pipeline to identify and create functional exploits for 948 Linux kernel vulnerabilities at a cost of $1.2 million, uncovering 10 novel exploitation techniques. This feat underscores the potential for AI to dramatically accelerate cyber offensive capabilities, prompting OpenAI to increase its security bug bounty payouts to further strengthen its defensive research.",
-            "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research",
-            "timestamp": 1793899957000,
-            "date": "2026-11-05"
-        },
-        {
-            "title": "AWS launches Kiro bots to help devs coordinate AI coding agents - InfoWorld",
-            "summary_en": "AWS has launched Kiro bots within its Kiro Crew environment to help developers manage multiple AI coding agents by automating workflows and maintaining persistent project context. While these bots improve productivity by delegating coordination tasks, experts warn they may increase operational costs due to the compounding token and compute consumption of parallel agent execution.",
-            "link": "https://www.infoworld.com/article/4245120/aws-launches-kiro-bots-to-help-devs-coordinate-ai-coding-agents.html",
-            "timestamp": 1793905291000,
             "date": "2026-11-05"
         }
     ]

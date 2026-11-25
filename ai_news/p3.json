@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-25 12:25:11",
+    "last_update": "2026-11-25 23:31:40",
     "articles": [
+        {
+            "title": "CSL partners with AWS on AI for drug research and development - Investing.com",
+            "summary_en": "Biotechnology company CSL has entered a strategic partnership with Amazon Web Services to leverage cloud-based AI for accelerating pharmaceutical research and drug discovery.",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjRwQlpJVWp6RUIxOEU1SEdCdkNhWjFHaHE1RE1ZLTA2bzBWNGg3X042MDJSQTF0aFJ1bmc5MXJWUlQybzE2WWt4MmVsNkt6WXpGWEVFZ2t3UnUyRFhyR2hXZkJSOWJrN2RKODZYMjFFS1lIWE5mT21tU1pPeVJRME82RlNLOWtOdmxOejUxZ2VpQmhDR2JQN3pRYmVsaGN2di1FTGxGcWVVREtQQUQ3SWJMODdKQV9nUGxyb1cwMmg?oc=5",
+            "timestamp": 1790644475000,
+            "date": "2026-09-29"
+        },
+        {
+            "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment - NVIDIA Newsroom",
+            "summary_en": "NVIDIA has introduced an Open Agent Safety Platform designed to provide comprehensive security oversight for AI agents throughout their entire lifecycle, from initial testing to final deployment.",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdzBTN1hGTnNfZXZNWUU1MjhzQnpHUndjNkNYMGZiRGc1TDR5NExfTmtrbkFvZU5Fakp1eG1CVVFOZ0tpYzJ2aFVVY1pCSFY4Vl80Tkhqbkp3blMyejJkUXdpTVlBZWdzd2VKdVdR?oc=5",
+            "timestamp": 1790586471000,
+            "date": "2026-09-28"
+        },
+        {
+            "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown - CNBC",
+            "summary_en": "Anthropic has released a more cost-effective AI model, marking its second major product launch since the company's leadership previously advocated for a moderated pace of industry development.",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qRGtiMER0c2RNRG5wOWl1ZWd4aEszaTJqWW5hWnI3cXpVaHBtTzlGYnQ2bTBsMnhXSkxONXdLVVpXQ0IxSG9RR2tXTnNiM2J0Qk5sbXJqVTVQRUFERXBSNEVPa2NmWHpYMDNOaktSNUNlUdIBd0FVX3lxTE9VUlRzOG8tVjJtWXpKb0hFNlduRU1QU1dlS2xPaHpBSzlxcWxzbFRBT19oMEJMdjgyd0c2elZXcV9vT1lGNU9VR0VqZGZxTThIRW5kLTlMTEUxdEhhUEs2NjJabER2UUdpaTVFdzZxWTVkX0JTeGU4?oc=5",
+            "timestamp": 1790618406000,
+            "date": "2026-09-28"
+        },
         {
             "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
             "summary_en": "Nvidia has launched a new software platform designed to establish safety guardrails for AI agents, aimed at preventing unpredictable or harmful behaviors during autonomous operation.",
@@ -678,27 +699,6 @@
             "summary_en": "OpenAI has officially achieved its goal of developing an 'automated research intern' capable of executing multi-day research tasks under human supervision. The company now utilizes 3.1 agent-workdays of effort for every human workday, signaling a significant shift toward automated workflows.",
             "link": "https://www.helpnetsecurity.com/2026/09/07/openai-research-automation-intern",
             "timestamp": 1788771918000,
-            "date": "2026-09-07"
-        },
-        {
-            "title": "OpenAI Hits Goal of Building an ‘Automated Research Intern’ - Unite.AI",
-            "summary_en": "Internal data reveals that OpenAI's research efficiency has surged, with median daily agent inference costs exceeding $600 per researcher by mid-August 2026. This increased reliance on coding agents and concurrent workflows has set a record for the number of experiments conducted per researcher since tracking began in 2025.",
-            "link": "https://www.unite.ai/openai-hits-goal-of-building-an-automated-research-intern",
-            "timestamp": 1788721861000,
-            "date": "2026-09-06"
-        },
-        {
-            "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns - The Guardian",
-            "summary_en": "Matt Clifford, chair of the UK’s Advanced Research and Invention Agency (Aria), has resigned following concerns from senior MPs regarding a conflict of interest created by his new role at Anthropic. The incident highlights growing scrutiny over the 'revolving door' between UK government policy roles and high-profile positions at private AI corporations.",
-            "link": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
-            "timestamp": 1788798120000,
-            "date": "2026-09-07"
-        },
-        {
-            "title": "Cathay Pacific and Google Partner to Research and Trial AI-Powered Contrail Avoidance - CXOToday.com",
-            "summary_en": "Cathay Pacific has partnered with Google to pilot an AI-driven tool that helps pilots adjust flight altitudes to avoid forming contrails, which account for roughly one-third of aviation's climate impact. This initiative marks the first global test of such technology on ultra-long-haul flights, utilizing real-world data to refine predictive models for large-scale industry application.",
-            "link": "https://cxotoday.com/media-coverage/cathay-pacific-and-google-partner-to-research-and-trial-ai-powered-contrail-avoidance",
-            "timestamp": 1788797893000,
             "date": "2026-09-07"
         }
     ]
