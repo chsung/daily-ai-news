@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-24 23:49:36",
+    "last_update": "2026-11-25 12:25:11",
     "articles": [
+        {
+            "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes | TechCrunch - TechCrunch",
+            "summary_en": "Anthropic has launched 'Claude Ship,' a suite of AI agents designed to automate the review, repair, and approval of routine code changes for GitHub repositories. By allowing developers to set natural language approval policies, the tool aims to resolve bottlenecks caused by AI-generated code that outpaces human review capacity.",
+            "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+            "timestamp": 1795471550000,
+            "date": "2026-11-23"
+        },
+        {
+            "title": "Meta’s AI chief says superintelligence is ‘arriving’ - The Rundown AI",
+            "summary_en": "Meta Chief AI Officer Alexandr Wang warned that superintelligence is imminent and urged the industry to prioritize human oversight over the 'default path' of rapid advancement. His call for caution highlights an internal shift toward stricter safety protocols, such as automated monitoring and board-level intervention, to manage the risks of AI conducting independent research.",
+            "link": "https://www.therundown.ai/news/meta-alexandr-wang-superintelligence-warning",
+            "timestamp": 1795532681000,
+            "date": "2026-11-24"
+        },
         {
             "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release - Axios",
             "summary_en": "Recent reports indicate that employees at OpenAI and Anthropic are increasingly concerned that their unreleased AI models possess safety risks that may be too severe for public deployment.",
@@ -686,20 +700,6 @@
             "link": "https://www.infoworld.com/article/4245120/aws-launches-kiro-bots-to-help-devs-coordinate-ai-coding-agents.html",
             "timestamp": 1793905291000,
             "date": "2026-11-05"
-        },
-        {
-            "title": "Meta acquires Conductor as AI coding shifts toward multi-agent development - InfoWorld",
-            "summary_en": "Meta has acquired AI coding startup Conductor to advance its strategy in multi-agent development, aiming to provide a platform that coordinates various third-party AI coding agents. While analysts view this as a step toward enterprise development tools, Meta must still overcome significant hurdles regarding security, governance, and integration to challenge established leaders like Microsoft.",
-            "link": "https://www.infoworld.com/article/4245065/meta-acquires-conductor-as-ai-coding-shifts-toward-multi-agent-development.html",
-            "timestamp": 1793874325000,
-            "date": "2026-11-05"
-        },
-        {
-            "title": "Google Unveils Safety Framework for Medical AI Development - The Tech Buzz",
-            "summary_en": "Google has introduced a comprehensive framework for medical AI to address the critical 'safety gap' in healthcare, focusing on rigorous testing protocols for bias detection, data quality, and continuous post-deployment monitoring. The initiative aims to standardize performance benchmarks for health algorithms, which are increasingly being utilized for diagnosis and patient triage.",
-            "link": "https://www.techbuzz.ai/articles/google-unveils-safety-framework-for-medical-ai-development",
-            "timestamp": 1793804451000,
-            "date": "2026-11-04"
         }
     ]
 }
