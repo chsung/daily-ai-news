@@ -1,6 +1,132 @@
 {
-    "last_update": "2026-11-24 02:38:52",
+    "last_update": "2026-11-25 00:12:09",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793372496000,
+            "date": "2026-10-30",
+            "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+            "summary_kr": "NVIDIA는 GPUDirect Storage(GDS)의 구성을 간소화하고 최적화하기 위해 명령줄 도구 및 AI 에이전트 인터페이스를 제공하는 'gds-diag' 유틸리티를 소개했습니다.",
+            "summary_en": "NVIDIA introduced the 'gds-diag' utility, which provides both command-line and AI-agent interfaces to simplify and optimize the configuration and diagnostic process for GPUDirect Storage (GDS).",
+            "link": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793365528000,
+            "date": "2026-10-30",
+            "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence - Microsoft Research",
+            "summary_kr": "마이크로소프트는 기업 고객의 민감한 데이터를 보호하면서도 복잡한 실제 비즈니스 환경을 정밀하게 테스트하기 위해 공개 데이터를 기반으로 한 대규모 합성 데이터 평가 플랫폼을 구축했습니다.",
+            "summary_en": "Microsoft has developed a large-scale synthetic data evaluation platform, utilizing publicly available information to rigorously test enterprise AI performance without compromising sensitive customer data.",
+            "link": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793352600000,
+            "date": "2026-10-30",
+            "title": "Making it easier for websites to express AI training preferences",
+            "summary_kr": "OpenAI는 웹사이트 운영자가 AI 학습 데이터 활용 여부를 일괄적으로 설정할 수 있도록 robots.txt 내 통합 신호 체계를 도입합니다.",
+            "summary_en": "OpenAI is adopting a standardized robots.txt signal to allow website operators to easily manage AI training data preferences across multiple providers simultaneously.",
+            "link": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793350800000,
+            "date": "2026-10-30",
+            "title": "Community safety report and new protections for teens",
+            "summary_kr": "OpenAI는 커뮤니티 안전 보고서 발간을 통해 투명성을 강화하고, 청소년 보호를 위해 총기 관련 콘텐츠 제한 및 폭력 위험 감지 대응을 더욱 엄격하게 시행합니다.",
+            "summary_en": "OpenAI is enhancing transparency through a new Community Safety Report and tightening restrictions on firearm-related content and sensitive information to better protect minors and prevent violence.",
+            "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793232000000,
+            "date": "2026-10-29",
+            "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+            "summary_kr": "크레딧 세이손은 ChatGPT 엔터프라이즈 파일럿 프로젝트를 통해 954%의 투자 수익률(ROI)과 인당 월 14시간의 업무 시간 절감을 달성하며 전사적 도입을 성공적으로 이끌어냈습니다.",
+            "summary_en": "Credit Saison successfully scaled ChatGPT Enterprise companywide after a pilot program achieved a 954% ROI and saved 14 hours of work per employee each month.",
+            "link": "https://openai.com/index/credit-saison"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793125475000,
+            "date": "2026-10-27",
+            "title": "The platform approach to becoming Frontier - The Official Microsoft Blog",
+            "summary_kr": "마이크로소프트는 '프론티어 트랜스포메이션(Frontier Transformation)' 전략을 통해 인간의 야망, 지능, 신뢰를 중심으로 AI를 단순한 생산성 도구가 아닌 비즈니스 가치를 창출하는 플랫폼으로 진화시키고 있습니다.",
+            "summary_en": "Microsoft is advancing 'Frontier Transformation' by positioning its AI stack as a comprehensive platform that drives business outcomes by integrating human ambition, intelligence, and trust.",
+            "link": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793122445000,
+            "date": "2026-10-27",
+            "title": "The AI advantage your company can keep | Microsoft Copilot Blog",
+            "summary_kr": "기업이 AI 에이전트를 효율적으로 운영하고 성과를 창출하려면 공유된 지식 체계인 '지식 중추(Knowledge Spine)'를 구축하여 에이전트의 학습 데이터를 조직적 자산으로 통합해야 합니다.",
+            "summary_en": "To gain an operational edge, enterprises must transition from manual agent coordination to a 'knowledge spine' architecture that transforms AI-driven lessons into scalable, proprietary organizational intelligence.",
+            "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793293200000,
+            "date": "2026-10-29",
+            "title": "An updated Model Spec for more capable and beneficial AI",
+            "summary_kr": "OpenAI는 인간의 의도를 깊이 이해하고 윤리적 판단력을 강화하기 위해 5가지 핵심 가치를 중심으로 AI 모델의 행동 지침인 '모델 사양(Model Spec)'을 개정했습니다.",
+            "summary_en": "OpenAI has updated its Model Spec, centering on five core values to ensure AI models better align with human intent and exercise responsible judgment beyond simple instruction following.",
+            "link": "https://openai.com/index/updated-model-spec"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1793286000000,
+            "date": "2026-10-29",
+            "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+            "summary_kr": "기존 FP32 연산의 정밀도를 유지하면서 NVIDIA 텐서 코어의 고속 행렬 연산 성능을 활용하는 'Tensor Core FP32' 기법이 머신러닝 기반 원자 간 퍼텐셜(MLIP) 시뮬레이션의 효율성을 획기적으로 개선합니다.",
+            "summary_en": "The implementation of 'Tensor Core FP32' methods enables machine learning interatomic potentials (MLIPs) to achieve significant performance gains by leveraging high-throughput Tensor Core operations while maintaining the numerical precision required for stable molecular dynamics simulations.",
+            "link": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1793285976000,
+            "date": "2026-10-29",
+            "title": "New technology is creating new opportunities for people to learn and build skills",
+            "summary_kr": "마이크로소프트는 데이터센터 소재 지역사회에 AI 교육과 자원을 지원하는 '커뮤니티 우선 AI 인프라' 정책을 통해 주민들의 디지털 격차를 해소하고 새로운 역량 개발을 돕고 있습니다.",
+            "summary_en": "Microsoft is bridging the digital divide and fostering local skill development by providing AI training and resources to communities hosting its datacenters through its 'Community-First AI Infrastructure' initiative.",
+            "link": "https://news.microsoft.com/source/features/ai/local-know-how-helps-communities-make-the-most-of-new-technology-and-opportunities"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793264400000,
+            "date": "2026-10-29",
+            "title": "How we detect frontier model misalignment",
+            "summary_kr": "AI 모델의 성능이 향상됨에 따라 비정상적 행동을 실시간으로 감지하고 개입하기 위해 모니터링 시스템을 대폭 강화했으며, 이는 다층 구조를 통해 모델의 위험한 행동을 사전에 차단하는 핵심 방어 전략입니다.",
+            "summary_en": "As AI models become more capable, the company has significantly expanded its multi-layered monitoring system to detect and intervene in misaligned behaviors, serving as a critical defense layer against potential risks.",
+            "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793257200000,
+            "date": "2026-10-29",
+            "title": "How Ropes & Gray is developing AI for transactional diligence",
+            "summary_kr": "법무법인 롭스 앤 그레이(Ropes & Gray)는 OpenAI와 협력하여 대규모 문서 검토 및 실사 과정을 자동화하는 독자적인 AI 도구를 개발하여, 변호사들이 단순 반복 업무 대신 고도의 법적 판단에 집중할 수 있도록 업무 효율을 극대화하고 있습니다.",
+            "summary_en": "Law firm Ropes & Gray is partnering with OpenAI to develop a proprietary AI tool that automates transactional due diligence, allowing attorneys to shift from manual document review to high-level legal judgment and faster client service.",
+            "link": "https://openai.com/index/ropes-gray-ai-diligence"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1793206800000,
+            "date": "2026-10-28",
+            "title": "Gemini 4 Carbon: our next frontier model",
+            "summary_kr": "구글은 사이버 보안과 장기적 에이전트 작업에 특화된 차세대 프론티어 모델 'Gemini 4 Carbon'을 공개하며 보안 성능과 복잡한 엔지니어링 문제 해결 능력을 대폭 강화했습니다.",
+            "summary_en": "Google has unveiled its next-generation frontier model, Gemini 4 Carbon, which delivers state-of-the-art capabilities in cybersecurity defense and sustained agentic workflows for complex engineering tasks.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793193300000,
+            "date": "2026-10-28",
+            "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+            "summary_kr": "OpenAI와 ServiceNow가 파트너십을 확대하여 엔터프라이즈 워크플로우 전반에 AI 모델과 에이전트를 통합하고, 애플리케이션 개발, 보안, 음성 제어 등 실무 효율성을 혁신합니다.",
+            "summary_en": "OpenAI and ServiceNow are expanding their partnership to integrate advanced AI models and agents into enterprise workflows, driving efficiency in application development, cybersecurity, and operational automation.",
+            "link": "https://openai.com/index/openai-servicenow-partnership-expansion"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1793181600000,
@@ -774,132 +900,6 @@
             "summary_kr": "제인 스트릿과 NVIDIA는 파이썬 기반의 GPU 프로그래밍 모델인 cuTile을 활용해 Mamba-2 모델의 연산을 최적화하고 텐서 코어 효율성을 극대화했습니다.",
             "summary_en": "Jane Street and NVIDIA optimized the Mamba-2 model by leveraging cuTile, a Python-based GPU programming model that enables high-performance kernel development and maximizes Tensor Core utilization.",
             "link": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1792419030000,
-            "date": "2026-10-19",
-            "title": "Securing the agentic insider - The Official Microsoft Blog",
-            "summary_kr": "기업 내 AI 에이전트의 자율성과 예측 불가능성이 새로운 보안 위협인 '에이전트 내부자' 문제를 야기함에 따라, 마이크로소프트는 실시간 감독과 제어를 수행하는 '가디언 에이전트' 기반의 Project Perception을 통해 이를 해결하고자 합니다.",
-            "summary_en": "As the autonomy and unpredictability of enterprise AI agents create risks from 'agentic insiders,' Microsoft is addressing these threats through Project Perception, which utilizes 'Guardian Agents' to provide real-time, continuous supervision and control.",
-            "link": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792281600000,
-            "date": "2026-10-18",
-            "title": "Investing in the public benefit",
-            "summary_kr": "앤스로픽은 기업 성장에 따라 지분 출연 규모가 확대되는 '앤스로픽 공익 펀드'를 설립하여 AI가 가져올 사회적 변화에 대응하고 공익적 가치를 실현하고자 합니다.",
-            "summary_en": "Anthropic has established the 'Anthropic Public Benefit Fund,' which scales its equity contributions alongside company growth to proactively address AI-driven societal impacts and advance the public good.",
-            "link": "https://www.anthropic.com/news/public-benefit-fund"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1792178004000,
-            "date": "2026-10-16",
-            "title": "How AI is Helping Formula One Teams Win | Signal magazine",
-            "summary_kr": "포뮬러 원 레이스 전략가들은 실시간 데이터와 AI 시뮬레이션을 활용해 타이어 선택과 피트스톱 타이밍 등 변수가 많은 경기 상황에서 승리를 위한 최적의 결정을 내립니다.",
-            "summary_en": "Formula 1 race strategists leverage real-time data and AI simulations to make critical decisions, such as tire selection and pit stop timing, to secure a competitive edge in highly unpredictable race conditions.",
-            "link": "https://news.microsoft.com/microsoft-signal/magazine/issue/06/the-winning-formula-formula-one-data-ai-microsoft-interview"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792177200000,
-            "date": "2026-10-16",
-            "title": "How Itaú is building generative AI for its entire customer base",
-            "summary_kr": "브라질 최대 은행 이타우(Itaú)는 생성형 AI 기반의 대화형 인터페이스 'ia.i'와 거버넌스 플랫폼 'IARA'를 도입해 고객에게 개인화된 금융 서비스를 제공하고 운영 효율성을 극대화하고 있습니다.",
-            "summary_en": "Itaú is leveraging its generative AI-powered conversational interface 'ia.i' and the 'IARA' governance platform to deliver hyper-personalized financial experiences at scale while optimizing operational efficiency.",
-            "link": "https://openai.com/index/itau-generative-ai"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "The AI expectations gap",
-            "summary_kr": "AI 산업 종사자들과 일반 대중은 현재의 AI 성능에 대해서는 의견을 같이하지만, 향후 기술 발전 속도와 업무 자동화 범위에 대해서는 산업 종사자들이 훨씬 더 낙관적이고 급진적인 전망을 보이고 있습니다.",
-            "summary_en": "While AI industry professionals and the general public agree on current AI capabilities, the former hold significantly more aggressive expectations regarding the pace of future advancements and the extent of job automation.",
-            "link": "https://www.anthropic.com/research/ai-expectations-gap"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "How employment is changing at Anthropic",
-            "summary_kr": "앤스로픽은 AI 에이전트가 인간보다 6배 더 많은 업무를 수행함에 따라 주니어 개발직 채용을 줄이고, 기술적 숙련도보다 인간의 판단력과 자율성을 중시하는 방향으로 채용 기준을 재편하고 있습니다.",
-            "summary_en": "As AI agents perform six times more work than humans at Anthropic, the company has shifted its hiring strategy to prioritize human autonomy and judgment over junior-level technical expertise.",
-            "link": "https://www.anthropic.com/research/employment-at-anthropic"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "Working at the frontier shapes expectations for the future",
-            "summary_kr": "앤스로픽은 AI 에이전트 도입으로 생산성이 비약적으로 향상된 자사의 경험이 AI 기술의 실질적 역량에 대한 이해 차이를 만들고, 이것이 일반 대중보다 더 급진적인 미래 노동 시장 전망으로 이어진다고 분석했습니다.",
-            "summary_en": "Anthropic reports that its internal experience with AI agents has led to significant productivity gains and fundamentally different expectations for the future of work compared to the general public, driven by a deeper understanding of current AI capabilities.",
-            "link": "https://www.anthropic.com/research/expectations-for-the-future"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "Benefit Street Partners answers questions faster with Codex",
-            "summary_kr": "베네핏 스트리트 파트너스는 AI 모델 코덱스(Codex)를 도입하여 복잡한 대출 가치 평가 및 신용 계약 분석 업무를 자동화함으로써, 분석 시간을 대폭 단축하고 투자 의사결정의 정교함을 높였습니다.",
-            "summary_en": "Benefit Street Partners has significantly accelerated loan valuation and credit agreement analysis by leveraging Codex to automate development tasks, enabling faster investment insights and more rigorous decision-making.",
-            "link": "https://openai.com/index/benefit-street-partners"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-            "summary_kr": "스택 오버플로우는 OpenAI의 모델과 ChatGPT 플러그인을 활용해 제품 개발 속도를 대폭 높이고, 'Stack Overflow for Agents'의 가입자를 3배 이상 증가시키며 효율적인 지식 플랫폼으로 도약하고 있습니다.",
-            "summary_en": "Stack Overflow is accelerating product development and scaling its 'Stack Overflow for Agents' platform by leveraging OpenAI models and a ChatGPT plugin, which drove a 3x increase in registrations.",
-            "link": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1792170000000,
-            "date": "2026-10-16",
-            "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
-            "summary_kr": "NVIDIA RTX Spark는 강력한 GB10 칩과 대용량 통합 메모리를 탑재하여 개발자가 로컬 환경에서 AI 모델의 코딩, 테스트, 배포를 단일 기기로 통합 수행할 수 있는 고성능 개발 플랫폼을 제공합니다.",
-            "summary_en": "NVIDIA RTX Spark provides a high-performance development platform with the GB10 chip and large unified memory, enabling developers to code, test, and deploy AI models entirely on a single local machine.",
-            "link": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "Designing more efficient quantum circuits with Claude",
-            "summary_kr": "앤스로픽의 AI 모델 클로드(Claude)가 양자 알고리즘 회로를 스스로 최적화하여 기존 대비 압도적인 효율성을 달성했으며, 이는 실용적인 양자 컴퓨터의 상용화를 앞당길 수 있는 획기적인 성과입니다.",
-            "summary_en": "Anthropic's Claude AI has demonstrated the ability to autonomously optimize quantum circuit designs, significantly reducing resource requirements and potentially accelerating the timeline for practical quantum computing.",
-            "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1792108800000,
-            "date": "2026-10-16",
-            "title": "Claude reveals ECDSA curve origins",
-            "summary_kr": "Anthropic의 AI 모델 Claude가 수십 년간 미스터리였던 NIST 타원 곡선 암호(ECDSA)의 시드값 생성 원리가 단순한 유닉스 타임스탬프 기반 난수 생성이었음을 밝혀냈습니다. 이는 암호 표준에 대한 보안 우려를 해소하고 설계상 백도어 가능성을 일축하는 결정적 근거가 되었습니다.",
-            "summary_en": "Anthropic's Claude AI has solved the decades-old mystery of NIST ECDSA curve origins, revealing they were generated using simple Unix timestamp-based pseudorandom number generation. This discovery effectively dispels long-standing concerns regarding potential backdoors and confirms the integrity of these widely used cryptographic standards.",
-            "link": "https://www.anthropic.com/research/ecdsa-curve-origins"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792090800000,
-            "date": "2026-10-15",
-            "title": "Bringing GPT-Rosalind to academic research labs",
-            "summary_kr": "OpenAI가 생명과학 특화 모델인 'GPT-Rosalind'를 학계 연구실에 무상으로 제공하는 'Rosalind Academic Plan'을 출시하여 과학적 발견 가속화를 지원합니다.",
-            "summary_en": "OpenAI has launched the 'Rosalind Academic Plan,' providing academic labs with free access to its specialized life sciences model, GPT-Rosalind, to accelerate scientific discovery.",
-            "link": "https://openai.com/index/introducing-the-rosalind-academic-plan"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792022400000,
-            "date": "2026-10-15",
-            "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-            "summary_kr": "설리번 앤 크롬웰은 OpenAI와 협력하여 자사의 법률 전문성과 최신 AI 추론 능력을 결합한 계약서 검토 도구 'Agreement Analyzer'를 개발해 업무 효율성을 높였습니다.",
-            "summary_en": "Sullivan & Cromwell has partnered with OpenAI to develop 'Agreement Analyzer,' an AI tool that integrates the firm's legal expertise with advanced reasoning capabilities to enhance complex contract review workflows.",
-            "link": "https://openai.com/index/sullivan-cromwell"
         }
     ]
 }

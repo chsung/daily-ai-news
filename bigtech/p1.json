@@ -1,6 +1,132 @@
 {
-    "last_update": "2026-11-24 02:38:52",
+    "last_update": "2026-11-25 00:12:09",
     "articles": [
+        {
+            "company": "Google",
+            "timestamp": 1795548600000,
+            "date": "2026-11-24",
+            "title": "We’re launching Humanity’s First Exam and a Kaggle hackathon to test LLM reliability.",
+            "summary_kr": "AI 모델의 일상적 질문에 대한 일관된 답변 능력을 평가하기 위해 새로운 벤치마크인 'Humanity’s First Exam(HFE)'이 출시되었으며, 이를 고도화하기 위한 캐글 해커톤이 진행됩니다.",
+            "summary_en": "The 'Humanity’s First Exam' (HFE) benchmark has been launched on Kaggle to evaluate the consistency of LLMs in answering everyday questions, accompanied by a community-driven hackathon to enhance the dataset.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795545845000,
+            "date": "2026-11-24",
+            "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+            "summary_kr": "NVIDIA Cosmos 3 Nano를 12GB VRAM 환경에서도 구동할 수 있도록, Hugging Face Diffusers의 스트리밍 어댑터를 활용해 모델 가중치를 시스템 RAM에 분산 저장하고 연산 시에만 GPU로 전송하는 최적화 기법을 소개합니다.",
+            "summary_en": "This guide demonstrates how to run NVIDIA Cosmos 3 Nano on 12GB VRAM GPUs by using a Hugging Face Diffusers streaming adapter to offload model weights to system RAM, dynamically transferring them to the GPU during inference.",
+            "link": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795539600000,
+            "date": "2026-11-24",
+            "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+            "summary_kr": "NVIDIA Megatron Core를 활용해 정형화된 시장 데이터를 효과적으로 전처리하고, 이를 Transformer 모델 학습에 적용하여 수익률 및 거래량을 예측하는 파이프라인을 구축할 수 있습니다.",
+            "summary_en": "NVIDIA Megatron Core provides a scalable framework to preprocess market data into model-ready tensors, enabling the training of Transformer models for multi-horizon return and trading volume forecasting.",
+            "link": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795539600000,
+            "date": "2026-11-24",
+            "title": "What’s New for Game Developers: AI Animation and RTX Tools",
+            "summary_kr": "엔비디아는 DLSS 5, 언리얼 엔진용 AI 애니메이션 모델 'Kimodo', 그리고 개선된 추론 SDK를 통해 게임 개발자들에게 고품질 그래픽과 창의적 제어 기능을 제공합니다.",
+            "summary_en": "NVIDIA is empowering game developers with advanced tools including DLSS 5, the new AI-driven 'Kimodo' animation framework for Unreal Engine, and updated inference SDKs to enhance graphical fidelity and creative workflow.",
+            "link": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1795536000000,
+            "date": "2026-11-24",
+            "title": "See what 5 builders are making with Gemini 4 Neon",
+            "summary_kr": "Gemini 4 Neon은 고도의 추론 능력과 효율성을 바탕으로 복잡한 소프트웨어 엔지니어링 및 3D 그래픽 작업을 가속화하며, 개발자들은 다양한 플랫폼을 통해 이를 즉시 활용할 수 있습니다.",
+            "summary_en": "Gemini 4 Neon leverages frontier-level intelligence to accelerate complex software engineering and 3D visualization tasks, now accessible to developers via Google's ecosystem.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders"
+        },
+        {
+            "company": "Google",
+            "timestamp": 1795528800000,
+            "date": "2026-11-24",
+            "title": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+            "summary_kr": "구글은 'WIF India × Google Flow 필마톤'을 통해 인도 독립 영화 제작자들에게 AI 도구를 제공하여 창의적인 스토리텔링의 문턱을 낮추고 차세대 인재를 발굴했습니다.",
+            "summary_en": "Google partnered with WIF India for the 'Filmathon' initiative, empowering independent filmmakers to create and showcase original short films using its AI-powered Google Flow studio.",
+            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow"
+        },
+        {
+            "company": "NVIDIA",
+            "timestamp": 1795528800000,
+            "date": "2026-11-24",
+            "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+            "summary_kr": "에버스톤 스튜디오는 'Where Winds Meet'의 예술적 분위기를 유지하면서, 엔비디아 DLSS 5를 통해 조명과 재질의 디테일을 극대화하여 몰입감 넘치는 무협 세계를 구현했습니다.",
+            "summary_en": "Everstone Studio has integrated NVIDIA DLSS 5 into 'Where Winds Meet' to enhance lighting and material fidelity while carefully balancing visual fidelity with the game's original artistic atmosphere.",
+            "link": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1795525200000,
+            "date": "2026-11-24",
+            "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+            "summary_kr": "GPT-6 모델이 전문 생물학 모델의 도움 없이 추론과 코드만으로 새로운 단백질 구조와 서열을 설계하는 범용 기초 모델로서의 능력을 입증했습니다.",
+            "summary_en": "GPT-6 models have demonstrated the capability to function as universal foundation models, designing novel protein structures and sequences through reasoning and code without relying on specialized biological tools.",
+            "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1795518000000,
+            "date": "2026-11-24",
+            "title": "Searching for distant planets with Astra",
+            "summary_kr": "아마추어 천문학자들이 AI 모델인 Codex와 Astra를 활용해 방대한 망원경 데이터를 분석함으로써, 기존에 발견되지 않았던 새로운 외계행성 후보들을 성공적으로 찾아냈습니다.",
+            "summary_en": "Amateur astronomers have successfully identified new exoplanet candidates by leveraging AI models, Codex and Astra, to analyze vast amounts of public telescope data.",
+            "link": "https://openai.com/index/searching-for-distant-planets-with-astra"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1795478400000,
+            "date": "2026-11-24",
+            "title": "How Intentful uses dots to make more time for growth",
+            "summary_kr": "마케팅 기업 Intentful의 CEO 마리나 페트로바는 AI 에이전트 '아리아(Aria)'를 활용해 시장 조사, 제안서 작성, 업무 관리 등 반복적인 비즈니스 업무를 자동화하며 성장을 위한 전략적 시간을 확보했습니다.",
+            "summary_en": "Marina Petrova, CEO of Intentful, leverages her AI agent 'Aria' to automate repetitive tasks like research, proposal drafting, and project management, effectively reclaiming time for strategic business growth.",
+            "link": "https://openai.com/business/customer-stories/intentful-dots"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1795478400000,
+            "date": "2026-11-24",
+            "title": "How iFood scales coding agents across 15,000 repositories",
+            "summary_kr": "iFood는 15,000개의 코드 저장소에 대한 관리 업무를 API 기반의 에이전트 플랫폼으로 표준화하여, 보안 및 유지보수 작업을 효율적으로 자동화하고 확장하는 데 성공했습니다.",
+            "summary_en": "iFood successfully scaled its engineering operations across 15,000 repositories by deploying an API-driven agentic platform that automates security and maintenance tasks within isolated, predictable sandboxes.",
+            "link": "https://openai.com/business/customer-stories/ifood"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1795478400000,
+            "date": "2026-11-24",
+            "title": "Clay helps sales teams win with Codex and ChatGPT",
+            "summary_kr": "Clay는 OpenAI의 다양한 GPT 모델과 플러그인을 활용하여 영업 팀이 데이터를 효율적으로 분석하고 맞춤형 시장 진출 전략을 수립할 수 있도록 지원합니다.",
+            "summary_en": "Clay leverages OpenAI’s diverse models and integrations to empower sales teams in analyzing data and executing effective go-to-market strategies.",
+            "link": "https://openai.com/business/customer-stories/clay-plugins-openai"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1795462621000,
+            "date": "2026-11-23",
+            "title": "How higher education leaders can turn institutional intelligence into impact | Microsoft Education Blog",
+            "summary_kr": "대학은 파편화된 AI 실험을 넘어, 조직 내재화된 고유 지식과 전략적 우선순위를 결합하여 실질적인 학문적 성과를 도출하는 체계적인 혁신 모델로 나아가야 합니다.",
+            "summary_en": "Higher education institutions must transition from fragmented AI experimentation to a strategic framework that leverages their unique institutional intelligence to drive measurable progress across academic and operational missions.",
+            "link": "https://www.microsoft.com/en-us/education/blog/2026/11/how-higher-education-leaders-can-turn-institutional-intelligence-into-impact"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1792022400000,
+            "date": "2026-10-15",
+            "title": "An update on independent evaluators",
+            "summary_kr": "앤스로픽은 프론티어 AI 모델의 투명성과 안전성을 높이기 위해 외부 평가 기관인 METR 등에 내부자와 유사한 수준의 심층 접근 권한을 부여하고, 독립적인 위험 평가 결과를 공개하기로 했습니다.",
+            "summary_en": "Anthropic is granting independent evaluators like METR 'employee-like' access to its systems to conduct rigorous risk assessments, aiming to enhance transparency and safety oversight for frontier AI models.",
+            "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+        },
         {
             "company": "OpenAI",
             "timestamp": 1795468800000,
@@ -774,132 +900,6 @@
             "summary_kr": "NVIDIA가 공개한 cuDLA 파이썬 바인딩을 통해 개발자는 C++ 없이도 Jetson AGX Orin 환경에서 DLA 하드웨어를 활용해 효율적인 AI 추론을 구현할 수 있게 되었습니다.",
             "summary_en": "NVIDIA's new cuDLA Python bindings enable developers to execute efficient AI inference on Jetson AGX Orin hardware directly through Python, eliminating the need for C++ runtime management.",
             "link": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1794589200000,
-            "date": "2026-11-13",
-            "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
-            "summary_kr": "본 기사는 7530억 파라미터 규모의 GLM-5.3 모델을 단일 GPU 용량 한계를 넘어, RDMA로 연결된 두 대의 NVIDIA DGX 스테이션에서 vLLM과 텐서 병렬 처리를 통해 구동하는 방법을 설명합니다.",
-            "summary_en": "This article demonstrates how to serve the 753B-parameter GLM-5.3 model by leveraging vLLM and tensor parallelism to split model weights across two RDMA-connected NVIDIA DGX Stations.",
-            "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1794589200000,
-            "date": "2026-11-13",
-            "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
-            "summary_kr": "엔비디아의 오픈소스 SOMA Retargeter는 인간의 움직임 데이터를 로봇의 고유한 신체 구조와 관절 범위에 맞게 정밀하게 변환하여 휴머노이드 학습을 가속화합니다.",
-            "summary_en": "NVIDIA's open-source SOMA Retargeter accelerates humanoid learning by precisely adapting human motion data to fit the unique proportions and joint ranges of diverse robot embodiments.",
-            "link": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1794528000000,
-            "date": "2026-11-13",
-            "title": "Building strong safety evaluations",
-            "summary_kr": "AI 모델의 안전성 평가는 모델의 위험성을 측정하는 핵심적인 지표이나, 그 설계가 어렵고 조작 가능성이 큽니다. 따라서 심리학 분야의 검증 체계를 참고하여 다학제적 전문가 팀을 구성하고 안전한 평가 환경을 구축하는 것이 필수적입니다.",
-            "summary_en": "AI safety evaluations are critical for measuring model risk but are prone to flaws and manipulation. To improve reliability, developers should adopt rigorous psychological research standards, build multidisciplinary teams, and implement secure, monitored testing environments.",
-            "link": "https://www.anthropic.com/research/building-strong-safety-evaluations"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1794499398000,
-            "date": "2026-11-12",
-            "title": "From AI ambition to business impact - The Official Microsoft Blog",
-            "summary_kr": "마이크로소프트는 단순한 AI 기술 시연을 넘어, 기업의 운영 모델을 재설계하고 실질적인 비즈니스 성과를 창출하는 '현장 배치 엔지니어링'을 통해 AI의 실질적인 가치를 증명하고 있습니다.",
-            "summary_en": "Microsoft is moving beyond AI demonstrations to drive tangible business impact by deploying engineering teams directly into organizations to redesign workflows and integrate AI into core operations.",
-            "link": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1794515400000,
-            "date": "2026-11-12",
-            "title": "5 new Google Flow Tools designed by visual artists",
-            "summary_kr": "구글은 비주얼 아티스트들과 협업하여 캐릭터 일관성 유지, 특수 효과 구현, 영상 품질 향상 등을 돕는 5가지 새로운 AI 창작 도구를 'Google Flow'에 공개했습니다.",
-            "summary_en": "Google has released five new AI-powered tools within its 'Google Flow' creative studio, designed by visual artists to enhance character consistency, visual effects, and production quality.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1794506400000,
-            "date": "2026-11-12",
-            "title": "Introducing Gemini 4 Hydrogen",
-            "summary_kr": "구글이 일상적인 코딩과 에이전트 워크플로우에 최적화된 고효율 모델 'Gemini 4 Hydrogen'을 출시하며, 이를 멀티 모델 워크플로우와 결합해 성능과 비용 효율을 극대화했습니다.",
-            "summary_en": "Google has introduced 'Gemini 4 Hydrogen,' a high-efficiency model optimized for everyday coding and agentic workflows, designed to maximize performance and cost-effectiveness when integrated into multi-model systems.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1794499202000,
-            "date": "2026-11-12",
-            "title": "How a new AI model could help crushed rock fight climate change",
-            "summary_kr": "테라닷과 마이크로소프트는 AI 모델 '테라노바'를 통해 농경지 내 암석 풍화 작용을 예측함으로써, 탄소 제거 비용을 절감하고 관련 기후 솔루션의 확장을 가속화하고 있습니다.",
-            "summary_en": "Terradot and Microsoft have developed an AI model called TerraNova to predict enhanced rock weathering in soil, significantly reducing the cost and complexity of scaling carbon removal solutions.",
-            "link": "https://news.microsoft.com/source/features/ai/how-a-new-ai-model-could-help-crushed-rock-fight-climate-change"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790726400000,
-            "date": "2026-09-30",
-            "title": "What work can robots do?",
-            "summary_kr": "현재 로봇은 물리적 작업의 74%를 수행할 수 있으나 높은 비용과 환경적 제약으로 인해 실질적인 자동화 경쟁력은 낮습니다. 하지만 기술 발전과 비용 감소가 지속됨에 따라 로봇 노출도가 높은 직군부터 점진적인 노동 시장의 변화가 예상됩니다.",
-            "summary_en": "While robots can perform 74% of physical tasks, high costs and environmental constraints limit their current commercial competitiveness. As capabilities improve and prices decline, jobs with higher robot exposure will experience gradual, long-term automation shifts.",
-            "link": "https://www.anthropic.com/research/what-work-can-robots-do"
-        },
-        {
-            "company": "Anthropic",
-            "timestamp": 1790640000000,
-            "date": "2026-09-29",
-            "title": "What do you want from AI?",
-            "summary_kr": "앤스로픽은 AI의 발전 속도와 위험성이 공존하는 전환기를 맞아, 정책 결정과 기술 개발 방향에 시민의 목소리를 반영하기 위한 대규모 사용자 의견 수렴 프로젝트를 시작했습니다.",
-            "summary_en": "Anthropic has launched a public consultation initiative to gather diverse user perspectives on AI, aiming to incorporate public input into its development roadmap and policymaking during this critical juncture of rapid AI advancement.",
-            "link": "https://www.anthropic.com/research/your-thoughts-on-ai"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1794441600000,
-            "date": "2026-11-12",
-            "title": "Gilbert + Tobin rethinks the business of law with AI",
-            "summary_kr": "길버트 앤 토빈(Gilbert + Tobin)은 AI를 단순히 비용 절감 수단이 아닌, 구성원들이 더 높은 가치의 인간적 업무와 전문적 판단에 집중할 수 있도록 돕는 핵심 전략 도구로 활용하고 있습니다.",
-            "summary_en": "Gilbert + Tobin is leveraging AI not for cost-cutting, but as a strategic tool to empower its professionals to focus on high-value human-centric work and expert judgment.",
-            "link": "https://openai.com/index/gilbert-tobin-sam-nickless"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1794433216000,
-            "date": "2026-11-11",
-            "title": "From custom infrastructure to hosted agents",
-            "summary_kr": "마이크로소프트와 노보 노디스크는 임상 데이터 분석용 AI 에이전트를 자체 구축 인프라에서 Microsoft Foundry 호스팅 환경으로 이전하여 운영 효율성과 보안을 최적화했습니다.",
-            "summary_en": "Microsoft and Novo Nordisk transitioned their clinical data analysis AI agent from custom infrastructure to Microsoft Foundry, achieving improved operational efficiency, session isolation, and platform governance.",
-            "link": "https://commandline.microsoft.com/from-custom-infrastructure-to-hosted-agents"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1794416400000,
-            "date": "2026-11-11",
-            "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
-            "summary_kr": "NVIDIA는 AI 클러스터 런타임(AICR)과 k8s-aibom을 결합하여 GPU 인프라의 구성 검증부터 실제 실행 중인 AI 워크로드의 추적성까지 아우르는 통합적인 가시성을 제공합니다.",
-            "summary_en": "NVIDIA integrates AI Cluster Runtime (AICR) and k8s-aibom to provide end-to-end visibility, combining validated GPU infrastructure configurations with real-time traceability of active AI workloads.",
-            "link": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1794412809000,
-            "date": "2026-11-11",
-            "title": "KT and Microsoft co-develop AIO-Net: AI-powered network reliability for Korea’s telco giant",
-            "summary_kr": "KT와 마이크로소프트가 협력하여 개발한 에이전트 AI 플랫폼 'AIO-Net'은 네트워크 운영의 복잡성을 해결하고 장애 진단 시간을 획기적으로 단축하여 통신 서비스의 신뢰성을 높였습니다.",
-            "summary_en": "KT and Microsoft have co-developed 'AIO-Net,' an agentic AI platform that streamlines network diagnostics and reduces troubleshooting time, significantly enhancing the reliability of KT's telecommunications services.",
-            "link": "https://news.microsoft.com/source/features/digital-transformation/kt-meisters-and-microsoft-engineers-build-ai-agents-to-spot-network-issues-before-customers-do"
-        },
-        {
-            "company": "Google",
-            "timestamp": 1794412800000,
-            "date": "2026-11-11",
-            "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-            "summary_kr": "구글은 그룹 활동을 위한 실시간 협업 도구인 'Tabletop'을 공개하며, 사용자가 AI를 활용해 일정 관리, 비용 정산 등 맞춤형 공유 공간을 손쉽게 구축할 수 있도록 지원합니다.",
-            "summary_en": "Google has introduced 'Tabletop,' an AI-powered collaboration tool that allows groups to create and manage shared spaces for planning, organizing, and coordinating activities in real-time.",
-            "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop"
         }
     ]
 }
