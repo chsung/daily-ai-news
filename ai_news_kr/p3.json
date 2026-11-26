@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-26 12:05:25",
+    "last_update": "2026-11-26 23:37:03",
     "articles": [
+        {
+            "title": "아마존, 자체 AI칩 트레이니엄 외부 판매 - 공감신문",
+            "summary_kr": "아마존이 자체 AI 반도체 '트레이니엄'을 2027년 후반부터 외부 기업에 판매하며 엔비디아·AMD와 정면 대결에 나섭니다. 이는 고가의 GPU 의존도를 낮추려는 클라우드 업계의 전략적 행보로, 향후 AI 반도체 시장이 범용 제품에서 맞춤형 칩 중심으로 재편될 전망입니다.",
+            "link": "https://www.gokorea.kr/news/articleView.html?idxno=883410",
+            "timestamp": 1793320194000,
+            "date": "2026-10-30"
+        },
+        {
+            "title": "구글, 양자컴퓨터 핵심 오류 40배 줄였다…20년 기술 난제 돌파구 - 이코노미사이언스",
+            "summary_kr": "구글 퀀텀AI가 양자 프로세서 '윌로우'를 통해 20년 난제였던 양자 상태 오류보정 기술을 구현하며 오류를 40배 줄이는 데 성공했습니다. 이번 돌파구 마련으로 신약 및 신소재 개발 등 첨단산업 분야에서 양자컴퓨터의 실질적인 활용 가능성이 한층 높아졌습니다.",
+            "link": "https://www.e-science.co.kr/news/articleView.html?idxno=138068",
+            "timestamp": 1793311200000,
+            "date": "2026-10-29"
+        },
+        {
+            "title": "구글, 싱가포르 의료체계에 프론티어 AI 도입…국가 단위 질병 예측·AI 진료 지원 본격화 - 인공지능신문",
+            "summary_kr": "구글이 싱가포르 정부 및 대학과 협력해 의료진의 임상 의사결정을 돕는 AI 공동 임상의와 질병 예측 시스템 등 국가 단위의 예방 중심 의료체계를 구축합니다.",
+            "link": "https://www.aitimes.kr/news/articleView.html?idxno=42493",
+            "timestamp": 1793274860000,
+            "date": "2026-10-29"
+        },
         {
             "title": "마이크로소프트, ‘프론티어 트랜스포메이션’ 제시…AI 도입 넘어 업무·조직 재설계 - 테크월드",
             "summary_kr": "마이크로소프트는 기업 내 AI 도입을 넘어 업무 방식과 조직 데이터를 재설계하는 '프론티어 트랜스포메이션' 전략을 발표하며 코파일럿, IQ, 에이전트 365를 통한 운영 혁신을 추진합니다.",
@@ -679,27 +700,6 @@
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40VlhTOHdqMWU4VXFkVDgtM2ozQmswVGtIQW5JSGFZZTFTSTN1blBmN3haYm9SZ0FHaUpteVFyeXlmOXJrY3JucTR3SW1uWXM?oc=5",
             "timestamp": 1790666519000,
             "date": "2026-09-29"
-        },
-        {
-            "title": "\"RSI 통제력 잃기 전에 규제해야\"...세계 최고 AI 연구자 20인 공동 경고 - AI타임스",
-            "summary_kr": "세계 최고 수준의 AI 연구자 20인이 공동 성명을 통해, 강력한 AI 시스템(RSI)이 통제력을 상실하기 전 조속한 법적·제도적 규제 마련이 필요하다고 강조했습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qcndFcXNuck1oUUVxUVhSek83eE45V0xVckRELV81WFRxR0lPY0oyYU5XWEpRUmF2enlNSy13N0ZfTWVHVUh6Q0cyS1BBYmNmWGctTE5HR2FJeDhXZWhVTjdoRzllR0YtVmc?oc=5",
-            "timestamp": 1790651611000,
-            "date": "2026-09-29"
-        },
-        {
-            "title": "트럼프, 29일 빅테크 CEO들과 AI 회동…저커버그·아모데이 등 참석 - 뉴스1",
-            "summary_kr": "도널드 트럼프 당선인이 메타의 마크 저커버그, 앤스로픽의 다리오 아모데이 등 주요 빅테크 CEO들과 AI 관련 정책 논의를 위한 회동을 갖습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aWmpwb3h4NUZiRld3NlFIZTFRR1M5Y2VOeWRZMU9yajlWVUVCWnRZUGNUOVFaVk0wQjN4d2djRlBRYmdVd0xUR2E4YXFEbUxZUEw4bkZrLTVLZG5JUVHSAV5BVV95cUxNWlpqcG94eDVGYkZXdzZRSGUxUUdTOWNlTnlkWTFPcmo5VlVFQlp0WVBjVDlRWlZNMEIzeHdnY0ZQUWJnVXdMVEdhOGFxRG1MWVBMOG5Gay01S2RuSVFR?oc=5",
-            "timestamp": 1790621865000,
-            "date": "2026-09-28"
-        },
-        {
-            "title": "메타 에이전트 ‘뮤즈’ 확산세 무섭다…구독 해지·쇼핑·예약·결제까지 직접 수행 [AI 클로즈업] - 디지털데일리",
-            "summary_kr": "메타가 개발한 AI 에이전트 '뮤즈'가 구독 관리부터 쇼핑, 예약, 결제까지 사용자의 일상 업무를 직접 수행하며 서비스 영역을 빠르게 확장하고 있습니다.",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DclJVTXJoQ3QwMmFDQzU1QXAwREVxRGpsWklVN2tyS0QyMHZXa25tUTc3blBvNWZ3Yi1pUnNlUlF4V2IxUHBhX1ZqVXpKdnludno4cUpsbDFxc0g3ZWRtdzdQTXA?oc=5",
-            "timestamp": 1790629200000,
-            "date": "2026-09-28"
         }
     ]
 }

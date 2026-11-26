@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-26 12:07:11",
+    "last_update": "2026-11-26 23:37:57",
     "articles": [
+        {
+            "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release - SiliconANGLE",
+            "summary_en": "Internal disputes have emerged at OpenAI and Anthropic, where employees are warning that new, highly advanced AI models possess reasoning capabilities that are increasingly difficult to control and potentially hazardous. Critics argue that leadership is prioritizing rapid development and profit over essential safety protocols, despite growing external scrutiny and legal challenges.",
+            "link": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release",
+            "timestamp": 1795570860000,
+            "date": "2026-11-25"
+        },
+        {
+            "title": "OpenAI, Google and Anthropic Gain Edge as China's AI Race Slows - Coinpaper",
+            "summary_en": "Chinese AI firms like Zhipu AI and Moonshot are facing significant development delays due to strict U.S. export controls on advanced computing hardware. Simultaneously, Western leaders like OpenAI and Anthropic are tightening security against unauthorized model distillation, further widening the competitive gap between them and their Chinese rivals.",
+            "link": "https://coinpaper.com/39476/open-ai-google-and-anthropic-gain-breathing-room-as-chinese-ai-developers-face-delays",
+            "timestamp": 1795723823000,
+            "date": "2026-11-26"
+        },
+        {
+            "title": "Verifiable Social Reasoning for LLM Assistants - Google Research",
+            "summary_en": "Google Research has introduced a new evaluation framework using multi-agent social simulations to test how accurately LLMs interpret hidden motives within subjective, user-provided narratives. The study reveals that AI assistants often struggle with social reasoning because they lack firsthand context and are overly susceptible to biased or distorted accounts from users.",
+            "link": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+            "timestamp": 1795626939000,
+            "date": "2026-11-25"
+        },
         {
             "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters",
             "summary_en": "Stricter US semiconductor export controls and regulatory crackdowns on AI model distillation are severely threatening the progression and development of artificial intelligence technology in China.",
@@ -679,27 +700,6 @@
             "link": "https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05",
             "timestamp": 1793909263000,
             "date": "2026-11-05"
-        },
-        {
-            "title": "AWS launches agentic AI Kiro bots with memory and support for recurring development jobs - VentureBeat",
-            "summary_en": "AWS has launched 'Kiro bots,' persistent agentic tools for its development workspace designed to manage recurring tasks, coordinate multiple AI agents, and maintain long-term project context. By assigning specific responsibilities and memory to these bots, AWS aims to reduce human management overhead in complex, multi-stage engineering workflows.",
-            "link": "https://venturebeat.com/technology/aws-launches-agentic-ai-kiro-bots-with-memory-and-support-for-recurring-development-jobs",
-            "timestamp": 1793916816000,
-            "date": "2026-11-05"
-        },
-        {
-            "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News",
-            "summary_en": "OpenAI has introduced GPT-6 Cyber, a specialized model that achieved a 48.5% score on the ExploitGym benchmark and successfully identified nearly 1,000 Linux and Firefox vulnerabilities. The model demonstrates significantly improved safety guardrails, maintaining 99.93% adherence to operational boundaries even when tested without specific deployment safety prompts.",
-            "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-            "timestamp": 1793977080000,
-            "date": "2026-11-06"
-        },
-        {
-            "title": "Nvidia Opens Aerial Wireless Stack to Accelerate 6G Research - The Tech Buzz",
-            "summary_en": "Nvidia has open-sourced its Aerial wireless software stack to unify 6G research by integrating its Sionna simulation platform with GPU-accelerated AI training environments. By providing a shared development ecosystem, Nvidia aims to replace fragmented vendor silos with a standard toolkit that streamlines the transition from simulation to real-world network testing.",
-            "link": "https://www.techbuzz.ai/articles/nvidia-opens-aerial-wireless-stack-to-accelerate-6g-research",
-            "timestamp": 1793983250000,
-            "date": "2026-11-06"
         }
     ]
 }
