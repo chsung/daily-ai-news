@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-25 23:31:40",
+    "last_update": "2026-11-26 12:07:11",
     "articles": [
+        {
+            "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters",
+            "summary_en": "Stricter US semiconductor export controls and regulatory crackdowns on AI model distillation are severely threatening the progression and development of artificial intelligence technology in China.",
+            "link": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26",
+            "timestamp": 1795677540000,
+            "date": "2026-11-26"
+        },
+        {
+            "title": "AI company employees warn internal models are too powerful to safely release: report - National News Desk",
+            "summary_en": "Employees at OpenAI and Anthropic warn that internal AI models have become too powerful to safely control, prompting companies to implement new safety protocols that may significantly slow the pace of future releases.",
+            "link": "https://thenationaldesk.com/news/americas-news-now/ai-company-employees-warn-internal-models-are-too-powerful-to-safely-release-report-anthropic-openai-rrt",
+            "timestamp": 1795640282000,
+            "date": "2026-11-25"
+        },
         {
             "title": "California sues OpenAI over alleged unsafe AI development practices - Jurist.org",
             "summary_en": "California Attorney General Rob Bonta has sued OpenAI, alleging the company misled the public regarding safety protocols and created a public nuisance by failing to implement adequate safeguards for its AI models.",
@@ -686,20 +700,6 @@
             "link": "https://www.techbuzz.ai/articles/nvidia-opens-aerial-wireless-stack-to-accelerate-6g-research",
             "timestamp": 1793983250000,
             "date": "2026-11-06"
-        },
-        {
-            "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026 - METR",
-            "summary_en": "A 2026 METR evaluation reports that Anthropic’s model development pace has doubled, largely driven by AI-assisted R&D rather than compute scaling. However, the report’s transparency is hindered by Anthropic’s extensive redaction of evidence, which the company claims is necessary to prevent competitors from accelerating their own development.",
-            "link": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
-            "timestamp": 1793865600000,
-            "date": "2026-11-05"
-        },
-        {
-            "title": "Authorities tighten restrictions on data centres amid AI boom - Reuters",
-            "summary_en": "Regulatory authorities are intensifying restrictions on the construction and operation of data centers as the rapid expansion of AI infrastructure places unprecedented demands on local resources.",
-            "link": "https://www.reuters.com/legal/litigation/where-authorities-are-restricting-data-centres-amid-ai-boom-2026-11-05",
-            "timestamp": 1793890846000,
-            "date": "2026-11-05"
         }
     ]
 }
