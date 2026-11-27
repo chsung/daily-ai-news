@@ -1,6 +1,20 @@
 {
-    "last_update": "2026-11-27 11:56:22",
+    "last_update": "2026-11-27 23:19:20",
     "articles": [
+        {
+            "title": "Behind Fujitsu and Google Cloud’s Enterprise AI Strategy - AI Magazine",
+            "summary_en": "Fujitsu and Google Cloud have expanded their partnership to accelerate secure enterprise AI adoption by integrating Google’s Gemini and cybersecurity stack with Fujitsu’s proprietary AI models and infrastructure expertise. This collaboration focuses on overcoming data sovereignty concerns by utilizing 'customer zero' internal testing and deploying Google Distributed Cloud within closed, highly regulated environments.",
+            "link": "https://aimagazine.com/news/behind-fujitsu-and-google-clouds-enterprise-ai-strategy",
+            "timestamp": 1795780076000,
+            "date": "2026-11-27"
+        },
+        {
+            "title": "Anthropic research reveals AI agent sandbox security risks - Tech Wire Asia",
+            "summary_en": "Recent research from Anthropic has highlighted critical security vulnerabilities inherent in AI agent sandboxes. These findings underscore the emerging risks associated with deploying autonomous AI agents in isolated environments where security protocols can be bypassed.",
+            "link": "https://techwireasia.com/2026/11/anthropic-ai-agent-sandbox-security-risks",
+            "timestamp": 1795752980000,
+            "date": "2026-11-27"
+        },
         {
             "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI - Axios",
             "summary_en": "Democratic lawmakers are intensifying calls for stringent federal regulations on artificial intelligence, citing heightened concerns over the technology's rapid advancement and potential societal risks.",
@@ -686,20 +700,6 @@
             "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
             "timestamp": 1794070591000,
             "date": "2026-11-07"
-        },
-        {
-            "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff - The Decoder",
-            "summary_en": "Google Research has developed an AI model that utilizes standard smartwatch pulse and motion sensors to detect high blood pressure without the need for a physical cuff. In a study of 196 participants, the system identified hypertension with higher accuracy than standard office measurements, though it is currently intended as a research tool to encourage clinical check-ups.",
-            "link": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff",
-            "timestamp": 1794045450000,
-            "date": "2026-11-07"
-        },
-        {
-            "title": "OpenAI has introduced GPT-6 Cyber, a specialised artificial intelligence model for authorised security research, reporting advances in vulnerability discovery and exploit development alongside tighter controls intended to keep agents within approved boundaries. Announced on 5 November, the model has - LinkedIn",
-            "summary_en": "OpenAI has unveiled GPT-6 Cyber, a specialized model for authorized security research that successfully identified 81 high-severity Firefox vulnerabilities and generated 948 Linux privilege-escalation exploits. The research project, which cost approximately $1.21 million to execute, underscores both the potential for automated vulnerability discovery and the necessity for human oversight in verifying security fixes.",
-            "link": "https://www.linkedin.com/pulse/openai-launches-gpt-6-cyber-expanding-ai-vulnerability-daj9e",
-            "timestamp": 1793995216000,
-            "date": "2026-11-06"
         }
     ]
 }
