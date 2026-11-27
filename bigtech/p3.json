@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-11-25 23:50:51",
+    "last_update": "2026-11-27 00:08:02",
     "articles": [
+        {
+            "company": "OpenAI",
+            "timestamp": 1793610000000,
+            "date": "2026-11-02",
+            "title": "LifeVal",
+            "summary_kr": "OpenAI는 ChatGPT를 단순한 대화형 도구를 넘어 실생활 업무를 실제로 수행하는 '에이전트형 개인 비서'로 발전시키기 위해, 일상 과업 수행 능력을 평가하는 'LifeVal' 지표를 도입했습니다.",
+            "summary_en": "OpenAI has introduced 'LifeVal' to measure and improve model performance on practical daily tasks, aiming to evolve ChatGPT from a chatbot into a truly agentic personal assistant capable of executing real-world actions.",
+            "link": "https://openai.com/index/lifeval"
+        },
+        {
+            "company": "OpenAI",
+            "timestamp": 1793577600000,
+            "date": "2026-11-02",
+            "title": "Qodo builds context into AI code review with Codex",
+            "summary_kr": "Qodo는 OpenAI의 Codex와 결합하여 조직의 코드베이스 문맥과 표준을 AI 코딩 에이전트에 제공함으로써 복잡한 종속성을 파악하고 치명적인 버그를 사전에 방지합니다.",
+            "summary_en": "Qodo integrates organizational context and codebase standards into OpenAI's Codex, enabling AI agents to proactively identify dependencies and prevent critical bugs across complex repositories.",
+            "link": "https://openai.com/index/qodo-codex-plugin"
+        },
         {
             "company": "xAI",
             "timestamp": 1793577600000,
@@ -882,24 +900,6 @@
             "summary_kr": "OpenAI는 신약 개발의 복잡한 워크플로우를 자동화하는 'Orchestra Bio'를 인수하여, 자사의 생명과학 AI 플랫폼인 'Rosalind'와 결합함으로써 신약 개발 속도를 획기적으로 단축하고자 합니다.",
             "summary_en": "OpenAI has acquired drug development platform Orchestra Bio to integrate its technology with 'Rosalind,' aiming to leverage AI agents to accelerate the complex process of bringing new medicines to patients.",
             "link": "https://openai.com/index/openai-to-acquire-orchestra-bio"
-        },
-        {
-            "company": "xAI",
-            "timestamp": 1792454400000,
-            "date": "2026-10-20",
-            "title": "Using Grok Bot to detect and respond to incidents",
-            "summary_kr": "Grok Bot의 새로운 AI 기능인 IncidentWatch와 IncidentSweep은 실시간 티켓 급증을 감지하여 사고를 조기에 파악하고, 승인 기반의 배치 처리를 통해 대규모 티켓 응대 효율을 획기적으로 개선합니다.",
-            "summary_en": "Grok Bot's new AI features, IncidentWatch and IncidentSweep, enable early incident detection through ticket spike monitoring and drastically improve response efficiency via automated, approval-based batch ticket resolution.",
-            "link": "https://x.ai/news/incident-sweep"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1792411200000,
-            "date": "2026-10-19",
-            "title": "Advancing coding in low‑resource programming languages",
-            "summary_kr": "최신 AI 모델은 코볼과 포트란 등 데이터가 부족한 프로그래밍 언어의 코드 생성 및 마이그레이션 성능을 획기적으로 개선하며, 비용 효율성까지 동시에 확보했습니다.",
-            "summary_en": "The latest AI models demonstrate significant improvements in coding and migration capabilities for low-resource languages like COBOL and Fortran, while delivering higher accuracy at a lower cost.",
-            "link": "https://openai.com/index/low-resource-programming-languages"
         }
     ]
 }

@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-11-25 23:50:51",
+    "last_update": "2026-11-27 00:08:02",
     "articles": [
+        {
+            "company": "Anthropic",
+            "timestamp": 1791849600000,
+            "date": "2026-10-13",
+            "title": "Redesigning source control at Anthropic",
+            "summary_kr": "앤스로픽은 AI 에이전트의 폭발적인 코드 생성 속도를 기존 Git 기반 인프라가 감당하지 못하게 되자, 상시 온라인 환경에 최적화된 독자적인 버전 관리 시스템 'Scion'을 구축했습니다.",
+            "summary_en": "As AI-driven code generation outpaced traditional Git-based infrastructure, Anthropic developed 'Scion', a proprietary version control system optimized for the always-online nature of AI agents.",
+            "link": "https://www.anthropic.com/research/redesigning-source-control"
+        },
+        {
+            "company": "Anthropic",
+            "timestamp": 1791763200000,
+            "date": "2026-10-12",
+            "title": "Strengthening our defenses against distillation attacks",
+            "summary_kr": "앤스로픽은 무단 모델 복제(증류 공격)를 방어하기 위해 사고 과정 데이터 접근을 제한하는 새로운 기술을 도입했으며, 이를 통해 공격자의 데이터 수집 효율을 최대 99%까지 성공적으로 차단했습니다.",
+            "summary_en": "Anthropic has implemented advanced defensive measures to restrict access to model reasoning data, successfully reducing unauthorized distillation attacks by 90-99% to prevent the illicit replication of frontier AI capabilities.",
+            "link": "https://www.anthropic.com/news/distillation-defenses"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1795635000000,
@@ -882,24 +900,6 @@
             "summary_kr": "앤스로픽은 기업 내 AI 도입의 핵심인 기술 인력 부족 문제를 해결하기 위해 1억 달러를 투자하여 2027년까지 1만 명의 '프론티어 배포 엔지니어'를 양성할 계획입니다.",
             "summary_en": "Anthropic is investing $100 million to train 10,000 'Frontier Deployed Engineers' by 2027, aiming to bridge the critical AI talent gap within global enterprises.",
             "link": "https://www.anthropic.com/news/claude-frontier-academy"
-        },
-        {
-            "company": "NVIDIA",
-            "timestamp": 1794868200000,
-            "date": "2026-11-16",
-            "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
-            "summary_kr": "NVIDIA cuPotential은 모듈형 라이브러리와 C API를 통해 분자 동역학 시뮬레이션의 계산 병목 현상을 해결하고, OpenMM과 같은 기존 엔진에 원활하게 통합되어 고성능 가속을 제공합니다.",
-            "summary_en": "NVIDIA cuPotential addresses computational bottlenecks in molecular dynamics by providing modular primitives and a C API that integrate seamlessly into engines like OpenMM for high-performance acceleration.",
-            "link": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential"
-        },
-        {
-            "company": "Microsoft",
-            "timestamp": 1794848495000,
-            "date": "2026-11-16",
-            "title": "Helping AI coding agents work smarter, for less",
-            "summary_kr": "TokenEconomizer는 AI 코딩 에이전트의 이전 작업 데이터를 학습하여 불필요한 토큰 소비를 줄이는 오픈소스 플러그인으로, 에이전트 수정 없이도 비용을 최대 30.9% 절감합니다.",
-            "summary_en": "TokenEconomizer is an open-source plugin that leverages past repository sessions to optimize AI coding agent performance, reducing operational costs by up to 30.9% without modifying the underlying models.",
-            "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient"
         }
     ]
 }

@@ -1,6 +1,24 @@
 {
-    "last_update": "2026-11-25 23:50:51",
+    "last_update": "2026-11-27 00:08:02",
     "articles": [
+        {
+            "company": "NVIDIA",
+            "timestamp": 1794868200000,
+            "date": "2026-11-16",
+            "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+            "summary_kr": "NVIDIA cuPotential은 모듈형 라이브러리와 C API를 통해 분자 동역학 시뮬레이션의 계산 병목 현상을 해결하고, OpenMM과 같은 기존 엔진에 원활하게 통합되어 고성능 가속을 제공합니다.",
+            "summary_en": "NVIDIA cuPotential addresses computational bottlenecks in molecular dynamics by providing modular primitives and a C API that integrate seamlessly into engines like OpenMM for high-performance acceleration.",
+            "link": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential"
+        },
+        {
+            "company": "Microsoft",
+            "timestamp": 1794848495000,
+            "date": "2026-11-16",
+            "title": "Helping AI coding agents work smarter, for less",
+            "summary_kr": "TokenEconomizer는 AI 코딩 에이전트의 이전 작업 데이터를 학습하여 불필요한 토큰 소비를 줄이는 오픈소스 플러그인으로, 에이전트 수정 없이도 비용을 최대 30.9% 절감합니다.",
+            "summary_en": "TokenEconomizer is an open-source plugin that leverages past repository sessions to optimize AI coding agent performance, reducing operational costs by up to 30.9% without modifying the underlying models.",
+            "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient"
+        },
         {
             "company": "NVIDIA",
             "timestamp": 1794844800000,
@@ -882,24 +900,6 @@
             "summary_kr": "AI 데이터 센터의 급증하는 전력 수요에 대응하여, 전력망 과부하 시 유연하게 전력 소비를 줄이고 인프라 비용을 분담하는 '그리드 프로텍터스(Grid Protectors)' 프로그램을 도입합니다.",
             "summary_en": "The 'Grid Protectors Program' was launched to manage the rising electricity demand of AI data centers by implementing flexible power consumption and sharing infrastructure costs to ensure grid reliability for local communities.",
             "link": "https://openai.com/index/grid-protectors-program"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793610000000,
-            "date": "2026-11-02",
-            "title": "LifeVal",
-            "summary_kr": "OpenAI는 ChatGPT를 단순한 대화형 도구를 넘어 실생활 업무를 실제로 수행하는 '에이전트형 개인 비서'로 발전시키기 위해, 일상 과업 수행 능력을 평가하는 'LifeVal' 지표를 도입했습니다.",
-            "summary_en": "OpenAI has introduced 'LifeVal' to measure and improve model performance on practical daily tasks, aiming to evolve ChatGPT from a chatbot into a truly agentic personal assistant capable of executing real-world actions.",
-            "link": "https://openai.com/index/lifeval"
-        },
-        {
-            "company": "OpenAI",
-            "timestamp": 1793577600000,
-            "date": "2026-11-02",
-            "title": "Qodo builds context into AI code review with Codex",
-            "summary_kr": "Qodo는 OpenAI의 Codex와 결합하여 조직의 코드베이스 문맥과 표준을 AI 코딩 에이전트에 제공함으로써 복잡한 종속성을 파악하고 치명적인 버그를 사전에 방지합니다.",
-            "summary_en": "Qodo integrates organizational context and codebase standards into OpenAI's Codex, enabling AI agents to proactively identify dependencies and prevent critical bugs across complex repositories.",
-            "link": "https://openai.com/index/qodo-codex-plugin"
         }
     ]
 }
