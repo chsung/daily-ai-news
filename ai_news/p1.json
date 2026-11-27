@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-26 23:37:57",
+    "last_update": "2026-11-27 11:56:22",
     "articles": [
+        {
+            "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI - Axios",
+            "summary_en": "Democratic lawmakers are intensifying calls for stringent federal regulations on artificial intelligence, citing heightened concerns over the technology's rapid advancement and potential societal risks.",
+            "link": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+            "timestamp": 1795659635000,
+            "date": "2026-11-26"
+        },
+        {
+            "title": "OpenAI and Anthropic Design Proteins for Drug Development - 조선일보",
+            "summary_en": "OpenAI's GPT-6.2 and Anthropic's Claude are entering the bio-tech space by successfully designing proteins for drug development, though they still rely on specialized tools for structural accuracy and remain years away from clinical application.",
+            "link": "https://www.chosun.com/english/industry-en/2026/11/27/ZDPH2DNN5VHPXHAZNHDA2HJI5Y",
+            "timestamp": 1795734587000,
+            "date": "2026-11-26"
+        },
+        {
+            "title": "Google's Cogentic agent posts six math papers, led by a claimed proven L[1/3] bound for factoring integers - MLQ.ai",
+            "summary_en": "Google’s Cogentic AI agent has demonstrated advanced reasoning capabilities by authoring six mathematics papers, including a notable claim regarding a proof for integer factorization bounds.",
+            "link": "https://mlq.ai/news/googles-cogentic-agent-posts-six-math-papers-led-by-a-claimed-proven-l13-bound-for-factoring-integers/",
+            "timestamp": 1795623886000,
+            "date": "2026-11-25"
+        },
         {
             "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release - SiliconANGLE",
             "summary_en": "Internal disputes have emerged at OpenAI and Anthropic, where employees are warning that new, highly advanced AI models possess reasoning capabilities that are increasingly difficult to control and potentially hazardous. Critics argue that leadership is prioritizing rapid development and profit over essential safety protocols, despite growing external scrutiny and legal challenges.",
@@ -679,27 +700,6 @@
             "link": "https://www.linkedin.com/pulse/openai-launches-gpt-6-cyber-expanding-ai-vulnerability-daj9e",
             "timestamp": 1793995216000,
             "date": "2026-11-06"
-        },
-        {
-            "title": "METR finds Anthropic's model progress has roughly doubled, with AI driving about 80% of the speedup - MLQ.ai",
-            "summary_en": "Research by METR indicates that the rate of progress in Anthropic's AI models has roughly doubled, with artificial intelligence itself responsible for approximately 80% of this acceleration. This finding highlights the increasing role of AI-driven automation in its own development and capability improvement cycles.",
-            "link": "https://mlq.ai/news/metr-finds-anthropics-model-progress-has-roughly-doubled-with-ai-driving-about-80-of-the-speedup",
-            "timestamp": 1793984307000,
-            "date": "2026-11-06"
-        },
-        {
-            "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe - Reuters",
-            "summary_en": "Google has acquired a data center site in Wyoming from AI infrastructure provider Crusoe to bolster its expanding computational capacity.",
-            "link": "https://www.reuters.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-2026-11-06",
-            "timestamp": 1793995414000,
-            "date": "2026-11-06"
-        },
-        {
-            "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds - Reuters",
-            "summary_en": "A recent study indicates that Anthropic's AI models are accelerating their improvement rate by nearly two times through the strategic implementation of AI-assisted development techniques.",
-            "link": "https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05",
-            "timestamp": 1793909263000,
-            "date": "2026-11-05"
         }
     ]
 }
