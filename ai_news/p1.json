@@ -1,6 +1,27 @@
 {
-    "last_update": "2026-11-27 23:19:20",
+    "last_update": "2026-11-28 11:32:21",
     "articles": [
+        {
+            "title": "GIGABYTE’s Control Center Development Team Was Fired After AI Analysis Revealed The Software Was Causing Frame-Pacing Issues On NVIDIA GPUs - Wccftech",
+            "summary_en": "GIGABYTE reportedly dismissed its software team following AI-assisted reverse engineering that identified its Control Center as the cause of severe frame-pacing stutters on NVIDIA GPUs. The research revealed that the software's RGB lighting module interfered with display drivers, prompting the company to release an update and advise users to switch to static lighting to mitigate performance drops.",
+            "link": "https://wccftech.com/gigabyte-control-center-development-team-fired-ai-analysis-frame-pacing-nvidia-gpus",
+            "timestamp": 1795846922000,
+            "date": "2026-11-28"
+        },
+        {
+            "title": "Sber open-sources 708B GigaChat 4 MoE under MIT licence, and 6 more stories - Howl.Link",
+            "summary_en": "Sber has released its 708B parameter GigaChat 4 Mixture-of-Experts (MoE) model under an open-source MIT license.",
+            "link": "https://t.co/CjFvM7N9P1",
+            "timestamp": 1795839694000,
+            "date": "2026-11-28"
+        },
+        {
+            "title": "Anthropic CEO Amodei urges human oversight in AI development - TechGig",
+            "summary_en": "Anthropic CEO Dario Amodei is calling for rigorous human oversight in AI development to prevent risks associated with recursive self-improvement and unchecked model autonomy. He advocates for a measured approach to deployment that prioritizes democratic governance and human decision-making over pure efficiency.",
+            "link": "https://techgig.com/news/industry/anthropic-ceo-amodei-urges-human-oversight-in-ai-development/136235979",
+            "timestamp": 1795842225000,
+            "date": "2026-11-28"
+        },
         {
             "title": "Behind Fujitsu and Google Cloud’s Enterprise AI Strategy - AI Magazine",
             "summary_en": "Fujitsu and Google Cloud have expanded their partnership to accelerate secure enterprise AI adoption by integrating Google’s Gemini and cybersecurity stack with Fujitsu’s proprietary AI models and infrastructure expertise. This collaboration focuses on overcoming data sovereignty concerns by utilizing 'customer zero' internal testing and deploying Google Distributed Cloud within closed, highly regulated environments.",
@@ -679,27 +700,6 @@
             "link": "https://www.sanjoseinside.com/business/facing-backlash-meta-pulls-down-terms-of-service-that-pushed-new-ai-media-strategy",
             "timestamp": 1793989287000,
             "date": "2026-11-06"
-        },
-        {
-            "title": "Google Acquires Crusoe’s Wyoming Data Center Site - Crusoe",
-            "summary_en": "Google has acquired a pre-developed data center site in Wyoming from Crusoe, which includes a hybrid power strategy utilizing fuel cells and natural gas turbines. The deal marks a strategic move by Google to secure AI-ready infrastructure, leveraging Crusoe's work on governmental approvals and carbon capture integration.",
-            "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-            "timestamp": 1793991587000,
-            "date": "2026-11-06"
-        },
-        {
-            "title": "Democrats planning flood of AI bills when they take control of Congress - Reuters",
-            "summary_en": "Democratic lawmakers in the U.S. are reportedly preparing to introduce a significant volume of artificial intelligence-focused legislation upon gaining control of Congress.",
-            "link": "https://www.reuters.com/business/media-telecom/democrats-planning-flood-ai-bills-when-they-take-control-congress-2026-11-06",
-            "timestamp": 1794002202000,
-            "date": "2026-11-06"
-        },
-        {
-            "title": "Microsoft Researcher John Langford Exits as AI Frontiers Group Is Declared Finished - Business Examiner",
-            "summary_en": "Prominent researcher John Langford has departed Microsoft following the dissolution of his AI Frontiers group, citing a shift in Microsoft AI’s leadership toward pure scaling over fundamental research. Langford expressed frustration that his team's innovations in AI agents, such as Autogen, lacked a clear path to practical implementation within the current corporate structure.",
-            "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-            "timestamp": 1794070591000,
-            "date": "2026-11-07"
         }
     ]
 }
